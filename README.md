@@ -1,4 +1,4 @@
-[Twitter Trend Topics (Worldwide)](./README.md)
+[Twitter Trend Topics (Worldwide)](https://github.com/ErcinDedeoglu/Twitter-Trend-Topics)
 ==========
 
 **This repository tracks the top trending topics on Twitter from around the world. 
@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-21 08:06:49 UTC`
+📆 Last Updated: `2022-12-21 08:16:01 UTC`
 
 🔧 Updated hourly!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AGAスキンスリニック](http://twitter.com/search?q=%23AGA%e3%82%b9%e3%82%ad%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 2 | [#クソおせち](http://twitter.com/search?q=%23%e3%82%af%e3%82%bd%e3%81%8a%e3%81%9b%e3%81%a1) | N/A |
-| 3 | [#青汁王子](http://twitter.com/search?q=%23%e9%9d%92%e6%b1%81%e7%8e%8b%e5%ad%90) | N/A |
-| 4 | [#三崎優太](http://twitter.com/search?q=%23%e4%b8%89%e5%b4%8e%e5%84%aa%e5%a4%aa) | N/A |
-| 5 | [#VenmoMe](http://twitter.com/search?q=%23VenmoMe) | N/A |
-| 6 | [컬러 성격](http://twitter.com/search?q=%ec%bb%ac%eb%9f%ac+%ec%84%b1%ea%b2%a9) | N/A |
-| 7 | [가요대전](http://twitter.com/search?q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%a0%84) | N/A |
-| 8 | [高見知佳さん](http://twitter.com/search?q=%e9%ab%98%e8%a6%8b%e7%9f%a5%e4%bd%b3%e3%81%95%e3%82%93) | N/A |
-| 9 | [ElonMusk BilenKazanırda](http://twitter.com/search?q=ElonMusk+BilenKazan%c4%b1rda) | N/A |
-| 10 | [ジャンボリミッキー](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 11 | [EIAN NA ANG PARTNERSinCRIME](http://twitter.com/search?q=EIAN+NA+ANG+PARTNERSinCRIME) | N/A |
-| 12 | [Jokic](http://twitter.com/search?q=Jokic) | N/A |
-| 13 | [me당첨](http://twitter.com/search?q=me%eb%8b%b9%ec%b2%a8) | N/A |
-| 14 | [芸能界デビュー](http://twitter.com/search?q=%e8%8a%b8%e8%83%bd%e7%95%8c%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
-| 15 | [あいテレビ](http://twitter.com/search?q=%e3%81%82%e3%81%84%e3%83%86%e3%83%ac%e3%83%93) | N/A |
-| 16 | [Carlos Correa](http://twitter.com/search?q=Carlos+Correa) | N/A |
-| 17 | [ラプタス](http://twitter.com/search?q=%e3%83%a9%e3%83%97%e3%82%bf%e3%82%b9) | N/A |
-| 18 | [HYBE](http://twitter.com/search?q=HYBE) | N/A |
-| 19 | [咎人コラボ](http://twitter.com/search?q=%e5%92%8e%e4%ba%ba%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 20 | [イグナイター](http://twitter.com/search?q=%e3%82%a4%e3%82%b0%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc) | N/A |
-| 21 | [風の行方](http://twitter.com/search?q=%e9%a2%a8%e3%81%ae%e8%a1%8c%e6%96%b9) | N/A |
-| 22 | [死去・元アイドル歌手](http://twitter.com/search?q=%e6%ad%bb%e5%8e%bb%e3%83%bb%e5%85%83%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e6%ad%8c%e6%89%8b) | N/A |
-| 23 | [ポップン](http://twitter.com/search?q=%e3%83%9d%e3%83%83%e3%83%97%e3%83%b3) | N/A |
-| 24 | [Heyman](http://twitter.com/search?q=Heyman) | N/A |
-| 25 | [eat愛媛朝日テレビ](http://twitter.com/search?q=eat%e6%84%9b%e5%aa%9b%e6%9c%9d%e6%97%a5%e3%83%86%e3%83%ac%e3%83%93) | N/A |
-| 26 | [Steve Cohen](http://twitter.com/search?q=Steve+Cohen) | N/A |
-| 27 | [紅白審査員](http://twitter.com/search?q=%e7%b4%85%e7%99%bd%e5%af%a9%e6%9f%bb%e5%93%a1) | N/A |
-| 28 | [Caligaris](http://twitter.com/search?q=Caligaris) | N/A |
-| 29 | [色の見え方](http://twitter.com/search?q=%e8%89%b2%e3%81%ae%e8%a6%8b%e3%81%88%e6%96%b9) | N/A |
-| 30 | [あなたの年齢](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e5%b9%b4%e9%bd%a2) | N/A |
-| 31 | [シャマル](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%9e%e3%83%ab) | N/A |
-| 32 | [DELETER SA MMFF](http://twitter.com/search?q=DELETER+SA+MMFF) | N/A |
-| 33 | [Correa to the Mets](http://twitter.com/search?q=Correa+to+the+Mets) | N/A |
-| 34 | [Motorlu Taşıtlar Vergisi](http://twitter.com/search?q=Motorlu+Ta%c5%9f%c4%b1tlar+Vergisi) | N/A |
-| 35 | [愛知1部](http://twitter.com/search?q=%e6%84%9b%e7%9f%a51%e9%83%a8) | N/A |
-| 36 | [潤くん審査員](http://twitter.com/search?q=%e6%bd%a4%e3%81%8f%e3%82%93%e5%af%a9%e6%9f%bb%e5%93%a1) | N/A |
-| 37 | [ブルピン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%94%e3%83%b3) | N/A |
-| 38 | [平手友梨奈](http://twitter.com/search?q=%e5%b9%b3%e6%89%8b%e5%8f%8b%e6%a2%a8%e5%a5%88) | N/A |
-| 39 | [Spare SSRCase From Politics](http://twitter.com/search?q=Spare+SSRCase+From+Politics) | N/A |
-| 40 | [딥페이크](http://twitter.com/search?q=%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac) | N/A |
-| 41 | [実写MV](http://twitter.com/search?q=%e5%ae%9f%e5%86%99MV) | N/A |
-| 42 | [Taliban](http://twitter.com/search?q=Taliban) | N/A |
-| 43 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | N/A |
-| 44 | [決定的成功](http://twitter.com/search?q=%e6%b1%ba%e5%ae%9a%e7%9a%84%e6%88%90%e5%8a%9f) | N/A |
-| 45 | [Coty](http://twitter.com/search?q=Coty) | N/A |
-| 46 | [BTS RULES](http://twitter.com/search?q=BTS+RULES) | N/A |
-| 47 | [Happy Solstice](http://twitter.com/search?q=Happy+Solstice) | N/A |
-| 48 | [硫黄の臭い](http://twitter.com/search?q=%e7%a1%ab%e9%bb%84%e3%81%ae%e8%87%ad%e3%81%84) | N/A |
-| 49 | [#VakitMücadeleVaktidir](http://twitter.com/search?q=%23VakitM%c3%bccadeleVaktidir) | N/A |
-| 50 | [#TripleNTalk](http://twitter.com/search?q=%23TripleNTalk) | N/A |
+| 1 | [#AGAスキンスリニック](http://twitter.com/search?q=%23AGA%e3%82%b9%e3%82%ad%e3%83%b3%e3%82%b9%e3%83%aa%e3%83%8b%e3%83%83%e3%82%af) | #AGAスキンスリニック is a hashtag used on social media in Japan to promote the AGA Skin Slinky, a skincare product made by the Japanese cosmetics company, AGA. The product is designed to help improve skin elasticity and reduce wrinkles. In English, the hashtag translates to "AGA Skin Slinky". |
+| 2 | [#クソおせち](http://twitter.com/search?q=%23%e3%82%af%e3%82%bd%e3%81%8a%e3%81%9b%e3%81%a1) | #クソおせち is a Japanese hashtag that translates to "crappy New Year's feast". It is used to describe a New Year's feast that is made up of cheap or low-quality ingredients. |
+| 3 | [#青汁王子](http://twitter.com/search?q=%23%e9%9d%92%e6%b1%81%e7%8e%8b%e5%ad%90) | #青汁王子 is a Japanese hashtag that translates to "Green Juice Prince". It is used to refer to someone who is passionate about drinking green juice, usually for health and wellness reasons. |
+| 4 | [#三崎優太](http://twitter.com/search?q=%23%e4%b8%89%e5%b4%8e%e5%84%aa%e5%a4%aa) | #三崎優太 is the name of a Japanese singer and songwriter. In English, it translates to "Yuta Misaki". |
+| 5 | [컬러 성격](http://twitter.com/search?q=%ec%bb%ac%eb%9f%ac+%ec%84%b1%ea%b2%a9) | 컬러 성격 is a term used in psychology to describe a person's personality type based on their preference for certain colors. It is believed that people's personalities can be associated with the colors they prefer, and that these colors can reveal aspects of their character. In English, it is known as Color Personality. |
+| 6 | [#VenmoMe](http://twitter.com/search?q=%23VenmoMe) | #VenmoMe is a hashtag used on social media to request payment from someone via the Venmo app. Venmo is a mobile payment service that allows users to transfer money to one another. By using the hashtag #VenmoMe, someone is asking another person to send them money through the Venmo app. |
+| 7 | [가요대전](http://twitter.com/search?q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%a0%84) | 가요대전 is a South Korean music competition show that has been airing since 2006. It is similar to American Idol, where singers compete against each other in a series of rounds to be crowned the winner. The English translation of 가요대전 is "K-Pop Grand Prix". |
+| 8 | [高見知佳さん](http://twitter.com/search?q=%e9%ab%98%e8%a6%8b%e7%9f%a5%e4%bd%b3%e3%81%95%e3%82%93) | 高見知佳さん is a Japanese name. It is composed of two characters: 高 (taka) meaning “high” or “tall” and 見 (mi) meaning “to see” or “to observe”. The second character, 知 (chi) means “knowledge” or “wisdom” and 佳 (ka) means “good” or “beautiful”. In English, the name could be translated as "High-Seeing Wise One". |
+| 9 | [ElonMusk BilenKazanırda](http://twitter.com/search?q=ElonMusk+BilenKazan%c4%b1rda) | ElonMusk BilenKazanırda is a Turkish phrase that translates to "Whoever knows Elon Musk wins". It is a proverb that suggests that having knowledge of the entrepreneur and innovator Elon Musk can be beneficial. |
+| 10 | [ジャンボリミッキー](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc) | ジャンボリミッキー is a type of Japanese snack food made by the company Meiji. It is a combination of two popular snacks, chocolate-covered marshmallows and rice crackers. The name translates to "Jumbo Mickey" in English, referring to the Mickey Mouse-shaped marshmallows. |
+| 11 | [Carlos Correa](http://twitter.com/search?q=Carlos+Correa) | Carlos Correa is a professional baseball player from Puerto Rico who currently plays for the Houston Astros. He is a shortstop and was the first overall pick in the 2012 MLB Draft. The meaning of his name in English is "free man". |
+| 12 | [EIAN NA ANG PARTNERSinCRIME](http://twitter.com/search?q=EIAN+NA+ANG+PARTNERSinCRIME) | EIAN NA ANG PARTNERSinCRIME is a Tagalog phrase that translates to "We are partners in crime". It is used to express a strong bond between two people who are willing to work together and support each other in any situation. |
+| 13 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 14 | [me당첨](http://twitter.com/search?q=me%eb%8b%b9%ec%b2%a8) | Me당첨 is a Korean phrase that translates to "me winning" or "I won". It is typically used to express excitement or joy when someone has won something. |
+| 15 | [芸能界デビュー](http://twitter.com/search?q=%e8%8a%b8%e8%83%bd%e7%95%8c%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc) | 芸能界デビュー (Geinoukai Debut) is a Japanese phrase that means "debut in the entertainment industry". It is used to refer to someone's first appearance in the entertainment industry, such as an actor or singer. |
+| 16 | [あいテレビ](http://twitter.com/search?q=%e3%81%82%e3%81%84%e3%83%86%e3%83%ac%e3%83%93) | あいテレビ is a Japanese television network that broadcasts programs related to the entertainment industry. The name translates to "Love TV" in English. |
+| 17 | [ラプタス](http://twitter.com/search?q=%e3%83%a9%e3%83%97%e3%82%bf%e3%82%b9) | ラプタス is a character from Greek mythology. He was the son of Zeus and Europa, and was known for his strength and intelligence. In English, his name is often translated as "Raptor" or "Rapture". |
+| 18 | [HYBE](http://twitter.com/search?q=HYBE) | HYBE is the new name of Big Hit Entertainment, a South Korean entertainment company. The name HYBE is derived from the words “HYbridity” and “BEyond”, which represent the company’s mission to create content that transcends genres and boundaries. |
+| 19 | [Steve Cohen](http://twitter.com/search?q=Steve+Cohen) | Steve Cohen is an American hedge fund manager and investor. He is the founder and CEO of Point72 Asset Management, a family office managing over $20 billion in assets. He is also the founder of SAC Capital Advisors, a former hedge fund that managed over $14 billion in assets before it was shut down in 2013 due to insider trading charges. Cohen is one of the most successful investors in history, having earned billions of dollars through his investments. |
+| 20 | [咎人コラボ](http://twitter.com/search?q=%e5%92%8e%e4%ba%ba%e3%82%b3%e3%83%a9%e3%83%9c) | 咎人コラボ (Togabito Collaboration) is a Japanese term used to describe a collaboration between two or more people in which each person takes responsibility for their own mistakes. It is often used in business contexts, where two or more parties come together to solve a problem that was caused by one or more of them. In English, it can be translated as "collaborative accountability". |
+| 21 | [イグナイター](http://twitter.com/search?q=%e3%82%a4%e3%82%b0%e3%83%8a%e3%82%a4%e3%82%bf%e3%83%bc) | イグナイター is a Japanese word that means "igniter". It is used to refer to something or someone that ignites or sparks an idea, movement, or event. |
+| 22 | [死去・元アイドル歌手](http://twitter.com/search?q=%e6%ad%bb%e5%8e%bb%e3%83%bb%e5%85%83%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e6%ad%8c%e6%89%8b) | 死去・元アイドル歌手 is a Japanese phrase that translates to "deceased former idol singer". It is used to refer to a singer who was once an idol, but has since passed away. |
+| 23 | [ポップン](http://twitter.com/search?q=%e3%83%9d%e3%83%83%e3%83%97%e3%83%b3) | ポップン is a type of Japanese rhythm game, similar to Dance Dance Revolution. It is played on a special dance pad with four arrow buttons and a start button. The objective of the game is to press the arrows in time with the music and follow the on-screen instructions. The English translation of ポップン is "Pop'n". |
+| 24 | [Heyman](http://twitter.com/search?q=Heyman) | Heyman is a German term of endearment, similar to "dear" or "sweetheart" in English. It is used to express affection and can be used between friends, family members, and romantic partners. |
+| 25 | [eat愛媛朝日テレビ](http://twitter.com/search?q=eat%e6%84%9b%e5%aa%9b%e6%9c%9d%e6%97%a5%e3%83%86%e3%83%ac%e3%83%93) | "Eat愛媛朝日テレビ" is a Japanese television program that airs on the Ehime Asahi Broadcasting Corporation. The title of the show translates to "Eat Ehime Asahi TV". The program focuses on food and features various recipes, cooking tips, and interviews with chefs. |
+| 26 | [風の行方](http://twitter.com/search?q=%e9%a2%a8%e3%81%ae%e8%a1%8c%e6%96%b9) | 風の行方 is a Japanese phrase that literally translates to "the whereabouts of the wind". It is often used to refer to something that is unknown or uncertain. In English, it can be translated as "the fate of the wind" or "the direction of the wind". |
+| 27 | [紅白審査員](http://twitter.com/search?q=%e7%b4%85%e7%99%bd%e5%af%a9%e6%9f%bb%e5%93%a1) | 紅白審査員 (Kōhaku Shin-sakai) is a term used in Japan to refer to the judges of the annual Kōhaku Uta Gassen, a popular music show that has been broadcast on New Year's Eve since 1951. The term literally translates to "Red and White Judges" and refers to the two teams of judges who are responsible for selecting the songs that will be performed on the show. |
+| 28 | [色の見え方](http://twitter.com/search?q=%e8%89%b2%e3%81%ae%e8%a6%8b%e3%81%88%e6%96%b9) | 色の見え方 is a Japanese phrase that translates to "the way colors are seen". It is used to refer to the perception of color, such as how different people may perceive the same color differently. |
+| 29 | [Caligaris](http://twitter.com/search?q=Caligaris) | Caligaris is a Latin phrase meaning "of the boot." It is derived from the name of the Roman general Gaius Julius Caesar, who was known for wearing military boots. The phrase is often used to refer to someone who is tough and uncompromising. |
+| 30 | [あなたの年齢](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e5%b9%b4%e9%bd%a2) | あなたの年齢 is a phrase in Japanese that translates to "your age" in English. It is a way of asking someone how old they are. |
+| 31 | [Correa to the Mets](http://twitter.com/search?q=Correa+to+the+Mets) | "Correa to the Mets" is a phrase used to express excitement or anticipation about the possibility of the New York Mets signing shortstop Carlos Correa. It is a play on words, as "Correa" is both the player's name and a type of flower. |
+| 32 | [シャマル](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%9e%e3%83%ab) | シャマル is a Japanese word that means "to be in harmony". It is often used to describe a situation where two or more people are in agreement and working together in harmony. |
+| 33 | [DELETER SA MMFF](http://twitter.com/search?q=DELETER+SA+MMFF) | DELETER SA MMFF is an acronym for "Delete Software and Media Files from Memory Flash File". It is a command used to delete software and media files from a memory flash file. |
+| 34 | [Motorlu Taşıtlar Vergisi](http://twitter.com/search?q=Motorlu+Ta%c5%9f%c4%b1tlar+Vergisi) | Motorlu Taşıtlar Vergisi is a vehicle tax in Turkey. It is an annual tax that must be paid for vehicles registered in Turkey. The amount of the tax depends on the type of vehicle, its age, and its engine size. In English, it is known as the Motor Vehicle Tax. |
+| 35 | [愛知1部](http://twitter.com/search?q=%e6%84%9b%e7%9f%a51%e9%83%a8) | 愛知1部 is a Japanese term that refers to the first division of the Aichi Prefecture. It is the most populous and urbanized region of Aichi, and includes the cities of Nagoya, Toyota, Okazaki, and Inazawa. In English, it can be translated as "Aichi Division 1". |
+| 36 | [潤くん審査員](http://twitter.com/search?q=%e6%bd%a4%e3%81%8f%e3%82%93%e5%af%a9%e6%9f%bb%e5%93%a1) | 潤くん審査員 is a Japanese term that refers to a panel of judges on a TV show or other program. The term comes from the name of the popular Japanese comedian Jun Kunimura, who is often featured as a judge on various shows. In English, it can be translated as "Jun Kunimura Judge". |
+| 37 | [ブルピン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%94%e3%83%b3) | ブルピン (Burupin) is a Japanese slang term that means "lazy" or "slacker". It is often used to describe someone who is not putting in enough effort or taking things too lightly. |
+| 38 | [San Francisco Giants](http://twitter.com/search?q=San+Francisco+Giants) | San Francisco Giants is a Major League Baseball team based in San Francisco, California. The team was founded in 1883 and has won the World Series eight times. The Giants play their home games at Oracle Park, formerly known as AT&T Park. |
+| 39 | [平手友梨奈](http://twitter.com/search?q=%e5%b9%b3%e6%89%8b%e5%8f%8b%e6%a2%a8%e5%a5%88) | 平手友梨奈 is a Japanese phrase that translates to "equal friends with Rina". It is used to express the idea of having a friendship with someone that is based on mutual respect and understanding. |
+| 40 | [実写MV](http://twitter.com/search?q=%e5%ae%9f%e5%86%99MV) | 実写MV (jissha MV) is a Japanese term for a music video that is shot with live actors and actresses. It is the opposite of an animated music video, which uses animation instead of live actors. The English translation of 実写MV would be "live-action music video". |
+| 41 | [딥페이크](http://twitter.com/search?q=%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac) | 딥페이크 (Deepfake) is a technology that uses artificial intelligence to generate or alter video content in a way that makes it appear to be real. It is used to create fake videos of people doing or saying things they never did or said. In English, the term Deepfake means "deeply faked". |
+| 42 | [Spare SSRCase From Politics](http://twitter.com/search?q=Spare+SSRCase+From+Politics) | "Spare SSRCase From Politics" is a phrase used to urge people to keep the Social Security Retirement Case (SSRCase) out of political debates and discussions. It is a call for people to focus on the facts and not allow politics to influence their decisions about the SSRCase. |
+| 43 | [決定的成功](http://twitter.com/search?q=%e6%b1%ba%e5%ae%9a%e7%9a%84%e6%88%90%e5%8a%9f) | 決定的成功 is a Chinese phrase that translates to "decisive success" in English. It refers to achieving success through decisive action and determination. |
+| 44 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word “talib” which means “student” or “seeker of knowledge”. The Taliban are known for their strict interpretation of Islamic law and their harsh punishments for those who violate it. |
+| 45 | [BTS RULES](http://twitter.com/search?q=BTS+RULES) | BTS RULES is a slogan used by fans of the South Korean boy band BTS. It is a declaration of support for the group and a reminder to always stay loyal to them. The phrase can be translated to mean "BTS is the best" or "BTS is number one". |
+| 46 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and forests, and are known for their strength and ferocity. The term "grizzly" is often used to refer to any large brown bear, regardless of species. |
+| 47 | [#VakitMücadeleVaktidir](http://twitter.com/search?q=%23VakitM%c3%bccadeleVaktidir) | #VakitMücadeleVaktidir is a Turkish phrase that translates to "It is time to fight". It is often used as a rallying cry for people to stand up and fight for their rights. |
+| 48 | [#TripleNTalk](http://twitter.com/search?q=%23TripleNTalk) | #TripleNTalk is a hashtag used on Twitter to promote conversations about the Triple N (Nigerian, Nigerian-American, and Nigerian-British) community. It is used to connect people from the Triple N community and to share stories, experiences, and advice. |
+| 49 | [#WinterSolstice](http://twitter.com/search?q=%23WinterSolstice) | Winter Solstice is the shortest day of the year in the Northern Hemisphere, occurring around December 21st. It marks the beginning of winter and is a time for celebration and reflection. The word solstice comes from the Latin solstitium, meaning "sun standing still." It is a time when the sun appears to stand still in the sky before beginning its journey back towards summer. |
+| 50 | [#麻生先生](http://twitter.com/search?q=%23%e9%ba%bb%e7%94%9f%e5%85%88%e7%94%9f) | #麻生先生 is a hashtag used to refer to Japanese politician Taro Aso, who is the Deputy Prime Minister and Minister of Finance in Japan. In English, it translates to "Mr. Aso". |
 
 
 
