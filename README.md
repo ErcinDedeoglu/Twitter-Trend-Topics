@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-26 15:23:45 UTC`
+📆 Last Updated: `2022-12-26 15:31:14 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -34,42 +34,42 @@ This is top 50
 | 12 | [露伴先生](http://twitter.com/search?q=%e9%9c%b2%e4%bc%b4%e5%85%88%e7%94%9f) | N/A |
 | 13 | [Leicester](http://twitter.com/search?q=Leicester) | N/A |
 | 14 | [Kane](http://twitter.com/search?q=Kane) | N/A |
-| 15 | [Toney](http://twitter.com/search?q=Toney) | N/A |
-| 16 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 17 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | N/A |
-| 18 | [الفتح](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | الفتح is an Arabic word meaning "opening" or "unlocking". It can also refer to the conquest of a city or territory. |
-| 19 | [Conte](http://twitter.com/search?q=Conte) | N/A |
-| 20 | [Kwanzaa](http://twitter.com/search?q=Kwanzaa) | N/A |
+| 15 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | N/A |
+| 16 | [Toney](http://twitter.com/search?q=Toney) | N/A |
+| 17 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 18 | [Kwanzaa](http://twitter.com/search?q=Kwanzaa) | N/A |
+| 19 | [الفتح](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | الفتح is an Arabic word meaning "opening" or "unlocking". It can also refer to the conquest of a city or territory. |
+| 20 | [Conte](http://twitter.com/search?q=Conte) | N/A |
 | 21 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 22 | [バキンちゃん](http://twitter.com/search?q=%e3%83%90%e3%82%ad%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 23 | [PATHAAN MANIA IN 30 DAYS](http://twitter.com/search?q=PATHAAN+MANIA+IN+30+DAYS) | N/A |
-| 24 | [ジャンケン小僧](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b1%e3%83%b3%e5%b0%8f%e5%83%a7) | N/A |
-| 25 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 26 | [オーディンスフィア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b9%e3%83%95%e3%82%a3%e3%82%a2) | N/A |
-| 27 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 28 | [レンくん](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
-| 29 | [からあげ4](http://twitter.com/search?q=%e3%81%8b%e3%82%89%e3%81%82%e3%81%924) | N/A |
-| 30 | [露伴ちゃん](http://twitter.com/search?q=%e9%9c%b2%e4%bc%b4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 31 | [TENLEE PHANTOM PREVIEW](http://twitter.com/search?q=TENLEE+PHANTOM+PREVIEW) | N/A |
-| 32 | [リンちゃん](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 33 | [Bissouma](http://twitter.com/search?q=Bissouma) | N/A |
-| 34 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | N/A |
-| 35 | [第340回](http://twitter.com/search?q=%e7%ac%ac340%e5%9b%9e) | N/A |
-| 36 | [엑스클랜](http://twitter.com/search?q=%ec%97%91%ec%8a%a4%ed%81%b4%eb%9e%9c) | N/A |
-| 37 | [インパク](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%91%e3%82%af) | N/A |
-| 38 | [仕事納め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e7%b4%8d%e3%82%81) | 仕事納め (shigoto nome) is a Japanese phrase that literally translates to "finishing work". It is used to refer to the end of the work day or the completion of a task. In English, it could be translated as "work done" or "job finished". |
-| 39 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | N/A |
+| 22 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 23 | [バキンちゃん](http://twitter.com/search?q=%e3%83%90%e3%82%ad%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 24 | [PATHAAN MANIA IN 30 DAYS](http://twitter.com/search?q=PATHAAN+MANIA+IN+30+DAYS) | N/A |
+| 25 | [レンくん](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
+| 26 | [リンちゃん](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 28 | [ジャンケン小僧](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b1%e3%83%b3%e5%b0%8f%e5%83%a7) | N/A |
+| 29 | [第340回](http://twitter.com/search?q=%e7%ac%ac340%e5%9b%9e) | N/A |
+| 30 | [からあげ4](http://twitter.com/search?q=%e3%81%8b%e3%82%89%e3%81%82%e3%81%924) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
+| 32 | [オーディンスフィア](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b9%e3%83%95%e3%82%a3%e3%82%a2) | N/A |
+| 33 | [TENLEE PHANTOM PREVIEW](http://twitter.com/search?q=TENLEE+PHANTOM+PREVIEW) | N/A |
+| 34 | [Bissouma](http://twitter.com/search?q=Bissouma) | N/A |
+| 35 | [엑스클랜](http://twitter.com/search?q=%ec%97%91%ec%8a%a4%ed%81%b4%eb%9e%9c) | N/A |
+| 36 | [露伴ちゃん](http://twitter.com/search?q=%e9%9c%b2%e4%bc%b4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [仕事納め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e7%b4%8d%e3%82%81) | 仕事納め (shigoto nome) is a Japanese phrase that literally translates to "finishing work". It is used to refer to the end of the work day or the completion of a task. In English, it could be translated as "work done" or "job finished". |
+| 38 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | N/A |
+| 39 | [インパク](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%91%e3%82%af) | N/A |
 | 40 | [Tanganga](http://twitter.com/search?q=Tanganga) | N/A |
-| 41 | [Amazing Love](http://twitter.com/search?q=Amazing+Love) | N/A |
-| 42 | [村井さん](http://twitter.com/search?q=%e6%9d%91%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 43 | [ホットサマー・マーサ](http://twitter.com/search?q=%e3%83%9b%e3%83%83%e3%83%88%e3%82%b5%e3%83%9e%e3%83%bc%e3%83%bb%e3%83%9e%e3%83%bc%e3%82%b5) | N/A |
-| 44 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | N/A |
-| 45 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 46 | [KinKi](http://twitter.com/search?q=KinKi) | N/A |
-| 47 | [藪箱法師](http://twitter.com/search?q=%e8%97%aa%e7%ae%b1%e6%b3%95%e5%b8%ab) | N/A |
-| 48 | [Winter Seolace Youngeun Day](http://twitter.com/search?q=Winter+Seolace+Youngeun+Day) | N/A |
-| 49 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | N/A |
-| 50 | [リンレン](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%ac%e3%83%b3) | N/A |
+| 41 | [Chris Wood](http://twitter.com/search?q=Chris+Wood) | N/A |
+| 42 | [Amazing Love](http://twitter.com/search?q=Amazing+Love) | N/A |
+| 43 | [村井さん](http://twitter.com/search?q=%e6%9d%91%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 44 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | N/A |
+| 45 | [ホットサマー・マーサ](http://twitter.com/search?q=%e3%83%9b%e3%83%83%e3%83%88%e3%82%b5%e3%83%9e%e3%83%bc%e3%83%bb%e3%83%9e%e3%83%bc%e3%82%b5) | N/A |
+| 46 | [リンレン](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%ac%e3%83%b3) | N/A |
+| 47 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 48 | [KinKi](http://twitter.com/search?q=KinKi) | N/A |
+| 49 | [Winter Seolace Youngeun Day](http://twitter.com/search?q=Winter+Seolace+Youngeun+Day) | N/A |
+| 50 | [アイナちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 
 
 
