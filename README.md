@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-26 19:51:08 UTC`
+📆 Last Updated: `2022-12-26 20:01:32 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -23,53 +23,53 @@ This is top 50
 | 1 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 2 | [#الهلال_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
 | 3 | [#AVLLIV](http://twitter.com/search?q=%23AVLLIV) | N/A |
-| 4 | [#EkZamŞartOldu](http://twitter.com/search?q=%23EkZam%c5%9eartOldu) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | N/A |
-| 7 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 8 | [#MüjdelerOlsun](http://twitter.com/search?q=%23M%c3%bcjdelerOlsun) | N/A |
-| 9 | [#beanmachine](http://twitter.com/search?q=%23beanmachine) | N/A |
+| 4 | [#beanmachine](http://twitter.com/search?q=%23beanmachine) | N/A |
+| 5 | [#EkZamŞartOldu](http://twitter.com/search?q=%23EkZam%c5%9eartOldu) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | N/A |
+| 8 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 9 | [#MüjdelerOlsun](http://twitter.com/search?q=%23M%c3%bcjdelerOlsun) | N/A |
 | 10 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | N/A |
 | 11 | [Trent](http://twitter.com/search?q=Trent) | N/A |
 | 12 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
 | 13 | [ابو بكر](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1) | ابو بكر (Abu Bakr) is the name of the first Caliph of Islam, and it means "Father of the Virgin" in English. |
-| 14 | [Boxing Day](http://twitter.com/search?q=Boxing+Day) | N/A |
-| 15 | [Hackett](http://twitter.com/search?q=Hackett) | N/A |
-| 16 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | N/A |
-| 17 | [Villa](http://twitter.com/search?q=Villa) | N/A |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | N/A |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | N/A |
+| 15 | [Boxing Day](http://twitter.com/search?q=Boxing+Day) | N/A |
+| 16 | [Hackett](http://twitter.com/search?q=Hackett) | N/A |
+| 17 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 18 | [Villa](http://twitter.com/search?q=Villa) | N/A |
 | 19 | [Newcastle](http://twitter.com/search?q=Newcastle) | N/A |
-| 20 | [Watkins](http://twitter.com/search?q=Watkins) | N/A |
-| 21 | [Kwanzaa](http://twitter.com/search?q=Kwanzaa) | N/A |
+| 20 | [Kwanzaa](http://twitter.com/search?q=Kwanzaa) | N/A |
+| 21 | [Watkins](http://twitter.com/search?q=Watkins) | N/A |
 | 22 | [Ben Doak](http://twitter.com/search?q=Ben+Doak) | N/A |
-| 23 | [Mings](http://twitter.com/search?q=Mings) | N/A |
-| 24 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 23 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 24 | [Mings](http://twitter.com/search?q=Mings) | N/A |
 | 25 | [Sean Payton](http://twitter.com/search?q=Sean+Payton) | N/A |
-| 26 | [Everton](http://twitter.com/search?q=Everton) | N/A |
-| 27 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 28 | [Zazon Mouse](http://twitter.com/search?q=Zazon+Mouse) | N/A |
-| 29 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 30 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 31 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 32 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 33 | [HastaMahpuslara Tahliye](http://twitter.com/search?q=HastaMahpuslara+Tahliye) | N/A |
+| 26 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 27 | [Everton](http://twitter.com/search?q=Everton) | N/A |
+| 28 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 29 | [Zazon Mouse](http://twitter.com/search?q=Zazon+Mouse) | N/A |
+| 30 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 31 | [HastaMahpuslara Tahliye](http://twitter.com/search?q=HastaMahpuslara+Tahliye) | N/A |
+| 32 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 33 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
 | 34 | [Russ](http://twitter.com/search?q=Russ) | N/A |
 | 35 | [バイチェティッチ](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%81%e3%82%a7%e3%83%86%e3%82%a3%e3%83%83%e3%83%81) | N/A |
 | 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 37 | [Oloni](http://twitter.com/search?q=Oloni) | N/A |
-| 38 | [Lampard](http://twitter.com/search?q=Lampard) | N/A |
+| 38 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 39 | [Broncos](http://twitter.com/search?q=Broncos) | N/A |
-| 40 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 41 | [Robbo](http://twitter.com/search?q=Robbo) | N/A |
-| 42 | [1 Trilyon](http://twitter.com/search?q=1+Trilyon) | N/A |
-| 43 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | N/A |
-| 44 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
-| 45 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | N/A |
-| 46 | [جحفلي](http://twitter.com/search?q=%d8%ac%d8%ad%d9%81%d9%84%d9%8a) | N/A |
-| 47 | [Olsen](http://twitter.com/search?q=Olsen) | N/A |
-| 48 | [Robertson](http://twitter.com/search?q=Robertson) | N/A |
-| 49 | [Cabirle Kabir](http://twitter.com/search?q=Cabirle+Kabir) | N/A |
-| 50 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 40 | [Lampard](http://twitter.com/search?q=Lampard) | N/A |
+| 41 | [1 Trilyon](http://twitter.com/search?q=1+Trilyon) | N/A |
+| 42 | [Robbo](http://twitter.com/search?q=Robbo) | N/A |
+| 43 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | N/A |
+| 44 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | N/A |
+| 45 | [Denver](http://twitter.com/search?q=Denver) | N/A |
+| 46 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 47 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
+| 48 | [West Ham](http://twitter.com/search?q=West+Ham) | N/A |
+| 49 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
+| 50 | [جحفلي](http://twitter.com/search?q=%d8%ac%d8%ad%d9%81%d9%84%d9%8a) | N/A |
 
 
 
