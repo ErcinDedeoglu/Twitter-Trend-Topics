@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-26 22:23:38 UTC`
+📆 Last Updated: `2022-12-26 22:31:09 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -35,40 +35,40 @@ This is top 50
 | 13 | [#الهلال_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
 | 14 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
 | 15 | [Moyes](http://twitter.com/search?q=Moyes) | N/A |
-| 16 | [Arteta](http://twitter.com/search?q=Arteta) | N/A |
-| 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 16 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 17 | [Arteta](http://twitter.com/search?q=Arteta) | N/A |
 | 18 | [Emirates](http://twitter.com/search?q=Emirates) | N/A |
 | 19 | [Ben White](http://twitter.com/search?q=Ben+White) | N/A |
-| 20 | [Fabianski](http://twitter.com/search?q=Fabianski) | N/A |
-| 21 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
-| 22 | [Felix](http://twitter.com/search?q=Felix) | N/A |
+| 20 | [Felix](http://twitter.com/search?q=Felix) | N/A |
+| 21 | [Fabianski](http://twitter.com/search?q=Fabianski) | N/A |
+| 22 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
 | 23 | [Gunners](http://twitter.com/search?q=Gunners) | N/A |
-| 24 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | N/A |
-| 25 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 26 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 24 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 25 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 26 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | N/A |
 | 27 | [Man U](http://twitter.com/search?q=Man+U) | N/A |
 | 28 | [Boxing Day](http://twitter.com/search?q=Boxing+Day) | N/A |
-| 29 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 30 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | N/A |
-| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 30 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 31 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | N/A |
 | 32 | [Saliba](http://twitter.com/search?q=Saliba) | N/A |
 | 33 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | N/A |
-| 34 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 36 | [Xhaka](http://twitter.com/search?q=Xhaka) | N/A |
-| 37 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
-| 38 | [Mudryk](http://twitter.com/search?q=Mudryk) | N/A |
-| 39 | [Kwanzaa](http://twitter.com/search?q=Kwanzaa) | N/A |
-| 40 | [Tierney](http://twitter.com/search?q=Tierney) | N/A |
-| 41 | [Alfonso](http://twitter.com/search?q=Alfonso) | N/A |
-| 42 | [Bowen](http://twitter.com/search?q=Bowen) | N/A |
-| 43 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 44 | [Hackett](http://twitter.com/search?q=Hackett) | N/A |
-| 45 | [Coufal](http://twitter.com/search?q=Coufal) | N/A |
-| 46 | [エンケティア](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b1%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
+| 34 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 35 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 36 | [Mudryk](http://twitter.com/search?q=Mudryk) | N/A |
+| 37 | [Xhaka](http://twitter.com/search?q=Xhaka) | N/A |
+| 38 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
+| 39 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 40 | [Alfonso](http://twitter.com/search?q=Alfonso) | N/A |
+| 41 | [Kwanzaa](http://twitter.com/search?q=Kwanzaa) | N/A |
+| 42 | [Tierney](http://twitter.com/search?q=Tierney) | N/A |
+| 43 | [Hackett](http://twitter.com/search?q=Hackett) | N/A |
+| 44 | [Coufal](http://twitter.com/search?q=Coufal) | N/A |
+| 45 | [Bowen](http://twitter.com/search?q=Bowen) | N/A |
+| 46 | [Gapko](http://twitter.com/search?q=Gapko) | N/A |
 | 47 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 48 | [1 Trilyon](http://twitter.com/search?q=1+Trilyon) | N/A |
-| 49 | [Soleil](http://twitter.com/search?q=Soleil) | N/A |
+| 48 | [エンケティア](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b1%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
+| 49 | [1 Trilyon](http://twitter.com/search?q=1+Trilyon) | N/A |
 | 50 | [Kehrer](http://twitter.com/search?q=Kehrer) | N/A |
 
 
