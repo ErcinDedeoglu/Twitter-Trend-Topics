@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-26 20:51:15 UTC`
+📆 Last Updated: `2022-12-26 21:01:29 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 2 | [#الهلال_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 3 | [#ARSWHU](http://twitter.com/search?q=%23ARSWHU) | N/A |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | N/A |
+| 1 | [#ARSWHU](http://twitter.com/search?q=%23ARSWHU) | N/A |
+| 2 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | N/A |
+| 4 | [#الهلال_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
 | 5 | [Nketiah](http://twitter.com/search?q=Nketiah) | N/A |
-| 6 | [#beanmachine](http://twitter.com/search?q=%23beanmachine) | N/A |
-| 7 | [#AVLLIV](http://twitter.com/search?q=%23AVLLIV) | N/A |
-| 8 | [#EkZamŞartOldu](http://twitter.com/search?q=%23EkZam%c5%9eartOldu) | N/A |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 11 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | N/A |
-| 12 | [West Ham](http://twitter.com/search?q=West+Ham) | N/A |
-| 13 | [Boxing Day](http://twitter.com/search?q=Boxing+Day) | N/A |
+| 6 | [West Ham](http://twitter.com/search?q=West+Ham) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [#beanmachine](http://twitter.com/search?q=%23beanmachine) | N/A |
+| 9 | [#AVLLIV](http://twitter.com/search?q=%23AVLLIV) | N/A |
+| 10 | [#EkZamŞartOldu](http://twitter.com/search?q=%23EkZam%c5%9eartOldu) | N/A |
+| 11 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | N/A |
+| 12 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 13 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | N/A |
 | 14 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 15 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | N/A |
-| 16 | [Saliba](http://twitter.com/search?q=Saliba) | N/A |
-| 17 | [Trent](http://twitter.com/search?q=Trent) | N/A |
-| 18 | [ابو بكر](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1) | ابو بكر (Abu Bakr) is the name of the first Caliph of Islam, and it means "Father of the Virgin" in English. |
-| 19 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 20 | [Hackett](http://twitter.com/search?q=Hackett) | N/A |
-| 21 | [Odegaard](http://twitter.com/search?q=Odegaard) | N/A |
-| 22 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | N/A |
-| 23 | [Kwanzaa](http://twitter.com/search?q=Kwanzaa) | N/A |
-| 24 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 25 | [Emirates](http://twitter.com/search?q=Emirates) | N/A |
-| 26 | [Villa](http://twitter.com/search?q=Villa) | N/A |
-| 27 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | N/A |
-| 28 | [Martinelli](http://twitter.com/search?q=Martinelli) | N/A |
-| 29 | [Bowen](http://twitter.com/search?q=Bowen) | N/A |
-| 30 | [Sean Payton](http://twitter.com/search?q=Sean+Payton) | N/A |
-| 31 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 32 | [Newcastle](http://twitter.com/search?q=Newcastle) | N/A |
-| 33 | [Watkins](http://twitter.com/search?q=Watkins) | N/A |
-| 34 | [Ben Doak](http://twitter.com/search?q=Ben+Doak) | N/A |
-| 35 | [Everton](http://twitter.com/search?q=Everton) | N/A |
-| 36 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 37 | [Mings](http://twitter.com/search?q=Mings) | N/A |
-| 38 | [Oloni](http://twitter.com/search?q=Oloni) | N/A |
-| 39 | [HastaMahpuslara Tahliye](http://twitter.com/search?q=HastaMahpuslara+Tahliye) | N/A |
-| 40 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 41 | [Russ](http://twitter.com/search?q=Russ) | N/A |
-| 42 | [Broncos](http://twitter.com/search?q=Broncos) | N/A |
-| 43 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 44 | [Tierney](http://twitter.com/search?q=Tierney) | N/A |
-| 45 | [バイチェティッチ](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%81%e3%82%a7%e3%83%86%e3%82%a3%e3%83%83%e3%83%81) | N/A |
-| 46 | [Steps](http://twitter.com/search?q=Steps) | N/A |
-| 47 | [Denver](http://twitter.com/search?q=Denver) | N/A |
-| 48 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
+| 15 | [Saliba](http://twitter.com/search?q=Saliba) | N/A |
+| 16 | [Boxing Day](http://twitter.com/search?q=Boxing+Day) | N/A |
+| 17 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | N/A |
+| 18 | [Odegaard](http://twitter.com/search?q=Odegaard) | N/A |
+| 19 | [Trent](http://twitter.com/search?q=Trent) | N/A |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | N/A |
+| 21 | [Hackett](http://twitter.com/search?q=Hackett) | N/A |
+| 22 | [Emirates](http://twitter.com/search?q=Emirates) | N/A |
+| 23 | [ابو بكر](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1) | ابو بكر (Abu Bakr) is the name of the first Caliph of Islam, and it means "Father of the Virgin" in English. |
+| 24 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 25 | [Bowen](http://twitter.com/search?q=Bowen) | N/A |
+| 26 | [Saka](http://twitter.com/search?q=Saka) | N/A |
+| 27 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 28 | [Kwanzaa](http://twitter.com/search?q=Kwanzaa) | N/A |
+| 29 | [Villa](http://twitter.com/search?q=Villa) | N/A |
+| 30 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 31 | [Sean Payton](http://twitter.com/search?q=Sean+Payton) | N/A |
+| 32 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 33 | [Tierney](http://twitter.com/search?q=Tierney) | N/A |
+| 34 | [Newcastle](http://twitter.com/search?q=Newcastle) | N/A |
+| 35 | [Ben Doak](http://twitter.com/search?q=Ben+Doak) | N/A |
+| 36 | [Watkins](http://twitter.com/search?q=Watkins) | N/A |
+| 37 | [Everton](http://twitter.com/search?q=Everton) | N/A |
+| 38 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 39 | [Cresswell](http://twitter.com/search?q=Cresswell) | N/A |
+| 40 | [Oloni](http://twitter.com/search?q=Oloni) | N/A |
+| 41 | [Mings](http://twitter.com/search?q=Mings) | N/A |
+| 42 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
+| 43 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 44 | [Russ](http://twitter.com/search?q=Russ) | N/A |
+| 45 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 46 | [HastaMahpuslara Tahliye](http://twitter.com/search?q=HastaMahpuslara+Tahliye) | N/A |
+| 47 | [Broncos](http://twitter.com/search?q=Broncos) | N/A |
+| 48 | [Steps](http://twitter.com/search?q=Steps) | N/A |
 | 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 50 | [1 Trilyon](http://twitter.com/search?q=1+Trilyon) | N/A |
+| 50 | [Denver](http://twitter.com/search?q=Denver) | N/A |
 
 
 
