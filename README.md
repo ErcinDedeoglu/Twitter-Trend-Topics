@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-27 17:31:17 UTC`
+📆 Last Updated: `2022-12-27 17:41:17 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#チェンソーマン](http://twitter.com/search?q=%23%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
-| 2 | [JJ Watt](http://twitter.com/search?q=JJ+Watt) | N/A |
-| 3 | [#ReisDiyaneteEkKontenjan](http://twitter.com/search?q=%23ReisDiyaneteEkKontenjan) | N/A |
-| 4 | [Porchat](http://twitter.com/search?q=Porchat) | N/A |
-| 5 | [전투기 소리](http://twitter.com/search?q=%ec%a0%84%ed%88%ac%ea%b8%b0+%ec%86%8c%eb%a6%ac) | N/A |
-| 6 | [#超うさぎ年キャンペーン](http://twitter.com/search?q=%23%e8%b6%85%e3%81%86%e3%81%95%e3%81%8e%e5%b9%b4%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3) | N/A |
-| 7 | [Nevşin Mengü](http://twitter.com/search?q=Nev%c5%9fin+Meng%c3%bc) | N/A |
-| 8 | [#FarewellCharlotteChumphon](http://twitter.com/search?q=%23FarewellCharlotteChumphon) | N/A |
-| 9 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
-| 10 | [#AndaAFreirChurrosElTopo](http://twitter.com/search?q=%23AndaAFreirChurrosElTopo) | N/A |
-| 11 | [Southwest](http://twitter.com/search?q=Southwest) | N/A |
-| 12 | [ルームID](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0ID) | N/A |
-| 13 | [ルームマッチの対戦相手](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81%e3%81%ae%e5%af%be%e6%88%a6%e7%9b%b8%e6%89%8b) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | N/A |
+| 1 | [#ReisDiyaneteEkKontenjan](http://twitter.com/search?q=%23ReisDiyaneteEkKontenjan) | N/A |
+| 2 | [#チェンソーマン](http://twitter.com/search?q=%23%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
+| 3 | [JJ Watt](http://twitter.com/search?q=JJ+Watt) | N/A |
+| 4 | [#FBvHAT](http://twitter.com/search?q=%23FBvHAT) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | N/A |
+| 6 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
+| 7 | [Porchat](http://twitter.com/search?q=Porchat) | N/A |
+| 8 | [#CheBou](http://twitter.com/search?q=%23CheBou) | N/A |
+| 9 | [Southwest](http://twitter.com/search?q=Southwest) | N/A |
+| 10 | [#超うさぎ年キャンペーン](http://twitter.com/search?q=%23%e8%b6%85%e3%81%86%e3%81%95%e3%81%8e%e5%b9%b4%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3) | N/A |
+| 11 | [전투기 소리](http://twitter.com/search?q=%ec%a0%84%ed%88%ac%ea%b8%b0+%ec%86%8c%eb%a6%ac) | N/A |
+| 12 | [Nevşin Mengü](http://twitter.com/search?q=Nev%c5%9fin+Meng%c3%bc) | N/A |
+| 13 | [ルームID](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0ID) | N/A |
+| 14 | [ルームマッチの対戦相手](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%a0%e3%83%9e%e3%83%83%e3%83%81%e3%81%ae%e5%af%be%e6%88%a6%e7%9b%b8%e6%89%8b) | N/A |
 | 15 | [フォーマット](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%83%e3%83%88) | N/A |
-| 16 | [비행기 소리](http://twitter.com/search?q=%eb%b9%84%ed%96%89%ea%b8%b0+%ec%86%8c%eb%a6%ac) | N/A |
-| 17 | [Çetin Kaya](http://twitter.com/search?q=%c3%87etin+Kaya) | N/A |
-| 18 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 19 | [仕事納め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e7%b4%8d%e3%82%81) | 仕事納め (shigoto nome) is a Japanese phrase that literally translates to "finishing work". It is used to refer to the end of the work day or the completion of a task. In English, it could be translated as "work done" or "job finished". |
-| 20 | [Doğal Gaz](http://twitter.com/search?q=Do%c4%9fal+Gaz) | N/A |
-| 21 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | N/A |
-| 22 | [ふくちゃん](http://twitter.com/search?q=%e3%81%b5%e3%81%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 23 | [Pulisic](http://twitter.com/search?q=Pulisic) | N/A |
+| 16 | [Rossi](http://twitter.com/search?q=Rossi) | N/A |
+| 17 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | N/A |
+| 18 | [Çetin Kaya](http://twitter.com/search?q=%c3%87etin+Kaya) | N/A |
+| 19 | [비행기 소리](http://twitter.com/search?q=%eb%b9%84%ed%96%89%ea%b8%b0+%ec%86%8c%eb%a6%ac) | N/A |
+| 20 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 21 | [Pulisic](http://twitter.com/search?q=Pulisic) | N/A |
+| 22 | [仕事納め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e7%b4%8d%e3%82%81) | 仕事納め (shigoto nome) is a Japanese phrase that literally translates to "finishing work". It is used to refer to the end of the work day or the completion of a task. In English, it could be translated as "work done" or "job finished". |
+| 23 | [Doğal Gaz](http://twitter.com/search?q=Do%c4%9fal+Gaz) | N/A |
 | 24 | [サスケくん](http://twitter.com/search?q=%e3%82%b5%e3%82%b9%e3%82%b1%e3%81%8f%e3%82%93) | N/A |
-| 25 | [第341回](http://twitter.com/search?q=%e7%ac%ac341%e5%9b%9e) | N/A |
+| 25 | [ふくちゃん](http://twitter.com/search?q=%e3%81%b5%e3%81%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 26 | [ODIs](http://twitter.com/search?q=ODIs) | N/A |
-| 27 | [Şarkıcı Lara](http://twitter.com/search?q=%c5%9eark%c4%b1c%c4%b1+Lara) | N/A |
-| 28 | [ルーブル](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%96%e3%83%ab) | N/A |
-| 29 | [Rossi](http://twitter.com/search?q=Rossi) | N/A |
-| 30 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
-| 31 | [Eastbay](http://twitter.com/search?q=Eastbay) | N/A |
-| 32 | [Nadine](http://twitter.com/search?q=Nadine) | N/A |
-| 33 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 34 | [Def Jam](http://twitter.com/search?q=Def+Jam) | N/A |
-| 35 | [Josh Rock](http://twitter.com/search?q=Josh+Rock) | N/A |
-| 36 | [확전 각오](http://twitter.com/search?q=%ed%99%95%ec%a0%84+%ea%b0%81%ec%98%a4) | N/A |
-| 37 | [Dhawan](http://twitter.com/search?q=Dhawan) | N/A |
-| 38 | [レゼちゃん](http://twitter.com/search?q=%e3%83%ac%e3%82%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 39 | [あと1秒](http://twitter.com/search?q=%e3%81%82%e3%81%a81%e7%a7%92) | N/A |
-| 40 | [龍友くん](http://twitter.com/search?q=%e9%be%8d%e5%8f%8b%e3%81%8f%e3%82%93) | N/A |
-| 41 | [ファイトソング](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%88%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
-| 42 | [Reece James](http://twitter.com/search?q=Reece+James) | N/A |
-| 43 | [easy revenge](http://twitter.com/search?q=easy+revenge) | N/A |
-| 44 | [Betinho](http://twitter.com/search?q=Betinho) | N/A |
-| 45 | [Sam Hartman](http://twitter.com/search?q=Sam+Hartman) | N/A |
-| 46 | [早川家ED](http://twitter.com/search?q=%e6%97%a9%e5%b7%9d%e5%ae%b6ED) | N/A |
-| 47 | [Zakaria](http://twitter.com/search?q=Zakaria) | N/A |
-| 48 | [Planejamento](http://twitter.com/search?q=Planejamento) | N/A |
-| 49 | [Sign Petition For Sushant](http://twitter.com/search?q=Sign+Petition+For+Sushant) | N/A |
-| 50 | [Pericles](http://twitter.com/search?q=Pericles) | N/A |
+| 27 | [Eastbay](http://twitter.com/search?q=Eastbay) | N/A |
+| 28 | [第341回](http://twitter.com/search?q=%e7%ac%ac341%e5%9b%9e) | N/A |
+| 29 | [Şarkıcı Lara](http://twitter.com/search?q=%c5%9eark%c4%b1c%c4%b1+Lara) | N/A |
+| 30 | [ルーブル](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%96%e3%83%ab) | N/A |
+| 31 | [Reece James](http://twitter.com/search?q=Reece+James) | N/A |
+| 32 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
+| 33 | [Nadine](http://twitter.com/search?q=Nadine) | N/A |
+| 34 | [Dhawan](http://twitter.com/search?q=Dhawan) | N/A |
+| 35 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 36 | [Volkan](http://twitter.com/search?q=Volkan) | N/A |
+| 37 | [Def Jam](http://twitter.com/search?q=Def+Jam) | N/A |
+| 38 | [확전 각오](http://twitter.com/search?q=%ed%99%95%ec%a0%84+%ea%b0%81%ec%98%a4) | N/A |
+| 39 | [Josh Rock](http://twitter.com/search?q=Josh+Rock) | N/A |
+| 40 | [Lexa](http://twitter.com/search?q=Lexa) | N/A |
+| 41 | [Ferdi](http://twitter.com/search?q=Ferdi) | N/A |
+| 42 | [レゼちゃん](http://twitter.com/search?q=%e3%83%ac%e3%82%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 43 | [あと1秒](http://twitter.com/search?q=%e3%81%82%e3%81%a81%e7%a7%92) | N/A |
+| 44 | [ファイトソング](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%88%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
+| 45 | [龍友くん](http://twitter.com/search?q=%e9%be%8d%e5%8f%8b%e3%81%8f%e3%82%93) | N/A |
+| 46 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 47 | [easy revenge](http://twitter.com/search?q=easy+revenge) | N/A |
+| 48 | [Zakaria](http://twitter.com/search?q=Zakaria) | N/A |
+| 49 | [Pericles](http://twitter.com/search?q=Pericles) | N/A |
+| 50 | [Betinho](http://twitter.com/search?q=Betinho) | N/A |
 
 
 
