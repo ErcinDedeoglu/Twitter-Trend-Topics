@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-28 03:24:40 UTC`
+📆 Last Updated: `2022-12-28 03:31:28 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -28,48 +28,48 @@ This is top 50
 | 6 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 7 | [#くら2023の抱負](http://twitter.com/search?q=%23%e3%81%8f%e3%82%892023%e3%81%ae%e6%8a%b1%e8%b2%a0) | N/A |
 | 8 | [アミダ獣神化](http://twitter.com/search?q=%e3%82%a2%e3%83%9f%e3%83%80%e7%8d%a3%e7%a5%9e%e5%8c%96) | N/A |
-| 9 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | N/A |
-| 10 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
-| 11 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
-| 12 | [Thiago](http://twitter.com/search?q=Thiago) | N/A |
-| 13 | [Elay](http://twitter.com/search?q=Elay) | N/A |
-| 14 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
-| 15 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 16 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
-| 17 | [Cam Talbot](http://twitter.com/search?q=Cam+Talbot) | N/A |
+| 9 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
+| 10 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | N/A |
+| 11 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
+| 12 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
+| 13 | [Alex Carey](http://twitter.com/search?q=Alex+Carey) | N/A |
+| 14 | [Elay](http://twitter.com/search?q=Elay) | N/A |
+| 15 | [Thiago](http://twitter.com/search?q=Thiago) | N/A |
+| 16 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 17 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
 | 18 | [Quentin Grimes](http://twitter.com/search?q=Quentin+Grimes) | N/A |
-| 19 | [セクシールーレット](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%83%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88) | N/A |
-| 20 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 21 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | N/A |
+| 19 | [Cam Talbot](http://twitter.com/search?q=Cam+Talbot) | N/A |
+| 20 | [セクシールーレット](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%83%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88) | N/A |
+| 21 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 22 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
 | 23 | [Teló](http://twitter.com/search?q=Tel%c3%b3) | N/A |
-| 24 | [Harmeet](http://twitter.com/search?q=Harmeet) | N/A |
-| 25 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 24 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | N/A |
 | 26 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | N/A |
-| 27 | [イナババ](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%83%90%e3%83%90) | N/A |
-| 28 | [Ganjarist Optimis](http://twitter.com/search?q=Ganjarist+Optimis) | N/A |
-| 29 | [Ed Reed](http://twitter.com/search?q=Ed+Reed) | N/A |
-| 30 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 31 | [Keila](http://twitter.com/search?q=Keila) | N/A |
-| 32 | [Juceir](http://twitter.com/search?q=Juceir) | N/A |
-| 33 | [Title 42](http://twitter.com/search?q=Title+42) | N/A |
-| 34 | [Banchero](http://twitter.com/search?q=Banchero) | N/A |
-| 35 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 36 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | N/A |
-| 37 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | N/A |
-| 38 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | N/A |
-| 39 | [メイショウゴルシ](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b7%e3%83%a7%e3%82%a6%e3%82%b4%e3%83%ab%e3%82%b7) | N/A |
-| 40 | [エセ富山県民](http://twitter.com/search?q=%e3%82%a8%e3%82%bb%e5%af%8c%e5%b1%b1%e7%9c%8c%e6%b0%91) | N/A |
-| 41 | [富山県の難読地名](http://twitter.com/search?q=%e5%af%8c%e5%b1%b1%e7%9c%8c%e3%81%ae%e9%9b%a3%e8%aa%ad%e5%9c%b0%e5%90%8d) | N/A |
-| 42 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
-| 43 | [Tagliafico](http://twitter.com/search?q=Tagliafico) | N/A |
+| 27 | [Harmeet](http://twitter.com/search?q=Harmeet) | N/A |
+| 28 | [イナババ](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%83%90%e3%83%90) | N/A |
+| 29 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 30 | [Ganjarist Optimis](http://twitter.com/search?q=Ganjarist+Optimis) | N/A |
+| 31 | [Ed Reed](http://twitter.com/search?q=Ed+Reed) | N/A |
+| 32 | [Keila](http://twitter.com/search?q=Keila) | N/A |
+| 33 | [平田引退](http://twitter.com/search?q=%e5%b9%b3%e7%94%b0%e5%bc%95%e9%80%80) | N/A |
+| 34 | [Juceir](http://twitter.com/search?q=Juceir) | N/A |
+| 35 | [Title 42](http://twitter.com/search?q=Title+42) | N/A |
+| 36 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 37 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | N/A |
+| 38 | [Atlético Madrid](http://twitter.com/search?q=Atl%c3%a9tico+Madrid) | N/A |
+| 39 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | N/A |
+| 40 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
+| 41 | [エセ富山県民](http://twitter.com/search?q=%e3%82%a8%e3%82%bb%e5%af%8c%e5%b1%b1%e7%9c%8c%e6%b0%91) | N/A |
+| 42 | [Banchero](http://twitter.com/search?q=Banchero) | N/A |
+| 43 | [富山県の難読地名](http://twitter.com/search?q=%e5%af%8c%e5%b1%b1%e7%9c%8c%e3%81%ae%e9%9b%a3%e8%aa%ad%e5%9c%b0%e5%90%8d) | N/A |
 | 44 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 45 | [平田引退](http://twitter.com/search?q=%e5%b9%b3%e7%94%b0%e5%bc%95%e9%80%80) | N/A |
-| 46 | [Makem](http://twitter.com/search?q=Makem) | N/A |
-| 47 | [Southwest](http://twitter.com/search?q=Southwest) | N/A |
-| 48 | [Juniô](http://twitter.com/search?q=Juni%c3%b4) | N/A |
-| 49 | [Eovaldi](http://twitter.com/search?q=Eovaldi) | N/A |
-| 50 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
+| 45 | [メイショウゴルシ](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b7%e3%83%a7%e3%82%a6%e3%82%b4%e3%83%ab%e3%82%b7) | N/A |
+| 46 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 47 | [Makem](http://twitter.com/search?q=Makem) | N/A |
+| 48 | [Tagliafico](http://twitter.com/search?q=Tagliafico) | N/A |
+| 49 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | N/A |
+| 50 | [Swayman](http://twitter.com/search?q=Swayman) | N/A |
 
 
 
