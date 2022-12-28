@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-28 08:33:17 UTC`
+📆 Last Updated: `2022-12-28 08:41:38 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -23,14 +23,14 @@ This is top 50
 | 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 2 | [仕事納め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e7%b4%8d%e3%82%81) | 仕事納め (shigoto nome) is a Japanese phrase that literally translates to "finishing work". It is used to refer to the end of the work day or the completion of a task. In English, it could be translated as "work done" or "job finished". |
 | 3 | [ドゥラエレーデ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%82%a8%e3%83%ac%e3%83%bc%e3%83%87) | N/A |
-| 4 | [Movin](http://twitter.com/search?q=Movin) | N/A |
-| 5 | [#すのちゅーぶ](http://twitter.com/search?q=%23%e3%81%99%e3%81%ae%e3%81%a1%e3%82%85%e3%83%bc%e3%81%b6) | #すのちゅーぶ is a hashtag used on Twitter in Japan. It is a play on words, combining the Japanese words for "snow" (yuki) and "chuu" (a sound effect for a kiss). The hashtag roughly translates to "Snow Kiss". |
-| 6 | [トップナイフ](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e3%83%8a%e3%82%a4%e3%83%95) | N/A |
-| 7 | [#なかやまきんに君10連ガチャ](http://twitter.com/search?q=%23%e3%81%aa%e3%81%8b%e3%82%84%e3%81%be%e3%81%8d%e3%82%93%e3%81%ab%e5%90%9b10%e9%80%a3%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 4 | [#すのちゅーぶ](http://twitter.com/search?q=%23%e3%81%99%e3%81%ae%e3%81%a1%e3%82%85%e3%83%bc%e3%81%b6) | #すのちゅーぶ is a hashtag used on Twitter in Japan. It is a play on words, combining the Japanese words for "snow" (yuki) and "chuu" (a sound effect for a kiss). The hashtag roughly translates to "Snow Kiss". |
+| 5 | [Movin](http://twitter.com/search?q=Movin) | N/A |
+| 6 | [#なかやまきんに君10連ガチャ](http://twitter.com/search?q=%23%e3%81%aa%e3%81%8b%e3%82%84%e3%81%be%e3%81%8d%e3%82%93%e3%81%ab%e5%90%9b10%e9%80%a3%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 7 | [トップナイフ](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e3%83%8a%e3%82%a4%e3%83%95) | N/A |
 | 8 | [#あなたの関西度と関東度](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e9%96%a2%e8%a5%bf%e5%ba%a6%e3%81%a8%e9%96%a2%e6%9d%b1%e5%ba%a6) | N/A |
-| 9 | [ホープフルS](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%97%e3%83%95%e3%83%abS) | N/A |
-| 10 | [#YaşDeğilHAKistiyoruz](http://twitter.com/search?q=%23Ya%c5%9fDe%c4%9filHAKistiyoruz) | N/A |
-| 11 | [#newsevery](http://twitter.com/search?q=%23newsevery) | N/A |
+| 9 | [#newsevery](http://twitter.com/search?q=%23newsevery) | N/A |
+| 10 | [ホープフル](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%97%e3%83%95%e3%83%ab) | ホープフル (Hopeful) is a Japanese word that means "full of hope" or "hopeful". It is often used to express a feeling of optimism and positivity. |
+| 11 | [#YaşDeğilHAKistiyoruz](http://twitter.com/search?q=%23Ya%c5%9fDe%c4%9filHAKistiyoruz) | N/A |
 | 12 | [東京大賞典](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e5%a4%a7%e8%b3%9e%e5%85%b8) | 東京大賞典 (Tokyo Grand Prix) is an annual award ceremony held in Tokyo, Japan. It recognizes excellence in the fields of film, television, music, theater, and other forms of entertainment. The awards are presented by the Tokyo Metropolitan Government and are widely considered to be one of the most prestigious awards in Japan. The English translation of 東京大賞典 is Tokyo Grand Prix. |
 | 13 | [粉チーズ](http://twitter.com/search?q=%e7%b2%89%e3%83%81%e3%83%bc%e3%82%ba) | N/A |
 | 14 | [Dance Practice](http://twitter.com/search?q=Dance+Practice) | N/A |
@@ -39,37 +39,37 @@ This is top 50
 | 17 | [アナウンサー爆笑](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%a6%e3%83%b3%e3%82%b5%e3%83%bc%e7%88%86%e7%ac%91) | N/A |
 | 18 | [腹筋崩壊太郎](http://twitter.com/search?q=%e8%85%b9%e7%ad%8b%e5%b4%a9%e5%a3%8a%e5%a4%aa%e9%83%8e) | N/A |
 | 19 | [HiMERU](http://twitter.com/search?q=HiMERU) | HiMERU is a Japanese phrase that means “to rise up” or “to ascend”. It is often used as a motivational phrase to encourage someone to strive for success and reach their goals. |
-| 20 | [Cry out](http://twitter.com/search?q=Cry+out) | N/A |
-| 21 | [キングズレイン](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%ba%e3%83%ac%e3%82%a4%e3%83%b3) | N/A |
+| 20 | [スペシャルメッセンジャー](http://twitter.com/search?q=%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%a1%e3%83%83%e3%82%bb%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 21 | [Cry out](http://twitter.com/search?q=Cry+out) | N/A |
 | 22 | [関西人と関東人のハーフ](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e4%ba%ba%e3%81%a8%e9%96%a2%e6%9d%b1%e4%ba%ba%e3%81%ae%e3%83%8f%e3%83%bc%e3%83%95) | N/A |
-| 23 | [関西度50](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a650) | N/A |
-| 24 | [単勝90倍](http://twitter.com/search?q=%e5%8d%98%e5%8b%9d90%e5%80%8d) | N/A |
-| 25 | [タルコフワイプ](http://twitter.com/search?q=%e3%82%bf%e3%83%ab%e3%82%b3%e3%83%95%e3%83%af%e3%82%a4%e3%83%97) | N/A |
-| 26 | [ドゥラメンテ産駒](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%86%e7%94%a3%e9%a7%92) | N/A |
-| 27 | [スペシャルメッセンジャー](http://twitter.com/search?q=%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%a1%e3%83%83%e3%82%bb%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 28 | [LAUT BERCERITA](http://twitter.com/search?q=LAUT+BERCERITA) | N/A |
-| 29 | [バニーボーイ](http://twitter.com/search?q=%e3%83%90%e3%83%8b%e3%83%bc%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
-| 30 | [ルミナスレイ](http://twitter.com/search?q=%e3%83%ab%e3%83%9f%e3%83%8a%e3%82%b9%e3%83%ac%e3%82%a4) | N/A |
-| 31 | [ムルザバエフ](http://twitter.com/search?q=%e3%83%a0%e3%83%ab%e3%82%b6%e3%83%90%e3%82%a8%e3%83%95) | N/A |
-| 32 | [FELIZ CUMPLEAÑOS QUACKITY](http://twitter.com/search?q=FELIZ+CUMPLEA%c3%91OS+QUACKITY) | N/A |
-| 33 | [じぶんコッテコテ](http://twitter.com/search?q=%e3%81%98%e3%81%b6%e3%82%93%e3%82%b3%e3%83%83%e3%83%86%e3%82%b3%e3%83%86) | N/A |
-| 34 | [関西度100](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a6100) | N/A |
-| 35 | [減量末期のマッチョ](http://twitter.com/search?q=%e6%b8%9b%e9%87%8f%e6%9c%ab%e6%9c%9f%e3%81%ae%e3%83%9e%e3%83%83%e3%83%81%e3%83%a7) | N/A |
-| 36 | [ファイナルS](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%abS) | N/A |
-| 37 | [WAYV IS BACK WITH PHANTOM](http://twitter.com/search?q=WAYV+IS+BACK+WITH+PHANTOM) | N/A |
-| 38 | [クリームパン](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%bc%e3%83%a0%e3%83%91%e3%83%b3) | N/A |
-| 39 | [紅白リハ](http://twitter.com/search?q=%e7%b4%85%e7%99%bd%e3%83%aa%e3%83%8f) | N/A |
-| 40 | [100KD DAYS OnSpotify](http://twitter.com/search?q=100KD+DAYS+OnSpotify) | N/A |
-| 41 | [超絶関東人](http://twitter.com/search?q=%e8%b6%85%e7%b5%b6%e9%96%a2%e6%9d%b1%e4%ba%ba) | N/A |
-| 42 | [WIN5](http://twitter.com/search?q=WIN5) | WIN5 is an acronym for Windows 5.0, which is the fifth major release of the Microsoft Windows operating system. It was released in 1990 and included a number of new features such as improved memory management, better graphics support, and a new user interface. |
-| 43 | [ミッキーカプチーノ](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%97%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
-| 44 | [ファントムシーフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%88%e3%83%a0%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
-| 45 | [ノリさん](http://twitter.com/search?q=%e3%83%8e%e3%83%aa%e3%81%95%e3%82%93) | N/A |
-| 46 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
-| 47 | [天魔10](http://twitter.com/search?q=%e5%a4%a9%e9%ad%9410) | N/A |
-| 48 | [ALTF4](http://twitter.com/search?q=ALTF4) | N/A |
-| 49 | [Santos Inocentes](http://twitter.com/search?q=Santos+Inocentes) | N/A |
-| 50 | [BB GET ANKIT AS WILDCARD](http://twitter.com/search?q=BB+GET+ANKIT+AS+WILDCARD) | N/A |
+| 23 | [WAYV IS BACK WITH PHANTOM](http://twitter.com/search?q=WAYV+IS+BACK+WITH+PHANTOM) | N/A |
+| 24 | [関西度50](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a650) | N/A |
+| 25 | [キングズレイン](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%ba%e3%83%ac%e3%82%a4%e3%83%b3) | N/A |
+| 26 | [LAUT BERCERITA](http://twitter.com/search?q=LAUT+BERCERITA) | N/A |
+| 27 | [単勝90倍](http://twitter.com/search?q=%e5%8d%98%e5%8b%9d90%e5%80%8d) | N/A |
+| 28 | [タルコフワイプ](http://twitter.com/search?q=%e3%82%bf%e3%83%ab%e3%82%b3%e3%83%95%e3%83%af%e3%82%a4%e3%83%97) | N/A |
+| 29 | [ドゥラメンテ産駒](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%86%e7%94%a3%e9%a7%92) | N/A |
+| 30 | [バニーボーイ](http://twitter.com/search?q=%e3%83%90%e3%83%8b%e3%83%bc%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
+| 31 | [ルミナスレイ](http://twitter.com/search?q=%e3%83%ab%e3%83%9f%e3%83%8a%e3%82%b9%e3%83%ac%e3%82%a4) | N/A |
+| 32 | [減量末期のマッチョ](http://twitter.com/search?q=%e6%b8%9b%e9%87%8f%e6%9c%ab%e6%9c%9f%e3%81%ae%e3%83%9e%e3%83%83%e3%83%81%e3%83%a7) | N/A |
+| 33 | [関西度100](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a6100) | N/A |
+| 34 | [じぶんコッテコテ](http://twitter.com/search?q=%e3%81%98%e3%81%b6%e3%82%93%e3%82%b3%e3%83%83%e3%83%86%e3%82%b3%e3%83%86) | N/A |
+| 35 | [ムルザバエフ](http://twitter.com/search?q=%e3%83%a0%e3%83%ab%e3%82%b6%e3%83%90%e3%82%a8%e3%83%95) | N/A |
+| 36 | [FELIZ CUMPLEAÑOS QUACKITY](http://twitter.com/search?q=FELIZ+CUMPLEA%c3%91OS+QUACKITY) | N/A |
+| 37 | [ファイナルS](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%abS) | N/A |
+| 38 | [100KD DAYS OnSpotify](http://twitter.com/search?q=100KD+DAYS+OnSpotify) | N/A |
+| 39 | [Broken Love](http://twitter.com/search?q=Broken+Love) | N/A |
+| 40 | [超絶関東人](http://twitter.com/search?q=%e8%b6%85%e7%b5%b6%e9%96%a2%e6%9d%b1%e4%ba%ba) | N/A |
+| 41 | [クリームパン](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%bc%e3%83%a0%e3%83%91%e3%83%b3) | N/A |
+| 42 | [紅白リハ](http://twitter.com/search?q=%e7%b4%85%e7%99%bd%e3%83%aa%e3%83%8f) | N/A |
+| 43 | [WIN5](http://twitter.com/search?q=WIN5) | WIN5 is an acronym for Windows 5.0, which is the fifth major release of the Microsoft Windows operating system. It was released in 1990 and included a number of new features such as improved memory management, better graphics support, and a new user interface. |
+| 44 | [Santos Inocentes](http://twitter.com/search?q=Santos+Inocentes) | N/A |
+| 45 | [BB GET ANKIT AS WILDCARD](http://twitter.com/search?q=BB+GET+ANKIT+AS+WILDCARD) | N/A |
+| 46 | [ミッキーカプチーノ](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%97%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 47 | [ケツの力](http://twitter.com/search?q=%e3%82%b1%e3%83%84%e3%81%ae%e5%8a%9b) | N/A |
+| 48 | [天魔10](http://twitter.com/search?q=%e5%a4%a9%e9%ad%9410) | N/A |
+| 49 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
+| 50 | [22bet](http://twitter.com/search?q=22bet) | N/A |
 
 
 
