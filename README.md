@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-28 04:42:11 UTC`
+📆 Last Updated: `2022-12-28 04:51:04 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -32,44 +32,44 @@ This is top 50
 | 10 | [Thibs](http://twitter.com/search?q=Thibs) | N/A |
 | 11 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
 | 12 | [アミダ獣神化](http://twitter.com/search?q=%e3%82%a2%e3%83%9f%e3%83%80%e7%8d%a3%e7%a5%9e%e5%8c%96) | N/A |
-| 13 | [Grimes](http://twitter.com/search?q=Grimes) | N/A |
+| 13 | [#CongressFoundationDay](http://twitter.com/search?q=%23CongressFoundationDay) | N/A |
 | 14 | [関西人と関東人のハーフ](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e4%ba%ba%e3%81%a8%e9%96%a2%e6%9d%b1%e4%ba%ba%e3%81%ae%e3%83%8f%e3%83%bc%e3%83%95) | N/A |
-| 15 | [関西度50](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a650) | N/A |
-| 16 | [#CongressFoundationDay](http://twitter.com/search?q=%23CongressFoundationDay) | N/A |
+| 15 | [Grimes](http://twitter.com/search?q=Grimes) | N/A |
+| 16 | [関西度50](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a650) | N/A |
 | 17 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
 | 18 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
-| 19 | [Bank Mandiri](http://twitter.com/search?q=Bank+Mandiri) | N/A |
+| 19 | [Chase Wolf](http://twitter.com/search?q=Chase+Wolf) | N/A |
 | 20 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 21 | [超絶関東人](http://twitter.com/search?q=%e8%b6%85%e7%b5%b6%e9%96%a2%e6%9d%b1%e4%ba%ba) | N/A |
-| 22 | [関東度100](http://twitter.com/search?q=%e9%96%a2%e6%9d%b1%e5%ba%a6100) | N/A |
-| 23 | [じぶんコッテコテ](http://twitter.com/search?q=%e3%81%98%e3%81%b6%e3%82%93%e3%82%b3%e3%83%83%e3%83%86%e3%82%b3%e3%83%86) | N/A |
-| 24 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 25 | [平田引退](http://twitter.com/search?q=%e5%b9%b3%e7%94%b0%e5%bc%95%e9%80%80) | N/A |
-| 26 | [Alex Carey](http://twitter.com/search?q=Alex+Carey) | N/A |
-| 27 | [セクシールーレット](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%83%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88) | N/A |
-| 28 | [Chase Wolf](http://twitter.com/search?q=Chase+Wolf) | N/A |
-| 29 | [クワガタ80匹](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%ac%e3%82%bf80%e5%8c%b9) | N/A |
-| 30 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 31 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 32 | [Elay](http://twitter.com/search?q=Elay) | N/A |
+| 21 | [Bank Mandiri](http://twitter.com/search?q=Bank+Mandiri) | N/A |
+| 22 | [超絶関東人](http://twitter.com/search?q=%e8%b6%85%e7%b5%b6%e9%96%a2%e6%9d%b1%e4%ba%ba) | N/A |
+| 23 | [関東度100](http://twitter.com/search?q=%e9%96%a2%e6%9d%b1%e5%ba%a6100) | N/A |
+| 24 | [じぶんコッテコテ](http://twitter.com/search?q=%e3%81%98%e3%81%b6%e3%82%93%e3%82%b3%e3%83%83%e3%83%86%e3%82%b3%e3%83%86) | N/A |
+| 25 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 26 | [平田引退](http://twitter.com/search?q=%e5%b9%b3%e7%94%b0%e5%bc%95%e9%80%80) | N/A |
+| 27 | [クワガタ80匹](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%ac%e3%82%bf80%e5%8c%b9) | N/A |
+| 28 | [セクシールーレット](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%83%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88) | N/A |
+| 29 | [Alex Carey](http://twitter.com/search?q=Alex+Carey) | N/A |
+| 30 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 31 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 32 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 33 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 34 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 35 | [森保監督](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e7%9b%a3%e7%9d%a3) | N/A |
+| 34 | [森保監督](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e7%9b%a3%e7%9d%a3) | N/A |
+| 35 | [Elay](http://twitter.com/search?q=Elay) | N/A |
 | 36 | [ホープフルS](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%97%e3%83%95%e3%83%abS) | N/A |
 | 37 | [60 POINTS](http://twitter.com/search?q=60+POINTS) | N/A |
 | 38 | [関西の血](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e3%81%ae%e8%a1%80) | N/A |
 | 39 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 40 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
-| 41 | [BDAY PRISCILA REIS](http://twitter.com/search?q=BDAY+PRISCILA+REIS) | N/A |
-| 42 | [ダージュオブケルベロス](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%b8%e3%83%a5%e3%82%aa%e3%83%96%e3%82%b1%e3%83%ab%e3%83%99%e3%83%ad%e3%82%b9) | N/A |
-| 43 | [平田良介](http://twitter.com/search?q=%e5%b9%b3%e7%94%b0%e8%89%af%e4%bb%8b) | N/A |
-| 44 | [The Braves](http://twitter.com/search?q=The+Braves) | N/A |
-| 45 | [関東の血](http://twitter.com/search?q=%e9%96%a2%e6%9d%b1%e3%81%ae%e8%a1%80) | N/A |
-| 46 | [21 Rebounds](http://twitter.com/search?q=21+Rebounds) | N/A |
-| 47 | [Nylander](http://twitter.com/search?q=Nylander) | N/A |
-| 48 | [Truth Shall Prevail InSSRCase](http://twitter.com/search?q=Truth+Shall+Prevail+InSSRCase) | N/A |
+| 40 | [平田良介](http://twitter.com/search?q=%e5%b9%b3%e7%94%b0%e8%89%af%e4%bb%8b) | N/A |
+| 41 | [Truth Shall Prevail InSSRCase](http://twitter.com/search?q=Truth+Shall+Prevail+InSSRCase) | N/A |
+| 42 | [BDAY PRISCILA REIS](http://twitter.com/search?q=BDAY+PRISCILA+REIS) | N/A |
+| 43 | [Gkay](http://twitter.com/search?q=Gkay) | N/A |
+| 44 | [ダージュオブケルベロス](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%b8%e3%83%a5%e3%82%aa%e3%83%96%e3%82%b1%e3%83%ab%e3%83%99%e3%83%ad%e3%82%b9) | N/A |
+| 45 | [The Braves](http://twitter.com/search?q=The+Braves) | N/A |
+| 46 | [関東の血](http://twitter.com/search?q=%e9%96%a2%e6%9d%b1%e3%81%ae%e8%a1%80) | N/A |
+| 47 | [21 Rebounds](http://twitter.com/search?q=21+Rebounds) | N/A |
+| 48 | [Nylander](http://twitter.com/search?q=Nylander) | N/A |
 | 49 | [McBride](http://twitter.com/search?q=McBride) | N/A |
-| 50 | [森川さん](http://twitter.com/search?q=%e6%a3%ae%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
+| 50 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 
 
 
