@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-28 14:23:11 UTC`
+📆 Last Updated: `2022-12-28 14:31:10 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -23,53 +23,53 @@ This is top 50
 | 1 | [#ゴールデンラヴィット](http://twitter.com/search?q=%23%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | N/A |
 | 2 | [#発表今年イチバン聴いた歌](http://twitter.com/search?q=%23%e7%99%ba%e8%a1%a8%e4%bb%8a%e5%b9%b4%e3%82%a4%e3%83%81%e3%83%90%e3%83%b3%e8%81%b4%e3%81%84%e3%81%9f%e6%ad%8c) | N/A |
 | 3 | [アニマルパラダイス](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9e%e3%83%ab%e3%83%91%e3%83%a9%e3%83%80%e3%82%a4%e3%82%b9) | N/A |
-| 4 | [聖飢魔II](http://twitter.com/search?q=%e8%81%96%e9%a3%a2%e9%ad%94II) | N/A |
-| 5 | [仕事納め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e7%b4%8d%e3%82%81) | 仕事納め (shigoto nome) is a Japanese phrase that literally translates to "finishing work". It is used to refer to the end of the work day or the completion of a task. In English, it could be translated as "work done" or "job finished". |
-| 6 | [#AlwaysHereForSana](http://twitter.com/search?q=%23AlwaysHereForSana) | N/A |
-| 7 | [#겨울에_태어난_원스들의_샛별이](http://twitter.com/search?q=%23%ea%b2%a8%ec%9a%b8%ec%97%90_%ed%83%9c%ec%96%b4%eb%82%9c_%ec%9b%90%ec%8a%a4%eb%93%a4%ec%9d%98_%ec%83%9b%eb%b3%84%ec%9d%b4) | N/A |
+| 4 | [#AlwaysHereForSana](http://twitter.com/search?q=%23AlwaysHereForSana) | N/A |
+| 5 | [#겨울에_태어난_원스들의_샛별이](http://twitter.com/search?q=%23%ea%b2%a8%ec%9a%b8%ec%97%90_%ed%83%9c%ec%96%b4%eb%82%9c_%ec%9b%90%ec%8a%a4%eb%93%a4%ec%9d%98_%ec%83%9b%eb%b3%84%ec%9d%b4) | N/A |
+| 6 | [仕事納め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e7%b4%8d%e3%82%81) | 仕事納め (shigoto nome) is a Japanese phrase that literally translates to "finishing work". It is used to refer to the end of the work day or the completion of a task. In English, it could be translated as "work done" or "job finished". |
+| 7 | [聖飢魔II](http://twitter.com/search?q=%e8%81%96%e9%a3%a2%e9%ad%94II) | N/A |
 | 8 | [Greta](http://twitter.com/search?q=Greta) | N/A |
-| 9 | [嶋佐OASIS](http://twitter.com/search?q=%e5%b6%8b%e4%bd%90OASIS) | N/A |
-| 10 | [#實實阿點用其實](http://twitter.com/search?q=%23%e5%af%a6%e5%af%a6%e9%98%bf%e9%bb%9e%e7%94%a8%e5%85%b6%e5%af%a6) | N/A |
+| 9 | [#實實阿點用其實](http://twitter.com/search?q=%23%e5%af%a6%e5%af%a6%e9%98%bf%e9%bb%9e%e7%94%a8%e5%85%b6%e5%af%a6) | N/A |
+| 10 | [嶋佐OASIS](http://twitter.com/search?q=%e5%b6%8b%e4%bd%90OASIS) | N/A |
 | 11 | [Inocentes](http://twitter.com/search?q=Inocentes) | N/A |
 | 12 | [가족이어도](http://twitter.com/search?q=%ea%b0%80%ec%a1%b1%ec%9d%b4%ec%96%b4%eb%8f%84) | N/A |
-| 13 | [キタサト](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%88) | N/A |
-| 14 | [蝋人形の館](http://twitter.com/search?q=%e8%9d%8b%e4%ba%ba%e5%bd%a2%e3%81%ae%e9%a4%a8) | N/A |
-| 15 | [浜崎あゆみ](http://twitter.com/search?q=%e6%b5%9c%e5%b4%8e%e3%81%82%e3%82%86%e3%81%bf) | N/A |
-| 16 | [빻은야짤](http://twitter.com/search?q=%eb%b9%bb%ec%9d%80%ec%95%bc%ec%a7%a4) | N/A |
-| 17 | [amazarashi](http://twitter.com/search?q=amazarashi) | N/A |
-| 18 | [Benedicto XVI](http://twitter.com/search?q=Benedicto+XVI) | N/A |
+| 13 | [빻은야짤](http://twitter.com/search?q=%eb%b9%bb%ec%9d%80%ec%95%bc%ec%a7%a4) | N/A |
+| 14 | [キタサト](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%88) | N/A |
+| 15 | [蝋人形の館](http://twitter.com/search?q=%e8%9d%8b%e4%ba%ba%e5%bd%a2%e3%81%ae%e9%a4%a8) | N/A |
+| 16 | [浜崎あゆみ](http://twitter.com/search?q=%e6%b5%9c%e5%b4%8e%e3%81%82%e3%82%86%e3%81%bf) | N/A |
+| 17 | [Benedicto XVI](http://twitter.com/search?q=Benedicto+XVI) | N/A |
+| 18 | [amazarashi](http://twitter.com/search?q=amazarashi) | N/A |
 | 19 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 20 | [YOSHIKI](http://twitter.com/search?q=YOSHIKI) | N/A |
-| 21 | [濵ちゃん](http://twitter.com/search?q=%e6%bf%b5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 22 | [YOSHIくん](http://twitter.com/search?q=YOSHI%e3%81%8f%e3%82%93) | N/A |
+| 20 | [濵ちゃん](http://twitter.com/search?q=%e6%bf%b5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 21 | [ミンキーモモ](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ad%e3%83%bc%e3%83%a2%e3%83%a2) | N/A |
+| 22 | [YOSHIKI](http://twitter.com/search?q=YOSHIKI) | N/A |
 | 23 | [곤충벌레파충류](http://twitter.com/search?q=%ea%b3%a4%ec%b6%a9%eb%b2%8c%eb%a0%88%ed%8c%8c%ec%b6%a9%eb%a5%98) | N/A |
-| 24 | [デーモン閣下](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%a2%e3%83%b3%e9%96%a3%e4%b8%8b) | N/A |
-| 25 | [혐오발언옹호](http://twitter.com/search?q=%ed%98%90%ec%98%a4%eb%b0%9c%ec%96%b8%ec%98%b9%ed%98%b8) | N/A |
-| 26 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | N/A |
-| 27 | [嶋佐さん](http://twitter.com/search?q=%e5%b6%8b%e4%bd%90%e3%81%95%e3%82%93) | N/A |
-| 28 | [ハルカミライ](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%82%ab%e3%83%9f%e3%83%a9%e3%82%a4) | N/A |
-| 29 | [オールナイトニッポン](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3) | N/A |
-| 30 | [De Sousa](http://twitter.com/search?q=De+Sousa) | N/A |
+| 24 | [혐오발언옹호](http://twitter.com/search?q=%ed%98%90%ec%98%a4%eb%b0%9c%ec%96%b8%ec%98%b9%ed%98%b8) | N/A |
+| 25 | [YOSHIくん](http://twitter.com/search?q=YOSHI%e3%81%8f%e3%82%93) | N/A |
+| 26 | [デーモン閣下](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%a2%e3%83%b3%e9%96%a3%e4%b8%8b) | N/A |
+| 27 | [ハルカミライ](http://twitter.com/search?q=%e3%83%8f%e3%83%ab%e3%82%ab%e3%83%9f%e3%83%a9%e3%82%a4) | N/A |
+| 28 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | N/A |
+| 29 | [Vitória da Conquista](http://twitter.com/search?q=Vit%c3%b3ria+da+Conquista) | N/A |
+| 30 | [嶋佐さん](http://twitter.com/search?q=%e5%b6%8b%e4%bd%90%e3%81%95%e3%82%93) | N/A |
 | 31 | [オプティマスプライム](http://twitter.com/search?q=%e3%82%aa%e3%83%97%e3%83%86%e3%82%a3%e3%83%9e%e3%82%b9%e3%83%97%e3%83%a9%e3%82%a4%e3%83%a0) | N/A |
-| 32 | [ミンキーモモ](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ad%e3%83%bc%e3%83%a2%e3%83%a2) | N/A |
-| 33 | [Vitória da Conquista](http://twitter.com/search?q=Vit%c3%b3ria+da+Conquista) | N/A |
+| 32 | [De Sousa](http://twitter.com/search?q=De+Sousa) | N/A |
+| 33 | [オールナイトニッポン](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88%e3%83%8b%e3%83%83%e3%83%9d%e3%83%b3) | N/A |
 | 34 | [이기야노체옹호](http://twitter.com/search?q=%ec%9d%b4%ea%b8%b0%ec%95%bc%eb%85%b8%ec%b2%b4%ec%98%b9%ed%98%b8) | N/A |
 | 35 | [DONNY IS TAKEN](http://twitter.com/search?q=DONNY+IS+TAKEN) | N/A |
-| 36 | [キタちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 37 | [TOP4](http://twitter.com/search?q=TOP4) | N/A |
-| 38 | [リンドバーグ](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%89%e3%83%90%e3%83%bc%e3%82%b0) | N/A |
-| 39 | [スイープ](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%83%bc%e3%83%97) | N/A |
-| 40 | [川島さん](http://twitter.com/search?q=%e5%b7%9d%e5%b3%b6%e3%81%95%e3%82%93) | N/A |
-| 41 | [斉藤由貴](http://twitter.com/search?q=%e6%96%89%e8%97%a4%e7%94%b1%e8%b2%b4) | N/A |
-| 42 | [Searle](http://twitter.com/search?q=Searle) | N/A |
-| 43 | [John Bird](http://twitter.com/search?q=John+Bird) | N/A |
-| 44 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | N/A |
-| 45 | [SıfırıncıGün BuAkşamTv8de](http://twitter.com/search?q=S%c4%b1f%c4%b1r%c4%b1nc%c4%b1G%c3%bcn+BuAk%c5%9famTv8de) | N/A |
-| 46 | [별빛청하](http://twitter.com/search?q=%eb%b3%84%eb%b9%9b%ec%b2%ad%ed%95%98) | N/A |
+| 36 | [John Bird](http://twitter.com/search?q=John+Bird) | N/A |
+| 37 | [川島さん](http://twitter.com/search?q=%e5%b7%9d%e5%b3%b6%e3%81%95%e3%82%93) | N/A |
+| 38 | [斉藤由貴](http://twitter.com/search?q=%e6%96%89%e8%97%a4%e7%94%b1%e8%b2%b4) | N/A |
+| 39 | [TOP4](http://twitter.com/search?q=TOP4) | N/A |
+| 40 | [キタちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 41 | [Ryan Searle](http://twitter.com/search?q=Ryan+Searle) | N/A |
+| 42 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | N/A |
+| 43 | [Pak Ogah](http://twitter.com/search?q=Pak+Ogah) | N/A |
+| 44 | [ベテルギウス](http://twitter.com/search?q=%e3%83%99%e3%83%86%e3%83%ab%e3%82%ae%e3%82%a6%e3%82%b9) | N/A |
+| 45 | [별빛청하](http://twitter.com/search?q=%eb%b3%84%eb%b9%9b%ec%b2%ad%ed%95%98) | N/A |
+| 46 | [SıfırıncıGün BuAkşamTv8de](http://twitter.com/search?q=S%c4%b1f%c4%b1r%c4%b1nc%c4%b1G%c3%bcn+BuAk%c5%9famTv8de) | N/A |
 | 47 | [バイオ5](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%aa5) | N/A |
-| 48 | [Pak Ogah](http://twitter.com/search?q=Pak+Ogah) | N/A |
-| 49 | [無料10連](http://twitter.com/search?q=%e7%84%a1%e6%96%9910%e9%80%a3) | N/A |
-| 50 | [GHAYAL SHERNI PRIYANKA](http://twitter.com/search?q=GHAYAL+SHERNI+PRIYANKA) | N/A |
+| 48 | [リンドバーグ](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%89%e3%83%90%e3%83%bc%e3%82%b0) | N/A |
+| 49 | [GHAYAL SHERNI PRIYANKA](http://twitter.com/search?q=GHAYAL+SHERNI+PRIYANKA) | N/A |
+| 50 | [Loja da Havan](http://twitter.com/search?q=Loja+da+Havan) | N/A |
 
 
 
