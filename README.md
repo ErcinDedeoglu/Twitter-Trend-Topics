@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-28 16:45:51 UTC`
+📆 Last Updated: `2022-12-28 16:51:18 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -31,45 +31,45 @@ This is top 50
 | 9 | [アニマルパラダイス](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9e%e3%83%ab%e3%83%91%e3%83%a9%e3%83%80%e3%82%a4%e3%82%b9) | N/A |
 | 10 | [MUSIC DRAMA](http://twitter.com/search?q=MUSIC+DRAMA) | N/A |
 | 11 | [聖飢魔II](http://twitter.com/search?q=%e8%81%96%e9%a3%a2%e9%ad%94II) | N/A |
-| 12 | [サンボマスター](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9c%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 13 | [Benedicto XVI](http://twitter.com/search?q=Benedicto+XVI) | N/A |
-| 14 | [Pak Ogah](http://twitter.com/search?q=Pak+Ogah) | N/A |
-| 15 | [サナちゃん](http://twitter.com/search?q=%e3%82%b5%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 12 | [Benedicto XVI](http://twitter.com/search?q=Benedicto+XVI) | N/A |
+| 13 | [サンボマスター](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%9c%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 14 | [サナちゃん](http://twitter.com/search?q=%e3%82%b5%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [Pak Ogah](http://twitter.com/search?q=Pak+Ogah) | N/A |
 | 16 | [第342回](http://twitter.com/search?q=%e7%ac%ac342%e5%9b%9e) | N/A |
 | 17 | [イナムドゥチ](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%83%a0%e3%83%89%e3%82%a5%e3%83%81) | N/A |
 | 18 | [가족이어도](http://twitter.com/search?q=%ea%b0%80%ec%a1%b1%ec%9d%b4%ec%96%b4%eb%8f%84) | N/A |
-| 19 | [빻은야짤](http://twitter.com/search?q=%eb%b9%bb%ec%9d%80%ec%95%bc%ec%a7%a4) | N/A |
-| 20 | [さーたん](http://twitter.com/search?q=%e3%81%95%e3%83%bc%e3%81%9f%e3%82%93) | N/A |
-| 21 | [嶋佐OASIS](http://twitter.com/search?q=%e5%b6%8b%e4%bd%90OASIS) | N/A |
-| 22 | [聖川さん](http://twitter.com/search?q=%e8%81%96%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
-| 23 | [Stan Lee](http://twitter.com/search?q=Stan+Lee) | N/A |
-| 24 | [Alan Soutar](http://twitter.com/search?q=Alan+Soutar) | N/A |
+| 19 | [さーたん](http://twitter.com/search?q=%e3%81%95%e3%83%bc%e3%81%9f%e3%82%93) | N/A |
+| 20 | [빻은야짤](http://twitter.com/search?q=%eb%b9%bb%ec%9d%80%ec%95%bc%ec%a7%a4) | N/A |
+| 21 | [Stan Lee](http://twitter.com/search?q=Stan+Lee) | N/A |
+| 22 | [嶋佐OASIS](http://twitter.com/search?q=%e5%b6%8b%e4%bd%90OASIS) | N/A |
+| 23 | [Alan Soutar](http://twitter.com/search?q=Alan+Soutar) | N/A |
+| 24 | [聖川さん](http://twitter.com/search?q=%e8%81%96%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
 | 25 | [特Lの園](http://twitter.com/search?q=%e7%89%b9L%e3%81%ae%e5%9c%92) | N/A |
 | 26 | [Gary Anderson](http://twitter.com/search?q=Gary+Anderson) | N/A |
-| 27 | [CUTE&SO CUTE](http://twitter.com/search?q=CUTE%26SO+CUTE) | N/A |
-| 28 | [곤충벌레파충류](http://twitter.com/search?q=%ea%b3%a4%ec%b6%a9%eb%b2%8c%eb%a0%88%ed%8c%8c%ec%b6%a9%eb%a5%98) | N/A |
-| 29 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
-| 30 | [真斗くん](http://twitter.com/search?q=%e7%9c%9f%e6%96%97%e3%81%8f%e3%82%93) | N/A |
+| 27 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | N/A |
+| 28 | [CUTE&SO CUTE](http://twitter.com/search?q=CUTE%26SO+CUTE) | N/A |
+| 29 | [곤충벌레파충류](http://twitter.com/search?q=%ea%b3%a4%ec%b6%a9%eb%b2%8c%eb%a0%88%ed%8c%8c%ec%b6%a9%eb%a5%98) | N/A |
+| 30 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
 | 31 | [Muzy](http://twitter.com/search?q=Muzy) | N/A |
-| 32 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 32 | [真斗くん](http://twitter.com/search?q=%e7%9c%9f%e6%96%97%e3%81%8f%e3%82%93) | N/A |
 | 33 | [Gundy](http://twitter.com/search?q=Gundy) | N/A |
 | 34 | [Vitória da Conquista](http://twitter.com/search?q=Vit%c3%b3ria+da+Conquista) | N/A |
-| 35 | [Be The Sun](http://twitter.com/search?q=Be+The+Sun) | N/A |
-| 36 | [いなむどぅち](http://twitter.com/search?q=%e3%81%84%e3%81%aa%e3%82%80%e3%81%a9%e3%81%85%e3%81%a1) | N/A |
-| 37 | [Wentz](http://twitter.com/search?q=Wentz) | Wentz is a surname of German origin. It is derived from the Middle High German word "wenz" meaning "to go". The name Wentz is most commonly found in the United States, where it is the 5,917th most common surname. |
-| 38 | [혐오발언옹호](http://twitter.com/search?q=%ed%98%90%ec%98%a4%eb%b0%9c%ec%96%b8%ec%98%b9%ed%98%b8) | N/A |
-| 39 | [Temer](http://twitter.com/search?q=Temer) | N/A |
-| 40 | [이기야노체옹호](http://twitter.com/search?q=%ec%9d%b4%ea%b8%b0%ec%95%bc%eb%85%b8%ec%b2%b4%ec%98%b9%ed%98%b8) | N/A |
-| 41 | [Mortal Shell](http://twitter.com/search?q=Mortal+Shell) | N/A |
-| 42 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
-| 43 | [David Datro Fofana](http://twitter.com/search?q=David+Datro+Fofana) | N/A |
-| 44 | [タルコフ](http://twitter.com/search?q=%e3%82%bf%e3%83%ab%e3%82%b3%e3%83%95) | N/A |
-| 45 | [Bienestarina](http://twitter.com/search?q=Bienestarina) | N/A |
-| 46 | [STAMP ON IT](http://twitter.com/search?q=STAMP+ON+IT) | N/A |
-| 47 | [Herodes](http://twitter.com/search?q=Herodes) | N/A |
-| 48 | [#實實阿點用其實](http://twitter.com/search?q=%23%e5%af%a6%e5%af%a6%e9%98%bf%e9%bb%9e%e7%94%a8%e5%85%b6%e5%af%a6) | N/A |
-| 49 | [#YaşDeğilHAKistiyoruz](http://twitter.com/search?q=%23Ya%c5%9fDe%c4%9filHAKistiyoruz) | N/A |
-| 50 | [#発表今年イチバン聴いた歌](http://twitter.com/search?q=%23%e7%99%ba%e8%a1%a8%e4%bb%8a%e5%b9%b4%e3%82%a4%e3%83%81%e3%83%90%e3%83%b3%e8%81%b4%e3%81%84%e3%81%9f%e6%ad%8c) | N/A |
+| 35 | [Wentz](http://twitter.com/search?q=Wentz) | Wentz is a surname of German origin. It is derived from the Middle High German word "wenz" meaning "to go". The name Wentz is most commonly found in the United States, where it is the 5,917th most common surname. |
+| 36 | [Temer](http://twitter.com/search?q=Temer) | N/A |
+| 37 | [Be The Sun](http://twitter.com/search?q=Be+The+Sun) | N/A |
+| 38 | [いなむどぅち](http://twitter.com/search?q=%e3%81%84%e3%81%aa%e3%82%80%e3%81%a9%e3%81%85%e3%81%a1) | N/A |
+| 39 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
+| 40 | [혐오발언옹호](http://twitter.com/search?q=%ed%98%90%ec%98%a4%eb%b0%9c%ec%96%b8%ec%98%b9%ed%98%b8) | N/A |
+| 41 | [David Datro Fofana](http://twitter.com/search?q=David+Datro+Fofana) | N/A |
+| 42 | [이기야노체옹호](http://twitter.com/search?q=%ec%9d%b4%ea%b8%b0%ec%95%bc%eb%85%b8%ec%b2%b4%ec%98%b9%ed%98%b8) | N/A |
+| 43 | [Mortal Shell](http://twitter.com/search?q=Mortal+Shell) | N/A |
+| 44 | [Herodes](http://twitter.com/search?q=Herodes) | N/A |
+| 45 | [タルコフ](http://twitter.com/search?q=%e3%82%bf%e3%83%ab%e3%82%b3%e3%83%95) | N/A |
+| 46 | [Itamar](http://twitter.com/search?q=Itamar) | N/A |
+| 47 | [Bienestarina](http://twitter.com/search?q=Bienestarina) | N/A |
+| 48 | [#YaşDeğilHAKistiyoruz](http://twitter.com/search?q=%23Ya%c5%9fDe%c4%9filHAKistiyoruz) | N/A |
+| 49 | [#實實阿點用其實](http://twitter.com/search?q=%23%e5%af%a6%e5%af%a6%e9%98%bf%e9%bb%9e%e7%94%a8%e5%85%b6%e5%af%a6) | N/A |
+| 50 | [#DiaDeLosInocentes](http://twitter.com/search?q=%23DiaDeLosInocentes) | N/A |
 
 
 
