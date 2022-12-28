@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-28 23:23:26 UTC`
+📆 Last Updated: `2022-12-28 23:31:09 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -38,38 +38,38 @@ This is top 50
 | 16 | [#Emeklilikteyasatakilanlar](http://twitter.com/search?q=%23Emeklilikteyasatakilanlar) | N/A |
 | 17 | [Michael Smith](http://twitter.com/search?q=Michael+Smith) | N/A |
 | 18 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 19 | [Hooters](http://twitter.com/search?q=Hooters) | N/A |
-| 20 | [Arkansas](http://twitter.com/search?q=Arkansas) | N/A |
-| 21 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | N/A |
-| 22 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 19 | [Arkansas](http://twitter.com/search?q=Arkansas) | N/A |
+| 20 | [Hooters](http://twitter.com/search?q=Hooters) | N/A |
+| 21 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 22 | [Strasbourg](http://twitter.com/search?q=Strasbourg) | N/A |
 | 23 | [Claudia](http://twitter.com/search?q=Claudia) | N/A |
 | 24 | [Rewind](http://twitter.com/search?q=Rewind) | N/A |
 | 25 | [Rico Lewis](http://twitter.com/search?q=Rico+Lewis) | Rico Lewis is a Spanish phrase meaning "rich and powerful". It is often used to describe someone who has achieved success and wealth. |
 | 26 | [Mooy](http://twitter.com/search?q=Mooy) | N/A |
-| 27 | [Schindler](http://twitter.com/search?q=Schindler) | N/A |
-| 28 | [Teşekkürler Erdoğan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Erdo%c4%9fan) | "Teşekkürler Erdoğan" is a Turkish phrase that translates to "Thank you, Erdoğan" in English. It is a polite way of expressing gratitude to the Turkish President, Recep Tayyip Erdoğan. |
-| 29 | [乗客の半数](http://twitter.com/search?q=%e4%b9%97%e5%ae%a2%e3%81%ae%e5%8d%8a%e6%95%b0) | N/A |
-| 30 | [休日ダイヤ](http://twitter.com/search?q=%e4%bc%91%e6%97%a5%e3%83%80%e3%82%a4%e3%83%a4) | N/A |
+| 27 | [乗客の半数](http://twitter.com/search?q=%e4%b9%97%e5%ae%a2%e3%81%ae%e5%8d%8a%e6%95%b0) | N/A |
+| 28 | [休日ダイヤ](http://twitter.com/search?q=%e4%bc%91%e6%97%a5%e3%83%80%e3%82%a4%e3%83%a4) | N/A |
+| 29 | [Schindler](http://twitter.com/search?q=Schindler) | N/A |
+| 30 | [Teşekkürler Erdoğan](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Erdo%c4%9fan) | "Teşekkürler Erdoğan" is a Turkish phrase that translates to "Thank you, Erdoğan" in English. It is a polite way of expressing gratitude to the Turkish President, Recep Tayyip Erdoğan. |
 | 31 | [Mensur](http://twitter.com/search?q=Mensur) | N/A |
 | 32 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 33 | [Neoldu Cozdukmu](http://twitter.com/search?q=Neoldu+Cozdukmu) | N/A |
-| 34 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 35 | [Bully Boy](http://twitter.com/search?q=Bully+Boy) | N/A |
-| 36 | [Maeda](http://twitter.com/search?q=Maeda) | N/A |
-| 37 | [Stidham](http://twitter.com/search?q=Stidham) | N/A |
-| 38 | [Foden](http://twitter.com/search?q=Foden) | N/A |
-| 39 | [Science](http://twitter.com/search?q=Science) | N/A |
-| 40 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 33 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 34 | [Bully Boy](http://twitter.com/search?q=Bully+Boy) | N/A |
+| 35 | [Stidham](http://twitter.com/search?q=Stidham) | N/A |
+| 36 | [Science](http://twitter.com/search?q=Science) | N/A |
+| 37 | [Maeda](http://twitter.com/search?q=Maeda) | N/A |
+| 38 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 39 | [Foden](http://twitter.com/search?q=Foden) | N/A |
+| 40 | [Taremi](http://twitter.com/search?q=Taremi) | N/A |
 | 41 | [Duke](http://twitter.com/search?q=Duke) | N/A |
-| 42 | [Taremi](http://twitter.com/search?q=Taremi) | N/A |
-| 43 | [YarayiSarip AciyiDindiremem](http://twitter.com/search?q=YarayiSarip+AciyiDindiremem) | N/A |
-| 44 | [Diogo Nogueira](http://twitter.com/search?q=Diogo+Nogueira) | N/A |
-| 45 | [Suljovic](http://twitter.com/search?q=Suljovic) | N/A |
+| 42 | [Diogo Nogueira](http://twitter.com/search?q=Diogo+Nogueira) | N/A |
+| 43 | [二宮和也さん](http://twitter.com/search?q=%e4%ba%8c%e5%ae%ae%e5%92%8c%e4%b9%9f%e3%81%95%e3%82%93) | N/A |
+| 44 | [Suljovic](http://twitter.com/search?q=Suljovic) | N/A |
+| 45 | [Ozenlerden Kimkaldi](http://twitter.com/search?q=Ozenlerden+Kimkaldi) | N/A |
 | 46 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 47 | [Ozenlerden Kimkaldi](http://twitter.com/search?q=Ozenlerden+Kimkaldi) | N/A |
-| 48 | [Cancelo](http://twitter.com/search?q=Cancelo) | N/A |
-| 49 | [二宮和也さん](http://twitter.com/search?q=%e4%ba%8c%e5%ae%ae%e5%92%8c%e4%b9%9f%e3%81%95%e3%82%93) | N/A |
-| 50 | [Sarabia](http://twitter.com/search?q=Sarabia) | N/A |
+| 47 | [Camacho](http://twitter.com/search?q=Camacho) | N/A |
+| 48 | [Jorgelina](http://twitter.com/search?q=Jorgelina) | N/A |
+| 49 | [Sarabia](http://twitter.com/search?q=Sarabia) | N/A |
+| 50 | [Cancelo](http://twitter.com/search?q=Cancelo) | N/A |
 
 
 
