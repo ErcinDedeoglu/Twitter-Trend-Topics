@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-28 05:51:10 UTC`
+📆 Last Updated: `2022-12-28 06:01:36 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -23,53 +23,53 @@ This is top 50
 | 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 2 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 3 | [#あなたの関西度と関東度](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e9%96%a2%e8%a5%bf%e5%ba%a6%e3%81%a8%e9%96%a2%e6%9d%b1%e5%ba%a6) | N/A |
-| 4 | [仕事納め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e7%b4%8d%e3%82%81) | 仕事納め (shigoto nome) is a Japanese phrase that literally translates to "finishing work". It is used to refer to the end of the work day or the completion of a task. In English, it could be translated as "work done" or "job finished". |
-| 5 | [#なかやまきんに君10連ガチャ](http://twitter.com/search?q=%23%e3%81%aa%e3%81%8b%e3%82%84%e3%81%be%e3%81%8d%e3%82%93%e3%81%ab%e5%90%9b10%e9%80%a3%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 4 | [#なかやまきんに君10連ガチャ](http://twitter.com/search?q=%23%e3%81%aa%e3%81%8b%e3%82%84%e3%81%be%e3%81%8d%e3%82%93%e3%81%ab%e5%90%9b10%e9%80%a3%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 5 | [仕事納め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e7%b4%8d%e3%82%81) | 仕事納め (shigoto nome) is a Japanese phrase that literally translates to "finishing work". It is used to refer to the end of the work day or the completion of a task. In English, it could be translated as "work done" or "job finished". |
 | 6 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 7 | [#MFFL](http://twitter.com/search?q=%23MFFL) | N/A |
-| 8 | [#RatanTata](http://twitter.com/search?q=%23RatanTata) | N/A |
-| 9 | [#もしツア](http://twitter.com/search?q=%23%e3%82%82%e3%81%97%e3%83%84%e3%82%a2) | N/A |
-| 10 | [Kuminga](http://twitter.com/search?q=Kuminga) | N/A |
-| 11 | [Poole](http://twitter.com/search?q=Poole) | N/A |
-| 12 | [粉チーズ](http://twitter.com/search?q=%e7%b2%89%e3%83%81%e3%83%bc%e3%82%ba) | N/A |
-| 13 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
-| 14 | [アナウンサー爆笑](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%a6%e3%83%b3%e3%82%b5%e3%83%bc%e7%88%86%e7%ac%91) | N/A |
-| 15 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
-| 16 | [関西人と関東人のハーフ](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e4%ba%ba%e3%81%a8%e9%96%a2%e6%9d%b1%e4%ba%ba%e3%81%ae%e3%83%8f%e3%83%bc%e3%83%95) | N/A |
-| 17 | [関西度50](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a650) | N/A |
-| 18 | [Thibs](http://twitter.com/search?q=Thibs) | N/A |
+| 7 | [#RatanTata](http://twitter.com/search?q=%23RatanTata) | N/A |
+| 8 | [#MFFL](http://twitter.com/search?q=%23MFFL) | N/A |
+| 9 | [粉チーズ](http://twitter.com/search?q=%e7%b2%89%e3%83%81%e3%83%bc%e3%82%ba) | N/A |
+| 10 | [#もしツア](http://twitter.com/search?q=%23%e3%82%82%e3%81%97%e3%83%84%e3%82%a2) | N/A |
+| 11 | [Kuminga](http://twitter.com/search?q=Kuminga) | N/A |
+| 12 | [Poole](http://twitter.com/search?q=Poole) | N/A |
+| 13 | [アナウンサー爆笑](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%a6%e3%83%b3%e3%82%b5%e3%83%bc%e7%88%86%e7%ac%91) | N/A |
+| 14 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
+| 15 | [腹筋崩壊太郎](http://twitter.com/search?q=%e8%85%b9%e7%ad%8b%e5%b4%a9%e5%a3%8a%e5%a4%aa%e9%83%8e) | N/A |
+| 16 | [Wilt](http://twitter.com/search?q=Wilt) | N/A |
+| 17 | [関西人と関東人のハーフ](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e4%ba%ba%e3%81%a8%e9%96%a2%e6%9d%b1%e4%ba%ba%e3%81%ae%e3%83%8f%e3%83%bc%e3%83%95) | N/A |
+| 18 | [関西度50](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a650) | N/A |
 | 19 | [Waffle House](http://twitter.com/search?q=Waffle+House) | N/A |
-| 20 | [腹筋崩壊太郎](http://twitter.com/search?q=%e8%85%b9%e7%ad%8b%e5%b4%a9%e5%a3%8a%e5%a4%aa%e9%83%8e) | N/A |
+| 20 | [Thibs](http://twitter.com/search?q=Thibs) | N/A |
 | 21 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
 | 22 | [アミダ獣神化](http://twitter.com/search?q=%e3%82%a2%e3%83%9f%e3%83%80%e7%8d%a3%e7%a5%9e%e5%8c%96) | N/A |
 | 23 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 24 | [関西度100](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a6100) | N/A |
-| 25 | [じぶんコッテコテ](http://twitter.com/search?q=%e3%81%98%e3%81%b6%e3%82%93%e3%82%b3%e3%83%83%e3%83%86%e3%82%b3%e3%83%86) | N/A |
+| 24 | [じぶんコッテコテ](http://twitter.com/search?q=%e3%81%98%e3%81%b6%e3%82%93%e3%82%b3%e3%83%83%e3%83%86%e3%82%b3%e3%83%86) | N/A |
+| 25 | [関西度100](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e5%ba%a6100) | N/A |
 | 26 | [超絶関東人](http://twitter.com/search?q=%e8%b6%85%e7%b5%b6%e9%96%a2%e6%9d%b1%e4%ba%ba) | N/A |
 | 27 | [Grimes](http://twitter.com/search?q=Grimes) | N/A |
-| 28 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 29 | [Chase Wolf](http://twitter.com/search?q=Chase+Wolf) | N/A |
+| 28 | [減量末期のマッチョ](http://twitter.com/search?q=%e6%b8%9b%e9%87%8f%e6%9c%ab%e6%9c%9f%e3%81%ae%e3%83%9e%e3%83%83%e3%83%81%e3%83%a7) | N/A |
+| 29 | [クワガタ80匹](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%ac%e3%82%bf80%e5%8c%b9) | N/A |
 | 30 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 31 | [クワガタ80匹](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%ac%e3%82%bf80%e5%8c%b9) | N/A |
-| 32 | [減量末期のマッチョ](http://twitter.com/search?q=%e6%b8%9b%e9%87%8f%e6%9c%ab%e6%9c%9f%e3%81%ae%e3%83%9e%e3%83%83%e3%83%81%e3%83%a7) | N/A |
-| 33 | [Truth Shall Prevail InSSRCase](http://twitter.com/search?q=Truth+Shall+Prevail+InSSRCase) | N/A |
-| 34 | [Bank Mandiri](http://twitter.com/search?q=Bank+Mandiri) | N/A |
+| 31 | [Chase Wolf](http://twitter.com/search?q=Chase+Wolf) | N/A |
+| 32 | [Solid Menjaga NKRI](http://twitter.com/search?q=Solid+Menjaga+NKRI) | N/A |
+| 33 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 34 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 35 | [HAPPY BIRTHDAY QUACKITY](http://twitter.com/search?q=HAPPY+BIRTHDAY+QUACKITY) | N/A |
-| 36 | [森保監督](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e7%9b%a3%e7%9d%a3) | N/A |
-| 37 | [Oklahoma State](http://twitter.com/search?q=Oklahoma+State) | N/A |
-| 38 | [平田引退](http://twitter.com/search?q=%e5%b9%b3%e7%94%b0%e5%bc%95%e9%80%80) | N/A |
-| 39 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 40 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 41 | [関西の血](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e3%81%ae%e8%a1%80) | N/A |
-| 42 | [セクシールーレット](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%83%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88) | N/A |
-| 43 | [BDAY PRISCILA REIS](http://twitter.com/search?q=BDAY+PRISCILA+REIS) | N/A |
-| 44 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 45 | [Solid Menjaga NKRI](http://twitter.com/search?q=Solid+Menjaga+NKRI) | N/A |
-| 46 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 47 | [関東の血](http://twitter.com/search?q=%e9%96%a2%e6%9d%b1%e3%81%ae%e8%a1%80) | N/A |
-| 48 | [Klay](http://twitter.com/search?q=Klay) | N/A |
-| 49 | [최애의 반응](http://twitter.com/search?q=%ec%b5%9c%ec%95%a0%ec%9d%98+%eb%b0%98%ec%9d%91) | N/A |
-| 50 | [이젠 탈덕](http://twitter.com/search?q=%ec%9d%b4%ec%a0%a0+%ed%83%88%eb%8d%95) | N/A |
+| 36 | [Bank Mandiri](http://twitter.com/search?q=Bank+Mandiri) | N/A |
+| 37 | [Truth Shall Prevail InSSRCase](http://twitter.com/search?q=Truth+Shall+Prevail+InSSRCase) | N/A |
+| 38 | [セブンマジシャン](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%b3%e3%83%9e%e3%82%b8%e3%82%b7%e3%83%a3%e3%83%b3) | N/A |
+| 39 | [Oklahoma State](http://twitter.com/search?q=Oklahoma+State) | N/A |
+| 40 | [関西の血](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e3%81%ae%e8%a1%80) | N/A |
+| 41 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 42 | [森保監督](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e7%9b%a3%e7%9d%a3) | N/A |
+| 43 | [ファントムシーフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%88%e3%83%a0%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
+| 44 | [BDAY PRISCILA REIS](http://twitter.com/search?q=BDAY+PRISCILA+REIS) | N/A |
+| 45 | [平田引退](http://twitter.com/search?q=%e5%b9%b3%e7%94%b0%e5%bc%95%e9%80%80) | N/A |
+| 46 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 47 | [ミッキーカプチーノ](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%97%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 48 | [Gundy](http://twitter.com/search?q=Gundy) | N/A |
+| 49 | [紅白リハ](http://twitter.com/search?q=%e7%b4%85%e7%99%bd%e3%83%aa%e3%83%8f) | N/A |
+| 50 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 
 
 
