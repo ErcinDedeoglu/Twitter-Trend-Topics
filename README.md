@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-29 16:01:30 UTC`
+📆 Last Updated: `2022-12-29 16:14:40 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -27,49 +27,49 @@ This is top 50
 | 5 | [#VeautifulPrinceTaehyung](http://twitter.com/search?q=%23VeautifulPrinceTaehyung) | N/A |
 | 6 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | N/A |
 | 7 | [GüzelÇıkmışsın Şeyma](http://twitter.com/search?q=G%c3%bczel%c3%87%c4%b1km%c4%b1%c5%9fs%c4%b1n+%c5%9eeyma) | N/A |
-| 8 | [まっすー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%99%e3%83%bc) | N/A |
-| 9 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 8 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 9 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
 | 10 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | N/A |
-| 11 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 11 | [まっすー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%99%e3%83%bc) | N/A |
 | 12 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
 | 13 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | N/A |
 | 14 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | N/A |
-| 15 | [テテちゃん](http://twitter.com/search?q=%e3%83%86%e3%83%86%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
 | 16 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 17 | [クビ3人](http://twitter.com/search?q=%e3%82%af%e3%83%933%e4%ba%ba) | N/A |
-| 18 | [Patronato](http://twitter.com/search?q=Patronato) | N/A |
-| 19 | [Mr.Feather](http://twitter.com/search?q=Mr.Feather) | N/A |
-| 20 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 21 | [第343回](http://twitter.com/search?q=%e7%ac%ac343%e5%9b%9e) | N/A |
-| 22 | [高杉くん](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e3%81%8f%e3%82%93) | N/A |
-| 23 | [エライザちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%a9%e3%82%a4%e3%82%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 17 | [テテちゃん](http://twitter.com/search?q=%e3%83%86%e3%83%86%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 18 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 19 | [第343回](http://twitter.com/search?q=%e7%ac%ac343%e5%9b%9e) | N/A |
+| 20 | [Patronato](http://twitter.com/search?q=Patronato) | N/A |
+| 21 | [Mr.Feather](http://twitter.com/search?q=Mr.Feather) | N/A |
+| 22 | [Factorio](http://twitter.com/search?q=Factorio) | N/A |
+| 23 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
 | 24 | [YaraliBenim PekiSimdiSen](http://twitter.com/search?q=YaraliBenim+PekiSimdiSen) | N/A |
-| 25 | [ノブさん](http://twitter.com/search?q=%e3%83%8e%e3%83%96%e3%81%95%e3%82%93) | N/A |
-| 26 | [Factorio](http://twitter.com/search?q=Factorio) | N/A |
-| 27 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
-| 28 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 29 | [Boey](http://twitter.com/search?q=Boey) | N/A |
-| 30 | [İptal](http://twitter.com/search?q=%c4%b0ptal) | N/A |
-| 31 | [ジョシュア](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%b7%e3%83%a5%e3%82%a2) | N/A |
-| 32 | [Winter Bear](http://twitter.com/search?q=Winter+Bear) | N/A |
-| 33 | [テヒョンさん](http://twitter.com/search?q=%e3%83%86%e3%83%92%e3%83%a7%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 34 | [#태형이의_뷔티풀데이즈](http://twitter.com/search?q=%23%ed%83%9c%ed%98%95%ec%9d%b4%ec%9d%98_%eb%b7%94%ed%8b%b0%ed%92%80%eb%8d%b0%ec%9d%b4%ec%a6%88) | N/A |
-| 35 | [#SVSvGS](http://twitter.com/search?q=%23SVSvGS) | N/A |
-| 36 | [#we_wiSHUA_happyBday](http://twitter.com/search?q=%23we_wiSHUA_happyBday) | N/A |
-| 37 | [#RomanticGentlemanV](http://twitter.com/search?q=%23RomanticGentlemanV) | N/A |
-| 38 | [#WarmComfortInWinterV](http://twitter.com/search?q=%23WarmComfortInWinterV) | N/A |
-| 39 | [#12월의기적태형](http://twitter.com/search?q=%2312%ec%9b%94%ec%9d%98%ea%b8%b0%ec%a0%81%ed%83%9c%ed%98%95) | N/A |
-| 40 | [#ぐるナイ](http://twitter.com/search?q=%23%e3%81%90%e3%82%8b%e3%83%8a%e3%82%a4) | N/A |
-| 41 | [#BornIconTaehyung](http://twitter.com/search?q=%23BornIconTaehyung) | N/A |
-| 42 | [#EraDefiningStarV](http://twitter.com/search?q=%23EraDefiningStarV) | N/A |
-| 43 | [#OurPurpleEmperorV](http://twitter.com/search?q=%23OurPurpleEmperorV) | N/A |
-| 44 | [#CelestialVocalistV](http://twitter.com/search?q=%23CelestialVocalistV) | N/A |
-| 45 | [#PoeticVanteDay](http://twitter.com/search?q=%23PoeticVanteDay) | N/A |
-| 46 | [#talkwithbecky](http://twitter.com/search?q=%23talkwithbecky) | N/A |
-| 47 | [#オールザッツ漫才](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%b6%e3%83%83%e3%83%84%e6%bc%ab%e6%89%8d) | N/A |
-| 48 | [#ストチューブ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%88%e3%83%81%e3%83%a5%e3%83%bc%e3%83%96) | N/A |
-| 49 | [#SivastaKaraGece](http://twitter.com/search?q=%23SivastaKaraGece) | N/A |
-| 50 | [#振り返りガチャ](http://twitter.com/search?q=%23%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 25 | [Barış Alper Yılmaz](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Alper+Y%c4%b1lmaz) | N/A |
+| 26 | [エライザちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%a9%e3%82%a4%e3%82%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [高杉くん](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e3%81%8f%e3%82%93) | N/A |
+| 28 | [クビ3人](http://twitter.com/search?q=%e3%82%af%e3%83%933%e4%ba%ba) | N/A |
+| 29 | [Winter Bear](http://twitter.com/search?q=Winter+Bear) | N/A |
+| 30 | [ノブさん](http://twitter.com/search?q=%e3%83%8e%e3%83%96%e3%81%95%e3%82%93) | N/A |
+| 31 | [İptal](http://twitter.com/search?q=%c4%b0ptal) | N/A |
+| 32 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 33 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
+| 34 | [Boey](http://twitter.com/search?q=Boey) | N/A |
+| 35 | [ジョシュア](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%b7%e3%83%a5%e3%82%a2) | N/A |
+| 36 | [テヒョンさん](http://twitter.com/search?q=%e3%83%86%e3%83%92%e3%83%a7%e3%83%b3%e3%81%95%e3%82%93) | N/A |
+| 37 | [#SVSvGS](http://twitter.com/search?q=%23SVSvGS) | N/A |
+| 38 | [#태형이의_뷔티풀데이즈](http://twitter.com/search?q=%23%ed%83%9c%ed%98%95%ec%9d%b4%ec%9d%98_%eb%b7%94%ed%8b%b0%ed%92%80%eb%8d%b0%ec%9d%b4%ec%a6%88) | N/A |
+| 39 | [#we_wiSHUA_happyBday](http://twitter.com/search?q=%23we_wiSHUA_happyBday) | N/A |
+| 40 | [#RomanticGentlemanV](http://twitter.com/search?q=%23RomanticGentlemanV) | N/A |
+| 41 | [#WarmComfortInWinterV](http://twitter.com/search?q=%23WarmComfortInWinterV) | N/A |
+| 42 | [#SivastaKaraGece](http://twitter.com/search?q=%23SivastaKaraGece) | N/A |
+| 43 | [#12월의기적태형](http://twitter.com/search?q=%2312%ec%9b%94%ec%9d%98%ea%b8%b0%ec%a0%81%ed%83%9c%ed%98%95) | N/A |
+| 44 | [#BornIconTaehyung](http://twitter.com/search?q=%23BornIconTaehyung) | N/A |
+| 45 | [#ぐるナイ](http://twitter.com/search?q=%23%e3%81%90%e3%82%8b%e3%83%8a%e3%82%a4) | N/A |
+| 46 | [#EraDefiningStarV](http://twitter.com/search?q=%23EraDefiningStarV) | N/A |
+| 47 | [#OurPurpleEmperorV](http://twitter.com/search?q=%23OurPurpleEmperorV) | N/A |
+| 48 | [#CelestialVocalistV](http://twitter.com/search?q=%23CelestialVocalistV) | N/A |
+| 49 | [#PoeticVanteDay](http://twitter.com/search?q=%23PoeticVanteDay) | N/A |
+| 50 | [#talkwithbecky](http://twitter.com/search?q=%23talkwithbecky) | N/A |
 
 
 
