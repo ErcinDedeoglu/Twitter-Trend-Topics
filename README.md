@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-29 18:01:43 UTC`
+📆 Last Updated: `2022-12-29 18:14:34 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -28,48 +28,48 @@ This is top 50
 | 6 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | N/A |
 | 7 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
 | 8 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | N/A |
-| 9 | [Marina Silva](http://twitter.com/search?q=Marina+Silva) | N/A |
-| 10 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | N/A |
-| 11 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 12 | [Josh Dobbs](http://twitter.com/search?q=Josh+Dobbs) | N/A |
-| 13 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | N/A |
-| 14 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
-| 15 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | N/A |
-| 16 | [Factorio](http://twitter.com/search?q=Factorio) | N/A |
-| 17 | [Hakem](http://twitter.com/search?q=Hakem) | N/A |
-| 18 | [Willis](http://twitter.com/search?q=Willis) | N/A |
-| 19 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
-| 20 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 21 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 22 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 23 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 24 | [Girona](http://twitter.com/search?q=Girona) | N/A |
-| 25 | [Ana Moser](http://twitter.com/search?q=Ana+Moser) | N/A |
-| 26 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 27 | [Taehyungie](http://twitter.com/search?q=Taehyungie) | N/A |
-| 28 | [Boey](http://twitter.com/search?q=Boey) | N/A |
-| 29 | [Waguinho](http://twitter.com/search?q=Waguinho) | N/A |
-| 30 | [Rıza](http://twitter.com/search?q=R%c4%b1za) | N/A |
-| 31 | [Alper Yılmaz](http://twitter.com/search?q=Alper+Y%c4%b1lmaz) | N/A |
-| 32 | [第343回](http://twitter.com/search?q=%e7%ac%ac343%e5%9b%9e) | N/A |
-| 33 | [Patronato](http://twitter.com/search?q=Patronato) | N/A |
-| 34 | [Ministério](http://twitter.com/search?q=Minist%c3%a9rio) | Ministério is a Portuguese word that translates to "ministry" in English. It is used to refer to a government department or agency responsible for a specific area of public administration. |
-| 35 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 36 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 37 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 38 | [Nelson](http://twitter.com/search?q=Nelson) | N/A |
-| 39 | [GüzelÇıkmışsın Şeyma](http://twitter.com/search?q=G%c3%bczel%c3%87%c4%b1km%c4%b1%c5%9fs%c4%b1n+%c5%9eeyma) | N/A |
-| 40 | [Ağla](http://twitter.com/search?q=A%c4%9fla) | N/A |
-| 41 | [Muzy](http://twitter.com/search?q=Muzy) | N/A |
-| 42 | [Caicedo](http://twitter.com/search?q=Caicedo) | N/A |
-| 43 | [Güntekin](http://twitter.com/search?q=G%c3%bcntekin) | N/A |
-| 44 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 45 | [Josef](http://twitter.com/search?q=Josef) | N/A |
-| 46 | [#SVSvGS](http://twitter.com/search?q=%23SVSvGS) | N/A |
-| 47 | [#VeautifulPrinceTaehyung](http://twitter.com/search?q=%23VeautifulPrinceTaehyung) | N/A |
-| 48 | [#태형이의_뷔티풀데이즈](http://twitter.com/search?q=%23%ed%83%9c%ed%98%95%ec%9d%b4%ec%9d%98_%eb%b7%94%ed%8b%b0%ed%92%80%eb%8d%b0%ec%9d%b4%ec%a6%88) | N/A |
-| 49 | [#RomanticGentlemanV](http://twitter.com/search?q=%23RomanticGentlemanV) | N/A |
-| 50 | [#we_wiSHUA_happyBday](http://twitter.com/search?q=%23we_wiSHUA_happyBday) | N/A |
+| 9 | [Dobbs](http://twitter.com/search?q=Dobbs) | N/A |
+| 10 | [Marina Silva](http://twitter.com/search?q=Marina+Silva) | N/A |
+| 11 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | N/A |
+| 12 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 13 | [Willis](http://twitter.com/search?q=Willis) | N/A |
+| 14 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | N/A |
+| 15 | [GozlerinDoguyor Gecelerime](http://twitter.com/search?q=GozlerinDoguyor+Gecelerime) | N/A |
+| 16 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | N/A |
+| 17 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
+| 18 | [Factorio](http://twitter.com/search?q=Factorio) | N/A |
+| 19 | [EYTBitti SıraKHKda](http://twitter.com/search?q=EYTBitti+S%c4%b1raKHKda) | N/A |
+| 20 | [Hakem](http://twitter.com/search?q=Hakem) | N/A |
+| 21 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 22 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
+| 23 | [Girona](http://twitter.com/search?q=Girona) | N/A |
+| 24 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 25 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 26 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
+| 27 | [Ana Moser](http://twitter.com/search?q=Ana+Moser) | N/A |
+| 28 | [Taehyungie](http://twitter.com/search?q=Taehyungie) | N/A |
+| 29 | [Kevin Warren](http://twitter.com/search?q=Kevin+Warren) | N/A |
+| 30 | [Waguinho](http://twitter.com/search?q=Waguinho) | N/A |
+| 31 | [Boey](http://twitter.com/search?q=Boey) | N/A |
+| 32 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 33 | [Alper Yılmaz](http://twitter.com/search?q=Alper+Y%c4%b1lmaz) | N/A |
+| 34 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 35 | [第343回](http://twitter.com/search?q=%e7%ac%ac343%e5%9b%9e) | N/A |
+| 36 | [Rıza](http://twitter.com/search?q=R%c4%b1za) | N/A |
+| 37 | [Ministério](http://twitter.com/search?q=Minist%c3%a9rio) | Ministério is a Portuguese word that translates to "ministry" in English. It is used to refer to a government department or agency responsible for a specific area of public administration. |
+| 38 | [ブレワイRTA](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%af%e3%82%a4RTA) | N/A |
+| 39 | [Nelson](http://twitter.com/search?q=Nelson) | N/A |
+| 40 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 41 | [Ağla](http://twitter.com/search?q=A%c4%9fla) | N/A |
+| 42 | [Patronato](http://twitter.com/search?q=Patronato) | N/A |
+| 43 | [Caicedo](http://twitter.com/search?q=Caicedo) | N/A |
+| 44 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 45 | [Muzy](http://twitter.com/search?q=Muzy) | N/A |
+| 46 | [Josef](http://twitter.com/search?q=Josef) | N/A |
+| 47 | [Güntekin](http://twitter.com/search?q=G%c3%bcntekin) | N/A |
+| 48 | [GüzelÇıkmışsın Şeyma](http://twitter.com/search?q=G%c3%bczel%c3%87%c4%b1km%c4%b1%c5%9fs%c4%b1n+%c5%9eeyma) | N/A |
+| 49 | [#SVSvGS](http://twitter.com/search?q=%23SVSvGS) | N/A |
+| 50 | [#VeautifulPrinceTaehyung](http://twitter.com/search?q=%23VeautifulPrinceTaehyung) | N/A |
 
 
 
