@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-29 22:23:45 UTC`
+📆 Last Updated: `2022-12-29 22:31:18 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -23,41 +23,41 @@ This is top 50
 | 1 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
 | 2 | [Edson Arantes](http://twitter.com/search?q=Edson+Arantes) | N/A |
 | 3 | [#TentacionesDBTFinal](http://twitter.com/search?q=%23TentacionesDBTFinal) | N/A |
-| 4 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
-| 5 | [Futebol](http://twitter.com/search?q=Futebol) | N/A |
-| 6 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 7 | [#OMTFC](http://twitter.com/search?q=%23OMTFC) | N/A |
-| 8 | [#جده_الان](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | #جده_الان is a hashtag used on social media to refer to the city of Jeddah, Saudi Arabia. In English, it translates to "Jeddah Now". |
-| 9 | [Greta](http://twitter.com/search?q=Greta) | N/A |
-| 10 | [#HappyBirthdayTaehyung](http://twitter.com/search?q=%23HappyBirthdayTaehyung) | N/A |
-| 11 | [#TAEHYUNGDAY](http://twitter.com/search?q=%23TAEHYUNGDAY) | N/A |
+| 4 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 5 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
+| 6 | [Greta](http://twitter.com/search?q=Greta) | N/A |
+| 7 | [Futebol](http://twitter.com/search?q=Futebol) | N/A |
+| 8 | [#OMTFC](http://twitter.com/search?q=%23OMTFC) | N/A |
+| 9 | [#جده_الان](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | #جده_الان is a hashtag used on social media to refer to the city of Jeddah, Saudi Arabia. In English, it translates to "Jeddah Now". |
+| 10 | [#TAEHYUNGDAY](http://twitter.com/search?q=%23TAEHYUNGDAY) | N/A |
+| 11 | [#HappyBirthdayTaehyung](http://twitter.com/search?q=%23HappyBirthdayTaehyung) | N/A |
 | 12 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
 | 13 | [Pablo Barrios](http://twitter.com/search?q=Pablo+Barrios) | Pablo Barrios is a Venezuelan show jumping rider who has won numerous international competitions. He is known for his technical ability and competitive spirit. In English, the phrase "Pablo Barrios" refers to the Venezuelan show jumping rider. |
-| 14 | [Descanse](http://twitter.com/search?q=Descanse) | N/A |
-| 15 | [サッカーの王様](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e3%81%ae%e7%8e%8b%e6%a7%98) | N/A |
-| 16 | [globo](http://twitter.com/search?q=globo) | N/A |
-| 17 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 18 | [O Rey](http://twitter.com/search?q=O+Rey) | N/A |
-| 19 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
-| 20 | [joaqui](http://twitter.com/search?q=joaqui) | N/A |
-| 21 | [صوت الانذار](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b0%d8%a7%d8%b1) | N/A |
-| 22 | [Ian Tyson](http://twitter.com/search?q=Ian+Tyson) | N/A |
-| 23 | [Josh Rock](http://twitter.com/search?q=Josh+Rock) | N/A |
-| 24 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 25 | [Dobbs](http://twitter.com/search?q=Dobbs) | N/A |
-| 26 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | N/A |
-| 27 | [Payet](http://twitter.com/search?q=Payet) | N/A |
-| 28 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 29 | [Syracuse](http://twitter.com/search?q=Syracuse) | N/A |
-| 30 | [英デザイナーのV・ウエストウッド氏死去](http://twitter.com/search?q=%e8%8b%b1%e3%83%87%e3%82%b6%e3%82%a4%e3%83%8a%e3%83%bc%e3%81%aeV%e3%83%bb%e3%82%a6%e3%82%a8%e3%82%b9%e3%83%88%e3%82%a6%e3%83%83%e3%83%89%e6%b0%8f%e6%ad%bb%e5%8e%bb) | N/A |
-| 31 | [The Greatest](http://twitter.com/search?q=The+Greatest) | N/A |
-| 32 | [Le Roi](http://twitter.com/search?q=Le+Roi) | N/A |
-| 33 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | N/A |
+| 14 | [サッカーの王様](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e3%81%ae%e7%8e%8b%e6%a7%98) | N/A |
+| 15 | [Descanse](http://twitter.com/search?q=Descanse) | N/A |
+| 16 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 17 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
+| 18 | [globo](http://twitter.com/search?q=globo) | N/A |
+| 19 | [joaqui](http://twitter.com/search?q=joaqui) | N/A |
+| 20 | [O Rey](http://twitter.com/search?q=O+Rey) | N/A |
+| 21 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 22 | [صوت الانذار](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b0%d8%a7%d8%b1) | N/A |
+| 23 | [Syracuse](http://twitter.com/search?q=Syracuse) | N/A |
+| 24 | [Ian Tyson](http://twitter.com/search?q=Ian+Tyson) | N/A |
+| 25 | [英デザイナーのV・ウエストウッド氏死去](http://twitter.com/search?q=%e8%8b%b1%e3%83%87%e3%82%b6%e3%82%a4%e3%83%8a%e3%83%bc%e3%81%aeV%e3%83%bb%e3%82%a6%e3%82%a8%e3%82%b9%e3%83%88%e3%82%a6%e3%83%83%e3%83%89%e6%b0%8f%e6%ad%bb%e5%8e%bb) | N/A |
+| 26 | [Josh Rock](http://twitter.com/search?q=Josh+Rock) | N/A |
+| 27 | [Dobbs](http://twitter.com/search?q=Dobbs) | N/A |
+| 28 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | N/A |
+| 29 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 30 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 31 | [Payet](http://twitter.com/search?q=Payet) | N/A |
+| 32 | [The Greatest](http://twitter.com/search?q=The+Greatest) | N/A |
+| 33 | [Le Roi](http://twitter.com/search?q=Le+Roi) | N/A |
 | 34 | [O Maior](http://twitter.com/search?q=O+Maior) | N/A |
-| 35 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
-| 36 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
-| 37 | [#Brazil](http://twitter.com/search?q=%23Brazil) | N/A |
-| 38 | [#بيليه](http://twitter.com/search?q=%23%d8%a8%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 35 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | N/A |
+| 36 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
+| 37 | [#بيليه](http://twitter.com/search?q=%23%d8%a8%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 38 | [#Brazil](http://twitter.com/search?q=%23Brazil) | N/A |
 | 39 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
 | 40 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | N/A |
 | 41 | [#HAPPYVDAY](http://twitter.com/search?q=%23HAPPYVDAY) | N/A |
@@ -66,10 +66,10 @@ This is top 50
 | 44 | [#C4PrinceAndrew](http://twitter.com/search?q=%23C4PrinceAndrew) | N/A |
 | 45 | [#SivastaKaraGece](http://twitter.com/search?q=%23SivastaKaraGece) | N/A |
 | 46 | [#امطار_جده](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%ac%d8%af%d9%87) | N/A |
-| 47 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
+| 47 | [#HappyBirthdayV](http://twitter.com/search?q=%23HappyBirthdayV) | N/A |
 | 48 | [#princeandrewthemusical](http://twitter.com/search?q=%23princeandrewthemusical) | N/A |
-| 49 | [#HappyBirthdayV](http://twitter.com/search?q=%23HappyBirthdayV) | N/A |
-| 50 | [#DemocratsDeliveredIn22](http://twitter.com/search?q=%23DemocratsDeliveredIn22) | N/A |
+| 49 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
+| 50 | [#AtletiElche](http://twitter.com/search?q=%23AtletiElche) | N/A |
 
 
 
