@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-29 22:31:18 UTC`
+📆 Last Updated: `2022-12-29 22:41:19 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -21,54 +21,54 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 2 | [Edson Arantes](http://twitter.com/search?q=Edson+Arantes) | N/A |
-| 3 | [#TentacionesDBTFinal](http://twitter.com/search?q=%23TentacionesDBTFinal) | N/A |
-| 4 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 5 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
-| 6 | [Greta](http://twitter.com/search?q=Greta) | N/A |
+| 2 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 3 | [Romanian](http://twitter.com/search?q=Romanian) | N/A |
+| 4 | [Edson Arantes](http://twitter.com/search?q=Edson+Arantes) | N/A |
+| 5 | [Greta](http://twitter.com/search?q=Greta) | N/A |
+| 6 | [#TentacionesDBTFinal](http://twitter.com/search?q=%23TentacionesDBTFinal) | N/A |
 | 7 | [Futebol](http://twitter.com/search?q=Futebol) | N/A |
-| 8 | [#OMTFC](http://twitter.com/search?q=%23OMTFC) | N/A |
-| 9 | [#جده_الان](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | #جده_الان is a hashtag used on social media to refer to the city of Jeddah, Saudi Arabia. In English, it translates to "Jeddah Now". |
+| 8 | [#جده_الان](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | #جده_الان is a hashtag used on social media to refer to the city of Jeddah, Saudi Arabia. In English, it translates to "Jeddah Now". |
+| 9 | [#OMTFC](http://twitter.com/search?q=%23OMTFC) | N/A |
 | 10 | [#TAEHYUNGDAY](http://twitter.com/search?q=%23TAEHYUNGDAY) | N/A |
-| 11 | [#HappyBirthdayTaehyung](http://twitter.com/search?q=%23HappyBirthdayTaehyung) | N/A |
-| 12 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 11 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 12 | [#HappyBirthdayTaehyung](http://twitter.com/search?q=%23HappyBirthdayTaehyung) | N/A |
 | 13 | [Pablo Barrios](http://twitter.com/search?q=Pablo+Barrios) | Pablo Barrios is a Venezuelan show jumping rider who has won numerous international competitions. He is known for his technical ability and competitive spirit. In English, the phrase "Pablo Barrios" refers to the Venezuelan show jumping rider. |
 | 14 | [サッカーの王様](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e3%81%ae%e7%8e%8b%e6%a7%98) | N/A |
 | 15 | [Descanse](http://twitter.com/search?q=Descanse) | N/A |
-| 16 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 17 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
-| 18 | [globo](http://twitter.com/search?q=globo) | N/A |
-| 19 | [joaqui](http://twitter.com/search?q=joaqui) | N/A |
-| 20 | [O Rey](http://twitter.com/search?q=O+Rey) | N/A |
-| 21 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 22 | [صوت الانذار](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b0%d8%a7%d8%b1) | N/A |
-| 23 | [Syracuse](http://twitter.com/search?q=Syracuse) | N/A |
-| 24 | [Ian Tyson](http://twitter.com/search?q=Ian+Tyson) | N/A |
-| 25 | [英デザイナーのV・ウエストウッド氏死去](http://twitter.com/search?q=%e8%8b%b1%e3%83%87%e3%82%b6%e3%82%a4%e3%83%8a%e3%83%bc%e3%81%aeV%e3%83%bb%e3%82%a6%e3%82%a8%e3%82%b9%e3%83%88%e3%82%a6%e3%83%83%e3%83%89%e6%b0%8f%e6%ad%bb%e5%8e%bb) | N/A |
-| 26 | [Josh Rock](http://twitter.com/search?q=Josh+Rock) | N/A |
-| 27 | [Dobbs](http://twitter.com/search?q=Dobbs) | N/A |
-| 28 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | N/A |
-| 29 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
-| 30 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
-| 31 | [Payet](http://twitter.com/search?q=Payet) | N/A |
-| 32 | [The Greatest](http://twitter.com/search?q=The+Greatest) | N/A |
-| 33 | [Le Roi](http://twitter.com/search?q=Le+Roi) | N/A |
-| 34 | [O Maior](http://twitter.com/search?q=O+Maior) | N/A |
-| 35 | [Carlos Alberto](http://twitter.com/search?q=Carlos+Alberto) | N/A |
-| 36 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
-| 37 | [#بيليه](http://twitter.com/search?q=%23%d8%a8%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 16 | [Syracuse](http://twitter.com/search?q=Syracuse) | N/A |
+| 17 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 18 | [Top G](http://twitter.com/search?q=Top+G) | N/A |
+| 19 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
+| 20 | [joaqui](http://twitter.com/search?q=joaqui) | N/A |
+| 21 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 22 | [O Rey](http://twitter.com/search?q=O+Rey) | N/A |
+| 23 | [Ian Tyson](http://twitter.com/search?q=Ian+Tyson) | N/A |
+| 24 | [globo](http://twitter.com/search?q=globo) | N/A |
+| 25 | [Jerry's Pizza](http://twitter.com/search?q=Jerry%27s+Pizza) | N/A |
+| 26 | [英デザイナーのV・ウエストウッド氏死去](http://twitter.com/search?q=%e8%8b%b1%e3%83%87%e3%82%b6%e3%82%a4%e3%83%8a%e3%83%bc%e3%81%aeV%e3%83%bb%e3%82%a6%e3%82%a8%e3%82%b9%e3%83%88%e3%82%a6%e3%83%83%e3%83%89%e6%b0%8f%e6%ad%bb%e5%8e%bb) | N/A |
+| 27 | [Josh Rock](http://twitter.com/search?q=Josh+Rock) | N/A |
+| 28 | [صوت الانذار](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d8%b0%d8%a7%d8%b1) | N/A |
+| 29 | [ヴィヴィアン](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%b4%e3%82%a3%e3%82%a2%e3%83%b3) | N/A |
+| 30 | [Dobbs](http://twitter.com/search?q=Dobbs) | N/A |
+| 31 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
+| 32 | [Rest in Power](http://twitter.com/search?q=Rest+in+Power) | N/A |
+| 33 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | N/A |
+| 34 | [Payet](http://twitter.com/search?q=Payet) | N/A |
+| 35 | [The Greatest](http://twitter.com/search?q=The+Greatest) | N/A |
+| 36 | [休日ダイヤ](http://twitter.com/search?q=%e4%bc%91%e6%97%a5%e3%83%80%e3%82%a4%e3%83%a4) | N/A |
+| 37 | [Le Roi](http://twitter.com/search?q=Le+Roi) | N/A |
 | 38 | [#Brazil](http://twitter.com/search?q=%23Brazil) | N/A |
-| 39 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
+| 39 | [#بيليه](http://twitter.com/search?q=%23%d8%a8%d9%8a%d9%84%d9%8a%d9%87) | N/A |
 | 40 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | N/A |
 | 41 | [#HAPPYVDAY](http://twitter.com/search?q=%23HAPPYVDAY) | N/A |
-| 42 | [#Maradona](http://twitter.com/search?q=%23Maradona) | N/A |
-| 43 | [#GOAT](http://twitter.com/search?q=%23GOAT) | N/A |
-| 44 | [#C4PrinceAndrew](http://twitter.com/search?q=%23C4PrinceAndrew) | N/A |
-| 45 | [#SivastaKaraGece](http://twitter.com/search?q=%23SivastaKaraGece) | N/A |
-| 46 | [#امطار_جده](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%ac%d8%af%d9%87) | N/A |
-| 47 | [#HappyBirthdayV](http://twitter.com/search?q=%23HappyBirthdayV) | N/A |
-| 48 | [#princeandrewthemusical](http://twitter.com/search?q=%23princeandrewthemusical) | N/A |
-| 49 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
+| 42 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
+| 43 | [#Maradona](http://twitter.com/search?q=%23Maradona) | N/A |
+| 44 | [#GOAT](http://twitter.com/search?q=%23GOAT) | N/A |
+| 45 | [#امطار_جده](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%ac%d8%af%d9%87) | N/A |
+| 46 | [#HappyBirthdayV](http://twitter.com/search?q=%23HappyBirthdayV) | N/A |
+| 47 | [#C4PrinceAndrew](http://twitter.com/search?q=%23C4PrinceAndrew) | N/A |
+| 48 | [#SivastaKaraGece](http://twitter.com/search?q=%23SivastaKaraGece) | N/A |
+| 49 | [#princeandrewthemusical](http://twitter.com/search?q=%23princeandrewthemusical) | N/A |
 | 50 | [#AtletiElche](http://twitter.com/search?q=%23AtletiElche) | N/A |
 
 
