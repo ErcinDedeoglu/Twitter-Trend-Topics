@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-30 05:51:31 UTC`
+📆 Last Updated: `2022-12-30 06:01:46 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -29,47 +29,47 @@ This is top 50
 | 7 | [#HALAZIA](http://twitter.com/search?q=%23HALAZIA) | N/A |
 | 8 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
 | 9 | [エースバーン](http://twitter.com/search?q=%e3%82%a8%e3%83%bc%e3%82%b9%e3%83%90%e3%83%bc%e3%83%b3) | N/A |
-| 10 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 11 | [ヤドラン](http://twitter.com/search?q=%e3%83%a4%e3%83%89%e3%83%a9%e3%83%b3) | N/A |
+| 10 | [ヤドラン](http://twitter.com/search?q=%e3%83%a4%e3%83%89%e3%83%a9%e3%83%b3) | N/A |
+| 11 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 12 | [Romania](http://twitter.com/search?q=Romania) | N/A |
 | 13 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 14 | [Dobbs](http://twitter.com/search?q=Dobbs) | N/A |
+| 14 | [somi](http://twitter.com/search?q=somi) | N/A |
 | 15 | [杏ちゃん](http://twitter.com/search?q=%e6%9d%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 16 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 17 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
-| 18 | [グレンアルマ](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%b3%e3%82%a2%e3%83%ab%e3%83%9e) | N/A |
-| 19 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 20 | [Xavier Worthy](http://twitter.com/search?q=Xavier+Worthy) | N/A |
-| 21 | [Vivienne Westwood](http://twitter.com/search?q=Vivienne+Westwood) | N/A |
-| 22 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 23 | [Catherine Kasavuli](http://twitter.com/search?q=Catherine+Kasavuli) | N/A |
-| 24 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
-| 25 | [Ewers](http://twitter.com/search?q=Ewers) | N/A |
-| 26 | [The Black Label](http://twitter.com/search?q=The+Black+Label) | N/A |
-| 27 | [Greta](http://twitter.com/search?q=Greta) | N/A |
+| 16 | [Dobbs](http://twitter.com/search?q=Dobbs) | N/A |
+| 17 | [グレンアルマ](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%b3%e3%82%a2%e3%83%ab%e3%83%9e) | N/A |
+| 18 | [Catherine Kasavuli](http://twitter.com/search?q=Catherine+Kasavuli) | N/A |
+| 19 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 20 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
+| 21 | [Worthy](http://twitter.com/search?q=Worthy) | N/A |
+| 22 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 23 | [Vivienne Westwood](http://twitter.com/search?q=Vivienne+Westwood) | N/A |
+| 24 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 25 | [The Black Label](http://twitter.com/search?q=The+Black+Label) | N/A |
+| 26 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 27 | [Ewers](http://twitter.com/search?q=Ewers) | N/A |
 | 28 | [대통령님](http://twitter.com/search?q=%eb%8c%80%ed%86%b5%eb%a0%b9%eb%8b%98) | N/A |
-| 29 | [hanbin](http://twitter.com/search?q=hanbin) | N/A |
+| 29 | [Greta](http://twitter.com/search?q=Greta) | N/A |
 | 30 | [Cami Homs](http://twitter.com/search?q=Cami+Homs) | N/A |
 | 31 | [キムヨンハ統括P](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%83%a8%e3%83%b3%e3%83%8f%e7%b5%b1%e6%8b%acP) | N/A |
-| 32 | [hyung](http://twitter.com/search?q=hyung) | N/A |
-| 33 | [Kelvin Joseph](http://twitter.com/search?q=Kelvin+Joseph) | N/A |
-| 34 | [Roorkee](http://twitter.com/search?q=Roorkee) | N/A |
-| 35 | [YG Entertainment](http://twitter.com/search?q=YG+Entertainment) | N/A |
-| 36 | [조기퇴근](http://twitter.com/search?q=%ec%a1%b0%ea%b8%b0%ed%87%b4%ea%b7%bc) | N/A |
-| 37 | [ヴィヴィアン](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%b4%e3%82%a3%e3%82%a2%e3%83%b3) | N/A |
-| 38 | [直近3カ月](http://twitter.com/search?q=%e7%9b%b4%e8%bf%913%e3%82%ab%e6%9c%88) | N/A |
-| 39 | [新刊完売](http://twitter.com/search?q=%e6%96%b0%e5%88%8a%e5%ae%8c%e5%a3%b2) | N/A |
+| 32 | [hanbin](http://twitter.com/search?q=hanbin) | N/A |
+| 33 | [hyung](http://twitter.com/search?q=hyung) | N/A |
+| 34 | [Kelvin Joseph](http://twitter.com/search?q=Kelvin+Joseph) | N/A |
+| 35 | [Roorkee](http://twitter.com/search?q=Roorkee) | N/A |
+| 36 | [YG Entertainment](http://twitter.com/search?q=YG+Entertainment) | N/A |
+| 37 | [조기퇴근](http://twitter.com/search?q=%ec%a1%b0%ea%b8%b0%ed%87%b4%ea%b7%bc) | N/A |
+| 38 | [ヴィヴィアン](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%b4%e3%82%a3%e3%82%a2%e3%83%b3) | N/A |
+| 39 | [直近3カ月](http://twitter.com/search?q=%e7%9b%b4%e8%bf%913%e3%82%ab%e6%9c%88) | N/A |
 | 40 | [企業ブース](http://twitter.com/search?q=%e4%bc%81%e6%a5%ad%e3%83%96%e3%83%bc%e3%82%b9) | N/A |
 | 41 | [EXO SC](http://twitter.com/search?q=EXO+SC) | N/A |
-| 42 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
-| 43 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 44 | [Sark](http://twitter.com/search?q=Sark) | N/A |
-| 45 | [hobi](http://twitter.com/search?q=hobi) | N/A |
-| 46 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 47 | [アシッドボム](http://twitter.com/search?q=%e3%82%a2%e3%82%b7%e3%83%83%e3%83%89%e3%83%9c%e3%83%a0) | N/A |
-| 48 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 49 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 50 | [カドゥケウスRTA](http://twitter.com/search?q=%e3%82%ab%e3%83%89%e3%82%a5%e3%82%b1%e3%82%a6%e3%82%b9RTA) | N/A |
+| 42 | [新刊完売](http://twitter.com/search?q=%e6%96%b0%e5%88%8a%e5%ae%8c%e5%a3%b2) | N/A |
+| 43 | [Sark](http://twitter.com/search?q=Sark) | N/A |
+| 44 | [Zeke](http://twitter.com/search?q=Zeke) | Zeke is a nickname for Ezekiel, which is a Hebrew name meaning "God strengthens". |
+| 45 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 46 | [BAMBAM SWEET HOME](http://twitter.com/search?q=BAMBAM+SWEET+HOME) | N/A |
+| 47 | [Yeosang](http://twitter.com/search?q=Yeosang) | N/A |
+| 48 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 49 | [hobi](http://twitter.com/search?q=hobi) | N/A |
+| 50 | [Texas](http://twitter.com/search?q=Texas) | N/A |
 
 
 
