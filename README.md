@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-30 09:22:58 UTC`
+📆 Last Updated: `2022-12-30 09:31:23 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -28,48 +28,48 @@ This is top 50
 | 6 | [最優秀新人賞](http://twitter.com/search?q=%e6%9c%80%e5%84%aa%e7%a7%80%e6%96%b0%e4%ba%ba%e8%b3%9e) | N/A |
 | 7 | [OCHA NORMA](http://twitter.com/search?q=OCHA+NORMA) | N/A |
 | 8 | [タキシード](http://twitter.com/search?q=%e3%82%bf%e3%82%ad%e3%82%b7%e3%83%bc%e3%83%89) | N/A |
-| 9 | [MAS-RAO](http://twitter.com/search?q=MAS-RAO) | N/A |
-| 10 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 11 | [エースバーン](http://twitter.com/search?q=%e3%82%a8%e3%83%bc%e3%82%b9%e3%83%90%e3%83%bc%e3%83%b3) | N/A |
-| 12 | [Tani Yuuki](http://twitter.com/search?q=Tani+Yuuki) | N/A |
-| 13 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 14 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 9 | [Tani Yuuki](http://twitter.com/search?q=Tani+Yuuki) | N/A |
+| 10 | [MAS-RAO](http://twitter.com/search?q=MAS-RAO) | N/A |
+| 11 | [田中あいみさん](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e3%81%82%e3%81%84%e3%81%bf%e3%81%95%e3%82%93) | N/A |
+| 12 | [エースバーン](http://twitter.com/search?q=%e3%82%a8%e3%83%bc%e3%82%b9%e3%83%90%e3%83%bc%e3%83%b3) | N/A |
+| 13 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 14 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
 | 15 | [ヤドラン](http://twitter.com/search?q=%e3%83%a4%e3%83%89%e3%83%a9%e3%83%b3) | N/A |
-| 16 | [Challenger ID](http://twitter.com/search?q=Challenger+ID) | N/A |
-| 17 | [田中あいみさん](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e3%81%82%e3%81%84%e3%81%bf%e3%81%95%e3%82%93) | N/A |
-| 18 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 19 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 20 | [蝶ネクタイ](http://twitter.com/search?q=%e8%9d%b6%e3%83%8d%e3%82%af%e3%82%bf%e3%82%a4) | N/A |
-| 21 | [どろんこパーク](http://twitter.com/search?q=%e3%81%a9%e3%82%8d%e3%82%93%e3%81%93%e3%83%91%e3%83%bc%e3%82%af) | N/A |
+| 16 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 17 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 18 | [Challenger ID](http://twitter.com/search?q=Challenger+ID) | N/A |
+| 19 | [どろんこパーク](http://twitter.com/search?q=%e3%81%a9%e3%82%8d%e3%82%93%e3%81%93%e3%83%91%e3%83%bc%e3%82%af) | N/A |
+| 20 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 21 | [蝶ネクタイ](http://twitter.com/search?q=%e8%9d%b6%e3%83%8d%e3%82%af%e3%82%bf%e3%82%a4) | N/A |
 | 22 | [ソーラン節](http://twitter.com/search?q=%e3%82%bd%e3%83%bc%e3%83%a9%e3%83%b3%e7%af%80) | N/A |
 | 23 | [Catherine Kasavuli](http://twitter.com/search?q=Catherine+Kasavuli) | N/A |
-| 24 | [年越しそば](http://twitter.com/search?q=%e5%b9%b4%e8%b6%8a%e3%81%97%e3%81%9d%e3%81%b0) | N/A |
-| 25 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | N/A |
+| 24 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | N/A |
+| 25 | [年越しそば](http://twitter.com/search?q=%e5%b9%b4%e8%b6%8a%e3%81%97%e3%81%9d%e3%81%b0) | N/A |
 | 26 | [解散GIG](http://twitter.com/search?q=%e8%a7%a3%e6%95%a3GIG) | N/A |
 | 27 | [BTOB 10TH ANNIVERSARY CONCERT](http://twitter.com/search?q=BTOB+10TH+ANNIVERSARY+CONCERT) | N/A |
-| 28 | [ワッキー](http://twitter.com/search?q=%e3%83%af%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 29 | [おりコウ](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%82%b3%e3%82%a6) | N/A |
-| 30 | [キャサリン](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%82%b5%e3%83%aa%e3%83%b3) | N/A |
-| 31 | [無料パート](http://twitter.com/search?q=%e7%84%a1%e6%96%99%e3%83%91%e3%83%bc%e3%83%88) | N/A |
-| 32 | [脇本選手](http://twitter.com/search?q=%e8%84%87%e6%9c%ac%e9%81%b8%e6%89%8b) | N/A |
-| 33 | [競輪グランプリ](http://twitter.com/search?q=%e7%ab%b6%e8%bc%aa%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
+| 28 | [おりコウ](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%82%b3%e3%82%a6) | N/A |
+| 29 | [オチャノーマ](http://twitter.com/search?q=%e3%82%aa%e3%83%81%e3%83%a3%e3%83%8e%e3%83%bc%e3%83%9e) | N/A |
+| 30 | [ワッキー](http://twitter.com/search?q=%e3%83%af%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
+| 31 | [キャサリン](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%82%b5%e3%83%aa%e3%83%b3) | N/A |
+| 32 | [大阪ロンリネス](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e3%83%ad%e3%83%b3%e3%83%aa%e3%83%8d%e3%82%b9) | N/A |
+| 33 | [無料パート](http://twitter.com/search?q=%e7%84%a1%e6%96%99%e3%83%91%e3%83%bc%e3%83%88) | N/A |
 | 34 | [ACIDMAN](http://twitter.com/search?q=ACIDMAN) | N/A |
 | 35 | [Romania](http://twitter.com/search?q=Romania) | N/A |
-| 36 | [オチャノーマ](http://twitter.com/search?q=%e3%82%aa%e3%83%81%e3%83%a3%e3%83%8e%e3%83%bc%e3%83%9e) | N/A |
-| 37 | [スピーディキック](http://twitter.com/search?q=%e3%82%b9%e3%83%94%e3%83%bc%e3%83%87%e3%82%a3%e3%82%ad%e3%83%83%e3%82%af) | N/A |
-| 38 | [2ne1](http://twitter.com/search?q=2ne1) | N/A |
-| 39 | [조기퇴근](http://twitter.com/search?q=%ec%a1%b0%ea%b8%b0%ed%87%b4%ea%b7%bc) | N/A |
-| 40 | [NO GRAVITY](http://twitter.com/search?q=NO+GRAVITY) | N/A |
-| 41 | [私の成績](http://twitter.com/search?q=%e7%a7%81%e3%81%ae%e6%88%90%e7%b8%be) | N/A |
+| 36 | [競輪グランプリ](http://twitter.com/search?q=%e7%ab%b6%e8%bc%aa%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
+| 37 | [脇本選手](http://twitter.com/search?q=%e8%84%87%e6%9c%ac%e9%81%b8%e6%89%8b) | N/A |
+| 38 | [ホルモン](http://twitter.com/search?q=%e3%83%9b%e3%83%ab%e3%83%a2%e3%83%b3) | N/A |
+| 39 | [スピーディキック](http://twitter.com/search?q=%e3%82%b9%e3%83%94%e3%83%bc%e3%83%87%e3%82%a3%e3%82%ad%e3%83%83%e3%82%af) | N/A |
+| 40 | [2ne1](http://twitter.com/search?q=2ne1) | N/A |
+| 41 | [NO GRAVITY](http://twitter.com/search?q=NO+GRAVITY) | N/A |
 | 42 | [ネトゲ廃人シュプレヒコール](http://twitter.com/search?q=%e3%83%8d%e3%83%88%e3%82%b2%e5%bb%83%e4%ba%ba%e3%82%b7%e3%83%a5%e3%83%97%e3%83%ac%e3%83%92%e3%82%b3%e3%83%bc%e3%83%ab) | N/A |
-| 43 | [まーくん](http://twitter.com/search?q=%e3%81%be%e3%83%bc%e3%81%8f%e3%82%93) | N/A |
-| 44 | [くまいさん](http://twitter.com/search?q=%e3%81%8f%e3%81%be%e3%81%84%e3%81%95%e3%82%93) | N/A |
+| 43 | [私の成績](http://twitter.com/search?q=%e7%a7%81%e3%81%ae%e6%88%90%e7%b8%be) | N/A |
+| 44 | [家電芸人](http://twitter.com/search?q=%e5%ae%b6%e9%9b%bb%e8%8a%b8%e4%ba%ba) | N/A |
 | 45 | [ASTRO](http://twitter.com/search?q=ASTRO) | N/A |
-| 46 | [セーラちゃん](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
-| 48 | [杏ちゃん](http://twitter.com/search?q=%e6%9d%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 49 | [買い出し](http://twitter.com/search?q=%e8%b2%b7%e3%81%84%e5%87%ba%e3%81%97) | 買い出し (kaidashi) is a Japanese term that means "shopping" or "going shopping". It is used to refer to the act of going out to buy groceries, supplies, or other items. |
-| 50 | [#GenshinImpactLotteryEvent](http://twitter.com/search?q=%23GenshinImpactLotteryEvent) | N/A |
+| 46 | [조기퇴근](http://twitter.com/search?q=%ec%a1%b0%ea%b8%b0%ed%87%b4%ea%b7%bc) | N/A |
+| 47 | [まーくん](http://twitter.com/search?q=%e3%81%be%e3%83%bc%e3%81%8f%e3%82%93) | N/A |
+| 48 | [くまいさん](http://twitter.com/search?q=%e3%81%8f%e3%81%be%e3%81%84%e3%81%95%e3%82%93) | N/A |
+| 49 | [セーラちゃん](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 50 | [ऋषभ पंत](http://twitter.com/search?q=%e0%a4%8b%e0%a4%b7%e0%a4%ad+%e0%a4%aa%e0%a4%82%e0%a4%a4) | N/A |
 
 
 
