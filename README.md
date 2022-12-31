@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-31 14:22:49 UTC`
+📆 Last Updated: `2022-12-31 14:31:19 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -26,50 +26,50 @@ This is top 50
 | 4 | [年越しそば](http://twitter.com/search?q=%e5%b9%b4%e8%b6%8a%e3%81%97%e3%81%9d%e3%81%b0) | N/A |
 | 5 | [#生ブラホワ](http://twitter.com/search?q=%23%e7%94%9f%e3%83%96%e3%83%a9%e3%83%9b%e3%83%af) | N/A |
 | 6 | [#逃走中](http://twitter.com/search?q=%23%e9%80%83%e8%b5%b0%e4%b8%ad) | N/A |
-| 7 | [安全地帯](http://twitter.com/search?q=%e5%ae%89%e5%85%a8%e5%9c%b0%e5%b8%af) | 安全地帯 (Anzen Chitai) is a Japanese term that literally translates to "safety zone". It is used to refer to a place or area where people can feel safe and secure. It can also be used to refer to a physical barrier or buffer zone between two areas, such as a border between two countries. |
-| 8 | [#ichiban](http://twitter.com/search?q=%23ichiban) | N/A |
-| 9 | [#WOLMUN](http://twitter.com/search?q=%23WOLMUN) | N/A |
+| 7 | [#WOLMUN](http://twitter.com/search?q=%23WOLMUN) | N/A |
+| 8 | [安全地帯](http://twitter.com/search?q=%e5%ae%89%e5%85%a8%e5%9c%b0%e5%b8%af) | 安全地帯 (Anzen Chitai) is a Japanese term that literally translates to "safety zone". It is used to refer to a place or area where people can feel safe and secure. It can also be used to refer to a physical barrier or buffer zone between two areas, such as a border between two countries. |
+| 9 | [#ichiban](http://twitter.com/search?q=%23ichiban) | N/A |
 | 10 | [Vaundy](http://twitter.com/search?q=Vaundy) | N/A |
 | 11 | [篠原涼子](http://twitter.com/search?q=%e7%af%a0%e5%8e%9f%e6%b6%bc%e5%ad%90) | N/A |
 | 12 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
-| 13 | [氷川きよし](http://twitter.com/search?q=%e6%b0%b7%e5%b7%9d%e3%81%8d%e3%82%88%e3%81%97) | N/A |
-| 14 | [天城越え](http://twitter.com/search?q=%e5%a4%a9%e5%9f%8e%e8%b6%8a%e3%81%88) | N/A |
+| 13 | [天城越え](http://twitter.com/search?q=%e5%a4%a9%e5%9f%8e%e8%b6%8a%e3%81%88) | N/A |
+| 14 | [氷川きよし](http://twitter.com/search?q=%e6%b0%b7%e5%b7%9d%e3%81%8d%e3%82%88%e3%81%97) | N/A |
 | 15 | [Antony](http://twitter.com/search?q=Antony) | N/A |
-| 16 | [ユーミン](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%83%9f%e3%83%b3) | N/A |
-| 17 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 16 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 17 | [ユーミン](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%83%9f%e3%83%b3) | N/A |
 | 18 | [KinKi](http://twitter.com/search?q=KinKi) | N/A |
-| 19 | [花子さん](http://twitter.com/search?q=%e8%8a%b1%e5%ad%90%e3%81%95%e3%82%93) | N/A |
-| 20 | [ジャンボリミッキー](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc) | ジャンボリミッキー is a type of Japanese snack food made by Lotte. It is a biscuit shaped like Mickey Mouse and filled with a sweet bean paste. In English, it is known as Jumbo Mickey Biscuits. |
-| 21 | [描き納め](http://twitter.com/search?q=%e6%8f%8f%e3%81%8d%e7%b4%8d%e3%82%81) | N/A |
-| 22 | [カウコン](http://twitter.com/search?q=%e3%82%ab%e3%82%a6%e3%82%b3%e3%83%b3) | N/A |
-| 23 | [TRIGGER](http://twitter.com/search?q=TRIGGER) | N/A |
+| 19 | [カウコン](http://twitter.com/search?q=%e3%82%ab%e3%82%a6%e3%82%b3%e3%83%b3) | N/A |
+| 20 | [描き納め](http://twitter.com/search?q=%e6%8f%8f%e3%81%8d%e7%b4%8d%e3%82%81) | N/A |
+| 21 | [MISIA](http://twitter.com/search?q=MISIA) | N/A |
+| 22 | [花子さん](http://twitter.com/search?q=%e8%8a%b1%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 23 | [ジャンボリミッキー](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc) | ジャンボリミッキー is a type of Japanese snack food made by Lotte. It is a biscuit shaped like Mickey Mouse and filled with a sweet bean paste. In English, it is known as Jumbo Mickey Biscuits. |
 | 24 | [年越し蕎麦](http://twitter.com/search?q=%e5%b9%b4%e8%b6%8a%e3%81%97%e8%95%8e%e9%ba%a6) | N/A |
-| 25 | [T.W.L](http://twitter.com/search?q=T.W.L) | T.W.L stands for "Time, Work, and Life" and is a term used to describe the balance between work, leisure, and personal life. It is often used in the context of work-life balance and refers to the need to find a balance between work commitments and other aspects of life such as family, friends, hobbies, etc. |
-| 26 | [硝子の少年](http://twitter.com/search?q=%e7%a1%9d%e5%ad%90%e3%81%ae%e5%b0%91%e5%b9%b4) | N/A |
-| 27 | [小室哲哉](http://twitter.com/search?q=%e5%b0%8f%e5%ae%a4%e5%93%b2%e5%93%89) | N/A |
-| 28 | [玉置浩二](http://twitter.com/search?q=%e7%8e%89%e7%bd%ae%e6%b5%a9%e4%ba%8c) | 玉置浩二 is a Japanese singer, songwriter, and actor. His name translates to "Koji Tamaki" in English. |
-| 29 | [加山雄三](http://twitter.com/search?q=%e5%8a%a0%e5%b1%b1%e9%9b%84%e4%b8%89) | N/A |
-| 30 | [あいみょん](http://twitter.com/search?q=%e3%81%82%e3%81%84%e3%81%bf%e3%82%87%e3%82%93) | N/A |
-| 31 | [Superfly](http://twitter.com/search?q=Superfly) | Superfly is a 1972 American blaxploitation crime drama film directed by Gordon Parks Jr. and starring Ron O'Neal as Youngblood Priest, a cocaine dealer who is trying to quit the underworld drug business. The term "superfly" has come to mean someone who is stylish, flashy, and successful in their endeavors. |
-| 32 | [Benedicto XVI](http://twitter.com/search?q=Benedicto+XVI) | N/A |
-| 33 | [関ジャニ](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%8b) | N/A |
+| 25 | [TRIGGER](http://twitter.com/search?q=TRIGGER) | N/A |
+| 26 | [T.W.L](http://twitter.com/search?q=T.W.L) | T.W.L stands for "Time, Work, and Life" and is a term used to describe the balance between work, leisure, and personal life. It is often used in the context of work-life balance and refers to the need to find a balance between work commitments and other aspects of life such as family, friends, hobbies, etc. |
+| 27 | [玉置浩二](http://twitter.com/search?q=%e7%8e%89%e7%bd%ae%e6%b5%a9%e4%ba%8c) | 玉置浩二 is a Japanese singer, songwriter, and actor. His name translates to "Koji Tamaki" in English. |
+| 28 | [硝子の少年](http://twitter.com/search?q=%e7%a1%9d%e5%ad%90%e3%81%ae%e5%b0%91%e5%b9%b4) | N/A |
+| 29 | [佐野元春](http://twitter.com/search?q=%e4%bd%90%e9%87%8e%e5%85%83%e6%98%a5) | N/A |
+| 30 | [小室哲哉](http://twitter.com/search?q=%e5%b0%8f%e5%ae%a4%e5%93%b2%e5%93%89) | N/A |
+| 31 | [加山雄三](http://twitter.com/search?q=%e5%8a%a0%e5%b1%b1%e9%9b%84%e4%b8%89) | N/A |
+| 32 | [あいみょん](http://twitter.com/search?q=%e3%81%82%e3%81%84%e3%81%bf%e3%82%87%e3%82%93) | N/A |
+| 33 | [Superfly](http://twitter.com/search?q=Superfly) | Superfly is a 1972 American blaxploitation crime drama film directed by Gordon Parks Jr. and starring Ron O'Neal as Youngblood Priest, a cocaine dealer who is trying to quit the underworld drug business. The term "superfly" has come to mean someone who is stylish, flashy, and successful in their endeavors. |
 | 34 | [Re:vale](http://twitter.com/search?q=Re%3avale) | N/A |
-| 35 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | N/A |
-| 36 | [工藤静香](http://twitter.com/search?q=%e5%b7%a5%e8%97%a4%e9%9d%99%e9%a6%99) | 工藤静香 (Kudou Shizuka) is a fictional character from the manga and anime series Detective Conan. She is a genius high school student who assists the protagonist, Conan Edogawa, in solving cases. Her name translates to "Silent Bell of Kudou" in English. |
-| 37 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
-| 38 | [Fate](http://twitter.com/search?q=Fate) | N/A |
-| 39 | [卒業写真](http://twitter.com/search?q=%e5%8d%92%e6%a5%ad%e5%86%99%e7%9c%9f) | N/A |
-| 40 | [小室さん](http://twitter.com/search?q=%e5%b0%8f%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
-| 41 | [back number](http://twitter.com/search?q=back+number) | N/A |
-| 42 | [刀剣男士](http://twitter.com/search?q=%e5%88%80%e5%89%a3%e7%94%b7%e5%a3%ab) | N/A |
-| 43 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 44 | [Wolves](http://twitter.com/search?q=Wolves) | N/A |
-| 45 | [パフォーマンス](http://twitter.com/search?q=%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9) | N/A |
-| 46 | [ウタちゃん](http://twitter.com/search?q=%e3%82%a6%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | ウタちゃん is a nickname for the Japanese singer Utada Hikaru. It is a combination of her first name and the Japanese honorific suffix “-chan”, which is used to express endearment or familiarity. In English, it could be translated as “Hikaru-chan”. |
-| 47 | [가요대제전](http://twitter.com/search?q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%a0%9c%ec%a0%84) | N/A |
-| 48 | [Perfume](http://twitter.com/search?q=Perfume) | Perfume is a fragrant liquid made from essential oils, aroma compounds, and solvents that is used to give a pleasant scent to the body, clothing, or objects. The word "perfume" comes from the Latin phrase "per fumum," which means "through smoke." |
-| 49 | [石川さゆり](http://twitter.com/search?q=%e7%9f%b3%e5%b7%9d%e3%81%95%e3%82%86%e3%82%8a) | N/A |
-| 50 | [subtitle](http://twitter.com/search?q=subtitle) | Subtitle is a text that appears on screen to provide additional or interpretive information about the content of a video, film, or television program. It is usually displayed at the bottom of the screen and can be used to translate dialogue into another language, provide a description of the action for viewers who are deaf or hard of hearing, or provide additional context for viewers who may not understand the dialogue. |
+| 35 | [Benedicto XVI](http://twitter.com/search?q=Benedicto+XVI) | N/A |
+| 36 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | N/A |
+| 37 | [Wolves](http://twitter.com/search?q=Wolves) | N/A |
+| 38 | [関ジャニ](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%8b) | N/A |
+| 39 | [Char](http://twitter.com/search?q=Char) | N/A |
+| 40 | [工藤静香](http://twitter.com/search?q=%e5%b7%a5%e8%97%a4%e9%9d%99%e9%a6%99) | 工藤静香 (Kudou Shizuka) is a fictional character from the manga and anime series Detective Conan. She is a genius high school student who assists the protagonist, Conan Edogawa, in solving cases. Her name translates to "Silent Bell of Kudou" in English. |
+| 41 | [小室さん](http://twitter.com/search?q=%e5%b0%8f%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
+| 42 | [Fate](http://twitter.com/search?q=Fate) | N/A |
+| 43 | [卒業写真](http://twitter.com/search?q=%e5%8d%92%e6%a5%ad%e5%86%99%e7%9c%9f) | N/A |
+| 44 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
+| 45 | [back number](http://twitter.com/search?q=back+number) | N/A |
+| 46 | [刀剣男士](http://twitter.com/search?q=%e5%88%80%e5%89%a3%e7%94%b7%e5%a3%ab) | N/A |
+| 47 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 48 | [パフォーマンス](http://twitter.com/search?q=%e3%83%91%e3%83%95%e3%82%a9%e3%83%bc%e3%83%9e%e3%83%b3%e3%82%b9) | N/A |
+| 49 | [가요대제전](http://twitter.com/search?q=%ea%b0%80%ec%9a%94%eb%8c%80%ec%a0%9c%ec%a0%84) | N/A |
+| 50 | [桑田佳祐](http://twitter.com/search?q=%e6%a1%91%e7%94%b0%e4%bd%b3%e7%a5%90) | N/A |
 
 
 
