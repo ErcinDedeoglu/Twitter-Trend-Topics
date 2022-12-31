@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2022-12-31 10:31:24 UTC`
+📆 Last Updated: `2022-12-31 10:41:09 UTC`
 
 🔧 Updated every 10 minutes!
 
@@ -30,46 +30,46 @@ This is top 50
 | 8 | [年越し蕎麦](http://twitter.com/search?q=%e5%b9%b4%e8%b6%8a%e3%81%97%e8%95%8e%e9%ba%a6) | N/A |
 | 9 | [描き納め](http://twitter.com/search?q=%e6%8f%8f%e3%81%8d%e7%b4%8d%e3%82%81) | N/A |
 | 10 | [トップバッター](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e3%83%90%e3%83%83%e3%82%bf%e3%83%bc) | N/A |
-| 11 | [SixTONES最高](http://twitter.com/search?q=SixTONES%e6%9c%80%e9%ab%98) | N/A |
-| 12 | [あと数時間](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e6%95%b0%e6%99%82%e9%96%93) | N/A |
-| 13 | [すき焼き](http://twitter.com/search?q=%e3%81%99%e3%81%8d%e7%84%bc%e3%81%8d) | N/A |
-| 14 | [Rutsch](http://twitter.com/search?q=Rutsch) | N/A |
-| 15 | [エルキドゥ](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%82%ad%e3%83%89%e3%82%a5) | N/A |
-| 16 | [ムンビン](http://twitter.com/search?q=%e3%83%a0%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
-| 17 | [Lee Jong Suk](http://twitter.com/search?q=Lee+Jong+Suk) | N/A |
-| 18 | [カウコン](http://twitter.com/search?q=%e3%82%ab%e3%82%a6%e3%82%b3%e3%83%b3) | N/A |
-| 19 | [ハンター](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 20 | [メドローア](http://twitter.com/search?q=%e3%83%a1%e3%83%89%e3%83%ad%e3%83%bc%e3%82%a2) | N/A |
-| 21 | [オープニング](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
-| 22 | [年越しうどん](http://twitter.com/search?q=%e5%b9%b4%e8%b6%8a%e3%81%97%e3%81%86%e3%81%a9%e3%82%93) | N/A |
-| 23 | [Mela](http://twitter.com/search?q=Mela) | N/A |
-| 24 | [なにわちゃん](http://twitter.com/search?q=%e3%81%aa%e3%81%ab%e3%82%8f%e3%81%a1%e3%82%83%e3%82%93) | なにわちゃん is a nickname for the city of Osaka, Japan. It is derived from the city's old name, Naniwa. In English, it can be translated to mean "Little Osaka". |
-| 25 | [スカパラ](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%91%e3%83%a9) | N/A |
-| 26 | [NPチャージ](http://twitter.com/search?q=NP%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b8) | N/A |
-| 27 | [紅白待機](http://twitter.com/search?q=%e7%b4%85%e7%99%bd%e5%be%85%e6%a9%9f) | N/A |
-| 28 | [地獄の釜](http://twitter.com/search?q=%e5%9c%b0%e7%8d%84%e3%81%ae%e9%87%9c) | N/A |
-| 29 | [ベネディクト16世](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%83%87%e3%82%a3%e3%82%af%e3%83%8816%e4%b8%96) | N/A |
-| 30 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | N/A |
-| 31 | [Benoît XVI](http://twitter.com/search?q=Beno%c3%aet+XVI) | N/A |
-| 32 | [橋本環奈](http://twitter.com/search?q=%e6%a9%8b%e6%9c%ac%e7%92%b0%e5%a5%88) | N/A |
-| 33 | [れにちゃん](http://twitter.com/search?q=%e3%82%8c%e3%81%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 34 | [IUちゃん](http://twitter.com/search?q=IU%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 35 | [seungkwan](http://twitter.com/search?q=seungkwan) | N/A |
-| 36 | [NP50](http://twitter.com/search?q=NP50) | N/A |
-| 37 | [我と会話](http://twitter.com/search?q=%e6%88%91%e3%81%a8%e4%bc%9a%e8%a9%b1) | N/A |
-| 38 | [環奈ちゃん](http://twitter.com/search?q=%e7%92%b0%e5%a5%88%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 39 | [フランコ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b3) | N/A |
-| 40 | [縄跳びダンス](http://twitter.com/search?q=%e7%b8%84%e8%b7%b3%e3%81%b3%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
-| 41 | [ユンサナ](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%b5%e3%83%8a) | N/A |
-| 42 | [Papst](http://twitter.com/search?q=Papst) | N/A |
-| 43 | [マツケンサンバ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90) | N/A |
-| 44 | [NHKホール](http://twitter.com/search?q=NHK%e3%83%9b%e3%83%bc%e3%83%ab) | N/A |
-| 45 | [天童よしみ](http://twitter.com/search?q=%e5%a4%a9%e7%ab%a5%e3%82%88%e3%81%97%e3%81%bf) | N/A |
+| 11 | [郷ひろみ](http://twitter.com/search?q=%e9%83%b7%e3%81%b2%e3%82%8d%e3%81%bf) | N/A |
+| 12 | [なにわちゃん](http://twitter.com/search?q=%e3%81%aa%e3%81%ab%e3%82%8f%e3%81%a1%e3%82%83%e3%82%93) | なにわちゃん is a nickname for the city of Osaka, Japan. It is derived from the city's old name, Naniwa. In English, it can be translated to mean "Little Osaka". |
+| 13 | [SixTONES最高](http://twitter.com/search?q=SixTONES%e6%9c%80%e9%ab%98) | N/A |
+| 14 | [あと数時間](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e6%95%b0%e6%99%82%e9%96%93) | N/A |
+| 15 | [すき焼き](http://twitter.com/search?q=%e3%81%99%e3%81%8d%e7%84%bc%e3%81%8d) | N/A |
+| 16 | [Mela](http://twitter.com/search?q=Mela) | N/A |
+| 17 | [Rutsch](http://twitter.com/search?q=Rutsch) | N/A |
+| 18 | [橋本環奈](http://twitter.com/search?q=%e6%a9%8b%e6%9c%ac%e7%92%b0%e5%a5%88) | N/A |
+| 19 | [オープニング](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%8b%e3%83%b3%e3%82%b0) | N/A |
+| 20 | [エルキドゥ](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%82%ad%e3%83%89%e3%82%a5) | N/A |
+| 21 | [ムンビン](http://twitter.com/search?q=%e3%83%a0%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
+| 22 | [メドローア](http://twitter.com/search?q=%e3%83%a1%e3%83%89%e3%83%ad%e3%83%bc%e3%82%a2) | N/A |
+| 23 | [カウコン](http://twitter.com/search?q=%e3%82%ab%e3%82%a6%e3%82%b3%e3%83%b3) | N/A |
+| 24 | [ハンター](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 25 | [Lee Jong Suk](http://twitter.com/search?q=Lee+Jong+Suk) | N/A |
+| 26 | [年越しうどん](http://twitter.com/search?q=%e5%b9%b4%e8%b6%8a%e3%81%97%e3%81%86%e3%81%a9%e3%82%93) | N/A |
+| 27 | [緑黄色社会](http://twitter.com/search?q=%e7%b7%91%e9%bb%84%e8%89%b2%e7%a4%be%e4%bc%9a) | N/A |
+| 28 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | N/A |
+| 29 | [スカパラ](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%91%e3%83%a9) | N/A |
+| 30 | [Benoît XVI](http://twitter.com/search?q=Beno%c3%aet+XVI) | N/A |
+| 31 | [地獄の釜](http://twitter.com/search?q=%e5%9c%b0%e7%8d%84%e3%81%ae%e9%87%9c) | N/A |
+| 32 | [ベネディクト16世](http://twitter.com/search?q=%e3%83%99%e3%83%8d%e3%83%87%e3%82%a3%e3%82%af%e3%83%8816%e4%b8%96) | N/A |
+| 33 | [NPチャージ](http://twitter.com/search?q=NP%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b8) | N/A |
+| 34 | [紅白待機](http://twitter.com/search?q=%e7%b4%85%e7%99%bd%e5%be%85%e6%a9%9f) | N/A |
+| 35 | [初心LOVE](http://twitter.com/search?q=%e5%88%9d%e5%bf%83LOVE) | 初心LOVE is a Japanese pop song by the group AAA. The title translates to "First Love" in English, and the song is about remembering one's first love and the feelings associated with it. |
+| 36 | [NHKホール](http://twitter.com/search?q=NHK%e3%83%9b%e3%83%bc%e3%83%ab) | N/A |
+| 37 | [縄跳びダンス](http://twitter.com/search?q=%e7%b8%84%e8%b7%b3%e3%81%b3%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
+| 38 | [我と会話](http://twitter.com/search?q=%e6%88%91%e3%81%a8%e4%bc%9a%e8%a9%b1) | N/A |
+| 39 | [IUちゃん](http://twitter.com/search?q=IU%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [NP50](http://twitter.com/search?q=NP50) | N/A |
+| 41 | [れにちゃん](http://twitter.com/search?q=%e3%82%8c%e3%81%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 42 | [seungkwan](http://twitter.com/search?q=seungkwan) | N/A |
+| 43 | [羽生くん](http://twitter.com/search?q=%e7%be%bd%e7%94%9f%e3%81%8f%e3%82%93) | 羽生くん is a nickname for Japanese figure skater Yuzuru Hanyu. It is a combination of his given name, Yuzuru, and the Japanese honorific suffix “-kun” which is used to refer to boys or young men. In English, it can be translated as “Yuzuru-kun”. |
+| 44 | [Papst](http://twitter.com/search?q=Papst) | N/A |
+| 45 | [ユンサナ](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%b5%e3%83%8a) | N/A |
 | 46 | [仕事始め](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e5%a7%8b%e3%82%81) | N/A |
-| 47 | [PRIDEのテーマ](http://twitter.com/search?q=PRIDE%e3%81%ae%e3%83%86%e3%83%bc%e3%83%9e) | N/A |
-| 48 | [残り数時間](http://twitter.com/search?q=%e6%ae%8b%e3%82%8a%e6%95%b0%e6%99%82%e9%96%93) | N/A |
-| 49 | [アニコブ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%82%b3%e3%83%96) | N/A |
-| 50 | [カウントダウン](http://twitter.com/search?q=%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%83%80%e3%82%a6%e3%83%b3) | N/A |
+| 47 | [天童よしみ](http://twitter.com/search?q=%e5%a4%a9%e7%ab%a5%e3%82%88%e3%81%97%e3%81%bf) | N/A |
+| 48 | [リョクシャカ](http://twitter.com/search?q=%e3%83%aa%e3%83%a7%e3%82%af%e3%82%b7%e3%83%a3%e3%82%ab) | N/A |
+| 49 | [徹子さん](http://twitter.com/search?q=%e5%be%b9%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 50 | [YOSHIKIさん](http://twitter.com/search?q=YOSHIKI%e3%81%95%e3%82%93) | N/A |
 
 
 
