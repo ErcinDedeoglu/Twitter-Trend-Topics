@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-01-29 15:23:36 UTC`
+📆 Last Updated: `2023-01-29 16:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 2 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 3 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 4 | [#FicaGabriel](http://twitter.com/search?q=%23FicaGabriel) | N/A |
-| 5 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 6 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 7 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 8 | [#ROCnaESPN](http://twitter.com/search?q=%23ROCnaESPN) | N/A |
-| 9 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 10 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
-| 11 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
-| 12 | [Dia da Visibilidade Trans](http://twitter.com/search?q=Dia+da+Visibilidade+Trans) | N/A |
-| 13 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 14 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
-| 15 | [#FACupNaESPN](http://twitter.com/search?q=%23FACupNaESPN) | N/A |
-| 16 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
-| 17 | [Muriaé](http://twitter.com/search?q=Muria%c3%a9) | N/A |
-| 18 | [#AustralianOpenNaESPN](http://twitter.com/search?q=%23AustralianOpenNaESPN) | N/A |
-| 19 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 20 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 21 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
-| 22 | [Vargas](http://twitter.com/search?q=Vargas) | N/A |
-| 23 | [Gleisi](http://twitter.com/search?q=Gleisi) | N/A |
-| 24 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 25 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 26 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 27 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 28 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 29 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
-| 30 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 31 | [Morumbi](http://twitter.com/search?q=Morumbi) | N/A |
-| 32 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 33 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 34 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 35 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 36 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 37 | [Rogério Marinho](http://twitter.com/search?q=Rog%c3%a9rio+Marinho) | N/A |
-| 38 | [caetano](http://twitter.com/search?q=caetano) | N/A |
-| 39 | [BAVI](http://twitter.com/search?q=BAVI) | N/A |
-| 40 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 42 | [Aras](http://twitter.com/search?q=Aras) | Aras is a Persian word meaning "brilliance" or "splendor". It is often used to describe someone or something that is particularly impressive or beautiful. |
-| 43 | [Mayke](http://twitter.com/search?q=Mayke) | Mayke is a Dutch name derived from the Latin name Michael, meaning "who is like God?". It is also a variant of the English name Mike. |
-| 44 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 45 | [Raniel](http://twitter.com/search?q=Raniel) | N/A |
-| 46 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 47 | [UFPI](http://twitter.com/search?q=UFPI) | N/A |
-| 48 | [Vice](http://twitter.com/search?q=Vice) | N/A |
-| 49 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
-| 50 | [PACHECO NÃO](http://twitter.com/search?q=PACHECO+N%c3%83O) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 4 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 5 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 6 | [#FicaGabriel](http://twitter.com/search?q=%23FicaGabriel) | N/A |
+| 7 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 8 | [Vargas](http://twitter.com/search?q=Vargas) | N/A |
+| 9 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 10 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 11 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 12 | [#FACupNaESPN](http://twitter.com/search?q=%23FACupNaESPN) | N/A |
+| 13 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 14 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 15 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 17 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 18 | [Gleisi](http://twitter.com/search?q=Gleisi) | N/A |
+| 19 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
+| 20 | [niki](http://twitter.com/search?q=niki) | N/A |
+| 21 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
+| 22 | [#ROCnaESPN](http://twitter.com/search?q=%23ROCnaESPN) | N/A |
+| 23 | [Muriaé](http://twitter.com/search?q=Muria%c3%a9) | N/A |
+| 24 | [Morumbi](http://twitter.com/search?q=Morumbi) | N/A |
+| 25 | [Monza](http://twitter.com/search?q=Monza) | N/A |
+| 26 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 27 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 28 | [Dia da Visibilidade Trans](http://twitter.com/search?q=Dia+da+Visibilidade+Trans) | N/A |
+| 29 | [Ademir](http://twitter.com/search?q=Ademir) | N/A |
+| 30 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 31 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 32 | [#italianonaespn](http://twitter.com/search?q=%23italianonaespn) | N/A |
+| 33 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 34 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 35 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
+| 36 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
+| 37 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 38 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 39 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 40 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
+| 41 | [Federer](http://twitter.com/search?q=Federer) | N/A |
+| 42 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 43 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 44 | [Queima](http://twitter.com/search?q=Queima) | N/A |
+| 45 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 46 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 47 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 48 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 49 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 50 | [Rogério Marinho](http://twitter.com/search?q=Rog%c3%a9rio+Marinho) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-01-29 15:24:27 UTC`
+📆 Last Updated: `2023-01-29 16:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 2 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 3 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 4 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 4 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
 | 5 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 6 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 7 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 8 | [#BRILIV](http://twitter.com/search?q=%23BRILIV) | N/A |
-| 9 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 10 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
-| 11 | [LiVARpool](http://twitter.com/search?q=LiVARpool) | LiVARpool is a portmanteau of the words “Liverpool” and “VAR” (Video Assistant Referee). It is a term used to describe the use of VAR technology in football matches played in Liverpool, England. The term was coined by fans of Liverpool Football Club, who felt that the use of VAR technology had been beneficial to their team. |
+| 6 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 7 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 8 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 9 | [#BRILIV](http://twitter.com/search?q=%23BRILIV) | N/A |
+| 10 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 11 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 12 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 13 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 14 | [Zahawi](http://twitter.com/search?q=Zahawi) | N/A |
-| 15 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 16 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 17 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
-| 18 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
-| 19 | [Lewis Dunk](http://twitter.com/search?q=Lewis+Dunk) | N/A |
-| 20 | [#LiverpoolFC](http://twitter.com/search?q=%23LiverpoolFC) | N/A |
-| 21 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | N/A |
-| 22 | [Bob Olinger](http://twitter.com/search?q=Bob+Olinger) | N/A |
+| 13 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 14 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 15 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 16 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 17 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 18 | [#BHAFC](http://twitter.com/search?q=%23BHAFC) | N/A |
+| 19 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 20 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 21 | [David Coote](http://twitter.com/search?q=David+Coote) | David Coote is a British football referee who officiates in the Premier League and UEFA competitions. He is also a member of the FIFA International Referees List. The name "David Coote" is derived from his full name, David John Coote. |
+| 22 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 23 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 24 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 26 | [#BigGardenBirdWatch2023](http://twitter.com/search?q=%23BigGardenBirdWatch2023) | N/A |
-| 27 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 28 | [Naby](http://twitter.com/search?q=Naby) | Naby is a slang term derived from the phrase "neighborhood buddy." It is used to refer to someone who is a close friend or ally in one's local area. |
-| 29 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 30 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 31 | [Ashby](http://twitter.com/search?q=Ashby) | N/A |
-| 32 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 33 | [That's 2](http://twitter.com/search?q=That%27s+2) | N/A |
-| 34 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 35 | [Gracious](http://twitter.com/search?q=Gracious) | N/A |
-| 36 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 37 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 38 | [Ministerial Code](http://twitter.com/search?q=Ministerial+Code) | N/A |
-| 39 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 40 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 41 | [Clive](http://twitter.com/search?q=Clive) | N/A |
-| 42 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 43 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 44 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 45 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 46 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 47 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 48 | [Amex](http://twitter.com/search?q=Amex) | N/A |
-| 49 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 50 | [Stratford](http://twitter.com/search?q=Stratford) | N/A |
+| 24 | [Zahawi](http://twitter.com/search?q=Zahawi) | N/A |
+| 25 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 26 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | N/A |
+| 27 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 28 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 29 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
+| 30 | [Subs](http://twitter.com/search?q=Subs) | N/A |
+| 31 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 32 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 33 | [Berge](http://twitter.com/search?q=Berge) | N/A |
+| 34 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 35 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 36 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 37 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | N/A |
+| 38 | [Naby](http://twitter.com/search?q=Naby) | Naby is a slang term derived from the phrase "neighborhood buddy." It is used to refer to someone who is a close friend or ally in one's local area. |
+| 39 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 40 | [Quins](http://twitter.com/search?q=Quins) | N/A |
+| 41 | [bob olinger](http://twitter.com/search?q=bob+olinger) | N/A |
+| 42 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 43 | [That's 2](http://twitter.com/search?q=That%27s+2) | N/A |
+| 44 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 45 | [Amex](http://twitter.com/search?q=Amex) | N/A |
+| 46 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 47 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 48 | [Livingston](http://twitter.com/search?q=Livingston) | N/A |
+| 49 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | N/A |
+| 50 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
 
 
 

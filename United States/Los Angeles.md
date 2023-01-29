@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-01-29 15:24:13 UTC`
+📆 Last Updated: `2023-01-29 16:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
 | 3 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 4 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 5 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 6 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 7 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | N/A |
-| 8 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 9 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 10 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 11 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 12 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 13 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
-| 14 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 15 | [#ItsAPhillyThing](http://twitter.com/search?q=%23ItsAPhillyThing) | N/A |
-| 16 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
-| 17 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 18 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 19 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 21 | [Monza](http://twitter.com/search?q=Monza) | N/A |
-| 22 | [Game Dey](http://twitter.com/search?q=Game+Dey) | N/A |
-| 23 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
-| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 25 | [Daily Quordle 370](http://twitter.com/search?q=Daily+Quordle+370) | N/A |
-| 26 | [Eagles and Bengals](http://twitter.com/search?q=Eagles+and+Bengals) | N/A |
-| 27 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 28 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 29 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 30 | [Darren McGavin](http://twitter.com/search?q=Darren+McGavin) | N/A |
-| 31 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 32 | [Shazam 2](http://twitter.com/search?q=Shazam+2) | N/A |
-| 33 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 34 | [Bengals and Eagles](http://twitter.com/search?q=Bengals+and+Eagles) | N/A |
-| 35 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
-| 36 | [Essalud](http://twitter.com/search?q=Essalud) | N/A |
-| 37 | [Mr. T](http://twitter.com/search?q=Mr.+T) | N/A |
-| 38 | [Kolchak](http://twitter.com/search?q=Kolchak) | N/A |
-| 39 | [Celebrating Bubble Tea](http://twitter.com/search?q=Celebrating+Bubble+Tea) | N/A |
-| 40 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 41 | [The Night Stalker](http://twitter.com/search?q=The+Night+Stalker) | N/A |
-| 42 | [Eagles and Chiefs](http://twitter.com/search?q=Eagles+and+Chiefs) | N/A |
-| 43 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 44 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 45 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 46 | [Dust](http://twitter.com/search?q=Dust) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 7 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 8 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 9 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | N/A |
+| 10 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 11 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 12 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 14 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
+| 15 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 16 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 17 | [As a Biden](http://twitter.com/search?q=As+a+Biden) | N/A |
+| 18 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
+| 19 | [Face the Nation](http://twitter.com/search?q=Face+the+Nation) | N/A |
+| 20 | [#AFCChampionship](http://twitter.com/search?q=%23AFCChampionship) | N/A |
+| 21 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 22 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
+| 23 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 24 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 25 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 26 | [Monza](http://twitter.com/search?q=Monza) | N/A |
+| 27 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 28 | [Game Dey](http://twitter.com/search?q=Game+Dey) | N/A |
+| 29 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 30 | [Eagles and Bengals](http://twitter.com/search?q=Eagles+and+Bengals) | N/A |
+| 31 | [Shazam 2](http://twitter.com/search?q=Shazam+2) | N/A |
+| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 33 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 34 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
+| 35 | [Eagles and Chiefs](http://twitter.com/search?q=Eagles+and+Chiefs) | N/A |
+| 36 | [Mr. T](http://twitter.com/search?q=Mr.+T) | N/A |
+| 37 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 38 | [Eagles ML](http://twitter.com/search?q=Eagles+ML) | N/A |
+| 39 | [Daily Quordle 370](http://twitter.com/search?q=Daily+Quordle+370) | N/A |
+| 40 | [Football Sunday](http://twitter.com/search?q=Football+Sunday) | N/A |
+| 41 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
+| 42 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 43 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 44 | [Bengals and Eagles](http://twitter.com/search?q=Bengals+and+Eagles) | N/A |
+| 45 | [Darren McGavin](http://twitter.com/search?q=Darren+McGavin) | N/A |
+| 46 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
 | 47 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 48 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 49 | [IT'S GAMEDAY](http://twitter.com/search?q=IT%27S+GAMEDAY) | N/A |
-| 50 | [Stef](http://twitter.com/search?q=Stef) | N/A |
+| 48 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 49 | [Essalud](http://twitter.com/search?q=Essalud) | N/A |
+| 50 | [WHODEY](http://twitter.com/search?q=WHODEY) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-01-29 15:24:20 UTC`
+📆 Last Updated: `2023-01-29 16:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Austria
 | 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 7 | [#traffic](http://twitter.com/search?q=%23traffic) | N/A |
 | 8 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
-| 9 | [#niederösterreich](http://twitter.com/search?q=%23nieder%c3%b6sterreich) | N/A |
+| 9 | [#LTW2023](http://twitter.com/search?q=%23LTW2023) | N/A |
 | 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 11 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 12 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 12 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 13 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
-| 14 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 14 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
 | 15 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 16 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 17 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 16 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 17 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
 | 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 19 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
 | 20 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 21 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 22 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
-| 23 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
-| 24 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
-| 25 | [Option](http://twitter.com/search?q=Option) | N/A |
-| 26 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 27 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 21 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 22 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 23 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 24 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
+| 25 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
+| 26 | [Option](http://twitter.com/search?q=Option) | N/A |
+| 27 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
 | 28 | [Zeitverlust](http://twitter.com/search?q=Zeitverlust) | N/A |
 | 29 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 30 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 31 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
-| 32 | [Weltkrieg](http://twitter.com/search?q=Weltkrieg) | N/A |
-| 33 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 34 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 35 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 36 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 37 | [van der bellen](http://twitter.com/search?q=van+der+bellen) | N/A |
-| 38 | [Stimme](http://twitter.com/search?q=Stimme) | N/A |
-| 39 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 40 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 41 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 42 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 43 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 44 | [bundespräsidenten](http://twitter.com/search?q=bundespr%c3%a4sidenten) | N/A |
-| 45 | [Menschenrechte](http://twitter.com/search?q=Menschenrechte) | N/A |
-| 46 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 47 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 48 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 49 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
-| 50 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 30 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 31 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
+| 32 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 33 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
+| 34 | [weltkrieg](http://twitter.com/search?q=weltkrieg) | N/A |
+| 35 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 36 | [Stimme](http://twitter.com/search?q=Stimme) | N/A |
+| 37 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 38 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 39 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 40 | [van der bellen](http://twitter.com/search?q=van+der+bellen) | N/A |
+| 41 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 42 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 43 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 44 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 45 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 46 | [bundespräsidenten](http://twitter.com/search?q=bundespr%c3%a4sidenten) | N/A |
+| 47 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
+| 48 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
+| 49 | [Typen](http://twitter.com/search?q=Typen) | N/A |
+| 50 | [minderheit](http://twitter.com/search?q=minderheit) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-01-29 15:23:46 UTC`
+📆 Last Updated: `2023-01-29 16:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,9 +23,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 7 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
 | 8 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 9 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 10 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 11 | [ding](http://twitter.com/search?q=ding) | N/A |
+| 9 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 10 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 11 | [Ding](http://twitter.com/search?q=Ding) | N/A |
 | 12 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
 | 13 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
 | 14 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
@@ -33,35 +33,35 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 16 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 17 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
 | 18 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 19 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
-| 20 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
-| 21 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 22 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
-| 23 | [qu'il](http://twitter.com/search?q=qu%27il) | N/A |
+| 19 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 20 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
+| 21 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
+| 22 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
+| 23 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
 | 24 | [Congo](http://twitter.com/search?q=Congo) | N/A |
 | 25 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 26 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 28 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 29 | [Marc Germann](http://twitter.com/search?q=Marc+Germann) | N/A |
-| 30 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 31 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 32 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 33 | [pre order live](http://twitter.com/search?q=pre+order+live) | N/A |
-| 34 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 35 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 36 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 37 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 38 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 39 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 26 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 27 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 29 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 30 | [Marc Germann](http://twitter.com/search?q=Marc+Germann) | N/A |
+| 31 | [klaus](http://twitter.com/search?q=klaus) | N/A |
+| 32 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 33 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 34 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 35 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 36 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 37 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
 | 40 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 41 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
-| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 43 | [russes](http://twitter.com/search?q=russes) | N/A |
-| 44 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 45 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
+| 41 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 42 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
+| 43 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 44 | [Russes](http://twitter.com/search?q=Russes) | N/A |
+| 45 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
 | 46 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
-| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 47 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-01-29 15:23:44 UTC`
+📆 Last Updated: `2023-01-29 16:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Larin](http://twitter.com/search?q=Larin) | N/A |
-| 2 | [Gattuso](http://twitter.com/search?q=Gattuso) | Gattuso is a nickname for the Italian football player Gennaro Gattuso. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "Little Gennaro". |
-| 3 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
-| 4 | [Lato](http://twitter.com/search?q=Lato) | Lato is a sans-serif typeface designed by Łukasz Dziedzic in 2010. It is a humanist typeface, meaning it has a more organic, calligraphic feel than other sans-serifs. The name Lato comes from the Polish word for "summer". |
-| 5 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 6 | [Machis](http://twitter.com/search?q=Machis) | N/A |
-| 7 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
-| 8 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 9 | [#LimGoHome](http://twitter.com/search?q=%23LimGoHome) | N/A |
-| 10 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 11 | [Almodóvar](http://twitter.com/search?q=Almod%c3%b3var) | N/A |
-| 12 | [Aguado](http://twitter.com/search?q=Aguado) | N/A |
-| 13 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
-| 14 | [Peter Lim](http://twitter.com/search?q=Peter+Lim) | N/A |
-| 15 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 16 | [Zorrilla](http://twitter.com/search?q=Zorrilla) | N/A |
-| 17 | [Gerona](http://twitter.com/search?q=Gerona) | N/A |
-| 18 | [Marie Kondo](http://twitter.com/search?q=Marie+Kondo) | N/A |
-| 19 | [#5AñosConCepeda](http://twitter.com/search?q=%235A%c3%b1osConCepeda) | N/A |
-| 20 | [Loren](http://twitter.com/search?q=Loren) | Loren is a unisex name of Latin origin, meaning "laurel". It is also a variant of the name Lawrence. |
-| 21 | [Gatusso](http://twitter.com/search?q=Gatusso) | N/A |
-| 22 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 23 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 24 | [Meriton](http://twitter.com/search?q=Meriton) | N/A |
-| 25 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 26 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 27 | [Feroz](http://twitter.com/search?q=Feroz) | N/A |
-| 28 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
-| 29 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
-| 30 | [Celta B](http://twitter.com/search?q=Celta+B) | N/A |
-| 31 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 34 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 35 | [Open de Australia](http://twitter.com/search?q=Open+de+Australia) | N/A |
-| 36 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 37 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 38 | [Obeng](http://twitter.com/search?q=Obeng) | N/A |
-| 39 | [San Valero](http://twitter.com/search?q=San+Valero) | N/A |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 42 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 1 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 2 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 3 | [Larin](http://twitter.com/search?q=Larin) | N/A |
+| 4 | [Gattuso](http://twitter.com/search?q=Gattuso) | Gattuso is a nickname for the Italian football player Gennaro Gattuso. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "Little Gennaro". |
+| 5 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
+| 6 | [Lato](http://twitter.com/search?q=Lato) | Lato is a sans-serif typeface designed by Łukasz Dziedzic in 2010. It is a humanist typeface, meaning it has a more organic, calligraphic feel than other sans-serifs. The name Lato comes from the Polish word for "summer". |
+| 7 | [Machis](http://twitter.com/search?q=Machis) | N/A |
+| 8 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
+| 9 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 10 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 11 | [#LimGoHome](http://twitter.com/search?q=%23LimGoHome) | N/A |
+| 12 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
+| 13 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 14 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 15 | [Almodóvar](http://twitter.com/search?q=Almod%c3%b3var) | N/A |
+| 16 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
+| 17 | [Meriton](http://twitter.com/search?q=Meriton) | N/A |
+| 18 | [Peter Lim](http://twitter.com/search?q=Peter+Lim) | N/A |
+| 19 | [#OsasunaAtleti](http://twitter.com/search?q=%23OsasunaAtleti) | N/A |
+| 20 | [aguado](http://twitter.com/search?q=aguado) | N/A |
+| 21 | [Voro](http://twitter.com/search?q=Voro) | N/A |
+| 22 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
+| 23 | [Zorrilla](http://twitter.com/search?q=Zorrilla) | N/A |
+| 24 | [Gerona](http://twitter.com/search?q=Gerona) | N/A |
+| 25 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
+| 26 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 27 | [Gatusso](http://twitter.com/search?q=Gatusso) | N/A |
+| 28 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
+| 29 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 30 | [Marie Kondo](http://twitter.com/search?q=Marie+Kondo) | N/A |
+| 31 | [Federer](http://twitter.com/search?q=Federer) | N/A |
+| 32 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 33 | [Premios Feroz](http://twitter.com/search?q=Premios+Feroz) | N/A |
+| 34 | [Loren](http://twitter.com/search?q=Loren) | Loren is a unisex name of Latin origin, meaning "laurel". It is also a variant of the name Lawrence. |
+| 35 | [Bartomeu](http://twitter.com/search?q=Bartomeu) | N/A |
+| 36 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 37 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 38 | [#5AñosConCepeda](http://twitter.com/search?q=%235A%c3%b1osConCepeda) | N/A |
+| 39 | [Celta B](http://twitter.com/search?q=Celta+B) | N/A |
+| 40 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 41 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 42 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 43 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 44 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 45 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | N/A |
+| 46 | [San Valero](http://twitter.com/search?q=San+Valero) | N/A |
+| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 48 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 
 
 
