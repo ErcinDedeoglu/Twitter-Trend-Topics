@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-01-29 19:15:39 UTC`
+📆 Last Updated: `2023-01-29 20:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 4 | [#BullBnb](http://twitter.com/search?q=%23BullBnb) | BullBnb is a cryptocurrency-based peer-to-peer rental platform. It allows users to rent out their homes, apartments, and other properties for short-term stays. The platform is powered by the BULL token, which is used to facilitate payments and transactions on the platform. The name BullBnb is derived from the combination of "Bull" (the token) and "bnb" (short for bed and breakfast). |
-| 5 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 6 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
-| 7 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
-| 8 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | N/A |
-| 9 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
-| 10 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 11 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 13 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
-| 14 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
-| 15 | [Jordan Mason](http://twitter.com/search?q=Jordan+Mason) | N/A |
-| 16 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | N/A |
-| 17 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 18 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
-| 19 | [Bull Durham](http://twitter.com/search?q=Bull+Durham) | N/A |
-| 20 | [Jared Bynum](http://twitter.com/search?q=Jared+Bynum) | N/A |
-| 21 | [Elijah Mitchell](http://twitter.com/search?q=Elijah+Mitchell) | N/A |
-| 22 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 23 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 24 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
-| 27 | [Go Niners](http://twitter.com/search?q=Go+Niners) | N/A |
-| 28 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 29 | [Bad News Bears](http://twitter.com/search?q=Bad+News+Bears) | N/A |
-| 30 | [As a Biden](http://twitter.com/search?q=As+a+Biden) | N/A |
-| 31 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 1 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 2 | [Fred Warner](http://twitter.com/search?q=Fred+Warner) | Fred Warner is a surname of English origin. It is derived from the Old English words "frið" meaning peace and "werner" meaning army or defense. The name is thought to have been given to someone who was a defender of peace. |
+| 3 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 4 | [Anita Baker](http://twitter.com/search?q=Anita+Baker) | Anita Baker is an American singer-songwriter and musician. She is known for her soulful voice and her ability to blend jazz, gospel, R&B, and pop music into her own unique style. She has won eight Grammy Awards and has been nominated for numerous others. Her most popular songs include "Sweet Love," "Giving You the Best That I Got," and "Caught Up in the Rapture." |
+| 5 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
+| 6 | [#NFCChampionshipGame](http://twitter.com/search?q=%23NFCChampionshipGame) | N/A |
+| 7 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | N/A |
+| 8 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 9 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 10 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 11 | [Joey Bosa](http://twitter.com/search?q=Joey+Bosa) | Joey Bosa is an American football defensive end for the Los Angeles Chargers of the National Football League (NFL). He was drafted by the Chargers third overall in the 2016 NFL Draft. His name is a combination of his parents' first names, John and Cheryl Bosa. |
+| 12 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 13 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 14 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 15 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
+| 16 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 17 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 18 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
+| 19 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 20 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
+| 21 | [Bull Durham](http://twitter.com/search?q=Bull+Durham) | N/A |
+| 22 | [Vic Fangio](http://twitter.com/search?q=Vic+Fangio) | N/A |
+| 23 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 24 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 25 | [Jordan Mason](http://twitter.com/search?q=Jordan+Mason) | N/A |
+| 26 | [Justified](http://twitter.com/search?q=Justified) | N/A |
+| 27 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
+| 28 | [Elijah Mitchell](http://twitter.com/search?q=Elijah+Mitchell) | N/A |
+| 29 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
+| 30 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
+| 31 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | N/A |
 | 32 | [The Natural](http://twitter.com/search?q=The+Natural) | N/A |
-| 33 | [Justified](http://twitter.com/search?q=Justified) | N/A |
-| 34 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 35 | [Tevin Coleman](http://twitter.com/search?q=Tevin+Coleman) | N/A |
-| 36 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
-| 37 | [Baker Mayfield](http://twitter.com/search?q=Baker+Mayfield) | N/A |
-| 38 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
-| 39 | [49ers and Bengals](http://twitter.com/search?q=49ers+and+Bengals) | N/A |
-| 40 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 41 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 42 | [Eight Men Out](http://twitter.com/search?q=Eight+Men+Out) | N/A |
-| 43 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 44 | [Team Sami or Team Roman](http://twitter.com/search?q=Team+Sami+or+Team+Roman) | N/A |
-| 45 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 46 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 47 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
-| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 33 | [Jared Bynum](http://twitter.com/search?q=Jared+Bynum) | N/A |
+| 34 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 35 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 36 | [Game Time](http://twitter.com/search?q=Game+Time) | N/A |
+| 37 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 38 | [Baker Mayfield](http://twitter.com/search?q=Baker+Mayfield) | N/A |
+| 39 | [Bad News Bears](http://twitter.com/search?q=Bad+News+Bears) | N/A |
+| 40 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 41 | [Erin Andrews](http://twitter.com/search?q=Erin+Andrews) | N/A |
+| 42 | [As a Biden](http://twitter.com/search?q=As+a+Biden) | N/A |
+| 43 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
+| 44 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 45 | [Eight Men Out](http://twitter.com/search?q=Eight+Men+Out) | N/A |
+| 46 | [Football Sunday](http://twitter.com/search?q=Football+Sunday) | N/A |
+| 47 | [Devonta Smith](http://twitter.com/search?q=Devonta+Smith) | Devonta Smith is a name of an American football wide receiver for the Philadelphia Eagles of the National Football League (NFL). The name Devonta is derived from the Latin word "devons" which means "to be devoted". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-01-29 19:15:12 UTC`
+📆 Last Updated: `2023-01-29 20:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OGCNice](http://twitter.com/search?q=%23OGCNice) | N/A |
-| 2 | [#OMASM](http://twitter.com/search?q=%23OMASM) | #OMASM stands for "Open Movement and Sports Medicine" and is a hashtag used to promote the practice of open movement and sports medicine. It is used to share information, resources, and experiences related to the field. |
-| 3 | [#ACAOL](http://twitter.com/search?q=%23ACAOL) | N/A |
-| 4 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
-| 5 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 2 | [#PSGSDR](http://twitter.com/search?q=%23PSGSDR) | N/A |
+| 3 | [#FRADAN](http://twitter.com/search?q=%23FRADAN) | N/A |
+| 4 | [#OMASM](http://twitter.com/search?q=%23OMASM) | #OMASM stands for "Open Movement and Sports Medicine" and is a hashtag used to promote the practice of open movement and sports medicine. It is used to share information, resources, and experiences related to the field. |
+| 5 | [#ACAOL](http://twitter.com/search?q=%23ACAOL) | N/A |
 | 6 | [Vercoutre](http://twitter.com/search?q=Vercoutre) | N/A |
 | 7 | [Ton Pokémon](http://twitter.com/search?q=Ton+Pok%c3%a9mon) | N/A |
-| 8 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 9 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
-| 10 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 11 | [pire zelda](http://twitter.com/search?q=pire+zelda) | N/A |
-| 12 | [AESH](http://twitter.com/search?q=AESH) | N/A |
-| 13 | [Alexis Sanchez](http://twitter.com/search?q=Alexis+Sanchez) | N/A |
-| 14 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 15 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 16 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
-| 17 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
-| 18 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 19 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
-| 20 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
-| 21 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
-| 22 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 23 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 24 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 8 | [Reims](http://twitter.com/search?q=Reims) | N/A |
+| 9 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 10 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
+| 11 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 12 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
+| 13 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 14 | [AESH](http://twitter.com/search?q=AESH) | N/A |
+| 15 | [pire zelda](http://twitter.com/search?q=pire+zelda) | N/A |
+| 16 | [Alexis Sanchez](http://twitter.com/search?q=Alexis+Sanchez) | N/A |
+| 17 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 18 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 19 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
+| 20 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 21 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
+| 22 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
+| 23 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 24 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
 | 25 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 26 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 26 | [ALLEZ LES BLEUS](http://twitter.com/search?q=ALLEZ+LES+BLEUS) | N/A |
 | 27 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 28 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 29 | [Pantaloni](http://twitter.com/search?q=Pantaloni) | N/A |
-| 30 | [Payet](http://twitter.com/search?q=Payet) | N/A |
-| 31 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
-| 32 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
-| 33 | [Tom Verlaine](http://twitter.com/search?q=Tom+Verlaine) | Tom Verlaine is the stage name of Thomas Miller, an American singer, songwriter, and guitarist. He is best known as the frontman of the rock band Television, which he co-founded in 1973. He has also released several solo albums and collaborated with other musicians. His music is characterized by its poetic lyrics and jangly guitar sound. |
-| 34 | [Meilleure OST](http://twitter.com/search?q=Meilleure+OST) | N/A |
-| 35 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 36 | [Premier Zelda](http://twitter.com/search?q=Premier+Zelda) | N/A |
-| 37 | [Dernier Zelda](http://twitter.com/search?q=Dernier+Zelda) | N/A |
-| 38 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
-| 39 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
-| 40 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 41 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
-| 42 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 43 | [Jérusalem](http://twitter.com/search?q=J%c3%a9rusalem) | N/A |
-| 44 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 45 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 46 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 47 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 48 | [Violet](http://twitter.com/search?q=Violet) | N/A |
-| 49 | [Corse](http://twitter.com/search?q=Corse) | N/A |
-| 50 | [Rintintin](http://twitter.com/search?q=Rintintin) | N/A |
+| 28 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
+| 29 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
+| 30 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 31 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 32 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
+| 33 | [Payet](http://twitter.com/search?q=Payet) | N/A |
+| 34 | [Tom Verlaine](http://twitter.com/search?q=Tom+Verlaine) | Tom Verlaine is the stage name of Thomas Miller, an American singer, songwriter, and guitarist. He is best known as the frontman of the rock band Television, which he co-founded in 1973. He has also released several solo albums and collaborated with other musicians. His music is characterized by its poetic lyrics and jangly guitar sound. |
+| 35 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 36 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 37 | [Premier Zelda](http://twitter.com/search?q=Premier+Zelda) | N/A |
+| 38 | [Dernier Zelda](http://twitter.com/search?q=Dernier+Zelda) | N/A |
+| 39 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 40 | [Charente](http://twitter.com/search?q=Charente) | N/A |
+| 41 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
+| 42 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 43 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 44 | [Federer](http://twitter.com/search?q=Federer) | N/A |
+| 45 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 46 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 47 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
+| 48 | [Meilleure OST](http://twitter.com/search?q=Meilleure+OST) | N/A |
+| 49 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 50 | [Pantaloni](http://twitter.com/search?q=Pantaloni) | N/A |
 
 
 

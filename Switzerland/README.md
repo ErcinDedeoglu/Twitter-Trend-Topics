@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-01-29 19:15:54 UTC`
+📆 Last Updated: `2023-01-29 20:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Switzerland
 | 5 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
 | 6 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 7 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 8 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 9 | [#hcap](http://twitter.com/search?q=%23hcap) | N/A |
-| 10 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 11 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 8 | [#hcap](http://twitter.com/search?q=%23hcap) | N/A |
+| 9 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 10 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 11 | [Luft](http://twitter.com/search?q=Luft) | N/A |
 | 12 | [#nosvp](http://twitter.com/search?q=%23nosvp) | N/A |
 | 13 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 14 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
 | 15 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
 | 16 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 17 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
-| 18 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
-| 19 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 18 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 19 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
 | 20 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 22 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 23 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 23 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 24 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
 | 25 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
 | 26 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
 | 27 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 28 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 29 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 30 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
-| 31 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 32 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 33 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 34 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 36 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
-| 37 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 38 | [America](http://twitter.com/search?q=America) | N/A |
-| 39 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 40 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 41 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
-| 42 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 43 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 28 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 29 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
+| 30 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 31 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 32 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 34 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 35 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 36 | [America](http://twitter.com/search?q=America) | N/A |
+| 37 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 38 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 39 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 40 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 41 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 42 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 43 | [Linie](http://twitter.com/search?q=Linie) | N/A |
 | 44 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 45 | [Marc Germann](http://twitter.com/search?q=Marc+Germann) | N/A |
-| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 47 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 48 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 49 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 50 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 45 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 46 | [Marc Germann](http://twitter.com/search?q=Marc+Germann) | N/A |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 48 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 49 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 50 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
 
 
 

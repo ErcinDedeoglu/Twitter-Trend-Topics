@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-01-29 19:15:00 UTC`
+📆 Last Updated: `2023-01-29 20:15:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
-| 2 | [Zahawi](http://twitter.com/search?q=Zahawi) | N/A |
-| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 4 | [#WRESHU](http://twitter.com/search?q=%23WRESHU) | N/A |
-| 5 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 2 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 3 | [#DancingOnIce](http://twitter.com/search?q=%23DancingOnIce) | N/A |
+| 4 | [#wreshu](http://twitter.com/search?q=%23wreshu) | N/A |
+| 5 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
 | 6 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
-| 9 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 10 | [Shelvey](http://twitter.com/search?q=Shelvey) | N/A |
-| 11 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 12 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 13 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 14 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 15 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
-| 16 | [#twitterblades](http://twitter.com/search?q=%23twitterblades) | N/A |
-| 17 | [John Egan](http://twitter.com/search?q=John+Egan) | N/A |
-| 18 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 19 | [Jonathan Pearce](http://twitter.com/search?q=Jonathan+Pearce) | N/A |
-| 20 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 21 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 22 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 23 | [Jebbison](http://twitter.com/search?q=Jebbison) | N/A |
-| 24 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 25 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
-| 26 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 27 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 28 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 29 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
-| 30 | [Adam Davies](http://twitter.com/search?q=Adam+Davies) | N/A |
-| 31 | [Deadpool](http://twitter.com/search?q=Deadpool) | N/A |
-| 32 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 33 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 34 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 35 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 36 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 37 | [Phil Parkinson](http://twitter.com/search?q=Phil+Parkinson) | N/A |
-| 38 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 39 | [Berge](http://twitter.com/search?q=Berge) | N/A |
-| 40 | [Freeman](http://twitter.com/search?q=Freeman) | N/A |
-| 41 | [Racecourse](http://twitter.com/search?q=Racecourse) | N/A |
-| 42 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 43 | [McBurnie](http://twitter.com/search?q=McBurnie) | N/A |
+| 7 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 8 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 9 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [#NapoliRoma](http://twitter.com/search?q=%23NapoliRoma) | N/A |
+| 12 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 13 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 14 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 17 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 18 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 19 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 20 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 21 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 22 | [Dobey](http://twitter.com/search?q=Dobey) | N/A |
+| 23 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 24 | [Jonathan Pearce](http://twitter.com/search?q=Jonathan+Pearce) | N/A |
+| 25 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
+| 26 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 27 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 28 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 29 | [Jebbison](http://twitter.com/search?q=Jebbison) | N/A |
+| 30 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
+| 31 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 32 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 33 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 34 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 35 | [Berge](http://twitter.com/search?q=Berge) | N/A |
+| 36 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 37 | [Adam Davies](http://twitter.com/search?q=Adam+Davies) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [Freeman](http://twitter.com/search?q=Freeman) | N/A |
+| 40 | [Deadpool](http://twitter.com/search?q=Deadpool) | N/A |
+| 41 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 42 | [McBurnie](http://twitter.com/search?q=McBurnie) | N/A |
+| 43 | [Phil Parkinson](http://twitter.com/search?q=Phil+Parkinson) | N/A |
 | 44 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 45 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 46 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 47 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 48 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
-| 49 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 50 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 45 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 46 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 47 | [Racecourse](http://twitter.com/search?q=Racecourse) | N/A |
+| 48 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 49 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 50 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-01-29 19:15:10 UTC`
+📆 Last Updated: `2023-01-29 20:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MastercardGrazWOŚP](http://twitter.com/search?q=%23MastercardGrazWO%c5%9aP) | N/A |
-| 2 | [#LEGKOR](http://twitter.com/search?q=%23LEGKOR) | N/A |
-| 3 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
+| 2 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
+| 3 | [#LEGKOR](http://twitter.com/search?q=%23LEGKOR) | N/A |
 | 4 | [#PIAJAG](http://twitter.com/search?q=%23PIAJAG) | N/A |
-| 5 | [#woronicza17](http://twitter.com/search?q=%23woronicza17) | N/A |
-| 6 | [#LGDWPŁ](http://twitter.com/search?q=%23LGDWP%c5%81) | N/A |
+| 5 | [#LGDWPŁ](http://twitter.com/search?q=%23LGDWP%c5%81) | N/A |
+| 6 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
 | 7 | [Iranie](http://twitter.com/search?q=Iranie) | N/A |
-| 8 | [Korony](http://twitter.com/search?q=Korony) | N/A |
-| 9 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 10 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
+| 8 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 9 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
+| 10 | [Korony](http://twitter.com/search?q=Korony) | N/A |
 | 11 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
-| 12 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
-| 13 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
+| 12 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
+| 13 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
 | 14 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 15 | [widzewa](http://twitter.com/search?q=widzewa) | N/A |
-| 16 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
-| 17 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
-| 18 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 19 | [brauna](http://twitter.com/search?q=brauna) | N/A |
-| 20 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
-| 21 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 22 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 23 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 24 | [pogoń](http://twitter.com/search?q=pogo%c5%84) | N/A |
-| 25 | [Augustyniak](http://twitter.com/search?q=Augustyniak) | N/A |
-| 26 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
-| 29 | [mielcu](http://twitter.com/search?q=mielcu) | N/A |
-| 30 | [Orkiestry](http://twitter.com/search?q=Orkiestry) | N/A |
-| 31 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
-| 32 | [tudora](http://twitter.com/search?q=tudora) | N/A |
-| 33 | [rybakina](http://twitter.com/search?q=rybakina) | N/A |
-| 34 | [piasta](http://twitter.com/search?q=piasta) | N/A |
-| 35 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 36 | [hugo nys](http://twitter.com/search?q=hugo+nys) | N/A |
-| 37 | [siema](http://twitter.com/search?q=siema) | N/A |
-| 38 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 15 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
+| 16 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
+| 17 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 18 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
+| 19 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 22 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 23 | [pogoń](http://twitter.com/search?q=pogo%c5%84) | N/A |
+| 24 | [Augustyniak](http://twitter.com/search?q=Augustyniak) | N/A |
+| 25 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
+| 26 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 27 | [Orkiestry](http://twitter.com/search?q=Orkiestry) | N/A |
+| 28 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
+| 29 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 30 | [Ksiądz](http://twitter.com/search?q=Ksi%c4%85dz) | N/A |
+| 31 | [tudora](http://twitter.com/search?q=tudora) | N/A |
+| 32 | [Carlitosa](http://twitter.com/search?q=Carlitosa) | N/A |
+| 33 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 35 | [siema](http://twitter.com/search?q=siema) | N/A |
+| 36 | [Niemieckiej](http://twitter.com/search?q=Niemieckiej) | N/A |
+| 37 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 38 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
 | 39 | [Czech](http://twitter.com/search?q=Czech) | N/A |
-| 40 | [Niemieckiej](http://twitter.com/search?q=Niemieckiej) | N/A |
-| 41 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
-| 42 | [Carlitosa](http://twitter.com/search?q=Carlitosa) | N/A |
-| 43 | [Ksiądz](http://twitter.com/search?q=Ksi%c4%85dz) | N/A |
-| 44 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
-| 45 | [Pia Skrzyszowska](http://twitter.com/search?q=Pia+Skrzyszowska) | N/A |
-| 46 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 47 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 48 | [Gramy](http://twitter.com/search?q=Gramy) | N/A |
-| 49 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 50 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 40 | [Babis](http://twitter.com/search?q=Babis) | N/A |
+| 41 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
+| 42 | [Pia Skrzyszowska](http://twitter.com/search?q=Pia+Skrzyszowska) | N/A |
+| 43 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 44 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 45 | [Gramy](http://twitter.com/search?q=Gramy) | N/A |
+| 46 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 47 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 48 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 49 | [Wisła Płock](http://twitter.com/search?q=Wis%c5%82a+P%c5%82ock) | N/A |
+| 50 | [Dawida](http://twitter.com/search?q=Dawida) | N/A |
 
 
 

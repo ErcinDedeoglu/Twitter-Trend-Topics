@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-01-29 19:15:14 UTC`
+📆 Last Updated: `2023-01-29 20:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#B04BVB](http://twitter.com/search?q=%23B04BVB) | N/A |
-| 2 | [#S04KOE](http://twitter.com/search?q=%23S04KOE) | N/A |
-| 3 | [#FCBSGE](http://twitter.com/search?q=%23FCBSGE) | N/A |
-| 4 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
+| 2 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 3 | [#S04KOE](http://twitter.com/search?q=%23S04KOE) | N/A |
+| 4 | [#FCBSGE](http://twitter.com/search?q=%23FCBSGE) | N/A |
 | 5 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 6 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 7 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 6 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 7 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
 | 8 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
 | 9 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
 | 10 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 11 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 11 | [Saarbrücken](http://twitter.com/search?q=Saarbr%c3%bccken) | N/A |
 | 12 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 13 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 14 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 15 | [Latza](http://twitter.com/search?q=Latza) | N/A |
+| 14 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 15 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
 | 16 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
 | 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 18 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
-| 19 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 21 | [Ralle](http://twitter.com/search?q=Ralle) | N/A |
-| 22 | [Papis](http://twitter.com/search?q=Papis) | N/A |
-| 23 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 24 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 25 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 26 | [Maaßen](http://twitter.com/search?q=Maa%c3%9fen) | N/A |
+| 18 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 19 | [Ralle](http://twitter.com/search?q=Ralle) | N/A |
+| 20 | [Papis](http://twitter.com/search?q=Papis) | N/A |
+| 21 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 22 | [Latza](http://twitter.com/search?q=Latza) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 25 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 26 | [U-Boote](http://twitter.com/search?q=U-Boote) | N/A |
 | 27 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
 | 28 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 29 | [U-Boot](http://twitter.com/search?q=U-Boot) | N/A |
+| 29 | [Maaßen](http://twitter.com/search?q=Maa%c3%9fen) | N/A |
 | 30 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
 | 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 32 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 33 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
 | 34 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
 | 35 | [Dschungelkönig](http://twitter.com/search?q=Dschungelk%c3%b6nig) | N/A |
-| 36 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 37 | [Häme](http://twitter.com/search?q=H%c3%a4me) | N/A |
-| 38 | [Winterpause](http://twitter.com/search?q=Winterpause) | N/A |
-| 39 | [Unentschieden](http://twitter.com/search?q=Unentschieden) | N/A |
-| 40 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 41 | [Kral](http://twitter.com/search?q=Kral) | N/A |
-| 42 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 36 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
+| 37 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
+| 38 | [Häme](http://twitter.com/search?q=H%c3%a4me) | N/A |
+| 39 | [Kral](http://twitter.com/search?q=Kral) | N/A |
+| 40 | [Winterpause](http://twitter.com/search?q=Winterpause) | N/A |
+| 41 | [Unentschieden](http://twitter.com/search?q=Unentschieden) | N/A |
+| 42 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
 | 43 | [Herr Merz](http://twitter.com/search?q=Herr+Merz) | N/A |
-| 44 | [Zecke](http://twitter.com/search?q=Zecke) | N/A |
-| 45 | [Stellplatz](http://twitter.com/search?q=Stellplatz) | N/A |
-| 46 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
-| 47 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 48 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 49 | [Kriegserklärung](http://twitter.com/search?q=Kriegserkl%c3%a4rung) | N/A |
+| 44 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 45 | [Zecke](http://twitter.com/search?q=Zecke) | N/A |
+| 46 | [Stellplatz](http://twitter.com/search?q=Stellplatz) | N/A |
+| 47 | [Jenz](http://twitter.com/search?q=Jenz) | N/A |
+| 48 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 49 | [Gurt](http://twitter.com/search?q=Gurt) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-01-29 19:15:27 UTC`
+📆 Last Updated: `2023-01-29 20:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,19 +26,19 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 9 | [#ทฤษฎีสีชมพูEP10](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP10) | #ทฤษฎีสีชมพูEP10 is a hashtag used to promote the 10th episode of the Thai television series Theory of Pink. In English, it translates to "#TheoryofPinkEP10". |
 | 10 | [aleo](http://twitter.com/search?q=aleo) | N/A |
 | 11 | [BounPrem](http://twitter.com/search?q=BounPrem) | N/A |
-| 12 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 12 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
 | 13 | [Beta](http://twitter.com/search?q=Beta) | N/A |
 | 14 | [WinTeam](http://twitter.com/search?q=WinTeam) | N/A |
 | 15 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
 | 16 | [FOCUS ON BTS](http://twitter.com/search?q=FOCUS+ON+BTS) | N/A |
 | 17 | [mew fanmeeting kr](http://twitter.com/search?q=mew+fanmeeting+kr) | N/A |
-| 18 | [ANIPANG SUPPORTER CLUB](http://twitter.com/search?q=ANIPANG+SUPPORTER+CLUB) | N/A |
+| 18 | [anipang supporter club](http://twitter.com/search?q=anipang+supporter+club) | N/A |
 | 19 | [Pond](http://twitter.com/search?q=Pond) | N/A |
-| 20 | [ROSÉ CONQUERS ABU DHABI](http://twitter.com/search?q=ROS%c3%89+CONQUERS+ABU+DHABI) | N/A |
+| 20 | [rosé conquers abu dhabi](http://twitter.com/search?q=ros%c3%a9+conquers+abu+dhabi) | N/A |
 | 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 22 | [OKX Ventures](http://twitter.com/search?q=OKX+Ventures) | N/A |
 | 23 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 24 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
+| 24 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
 | 25 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 26 | [Scam](http://twitter.com/search?q=Scam) | N/A |
 | 27 | [NewJeans](http://twitter.com/search?q=NewJeans) | NewJeans is a Japanese fashion brand that specializes in denim clothing. The brand is known for its high-quality, stylish jeans and other denim apparel. The name NewJeans is derived from the phrase "new jeans," which refers to the idea of creating something new and unique with denim. |
@@ -56,15 +56,15 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 39 | [nứng](http://twitter.com/search?q=n%e1%bb%a9ng) | N/A |
 | 40 | [giống](http://twitter.com/search?q=gi%e1%bb%91ng) | N/A |
 | 41 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
-| 42 | [Hia Lian](http://twitter.com/search?q=Hia+Lian) | N/A |
-| 43 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 44 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 45 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
+| 42 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
+| 43 | [hia lian](http://twitter.com/search?q=hia+lian) | N/A |
+| 44 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 45 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
 | 46 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
-| 49 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
-| 50 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 48 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
+| 49 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 50 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
 
 
 

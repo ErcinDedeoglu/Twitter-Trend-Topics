@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-01-29 19:15:22 UTC`
+📆 Last Updated: `2023-01-29 20:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#虚構推理](http://twitter.com/search?q=%23%e8%99%9a%e6%a7%8b%e6%8e%a8%e7%90%86) | N/A |
-| 2 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
-| 3 | [損害賠償](http://twitter.com/search?q=%e6%90%8d%e5%ae%b3%e8%b3%a0%e5%84%9f) | N/A |
-| 4 | [#便利屋斎藤さん](http://twitter.com/search?q=%23%e4%be%bf%e5%88%a9%e5%b1%8b%e6%96%8e%e8%97%a4%e3%81%95%e3%82%93) | N/A |
-| 5 | [ゴラッソ](http://twitter.com/search?q=%e3%82%b4%e3%83%a9%e3%83%83%e3%82%bd) | N/A |
-| 6 | [#かけるん大森靖子](http://twitter.com/search?q=%23%e3%81%8b%e3%81%91%e3%82%8b%e3%82%93%e5%a4%a7%e6%a3%ae%e9%9d%96%e5%ad%90) | N/A |
-| 7 | [ダイナモ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8a%e3%83%a2) | ダイナモ (dynamo) is a device that converts mechanical energy into electrical energy. It is commonly used in bicycles to generate electricity for lights and other accessories. In English, the word dynamo can also refer to a person or thing that produces great amounts of energy or activity. |
-| 8 | [DISH](http://twitter.com/search?q=DISH) | N/A |
-| 9 | [#有吉ぃぃeeeee](http://twitter.com/search?q=%23%e6%9c%89%e5%90%89%e3%81%83%e3%81%83eeeee) | #有吉ぃぃeeeee is an expression of excitement or enthusiasm in Japanese. It is often used to express joy or excitement about something. In English, it could be translated as "Yayyyyy!" |
-| 10 | [あおいくん](http://twitter.com/search?q=%e3%81%82%e3%81%8a%e3%81%84%e3%81%8f%e3%82%93) | N/A |
-| 11 | [ドラマストア](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%82%b9%e3%83%88%e3%82%a2) | N/A |
-| 12 | [サンドリヨン](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%aa%e3%83%a8%e3%83%b3) | N/A |
-| 13 | [平和の準備](http://twitter.com/search?q=%e5%b9%b3%e5%92%8c%e3%81%ae%e6%ba%96%e5%82%99) | N/A |
-| 14 | [三笘さん](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%95%e3%82%93) | 三笘さん is a Japanese phrase that literally translates to "Mr. Three Plates." It is used as a term of endearment for someone who is kind and generous. |
-| 15 | [#日向坂で会いましょう](http://twitter.com/search?q=%23%e6%97%a5%e5%90%91%e5%9d%82%e3%81%a7%e4%bc%9a%e3%81%84%e3%81%be%e3%81%97%e3%82%87%e3%81%86) | #日向坂で会いましょう is a Japanese phrase that translates to "Let's meet at Hinatazaka". It is a reference to the popular Japanese idol group Hinatazaka46. |
-| 16 | [回転寿司](http://twitter.com/search?q=%e5%9b%9e%e8%bb%a2%e5%af%bf%e5%8f%b8) | 回転寿司 (Kaiten-zushi) is a type of sushi restaurant where plates of sushi are placed on a revolving conveyor belt that winds through the restaurant and moves past every table and seat. Customers can then pick their selections from the moving conveyor belt. In English, it is known as "conveyor belt sushi" or "rotating sushi". |
-| 17 | [ウィッチウォッチ](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%83%e3%83%81%e3%82%a6%e3%82%a9%e3%83%83%e3%83%81) | ウィッチウォッチ (Witch Watch) is a Japanese horror-adventure game series developed by Kogado Studio. It follows the story of a group of high school students who investigate supernatural occurrences in their town. The English translation of the title is "Witch Watch". |
-| 18 | [三笘のゴール](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%ae%e3%82%b4%e3%83%bc%e3%83%ab) | 三笘のゴール is a Japanese proverb that literally translates to "three pieces of wood make a goal". It is used to express the idea that with the right combination of effort and resources, even difficult tasks can be accomplished. |
-| 19 | [フェイント](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%82%a4%e3%83%b3%e3%83%88) | フェイント (Feint) is a type of move used in sports, martial arts, and other physical activities. It is a deceptive maneuver intended to distract or mislead an opponent. In English, it can be translated as "feint" or "fake". |
-| 20 | [ブライトン](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88%e3%83%b3) | ブライトン (Buraiton) is a Japanese surname. In English, it can be translated to mean "Brighton". |
-| 21 | [一ノ瀬家の大罪](http://twitter.com/search?q=%e4%b8%80%e3%83%8e%e7%80%ac%e5%ae%b6%e3%81%ae%e5%a4%a7%e7%bd%aa) | 一ノ瀬家の大罪 (Ichinose-ke no Daizai) is a Japanese novel written by Keigo Higashino. It translates to "The Ichinose Family's Great Sin" and tells the story of a family whose secrets are slowly revealed as they struggle to come to terms with their past. The novel explores themes of guilt, redemption, and the power of family bonds. |
-| 22 | [リヴァプール](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%97%e3%83%bc%e3%83%ab) | リヴァプール is the Japanese name for the city of Liverpool in England. It is a port city located on the eastern side of the Mersey Estuary in North West England. The English translation of リヴァプール is Liverpool. |
-| 23 | [スケダン](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%80%e3%83%b3) | スケダン (Skedan) is a Japanese term that refers to a style of dance that combines elements of hip-hop, breakdancing, and acrobatics. It is often performed in large groups and involves intricate choreography. The English translation of スケダン is "street dance". |
-| 24 | [愛萌さん](http://twitter.com/search?q=%e6%84%9b%e8%90%8c%e3%81%95%e3%82%93) | 愛萌さん is a nickname given to the Japanese singer and actress, Ami Suzuki. It is a combination of the words "ai" (love) and "moe" (cute). In English, it can be translated to mean "Lovely Moe". |
-| 25 | [スシロー](http://twitter.com/search?q=%e3%82%b9%e3%82%b7%e3%83%ad%e3%83%bc) | スシロー is a popular Japanese chain of fast-food restaurants that specializes in gyudon (beef bowl) and other dishes. The name is derived from the Japanese phrase "sushi-ryōri," which means "sushi cuisine." In English, it can be translated as "Sushi-Ryo." |
-| 26 | [三苫さん](http://twitter.com/search?q=%e4%b8%89%e8%8b%ab%e3%81%95%e3%82%93) | 三苫さん (Mitsumune-san) is a Japanese term of endearment used to refer to someone who is close to you, such as a friend or family member. It can be translated into English as "dear" or "sweetheart". |
-| 27 | [ペロロジラ](http://twitter.com/search?q=%e3%83%9a%e3%83%ad%e3%83%ad%e3%82%b8%e3%83%a9) | ペロロジラ is a Japanese word that means “to be fickle” or “to be indecisive”. It is used to describe someone who is constantly changing their mind or wavering between two decisions. |
-| 28 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
-| 29 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
-| 30 | [スーパーゴール](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%82%b4%e3%83%bc%e3%83%ab) | スーパーゴール (Super Goal) is a term used in Japanese soccer to refer to an especially spectacular goal. It is usually used to describe a goal that involves a great deal of skill or technique, such as a long-range shot, a bicycle kick, or a header. In English, it could be translated as "super goal" or "spectacular goal". |
-| 31 | [第374回](http://twitter.com/search?q=%e7%ac%ac374%e5%9b%9e) | 第374回 is a Japanese phrase that translates to "the 374th time". It is often used to refer to the 374th meeting or gathering of a group. |
-| 32 | [三笘選手](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e9%81%b8%e6%89%8b) | N/A |
-| 33 | [ルカさん](http://twitter.com/search?q=%e3%83%ab%e3%82%ab%e3%81%95%e3%82%93) | "ルカさん" is a Japanese honorific used to refer to someone in a respectful way. It is similar to the English term "Mr." or "Ms." and is typically used when addressing someone older or of higher status. In English, it would be translated as "Mr. Ruka" or "Ms. Ruka". |
-| 34 | [スケットダンス](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
-| 35 | [伊地知さん](http://twitter.com/search?q=%e4%bc%8a%e5%9c%b0%e7%9f%a5%e3%81%95%e3%82%93) | N/A |
-| 36 | [ファビーニョ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%93%e3%83%bc%e3%83%8b%e3%83%a7) | ファビーニョ is a Japanese onomatopoeia that expresses the sound of something being thrown away. In English, it could be translated as "thwack" or "toss". |
-| 37 | [アーノルド](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%8e%e3%83%ab%e3%83%89) | アーノルド is the Japanese transliteration of the name Arnold. It is a masculine given name of Germanic origin, derived from the elements "arn" (eagle) and "wald" (rule). In English, it means "strong as an eagle". |
-| 38 | [ハイペリオン](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%9a%e3%83%aa%e3%82%aa%e3%83%b3) | ハイペリオン is a Japanese term that literally translates to "high-pitched melody". It is used to describe a type of music that has a high-pitched, cheerful sound. It is often used to describe upbeat, cheerful pop music. |
-| 39 | [サウール](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%bc%e3%83%ab) | N/A |
-| 40 | [つべらおつこれ](http://twitter.com/search?q=%e3%81%a4%e3%81%b9%e3%82%89%e3%81%8a%e3%81%a4%e3%81%93%e3%82%8c) | N/A |
-| 41 | [オンサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%82%b5%e3%82%a4%e3%83%89) | オンサイド (Onside) is a Japanese term used to describe a situation in which a team or player is in possession of the ball and has an advantage over their opponents. In English, it can be translated as "on the offensive" or "in control". |
-| 42 | [ホドくん](http://twitter.com/search?q=%e3%83%9b%e3%83%89%e3%81%8f%e3%82%93) | ホドくん is a character from the Japanese manga series, Chibi Maruko-chan. He is a small, yellow bird who often appears in the series as Maruko's pet. His name is derived from the Japanese word for "tweet" (ほどける), which is also the sound he makes. In English, his name could be translated as "Tweetie". |
-| 43 | [ブルーロックの凪](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af%e3%81%ae%e5%87%aa) | N/A |
-| 44 | [セカンドフェイズ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e3%83%95%e3%82%a7%e3%82%a4%e3%82%ba) | N/A |
-| 45 | [モンツァ](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%83%84%e3%82%a1) | モンツァ (Montza) is a Japanese card game that is similar to the Western game of Uno. The goal of the game is to be the first player to get rid of all their cards. Players take turns playing cards from their hand, and must match either the color or number of the card previously played. The game can be played with two to four players. |
-| 46 | [ウィーブル](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%bc%e3%83%96%e3%83%ab) | N/A |
-| 47 | [トラップ](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%83%e3%83%97) | N/A |
+| 1 | [#どうする家康](http://twitter.com/search?q=%23%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b%e5%ae%b6%e5%ba%b7) | #どうする家康 is a hashtag used on Twitter in Japan. It is a phrase that means "What will Ieyasu do?" and is used to refer to the famous Japanese warlord, Tokugawa Ieyasu. The phrase is often used in humorous contexts, as a way of asking what someone should do in a difficult situation. |
+| 2 | [#虚構推理](http://twitter.com/search?q=%23%e8%99%9a%e6%a7%8b%e6%8e%a8%e7%90%86) | N/A |
+| 3 | [ゴラッソ](http://twitter.com/search?q=%e3%82%b4%e3%83%a9%e3%83%83%e3%82%bd) | N/A |
+| 4 | [#かけるん大森靖子](http://twitter.com/search?q=%23%e3%81%8b%e3%81%91%e3%82%8b%e3%82%93%e5%a4%a7%e6%a3%ae%e9%9d%96%e5%ad%90) | N/A |
+| 5 | [ダイナモ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8a%e3%83%a2) | ダイナモ (dynamo) is a device that converts mechanical energy into electrical energy. It is commonly used in bicycles to generate electricity for lights and other accessories. In English, the word dynamo can also refer to a person or thing that produces great amounts of energy or activity. |
+| 6 | [ドラマストア](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e3%82%b9%e3%83%88%e3%82%a2) | N/A |
+| 7 | [#有吉ぃぃeeeee](http://twitter.com/search?q=%23%e6%9c%89%e5%90%89%e3%81%83%e3%81%83eeeee) | #有吉ぃぃeeeee is an expression of excitement or enthusiasm in Japanese. It is often used to express joy or excitement about something. In English, it could be translated as "Yayyyyy!" |
+| 8 | [あおいくん](http://twitter.com/search?q=%e3%81%82%e3%81%8a%e3%81%84%e3%81%8f%e3%82%93) | N/A |
+| 9 | [#DISH](http://twitter.com/search?q=%23DISH) | N/A |
+| 10 | [戦争の準備](http://twitter.com/search?q=%e6%88%a6%e4%ba%89%e3%81%ae%e6%ba%96%e5%82%99) | N/A |
+| 11 | [平和の準備](http://twitter.com/search?q=%e5%b9%b3%e5%92%8c%e3%81%ae%e6%ba%96%e5%82%99) | N/A |
+| 12 | [ゴール前](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%83%ab%e5%89%8d) | N/A |
+| 13 | [サンドリヨン](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%aa%e3%83%a8%e3%83%b3) | N/A |
+| 14 | [バイトテロ](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%86%e3%83%ad) | N/A |
+| 15 | [ドリブル](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%96%e3%83%ab) | N/A |
+| 16 | [神奈川県西部](http://twitter.com/search?q=%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e8%a5%bf%e9%83%a8) | 神奈川県西部 is a region in Kanagawa Prefecture, Japan. It is located in the western part of the prefecture. In English, it means "West Kanagawa Prefecture". |
+| 17 | [MIYAVI](http://twitter.com/search?q=MIYAVI) | N/A |
+| 18 | [営業妨害](http://twitter.com/search?q=%e5%96%b6%e6%a5%ad%e5%a6%a8%e5%ae%b3) | N/A |
+| 19 | [回転寿司](http://twitter.com/search?q=%e5%9b%9e%e8%bb%a2%e5%af%bf%e5%8f%b8) | 回転寿司 (Kaiten-zushi) is a type of sushi restaurant where plates of sushi are placed on a revolving conveyor belt that winds through the restaurant and moves past every table and seat. Customers can then pick their selections from the moving conveyor belt. In English, it is known as "conveyor belt sushi" or "rotating sushi". |
+| 20 | [三笘さん](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%95%e3%82%93) | 三笘さん is a Japanese phrase that literally translates to "Mr. Three Plates." It is used as a term of endearment for someone who is kind and generous. |
+| 21 | [ウィッチウォッチ](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%83%e3%83%81%e3%82%a6%e3%82%a9%e3%83%83%e3%83%81) | ウィッチウォッチ (Witch Watch) is a Japanese horror-adventure game series developed by Kogado Studio. It follows the story of a group of high school students who investigate supernatural occurrences in their town. The English translation of the title is "Witch Watch". |
+| 22 | [三笘のゴール](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%ae%e3%82%b4%e3%83%bc%e3%83%ab) | 三笘のゴール is a Japanese proverb that literally translates to "three pieces of wood make a goal". It is used to express the idea that with the right combination of effort and resources, even difficult tasks can be accomplished. |
+| 23 | [フェイント](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%82%a4%e3%83%b3%e3%83%88) | フェイント (Feint) is a type of move used in sports, martial arts, and other physical activities. It is a deceptive maneuver intended to distract or mislead an opponent. In English, it can be translated as "feint" or "fake". |
+| 24 | [ブライトン](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88%e3%83%b3) | ブライトン (Buraiton) is a Japanese surname. In English, it can be translated to mean "Brighton". |
+| 25 | [リヴァプール](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%97%e3%83%bc%e3%83%ab) | リヴァプール is the Japanese name for the city of Liverpool in England. It is a port city located on the eastern side of the Mersey Estuary in North West England. The English translation of リヴァプール is Liverpool. |
+| 26 | [一ノ瀬家の大罪](http://twitter.com/search?q=%e4%b8%80%e3%83%8e%e7%80%ac%e5%ae%b6%e3%81%ae%e5%a4%a7%e7%bd%aa) | 一ノ瀬家の大罪 (Ichinose-ke no Daizai) is a Japanese novel written by Keigo Higashino. It translates to "The Ichinose Family's Great Sin" and tells the story of a family whose secrets are slowly revealed as they struggle to come to terms with their past. The novel explores themes of guilt, redemption, and the power of family bonds. |
+| 27 | [スケダン](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%80%e3%83%b3) | スケダン (Skedan) is a Japanese term that refers to a style of dance that combines elements of hip-hop, breakdancing, and acrobatics. It is often performed in large groups and involves intricate choreography. The English translation of スケダン is "street dance". |
+| 28 | [スシロー](http://twitter.com/search?q=%e3%82%b9%e3%82%b7%e3%83%ad%e3%83%bc) | スシロー is a popular Japanese chain of fast-food restaurants that specializes in gyudon (beef bowl) and other dishes. The name is derived from the Japanese phrase "sushi-ryōri," which means "sushi cuisine." In English, it can be translated as "Sushi-Ryo." |
+| 29 | [愛萌さん](http://twitter.com/search?q=%e6%84%9b%e8%90%8c%e3%81%95%e3%82%93) | 愛萌さん is a nickname given to the Japanese singer and actress, Ami Suzuki. It is a combination of the words "ai" (love) and "moe" (cute). In English, it can be translated to mean "Lovely Moe". |
+| 30 | [三苫さん](http://twitter.com/search?q=%e4%b8%89%e8%8b%ab%e3%81%95%e3%82%93) | 三苫さん (Mitsumune-san) is a Japanese term of endearment used to refer to someone who is close to you, such as a friend or family member. It can be translated into English as "dear" or "sweetheart". |
+| 31 | [スーパーゴール](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%82%b4%e3%83%bc%e3%83%ab) | スーパーゴール (Super Goal) is a term used in Japanese soccer to refer to an especially spectacular goal. It is usually used to describe a goal that involves a great deal of skill or technique, such as a long-range shot, a bicycle kick, or a header. In English, it could be translated as "super goal" or "spectacular goal". |
+| 32 | [ペロロジラ](http://twitter.com/search?q=%e3%83%9a%e3%83%ad%e3%83%ad%e3%82%b8%e3%83%a9) | ペロロジラ is a Japanese word that means “to be fickle” or “to be indecisive”. It is used to describe someone who is constantly changing their mind or wavering between two decisions. |
+| 33 | [オシメン](http://twitter.com/search?q=%e3%82%aa%e3%82%b7%e3%83%a1%e3%83%b3) | N/A |
+| 34 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
+| 35 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
+| 36 | [第374回](http://twitter.com/search?q=%e7%ac%ac374%e5%9b%9e) | 第374回 is a Japanese phrase that translates to "the 374th time". It is often used to refer to the 374th meeting or gathering of a group. |
+| 37 | [スケットダンス](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
+| 38 | [三笘選手](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e9%81%b8%e6%89%8b) | N/A |
+| 39 | [伊地知さん](http://twitter.com/search?q=%e4%bc%8a%e5%9c%b0%e7%9f%a5%e3%81%95%e3%82%93) | N/A |
+| 40 | [ルカさん](http://twitter.com/search?q=%e3%83%ab%e3%82%ab%e3%81%95%e3%82%93) | "ルカさん" is a Japanese honorific used to refer to someone in a respectful way. It is similar to the English term "Mr." or "Ms." and is typically used when addressing someone older or of higher status. In English, it would be translated as "Mr. Ruka" or "Ms. Ruka". |
+| 41 | [ファビーニョ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%93%e3%83%bc%e3%83%8b%e3%83%a7) | ファビーニョ is a Japanese onomatopoeia that expresses the sound of something being thrown away. In English, it could be translated as "thwack" or "toss". |
+| 42 | [アーノルド](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%8e%e3%83%ab%e3%83%89) | アーノルド is the Japanese transliteration of the name Arnold. It is a masculine given name of Germanic origin, derived from the elements "arn" (eagle) and "wald" (rule). In English, it means "strong as an eagle". |
+| 43 | [ハイペリオン](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%9a%e3%83%aa%e3%82%aa%e3%83%b3) | ハイペリオン is a Japanese term that literally translates to "high-pitched melody". It is used to describe a type of music that has a high-pitched, cheerful sound. It is often used to describe upbeat, cheerful pop music. |
+| 44 | [ソロキル](http://twitter.com/search?q=%e3%82%bd%e3%83%ad%e3%82%ad%e3%83%ab) | N/A |
+| 45 | [サウール](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%bc%e3%83%ab) | N/A |
+| 46 | [セカンドフェイズ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e3%83%95%e3%82%a7%e3%82%a4%e3%82%ba) | N/A |
+| 47 | [ブルーロックの凪](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af%e3%81%ae%e5%87%aa) | N/A |
 | 48 | [三笘くん](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%8f%e3%82%93) | N/A |
-| 49 | [三笘まじ](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%be%e3%81%98) | N/A |
-| 50 | [キルキル](http://twitter.com/search?q=%e3%82%ad%e3%83%ab%e3%82%ad%e3%83%ab) | キルキル is an onomatopoeia in Japanese that is used to describe a sound of something being cut or sliced. In English, it could be translated as "slice-slice". |
+| 49 | [トラップ](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%83%e3%83%97) | N/A |
+| 50 | [三笘まじ](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%be%e3%81%98) | N/A |
 
 
 
