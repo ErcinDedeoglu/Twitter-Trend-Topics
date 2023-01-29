@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dammam
 
-📆 Last Updated: `2023-01-29 20:15:59 UTC`
+📆 Last Updated: `2023-01-29 21:15:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 2 | [#كاس_سوبر_بيرين](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%b3%d9%88%d8%a8%d8%b1_%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | #كاس_سوبر_بيرين is a hashtag used to promote the Super Cup of Bahrain, an annual football tournament held in Bahrain. In English, it translates to "#SuperCupBahrain". |
 | 3 | [#نهايي_كاس_السوبر_السعودي](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | #نهايي_كاس_السوبر_السعودي is a hashtag used to refer to the Saudi Super Cup, which is an annual football match between the winners of the Saudi Professional League and the King's Cup. In English, it translates to "Saudi Super Cup Final". |
 | 4 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 5 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 6 | [السوبر السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 7 | [WE ARE THE CHAMPIONS](http://twitter.com/search?q=WE+ARE+THE+CHAMPIONS) | "We Are the Champions" is a song by the British rock band Queen, written by lead singer Freddie Mercury. The song was released as a single in 1977 and has since become an anthem for victory and triumph. The lyrics of the song celebrate the success of a team or individual who has achieved greatness despite facing adversity. The phrase "We Are the Champions" has become a popular slogan used to express pride in one's accomplishments. |
-| 8 | [#حمدالله](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 9 | [#العمودي_للعود_وجه_الخير](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%85%d9%88%d8%af%d9%8a_%d9%84%d9%84%d8%b9%d9%88%d8%af_%d9%88%d8%ac%d9%87_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 10 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
-| 11 | [قلب هلالي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | قلب هلالي is an Arabic phrase that translates to "crescent heart." It is a metaphor for someone who has a generous and kind heart. |
-| 12 | [يزيد الراجحي](http://twitter.com/search?q=%d9%8a%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 13 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
-| 14 | [قول الساطي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a) | N/A |
-| 15 | [كاس بيرين](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
-| 16 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
-| 17 | [عشاق العميد](http://twitter.com/search?q=%d8%b9%d8%b4%d8%a7%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d8%af) | N/A |
-| 18 | [طويل العمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
-| 19 | [نادي الوطن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | نادي الوطن is a sports club in Saudi Arabia. The name translates to "National Club" in English. It is based in Riyadh and was founded in 1959. The club is known for its football team, which competes in the Saudi Professional League. |
-| 20 | [حماد العنزي](http://twitter.com/search?q=%d8%ad%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
+| 5 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
+| 6 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 7 | [#العمودي_للعود_وجه_الخير](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%85%d9%88%d8%af%d9%8a_%d9%84%d9%84%d8%b9%d9%88%d8%af_%d9%88%d8%ac%d9%87_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 8 | [كاس السوبر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | كاس السوبر (Kass al-Souper) is an Arabic phrase that translates to "Super Cup" in English. It is a term used to refer to a cup or trophy awarded to the winner of a football tournament or championship. |
+| 9 | [#حمدالله](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 10 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 11 | [WE ARE THE CHAMPIONS](http://twitter.com/search?q=WE+ARE+THE+CHAMPIONS) | "We Are the Champions" is a song by the British rock band Queen, written by lead singer Freddie Mercury. The song was released as a single in 1977 and has since become an anthem for victory and triumph. The lyrics of the song celebrate the success of a team or individual who has achieved greatness despite facing adversity. The phrase "We Are the Champions" has become a popular slogan used to express pride in one's accomplishments. |
+| 12 | [قلب هلالي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | قلب هلالي is an Arabic phrase that translates to "crescent heart." It is a metaphor for someone who has a generous and kind heart. |
+| 13 | [ابو فيصل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 14 | [كاس بيرين](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
+| 15 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
+| 16 | [طويل العمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
+| 17 | [يزيد الراجحي](http://twitter.com/search?q=%d9%8a%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
+| 18 | [عشاق العميد](http://twitter.com/search?q=%d8%b9%d8%b4%d8%a7%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d8%af) | N/A |
+| 19 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 20 | [نادي الوطن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | نادي الوطن is a sports club in Saudi Arabia. The name translates to "National Club" in English. It is based in Riyadh and was founded in 1959. The club is known for its football team, which competes in the Saudi Professional League. |
 | 21 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 22 | [نبي الثالث](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 23 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 24 | [كاس المويه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d9%87) | N/A |
-| 25 | [جماهير الذهب](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d8%b0%d9%87%d8%a8) | N/A |
-| 26 | [البطوله المستحقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ad%d9%82%d9%87) | N/A |
-| 27 | [المرداسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%af%d8%a7%d8%b3%d9%8a) | N/A |
-| 28 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
-| 29 | [قول الثاني](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 30 | [صوت الجمهور](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
-| 31 | [صوت المعلق](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%82) | N/A |
-| 32 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
-| 33 | [عميد الانديه](http://twitter.com/search?q=%d8%b9%d9%85%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 34 | [الجمهور العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 35 | [قوميز](http://twitter.com/search?q=%d9%82%d9%88%d9%85%d9%8a%d8%b2) | N/A |
+| 22 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
+| 23 | [كبير الرياض](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 24 | [حماد العنزي](http://twitter.com/search?q=%d8%ad%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
+| 25 | [حامد البلوي](http://twitter.com/search?q=%d8%ad%d8%a7%d9%85%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d9%8a) | N/A |
+| 26 | [C A M P E O N E S](http://twitter.com/search?q=C+A+M+P+E+O+N+E+S) | N/A |
+| 27 | [جماهير الذهب](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d8%b0%d9%87%d8%a8) | N/A |
+| 28 | [اللمسه الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%85%d8%b3%d9%87+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
+| 29 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
+| 30 | [كوش علي](http://twitter.com/search?q=%d9%83%d9%88%d8%b4+%d8%b9%d9%84%d9%8a) | N/A |
+| 31 | [كاس المويه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d9%87) | N/A |
+| 32 | [محمد خاتم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%ae%d8%a7%d8%aa%d9%85) | N/A |
+| 33 | [البطوله المستحقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ad%d9%82%d9%87) | N/A |
+| 34 | [باقي البطولات](http://twitter.com/search?q=%d8%a8%d8%a7%d9%82%d9%8a+%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d8%a7%d8%aa) | N/A |
+| 35 | [صوت المعلق](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%82) | N/A |
 | 36 | [الهداف التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
-| 37 | [علي البلنتي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d9%86%d8%aa%d9%8a) | N/A |
-| 38 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
-| 39 | [عميد النوادي](http://twitter.com/search?q=%d8%b9%d9%85%d9%8a%d8%af+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%af%d9%8a) | N/A |
-| 40 | [مياه بيرين](http://twitter.com/search?q=%d9%85%d9%8a%d8%a7%d9%87+%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
-| 41 | [نادي الشعب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
-| 42 | [القناه الناقله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%86%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d8%a7%d9%82%d9%84%d9%87) | N/A |
-| 43 | [البطوله التنشيطيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%aa%d9%86%d8%b4%d9%8a%d8%b7%d9%8a%d9%87) | N/A |
-| 44 | [علي البطوله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87) | N/A |
-| 45 | [عسل النحل الاتي](http://twitter.com/search?q=%d8%b9%d8%b3%d9%84+%d8%a7%d9%84%d9%86%d8%ad%d9%84+%d8%a7%d9%84%d8%a7%d8%aa%d9%8a) | N/A |
-| 46 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 47 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 48 | [مدرج الذهب](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d8%ac+%d8%a7%d9%84%d8%b0%d9%87%d8%a8) | N/A |
-| 49 | [يابو بدر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%a8%d8%af%d8%b1) | N/A |
-| 50 | [سامي الخيبري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | N/A |
+| 37 | [علي البطوله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87) | N/A |
+| 38 | [درع الوطن](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 39 | [الجمهور العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 40 | [نادي الشعب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
+| 41 | [عميد الانديه](http://twitter.com/search?q=%d8%b9%d9%85%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
+| 42 | [علي البلنتي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d9%86%d8%aa%d9%8a) | N/A |
+| 43 | [صوت الجمهور](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
+| 44 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
+| 45 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
+| 46 | [القناه الناقله](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%86%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d8%a7%d9%82%d9%84%d9%87) | N/A |
+| 47 | [قوميز](http://twitter.com/search?q=%d9%82%d9%88%d9%85%d9%8a%d8%b2) | N/A |
+| 48 | [عميد النوادي](http://twitter.com/search?q=%d8%b9%d9%85%d9%8a%d8%af+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%af%d9%8a) | N/A |
+| 49 | [السومة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d8%a9) | N/A |
+| 50 | [البطوله التنشيطيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%aa%d9%86%d8%b4%d9%8a%d8%b7%d9%8a%d9%87) | N/A |
 
 
 

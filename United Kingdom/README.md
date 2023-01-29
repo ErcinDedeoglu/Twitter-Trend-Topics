@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-01-29 20:16:20 UTC`
+📆 Last Updated: `2023-01-29 21:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for United Kingdom
 | ------- | ------------ | ------------ |
 | 1 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 2 | [#DancingOnIce](http://twitter.com/search?q=%23DancingOnIce) | N/A |
-| 3 | [#wreshu](http://twitter.com/search?q=%23wreshu) | N/A |
-| 4 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 3 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 4 | [#CallTheMidwife](http://twitter.com/search?q=%23CallTheMidwife) | N/A |
 | 5 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 6 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 7 | [#NapoliRoma](http://twitter.com/search?q=%23NapoliRoma) | N/A |
-| 8 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 9 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
-| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 11 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 12 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 13 | [#NHS1000miles](http://twitter.com/search?q=%23NHS1000miles) | N/A |
-| 14 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 15 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 17 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 18 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 19 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 20 | [Dobey](http://twitter.com/search?q=Dobey) | N/A |
-| 21 | [Egan](http://twitter.com/search?q=Egan) | N/A |
-| 22 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 23 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 24 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 25 | [Patsy](http://twitter.com/search?q=Patsy) | N/A |
-| 26 | [Jonathan Pearce](http://twitter.com/search?q=Jonathan+Pearce) | N/A |
-| 27 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 28 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 29 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 30 | [Jebbison](http://twitter.com/search?q=Jebbison) | N/A |
-| 31 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 32 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 33 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
-| 34 | [Berge](http://twitter.com/search?q=Berge) | N/A |
-| 35 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
-| 36 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 37 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 38 | [Adam Davies](http://twitter.com/search?q=Adam+Davies) | N/A |
-| 39 | [Freeman](http://twitter.com/search?q=Freeman) | N/A |
+| 6 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
+| 7 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 9 | [#wreshu](http://twitter.com/search?q=%23wreshu) | N/A |
+| 10 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 11 | [#NFLPlayoffs](http://twitter.com/search?q=%23NFLPlayoffs) | #NFLPlayoffs is a hashtag used on social media to refer to the National Football League (NFL) playoffs. It is used to discuss the teams, players, and games that are part of the NFL postseason. |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 14 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
+| 15 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 16 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Devonta Smith](http://twitter.com/search?q=Devonta+Smith) | Devonta Smith is a name of an American football wide receiver for the Philadelphia Eagles of the National Football League (NFL). The name Devonta is derived from the Latin word "devons" which means "to be devoted". |
+| 19 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | Annie Wersching is an American actress. She is best known for her roles as FBI Special Agent Renee Walker on the Fox television series 24 and as Amelia Joffe on the ABC television series V. |
+| 20 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
+| 21 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 23 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 24 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 25 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
+| 26 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 27 | [Dobey](http://twitter.com/search?q=Dobey) | N/A |
+| 28 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 29 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 30 | [Patsy](http://twitter.com/search?q=Patsy) | N/A |
+| 31 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 32 | [Jonathan Pearce](http://twitter.com/search?q=Jonathan+Pearce) | N/A |
+| 33 | [Justified](http://twitter.com/search?q=Justified) | N/A |
+| 34 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 35 | [John Egan](http://twitter.com/search?q=John+Egan) | N/A |
+| 36 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 37 | [Berge](http://twitter.com/search?q=Berge) | N/A |
+| 38 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 39 | [Cyclists](http://twitter.com/search?q=Cyclists) | N/A |
 | 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 41 | [Deadpool](http://twitter.com/search?q=Deadpool) | N/A |
-| 42 | [McBurnie](http://twitter.com/search?q=McBurnie) | N/A |
-| 43 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 44 | [Phil Parkinson](http://twitter.com/search?q=Phil+Parkinson) | N/A |
-| 45 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 46 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 47 | [Sander](http://twitter.com/search?q=Sander) | N/A |
-| 48 | [Racecourse](http://twitter.com/search?q=Racecourse) | N/A |
-| 49 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 50 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 41 | [Jebbison](http://twitter.com/search?q=Jebbison) | N/A |
+| 42 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 43 | [Tommy Lee Royce](http://twitter.com/search?q=Tommy+Lee+Royce) | N/A |
+| 44 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 45 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 46 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 47 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 48 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 49 | [Adam Davies](http://twitter.com/search?q=Adam+Davies) | N/A |
+| 50 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
 
 
 

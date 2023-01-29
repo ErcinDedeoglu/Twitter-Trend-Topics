@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-01-29 20:16:19 UTC`
+📆 Last Updated: `2023-01-29 21:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,32 +39,32 @@ This is top 50 for Switzerland
 | 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 23 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
 | 24 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 25 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
+| 25 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
 | 26 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
 | 27 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 28 | [Earth](http://twitter.com/search?q=Earth) | N/A |
 | 29 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
-| 30 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 31 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 32 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 30 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 31 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 32 | [Ding](http://twitter.com/search?q=Ding) | N/A |
 | 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 34 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 34 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 35 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 36 | [America](http://twitter.com/search?q=America) | N/A |
-| 37 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 38 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 39 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 40 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
-| 41 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 42 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 43 | [Linie](http://twitter.com/search?q=Linie) | N/A |
-| 44 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 45 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 46 | [Marc Germann](http://twitter.com/search?q=Marc+Germann) | N/A |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 49 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 50 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 36 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 37 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 38 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 39 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 40 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 41 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 42 | [Linie](http://twitter.com/search?q=Linie) | N/A |
+| 43 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 44 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 45 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
+| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 47 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 48 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 49 | [America](http://twitter.com/search?q=America) | N/A |
+| 50 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 
 
 

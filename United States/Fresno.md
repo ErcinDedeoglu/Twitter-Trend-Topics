@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-01-29 20:16:09 UTC`
+📆 Last Updated: `2023-01-29 21:15:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 2 | [#NinerEmpire](http://twitter.com/search?q=%23NinerEmpire) | N/A |
-| 3 | [Game Day](http://twitter.com/search?q=Game+Day) | N/A |
-| 4 | [#NFLTwitter](http://twitter.com/search?q=%23NFLTwitter) | N/A |
-| 5 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 6 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 8 | [#RuleTheJungle](http://twitter.com/search?q=%23RuleTheJungle) | #RuleTheJungle is a phrase that is used to encourage people to take control of their lives and be the master of their own destiny. It is a call to action for people to take charge and be the leader of their own lives. |
-| 9 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 10 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 11 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 12 | [Fred Warner](http://twitter.com/search?q=Fred+Warner) | Fred Warner is a surname of English origin. It is derived from the Old English words "frið" meaning peace and "werner" meaning army or defense. The name is thought to have been given to someone who was a defender of peace. |
-| 13 | [Anita Baker](http://twitter.com/search?q=Anita+Baker) | Anita Baker is an American singer-songwriter and musician. She is known for her soulful voice and her ability to blend jazz, gospel, R&B, and pop music into her own unique style. She has won eight Grammy Awards and has been nominated for numerous others. Her most popular songs include "Sweet Love," "Giving You the Best That I Got," and "Caught Up in the Rapture." |
-| 14 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
-| 15 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 16 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 17 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 18 | [Joey Bosa](http://twitter.com/search?q=Joey+Bosa) | Joey Bosa is an American football defensive end for the Los Angeles Chargers of the National Football League (NFL). He was drafted by the Chargers third overall in the 2016 NFL Draft. His name is a combination of his parents' first names, John and Cheryl Bosa. |
-| 19 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 20 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
-| 21 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 22 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
-| 23 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 24 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 25 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
-| 26 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 27 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
-| 28 | [Bull Durham](http://twitter.com/search?q=Bull+Durham) | N/A |
-| 29 | [Vic Fangio](http://twitter.com/search?q=Vic+Fangio) | N/A |
-| 30 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 31 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 32 | [Jordan Mason](http://twitter.com/search?q=Jordan+Mason) | N/A |
-| 33 | [Justified](http://twitter.com/search?q=Justified) | N/A |
-| 34 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
-| 35 | [Elijah Mitchell](http://twitter.com/search?q=Elijah+Mitchell) | N/A |
-| 36 | [Paul Mullin](http://twitter.com/search?q=Paul+Mullin) | Paul Mullin is a Scottish surname. It is derived from the Gaelic words "Maol" and "Fhionn", which mean "bald" and "fair-haired" respectively. The name is often used to refer to someone with fair hair or a bald head. |
-| 37 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
-| 38 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | N/A |
-| 39 | [The Natural](http://twitter.com/search?q=The+Natural) | N/A |
-| 40 | [Jared Bynum](http://twitter.com/search?q=Jared+Bynum) | N/A |
-| 41 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 42 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 43 | [Game Time](http://twitter.com/search?q=Game+Time) | N/A |
-| 44 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 45 | [Baker Mayfield](http://twitter.com/search?q=Baker+Mayfield) | N/A |
-| 46 | [Bad News Bears](http://twitter.com/search?q=Bad+News+Bears) | N/A |
-| 47 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 48 | [Erin Andrews](http://twitter.com/search?q=Erin+Andrews) | N/A |
-| 49 | [As a Biden](http://twitter.com/search?q=As+a+Biden) | N/A |
+| 1 | [#NFLPlayoffs](http://twitter.com/search?q=%23NFLPlayoffs) | #NFLPlayoffs is a hashtag used on social media to refer to the National Football League (NFL) playoffs. It is used to discuss the teams, players, and games that are part of the NFL postseason. |
+| 2 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 3 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | N/A |
+| 4 | [Mason](http://twitter.com/search?q=Mason) | N/A |
+| 5 | [Elijah Mitchell](http://twitter.com/search?q=Elijah+Mitchell) | N/A |
+| 6 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 7 | [GAME TIME](http://twitter.com/search?q=GAME+TIME) | N/A |
+| 8 | [Tevin Coleman](http://twitter.com/search?q=Tevin+Coleman) | N/A |
+| 9 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
+| 10 | [Juice](http://twitter.com/search?q=Juice) | N/A |
+| 11 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 12 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
+| 13 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 14 | [#NFLTwitter](http://twitter.com/search?q=%23NFLTwitter) | N/A |
+| 15 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 16 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 17 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
+| 18 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 19 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 20 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 21 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
+| 22 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 23 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 24 | [Devonta Smith](http://twitter.com/search?q=Devonta+Smith) | Devonta Smith is a name of an American football wide receiver for the Philadelphia Eagles of the National Football League (NFL). The name Devonta is derived from the Latin word "devons" which means "to be devoted". |
+| 25 | [Fred Warner](http://twitter.com/search?q=Fred+Warner) | Fred Warner is a surname of English origin. It is derived from the Old English words "frið" meaning peace and "werner" meaning army or defense. The name is thought to have been given to someone who was a defender of peace. |
+| 26 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
+| 27 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 28 | [Anita Baker](http://twitter.com/search?q=Anita+Baker) | Anita Baker is an American singer-songwriter and musician. She is known for her soulful voice and her ability to blend jazz, gospel, R&B, and pop music into her own unique style. She has won eight Grammy Awards and has been nominated for numerous others. Her most popular songs include "Sweet Love," "Giving You the Best That I Got," and "Caught Up in the Rapture." |
+| 29 | [Smitty](http://twitter.com/search?q=Smitty) | Smitty is a slang term for someone who is considered to be a "regular guy" or an average Joe. It can also be used to describe someone who is reliable and dependable. |
+| 30 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 31 | [McCaffery](http://twitter.com/search?q=McCaffery) | N/A |
+| 32 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
+| 33 | [4th QB](http://twitter.com/search?q=4th+QB) | 4th QB is a term used in American football to refer to the fourth-string quarterback on a team's roster. This player is usually the least experienced and least likely to play in a game, but may be called upon if the other three quarterbacks are injured or otherwise unable to play. |
+| 34 | [Deebo](http://twitter.com/search?q=Deebo) | Deebo is a slang term derived from the character Deebo in the 1995 movie Friday. It is used to refer to someone who is strong, intimidating, or aggressive. |
+| 35 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
+| 36 | [Fumble](http://twitter.com/search?q=Fumble) | Fumble is an English verb meaning to make a mistake or to drop something clumsily. It can also refer to a mistake made in a sports game, such as dropping the ball or missing a catch. |
+| 37 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 38 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | Annie Wersching is an American actress. She is best known for her roles as FBI Special Agent Renee Walker on the Fox television series 24 and as Amelia Joffe on the ABC television series V. |
+| 39 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 40 | [WHAT A CATCH](http://twitter.com/search?q=WHAT+A+CATCH) | N/A |
+| 41 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 42 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 43 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 44 | [Incomplete](http://twitter.com/search?q=Incomplete) | N/A |
+| 45 | [Cat Mario](http://twitter.com/search?q=Cat+Mario) | N/A |
+| 46 | [Skinny Batman](http://twitter.com/search?q=Skinny+Batman) | N/A |
+| 47 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
+| 48 | [Goodell](http://twitter.com/search?q=Goodell) | Goodell is a surname of English origin. It is derived from the Old English words "god" and "wella," meaning "good spring." The name was originally given to someone who lived near a good spring or well. |
+| 49 | [Shanny](http://twitter.com/search?q=Shanny) | N/A |
+| 50 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
 
 
 

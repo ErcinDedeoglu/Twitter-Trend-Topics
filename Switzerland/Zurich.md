@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-01-29 20:15:49 UTC`
+📆 Last Updated: `2023-01-29 21:15:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,32 +39,32 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 23 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
 | 24 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 26 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
-| 27 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
-| 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 29 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 30 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
-| 31 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 32 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 25 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
+| 26 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 27 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 28 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
+| 29 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 30 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 31 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 32 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 33 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 36 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 37 | [America](http://twitter.com/search?q=America) | N/A |
-| 38 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 39 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 40 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 41 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
-| 42 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 43 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 44 | [Linie](http://twitter.com/search?q=Linie) | N/A |
-| 45 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 46 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 47 | [Marc Germann](http://twitter.com/search?q=Marc+Germann) | N/A |
-| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 49 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 50 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 34 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 35 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 36 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 37 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 38 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 39 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 40 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 41 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 42 | [Linie](http://twitter.com/search?q=Linie) | N/A |
+| 43 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 44 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 45 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
+| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 47 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 48 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 49 | [America](http://twitter.com/search?q=America) | N/A |
+| 50 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-01-29 20:15:57 UTC`
+📆 Last Updated: `2023-01-29 21:15:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,28 +43,28 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 26 | [Scam](http://twitter.com/search?q=Scam) | N/A |
 | 27 | [NewJeans](http://twitter.com/search?q=NewJeans) | NewJeans is a Japanese fashion brand that specializes in denim clothing. The brand is known for its high-quality, stylish jeans and other denim apparel. The name NewJeans is derived from the phrase "new jeans," which refers to the idea of creating something new and unique with denim. |
 | 28 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
-| 29 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 30 | [source link](http://twitter.com/search?q=source+link) | N/A |
-| 31 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 32 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
-| 33 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 34 | [Ngta](http://twitter.com/search?q=Ngta) | N/A |
-| 35 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
-| 36 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 37 | [Join the Trader Joe Discord](http://twitter.com/search?q=Join+the+Trader+Joe+Discord) | N/A |
-| 38 | [Viet](http://twitter.com/search?q=Viet) | N/A |
-| 39 | [nứng](http://twitter.com/search?q=n%e1%bb%a9ng) | N/A |
-| 40 | [giống](http://twitter.com/search?q=gi%e1%bb%91ng) | N/A |
-| 41 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
-| 42 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
-| 43 | [hia lian](http://twitter.com/search?q=hia+lian) | N/A |
-| 44 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 45 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 46 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
-| 49 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
-| 50 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 29 | [source link](http://twitter.com/search?q=source+link) | N/A |
+| 30 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 31 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
+| 32 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
+| 33 | [Ngta](http://twitter.com/search?q=Ngta) | N/A |
+| 34 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 35 | [Join the Trader Joe Discord](http://twitter.com/search?q=Join+the+Trader+Joe+Discord) | N/A |
+| 36 | [Viet](http://twitter.com/search?q=Viet) | N/A |
+| 37 | [nứng](http://twitter.com/search?q=n%e1%bb%a9ng) | N/A |
+| 38 | [giống](http://twitter.com/search?q=gi%e1%bb%91ng) | N/A |
+| 39 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
+| 40 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
+| 41 | [hia lian](http://twitter.com/search?q=hia+lian) | N/A |
+| 42 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 43 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 44 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 46 | [ktgbb ckunesco amtb tw](http://twitter.com/search?q=ktgbb+ckunesco+amtb+tw) | N/A |
+| 47 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 48 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 50 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
 
 
 

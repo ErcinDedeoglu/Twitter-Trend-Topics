@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-01-29 20:16:14 UTC`
+📆 Last Updated: `2023-01-29 21:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheMaskedSingerBR](http://twitter.com/search?q=%23TheMaskedSingerBR) | #TheMaskedSingerBR is a Brazilian version of the popular singing competition show The Masked Singer. It is a reality television show in which celebrities compete against each other while wearing elaborate costumes and masks to conceal their identities. The audience and panel of judges must guess who the celebrity is based on their singing performance. |
-| 2 | [#BAVInaTVE](http://twitter.com/search?q=%23BAVInaTVE) | N/A |
-| 3 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 4 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 5 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 6 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
-| 7 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
-| 8 | [Yago Felipe](http://twitter.com/search?q=Yago+Felipe) | N/A |
-| 9 | [Broco Lee](http://twitter.com/search?q=Broco+Lee) | N/A |
-| 10 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 11 | [#FACupNaESPN](http://twitter.com/search?q=%23FACupNaESPN) | N/A |
-| 12 | [Mumuzinho](http://twitter.com/search?q=Mumuzinho) | N/A |
-| 13 | [#FicaGabriel](http://twitter.com/search?q=%23FicaGabriel) | N/A |
-| 14 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 15 | [ARTHURPICOLI NO HORADOFARO](http://twitter.com/search?q=ARTHURPICOLI+NO+HORADOFARO) | N/A |
-| 16 | [Angélica](http://twitter.com/search?q=Ang%c3%a9lica) | N/A |
-| 17 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 18 | [Morumbi](http://twitter.com/search?q=Morumbi) | N/A |
-| 19 | [Trellez](http://twitter.com/search?q=Trellez) | N/A |
-| 20 | [Dalton](http://twitter.com/search?q=Dalton) | N/A |
-| 21 | [Adriana Dias](http://twitter.com/search?q=Adriana+Dias) | N/A |
-| 22 | [Tebet](http://twitter.com/search?q=Tebet) | Tebet is a district in South Jakarta, Indonesia. It is known for its traditional markets and its vibrant nightlife. The name Tebet comes from the Sanskrit word “tevata”, which means “temple”. |
-| 23 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
-| 24 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 25 | [O Galo](http://twitter.com/search?q=O+Galo) | N/A |
-| 26 | [Coruja](http://twitter.com/search?q=Coruja) | N/A |
-| 27 | [João Lucas](http://twitter.com/search?q=Jo%c3%a3o+Lucas) | N/A |
-| 28 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 29 | [Muralha](http://twitter.com/search?q=Muralha) | N/A |
-| 30 | [Kayky](http://twitter.com/search?q=Kayky) | N/A |
-| 31 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 32 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 33 | [Gleisi](http://twitter.com/search?q=Gleisi) | N/A |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Damage](http://twitter.com/search?q=Damage) | N/A |
-| 36 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 37 | [VAI CORINTHIANS](http://twitter.com/search?q=VAI+CORINTHIANS) | N/A |
-| 38 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
-| 39 | [Prodelta](http://twitter.com/search?q=Prodelta) | N/A |
-| 40 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 41 | [Hassum](http://twitter.com/search?q=Hassum) | N/A |
-| 42 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
-| 43 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 44 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 45 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 46 | [Michele Bolsonaro](http://twitter.com/search?q=Michele+Bolsonaro) | N/A |
-| 47 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
-| 48 | [Queima](http://twitter.com/search?q=Queima) | N/A |
-| 49 | [Resende](http://twitter.com/search?q=Resende) | N/A |
-| 50 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 2 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 3 | [#BAVInaTVE](http://twitter.com/search?q=%23BAVInaTVE) | N/A |
+| 4 | [Muralha](http://twitter.com/search?q=Muralha) | N/A |
+| 5 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
+| 6 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
+| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 8 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 9 | [Angélica](http://twitter.com/search?q=Ang%c3%a9lica) | N/A |
+| 10 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 11 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 12 | [Yago Felipe](http://twitter.com/search?q=Yago+Felipe) | N/A |
+| 13 | [#NFLPlayoffs](http://twitter.com/search?q=%23NFLPlayoffs) | #NFLPlayoffs is a hashtag used on social media to refer to the National Football League (NFL) playoffs. It is used to discuss the teams, players, and games that are part of the NFL postseason. |
+| 14 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 15 | [Broco Lee](http://twitter.com/search?q=Broco+Lee) | N/A |
+| 16 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
+| 17 | [Trellez](http://twitter.com/search?q=Trellez) | N/A |
+| 18 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
+| 19 | [Pedro Rocha](http://twitter.com/search?q=Pedro+Rocha) | N/A |
+| 20 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
+| 21 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 22 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | Annie Wersching is an American actress. She is best known for her roles as FBI Special Agent Renee Walker on the Fox television series 24 and as Amelia Joffe on the ABC television series V. |
+| 23 | [Morumbi](http://twitter.com/search?q=Morumbi) | N/A |
+| 24 | [Verratti](http://twitter.com/search?q=Verratti) | Verratti is an Italian surname. It is derived from the Latin word verratum, which means "true". In English, it can be translated to mean "true and faithful". |
+| 25 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
+| 26 | [Burse](http://twitter.com/search?q=Burse) | N/A |
+| 27 | [Mumuzinho](http://twitter.com/search?q=Mumuzinho) | N/A |
+| 28 | [João Lucas](http://twitter.com/search?q=Jo%c3%a3o+Lucas) | N/A |
+| 29 | [Dalton](http://twitter.com/search?q=Dalton) | N/A |
+| 30 | [ARTHURPICOLI NO HORADOFARO](http://twitter.com/search?q=ARTHURPICOLI+NO+HORADOFARO) | N/A |
+| 31 | [Adriana Dias](http://twitter.com/search?q=Adriana+Dias) | N/A |
+| 32 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 33 | [Kayky](http://twitter.com/search?q=Kayky) | N/A |
+| 34 | [VAI CORINTHIANS](http://twitter.com/search?q=VAI+CORINTHIANS) | N/A |
+| 35 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 36 | [Tebet](http://twitter.com/search?q=Tebet) | Tebet is a district in South Jakarta, Indonesia. It is known for its traditional markets and its vibrant nightlife. The name Tebet comes from the Sanskrit word “tevata”, which means “temple”. |
+| 37 | [Coruja](http://twitter.com/search?q=Coruja) | N/A |
+| 38 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
+| 39 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 40 | [Azuriz](http://twitter.com/search?q=Azuriz) | N/A |
+| 41 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 42 | [Ronald](http://twitter.com/search?q=Ronald) | N/A |
+| 43 | [Circo](http://twitter.com/search?q=Circo) | N/A |
+| 44 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 46 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 47 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 48 | [Marisa Orth](http://twitter.com/search?q=Marisa+Orth) | N/A |
+| 49 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 50 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
 
 
 

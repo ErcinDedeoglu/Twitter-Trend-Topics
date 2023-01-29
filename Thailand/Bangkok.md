@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-01-29 20:15:57 UTC`
+📆 Last Updated: `2023-01-29 21:15:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,14 +26,14 @@ This is top 50 for [Thailand](</Thailand>)
 | 9 | [bambam gm 29january](http://twitter.com/search?q=bambam+gm+29january) | N/A |
 | 10 | [GAP WORLD DOMINATION](http://twitter.com/search?q=GAP+WORLD+DOMINATION) | GAP World Domination is a term used to describe the ambition of the clothing company GAP to become a global leader in the fashion industry. The phrase is often used to refer to GAP's aggressive expansion strategy, which has seen them open stores in many countries around the world. |
 | 11 | [CHARLOTTE AUSTIN](http://twitter.com/search?q=CHARLOTTE+AUSTIN) | N/A |
-| 12 | [ABU DHABI LOVES LISA](http://twitter.com/search?q=ABU+DHABI+LOVES+LISA) | ABU DHABI LOVES LISA is a phrase that expresses the sentiment of love and admiration for a person named Lisa from the city of Abu Dhabi. It is a way of expressing appreciation and admiration for someone from the city. |
+| 12 | [abu dhabi loves lisa](http://twitter.com/search?q=abu+dhabi+loves+lisa) | N/A |
 | 13 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | N/A |
 | 14 | [29 morning dunk](http://twitter.com/search?q=29+morning+dunk) | N/A |
 | 15 | [smiley29 charlotte](http://twitter.com/search?q=smiley29+charlotte) | N/A |
 | 16 | [d-1 nct 127 ay-yo](http://twitter.com/search?q=d-1+nct+127+ay-yo) | N/A |
-| 17 | [iPhone 4s](http://twitter.com/search?q=iPhone+4s) | N/A |
-| 18 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
-| 19 | [User](http://twitter.com/search?q=User) | N/A |
+| 17 | [iPhone 13](http://twitter.com/search?q=iPhone+13) | N/A |
+| 18 | [User](http://twitter.com/search?q=User) | N/A |
+| 19 | [Korean](http://twitter.com/search?q=Korean) | N/A |
 | 20 | [#kinnporscheworldtourinbkk](http://twitter.com/search?q=%23kinnporscheworldtourinbkk) | N/A |
 | 21 | [#BoycottBOC](http://twitter.com/search?q=%23BoycottBOC) | N/A |
 | 22 | [#เฮียเหลียน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b9%80%e0%b8%ab%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%99) | #เฮียเหลียน is a Thai phrase that translates to "My Darling" in English. It is an affectionate term used to express love and endearment. |
@@ -44,27 +44,27 @@ This is top 50 for [Thailand](</Thailand>)
 | 27 | [#MeMindY2023NextProject](http://twitter.com/search?q=%23MeMindY2023NextProject) | N/A |
 | 28 | [#FinalMissGrandChaiyaphum2023](http://twitter.com/search?q=%23FinalMissGrandChaiyaphum2023) | N/A |
 | 29 | [#หยิ่นหยางEP30xANWYLL](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%ab%e0%b8%a2%e0%b8%b2%e0%b8%87EP30xANWYLL) | N/A |
-| 30 | [#MasterInTheHouse2EP5](http://twitter.com/search?q=%23MasterInTheHouse2EP5) | N/A |
-| 31 | [#Jinyoung_RendezvousDay2](http://twitter.com/search?q=%23Jinyoung_RendezvousDay2) | N/A |
-| 32 | [#ProjectAlphaTHEP7](http://twitter.com/search?q=%23ProjectAlphaTHEP7) | N/A |
-| 33 | [#BKCมีเขาเหงาได้ไง](http://twitter.com/search?q=%23BKC%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%80%e0%b8%ab%e0%b8%87%e0%b8%b2%e0%b9%84%e0%b8%94%e0%b9%89%e0%b9%84%e0%b8%87) | N/A |
-| 34 | [#KPWT2023WTFTicketsday](http://twitter.com/search?q=%23KPWT2023WTFTicketsday) | N/A |
-| 35 | [#PPKritThe1stFanMeeting](http://twitter.com/search?q=%23PPKritThe1stFanMeeting) | #PPKritThe1stFanMeeting is a hashtag used to promote the first fan meeting of Thai singer and actor Pongkrit “Krit” Hiranyasap. The hashtag is used to promote the event and encourage fans to attend. In English, it translates to "Pongkrit 'Krit' Hiranyasap's First Fan Meeting". |
-| 36 | [#IMAXLaserXGeminiFourth](http://twitter.com/search?q=%23IMAXLaserXGeminiFourth) | N/A |
-| 37 | [#อิงล็อต](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | #อิงล็อต is a hashtag used on social media in Thailand. It translates to "Follow the Lottery" and is used to encourage people to follow the Thai lottery results. |
-| 38 | [#ENHYPENinBKK](http://twitter.com/search?q=%23ENHYPENinBKK) | N/A |
+| 30 | [#Jinyoung_RendezvousDay2](http://twitter.com/search?q=%23Jinyoung_RendezvousDay2) | N/A |
+| 31 | [#ProjectAlphaTHEP7](http://twitter.com/search?q=%23ProjectAlphaTHEP7) | N/A |
+| 32 | [#BKCมีเขาเหงาได้ไง](http://twitter.com/search?q=%23BKC%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%80%e0%b8%ab%e0%b8%87%e0%b8%b2%e0%b9%84%e0%b8%94%e0%b9%89%e0%b9%84%e0%b8%87) | N/A |
+| 33 | [#KPWT2023WTFTicketsday](http://twitter.com/search?q=%23KPWT2023WTFTicketsday) | N/A |
+| 34 | [#MasterInTheHouse2EP5](http://twitter.com/search?q=%23MasterInTheHouse2EP5) | N/A |
+| 35 | [#IMAXLaserXGeminiFourth](http://twitter.com/search?q=%23IMAXLaserXGeminiFourth) | N/A |
+| 36 | [#PPKritThe1stFanMeeting](http://twitter.com/search?q=%23PPKritThe1stFanMeeting) | #PPKritThe1stFanMeeting is a hashtag used to promote the first fan meeting of Thai singer and actor Pongkrit “Krit” Hiranyasap. The hashtag is used to promote the event and encourage fans to attend. In English, it translates to "Pongkrit 'Krit' Hiranyasap's First Fan Meeting". |
+| 37 | [#ENHYPENinBKK](http://twitter.com/search?q=%23ENHYPENinBKK) | N/A |
+| 38 | [#อิงล็อต](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | #อิงล็อต is a hashtag used on social media in Thailand. It translates to "Follow the Lottery" and is used to encourage people to follow the Thai lottery results. |
 | 39 | [#ไปคอนเพื่อมายอาโป](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9b%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%ad%e0%b8%b2%e0%b9%82%e0%b8%9b) | N/A |
 | 40 | [#SimmonxNamneungMilin](http://twitter.com/search?q=%23SimmonxNamneungMilin) | N/A |
 | 41 | [#กดบัตรทฤษฎีสีชมพู](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9) | N/A |
-| 42 | [#สจชิปเปอร์ตัวจริง](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%88%e0%b8%8a%e0%b8%b4%e0%b8%9b%e0%b9%80%e0%b8%9b%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%87) | N/A |
-| 43 | [#3ZaapxJeffsatur](http://twitter.com/search?q=%233ZaapxJeffsatur) | N/A |
-| 44 | [#DoritosXLaysMax](http://twitter.com/search?q=%23DoritosXLaysMax) | N/A |
-| 45 | [#CutieLoveFanConcert](http://twitter.com/search?q=%23CutieLoveFanConcert) | N/A |
-| 46 | [#THE7_DEBUTSHOWCASE](http://twitter.com/search?q=%23THE7_DEBUTSHOWCASE) | N/A |
-| 47 | [#sosatxmeenping](http://twitter.com/search?q=%23sosatxmeenping) | N/A |
-| 48 | [#JINYOUNGFanconSeoul_Day2](http://twitter.com/search?q=%23JINYOUNGFanconSeoul_Day2) | N/A |
-| 49 | [#BTSCTWCNYxMEENPING](http://twitter.com/search?q=%23BTSCTWCNYxMEENPING) | N/A |
-| 50 | [#sendinglove1stpresenterมีนปิง](http://twitter.com/search?q=%23sendinglove1stpresenter%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
+| 42 | [#3ZaapxJeffsatur](http://twitter.com/search?q=%233ZaapxJeffsatur) | N/A |
+| 43 | [#DoritosXLaysMax](http://twitter.com/search?q=%23DoritosXLaysMax) | N/A |
+| 44 | [#CutieLoveFanConcert](http://twitter.com/search?q=%23CutieLoveFanConcert) | N/A |
+| 45 | [#JINYOUNGFanconSeoul_Day2](http://twitter.com/search?q=%23JINYOUNGFanconSeoul_Day2) | N/A |
+| 46 | [#BTSCTWCNYxMEENPING](http://twitter.com/search?q=%23BTSCTWCNYxMEENPING) | N/A |
+| 47 | [#sendinglove1stpresenterมีนปิง](http://twitter.com/search?q=%23sendinglove1stpresenter%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
+| 48 | [#THE7_DEBUTSHOWCASE](http://twitter.com/search?q=%23THE7_DEBUTSHOWCASE) | N/A |
+| 49 | [#AOMGWORLDTOUR2023inOsaka](http://twitter.com/search?q=%23AOMGWORLDTOUR2023inOsaka) | N/A |
+| 50 | [#JACKSONININDIA](http://twitter.com/search?q=%23JACKSONININDIA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-01-29 20:16:17 UTC`
+📆 Last Updated: `2023-01-29 21:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#esland2023](http://twitter.com/search?q=%23esland2023) | N/A |
-| 2 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 3 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
-| 4 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 5 | [Vicky](http://twitter.com/search?q=Vicky) | N/A |
-| 6 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 7 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 8 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 9 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
-| 10 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 11 | [#CampeonatosEnPlaydoit](http://twitter.com/search?q=%23CampeonatosEnPlaydoit) | N/A |
-| 12 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 13 | [Juanpa](http://twitter.com/search?q=Juanpa) | N/A |
-| 14 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 15 | [Cota](http://twitter.com/search?q=Cota) | N/A |
-| 16 | [Doctor Slime](http://twitter.com/search?q=Doctor+Slime) | N/A |
-| 17 | [Woody](http://twitter.com/search?q=Woody) | N/A |
-| 18 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 19 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 20 | [Fred Warner](http://twitter.com/search?q=Fred+Warner) | Fred Warner is a surname of English origin. It is derived from the Old English words "frið" meaning peace and "werner" meaning army or defense. The name is thought to have been given to someone who was a defender of peace. |
-| 21 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 22 | [Barreiro](http://twitter.com/search?q=Barreiro) | N/A |
-| 23 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
-| 24 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 25 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
-| 26 | [Kunno](http://twitter.com/search?q=Kunno) | N/A |
-| 27 | [Juan y Ari](http://twitter.com/search?q=Juan+y+Ari) | N/A |
-| 28 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
-| 29 | [Luzu](http://twitter.com/search?q=Luzu) | N/A |
-| 30 | [REBORN ROLEPLAYER DEL AÑO](http://twitter.com/search?q=REBORN+ROLEPLAYER+DEL+A%c3%91O) | N/A |
-| 31 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 32 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
-| 33 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
-| 34 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 35 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 36 | [Karchez](http://twitter.com/search?q=Karchez) | N/A |
-| 37 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 38 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 39 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
-| 40 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 41 | [Tirano](http://twitter.com/search?q=Tirano) | N/A |
-| 42 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 43 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
-| 44 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 45 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 46 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 47 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
-| 48 | [Auditorio Nacional](http://twitter.com/search?q=Auditorio+Nacional) | N/A |
-| 49 | [Roier](http://twitter.com/search?q=Roier) | N/A |
-| 50 | [LOS AMO](http://twitter.com/search?q=LOS+AMO) | N/A |
+| 2 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 3 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 4 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
+| 5 | [WOODY](http://twitter.com/search?q=WOODY) | WOODY is a slang term used to describe someone who is strong, tough, and resilient. It can also be used to describe someone who is determined and hardworking. |
+| 6 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 7 | [#NFLxFSMX](http://twitter.com/search?q=%23NFLxFSMX) | N/A |
+| 8 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 9 | [#NFLPlayoffs](http://twitter.com/search?q=%23NFLPlayoffs) | #NFLPlayoffs is a hashtag used on social media to refer to the National Football League (NFL) playoffs. It is used to discuss the teams, players, and games that are part of the NFL postseason. |
+| 10 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 11 | [Jelty](http://twitter.com/search?q=Jelty) | N/A |
+| 12 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 13 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
+| 14 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 15 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
+| 16 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
+| 17 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 18 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 19 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 20 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 21 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 22 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
+| 23 | [Devonta Smith](http://twitter.com/search?q=Devonta+Smith) | Devonta Smith is a name of an American football wide receiver for the Philadelphia Eagles of the National Football League (NFL). The name Devonta is derived from the Latin word "devons" which means "to be devoted". |
+| 24 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
+| 25 | [Vicky](http://twitter.com/search?q=Vicky) | N/A |
+| 26 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 27 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 28 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | N/A |
+| 29 | [Doctor Slime](http://twitter.com/search?q=Doctor+Slime) | N/A |
+| 30 | [Juanpa](http://twitter.com/search?q=Juanpa) | N/A |
+| 31 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 32 | [Cota](http://twitter.com/search?q=Cota) | N/A |
+| 33 | [Fred Warner](http://twitter.com/search?q=Fred+Warner) | Fred Warner is a surname of English origin. It is derived from the Old English words "frið" meaning peace and "werner" meaning army or defense. The name is thought to have been given to someone who was a defender of peace. |
+| 34 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
+| 35 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
+| 36 | [Barreiro](http://twitter.com/search?q=Barreiro) | N/A |
+| 37 | [Kunno](http://twitter.com/search?q=Kunno) | N/A |
+| 38 | [Juan y Ari](http://twitter.com/search?q=Juan+y+Ari) | N/A |
+| 39 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 40 | [REBORN ROLEPLAYER DEL AÑO](http://twitter.com/search?q=REBORN+ROLEPLAYER+DEL+A%c3%91O) | N/A |
+| 41 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
+| 42 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 43 | [Masi](http://twitter.com/search?q=Masi) | N/A |
+| 44 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 45 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
+| 46 | [Ambriz](http://twitter.com/search?q=Ambriz) | N/A |
+| 47 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
+| 48 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 49 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 50 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
 
 
 
