@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-01-29 14:26:02 UTC`
+📆 Last Updated: `2023-01-29 14:45:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for Greece
 | ------- | ------------ | ------------ |
 | 1 | [#Tsitsipas](http://twitter.com/search?q=%23Tsitsipas) | N/A |
 | 2 | [#fosstotounel](http://twitter.com/search?q=%23fosstotounel) | #Fosstotounel is a hashtag used to promote the FOSS (Free and Open Source Software) movement. It stands for "Free and Open Source Software To The People". It is used to encourage people to use open source software, which is software that can be freely shared, modified, and distributed. |
-| 3 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
-| 4 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 5 | [Τζοκοβιτς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%bf%ce%ba%ce%bf%ce%b2%ce%b9%cf%84%cf%82) | N/A |
-| 6 | [#thevoicegr](http://twitter.com/search?q=%23thevoicegr) | N/A |
+| 3 | [#olyofi](http://twitter.com/search?q=%23olyofi) | N/A |
+| 4 | [#kalytera](http://twitter.com/search?q=%23kalytera) | N/A |
+| 5 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
+| 6 | [Τζοκοβιτς](http://twitter.com/search?q=%ce%a4%ce%b6%ce%bf%ce%ba%ce%bf%ce%b2%ce%b9%cf%84%cf%82) | N/A |
 | 7 | [Νολε](http://twitter.com/search?q=%ce%9d%ce%bf%ce%bb%ce%b5) | N/A |
 | 8 | [Τσιτσιπας](http://twitter.com/search?q=%ce%a4%cf%83%ce%b9%cf%84%cf%83%ce%b9%cf%80%ce%b1%cf%82) | N/A |
 | 9 | [στεφανο](http://twitter.com/search?q=%cf%83%cf%84%ce%b5%cf%86%ce%b1%ce%bd%ce%bf) | N/A |
@@ -29,9 +29,9 @@ This is top 50 for Greece
 | 12 | [Αντριους](http://twitter.com/search?q=%ce%91%ce%bd%cf%84%cf%81%ce%b9%ce%bf%cf%85%cf%82) | N/A |
 | 13 | [ΠΑΣΟΚ](http://twitter.com/search?q=%ce%a0%ce%91%ce%a3%ce%9f%ce%9a) | N/A |
 | 14 | [Ιαπωνια](http://twitter.com/search?q=%ce%99%ce%b1%cf%80%cf%89%ce%bd%ce%b9%ce%b1) | N/A |
-| 15 | [Ντορα](http://twitter.com/search?q=%ce%9d%cf%84%ce%bf%cf%81%ce%b1) | N/A |
-| 16 | [πολυχρονος](http://twitter.com/search?q=%cf%80%ce%bf%ce%bb%cf%85%cf%87%cf%81%ce%bf%ce%bd%ce%bf%cf%82) | N/A |
-| 17 | [Αυτιας](http://twitter.com/search?q=%ce%91%cf%85%cf%84%ce%b9%ce%b1%cf%82) | N/A |
+| 15 | [ντορα](http://twitter.com/search?q=%ce%bd%cf%84%ce%bf%cf%81%ce%b1) | N/A |
+| 16 | [Αυτιας](http://twitter.com/search?q=%ce%91%cf%85%cf%84%ce%b9%ce%b1%cf%82) | N/A |
+| 17 | [πολυχρονος](http://twitter.com/search?q=%cf%80%ce%bf%ce%bb%cf%85%cf%87%cf%81%ce%bf%ce%bd%ce%bf%cf%82) | N/A |
 | 18 | [Μπακογιαννη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%ce%ba%ce%bf%ce%b3%ce%b9%ce%b1%ce%bd%ce%bd%ce%b7) | N/A |
 | 19 | [γκριγκονις](http://twitter.com/search?q=%ce%b3%ce%ba%cf%81%ce%b9%ce%b3%ce%ba%ce%bf%ce%bd%ce%b9%cf%82) | N/A |
 | 20 | [ΣΥΡΙΖΑ](http://twitter.com/search?q=%ce%a3%ce%a5%ce%a1%ce%99%ce%96%ce%91) | N/A |
@@ -70,8 +70,8 @@ This is top 50 for Greece
 
 # Regions
 
-* [Athens](Greece/Athens.md)
-* [Thessaloniki](Greece/Thessaloniki.md)
+* [Athens](Athens.md)
+* [Thessaloniki](Thessaloniki.md)
 
 
 

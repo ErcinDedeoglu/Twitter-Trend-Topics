@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Guatemala City
 
-📆 Last Updated: `2023-01-29 14:25:41 UTC`
+📆 Last Updated: `2023-01-29 14:45:28 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Guatemala City
+This is top 50 for [Guatemala](Guatemala)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -20,7 +20,7 @@ This is top 50 for Guatemala City
 
 ## Other Regions in [Guatemala](Guatemala)
 
-* [Guatemala City](Guatemala/Guatemala City.md)
+* [Guatemala City](Guatemala+City.md)
 
 
 

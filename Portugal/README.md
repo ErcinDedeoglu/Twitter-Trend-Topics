@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-01-29 14:26:03 UTC`
+📆 Last Updated: `2023-01-29 14:45:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,8 +33,8 @@ This is top 50 for Portugal
 | 16 | [Marcano](http://twitter.com/search?q=Marcano) | N/A |
 | 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 18 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | N/A |
-| 19 | [#janeladabru](http://twitter.com/search?q=%23janeladabru) | N/A |
-| 20 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 19 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 20 | [#janeladabru](http://twitter.com/search?q=%23janeladabru) | N/A |
 | 21 | [Varandas](http://twitter.com/search?q=Varandas) | N/A |
 | 22 | [Coates](http://twitter.com/search?q=Coates) | N/A |
 | 23 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
@@ -49,13 +49,13 @@ This is top 50 for Portugal
 | 32 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
 | 33 | [Leiria](http://twitter.com/search?q=Leiria) | N/A |
 | 34 | [Futebol Clube](http://twitter.com/search?q=Futebol+Clube) | N/A |
-| 35 | [Dragão](http://twitter.com/search?q=Drag%c3%a3o) | N/A |
-| 36 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
-| 37 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 38 | [Zaidu](http://twitter.com/search?q=Zaidu) | N/A |
+| 35 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
+| 36 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 37 | [Zaidu](http://twitter.com/search?q=Zaidu) | N/A |
+| 38 | [Dragão](http://twitter.com/search?q=Drag%c3%a3o) | N/A |
 | 39 | [#SCPFCP](http://twitter.com/search?q=%23SCPFCP) | N/A |
 | 40 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 41 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 41 | [amorim](http://twitter.com/search?q=amorim) | N/A |
 | 42 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 43 | [Pinto da Costa](http://twitter.com/search?q=Pinto+da+Costa) | N/A |
 | 44 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
@@ -64,7 +64,7 @@ This is top 50 for Portugal
 | 47 | [Eustaquio](http://twitter.com/search?q=Eustaquio) | N/A |
 | 48 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 49 | [parque eduardo vii](http://twitter.com/search?q=parque+eduardo+vii) | N/A |
-| 50 | [setúbal](http://twitter.com/search?q=set%c3%babal) | N/A |
+| 50 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 
 
 

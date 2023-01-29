@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-01-29 14:25:55 UTC`
+📆 Last Updated: `2023-01-29 14:45:41 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Multan
+This is top 50 for [Pakistan](Pakistan)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -33,45 +33,45 @@ This is top 50 for Multan
 | 16 | [Welcome to Purana Pakistan](http://twitter.com/search?q=Welcome+to+Purana+Pakistan) | N/A |
 | 17 | [PKR 35](http://twitter.com/search?q=PKR+35) | N/A |
 | 18 | [Atif aslam](http://twitter.com/search?q=Atif+aslam) | N/A |
-| 19 | [snickers](http://twitter.com/search?q=snickers) | N/A |
-| 20 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 21 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 22 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 23 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 19 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 22 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 23 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 24 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
 | 25 | [35 PKR](http://twitter.com/search?q=35+PKR) | N/A |
-| 26 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 27 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
-| 28 | [TROPHY AWAITS MC STAN](http://twitter.com/search?q=TROPHY+AWAITS+MC+STAN) | TROPHY AWAITS MC STAN is a phrase used to encourage someone to strive for success and recognition. It implies that if the person works hard and puts in the effort, they will be rewarded with a trophy or other form of recognition. |
-| 29 | [Introvert](http://twitter.com/search?q=Introvert) | N/A |
-| 30 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 31 | [Mian](http://twitter.com/search?q=Mian) | N/A |
-| 32 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 26 | [Mian](http://twitter.com/search?q=Mian) | N/A |
+| 27 | [TROPHY AWAITS MC STAN](http://twitter.com/search?q=TROPHY+AWAITS+MC+STAN) | TROPHY AWAITS MC STAN is a phrase used to encourage someone to strive for success and recognition. It implies that if the person works hard and puts in the effort, they will be rewarded with a trophy or other form of recognition. |
+| 28 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 29 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
+| 30 | [Introvert](http://twitter.com/search?q=Introvert) | N/A |
+| 31 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 32 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
 | 33 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
-| 34 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 35 | [Chitral](http://twitter.com/search?q=Chitral) | N/A |
-| 36 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 37 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 38 | [European](http://twitter.com/search?q=European) | N/A |
-| 39 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 34 | [Chitral](http://twitter.com/search?q=Chitral) | N/A |
+| 35 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 36 | [European](http://twitter.com/search?q=European) | N/A |
+| 37 | [Mera](http://twitter.com/search?q=Mera) | N/A |
+| 38 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 39 | [Thanku](http://twitter.com/search?q=Thanku) | N/A |
 | 40 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 41 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 42 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 43 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 44 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
-| 45 | [May Allah SWT](http://twitter.com/search?q=May+Allah+SWT) | N/A |
-| 46 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 47 | [Mera](http://twitter.com/search?q=Mera) | N/A |
+| 41 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 42 | [England](http://twitter.com/search?q=England) | N/A |
+| 43 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 44 | [May Allah SWT](http://twitter.com/search?q=May+Allah+SWT) | N/A |
+| 45 | [Golden](http://twitter.com/search?q=Golden) | N/A |
+| 46 | [Nation](http://twitter.com/search?q=Nation) | N/A |
+| 47 | [Corrupt](http://twitter.com/search?q=Corrupt) | N/A |
 
 
 
 ## Other Regions in [Pakistan](Pakistan)
 
-* [Karachi](Pakistan/Karachi.md)
-* [Lahore](Pakistan/Lahore.md)
-* [Multan](Pakistan/Multan.md)
-* [Rawalpindi](Pakistan/Rawalpindi.md)
-* [Faisalabad](Pakistan/Faisalabad.md)
+* [Karachi](Karachi.md)
+* [Lahore](Lahore.md)
+* [Multan](Multan.md)
+* [Rawalpindi](Rawalpindi.md)
+* [Faisalabad](Faisalabad.md)
 
 
 

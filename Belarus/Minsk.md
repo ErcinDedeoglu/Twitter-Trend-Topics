@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Minsk
 
-📆 Last Updated: `2023-01-29 14:25:47 UTC`
+📆 Last Updated: `2023-01-29 14:45:34 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Minsk
+This is top 50 for [Belarus](Belarus)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -20,10 +20,10 @@ This is top 50 for Minsk
 
 ## Other Regions in [Belarus](Belarus)
 
-* [Brest](Belarus/Brest.md)
-* [Grodno](Belarus/Grodno.md)
-* [Gomel](Belarus/Gomel.md)
-* [Minsk](Belarus/Minsk.md)
+* [Brest](Brest.md)
+* [Grodno](Grodno.md)
+* [Gomel](Gomel.md)
+* [Minsk](Minsk.md)
 
 
 

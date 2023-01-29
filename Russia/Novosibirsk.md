@@ -4,91 +4,91 @@
 
 📊 Top 50 Trending Topics For Novosibirsk
 
-📆 Last Updated: `2023-01-29 14:25:54 UTC`
+📆 Last Updated: `2023-01-29 14:45:40 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Novosibirsk
+This is top 50 for [Russia](Russia)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
 | 2 | [Иран](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd) | N/A |
-| 3 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 4 | [#aptoss](http://twitter.com/search?q=%23aptoss) | N/A |
-| 5 | [#BeyourluvexBuild](http://twitter.com/search?q=%23BeyourluvexBuild) | #BeyourluvexBuild is a hashtag used to promote self-love and self-care. It encourages people to build themselves up and be their own source of love and motivation. The phrase is a reminder to focus on loving yourself first before trying to love others. |
-| 6 | [Чехии](http://twitter.com/search?q=%d0%a7%d0%b5%d1%85%d0%b8%d0%b8) | N/A |
-| 7 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 8 | [бабченко](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b1%d1%87%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 9 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 10 | [Иерусалиме](http://twitter.com/search?q=%d0%98%d0%b5%d1%80%d1%83%d1%81%d0%b0%d0%bb%d0%b8%d0%bc%d0%b5) | N/A |
-| 11 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 3 | [#aptoss](http://twitter.com/search?q=%23aptoss) | N/A |
+| 4 | [#BeyourluvexBuild](http://twitter.com/search?q=%23BeyourluvexBuild) | #BeyourluvexBuild is a hashtag used to promote self-love and self-care. It encourages people to build themselves up and be their own source of love and motivation. The phrase is a reminder to focus on loving yourself first before trying to love others. |
+| 5 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 6 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 7 | [Бабченко](http://twitter.com/search?q=%d0%91%d0%b0%d0%b1%d1%87%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 8 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 9 | [Иерусалиме](http://twitter.com/search?q=%d0%98%d0%b5%d1%80%d1%83%d1%81%d0%b0%d0%bb%d0%b8%d0%bc%d0%b5) | N/A |
+| 10 | [Алексей](http://twitter.com/search?q=%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9) | N/A |
+| 11 | [Чехии](http://twitter.com/search?q=%d0%a7%d0%b5%d1%85%d0%b8%d0%b8) | N/A |
 | 12 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
 | 13 | [магазин weed star](http://twitter.com/search?q=%d0%bc%d0%b0%d0%b3%d0%b0%d0%b7%d0%b8%d0%bd+weed+star) | N/A |
 | 14 | [лиза](http://twitter.com/search?q=%d0%bb%d0%b8%d0%b7%d0%b0) | N/A |
 | 15 | [Олег](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3) | N/A |
 | 16 | [Русские](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b5) | N/A |
-| 17 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
-| 18 | [В Питере](http://twitter.com/search?q=%d0%92+%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 19 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 20 | [КНДР](http://twitter.com/search?q=%d0%9a%d0%9d%d0%94%d0%a0) | N/A |
+| 17 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 18 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 19 | [В Питере](http://twitter.com/search?q=%d0%92+%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 20 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
 | 21 | [ееее](http://twitter.com/search?q=%d0%b5%d0%b5%d0%b5%d0%b5) | N/A |
 | 22 | [Казахстан](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd) | N/A |
 | 23 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 24 | [лю цингэ](http://twitter.com/search?q=%d0%bb%d1%8e+%d1%86%d0%b8%d0%bd%d0%b3%d1%8d) | N/A |
-| 25 | [Аватар](http://twitter.com/search?q=%d0%90%d0%b2%d0%b0%d1%82%d0%b0%d1%80) | N/A |
-| 26 | [донбасс](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
-| 27 | [Финляндии](http://twitter.com/search?q=%d0%a4%d0%b8%d0%bd%d0%bb%d1%8f%d0%bd%d0%b4%d0%b8%d0%b8) | N/A |
-| 28 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 29 | [Стрелкова](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b5%d0%bb%d0%ba%d0%be%d0%b2%d0%b0) | N/A |
-| 30 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
-| 31 | [какого](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 32 | [Классно](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81%d0%bd%d0%be) | N/A |
-| 33 | [Наверно](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be) | N/A |
-| 34 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 35 | [УЖАСНО](http://twitter.com/search?q=%d0%a3%d0%96%d0%90%d0%a1%d0%9d%d0%9e) | N/A |
-| 36 | [Имхо](http://twitter.com/search?q=%d0%98%d0%bc%d1%85%d0%be) | N/A |
-| 37 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
-| 38 | [дилюк](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bb%d1%8e%d0%ba) | N/A |
-| 39 | [#ArbitrumAdventure](http://twitter.com/search?q=%23ArbitrumAdventure) | N/A |
-| 40 | [сайно](http://twitter.com/search?q=%d1%81%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
-| 41 | [Павел](http://twitter.com/search?q=%d0%9f%d0%b0%d0%b2%d0%b5%d0%bb) | N/A |
-| 42 | [Богом](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%be%d0%bc) | N/A |
-| 43 | [ленинграда](http://twitter.com/search?q=%d0%bb%d0%b5%d0%bd%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4%d0%b0) | N/A |
-| 44 | [Алексея](http://twitter.com/search?q=%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d1%8f) | N/A |
-| 45 | [#мгчд](http://twitter.com/search?q=%23%d0%bc%d0%b3%d1%87%d0%b4) | N/A |
-| 46 | [плюсую](http://twitter.com/search?q=%d0%bf%d0%bb%d1%8e%d1%81%d1%83%d1%8e) | N/A |
-| 47 | [Хочется](http://twitter.com/search?q=%d0%a5%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f) | N/A |
-| 48 | [Смотрю](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8e) | N/A |
-| 49 | [Добро](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%be) | N/A |
-| 50 | [красивая](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
+| 24 | [КНДР](http://twitter.com/search?q=%d0%9a%d0%9d%d0%94%d0%a0) | N/A |
+| 25 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 26 | [лю цингэ](http://twitter.com/search?q=%d0%bb%d1%8e+%d1%86%d0%b8%d0%bd%d0%b3%d1%8d) | N/A |
+| 27 | [аватар](http://twitter.com/search?q=%d0%b0%d0%b2%d0%b0%d1%82%d0%b0%d1%80) | N/A |
+| 28 | [Финляндии](http://twitter.com/search?q=%d0%a4%d0%b8%d0%bd%d0%bb%d1%8f%d0%bd%d0%b4%d0%b8%d0%b8) | N/A |
+| 29 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 30 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
+| 31 | [стрелкова](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b5%d0%bb%d0%ba%d0%be%d0%b2%d0%b0) | N/A |
+| 32 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
+| 33 | [какого](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 34 | [Классно](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81%d0%bd%d0%be) | N/A |
+| 35 | [Сорян](http://twitter.com/search?q=%d0%a1%d0%be%d1%80%d1%8f%d0%bd) | N/A |
+| 36 | [Наверно](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be) | N/A |
+| 37 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 38 | [УЖАСНО](http://twitter.com/search?q=%d0%a3%d0%96%d0%90%d0%a1%d0%9d%d0%9e) | N/A |
+| 39 | [Имхо](http://twitter.com/search?q=%d0%98%d0%bc%d1%85%d0%be) | N/A |
+| 40 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 41 | [дилюк](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bb%d1%8e%d0%ba) | N/A |
+| 42 | [#ArbitrumAdventure](http://twitter.com/search?q=%23ArbitrumAdventure) | N/A |
+| 43 | [сайно](http://twitter.com/search?q=%d1%81%d0%b0%d0%b9%d0%bd%d0%be) | N/A |
+| 44 | [Павел](http://twitter.com/search?q=%d0%9f%d0%b0%d0%b2%d0%b5%d0%bb) | N/A |
+| 45 | [Богом](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%be%d0%bc) | N/A |
+| 46 | [ленинграда](http://twitter.com/search?q=%d0%bb%d0%b5%d0%bd%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4%d0%b0) | N/A |
+| 47 | [#мгчд](http://twitter.com/search?q=%23%d0%bc%d0%b3%d1%87%d0%b4) | N/A |
+| 48 | [плюсую](http://twitter.com/search?q=%d0%bf%d0%bb%d1%8e%d1%81%d1%83%d1%8e) | N/A |
+| 49 | [Хочется](http://twitter.com/search?q=%d0%a5%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f) | N/A |
+| 50 | [Смотрю](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8e) | N/A |
 
 
 
 ## Other Regions in [Russia](Russia)
 
-* [Chelyabinsk](Russia/Chelyabinsk.md)
-* [Khabarovsk](Russia/Khabarovsk.md)
-* [Krasnodar](Russia/Krasnodar.md)
-* [Krasnoyarsk](Russia/Krasnoyarsk.md)
-* [Samara](Russia/Samara.md)
-* [Voronezh](Russia/Voronezh.md)
-* [Yekaterinburg](Russia/Yekaterinburg.md)
-* [Irkutsk](Russia/Irkutsk.md)
-* [Kazan](Russia/Kazan.md)
-* [Moscow](Russia/Moscow.md)
-* [Nizhny Novgorod](Russia/Nizhny Novgorod.md)
-* [Novosibirsk](Russia/Novosibirsk.md)
-* [Omsk](Russia/Omsk.md)
-* [Perm](Russia/Perm.md)
-* [Rostov-on-Don](Russia/Rostov-on-Don.md)
-* [Saint Petersburg](Russia/Saint Petersburg.md)
-* [Ufa](Russia/Ufa.md)
-* [Vladivostok](Russia/Vladivostok.md)
-* [Volgograd](Russia/Volgograd.md)
+* [Chelyabinsk](Chelyabinsk.md)
+* [Khabarovsk](Khabarovsk.md)
+* [Krasnodar](Krasnodar.md)
+* [Krasnoyarsk](Krasnoyarsk.md)
+* [Samara](Samara.md)
+* [Voronezh](Voronezh.md)
+* [Yekaterinburg](Yekaterinburg.md)
+* [Irkutsk](Irkutsk.md)
+* [Kazan](Kazan.md)
+* [Moscow](Moscow.md)
+* [Nizhny Novgorod](Nizhny+Novgorod.md)
+* [Novosibirsk](Novosibirsk.md)
+* [Omsk](Omsk.md)
+* [Perm](Perm.md)
+* [Rostov-on-Don](Rostov-on-Don.md)
+* [Saint Petersburg](Saint+Petersburg.md)
+* [Ufa](Ufa.md)
+* [Vladivostok](Vladivostok.md)
+* [Volgograd](Volgograd.md)
 
 
 

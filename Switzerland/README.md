@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-01-29 14:26:04 UTC`
+📆 Last Updated: `2023-01-29 14:45:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,25 +39,25 @@ This is top 50 for Switzerland
 | 22 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
 | 23 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
 | 24 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 25 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 25 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 26 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 28 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 29 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
+| 29 | [Marc Germann](http://twitter.com/search?q=Marc+Germann) | N/A |
 | 30 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
 | 31 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
 | 32 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 33 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 34 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 35 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 36 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 37 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 38 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
-| 39 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 41 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 42 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 43 | [herzlichen dank](http://twitter.com/search?q=herzlichen+dank) | N/A |
+| 33 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 34 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 35 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 36 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 37 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 38 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 39 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 40 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 42 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 43 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
 | 44 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
 | 45 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
 | 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
@@ -66,9 +66,9 @@ This is top 50 for Switzerland
 
 # Regions
 
-* [Geneva](Switzerland/Geneva.md)
-* [Lausanne](Switzerland/Lausanne.md)
-* [Zurich](Switzerland/Zurich.md)
+* [Geneva](Geneva.md)
+* [Lausanne](Lausanne.md)
+* [Zurich](Zurich.md)
 
 
 

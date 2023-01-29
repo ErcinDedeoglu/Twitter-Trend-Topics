@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-01-29 14:25:52 UTC`
+📆 Last Updated: `2023-01-29 14:45:38 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Hai Phong
+This is top 50 for [Vietnam](Vietnam)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -26,55 +26,55 @@ This is top 50 for Hai Phong
 | 9 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
 | 10 | [Aleo](http://twitter.com/search?q=Aleo) | N/A |
 | 11 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
-| 12 | [rosé conquers abu dhabi](http://twitter.com/search?q=ros%c3%a9+conquers+abu+dhabi) | N/A |
+| 12 | [ROSÉ CONQUERS ABU DHABI](http://twitter.com/search?q=ROS%c3%89+CONQUERS+ABU+DHABI) | N/A |
 | 13 | [focus on bts](http://twitter.com/search?q=focus+on+bts) | N/A |
-| 14 | [mew fanmeeting kr](http://twitter.com/search?q=mew+fanmeeting+kr) | N/A |
+| 14 | [MEW FANMEETING KR](http://twitter.com/search?q=MEW+FANMEETING+KR) | MEW FANMEETING KR is an event organized by the South Korean girl group MEW. It is a fan meeting where fans can meet and interact with the members of the group. The event usually includes performances, games, and other activities. The English translation of MEW FANMEETING KR would be "MEW Fan Meeting Korea". |
 | 15 | [Pond](http://twitter.com/search?q=Pond) | N/A |
 | 16 | [Matic](http://twitter.com/search?q=Matic) | N/A |
 | 17 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
 | 18 | [anipang supporter club](http://twitter.com/search?q=anipang+supporter+club) | N/A |
 | 19 | [OKX Ventures](http://twitter.com/search?q=OKX+Ventures) | N/A |
 | 20 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
-| 21 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 22 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
-| 23 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [TAE ON VARIETY SHOW](http://twitter.com/search?q=TAE+ON+VARIETY+SHOW) | TAE ON VARIETY SHOW is a South Korean variety show hosted by singer and actor Kim Tae-hee. The show features celebrities from various fields, including music, film, television, and sports, as they compete in various challenges and activities. The show's title is a play on words that translates to "Let's Play Variety Show" in English. |
-| 26 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
-| 27 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
-| 28 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 29 | [Source Link](http://twitter.com/search?q=Source+Link) | N/A |
-| 30 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 31 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 32 | [Join the Trader Joe Discord](http://twitter.com/search?q=Join+the+Trader+Joe+Discord) | N/A |
-| 33 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 34 | [Viet](http://twitter.com/search?q=Viet) | N/A |
-| 35 | [Nứng](http://twitter.com/search?q=N%e1%bb%a9ng) | N/A |
-| 36 | [giống](http://twitter.com/search?q=gi%e1%bb%91ng) | N/A |
-| 37 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 38 | [Hia Lian](http://twitter.com/search?q=Hia+Lian) | N/A |
-| 39 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 40 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 41 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
-| 42 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 43 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 44 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
-| 45 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 46 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
-| 47 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 48 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 49 | [KTGBB CKUNESCO AMTB TW](http://twitter.com/search?q=KTGBB+CKUNESCO+AMTB+TW) | N/A |
-| 50 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
+| 21 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 22 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 23 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
+| 24 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [TAE ON VARIETY SHOW](http://twitter.com/search?q=TAE+ON+VARIETY+SHOW) | TAE ON VARIETY SHOW is a South Korean variety show hosted by singer and actor Kim Tae-hee. The show features celebrities from various fields, including music, film, television, and sports, as they compete in various challenges and activities. The show's title is a play on words that translates to "Let's Play Variety Show" in English. |
+| 27 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
+| 28 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
+| 29 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 30 | [Source Link](http://twitter.com/search?q=Source+Link) | N/A |
+| 31 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 32 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 33 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
+| 34 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
+| 35 | [Join the Trader Joe Discord](http://twitter.com/search?q=Join+the+Trader+Joe+Discord) | N/A |
+| 36 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 37 | [Viet](http://twitter.com/search?q=Viet) | N/A |
+| 38 | [Nứng](http://twitter.com/search?q=N%e1%bb%a9ng) | N/A |
+| 39 | [giống](http://twitter.com/search?q=gi%e1%bb%91ng) | N/A |
+| 40 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 41 | [Hia Lian](http://twitter.com/search?q=Hia+Lian) | N/A |
+| 42 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 43 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
+| 44 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
+| 45 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 47 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
+| 48 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 50 | [KTGBB CKUNESCO AMTB TW](http://twitter.com/search?q=KTGBB+CKUNESCO+AMTB+TW) | N/A |
 
 
 
 ## Other Regions in [Vietnam](Vietnam)
 
-* [Hanoi](Vietnam/Hanoi.md)
-* [Hai Phong](Vietnam/Hai Phong.md)
-* [Can Tho](Vietnam/Can Tho.md)
-* [Da Nang](Vietnam/Da Nang.md)
-* [Ho Chi Minh City](Vietnam/Ho Chi Minh City.md)
+* [Hanoi](Hanoi.md)
+* [Hai Phong](Hai+Phong.md)
+* [Can Tho](Can+Tho.md)
+* [Da Nang](Da+Nang.md)
+* [Ho Chi Minh City](Ho+Chi+Minh+City.md)
 
 
 

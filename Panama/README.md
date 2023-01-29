@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-01-29 14:26:03 UTC`
+📆 Last Updated: `2023-01-29 14:45:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,7 +36,7 @@ This is top 50 for Panama
 | 19 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 20 | [Pega](http://twitter.com/search?q=Pega) | N/A |
 | 21 | [Rubén](http://twitter.com/search?q=Rub%c3%a9n) | N/A |
-| 22 | [waked](http://twitter.com/search?q=waked) | N/A |
+| 22 | [Por Dios](http://twitter.com/search?q=Por+Dios) | N/A |
 | 23 | [#MundoDD](http://twitter.com/search?q=%23MundoDD) | N/A |
 | 24 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
 | 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
@@ -44,25 +44,25 @@ This is top 50 for Panama
 | 27 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
 | 28 | [#Cuba](http://twitter.com/search?q=%23Cuba) | N/A |
 | 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 30 | [Miss Universo](http://twitter.com/search?q=Miss+Universo) | N/A |
-| 31 | [Holocausto](http://twitter.com/search?q=Holocausto) | N/A |
-| 32 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 33 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 34 | [Jornada 3](http://twitter.com/search?q=Jornada+3) | N/A |
-| 35 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 36 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
-| 37 | [camacho](http://twitter.com/search?q=camacho) | N/A |
-| 38 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 39 | [🇵🇦](http://twitter.com/search?q=%f0%9f%87%b5%f0%9f%87%a6) | N/A |
-| 40 | [eliecer](http://twitter.com/search?q=eliecer) | N/A |
-| 41 | [Leones](http://twitter.com/search?q=Leones) | N/A |
-| 42 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 43 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 44 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 45 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 46 | [Imagino](http://twitter.com/search?q=Imagino) | N/A |
-| 47 | [En Panamá](http://twitter.com/search?q=En+Panam%c3%a1) | N/A |
-| 48 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 30 | [Holocausto](http://twitter.com/search?q=Holocausto) | N/A |
+| 31 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 32 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 33 | [Jornada 3](http://twitter.com/search?q=Jornada+3) | N/A |
+| 34 | [Jerusalén](http://twitter.com/search?q=Jerusal%c3%a9n) | N/A |
+| 35 | [Camacho](http://twitter.com/search?q=Camacho) | N/A |
+| 36 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 37 | [🇵🇦](http://twitter.com/search?q=%f0%9f%87%b5%f0%9f%87%a6) | N/A |
+| 38 | [eliecer](http://twitter.com/search?q=eliecer) | N/A |
+| 39 | [Leones](http://twitter.com/search?q=Leones) | N/A |
+| 40 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 41 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 42 | [Miss Universo](http://twitter.com/search?q=Miss+Universo) | N/A |
+| 43 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 44 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
+| 45 | [Imagino](http://twitter.com/search?q=Imagino) | N/A |
+| 46 | [En Panamá](http://twitter.com/search?q=En+Panam%c3%a1) | N/A |
+| 47 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 49 | [Norte](http://twitter.com/search?q=Norte) | N/A |
 | 50 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
 

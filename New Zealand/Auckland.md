@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-01-29 14:25:57 UTC`
+📆 Last Updated: `2023-01-29 14:45:43 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Auckland
+This is top 50 for [New Zealand](New+Zealand)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -29,7 +29,7 @@ This is top 50 for Auckland
 | 12 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 13 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
 | 14 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 15 | [elton john](http://twitter.com/search?q=elton+john) | N/A |
+| 15 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
 | 16 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 17 | [cook strait](http://twitter.com/search?q=cook+strait) | N/A |
 | 18 | [cdem](http://twitter.com/search?q=cdem) | N/A |
@@ -47,13 +47,13 @@ This is top 50 for Auckland
 | 30 | [#welvper](http://twitter.com/search?q=%23welvper) | N/A |
 | 31 | [desley simpson](http://twitter.com/search?q=desley+simpson) | N/A |
 | 32 | [Tom Verlaine](http://twitter.com/search?q=Tom+Verlaine) | Tom Verlaine is the stage name of Thomas Miller, an American singer, songwriter, and guitarist. He is best known as the frontman of the rock band Television, which he co-founded in 1973. He has also released several solo albums and collaborated with other musicians. His music is characterized by its poetic lyrics and jangly guitar sound. |
-| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [Wellington](http://twitter.com/search?q=Wellington) | N/A |
-| 35 | [phil goff](http://twitter.com/search?q=phil+goff) | N/A |
-| 36 | [te puke](http://twitter.com/search?q=te+puke) | N/A |
-| 37 | [fenz](http://twitter.com/search?q=fenz) | N/A |
-| 38 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 39 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
+| 33 | [#BookBoost](http://twitter.com/search?q=%23BookBoost) | N/A |
+| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 35 | [Wellington](http://twitter.com/search?q=Wellington) | N/A |
+| 36 | [phil goff](http://twitter.com/search?q=phil+goff) | N/A |
+| 37 | [te puke](http://twitter.com/search?q=te+puke) | N/A |
+| 38 | [fenz](http://twitter.com/search?q=fenz) | N/A |
+| 39 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 | 40 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 41 | [Central](http://twitter.com/search?q=Central) | N/A |
 | 42 | [nema](http://twitter.com/search?q=nema) | N/A |
@@ -68,9 +68,9 @@ This is top 50 for Auckland
 
 
 
-## Other Regions in [New Zealand](New Zealand)
+## Other Regions in [New Zealand](New+Zealand)
 
-* [Auckland](New Zealand/Auckland.md)
+* [Auckland](Auckland.md)
 
 
 

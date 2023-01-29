@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-01-29 14:25:47 UTC`
+📆 Last Updated: `2023-01-29 14:45:34 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Geneva
+This is top 50 for [Switzerland](Switzerland)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -35,38 +35,39 @@ This is top 50 for Geneva
 | 18 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
 | 19 | [Hi-Fi Rush](http://twitter.com/search?q=Hi-Fi+Rush) | Hi-Fi Rush is a term used to describe the feeling of excitement and anticipation that comes from listening to high-fidelity audio equipment. It is often associated with the feeling of being enveloped in sound, as if one were in a concert hall or other large space. |
 | 20 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
-| 21 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
+| 21 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
 | 22 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
 | 23 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 24 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 24 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 25 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 27 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 28 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
+| 28 | [Marc Germann](http://twitter.com/search?q=Marc+Germann) | N/A |
 | 29 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
 | 30 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
 | 31 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 32 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 33 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 34 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 35 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 36 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 37 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
-| 38 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 41 | [herzlichen dank](http://twitter.com/search?q=herzlichen+dank) | N/A |
-| 42 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
-| 43 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 33 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 34 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 35 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 36 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 37 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 38 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 39 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 41 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 42 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 43 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 44 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
+| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 
 
 
 ## Other Regions in [Switzerland](Switzerland)
 
-* [Geneva](Switzerland/Geneva.md)
-* [Lausanne](Switzerland/Lausanne.md)
-* [Zurich](Switzerland/Zurich.md)
+* [Geneva](Geneva.md)
+* [Lausanne](Lausanne.md)
+* [Zurich](Zurich.md)
 
 
 

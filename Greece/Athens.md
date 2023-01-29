@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Athens
 
-📆 Last Updated: `2023-01-29 14:25:48 UTC`
+📆 Last Updated: `2023-01-29 14:45:34 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Athens
+This is top 50 for [Greece](Greece)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -20,8 +20,8 @@ This is top 50 for Athens
 
 ## Other Regions in [Greece](Greece)
 
-* [Athens](Greece/Athens.md)
-* [Thessaloniki](Greece/Thessaloniki.md)
+* [Athens](Athens.md)
+* [Thessaloniki](Thessaloniki.md)
 
 
 

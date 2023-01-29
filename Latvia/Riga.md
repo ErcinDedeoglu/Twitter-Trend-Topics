@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-01-29 14:25:48 UTC`
+📆 Last Updated: `2023-01-29 14:45:34 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Riga
+This is top 50 for [Latvia](Latvia)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -22,29 +22,30 @@ This is top 50 for Riga
 | 5 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 6 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
 | 7 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 8 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 9 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 8 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 9 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 10 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 11 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 12 | [pmlp](http://twitter.com/search?q=pmlp) | N/A |
 | 13 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
 | 14 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
 | 15 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 16 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
-| 17 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 18 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 19 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | N/A |
-| 20 | [#hkzemgale](http://twitter.com/search?q=%23hkzemgale) | N/A |
-| 21 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
-| 22 | [#mestis](http://twitter.com/search?q=%23mestis) | N/A |
-| 23 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
-| 24 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 16 | [Vispār](http://twitter.com/search?q=Visp%c4%81r) | N/A |
+| 17 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
+| 18 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 19 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 20 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | N/A |
+| 21 | [#hkzemgale](http://twitter.com/search?q=%23hkzemgale) | N/A |
+| 22 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
+| 23 | [#mestis](http://twitter.com/search?q=%23mestis) | N/A |
+| 24 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
+| 25 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 
 
 
 ## Other Regions in [Latvia](Latvia)
 
-* [Riga](Latvia/Riga.md)
+* [Riga](Riga.md)
 
 
 

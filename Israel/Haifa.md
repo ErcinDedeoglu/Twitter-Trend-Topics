@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Haifa
 
-📆 Last Updated: `2023-01-29 14:25:53 UTC`
+📆 Last Updated: `2023-01-29 14:45:39 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for Haifa
+This is top 50 for [Israel](Israel)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -20,9 +20,9 @@ This is top 50 for Haifa
 
 ## Other Regions in [Israel](Israel)
 
-* [Haifa](Israel/Haifa.md)
-* [Tel Aviv](Israel/Tel Aviv.md)
-* [Jerusalem](Israel/Jerusalem.md)
+* [Haifa](Haifa.md)
+* [Tel Aviv](Tel+Aviv.md)
+* [Jerusalem](Jerusalem.md)
 
 
 
