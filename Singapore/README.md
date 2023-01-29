@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-01-29 21:15:45 UTC`
+📆 Last Updated: `2023-01-29 22:15:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for Singapore
 | 1 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
 | 2 | [#itzyinsg](http://twitter.com/search?q=%23itzyinsg) | N/A |
 | 3 | [#BetweenUsFinalEP](http://twitter.com/search?q=%23BetweenUsFinalEP) | #BetweenUsFinalEP is a hashtag used to promote the final episode of the web series Between Us. The hashtag is used to encourage viewers to watch the finale and share their thoughts on social media. In English, it means "The Final Episode of Between Us". |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
-| 6 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 4 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
+| 5 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 7 | [YOUNGJI](http://twitter.com/search?q=YOUNGJI) | YOUNGJI is a Korean name, which means “eternal wisdom” in English. |
 | 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 9 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
@@ -36,20 +36,20 @@ This is top 50 for Singapore
 | 19 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
 | 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 21 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 22 | [mygz molino award](http://twitter.com/search?q=mygz+molino+award) | N/A |
-| 23 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 24 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 25 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 26 | [Yeji](http://twitter.com/search?q=Yeji) | N/A |
-| 27 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 28 | [Ryujin](http://twitter.com/search?q=Ryujin) | N/A |
-| 29 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [mygz molino award](http://twitter.com/search?q=mygz+molino+award) | N/A |
+| 24 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 25 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 26 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 27 | [Yeji](http://twitter.com/search?q=Yeji) | N/A |
+| 28 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 29 | [Ryujin](http://twitter.com/search?q=Ryujin) | N/A |
+| 30 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
 | 31 | [woozi](http://twitter.com/search?q=woozi) | N/A |
 | 32 | [GAP WORLD DOMINATION](http://twitter.com/search?q=GAP+WORLD+DOMINATION) | GAP World Domination is a term used to describe the ambition of the clothing company GAP to become a global leader in the fashion industry. The phrase is often used to refer to GAP's aggressive expansion strategy, which has seen them open stores in many countries around the world. |
 | 33 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 | 34 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 35 | [wheein](http://twitter.com/search?q=wheein) | N/A |
+| 35 | [WHEEIN](http://twitter.com/search?q=WHEEIN) | N/A |
 | 36 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
 | 37 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
 | 38 | [Queen](http://twitter.com/search?q=Queen) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Singapore
 | 43 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 44 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
 | 45 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 46 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 47 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 48 | [Plague](http://twitter.com/search?q=Plague) | N/A |
-| 49 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 50 | [having joy](http://twitter.com/search?q=having+joy) | N/A |
+| 46 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 47 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 48 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 49 | [Plague](http://twitter.com/search?q=Plague) | N/A |
+| 50 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
 
 
 

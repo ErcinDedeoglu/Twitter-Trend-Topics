@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-01-29 21:15:45 UTC`
+📆 Last Updated: `2023-01-29 22:15:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Thailand
 | 1 | [#BetweenUsFinalEP](http://twitter.com/search?q=%23BetweenUsFinalEP) | #BetweenUsFinalEP is a hashtag used to promote the final episode of the web series Between Us. The hashtag is used to encourage viewers to watch the finale and share their thoughts on social media. In English, it means "The Final Episode of Between Us". |
 | 2 | [#MANIFESTO_IN_BANGKOK](http://twitter.com/search?q=%23MANIFESTO_IN_BANGKOK) | #MANIFESTO_IN_BANGKOK is a hashtag used to promote a manifesto written by the Thai youth movement in Bangkok. The manifesto calls for an end to the political crisis in Thailand and for the establishment of a new democratic system. It also calls for an end to corruption, economic inequality, and environmental destruction. The hashtag is used to spread awareness of the manifesto and its message. |
 | 3 | [#ไว้เจอกันใหม่นะคับแพทริค](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a7%e0%b9%89%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%99%e0%b8%b0%e0%b8%84%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84) | N/A |
-| 4 | [Safe Flight Patrick](http://twitter.com/search?q=Safe+Flight+Patrick) | "Safe Flight Patrick" is a phrase used to wish someone a safe journey, usually when they are traveling by air. It is typically used as a way to show support and care for the person who is traveling. |
-| 5 | [#CHAMEGenMexZeeNuNew](http://twitter.com/search?q=%23CHAMEGenMexZeeNuNew) | N/A |
+| 4 | [#CHAMEGenMexZeeNuNew](http://twitter.com/search?q=%23CHAMEGenMexZeeNuNew) | N/A |
+| 5 | [Safe Flight Patrick](http://twitter.com/search?q=Safe+Flight+Patrick) | "Safe Flight Patrick" is a phrase used to wish someone a safe journey, usually when they are traveling by air. It is typically used as a way to show support and care for the person who is traveling. |
 | 6 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
 | 7 | [pppat bkk nightview](http://twitter.com/search?q=pppat+bkk+nightview) | N/A |
 | 8 | [BamBam All the Butlers EP243](http://twitter.com/search?q=BamBam+All+the+Butlers+EP243) | BamBam All the Butlers EP243 is a South Korean variety show that aired on JTBC from April to June 2019. The show follows seven celebrity butlers as they compete in various challenges and tasks to win the title of “Best Butler”. The title of the show is a play on words, with “BamBam” being a reference to the sound of a bell, and “All the Butlers” referring to the seven butlers competing in the show. |
@@ -31,39 +31,39 @@ This is top 50 for Thailand
 | 14 | [29 morning dunk](http://twitter.com/search?q=29+morning+dunk) | N/A |
 | 15 | [smiley29 charlotte](http://twitter.com/search?q=smiley29+charlotte) | N/A |
 | 16 | [d-1 nct 127 ay-yo](http://twitter.com/search?q=d-1+nct+127+ay-yo) | N/A |
-| 17 | [iPhone 13](http://twitter.com/search?q=iPhone+13) | N/A |
-| 18 | [User](http://twitter.com/search?q=User) | N/A |
-| 19 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 20 | [#kinnporscheworldtourinbkk](http://twitter.com/search?q=%23kinnporscheworldtourinbkk) | N/A |
-| 21 | [#BoycottBOC](http://twitter.com/search?q=%23BoycottBOC) | N/A |
-| 22 | [#เฮียเหลียน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b9%80%e0%b8%ab%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%99) | #เฮียเหลียน is a Thai phrase that translates to "My Darling" in English. It is an affectionate term used to express love and endearment. |
-| 23 | [#MYCON_inBKK](http://twitter.com/search?q=%23MYCON_inBKK) | N/A |
-| 24 | [#Happy30thNewwieeDay](http://twitter.com/search?q=%23Happy30thNewwieeDay) | N/A |
-| 25 | [#บิวทําร้ายร่างการผู้หญิง](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%97%e0%b9%8d%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b8%a3%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%ab%e0%b8%8d%e0%b8%b4%e0%b8%87) | #บิวทําร้ายร่างการผู้หญิง is a hashtag used in Thailand to express support for women's rights and gender equality. In English, it translates to "#SupportWomenRights". |
+| 17 | [User](http://twitter.com/search?q=User) | N/A |
+| 18 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 19 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 20 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 21 | [#เฮียเหลียน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b9%80%e0%b8%ab%e0%b8%a5%e0%b8%b5%e0%b8%a2%e0%b8%99) | #เฮียเหลียน is a Thai phrase that translates to "My Darling" in English. It is an affectionate term used to express love and endearment. |
+| 22 | [#kinnporscheworldtourinbkk](http://twitter.com/search?q=%23kinnporscheworldtourinbkk) | N/A |
+| 23 | [#BoycottBOC](http://twitter.com/search?q=%23BoycottBOC) | N/A |
+| 24 | [#MYCON_inBKK](http://twitter.com/search?q=%23MYCON_inBKK) | N/A |
+| 25 | [#Happy30thNewwieeDay](http://twitter.com/search?q=%23Happy30thNewwieeDay) | N/A |
 | 26 | [#รู้ไหมใครโสด2023xกูรูแจม](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b9%84%e0%b8%ab%e0%b8%a1%e0%b9%83%e0%b8%84%e0%b8%a3%e0%b9%82%e0%b8%aa%e0%b8%942023x%e0%b8%81%e0%b8%b9%e0%b8%a3%e0%b8%b9%e0%b9%81%e0%b8%88%e0%b8%a1) | N/A |
-| 27 | [#MeMindY2023NextProject](http://twitter.com/search?q=%23MeMindY2023NextProject) | N/A |
-| 28 | [#FinalMissGrandChaiyaphum2023](http://twitter.com/search?q=%23FinalMissGrandChaiyaphum2023) | N/A |
+| 27 | [#บิวทําร้ายร่างการผู้หญิง](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%97%e0%b9%8d%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b8%a3%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%ab%e0%b8%8d%e0%b8%b4%e0%b8%87) | #บิวทําร้ายร่างการผู้หญิง is a hashtag used in Thailand to express support for women's rights and gender equality. In English, it translates to "#SupportWomenRights". |
+| 28 | [#MeMindY2023NextProject](http://twitter.com/search?q=%23MeMindY2023NextProject) | N/A |
 | 29 | [#หยิ่นหยางEP30xANWYLL](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%ab%e0%b8%a2%e0%b8%b2%e0%b8%87EP30xANWYLL) | N/A |
-| 30 | [#Jinyoung_RendezvousDay2](http://twitter.com/search?q=%23Jinyoung_RendezvousDay2) | N/A |
-| 31 | [#ProjectAlphaTHEP7](http://twitter.com/search?q=%23ProjectAlphaTHEP7) | N/A |
-| 32 | [#BKCมีเขาเหงาได้ไง](http://twitter.com/search?q=%23BKC%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%80%e0%b8%ab%e0%b8%87%e0%b8%b2%e0%b9%84%e0%b8%94%e0%b9%89%e0%b9%84%e0%b8%87) | N/A |
-| 33 | [#KPWT2023WTFTicketsday](http://twitter.com/search?q=%23KPWT2023WTFTicketsday) | N/A |
+| 30 | [#FinalMissGrandChaiyaphum2023](http://twitter.com/search?q=%23FinalMissGrandChaiyaphum2023) | N/A |
+| 31 | [#Jinyoung_RendezvousDay2](http://twitter.com/search?q=%23Jinyoung_RendezvousDay2) | N/A |
+| 32 | [#ProjectAlphaTHEP7](http://twitter.com/search?q=%23ProjectAlphaTHEP7) | N/A |
+| 33 | [#bkcมีเขาเหงาได้ไง](http://twitter.com/search?q=%23bkc%e0%b8%a1%e0%b8%b5%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%80%e0%b8%ab%e0%b8%87%e0%b8%b2%e0%b9%84%e0%b8%94%e0%b9%89%e0%b9%84%e0%b8%87) | N/A |
 | 34 | [#MasterInTheHouse2EP5](http://twitter.com/search?q=%23MasterInTheHouse2EP5) | N/A |
-| 35 | [#IMAXLaserXGeminiFourth](http://twitter.com/search?q=%23IMAXLaserXGeminiFourth) | N/A |
-| 36 | [#PPKritThe1stFanMeeting](http://twitter.com/search?q=%23PPKritThe1stFanMeeting) | #PPKritThe1stFanMeeting is a hashtag used to promote the first fan meeting of Thai singer and actor Pongkrit “Krit” Hiranyasap. The hashtag is used to promote the event and encourage fans to attend. In English, it translates to "Pongkrit 'Krit' Hiranyasap's First Fan Meeting". |
-| 37 | [#ENHYPENinBKK](http://twitter.com/search?q=%23ENHYPENinBKK) | N/A |
+| 35 | [#KPWT2023WTFTicketsday](http://twitter.com/search?q=%23KPWT2023WTFTicketsday) | N/A |
+| 36 | [#IMAXLaserXGeminiFourth](http://twitter.com/search?q=%23IMAXLaserXGeminiFourth) | N/A |
+| 37 | [#PPKritThe1stFanMeeting](http://twitter.com/search?q=%23PPKritThe1stFanMeeting) | #PPKritThe1stFanMeeting is a hashtag used to promote the first fan meeting of Thai singer and actor Pongkrit “Krit” Hiranyasap. The hashtag is used to promote the event and encourage fans to attend. In English, it translates to "Pongkrit 'Krit' Hiranyasap's First Fan Meeting". |
 | 38 | [#อิงล็อต](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | #อิงล็อต is a hashtag used on social media in Thailand. It translates to "Follow the Lottery" and is used to encourage people to follow the Thai lottery results. |
 | 39 | [#ไปคอนเพื่อมายอาโป](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9b%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%ad%e0%b8%b2%e0%b9%82%e0%b8%9b) | N/A |
-| 40 | [#SimmonxNamneungMilin](http://twitter.com/search?q=%23SimmonxNamneungMilin) | N/A |
-| 41 | [#กดบัตรทฤษฎีสีชมพู](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9) | N/A |
+| 40 | [#ENHYPENinBKK](http://twitter.com/search?q=%23ENHYPENinBKK) | N/A |
+| 41 | [#simmonxnamneungmilin](http://twitter.com/search?q=%23simmonxnamneungmilin) | N/A |
 | 42 | [#3ZaapxJeffsatur](http://twitter.com/search?q=%233ZaapxJeffsatur) | N/A |
 | 43 | [#DoritosXLaysMax](http://twitter.com/search?q=%23DoritosXLaysMax) | N/A |
 | 44 | [#cutielovefanconcert](http://twitter.com/search?q=%23cutielovefanconcert) | N/A |
 | 45 | [#JINYOUNGFanconSeoul_Day2](http://twitter.com/search?q=%23JINYOUNGFanconSeoul_Day2) | N/A |
-| 46 | [#BTSCTWCNYxMEENPING](http://twitter.com/search?q=%23BTSCTWCNYxMEENPING) | N/A |
+| 46 | [#btsctwcnyxmeenping](http://twitter.com/search?q=%23btsctwcnyxmeenping) | N/A |
 | 47 | [#sendinglove1stpresenterมีนปิง](http://twitter.com/search?q=%23sendinglove1stpresenter%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
 | 48 | [#THE7_DEBUTSHOWCASE](http://twitter.com/search?q=%23THE7_DEBUTSHOWCASE) | N/A |
-| 49 | [#AOMGWORLDTOUR2023inOsaka](http://twitter.com/search?q=%23AOMGWORLDTOUR2023inOsaka) | N/A |
+| 49 | [#กดบัตรทฤษฎีสีชมพู](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9) | N/A |
 | 50 | [#JACKSONININDIA](http://twitter.com/search?q=%23JACKSONININDIA) | N/A |
 
 

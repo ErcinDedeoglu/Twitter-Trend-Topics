@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-01-29 21:15:22 UTC`
+📆 Last Updated: `2023-01-29 22:15:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,17 +37,17 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 20 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
 | 21 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 22 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
-| 23 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
-| 24 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 23 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 24 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
 | 25 | [Hokkien](http://twitter.com/search?q=Hokkien) | N/A |
 | 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 27 | [WayV](http://twitter.com/search?q=WayV) | N/A |
 | 28 | [GAP WORLD DOMINATION](http://twitter.com/search?q=GAP+WORLD+DOMINATION) | GAP World Domination is a term used to describe the ambition of the clothing company GAP to become a global leader in the fashion industry. The phrase is often used to refer to GAP's aggressive expansion strategy, which has seen them open stores in many countries around the world. |
-| 29 | [THE LINK](http://twitter.com/search?q=THE+LINK) | N/A |
+| 29 | [The Link](http://twitter.com/search?q=The+Link) | The Link is a term used to describe the connection between two or more people, ideas, or things. It can refer to the physical connection between two people, such as a handshake or hug, or it can refer to the mental connection between two ideas or concepts. The Link is often used to describe the relationship between people and their environment, as well as the relationship between different cultures and societies. |
 | 30 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 31 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 32 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
-| 33 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
+| 33 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 34 | [affliate](http://twitter.com/search?q=affliate) | N/A |
 | 35 | [dato siti](http://twitter.com/search?q=dato+siti) | N/A |
 | 36 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
@@ -56,15 +56,15 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 39 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 40 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 | 41 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 42 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 43 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 44 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 45 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 46 | [SUNWAY](http://twitter.com/search?q=SUNWAY) | N/A |
-| 47 | [Yakkai Thiri](http://twitter.com/search?q=Yakkai+Thiri) | N/A |
-| 48 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 49 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 43 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 44 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 45 | [sunway](http://twitter.com/search?q=sunway) | N/A |
+| 46 | [Yakkai Thiri](http://twitter.com/search?q=Yakkai+Thiri) | N/A |
+| 47 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 50 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 
 
 

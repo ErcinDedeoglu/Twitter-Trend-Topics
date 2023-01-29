@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-01-29 21:15:16 UTC`
+📆 Last Updated: `2023-01-29 22:14:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,16 +31,15 @@ This is top 50 for [Latvia](</Latvia>)
 | 14 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
 | 15 | [Labi](http://twitter.com/search?q=Labi) | N/A |
 | 16 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 17 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
-| 18 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 19 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 20 | [Bija](http://twitter.com/search?q=Bija) | N/A |
-| 21 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
-| 22 | [#BackPain](http://twitter.com/search?q=%23BackPain) | N/A |
-| 23 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 24 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 25 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 26 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 17 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 18 | [Mums](http://twitter.com/search?q=Mums) | N/A |
+| 19 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 20 | [#BackPain](http://twitter.com/search?q=%23BackPain) | N/A |
+| 21 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
+| 22 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 23 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 24 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 25 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
 
 
 

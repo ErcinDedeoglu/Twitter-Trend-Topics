@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-01-29 21:15:15 UTC`
+📆 Last Updated: `2023-01-29 22:14:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#esland2023](http://twitter.com/search?q=%23esland2023) | N/A |
-| 2 | [#COAC2023P9](http://twitter.com/search?q=%23COAC2023P9) | N/A |
-| 3 | [#RealMadridRealSociedad](http://twitter.com/search?q=%23RealMadridRealSociedad) | N/A |
-| 4 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 5 | [#follacabailedelaño](http://twitter.com/search?q=%23follacabailedela%c3%b1o) | N/A |
-| 6 | [WOODY](http://twitter.com/search?q=WOODY) | WOODY is a slang term used to describe someone who is strong, tough, and resilient. It can also be used to describe someone who is determined and hardworking. |
-| 7 | [#SalvadosVivienda](http://twitter.com/search?q=%23SalvadosVivienda) | N/A |
-| 8 | [Gerard Romero](http://twitter.com/search?q=Gerard+Romero) | Gerard Romero is a Spanish name. It is derived from the Germanic name Gerard, which means "brave spearman". |
-| 9 | [Manute](http://twitter.com/search?q=Manute) | N/A |
-| 10 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
-| 11 | [Grefg](http://twitter.com/search?q=Grefg) | N/A |
-| 12 | [Iago Aspas](http://twitter.com/search?q=Iago+Aspas) | N/A |
-| 13 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 14 | [Masi](http://twitter.com/search?q=Masi) | N/A |
-| 15 | [Celta](http://twitter.com/search?q=Celta) | N/A |
-| 16 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 17 | [Javier Pérez Santana](http://twitter.com/search?q=Javier+P%c3%a9rez+Santana) | N/A |
-| 18 | [Jedet](http://twitter.com/search?q=Jedet) | N/A |
-| 19 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
-| 20 | [Tamayo](http://twitter.com/search?q=Tamayo) | N/A |
-| 21 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 22 | [Jordi Ribera](http://twitter.com/search?q=Jordi+Ribera) | N/A |
-| 23 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 24 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 25 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 26 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 27 | [lola indigo](http://twitter.com/search?q=lola+indigo) | N/A |
-| 28 | [Bustinza](http://twitter.com/search?q=Bustinza) | N/A |
-| 29 | [Suecia](http://twitter.com/search?q=Suecia) | N/A |
-| 30 | [Jozabed](http://twitter.com/search?q=Jozabed) | Jozabed is a Spanish word that means "bed". It is derived from the Latin word "jacere", which means "to lie down". |
-| 31 | [Dario](http://twitter.com/search?q=Dario) | N/A |
-| 32 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 33 | [Balaídos](http://twitter.com/search?q=Bala%c3%addos) | N/A |
-| 34 | [Málaga](http://twitter.com/search?q=M%c3%a1laga) | N/A |
-| 35 | [Pape Gueye](http://twitter.com/search?q=Pape+Gueye) | N/A |
-| 36 | [Bronce](http://twitter.com/search?q=Bronce) | N/A |
-| 37 | [El Molinón](http://twitter.com/search?q=El+Molin%c3%b3n) | N/A |
-| 38 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 39 | [Almodóvar](http://twitter.com/search?q=Almod%c3%b3var) | N/A |
-| 40 | [Febas](http://twitter.com/search?q=Febas) | N/A |
-| 41 | [Pellicer](http://twitter.com/search?q=Pellicer) | N/A |
-| 42 | [Marie Kondo](http://twitter.com/search?q=Marie+Kondo) | N/A |
-| 43 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 44 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
-| 45 | [Recre](http://twitter.com/search?q=Recre) | N/A |
-| 46 | [Estocolmo](http://twitter.com/search?q=Estocolmo) | N/A |
-| 47 | [Feroz](http://twitter.com/search?q=Feroz) | N/A |
-| 48 | [Riazor](http://twitter.com/search?q=Riazor) | N/A |
-| 49 | [El Valencia](http://twitter.com/search?q=El+Valencia) | N/A |
+| 1 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 2 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
+| 3 | [#COAC2023P9](http://twitter.com/search?q=%23COAC2023P9) | N/A |
+| 4 | [#RealMadridRealSociedad](http://twitter.com/search?q=%23RealMadridRealSociedad) | N/A |
+| 5 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
+| 6 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
+| 7 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 8 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 9 | [Gerard Romero](http://twitter.com/search?q=Gerard+Romero) | Gerard Romero is a Spanish name. It is derived from the Germanic name Gerard, which means "brave spearman". |
+| 10 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
+| 11 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 12 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
+| 13 | [#SalvadosVivienda](http://twitter.com/search?q=%23SalvadosVivienda) | N/A |
+| 14 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 15 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
+| 16 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
+| 17 | [La Real](http://twitter.com/search?q=La+Real) | La Real is a Spanish term that translates to "The Royal" in English. It is often used to refer to the Spanish Royal Family, or the monarchy of Spain. It can also be used to refer to certain clubs or organizations that have been granted royal patronage by the Spanish monarchy. |
+| 18 | [Mellado](http://twitter.com/search?q=Mellado) | N/A |
+| 19 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 20 | [Flakked](http://twitter.com/search?q=Flakked) | N/A |
+| 21 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 22 | [Kidi](http://twitter.com/search?q=Kidi) | N/A |
+| 23 | [lola indigo](http://twitter.com/search?q=lola+indigo) | N/A |
+| 24 | [Jelty](http://twitter.com/search?q=Jelty) | N/A |
+| 25 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 26 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 27 | [Grefg](http://twitter.com/search?q=Grefg) | N/A |
+| 28 | [Yuste](http://twitter.com/search?q=Yuste) | N/A |
+| 29 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 30 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
+| 31 | [Manute](http://twitter.com/search?q=Manute) | N/A |
+| 32 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
+| 33 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 34 | [Masi](http://twitter.com/search?q=Masi) | N/A |
+| 35 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
+| 36 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
+| 37 | [Illarra](http://twitter.com/search?q=Illarra) | N/A |
+| 38 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
+| 39 | [Iago Aspas](http://twitter.com/search?q=Iago+Aspas) | N/A |
+| 40 | [Javier Pérez Santana](http://twitter.com/search?q=Javier+P%c3%a9rez+Santana) | N/A |
+| 41 | [Enrique Urquijo](http://twitter.com/search?q=Enrique+Urquijo) | N/A |
+| 42 | [Jedet](http://twitter.com/search?q=Jedet) | N/A |
+| 43 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 44 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 45 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 46 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 47 | [Zubimendi](http://twitter.com/search?q=Zubimendi) | N/A |
+| 48 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 49 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
 
 
 
