@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-01-29 15:02:39 UTC`
+📆 Last Updated: `2023-01-29 15:23:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [France](</France>)
 | 4 | [Ton Pokémon](http://twitter.com/search?q=Ton+Pok%c3%a9mon) | N/A |
 | 5 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
 | 6 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 7 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 8 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 9 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 10 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 11 | [AESH](http://twitter.com/search?q=AESH) | N/A |
-| 12 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
-| 13 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
-| 14 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
-| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 16 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
-| 17 | [Pire Zelda](http://twitter.com/search?q=Pire+Zelda) | N/A |
-| 18 | [Dernier Zelda](http://twitter.com/search?q=Dernier+Zelda) | N/A |
-| 19 | [meilleure ost](http://twitter.com/search?q=meilleure+ost) | N/A |
-| 20 | [Premier Zelda](http://twitter.com/search?q=Premier+Zelda) | N/A |
-| 21 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 22 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
-| 23 | [Monza](http://twitter.com/search?q=Monza) | N/A |
-| 24 | [Payet](http://twitter.com/search?q=Payet) | N/A |
-| 25 | [ben yedder](http://twitter.com/search?q=ben+yedder) | N/A |
-| 26 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 27 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 28 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
-| 29 | [Atal](http://twitter.com/search?q=Atal) | N/A |
-| 30 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 31 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 32 | [Jérusalem](http://twitter.com/search?q=J%c3%a9rusalem) | N/A |
-| 33 | [nubel](http://twitter.com/search?q=nubel) | N/A |
-| 34 | [Tom Verlaine](http://twitter.com/search?q=Tom+Verlaine) | Tom Verlaine is the stage name of Thomas Miller, an American singer, songwriter, and guitarist. He is best known as the frontman of the rock band Television, which he co-founded in 1973. He has also released several solo albums and collaborated with other musicians. His music is characterized by its poetic lyrics and jangly guitar sound. |
-| 35 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 36 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 37 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 38 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 7 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 8 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 9 | [aesh](http://twitter.com/search?q=aesh) | N/A |
+| 10 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
+| 11 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
+| 12 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 13 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
+| 14 | [Pire Zelda](http://twitter.com/search?q=Pire+Zelda) | N/A |
+| 15 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
+| 16 | [Meilleure OST](http://twitter.com/search?q=Meilleure+OST) | N/A |
+| 17 | [Dernier Zelda](http://twitter.com/search?q=Dernier+Zelda) | N/A |
+| 18 | [premier zelda](http://twitter.com/search?q=premier+zelda) | N/A |
+| 19 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
+| 20 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 22 | [Payet](http://twitter.com/search?q=Payet) | N/A |
+| 23 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 24 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 25 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 26 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
+| 27 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 28 | [Atal](http://twitter.com/search?q=Atal) | N/A |
+| 29 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 30 | [Jérusalem](http://twitter.com/search?q=J%c3%a9rusalem) | N/A |
+| 31 | [Dallinga](http://twitter.com/search?q=Dallinga) | N/A |
+| 32 | [Tom Verlaine](http://twitter.com/search?q=Tom+Verlaine) | Tom Verlaine is the stage name of Thomas Miller, an American singer, songwriter, and guitarist. He is best known as the frontman of the rock band Television, which he co-founded in 1973. He has also released several solo albums and collaborated with other musicians. His music is characterized by its poetic lyrics and jangly guitar sound. |
+| 33 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 34 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
+| 35 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 36 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 37 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 38 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
 | 39 | [Rintintin](http://twitter.com/search?q=Rintintin) | N/A |
-| 40 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 41 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
-| 42 | [Violet](http://twitter.com/search?q=Violet) | N/A |
-| 43 | [La VAR](http://twitter.com/search?q=La+VAR) | N/A |
-| 44 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
-| 45 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 46 | [Bouanani](http://twitter.com/search?q=Bouanani) | N/A |
-| 47 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 48 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 40 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 41 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 42 | [La VAR](http://twitter.com/search?q=La+VAR) | N/A |
+| 43 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 44 | [bouanani](http://twitter.com/search?q=bouanani) | N/A |
+| 45 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 46 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 47 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 48 | [Violet](http://twitter.com/search?q=Violet) | N/A |
 
 
 

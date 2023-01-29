@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-01-29 15:02:35 UTC`
+📆 Last Updated: `2023-01-29 15:23:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,42 +27,42 @@ This is top 50 for [Mexico](</Mexico>)
 | 10 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 11 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
 | 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [santiago giménez](http://twitter.com/search?q=santiago+gim%c3%a9nez) | N/A |
-| 14 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 13 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 14 | [Santi Giménez](http://twitter.com/search?q=Santi+Gim%c3%a9nez) | N/A |
 | 15 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
-| 16 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 17 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 18 | [Lamberto quintero](http://twitter.com/search?q=Lamberto+quintero) | N/A |
+| 16 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 17 | [Lamberto quintero](http://twitter.com/search?q=Lamberto+quintero) | N/A |
+| 18 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 19 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 20 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 21 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 22 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 23 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 24 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 21 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 22 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 23 | [CDMX](http://twitter.com/search?q=CDMX) | CDMX is an acronym for Ciudad de México, which translates to Mexico City in English. It is the capital of Mexico and the most populous city in the country. |
+| 24 | [Mick](http://twitter.com/search?q=Mick) | N/A |
 | 25 | [sientes la tentación](http://twitter.com/search?q=sientes+la+tentaci%c3%b3n) | N/A |
-| 26 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 27 | [Angeles](http://twitter.com/search?q=Angeles) | N/A |
-| 28 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
-| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 30 | [Abierto de Australia](http://twitter.com/search?q=Abierto+de+Australia) | N/A |
-| 31 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
-| 32 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 33 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
+| 26 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 27 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 28 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 29 | [Abierto de Australia](http://twitter.com/search?q=Abierto+de+Australia) | N/A |
+| 30 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 31 | [Diego Lainez](http://twitter.com/search?q=Diego+Lainez) | N/A |
+| 32 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 33 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
 | 34 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 35 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 37 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 38 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 39 | [carre](http://twitter.com/search?q=carre) | N/A |
-| 40 | [Fobaproa](http://twitter.com/search?q=Fobaproa) | N/A |
-| 41 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
-| 42 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 43 | [Diego Lainez](http://twitter.com/search?q=Diego+Lainez) | N/A |
-| 44 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 45 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
-| 46 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 47 | [Tom Verlaine](http://twitter.com/search?q=Tom+Verlaine) | Tom Verlaine is the stage name of Thomas Miller, an American singer, songwriter, and guitarist. He is best known as the frontman of the rock band Television, which he co-founded in 1973. He has also released several solo albums and collaborated with other musicians. His music is characterized by its poetic lyrics and jangly guitar sound. |
-| 48 | [pocho](http://twitter.com/search?q=pocho) | N/A |
+| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 36 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
+| 37 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 38 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 39 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 40 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 41 | [FOBAPROA](http://twitter.com/search?q=FOBAPROA) | N/A |
+| 42 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
+| 43 | [Anne Hathaway](http://twitter.com/search?q=Anne+Hathaway) | N/A |
+| 44 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 45 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 46 | [Federer](http://twitter.com/search?q=Federer) | N/A |
+| 47 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 48 | [Tom Verlaine](http://twitter.com/search?q=Tom+Verlaine) | Tom Verlaine is the stage name of Thomas Miller, an American singer, songwriter, and guitarist. He is best known as the frontman of the rock band Television, which he co-founded in 1973. He has also released several solo albums and collaborated with other musicians. His music is characterized by its poetic lyrics and jangly guitar sound. |
 
 
 

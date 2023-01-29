@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-01-29 15:02:40 UTC`
+📆 Last Updated: `2023-01-29 15:23:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 2 | [#JuveMonza](http://twitter.com/search?q=%23JuveMonza) | #JuveMonza is a hashtag used to refer to the Italian football match between Juventus and Monza. It is used to discuss the match, share news and updates, and show support for either team. In English, it translates to "Juventus vs Monza". |
-| 3 | [#MilanSassuolo](http://twitter.com/search?q=%23MilanSassuolo) | N/A |
-| 4 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 5 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 6 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 7 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 8 | [#AllegriOut](http://twitter.com/search?q=%23AllegriOut) | N/A |
-| 9 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 10 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 11 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 12 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 13 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 14 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
-| 15 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
-| 16 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 17 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 18 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
-| 19 | [Tatarusanu](http://twitter.com/search?q=Tatarusanu) | Tatarusanu is a Romanian surname. It is derived from the word "tatar" which means "Tartar". The literal translation of Tatarusanu into English would be "son of the Tartar". |
-| 20 | [calabria](http://twitter.com/search?q=calabria) | N/A |
-| 21 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 2 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
+| 3 | [#JuveMonza](http://twitter.com/search?q=%23JuveMonza) | #JuveMonza is a hashtag used to refer to the Italian football match between Juventus and Monza. It is used to discuss the match, share news and updates, and show support for either team. In English, it translates to "Juventus vs Monza". |
+| 4 | [#MilanSassuolo](http://twitter.com/search?q=%23MilanSassuolo) | N/A |
+| 5 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 6 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 7 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 8 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 9 | [#AllegriOut](http://twitter.com/search?q=%23AllegriOut) | N/A |
+| 10 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 11 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 12 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 13 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 14 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 15 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 16 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 17 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 18 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 19 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 20 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 21 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
 | 22 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 23 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
-| 24 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 23 | [Tatarusanu](http://twitter.com/search?q=Tatarusanu) | Tatarusanu is a Romanian surname. It is derived from the word "tatar" which means "Tartar". The literal translation of Tatarusanu into English would be "son of the Tartar". |
+| 24 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
 | 25 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 26 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 27 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 28 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 29 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 30 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 31 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 32 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
-| 33 | [Slam](http://twitter.com/search?q=Slam) | N/A |
-| 34 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 35 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 36 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 37 | [Giarrusso](http://twitter.com/search?q=Giarrusso) | N/A |
-| 38 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
-| 39 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
-| 40 | [#DisdetteDaznSky](http://twitter.com/search?q=%23DisdetteDaznSky) | N/A |
-| 41 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 42 | [#PierIn](http://twitter.com/search?q=%23PierIn) | N/A |
-| 43 | [#AustralianOpen](http://twitter.com/search?q=%23AustralianOpen) | #AustralianOpen is the official hashtag for the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 44 | [#Skriniar](http://twitter.com/search?q=%23Skriniar) | N/A |
-| 45 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 46 | [#SerieATIM](http://twitter.com/search?q=%23SerieATIM) | N/A |
-| 47 | [#DeKetelaere](http://twitter.com/search?q=%23DeKetelaere) | N/A |
-| 48 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
-| 49 | [#29gennaio](http://twitter.com/search?q=%2329gennaio) | N/A |
-| 50 | [#Tavecchio](http://twitter.com/search?q=%23Tavecchio) | N/A |
+| 26 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 27 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 28 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 29 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 30 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 31 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 32 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 33 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 34 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 35 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 36 | [Slam](http://twitter.com/search?q=Slam) | N/A |
+| 37 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 38 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
+| 39 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 40 | [Giarrusso](http://twitter.com/search?q=Giarrusso) | N/A |
+| 41 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
+| 42 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
+| 43 | [#DisdetteDaznSky](http://twitter.com/search?q=%23DisdetteDaznSky) | N/A |
+| 44 | [#PierIn](http://twitter.com/search?q=%23PierIn) | N/A |
+| 45 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 46 | [#Skriniar](http://twitter.com/search?q=%23Skriniar) | N/A |
+| 47 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
+| 48 | [#SerieATIM](http://twitter.com/search?q=%23SerieATIM) | N/A |
+| 49 | [#AustralianOpen](http://twitter.com/search?q=%23AustralianOpen) | #AustralianOpen is the official hashtag for the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
+| 50 | [#DeKetelaere](http://twitter.com/search?q=%23DeKetelaere) | N/A |
 
 
 

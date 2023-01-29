@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-01-29 15:02:38 UTC`
+📆 Last Updated: `2023-01-29 15:23:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for [Poland](</Poland>)
 | 16 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
 | 17 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
 | 18 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
-| 19 | [ochojska](http://twitter.com/search?q=ochojska) | N/A |
+| 19 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
 | 20 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
-| 21 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
-| 22 | [Pogoń](http://twitter.com/search?q=Pogo%c5%84) | N/A |
+| 21 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 22 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
 | 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 24 | [piasta](http://twitter.com/search?q=piasta) | N/A |
-| 25 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
+| 24 | [Pogoń](http://twitter.com/search?q=Pogo%c5%84) | N/A |
+| 25 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
 | 26 | [jerozolimie](http://twitter.com/search?q=jerozolimie) | N/A |
-| 27 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 28 | [Korony](http://twitter.com/search?q=Korony) | N/A |
-| 29 | [mielcu](http://twitter.com/search?q=mielcu) | N/A |
-| 30 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
+| 27 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
+| 28 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 29 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
+| 30 | [mielcu](http://twitter.com/search?q=mielcu) | N/A |
 | 31 | [Zagłębia](http://twitter.com/search?q=Zag%c5%82%c4%99bia) | N/A |
-| 32 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
-| 33 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
-| 34 | [tudora](http://twitter.com/search?q=tudora) | N/A |
-| 35 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
-| 36 | [Hugo Nys](http://twitter.com/search?q=Hugo+Nys) | N/A |
-| 37 | [Siema](http://twitter.com/search?q=Siema) | N/A |
-| 38 | [jan zieliński](http://twitter.com/search?q=jan+zieli%c5%84ski) | N/A |
-| 39 | [Bad Mitterndorf](http://twitter.com/search?q=Bad+Mitterndorf) | N/A |
-| 40 | [Aryna Sabalenka](http://twitter.com/search?q=Aryna+Sabalenka) | Aryna Sabalenka is a Belarusian professional tennis player. She has won two singles and three doubles titles on the WTA Tour, as well as one singles and one doubles title on the ITF Women's Circuit. The name "Aryna" is derived from the Latin word for "noble" or "honorable", while "Sabalenka" is a Belarusian surname meaning "from the Sabala river". |
-| 41 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
-| 42 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 43 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
-| 44 | [Babis](http://twitter.com/search?q=Babis) | N/A |
-| 45 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 46 | [Gramy](http://twitter.com/search?q=Gramy) | N/A |
-| 47 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 48 | [Nikogo](http://twitter.com/search?q=Nikogo) | N/A |
-| 49 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 50 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 32 | [Hugo Nys](http://twitter.com/search?q=Hugo+Nys) | N/A |
+| 33 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
+| 34 | [rybakina](http://twitter.com/search?q=rybakina) | N/A |
+| 35 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
+| 36 | [Siema](http://twitter.com/search?q=Siema) | N/A |
+| 37 | [tudora](http://twitter.com/search?q=tudora) | N/A |
+| 38 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 39 | [Aryna Sabalenka](http://twitter.com/search?q=Aryna+Sabalenka) | Aryna Sabalenka is a Belarusian professional tennis player. She has won two singles and three doubles titles on the WTA Tour, as well as one singles and one doubles title on the ITF Women's Circuit. The name "Aryna" is derived from the Latin word for "noble" or "honorable", while "Sabalenka" is a Belarusian surname meaning "from the Sabala river". |
+| 40 | [Bad Mitterndorf](http://twitter.com/search?q=Bad+Mitterndorf) | N/A |
+| 41 | [jan zieliński](http://twitter.com/search?q=jan+zieli%c5%84ski) | N/A |
+| 42 | [Halvor Egner Granerud](http://twitter.com/search?q=Halvor+Egner+Granerud) | N/A |
+| 43 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
+| 44 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 45 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 46 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 47 | [Babis](http://twitter.com/search?q=Babis) | N/A |
+| 48 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 49 | [Gramy](http://twitter.com/search?q=Gramy) | N/A |
+| 50 | [Nikogo](http://twitter.com/search?q=Nikogo) | N/A |
 
 
 

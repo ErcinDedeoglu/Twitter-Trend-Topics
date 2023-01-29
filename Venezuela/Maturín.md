@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-01-29 15:02:38 UTC`
+📆 Last Updated: `2023-01-29 15:23:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [#BastaDePersecuciónFinanciera](http://twitter.com/search?q=%23BastaDePersecuci%c3%b3nFinanciera) | N/A |
 | 7 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 8 | [#sub20xteleven](http://twitter.com/search?q=%23sub20xteleven) | N/A |
-| 9 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 10 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 9 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 10 | [Tío Rico](http://twitter.com/search?q=T%c3%ado+Rico) | N/A |
 | 11 | [Alex González](http://twitter.com/search?q=Alex+Gonz%c3%a1lez) | N/A |
-| 12 | [San Agustín](http://twitter.com/search?q=San+Agust%c3%adn) | N/A |
-| 13 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 14 | [Tío Rico](http://twitter.com/search?q=T%c3%ado+Rico) | N/A |
+| 12 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 13 | [San Agustín](http://twitter.com/search?q=San+Agust%c3%adn) | N/A |
+| 14 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 15 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 16 | [Juan Carlos Torres](http://twitter.com/search?q=Juan+Carlos+Torres) | N/A |
+| 16 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
 | 17 | [Día del Trabajador Social](http://twitter.com/search?q=D%c3%ada+del+Trabajador+Social) | N/A |
-| 18 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 18 | [Juan Carlos Torres](http://twitter.com/search?q=Juan+Carlos+Torres) | N/A |
 | 19 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 21 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
-| 22 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 23 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 24 | [Batalla de Guasdualito](http://twitter.com/search?q=Batalla+de+Guasdualito) | N/A |
-| 25 | [Día de la Zulianidad](http://twitter.com/search?q=D%c3%ada+de+la+Zulianidad) | N/A |
-| 26 | [Chacín](http://twitter.com/search?q=Chac%c3%adn) | N/A |
-| 27 | [Volker Türk](http://twitter.com/search?q=Volker+T%c3%bcrk) | N/A |
+| 20 | [Grand Slam](http://twitter.com/search?q=Grand+Slam) | N/A |
+| 21 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 22 | [Batalla de Guasdualito](http://twitter.com/search?q=Batalla+de+Guasdualito) | N/A |
+| 23 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 24 | [Chacín](http://twitter.com/search?q=Chac%c3%adn) | N/A |
+| 25 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 26 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
+| 27 | [onoto](http://twitter.com/search?q=onoto) | N/A |
 | 28 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
-| 29 | [Cadillo](http://twitter.com/search?q=Cadillo) | Cadillo is a Spanish word that means "clove". It is used to refer to the dried flower bud of the clove tree, which is used as a spice in cooking. |
+| 29 | [Volker Türk](http://twitter.com/search?q=Volker+T%c3%bcrk) | N/A |
 | 30 | [Tumeremo](http://twitter.com/search?q=Tumeremo) | N/A |
-| 31 | [onoto](http://twitter.com/search?q=onoto) | N/A |
+| 31 | [Cadillo](http://twitter.com/search?q=Cadillo) | Cadillo is a Spanish word that means "clove". It is used to refer to the dried flower bud of the clove tree, which is used as a spice in cooking. |
 | 32 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 33 | [Santo Tomás de Aquino](http://twitter.com/search?q=Santo+Tom%c3%a1s+de+Aquino) | N/A |
-| 34 | [Er Conde](http://twitter.com/search?q=Er+Conde) | N/A |
-| 35 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
-| 36 | [José Martí](http://twitter.com/search?q=Jos%c3%a9+Mart%c3%ad) | N/A |
-| 37 | [día nacional del cine](http://twitter.com/search?q=d%c3%ada+nacional+del+cine) | N/A |
-| 38 | [Alto Comisionado de la ONU](http://twitter.com/search?q=Alto+Comisionado+de+la+ONU) | N/A |
+| 33 | [Er Conde](http://twitter.com/search?q=Er+Conde) | N/A |
+| 34 | [Santo Tomás de Aquino](http://twitter.com/search?q=Santo+Tom%c3%a1s+de+Aquino) | N/A |
+| 35 | [José Martí](http://twitter.com/search?q=Jos%c3%a9+Mart%c3%ad) | N/A |
+| 36 | [día nacional del cine](http://twitter.com/search?q=d%c3%ada+nacional+del+cine) | N/A |
+| 37 | [alto comisionado de la onu](http://twitter.com/search?q=alto+comisionado+de+la+onu) | N/A |
+| 38 | [Tyre Nichols](http://twitter.com/search?q=Tyre+Nichols) | Tyre Nichols is a name of African-American origin. It is derived from the French word "tirer," which means "to pull," and the English word "Nichols," which is a patronymic surname meaning "son of Nicholas." The name Tyre Nichols can be translated to mean "the son of Nicholas who pulls." |
 | 39 | [Tipa](http://twitter.com/search?q=Tipa) | N/A |
-| 40 | [Samba](http://twitter.com/search?q=Samba) | N/A |
+| 40 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
 | 41 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 42 | [Tyre Nichols](http://twitter.com/search?q=Tyre+Nichols) | Tyre Nichols is a name of African-American origin. It is derived from the French word "tirer," which means "to pull," and the English word "Nichols," which is a patronymic surname meaning "son of Nicholas." The name Tyre Nichols can be translated to mean "the son of Nicholas who pulls." |
-| 43 | [Hexagonal](http://twitter.com/search?q=Hexagonal) | N/A |
-| 44 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 45 | [Mercedes Benz](http://twitter.com/search?q=Mercedes+Benz) | N/A |
-| 46 | [Bendecido Domingo](http://twitter.com/search?q=Bendecido+Domingo) | N/A |
-| 47 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 48 | [Tucacas](http://twitter.com/search?q=Tucacas) | N/A |
-| 49 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 50 | [Freddy Guevara](http://twitter.com/search?q=Freddy+Guevara) | N/A |
+| 42 | [Hexagonal](http://twitter.com/search?q=Hexagonal) | N/A |
+| 43 | [Bendecido Domingo](http://twitter.com/search?q=Bendecido+Domingo) | N/A |
+| 44 | [Tucupita](http://twitter.com/search?q=Tucupita) | N/A |
+| 45 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 46 | [Tucacas](http://twitter.com/search?q=Tucacas) | N/A |
+| 47 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 48 | [freddy guevara](http://twitter.com/search?q=freddy+guevara) | N/A |
+| 49 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 50 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
 
 
 

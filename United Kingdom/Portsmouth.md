@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-01-29 15:02:34 UTC`
+📆 Last Updated: `2023-01-29 15:23:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 2 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 1 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 2 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
 | 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 4 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 5 | [#AustralianOpen](http://twitter.com/search?q=%23AustralianOpen) | #AustralianOpen is the official hashtag for the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 6 | [Brutal](http://twitter.com/search?q=Brutal) | N/A |
-| 7 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 8 | [#ToryCriminals](http://twitter.com/search?q=%23ToryCriminals) | N/A |
-| 9 | [#SAvENG](http://twitter.com/search?q=%23SAvENG) | N/A |
-| 10 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 11 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 12 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 13 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
-| 14 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 15 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 16 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
-| 17 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 18 | [Zahawi](http://twitter.com/search?q=Zahawi) | N/A |
-| 19 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 20 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
-| 21 | [#BRILIV](http://twitter.com/search?q=%23BRILIV) | N/A |
-| 22 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | N/A |
-| 23 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 25 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 26 | [Naby](http://twitter.com/search?q=Naby) | Naby is a slang term derived from the phrase "neighborhood buddy." It is used to refer to someone who is a close friend or ally in one's local area. |
-| 27 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 28 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 29 | [Ashby](http://twitter.com/search?q=Ashby) | N/A |
-| 30 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 31 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 32 | ["Gracious"](http://twitter.com/search?q=%22Gracious%22) | N/A |
-| 33 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 34 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 35 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 36 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 37 | [Ministerial Code](http://twitter.com/search?q=Ministerial+Code) | N/A |
-| 38 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 39 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 40 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 41 | [Clive](http://twitter.com/search?q=Clive) | N/A |
-| 42 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 43 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 44 | [Amex](http://twitter.com/search?q=Amex) | N/A |
-| 45 | [stratford](http://twitter.com/search?q=stratford) | N/A |
-| 46 | [Shameless](http://twitter.com/search?q=Shameless) | N/A |
-| 47 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | N/A |
-| 48 | [Patel](http://twitter.com/search?q=Patel) | N/A |
-| 49 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 4 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 5 | [#ToryCriminals](http://twitter.com/search?q=%23ToryCriminals) | N/A |
+| 6 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 7 | [#AustralianOpen](http://twitter.com/search?q=%23AustralianOpen) | #AustralianOpen is the official hashtag for the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
+| 8 | [Brutal](http://twitter.com/search?q=Brutal) | N/A |
+| 9 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 10 | [#SAvENG](http://twitter.com/search?q=%23SAvENG) | N/A |
+| 11 | [#TorySleaze](http://twitter.com/search?q=%23TorySleaze) | N/A |
+| 12 | [Shameless](http://twitter.com/search?q=Shameless) | N/A |
+| 13 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 14 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 15 | [half time](http://twitter.com/search?q=half+time) | N/A |
+| 16 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
+| 17 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 18 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 19 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 20 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 21 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 22 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 23 | [Zahawi](http://twitter.com/search?q=Zahawi) | N/A |
+| 24 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 25 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 26 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | N/A |
+| 27 | [Bob Olinger](http://twitter.com/search?q=Bob+Olinger) | N/A |
+| 28 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 29 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 30 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 31 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 32 | [Naby](http://twitter.com/search?q=Naby) | Naby is a slang term derived from the phrase "neighborhood buddy." It is used to refer to someone who is a close friend or ally in one's local area. |
+| 33 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
+| 34 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 35 | [Ashby](http://twitter.com/search?q=Ashby) | N/A |
+| 36 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 37 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 38 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 39 | [Gracious](http://twitter.com/search?q=Gracious) | N/A |
+| 40 | [Ministerial Code](http://twitter.com/search?q=Ministerial+Code) | N/A |
+| 41 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 42 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 43 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 44 | [Federer](http://twitter.com/search?q=Federer) | N/A |
+| 45 | [Clive](http://twitter.com/search?q=Clive) | N/A |
+| 46 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 47 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 48 | [Amex](http://twitter.com/search?q=Amex) | N/A |
+| 49 | [Stratford](http://twitter.com/search?q=Stratford) | N/A |
 
 
 
