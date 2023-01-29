@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-01-29 18:16:03 UTC`
+📆 Last Updated: `2023-01-29 19:15:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Happy30thNewwieeDay](http://twitter.com/search?q=%23Happy30thNewwieeDay) | N/A |
-| 2 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
 | 4 | [#11YearsWithBaekhyun](http://twitter.com/search?q=%2311YearsWithBaekhyun) | N/A |
 | 5 | [#큥_데뷔11주년_축하해](http://twitter.com/search?q=%23%ed%81%a5_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 6 | [Berani](http://twitter.com/search?q=Berani) | N/A |
@@ -27,42 +27,39 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 10 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
 | 11 | [Monza](http://twitter.com/search?q=Monza) | N/A |
 | 12 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 13 | [PULL UP MV TEASER 2](http://twitter.com/search?q=PULL+UP+MV+TEASER+2) | PULL UP MV TEASER 2 is an abbreviation for "Pull Up Music Video Teaser 2". It is a phrase used to describe a short video clip that is released as a teaser for an upcoming music video. The phrase implies that the viewer should "pull up" the video, or watch it, in order to get a preview of what the full music video will be like. |
-| 14 | [THANK YOU NCT](http://twitter.com/search?q=THANK+YOU+NCT) | N/A |
-| 15 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 13 | [THANK YOU NCT](http://twitter.com/search?q=THANK+YOU+NCT) | N/A |
+| 14 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 15 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 16 | [YOUNGJI](http://twitter.com/search?q=YOUNGJI) | YOUNGJI is a Korean name, which means “eternal wisdom” in English. |
-| 17 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 18 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
+| 17 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 18 | [PULL UP MV TEASER 2](http://twitter.com/search?q=PULL+UP+MV+TEASER+2) | PULL UP MV TEASER 2 is an abbreviation for "Pull Up Music Video Teaser 2". It is a phrase used to describe a short video clip that is released as a teaser for an upcoming music video. The phrase implies that the viewer should "pull up" the video, or watch it, in order to get a preview of what the full music video will be like. |
 | 19 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
 | 20 | [Fav Song](http://twitter.com/search?q=Fav+Song) | N/A |
-| 21 | [4 YEARS WITH RYUJIN](http://twitter.com/search?q=4+YEARS+WITH+RYUJIN) | N/A |
-| 22 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 23 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 24 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 25 | [Lomba](http://twitter.com/search?q=Lomba) | N/A |
-| 26 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
-| 27 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 28 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
+| 21 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 22 | [Lomba](http://twitter.com/search?q=Lomba) | N/A |
+| 23 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
+| 24 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 25 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 26 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 27 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 28 | [Tatarusanu](http://twitter.com/search?q=Tatarusanu) | Tatarusanu is a Romanian surname. It is derived from the word "tatar" which means "Tartar". The literal translation of Tatarusanu into English would be "son of the Tartar". |
 | 29 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
-| 30 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 31 | [Tatarusanu](http://twitter.com/search?q=Tatarusanu) | Tatarusanu is a Romanian surname. It is derived from the word "tatar" which means "Tartar". The literal translation of Tatarusanu into English would be "son of the Tartar". |
-| 32 | [Shoot Me](http://twitter.com/search?q=Shoot+Me) | N/A |
-| 33 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 34 | [The Day](http://twitter.com/search?q=The+Day) | N/A |
-| 35 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 36 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 37 | [Code](http://twitter.com/search?q=Code) | N/A |
-| 38 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
-| 39 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 40 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
-| 41 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
-| 42 | [Ay-Yo](http://twitter.com/search?q=Ay-Yo) | Ay-Yo is an expression used to express excitement or enthusiasm. It is similar to the phrase "Oh yeah!" and can be used to show agreement or excitement about something. In English, it can be translated as "Yeah!" or "Yay!". |
-| 43 | [#11YearsWithKyungsoo](http://twitter.com/search?q=%2311YearsWithKyungsoo) | N/A |
-| 44 | [#경수와_걸어온_11년](http://twitter.com/search?q=%23%ea%b2%bd%ec%88%98%ec%99%80_%ea%b1%b8%ec%96%b4%ec%98%a8_11%eb%85%84) | N/A |
-| 45 | [#11YearsWithDO](http://twitter.com/search?q=%2311YearsWithDO) | N/A |
-| 46 | [#BABYMONSTER_RORA](http://twitter.com/search?q=%23BABYMONSTER_RORA) | N/A |
-| 47 | [#CrashCourseInRomanceEp6](http://twitter.com/search?q=%23CrashCourseInRomanceEp6) | N/A |
-| 48 | [#ForeverWithBTS](http://twitter.com/search?q=%23ForeverWithBTS) | N/A |
+| 30 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 31 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 32 | [Code](http://twitter.com/search?q=Code) | N/A |
+| 33 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
+| 34 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 35 | [#경수와_걸어온_11년](http://twitter.com/search?q=%23%ea%b2%bd%ec%88%98%ec%99%80_%ea%b1%b8%ec%96%b4%ec%98%a8_11%eb%85%84) | N/A |
+| 36 | [#11YearsWithKyungsoo](http://twitter.com/search?q=%2311YearsWithKyungsoo) | N/A |
+| 37 | [#11YearsWithDO](http://twitter.com/search?q=%2311YearsWithDO) | N/A |
+| 38 | [#CrashCourseInRomanceEp6](http://twitter.com/search?q=%23CrashCourseInRomanceEp6) | N/A |
+| 39 | [#BetweenUsFinalEP](http://twitter.com/search?q=%23BetweenUsFinalEP) | #BetweenUsFinalEP is a hashtag used to promote the final episode of the web series Between Us. The hashtag is used to encourage viewers to watch the finale and share their thoughts on social media. In English, it means "The Final Episode of Between Us". |
+| 40 | [#ForeverWithBTS](http://twitter.com/search?q=%23ForeverWithBTS) | N/A |
+| 41 | [#BABYMONSTER_RORA](http://twitter.com/search?q=%23BABYMONSTER_RORA) | N/A |
+| 42 | [#4YearsWithScenery](http://twitter.com/search?q=%234YearsWithScenery) | N/A |
+| 43 | [#VarioUS_D1](http://twitter.com/search?q=%23VarioUS_D1) | N/A |
+| 44 | [#StayWithOhm](http://twitter.com/search?q=%23StayWithOhm) | N/A |
+| 45 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 
 
 

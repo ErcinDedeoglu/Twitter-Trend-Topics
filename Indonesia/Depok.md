@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-01-29 18:16:02 UTC`
+📆 Last Updated: `2023-01-29 19:15:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 4 | [#11YearsWithBaekhyun](http://twitter.com/search?q=%2311YearsWithBaekhyun) | N/A |
 | 5 | [#큥_데뷔11주년_축하해](http://twitter.com/search?q=%23%ed%81%a5_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 6 | [#11YearsWithKyungsoo](http://twitter.com/search?q=%2311YearsWithKyungsoo) | N/A |
-| 7 | [Berani](http://twitter.com/search?q=Berani) | N/A |
-| 8 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 9 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 10 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 11 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 12 | [Monza](http://twitter.com/search?q=Monza) | N/A |
-| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 14 | [PULL UP MV TEASER 2](http://twitter.com/search?q=PULL+UP+MV+TEASER+2) | PULL UP MV TEASER 2 is an abbreviation for "Pull Up Music Video Teaser 2". It is a phrase used to describe a short video clip that is released as a teaser for an upcoming music video. The phrase implies that the viewer should "pull up" the video, or watch it, in order to get a preview of what the full music video will be like. |
+| 6 | [#경수와_걸어온_11년](http://twitter.com/search?q=%23%ea%b2%bd%ec%88%98%ec%99%80_%ea%b1%b8%ec%96%b4%ec%98%a8_11%eb%85%84) | N/A |
+| 7 | [#11YearsWithKyungsoo](http://twitter.com/search?q=%2311YearsWithKyungsoo) | N/A |
+| 8 | [Berani](http://twitter.com/search?q=Berani) | N/A |
+| 9 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 10 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 11 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 12 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 13 | [Monza](http://twitter.com/search?q=Monza) | N/A |
+| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 15 | [THANK YOU NCT](http://twitter.com/search?q=THANK+YOU+NCT) | N/A |
 | 16 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 17 | [YOUNGJI](http://twitter.com/search?q=YOUNGJI) | YOUNGJI is a Korean name, which means “eternal wisdom” in English. |
-| 18 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 19 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
-| 20 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 21 | [Fav Song](http://twitter.com/search?q=Fav+Song) | N/A |
-| 22 | [4 YEARS WITH RYUJIN](http://twitter.com/search?q=4+YEARS+WITH+RYUJIN) | N/A |
+| 17 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 18 | [YOUNGJI](http://twitter.com/search?q=YOUNGJI) | YOUNGJI is a Korean name, which means “eternal wisdom” in English. |
+| 19 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 20 | [PULL UP MV TEASER 2](http://twitter.com/search?q=PULL+UP+MV+TEASER+2) | PULL UP MV TEASER 2 is an abbreviation for "Pull Up Music Video Teaser 2". It is a phrase used to describe a short video clip that is released as a teaser for an upcoming music video. The phrase implies that the viewer should "pull up" the video, or watch it, in order to get a preview of what the full music video will be like. |
+| 21 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 22 | [Fav Song](http://twitter.com/search?q=Fav+Song) | N/A |
 | 23 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 24 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 25 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 26 | [Lomba](http://twitter.com/search?q=Lomba) | N/A |
-| 27 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
-| 28 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 29 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
-| 30 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
-| 31 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 32 | [Tatarusanu](http://twitter.com/search?q=Tatarusanu) | Tatarusanu is a Romanian surname. It is derived from the word "tatar" which means "Tartar". The literal translation of Tatarusanu into English would be "son of the Tartar". |
+| 24 | [Lomba](http://twitter.com/search?q=Lomba) | N/A |
+| 25 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
+| 26 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 27 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 28 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 29 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 30 | [Tatarusanu](http://twitter.com/search?q=Tatarusanu) | Tatarusanu is a Romanian surname. It is derived from the word "tatar" which means "Tartar". The literal translation of Tatarusanu into English would be "son of the Tartar". |
+| 31 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
+| 32 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
 | 33 | [Shoot Me](http://twitter.com/search?q=Shoot+Me) | N/A |
-| 34 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 35 | [The Day](http://twitter.com/search?q=The+Day) | N/A |
-| 36 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 37 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 38 | [Code](http://twitter.com/search?q=Code) | N/A |
-| 39 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
-| 40 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
-| 41 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
-| 42 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
-| 43 | [Ay-Yo](http://twitter.com/search?q=Ay-Yo) | Ay-Yo is an expression used to express excitement or enthusiasm. It is similar to the phrase "Oh yeah!" and can be used to show agreement or excitement about something. In English, it can be translated as "Yeah!" or "Yay!". |
-| 44 | [#경수와_걸어온_11년](http://twitter.com/search?q=%23%ea%b2%bd%ec%88%98%ec%99%80_%ea%b1%b8%ec%96%b4%ec%98%a8_11%eb%85%84) | N/A |
-| 45 | [#11YearsWithDO](http://twitter.com/search?q=%2311YearsWithDO) | N/A |
-| 46 | [#BABYMONSTER_RORA](http://twitter.com/search?q=%23BABYMONSTER_RORA) | N/A |
-| 47 | [#CrashCourseInRomanceEp6](http://twitter.com/search?q=%23CrashCourseInRomanceEp6) | N/A |
-| 48 | [#ForeverWithBTS](http://twitter.com/search?q=%23ForeverWithBTS) | N/A |
+| 34 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 35 | [Code](http://twitter.com/search?q=Code) | N/A |
+| 36 | [Nagi](http://twitter.com/search?q=Nagi) | N/A |
+| 37 | [FA Cup](http://twitter.com/search?q=FA+Cup) | The FA Cup is an annual knockout football competition in England. It is the oldest football competition in the world and is run by The Football Association (FA). The FA Cup is open to any club in the top four tiers of English football, from the Premier League down to the semi-professional leagues. The tournament culminates with a final at Wembley Stadium, usually held in May. |
+| 38 | [#11YearsWithDO](http://twitter.com/search?q=%2311YearsWithDO) | N/A |
+| 39 | [#CrashCourseInRomanceEp6](http://twitter.com/search?q=%23CrashCourseInRomanceEp6) | N/A |
+| 40 | [#ForeverWithBTS](http://twitter.com/search?q=%23ForeverWithBTS) | N/A |
+| 41 | [#BABYMONSTER_RORA](http://twitter.com/search?q=%23BABYMONSTER_RORA) | N/A |
+| 42 | [#BetweenUsFinalEP](http://twitter.com/search?q=%23BetweenUsFinalEP) | #BetweenUsFinalEP is a hashtag used to promote the final episode of the web series Between Us. The hashtag is used to encourage viewers to watch the finale and share their thoughts on social media. In English, it means "The Final Episode of Between Us". |
+| 43 | [#4YearsWithScenery](http://twitter.com/search?q=%234YearsWithScenery) | N/A |
+| 44 | [#VarioUS_D1](http://twitter.com/search?q=%23VarioUS_D1) | N/A |
+| 45 | [#StayWithOhm](http://twitter.com/search?q=%23StayWithOhm) | N/A |
+| 46 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 
 
 
