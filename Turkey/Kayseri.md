@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-01-29 22:15:13 UTC`
+📆 Last Updated: `2023-01-29 23:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Haber Odak](http://twitter.com/search?q=Haber+Odak) | Haber Odak is a Turkish phrase that translates to "news focus" or "news center." It is used to refer to a news outlet or organization that focuses on providing news coverage. |
-| 2 | [YağmurTepe Osurdu](http://twitter.com/search?q=Ya%c4%9fmurTepe+Osurdu) | YağmurTepe Osurdu is a Turkish proverb that literally translates to "The Rain Hill has Settled". It is used to express the idea that a difficult situation has been resolved or settled. |
+| 2 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | N/A |
 | 3 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
 | 4 | [#KadıköydeSkandalVAR](http://twitter.com/search?q=%23Kad%c4%b1k%c3%b6ydeSkandalVAR) | #KadıköydeSkandalVAR is a hashtag used on social media in Turkey to refer to a scandal involving the Kadıköy district of Istanbul. It is used to draw attention to news stories or events related to the scandal. In English, it translates to "There's a Scandal in Kadıköy". |
-| 5 | [#BullBnb](http://twitter.com/search?q=%23BullBnb) | BullBnb is a cryptocurrency-based peer-to-peer rental platform. It allows users to rent out their homes, apartments, and other properties for short-term stays. The platform is powered by the BULL token, which is used to facilitate payments and transactions on the platform. The name BullBnb is derived from the combination of "Bull" (the token) and "bnb" (short for bed and breakfast). |
-| 6 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
-| 7 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 5 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
+| 6 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 7 | [ALİ HAYDAR ÇELEBİ](http://twitter.com/search?q=AL%c4%b0+HAYDAR+%c3%87ELEB%c4%b0) | N/A |
 | 8 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
-| 9 | [ALİ HAYDAR ÇELEBİ](http://twitter.com/search?q=AL%c4%b0+HAYDAR+%c3%87ELEB%c4%b0) | N/A |
+| 9 | [Melek Mızrak Subaşı](http://twitter.com/search?q=Melek+M%c4%b1zrak+Suba%c5%9f%c4%b1) | N/A |
 | 10 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 11 | [Melek Mızrak Subaşı](http://twitter.com/search?q=Melek+M%c4%b1zrak+Suba%c5%9f%c4%b1) | N/A |
-| 12 | [MerkezTaşraAyrımınaSon](http://twitter.com/search?q=MerkezTa%c5%9fraAyr%c4%b1m%c4%b1naSon) | MerkezTaşraAyrımınaSon is a Turkish phrase that translates to "The End of the Center-Periphery Divide". It is used to refer to the idea of breaking down the traditional divide between urban and rural areas in terms of access to resources, services, and opportunities. |
-| 13 | [Gençlerle Buluşma](http://twitter.com/search?q=Gen%c3%a7lerle+Bulu%c5%9fma) | Gençlerle Buluşma is a Turkish phrase that translates to "Meeting with the Youth". It is often used to refer to a gathering or event where young people come together to discuss topics of interest. |
-| 14 | [Kural](http://twitter.com/search?q=Kural) | Kural is a Tamil classic written by the poet Thiruvalluvar. It is a collection of couplets, each containing two lines of poetry, that are meant to provide moral guidance and wisdom. The English translation of Kural is "The Couplets of Virtue". |
-| 15 | [WE ARE OTTOMAN](http://twitter.com/search?q=WE+ARE+OTTOMAN) | N/A |
-| 16 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 11 | [WE ARE OTTOMAN](http://twitter.com/search?q=WE+ARE+OTTOMAN) | N/A |
+| 12 | [Kural](http://twitter.com/search?q=Kural) | Kural is a Tamil classic written by the poet Thiruvalluvar. It is a collection of couplets, each containing two lines of poetry, that are meant to provide moral guidance and wisdom. The English translation of Kural is "The Couplets of Virtue". |
+| 13 | [Yusuf Güney](http://twitter.com/search?q=Yusuf+G%c3%bcney) | N/A |
+| 14 | [Defne](http://twitter.com/search?q=Defne) | N/A |
+| 15 | [Ceylin](http://twitter.com/search?q=Ceylin) | Ceylin is a Turkish female name derived from the Persian word for “moonlight”. In English, it can be translated to mean “moonlight” or “radiant light”. |
+| 16 | [Ilgaz](http://twitter.com/search?q=Ilgaz) | Ilgaz is a Turkish name derived from the word "ilgaz," which means "attraction" or "allure." It is also the name of a mountain range in Turkey. |
 | 17 | [13 Şubat](http://twitter.com/search?q=13+%c5%9eubat) | N/A |
-| 18 | [Ilgaz](http://twitter.com/search?q=Ilgaz) | Ilgaz is a Turkish name derived from the word "ilgaz," which means "attraction" or "allure." It is also the name of a mountain range in Turkey. |
-| 19 | [Defne](http://twitter.com/search?q=Defne) | N/A |
-| 20 | [Yusuf Güney](http://twitter.com/search?q=Yusuf+G%c3%bcney) | N/A |
-| 21 | [Ceylin](http://twitter.com/search?q=Ceylin) | Ceylin is a Turkish female name derived from the Persian word for “moonlight”. In English, it can be translated to mean “moonlight” or “radiant light”. |
-| 22 | [Batshuayi](http://twitter.com/search?q=Batshuayi) | Batshuayi is the surname of Belgian professional footballer Michy Batshuayi. It is not an English word and does not have a direct translation. |
-| 23 | [Derya](http://twitter.com/search?q=Derya) | N/A |
-| 24 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
-| 25 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 26 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 27 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
-| 28 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 29 | [Fitil](http://twitter.com/search?q=Fitil) | N/A |
-| 30 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 31 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
-| 32 | [Ofsaytımsı](http://twitter.com/search?q=Ofsayt%c4%b1ms%c4%b1) | Ofsaytımsı is a Turkish phrase that translates to "I'm sorry" in English. It is used as an apology or expression of regret. |
-| 33 | [Aytaç](http://twitter.com/search?q=Ayta%c3%a7) | N/A |
-| 34 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
-| 35 | [Nazlı](http://twitter.com/search?q=Nazl%c4%b1) | N/A |
-| 36 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
-| 37 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 38 | [Aylin](http://twitter.com/search?q=Aylin) | N/A |
-| 39 | [Ersin](http://twitter.com/search?q=Ersin) | Ersin is a Turkish name derived from the ancient Persian word "ersan", meaning "hero". It is also used as a surname in some parts of Turkey. |
-| 40 | [Yeni MHK](http://twitter.com/search?q=Yeni+MHK) | N/A |
-| 41 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | N/A |
-| 42 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 43 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | N/A |
+| 18 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 19 | [Batshuayi](http://twitter.com/search?q=Batshuayi) | Batshuayi is the surname of Belgian professional footballer Michy Batshuayi. It is not an English word and does not have a direct translation. |
+| 20 | [Derya](http://twitter.com/search?q=Derya) | N/A |
+| 21 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
+| 22 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
+| 23 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 24 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
+| 25 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
+| 26 | [Fitil](http://twitter.com/search?q=Fitil) | N/A |
+| 27 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 28 | [Teşekkürler Amasya](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Amasya) | N/A |
+| 29 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
+| 30 | [Nazlı](http://twitter.com/search?q=Nazl%c4%b1) | N/A |
+| 31 | [Aytaç](http://twitter.com/search?q=Ayta%c3%a7) | N/A |
+| 32 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
+| 33 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 34 | [Ofsaytımsı](http://twitter.com/search?q=Ofsayt%c4%b1ms%c4%b1) | Ofsaytımsı is a Turkish phrase that translates to "I'm sorry" in English. It is used as an apology or expression of regret. |
+| 35 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 36 | [Yeni MHK](http://twitter.com/search?q=Yeni+MHK) | N/A |
+| 37 | [Ersin](http://twitter.com/search?q=Ersin) | Ersin is a Turkish name derived from the ancient Persian word "ersan", meaning "hero". It is also used as a surname in some parts of Turkey. |
+| 38 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 39 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | N/A |
+| 40 | [Sema](http://twitter.com/search?q=Sema) | N/A |
+| 41 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 42 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 43 | [Batuhan](http://twitter.com/search?q=Batuhan) | N/A |
 | 44 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 45 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 46 | [Teşekkürler Amasya](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Amasya) | N/A |
-| 47 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 48 | [Sema](http://twitter.com/search?q=Sema) | N/A |
+| 45 | [Rıdvan Dilmen](http://twitter.com/search?q=R%c4%b1dvan+Dilmen) | N/A |
+| 46 | [Fenerli](http://twitter.com/search?q=Fenerli) | N/A |
+| 47 | [Dilek](http://twitter.com/search?q=Dilek) | N/A |
+| 48 | [Szalai](http://twitter.com/search?q=Szalai) | Szalai is a Hungarian surname. It is derived from the word szalámi, which means "salami" in English. |
 
 
 

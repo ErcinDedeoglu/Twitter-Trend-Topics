@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-01-29 22:15:22 UTC`
+📆 Last Updated: `2023-01-29 23:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 2 | [Gente de Zona](http://twitter.com/search?q=Gente+de+Zona) | Gente de Zona is a Cuban reggaeton and Latin pop group founded in 2000 by Alexander Delgado and Randy Malcom. The name of the group translates to "people from the neighborhood" in English, referring to their roots in the Cuban music scene. The group has released several albums and singles, including their hit single "La Gozadera" which won a Latin Grammy Award for Best Urban Performance in 2015. |
-| 3 | [#FestivalDeLasCondes](http://twitter.com/search?q=%23FestivalDeLasCondes) | #FestivalDeLasCondes is an annual music festival held in Las Condes, Chile. It features a variety of musical genres, including rock, pop, hip-hop, and electronic music. The festival is held over the course of two days and includes live performances from both local and international artists. In English, the phrase translates to "Festival of Las Condes". |
-| 4 | [Parisi](http://twitter.com/search?q=Parisi) | N/A |
-| 5 | [Moya](http://twitter.com/search?q=Moya) | N/A |
-| 6 | [Benegas](http://twitter.com/search?q=Benegas) | N/A |
-| 7 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 8 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 9 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 10 | [#MesaCentral](http://twitter.com/search?q=%23MesaCentral) | N/A |
-| 11 | [#OHIvsCCxTNTSports](http://twitter.com/search?q=%23OHIvsCCxTNTSports) | N/A |
-| 12 | [Plaza Egaña](http://twitter.com/search?q=Plaza+Ega%c3%b1a) | N/A |
-| 13 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
-| 14 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
-| 15 | [Ramiro González](http://twitter.com/search?q=Ramiro+Gonz%c3%a1lez) | Ramiro González is a Spanish name. It is composed of two parts: Ramiro, which is a Spanish given name derived from the Germanic name Raginmar, meaning "famous judgment"; and González, which is a Spanish surname derived from the Latin word Gundisalvus, meaning "battle-ready". In English, the name would be translated as "Famous Judgment Battle-Ready". |
-| 16 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 17 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 18 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 19 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 20 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 21 | [Pablo Zuñiga](http://twitter.com/search?q=Pablo+Zu%c3%b1iga) | Pablo Zuñiga is a Spanish surname. In English, it means "son of Zuñiga". |
-| 22 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 23 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 24 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 25 | [ABAJO EL COMUNISMO](http://twitter.com/search?q=ABAJO+EL+COMUNISMO) | N/A |
-| 26 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 27 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
-| 28 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 29 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
-| 30 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 31 | [Milad](http://twitter.com/search?q=Milad) | N/A |
-| 32 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 33 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
-| 34 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 35 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
-| 36 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 37 | [Holocausto](http://twitter.com/search?q=Holocausto) | N/A |
-| 38 | [Donoso](http://twitter.com/search?q=Donoso) | N/A |
-| 39 | [Gerard Romero](http://twitter.com/search?q=Gerard+Romero) | Gerard Romero is a Spanish name. It is derived from the Germanic name Gerard, which means "brave spearman". |
-| 40 | [Ormazábal](http://twitter.com/search?q=Ormaz%c3%a1bal) | N/A |
-| 41 | [Hospital Barros Luco](http://twitter.com/search?q=Hospital+Barros+Luco) | N/A |
-| 42 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 43 | [Juan Sutil](http://twitter.com/search?q=Juan+Sutil) | N/A |
-| 44 | [renato poblete](http://twitter.com/search?q=renato+poblete) | N/A |
-| 45 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 46 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 47 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 48 | [Bichi](http://twitter.com/search?q=Bichi) | N/A |
-| 49 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 50 | [Isapres](http://twitter.com/search?q=Isapres) | N/A |
+| 2 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 3 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 4 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 5 | [Ramiro González](http://twitter.com/search?q=Ramiro+Gonz%c3%a1lez) | Ramiro González is a Spanish name. It is composed of two parts: Ramiro, which is a Spanish given name derived from the Germanic name Raginmar, meaning "famous judgment"; and González, which is a Spanish surname derived from the Latin word Gundisalvus, meaning "battle-ready". In English, the name would be translated as "Famous Judgment Battle-Ready". |
+| 6 | [#OHIvsCCxTNTSports](http://twitter.com/search?q=%23OHIvsCCxTNTSports) | N/A |
+| 7 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 8 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
+| 9 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 10 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 11 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
+| 12 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 13 | [Moya](http://twitter.com/search?q=Moya) | N/A |
+| 14 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 15 | [Donoso](http://twitter.com/search?q=Donoso) | N/A |
+| 16 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
+| 17 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 18 | [Bruno Gutiérrez](http://twitter.com/search?q=Bruno+Guti%c3%a9rrez) | N/A |
+| 19 | [Opazo](http://twitter.com/search?q=Opazo) | N/A |
+| 20 | [Plaza Egaña](http://twitter.com/search?q=Plaza+Ega%c3%b1a) | N/A |
+| 21 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 22 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 23 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 24 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
+| 25 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 26 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 27 | [Suazo](http://twitter.com/search?q=Suazo) | N/A |
+| 28 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 29 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 30 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 31 | [Lola](http://twitter.com/search?q=Lola) | N/A |
+| 32 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 33 | [Parisi](http://twitter.com/search?q=Parisi) | N/A |
+| 34 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 35 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 36 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 37 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
+| 38 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 39 | [#ApagaEl13](http://twitter.com/search?q=%23ApagaEl13) | N/A |
+| 40 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 41 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 42 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 43 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 44 | [#BoricDemente](http://twitter.com/search?q=%23BoricDemente) | N/A |
+| 45 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 46 | [Gente de Zona](http://twitter.com/search?q=Gente+de+Zona) | Gente de Zona is a Cuban reggaeton and Latin pop group founded in 2000 by Alexander Delgado and Randy Malcom. The name of the group translates to "people from the neighborhood" in English, referring to their roots in the Cuban music scene. The group has released several albums and singles, including their hit single "La Gozadera" which won a Latin Grammy Award for Best Urban Performance in 2015. |
+| 47 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 48 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 49 | [#ListaDelIndulto](http://twitter.com/search?q=%23ListaDelIndulto) | N/A |
 
 
 

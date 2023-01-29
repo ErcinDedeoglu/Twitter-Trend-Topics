@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-01-29 22:14:49 UTC`
+📆 Last Updated: `2023-01-29 23:15:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MASTERCARDGRAZWOSP](http://twitter.com/search?q=%23MASTERCARDGRAZWOSP) | N/A |
+| 1 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
 | 2 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
 | 3 | [#LEGKOR](http://twitter.com/search?q=%23LEGKOR) | N/A |
-| 4 | [#StrefaStarcia](http://twitter.com/search?q=%23StrefaStarcia) | N/A |
-| 5 | [#PIAJAG](http://twitter.com/search?q=%23PIAJAG) | N/A |
+| 4 | [#PIAJAG](http://twitter.com/search?q=%23PIAJAG) | N/A |
+| 5 | [#StrefaStarcia](http://twitter.com/search?q=%23StrefaStarcia) | N/A |
 | 6 | [#LGDWPŁ](http://twitter.com/search?q=%23LGDWP%c5%81) | N/A |
-| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 7 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
 | 8 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
-| 9 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 10 | [Korony](http://twitter.com/search?q=Korony) | N/A |
-| 11 | [Iranie](http://twitter.com/search?q=Iranie) | N/A |
+| 9 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 10 | [Iranie](http://twitter.com/search?q=Iranie) | N/A |
+| 11 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
 | 12 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
-| 13 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
-| 14 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
-| 15 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 16 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 13 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 14 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 15 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
+| 16 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
 | 17 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
-| 18 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
-| 19 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 20 | [Augustyniak](http://twitter.com/search?q=Augustyniak) | N/A |
+| 18 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 19 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
+| 20 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
 | 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 22 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 23 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 24 | [pogoń](http://twitter.com/search?q=pogo%c5%84) | N/A |
-| 25 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
-| 26 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 23 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
+| 24 | [ochojska](http://twitter.com/search?q=ochojska) | N/A |
+| 25 | [Augustyniak](http://twitter.com/search?q=Augustyniak) | N/A |
+| 26 | [Kneblewski](http://twitter.com/search?q=Kneblewski) | N/A |
 | 27 | [Muci](http://twitter.com/search?q=Muci) | N/A |
-| 28 | [Orkiestry](http://twitter.com/search?q=Orkiestry) | N/A |
-| 29 | [Carlitosa](http://twitter.com/search?q=Carlitosa) | N/A |
-| 30 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
-| 31 | [tudora](http://twitter.com/search?q=tudora) | N/A |
+| 28 | [kropiwnicki](http://twitter.com/search?q=kropiwnicki) | N/A |
+| 29 | [bad mitterndorf](http://twitter.com/search?q=bad+mitterndorf) | N/A |
+| 30 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
+| 31 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
 | 32 | [Ksiądz](http://twitter.com/search?q=Ksi%c4%85dz) | N/A |
-| 33 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
-| 34 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
-| 35 | [Gual](http://twitter.com/search?q=Gual) | N/A |
+| 33 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
+| 34 | [Orkiestry](http://twitter.com/search?q=Orkiestry) | N/A |
+| 35 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
 | 36 | [siema](http://twitter.com/search?q=siema) | N/A |
-| 37 | [Kneblewski](http://twitter.com/search?q=Kneblewski) | N/A |
-| 38 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 39 | [Niemieckiej](http://twitter.com/search?q=Niemieckiej) | N/A |
-| 40 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
-| 41 | [Babis](http://twitter.com/search?q=Babis) | N/A |
-| 42 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
-| 43 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
-| 44 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
-| 45 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 46 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 47 | [Gramy](http://twitter.com/search?q=Gramy) | N/A |
-| 48 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 49 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 50 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 37 | [Gual](http://twitter.com/search?q=Gual) | N/A |
+| 38 | [tudora](http://twitter.com/search?q=tudora) | N/A |
+| 39 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
+| 40 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 41 | [Niemieckiej](http://twitter.com/search?q=Niemieckiej) | N/A |
+| 42 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 43 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
+| 44 | [dubaju](http://twitter.com/search?q=dubaju) | N/A |
+| 45 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
+| 46 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 47 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 48 | [Neapolu](http://twitter.com/search?q=Neapolu) | N/A |
+| 49 | [Babis](http://twitter.com/search?q=Babis) | N/A |
+| 50 | [Josue](http://twitter.com/search?q=Josue) | N/A |
 
 
 

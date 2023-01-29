@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-01-29 22:15:24 UTC`
+📆 Last Updated: `2023-01-29 23:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 2 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 3 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 1 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 2 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
+| 3 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
 | 4 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 5 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
-| 6 | [#NFLxFSMX](http://twitter.com/search?q=%23NFLxFSMX) | N/A |
-| 7 | [#NFLPlayoffsEnTUDN](http://twitter.com/search?q=%23NFLPlayoffsEnTUDN) | N/A |
-| 8 | [Juanpa](http://twitter.com/search?q=Juanpa) | N/A |
-| 9 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 10 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 11 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
-| 12 | [Jelty](http://twitter.com/search?q=Jelty) | N/A |
-| 13 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
-| 14 | [HUMBE NEW ERA](http://twitter.com/search?q=HUMBE+NEW+ERA) | N/A |
-| 15 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 16 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 17 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 18 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 19 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 20 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | N/A |
-| 21 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
-| 22 | [4to QB](http://twitter.com/search?q=4to+QB) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Robleis](http://twitter.com/search?q=Robleis) | N/A |
-| 25 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 26 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 27 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
-| 28 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
-| 29 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
-| 30 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 31 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 32 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 33 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 34 | [Devonta Smith](http://twitter.com/search?q=Devonta+Smith) | Devonta Smith is a name of an American football wide receiver for the Philadelphia Eagles of the National Football League (NFL). The name Devonta is derived from the Latin word "devons" which means "to be devoted". |
-| 35 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
-| 36 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
-| 37 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
-| 38 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 39 | [Grefg](http://twitter.com/search?q=Grefg) | N/A |
-| 40 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
-| 41 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
-| 42 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 43 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
-| 44 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 45 | [DOCTOR SLIME](http://twitter.com/search?q=DOCTOR+SLIME) | N/A |
-| 46 | [lola indigo](http://twitter.com/search?q=lola+indigo) | N/A |
-| 47 | [Cota](http://twitter.com/search?q=Cota) | N/A |
-| 48 | [Barreiro](http://twitter.com/search?q=Barreiro) | N/A |
-| 49 | [Kunno](http://twitter.com/search?q=Kunno) | N/A |
-| 50 | [REBORN ROLEPLAYER DEL AÑO](http://twitter.com/search?q=REBORN+ROLEPLAYER+DEL+A%c3%91O) | N/A |
+| 5 | [#NFLxFSMX](http://twitter.com/search?q=%23NFLxFSMX) | N/A |
+| 6 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 7 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 8 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 9 | [#NFLPlayoffsEnTUDN](http://twitter.com/search?q=%23NFLPlayoffsEnTUDN) | N/A |
+| 10 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 11 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
+| 12 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 13 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 14 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 15 | [Juanpa](http://twitter.com/search?q=Juanpa) | N/A |
+| 16 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 17 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 18 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
+| 19 | [Jhayco](http://twitter.com/search?q=Jhayco) | N/A |
+| 20 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
+| 21 | [HUMBE NEW ERA](http://twitter.com/search?q=HUMBE+NEW+ERA) | N/A |
+| 22 | [Trent Williams](http://twitter.com/search?q=Trent+Williams) | Trent Williams is an American football offensive tackle for the San Francisco 49ers of the National Football League (NFL). He was drafted by the Washington Redskins fourth overall in the 2010 NFL Draft. He has been selected to seven Pro Bowls and is considered one of the best offensive tackles in the NFL. |
+| 23 | [Zilverk](http://twitter.com/search?q=Zilverk) | N/A |
+| 24 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 25 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
+| 26 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 27 | [Jelty](http://twitter.com/search?q=Jelty) | N/A |
+| 28 | [Gabriel Caballero](http://twitter.com/search?q=Gabriel+Caballero) | N/A |
+| 29 | [Lola](http://twitter.com/search?q=Lola) | N/A |
+| 30 | [Reborn](http://twitter.com/search?q=Reborn) | N/A |
+| 31 | [Maxo](http://twitter.com/search?q=Maxo) | N/A |
+| 32 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
+| 33 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 34 | [JUAN ROLEPLAYER DEL AÑO](http://twitter.com/search?q=JUAN+ROLEPLAYER+DEL+A%c3%91O) | N/A |
+| 35 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 36 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
+| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 38 | [Robleis](http://twitter.com/search?q=Robleis) | N/A |
+| 39 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
+| 40 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 41 | [4to QB](http://twitter.com/search?q=4to+QB) | N/A |
+| 42 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 43 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 44 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
+| 45 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 46 | [Conferencia Nacional](http://twitter.com/search?q=Conferencia+Nacional) | N/A |
+| 47 | [PROUD OF QUACKITY](http://twitter.com/search?q=PROUD+OF+QUACKITY) | N/A |
+| 48 | [Juan y Ari](http://twitter.com/search?q=Juan+y+Ari) | N/A |
+| 49 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 50 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 
 
 

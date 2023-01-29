@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-01-29 22:14:52 UTC`
+📆 Last Updated: `2023-01-29 23:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 2 | [#B04BVB](http://twitter.com/search?q=%23B04BVB) | N/A |
-| 3 | [#S04KOE](http://twitter.com/search?q=%23S04KOE) | N/A |
-| 4 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 5 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 7 | [#FCBSGE](http://twitter.com/search?q=%23FCBSGE) | N/A |
-| 8 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 9 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 10 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 11 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
-| 12 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 2 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 3 | [#B04BVB](http://twitter.com/search?q=%23B04BVB) | N/A |
+| 4 | [#S04KOE](http://twitter.com/search?q=%23S04KOE) | N/A |
+| 5 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
+| 6 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 7 | [#ranNFL](http://twitter.com/search?q=%23ranNFL) | N/A |
+| 8 | [#HSVEBS](http://twitter.com/search?q=%23HSVEBS) | N/A |
+| 9 | [Sterne](http://twitter.com/search?q=Sterne) | N/A |
+| 10 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 11 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 12 | [Finale](http://twitter.com/search?q=Finale) | N/A |
 | 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 14 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 15 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
-| 16 | [Dschungelkönig](http://twitter.com/search?q=Dschungelk%c3%b6nig) | N/A |
-| 17 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
-| 18 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 19 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 20 | [Saarbrücken](http://twitter.com/search?q=Saarbr%c3%bccken) | N/A |
-| 21 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 22 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 23 | [Ralle](http://twitter.com/search?q=Ralle) | N/A |
-| 24 | [Latza](http://twitter.com/search?q=Latza) | N/A |
-| 25 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 26 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 27 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 28 | [U-Boote](http://twitter.com/search?q=U-Boote) | N/A |
-| 29 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 30 | [Krone](http://twitter.com/search?q=Krone) | N/A |
-| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 14 | [Dr. Bob](http://twitter.com/search?q=Dr.+Bob) | N/A |
+| 15 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 16 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 17 | [Krone](http://twitter.com/search?q=Krone) | N/A |
+| 18 | [Ratten](http://twitter.com/search?q=Ratten) | N/A |
+| 19 | [Sonja](http://twitter.com/search?q=Sonja) | N/A |
+| 20 | [Schnorchel](http://twitter.com/search?q=Schnorchel) | N/A |
+| 21 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
+| 22 | [Kakerlaken](http://twitter.com/search?q=Kakerlaken) | N/A |
+| 23 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 24 | [Saarbrücken](http://twitter.com/search?q=Saarbr%c3%bccken) | N/A |
+| 25 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 26 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 27 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 28 | [ralle](http://twitter.com/search?q=ralle) | N/A |
+| 29 | [Latza](http://twitter.com/search?q=Latza) | N/A |
+| 30 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 31 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 32 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 33 | [Maaßen](http://twitter.com/search?q=Maa%c3%9fen) | N/A |
-| 34 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 35 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 36 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 37 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 33 | [Lippen](http://twitter.com/search?q=Lippen) | N/A |
+| 34 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 35 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 36 | [U-Boote](http://twitter.com/search?q=U-Boote) | N/A |
+| 37 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 38 | [Zunge](http://twitter.com/search?q=Zunge) | N/A |
+| 39 | [Unterhose](http://twitter.com/search?q=Unterhose) | N/A |
 | 40 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 41 | [Gegentor](http://twitter.com/search?q=Gegentor) | N/A |
-| 42 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 43 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 44 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 45 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
-| 46 | [Häme](http://twitter.com/search?q=H%c3%a4me) | N/A |
-| 47 | [Kral](http://twitter.com/search?q=Kral) | N/A |
-| 48 | [Stellplatz](http://twitter.com/search?q=Stellplatz) | N/A |
-| 49 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
-| 50 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 41 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 42 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 44 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 46 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 47 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 49 | [gegentor](http://twitter.com/search?q=gegentor) | N/A |
+| 50 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
 
 
 
