@@ -4,27 +4,27 @@
 
 📊 Top 50 Trending Topics For Da Nang
 
-📆 Last Updated: `2023-01-29 14:45:38 UTC`
+📆 Last Updated: `2023-01-29 15:02:46 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for [Vietnam](Vietnam)
+This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 
 
 
-## Other Regions in [Vietnam](Vietnam)
+## Other Regions in [Vietnam](</Vietnam>)
 
-* [Hanoi](Hanoi.md)
-* [Hai Phong](Hai+Phong.md)
-* [Can Tho](Can+Tho.md)
-* [Da Nang](Da+Nang.md)
-* [Ho Chi Minh City](Ho+Chi+Minh+City.md)
+* [Hanoi](</Vietnam/Hanoi.md>)
+* [Hai Phong](</Vietnam/Hai Phong.md>)
+* [Can Tho](</Vietnam/Can Tho.md>)
+* [Da Nang](</Vietnam/Da Nang.md>)
+* [Ho Chi Minh City](</Vietnam/Ho Chi Minh City.md>)
 
 
 

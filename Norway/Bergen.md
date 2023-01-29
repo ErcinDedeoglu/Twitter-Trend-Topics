@@ -4,28 +4,28 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-01-29 14:45:34 UTC`
+📆 Last Updated: `2023-01-29 15:02:41 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for [Norway](Norway)
+This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#nrkmgp](http://twitter.com/search?q=%23nrkmgp) | N/A |
-| 2 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 3 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |
-| 4 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 5 | [Slavia Praha](http://twitter.com/search?q=Slavia+Praha) | N/A |
-| 6 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 7 | [Skrellex](http://twitter.com/search?q=Skrellex) | N/A |
-| 8 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 10 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 11 | [Gordon](http://twitter.com/search?q=Gordon) | N/A |
+| 1 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 2 | [#nrkmgp](http://twitter.com/search?q=%23nrkmgp) | N/A |
+| 3 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 4 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |
+| 5 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 6 | [Slavia Praha](http://twitter.com/search?q=Slavia+Praha) | N/A |
+| 7 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 8 | [Skrellex](http://twitter.com/search?q=Skrellex) | N/A |
+| 9 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 10 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 11 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 12 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
 | 13 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 14 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Norway](Norway)
 | 34 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
 | 35 | [sveits](http://twitter.com/search?q=sveits) | N/A |
 | 36 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 37 | [Finnes](http://twitter.com/search?q=Finnes) | N/A |
+| 37 | [finnes](http://twitter.com/search?q=finnes) | N/A |
 | 38 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
 | 39 | [#Oslo](http://twitter.com/search?q=%23Oslo) | N/A |
 | 40 | [Stjernen](http://twitter.com/search?q=Stjernen) | N/A |
@@ -66,10 +66,10 @@ This is top 50 for [Norway](Norway)
 
 
 
-## Other Regions in [Norway](Norway)
+## Other Regions in [Norway](</Norway>)
 
-* [Bergen](Bergen.md)
-* [Oslo](Oslo.md)
+* [Bergen](</Norway/Bergen.md>)
+* [Oslo](</Norway/Oslo.md>)
 
 
 

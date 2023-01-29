@@ -4,26 +4,26 @@
 
 📊 Top 50 Trending Topics For Gomel
 
-📆 Last Updated: `2023-01-29 14:45:34 UTC`
+📆 Last Updated: `2023-01-29 15:02:41 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for [Belarus](Belarus)
+This is top 50 for [Belarus](</Belarus>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 
 
 
-## Other Regions in [Belarus](Belarus)
+## Other Regions in [Belarus](</Belarus>)
 
-* [Brest](Brest.md)
-* [Grodno](Grodno.md)
-* [Gomel](Gomel.md)
-* [Minsk](Minsk.md)
+* [Brest](</Belarus/Brest.md>)
+* [Grodno](</Belarus/Grodno.md>)
+* [Gomel](</Belarus/Gomel.md>)
+* [Minsk](</Belarus/Minsk.md>)
 
 
 

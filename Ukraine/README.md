@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-01-29 14:45:49 UTC`
+📆 Last Updated: `2023-01-29 15:02:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,18 +18,18 @@ This is top 50 for Ukraine
 | 1 | [Ирана](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd%d0%b0) | N/A |
 | 2 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 3 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 4 | [#democracyunderattack](http://twitter.com/search?q=%23democracyunderattack) | N/A |
-| 5 | [Kherson](http://twitter.com/search?q=Kherson) | N/A |
-| 6 | [#YoutubeAgainstHumanity](http://twitter.com/search?q=%23YoutubeAgainstHumanity) | N/A |
-| 7 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
-| 8 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
-| 9 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 10 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 4 | [Kherson](http://twitter.com/search?q=Kherson) | N/A |
+| 5 | [#YoutubeAgainstHumanity](http://twitter.com/search?q=%23YoutubeAgainstHumanity) | N/A |
+| 6 | [#DemocracyUnderAttack](http://twitter.com/search?q=%23DemocracyUnderAttack) | N/A |
+| 7 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 8 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
+| 9 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 10 | [#freedomofspeech](http://twitter.com/search?q=%23freedomofspeech) | N/A |
 | 11 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 12 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
 | 13 | [Vuhledar](http://twitter.com/search?q=Vuhledar) | N/A |
-| 14 | [Challenger 2](http://twitter.com/search?q=Challenger+2) | N/A |
-| 15 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 14 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 15 | [Challenger 2](http://twitter.com/search?q=Challenger+2) | N/A |
 | 16 | [#youtubeagainsttruth](http://twitter.com/search?q=%23youtubeagainsttruth) | N/A |
 | 17 | [Чехии](http://twitter.com/search?q=%d0%a7%d0%b5%d1%85%d0%b8%d0%b8) | N/A |
 | 18 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
@@ -37,13 +37,13 @@ This is top 50 for Ukraine
 | 20 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
 | 21 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
 | 22 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 23 | [Кремле](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
-| 24 | [бахмутом](http://twitter.com/search?q=%d0%b1%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%be%d0%bc) | N/A |
-| 25 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 26 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 27 | [База](http://twitter.com/search?q=%d0%91%d0%b0%d0%b7%d0%b0) | N/A |
+| 23 | [База](http://twitter.com/search?q=%d0%91%d0%b0%d0%b7%d0%b0) | N/A |
+| 24 | [кремле](http://twitter.com/search?q=%d0%ba%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
+| 25 | [бахмутом](http://twitter.com/search?q=%d0%b1%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%be%d0%bc) | N/A |
+| 26 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 27 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
 | 28 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 29 | [скорее](http://twitter.com/search?q=%d1%81%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 29 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
 | 30 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
 | 31 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
 | 32 | [Херсон](http://twitter.com/search?q=%d0%a5%d0%b5%d1%80%d1%81%d0%be%d0%bd) | N/A |
@@ -51,32 +51,32 @@ This is top 50 for Ukraine
 | 34 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | N/A |
 | 35 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 36 | [Тупо](http://twitter.com/search?q=%d0%a2%d1%83%d0%bf%d0%be) | N/A |
-| 37 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
-| 38 | [Armed Forces of Ukraine](http://twitter.com/search?q=Armed+Forces+of+Ukraine) | N/A |
-| 39 | [пригожин](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd) | N/A |
+| 37 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 38 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 39 | [Armed Forces of Ukraine](http://twitter.com/search?q=Armed+Forces+of+Ukraine) | N/A |
 | 40 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
 | 41 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
 | 42 | [мариуполь](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
 | 43 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
-| 44 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 45 | [Спати](http://twitter.com/search?q=%d0%a1%d0%bf%d0%b0%d1%82%d0%b8) | N/A |
+| 44 | [спати](http://twitter.com/search?q=%d1%81%d0%bf%d0%b0%d1%82%d0%b8) | N/A |
+| 45 | [Ясно](http://twitter.com/search?q=%d0%af%d1%81%d0%bd%d0%be) | N/A |
 | 46 | [Порошенко](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 47 | [днепре](http://twitter.com/search?q=%d0%b4%d0%bd%d0%b5%d0%bf%d1%80%d0%b5) | N/A |
 | 48 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
-| 49 | [Показуйте](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b7%d1%83%d0%b9%d1%82%d0%b5) | N/A |
-| 50 | [Отож](http://twitter.com/search?q=%d0%9e%d1%82%d0%be%d0%b6) | N/A |
+| 49 | [Пригожин](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd) | N/A |
+| 50 | [Показуйте](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b7%d1%83%d0%b9%d1%82%d0%b5) | N/A |
 
 
 
 # Regions
 
-* [Dnipropetrovsk](Dnipropetrovsk.md)
-* [Donetsk](Donetsk.md)
-* [Kharkiv](Kharkiv.md)
-* [Kyiv](Kyiv.md)
-* [Lviv](Lviv.md)
-* [Odesa](Odesa.md)
-* [Zaporozhye](Zaporozhye.md)
+* [Dnipropetrovsk](</Ukraine/Dnipropetrovsk.md>)
+* [Donetsk](</Ukraine/Donetsk.md>)
+* [Kharkiv](</Ukraine/Kharkiv.md>)
+* [Kyiv](</Ukraine/Kyiv.md>)
+* [Lviv](</Ukraine/Lviv.md>)
+* [Odesa](</Ukraine/Odesa.md>)
+* [Zaporozhye](</Ukraine/Zaporozhye.md>)
 
 
 

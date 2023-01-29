@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-01-29 14:45:43 UTC`
+📆 Last Updated: `2023-01-29 15:02:52 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for [New Zealand](New+Zealand)
+This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -42,7 +42,7 @@ This is top 50 for [New Zealand](New+Zealand)
 | 25 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
 | 26 | [Tāmaki Makaurau](http://twitter.com/search?q=T%c4%81maki+Makaurau) | N/A |
 | 27 | [simon wilson](http://twitter.com/search?q=simon+wilson) | N/A |
-| 28 | [Damien Grant](http://twitter.com/search?q=Damien+Grant) | N/A |
+| 28 | [damien grant](http://twitter.com/search?q=damien+grant) | N/A |
 | 29 | [savabeel](http://twitter.com/search?q=savabeel) | N/A |
 | 30 | [#welvper](http://twitter.com/search?q=%23welvper) | N/A |
 | 31 | [desley simpson](http://twitter.com/search?q=desley+simpson) | N/A |
@@ -68,9 +68,9 @@ This is top 50 for [New Zealand](New+Zealand)
 
 
 
-## Other Regions in [New Zealand](New+Zealand)
+## Other Regions in [New Zealand](</New Zealand>)
 
-* [Auckland](Auckland.md)
+* [Auckland](</New Zealand/Auckland.md>)
 
 
 

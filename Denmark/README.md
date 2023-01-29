@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-01-29 14:45:47 UTC`
+📆 Last Updated: `2023-01-29 15:02:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,32 +39,32 @@ This is top 50 for Denmark
 | 22 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 23 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
 | 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 25 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 26 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 27 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 28 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 29 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 30 | [bjur](http://twitter.com/search?q=bjur) | N/A |
-| 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 32 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
-| 33 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
-| 34 | [Farzam](http://twitter.com/search?q=Farzam) | N/A |
-| 35 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
-| 36 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [kender](http://twitter.com/search?q=kender) | N/A |
-| 39 | [Sjovt](http://twitter.com/search?q=Sjovt) | N/A |
-| 40 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
-| 41 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
-| 42 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 43 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 44 | [jamen](http://twitter.com/search?q=jamen) | N/A |
-| 45 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 46 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
-| 47 | [Forstår](http://twitter.com/search?q=Forst%c3%a5r) | N/A |
-| 48 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 49 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 27 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 28 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 29 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 30 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 31 | [bjur](http://twitter.com/search?q=bjur) | N/A |
+| 32 | [Farzam](http://twitter.com/search?q=Farzam) | N/A |
+| 33 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 34 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
+| 35 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 36 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
+| 37 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [kender](http://twitter.com/search?q=kender) | N/A |
+| 40 | [Sjovt](http://twitter.com/search?q=Sjovt) | N/A |
+| 41 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
+| 42 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
+| 43 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 44 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 45 | [jamen](http://twitter.com/search?q=jamen) | N/A |
+| 46 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 47 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
+| 48 | [Forstår](http://twitter.com/search?q=Forst%c3%a5r) | N/A |
+| 49 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 50 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 
 
 

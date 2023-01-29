@@ -4,29 +4,29 @@
 
 📊 Top 50 Trending Topics For Kharkiv
 
-📆 Last Updated: `2023-01-29 14:45:34 UTC`
+📆 Last Updated: `2023-01-29 15:02:42 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for [Ukraine](Ukraine)
+This is top 50 for [Ukraine](</Ukraine>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 
 
 
-## Other Regions in [Ukraine](Ukraine)
+## Other Regions in [Ukraine](</Ukraine>)
 
-* [Dnipropetrovsk](Dnipropetrovsk.md)
-* [Donetsk](Donetsk.md)
-* [Kharkiv](Kharkiv.md)
-* [Kyiv](Kyiv.md)
-* [Lviv](Lviv.md)
-* [Odesa](Odesa.md)
-* [Zaporozhye](Zaporozhye.md)
+* [Dnipropetrovsk](</Ukraine/Dnipropetrovsk.md>)
+* [Donetsk](</Ukraine/Donetsk.md>)
+* [Kharkiv](</Ukraine/Kharkiv.md>)
+* [Kyiv](</Ukraine/Kyiv.md>)
+* [Lviv](</Ukraine/Lviv.md>)
+* [Odesa](</Ukraine/Odesa.md>)
+* [Zaporozhye](</Ukraine/Zaporozhye.md>)
 
 
 

@@ -4,82 +4,82 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-01-29 14:45:34 UTC`
+📆 Last Updated: `2023-01-29 15:02:42 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for [Indonesia](Indonesia)
+This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 2 | [#PerindoNyataUntukRakyat](http://twitter.com/search?q=%23PerindoNyataUntukRakyat) | N/A |
 | 3 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 4 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 5 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 6 | [THANK YOU NCT](http://twitter.com/search?q=THANK+YOU+NCT) | N/A |
-| 7 | [#11YearsWithKyungsoo](http://twitter.com/search?q=%2311YearsWithKyungsoo) | N/A |
-| 8 | [#경수와_걸어온_11년](http://twitter.com/search?q=%23%ea%b2%bd%ec%88%98%ec%99%80_%ea%b1%b8%ec%96%b4%ec%98%a8_11%eb%85%84) | N/A |
-| 9 | [#11YearsWithDO](http://twitter.com/search?q=%2311YearsWithDO) | N/A |
-| 10 | [PULL UP MV TEASER 2](http://twitter.com/search?q=PULL+UP+MV+TEASER+2) | N/A |
+| 4 | [#11YearsWithKyungsoo](http://twitter.com/search?q=%2311YearsWithKyungsoo) | N/A |
+| 5 | [#경수와_걸어온_11년](http://twitter.com/search?q=%23%ea%b2%bd%ec%88%98%ec%99%80_%ea%b1%b8%ec%96%b4%ec%98%a8_11%eb%85%84) | N/A |
+| 6 | [#11YearsWithDO](http://twitter.com/search?q=%2311YearsWithDO) | N/A |
+| 7 | [THANK YOU NCT](http://twitter.com/search?q=THANK+YOU+NCT) | N/A |
+| 8 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 9 | [PULL UP MV TEASER 2](http://twitter.com/search?q=PULL+UP+MV+TEASER+2) | PULL UP MV TEASER 2 is an abbreviation for "Pull Up Music Video Teaser 2". It is a phrase used to describe a short video clip that is released as a teaser for an upcoming music video. The phrase implies that the viewer should "pull up" the video, or watch it, in order to get a preview of what the full music video will be like. |
+| 10 | [Monza](http://twitter.com/search?q=Monza) | N/A |
 | 11 | [Lomba](http://twitter.com/search?q=Lomba) | N/A |
-| 12 | [Tatarusanu](http://twitter.com/search?q=Tatarusanu) | Tatarusanu is a Romanian surname. It is derived from the word "tatar" which means "Tartar". The literal translation of Tatarusanu into English would be "son of the Tartar". |
-| 13 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
-| 14 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 15 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 16 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
-| 17 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 18 | [CONGRATS LEONIEL](http://twitter.com/search?q=CONGRATS+LEONIEL) | N/A |
-| 19 | [Right Through Me](http://twitter.com/search?q=Right+Through+Me) | N/A |
+| 12 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
+| 13 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 14 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 15 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 16 | [Tatarusanu](http://twitter.com/search?q=Tatarusanu) | Tatarusanu is a Romanian surname. It is derived from the word "tatar" which means "Tartar". The literal translation of Tatarusanu into English would be "son of the Tartar". |
+| 17 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
+| 18 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 19 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
 | 20 | [Shoot Me](http://twitter.com/search?q=Shoot+Me) | N/A |
-| 21 | [The Day](http://twitter.com/search?q=The+Day) | N/A |
-| 22 | [Fav Song](http://twitter.com/search?q=Fav+Song) | N/A |
+| 21 | [Fav Song](http://twitter.com/search?q=Fav+Song) | N/A |
+| 22 | [The Day](http://twitter.com/search?q=The+Day) | N/A |
 | 23 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 24 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
-| 25 | [Remember Us](http://twitter.com/search?q=Remember+Us) | N/A |
-| 26 | [Sobari](http://twitter.com/search?q=Sobari) | N/A |
-| 27 | [Great Hall](http://twitter.com/search?q=Great+Hall) | N/A |
-| 28 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 29 | [congrats jojo](http://twitter.com/search?q=congrats+jojo) | N/A |
-| 30 | [the babbies](http://twitter.com/search?q=the+babbies) | N/A |
-| 31 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 32 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 33 | [Chico](http://twitter.com/search?q=Chico) | N/A |
-| 34 | [Selamat Jojo](http://twitter.com/search?q=Selamat+Jojo) | N/A |
-| 35 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 36 | [Wang Chang](http://twitter.com/search?q=Wang+Chang) | N/A |
-| 37 | [Cukup](http://twitter.com/search?q=Cukup) | N/A |
+| 24 | [CONGRATS LEONIEL](http://twitter.com/search?q=CONGRATS+LEONIEL) | N/A |
+| 25 | [Right Through Me](http://twitter.com/search?q=Right+Through+Me) | N/A |
+| 26 | [Great Hall](http://twitter.com/search?q=Great+Hall) | N/A |
+| 27 | [calabria](http://twitter.com/search?q=calabria) | N/A |
+| 28 | [Remember Us](http://twitter.com/search?q=Remember+Us) | N/A |
+| 29 | [Sobari](http://twitter.com/search?q=Sobari) | N/A |
+| 30 | [congrats jojo](http://twitter.com/search?q=congrats+jojo) | N/A |
+| 31 | [the babbies](http://twitter.com/search?q=the+babbies) | N/A |
+| 32 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 33 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 34 | [Chico](http://twitter.com/search?q=Chico) | N/A |
+| 35 | [Selamat Jojo](http://twitter.com/search?q=Selamat+Jojo) | N/A |
+| 36 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 37 | [Intel](http://twitter.com/search?q=Intel) | N/A |
 | 38 | [Code](http://twitter.com/search?q=Code) | N/A |
-| 39 | [TREASURE](http://twitter.com/search?q=TREASURE) | N/A |
-| 40 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
-| 41 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 42 | [Aoba Johsai](http://twitter.com/search?q=Aoba+Johsai) | N/A |
-| 43 | [Jona](http://twitter.com/search?q=Jona) | N/A |
-| 44 | [Kiper](http://twitter.com/search?q=Kiper) | N/A |
-| 45 | [Cerdas](http://twitter.com/search?q=Cerdas) | N/A |
-| 46 | [Mas Duta](http://twitter.com/search?q=Mas+Duta) | N/A |
-| 47 | [Pasangan](http://twitter.com/search?q=Pasangan) | N/A |
-| 48 | [Tetangga](http://twitter.com/search?q=Tetangga) | N/A |
-| 49 | [Ay-Yo](http://twitter.com/search?q=Ay-Yo) | Ay-Yo is an expression used to express excitement or enthusiasm. It is similar to the phrase "Oh yeah!" and can be used to show agreement or excitement about something. In English, it can be translated as "Yeah!" or "Yay!". |
+| 39 | [Cukup](http://twitter.com/search?q=Cukup) | N/A |
+| 40 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 41 | [Cerdas](http://twitter.com/search?q=Cerdas) | N/A |
+| 42 | [Wang Chang](http://twitter.com/search?q=Wang+Chang) | N/A |
+| 43 | [TREASURE](http://twitter.com/search?q=TREASURE) | N/A |
+| 44 | [Aoba Johsai](http://twitter.com/search?q=Aoba+Johsai) | N/A |
+| 45 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
+| 46 | [Jona](http://twitter.com/search?q=Jona) | N/A |
+| 47 | [Kiper](http://twitter.com/search?q=Kiper) | N/A |
+| 48 | [Mas Duta](http://twitter.com/search?q=Mas+Duta) | N/A |
+| 49 | [Pasangan](http://twitter.com/search?q=Pasangan) | N/A |
 
 
 
-## Other Regions in [Indonesia](Indonesia)
+## Other Regions in [Indonesia](</Indonesia>)
 
-* [Bekasi](Bekasi.md)
-* [Depok](Depok.md)
-* [Pekanbaru](Pekanbaru.md)
-* [Surabaya](Surabaya.md)
-* [Makassar](Makassar.md)
-* [Bandung](Bandung.md)
-* [Jakarta](Jakarta.md)
-* [Medan](Medan.md)
-* [Palembang](Palembang.md)
-* [Semarang](Semarang.md)
-* [Tangerang](Tangerang.md)
+* [Bekasi](</Indonesia/Bekasi.md>)
+* [Depok](</Indonesia/Depok.md>)
+* [Pekanbaru](</Indonesia/Pekanbaru.md>)
+* [Surabaya](</Indonesia/Surabaya.md>)
+* [Makassar](</Indonesia/Makassar.md>)
+* [Bandung](</Indonesia/Bandung.md>)
+* [Jakarta](</Indonesia/Jakarta.md>)
+* [Medan](</Indonesia/Medan.md>)
+* [Palembang](</Indonesia/Palembang.md>)
+* [Semarang](</Indonesia/Semarang.md>)
+* [Tangerang](</Indonesia/Tangerang.md>)
 
 
 

@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-01-29 14:45:31 UTC`
+📆 Last Updated: `2023-01-29 15:02:38 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for [Poland](Poland)
+This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -25,24 +25,24 @@ This is top 50 for [Poland](Poland)
 | 8 | [Milanu](http://twitter.com/search?q=Milanu) | N/A |
 | 9 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
 | 10 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
-| 11 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 12 | [czechów](http://twitter.com/search?q=czech%c3%b3w) | N/A |
+| 11 | [czechów](http://twitter.com/search?q=czech%c3%b3w) | N/A |
+| 12 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
 | 13 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
 | 14 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
 | 15 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
-| 16 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
-| 17 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
-| 18 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
-| 19 | [ochojska](http://twitter.com/search?q=ochojska) | N/A |
-| 20 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
-| 21 | [Pogoń](http://twitter.com/search?q=Pogo%c5%84) | N/A |
-| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 23 | [piasta](http://twitter.com/search?q=piasta) | N/A |
-| 24 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
-| 25 | [jerozolimie](http://twitter.com/search?q=jerozolimie) | N/A |
-| 26 | [mielcu](http://twitter.com/search?q=mielcu) | N/A |
+| 16 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
+| 17 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 18 | [ochojska](http://twitter.com/search?q=ochojska) | N/A |
+| 19 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
+| 20 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 21 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
+| 22 | [Pogoń](http://twitter.com/search?q=Pogo%c5%84) | N/A |
+| 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 24 | [piasta](http://twitter.com/search?q=piasta) | N/A |
+| 25 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
+| 26 | [jerozolimie](http://twitter.com/search?q=jerozolimie) | N/A |
 | 27 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 28 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 28 | [mielcu](http://twitter.com/search?q=mielcu) | N/A |
 | 29 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
 | 30 | [Zagłębia](http://twitter.com/search?q=Zag%c5%82%c4%99bia) | N/A |
 | 31 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
@@ -67,14 +67,14 @@ This is top 50 for [Poland](Poland)
 
 
 
-## Other Regions in [Poland](Poland)
+## Other Regions in [Poland](</Poland>)
 
-* [Gdańsk](Gda%c5%84sk.md)
-* [Kraków](Krak%c3%b3w.md)
-* [Lodz](Lodz.md)
-* [Poznań](Pozna%c5%84.md)
-* [Warsaw](Warsaw.md)
-* [Wroclaw](Wroclaw.md)
+* [Gdańsk](</Poland/Gdańsk.md>)
+* [Kraków](</Poland/Kraków.md>)
+* [Lodz](</Poland/Lodz.md>)
+* [Poznań](</Poland/Poznań.md>)
+* [Warsaw](</Poland/Warsaw.md>)
+* [Wroclaw](</Poland/Wroclaw.md>)
 
 
 

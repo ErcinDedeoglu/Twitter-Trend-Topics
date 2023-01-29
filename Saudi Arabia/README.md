@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-01-29 14:45:49 UTC`
+📆 Last Updated: `2023-01-29 15:02:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,52 +22,53 @@ This is top 50 for Saudi Arabia
 | 5 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
 | 6 | [#كاس_سوبر_بيرين](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%b3%d9%88%d8%a8%d8%b1_%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
 | 7 | [#لجنه_الانضباط_والاخلاق](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
-| 8 | [#اداره_الهلال_خط_احمر](http://twitter.com/search?q=%23%d8%a7%d8%af%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%ae%d8%b7_%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 9 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
-| 10 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
+| 8 | [#البزنس54](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b354) | N/A |
+| 9 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
+| 10 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
 | 11 | [مالديني](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a) | N/A |
 | 12 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
 | 13 | [زلاتان](http://twitter.com/search?q=%d8%b2%d9%84%d8%a7%d8%aa%d8%a7%d9%86) | N/A |
-| 14 | [نادال](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d8%a7%d9%84) | N/A |
-| 15 | [استراليا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 16 | [الغرف السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%b1%d9%81+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 17 | [حسن الحويزي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d8%b2%d9%8a) | N/A |
-| 18 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
-| 19 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 20 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
-| 21 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 22 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 23 | [فوز الفيحاء](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
-| 24 | [الاتحاد اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 25 | [النقل المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
-| 26 | [نصير البسطاء](http://twitter.com/search?q=%d9%86%d8%b5%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d8%b3%d8%b7%d8%a7%d8%a1) | N/A |
-| 27 | [الرسايل الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%8a%d9%84+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 28 | [محمد بن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86) | N/A |
-| 29 | [جبران خليل جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86+%d8%ae%d9%84%d9%8a%d9%84+%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
-| 30 | [النسخه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 31 | [#البزنس54](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b354) | N/A |
-| 32 | [#نهايي_كاس_السوبر_السعودي](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 33 | [#سالم_الشمري](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d9%8a) | N/A |
-| 34 | [#محمد_بن_جرشان_في_ذمه_الله](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%ac%d8%b1%d8%b4%d8%a7%d9%86_%d9%81%d9%8a_%d8%b0%d9%85%d9%87_%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 35 | [#زد_رصيدك6](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%836) | N/A |
-| 36 | [#مساء_الخيرᅠ](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | N/A |
-| 37 | [#منصه_اجرها](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d8%a7%d8%ac%d8%b1%d9%87%d8%a7) | N/A |
-| 38 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 39 | [#اتحاد_الغرف_السعوديه](http://twitter.com/search?q=%23%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d8%ba%d8%b1%d9%81_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 40 | [#البزنس٥٣](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b3%d9%a5%d9%a3) | N/A |
-| 41 | [#كاس_بيرين_للسوبر_السعودي](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a8%d9%8a%d8%b1%d9%8a%d9%86_%d9%84%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 42 | [#مسابقه_اللهم_بك_اصبحنا](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%84%d9%87%d9%85_%d8%a8%d9%83_%d8%a7%d8%b5%d8%a8%d8%ad%d9%86%d8%a7) | N/A |
+| 14 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
+| 15 | [نادال](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d8%a7%d9%84) | N/A |
+| 16 | [استراليا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 17 | [فوز الفيحاء](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
+| 18 | [حسن الحويزي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d8%b2%d9%8a) | N/A |
+| 19 | [الدوري الايطالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a) | N/A |
+| 20 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 21 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 22 | [الاتحاد اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 23 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 24 | [النقل المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 25 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 26 | [النسخه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 27 | [نصير البسطاء](http://twitter.com/search?q=%d9%86%d8%b5%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d8%b3%d8%b7%d8%a7%d8%a1) | N/A |
+| 28 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 29 | [الرسايل الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%8a%d9%84+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
+| 30 | [محمد بن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86) | N/A |
+| 31 | [جبران خليل جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86+%d8%ae%d9%84%d9%8a%d9%84+%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
+| 32 | [#اداره_الهلال_خط_احمر](http://twitter.com/search?q=%23%d8%a7%d8%af%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%ae%d8%b7_%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 33 | [#نهايي_كاس_السوبر_السعودي](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 34 | [#مساء_الخيرᅠ](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | N/A |
+| 35 | [#سالم_الشمري](http://twitter.com/search?q=%23%d8%b3%d8%a7%d9%84%d9%85_%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d9%8a) | N/A |
+| 36 | [#زد_رصيدك6](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%836) | N/A |
+| 37 | [#محمد_بن_جرشان_في_ذمه_الله](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%ac%d8%b1%d8%b4%d8%a7%d9%86_%d9%81%d9%8a_%d8%b0%d9%85%d9%87_%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 38 | [#منصه_اجرها](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d8%a7%d8%ac%d8%b1%d9%87%d8%a7) | N/A |
+| 39 | [#كاس_بيرين_للسوبر_السعودي](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a8%d9%8a%d8%b1%d9%8a%d9%86_%d9%84%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 40 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
+| 41 | [#اتحاد_الغرف_السعوديه](http://twitter.com/search?q=%23%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d8%ba%d8%b1%d9%81_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 42 | [#البزنس٥٣](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b3%d9%a5%d9%a3) | N/A |
+| 43 | [#مسابقه_اللهم_بك_اصبحنا](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%84%d9%87%d9%85_%d8%a8%d9%83_%d8%a7%d8%b5%d8%a8%d8%ad%d9%86%d8%a7) | N/A |
 
 
 
 # Regions
 
-* [Medina](Medina.md)
-* [Dammam](Dammam.md)
-* [Riyadh](Riyadh.md)
-* [Jeddah](Jeddah.md)
-* [Mecca](Mecca.md)
-* [Ahsa](Ahsa.md)
+* [Medina](</Saudi Arabia/Medina.md>)
+* [Dammam](</Saudi Arabia/Dammam.md>)
+* [Riyadh](</Saudi Arabia/Riyadh.md>)
+* [Jeddah](</Saudi Arabia/Jeddah.md>)
+* [Mecca](</Saudi Arabia/Mecca.md>)
+* [Ahsa](</Saudi Arabia/Ahsa.md>)
 
 
 

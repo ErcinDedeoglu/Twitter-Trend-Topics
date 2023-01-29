@@ -4,14 +4,14 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-01-29 14:45:41 UTC`
+📆 Last Updated: `2023-01-29 15:02:50 UTC`
 
 🔧 Updated every 1 hour!
 
 
 ## Trends
 
-This is top 50 for [Oman](Oman)
+This is top 50 for [Oman](</Oman>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
@@ -23,9 +23,9 @@ This is top 50 for [Oman](Oman)
 | 6 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
 | 7 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 8 | [بورصة](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%b5%d8%a9) | N/A |
-| 9 | [الفتره العاشره](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d9%87) | N/A |
-| 10 | [خليفة](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d8%a9) | N/A |
-| 11 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
+| 9 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
+| 10 | [الفتره العاشره](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d8%b1%d9%87) | N/A |
+| 11 | [خليفة](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d8%a9) | N/A |
 | 12 | [نادي ظفار](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%b8%d9%81%d8%a7%d8%b1) | N/A |
 | 13 | [المجتمع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 | 14 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
@@ -41,7 +41,7 @@ This is top 50 for [Oman](Oman)
 | 24 | [تركيا](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
 | 25 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
 | 26 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 27 | [مهند](http://twitter.com/search?q=%d9%85%d9%87%d9%86%d8%af) | مهند is an Arabic name meaning "blessed". It is also used as a term of endearment. |
+| 27 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 | 28 | [التعاون](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | التعاون is an Arabic word meaning "cooperation" or "collaboration" in English. It refers to the act of working together to achieve a common goal. |
 | 29 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
 | 30 | [احمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
@@ -55,22 +55,22 @@ This is top 50 for [Oman](Oman)
 | 38 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
 | 39 | [بدر العلوي](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%8a) | N/A |
 | 40 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 41 | [المملكة العربية السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 42 | [بني بوعلي](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a8%d9%88%d8%b9%d9%84%d9%8a) | N/A |
-| 43 | [التواصل الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 44 | [٢٩ يناير](http://twitter.com/search?q=%d9%a2%d9%a9+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1) | N/A |
-| 45 | [دوري الدرجه الثانيه](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 46 | [سليمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | سليمان (Solomon) is a figure in the Bible and the Qur'an. He was a king of Israel and is known for his wisdom. In English, his name means "peaceful". |
-| 47 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 48 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 49 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 50 | [العمر المديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%af) | N/A |
+| 41 | [مهند](http://twitter.com/search?q=%d9%85%d9%87%d9%86%d8%af) | مهند is an Arabic name meaning "blessed". It is also used as a term of endearment. |
+| 42 | [المملكة العربية السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 43 | [بني بوعلي](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a8%d9%88%d8%b9%d9%84%d9%8a) | N/A |
+| 44 | [التواصل الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 45 | [٢٩ يناير](http://twitter.com/search?q=%d9%a2%d9%a9+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1) | N/A |
+| 46 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 47 | [دوري الدرجه الثانيه](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 48 | [سليمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | سليمان (Solomon) is a figure in the Bible and the Qur'an. He was a king of Israel and is known for his wisdom. In English, his name means "peaceful". |
+| 49 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 50 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 
 
 
-## Other Regions in [Oman](Oman)
+## Other Regions in [Oman](</Oman>)
 
-* [Muscat](Muscat.md)
+* [Muscat](</Oman/Muscat.md>)
 
 
 
