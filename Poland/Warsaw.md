@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-01-29 16:16:00 UTC`
+📆 Last Updated: `2023-01-29 17:15:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [#PIAJAG](http://twitter.com/search?q=%23PIAJAG) | N/A |
 | 5 | [#woronicza17](http://twitter.com/search?q=%23woronicza17) | N/A |
 | 6 | [#ślązag](http://twitter.com/search?q=%23%c5%9bl%c4%85zag) | N/A |
-| 7 | [Korony](http://twitter.com/search?q=Korony) | N/A |
-| 8 | [Iranie](http://twitter.com/search?q=Iranie) | N/A |
-| 9 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 7 | [Iranie](http://twitter.com/search?q=Iranie) | N/A |
+| 8 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 9 | [Korony](http://twitter.com/search?q=Korony) | N/A |
 | 10 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
-| 11 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
-| 12 | [czechów](http://twitter.com/search?q=czech%c3%b3w) | N/A |
-| 13 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
+| 11 | [Augustyniak](http://twitter.com/search?q=Augustyniak) | N/A |
+| 12 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
+| 13 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
 | 14 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 15 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 15 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
 | 16 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
 | 17 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
 | 18 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
-| 19 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
-| 20 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
-| 21 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
-| 22 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
-| 23 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 24 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 25 | [pogoń](http://twitter.com/search?q=pogo%c5%84) | N/A |
-| 26 | [piasta](http://twitter.com/search?q=piasta) | N/A |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 19 | [Ochojska](http://twitter.com/search?q=Ochojska) | N/A |
+| 20 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
+| 23 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 24 | [Kropiwnicki](http://twitter.com/search?q=Kropiwnicki) | N/A |
+| 25 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 27 | [pogoń](http://twitter.com/search?q=pogo%c5%84) | N/A |
+| 28 | [jerozolimie](http://twitter.com/search?q=jerozolimie) | N/A |
 | 29 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
-| 30 | [jerozolimie](http://twitter.com/search?q=jerozolimie) | N/A |
-| 31 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
-| 32 | [mielcu](http://twitter.com/search?q=mielcu) | N/A |
-| 33 | [zagłębia](http://twitter.com/search?q=zag%c5%82%c4%99bia) | N/A |
-| 34 | [tudora](http://twitter.com/search?q=tudora) | N/A |
-| 35 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 30 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
+| 31 | [mielcu](http://twitter.com/search?q=mielcu) | N/A |
+| 32 | [zagłębia](http://twitter.com/search?q=zag%c5%82%c4%99bia) | N/A |
+| 33 | [tudora](http://twitter.com/search?q=tudora) | N/A |
+| 34 | [Rybakina](http://twitter.com/search?q=Rybakina) | Rybakina is a Russian surname. It is derived from the word "rybak" which means "fisherman" in English. |
+| 35 | [piasta](http://twitter.com/search?q=piasta) | N/A |
 | 36 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
 | 37 | [Hugo Nys](http://twitter.com/search?q=Hugo+Nys) | N/A |
 | 38 | [Siema](http://twitter.com/search?q=Siema) | N/A |
-| 39 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 40 | [jan zieliński](http://twitter.com/search?q=jan+zieli%c5%84ski) | N/A |
-| 41 | [Aryna Sabalenka](http://twitter.com/search?q=Aryna+Sabalenka) | Aryna Sabalenka is a Belarusian professional tennis player. She has won two singles and three doubles titles on the WTA Tour, as well as one singles and one doubles title on the ITF Women's Circuit. The name "Aryna" is derived from the Latin word for "noble" or "honorable", while "Sabalenka" is a Belarusian surname meaning "from the Sabala river". |
-| 42 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
-| 43 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 44 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 45 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 46 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 47 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 39 | [jan zieliński](http://twitter.com/search?q=jan+zieli%c5%84ski) | N/A |
+| 40 | [Legia](http://twitter.com/search?q=Legia) | N/A |
+| 41 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
+| 42 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
+| 43 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 44 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 45 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 46 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
+| 47 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
 | 48 | [Babis](http://twitter.com/search?q=Babis) | N/A |
 | 49 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
 | 50 | [Gramy](http://twitter.com/search?q=Gramy) | N/A |

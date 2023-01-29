@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-01-29 16:16:31 UTC`
+📆 Last Updated: `2023-01-29 17:15:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
-| 3 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 4 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 7 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 8 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 9 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | N/A |
-| 10 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 11 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 12 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 14 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
-| 15 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 16 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 17 | [As a Biden](http://twitter.com/search?q=As+a+Biden) | N/A |
-| 18 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
-| 19 | [Face the Nation](http://twitter.com/search?q=Face+the+Nation) | N/A |
-| 20 | [#AFCChampionship](http://twitter.com/search?q=%23AFCChampionship) | N/A |
-| 21 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 22 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
-| 23 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 24 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 25 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 26 | [Monza](http://twitter.com/search?q=Monza) | N/A |
-| 27 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 28 | [Game Dey](http://twitter.com/search?q=Game+Dey) | N/A |
-| 29 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 30 | [Eagles and Bengals](http://twitter.com/search?q=Eagles+and+Bengals) | N/A |
-| 31 | [Shazam 2](http://twitter.com/search?q=Shazam+2) | N/A |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 34 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
-| 35 | [Eagles and Chiefs](http://twitter.com/search?q=Eagles+and+Chiefs) | N/A |
-| 36 | [Mr. T](http://twitter.com/search?q=Mr.+T) | N/A |
-| 37 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 38 | [Eagles ML](http://twitter.com/search?q=Eagles+ML) | N/A |
-| 39 | [Daily Quordle 370](http://twitter.com/search?q=Daily+Quordle+370) | N/A |
-| 40 | [Football Sunday](http://twitter.com/search?q=Football+Sunday) | N/A |
-| 41 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
-| 42 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 43 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 44 | [Bengals and Eagles](http://twitter.com/search?q=Bengals+and+Eagles) | N/A |
-| 45 | [Darren McGavin](http://twitter.com/search?q=Darren+McGavin) | N/A |
-| 46 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 47 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 48 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 49 | [Essalud](http://twitter.com/search?q=Essalud) | N/A |
-| 50 | [WHODEY](http://twitter.com/search?q=WHODEY) | N/A |
+| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 3 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
+| 4 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 5 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 6 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 7 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 8 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 11 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 12 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
+| 13 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 14 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 15 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 16 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 17 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
+| 18 | [#NFCChampionship](http://twitter.com/search?q=%23NFCChampionship) | N/A |
+| 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 21 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 22 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 23 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
+| 24 | [As a Biden](http://twitter.com/search?q=As+a+Biden) | N/A |
+| 25 | [Face the Nation](http://twitter.com/search?q=Face+the+Nation) | N/A |
+| 26 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 27 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
+| 28 | [Team Sami or Team Roman](http://twitter.com/search?q=Team+Sami+or+Team+Roman) | N/A |
+| 29 | [Monza](http://twitter.com/search?q=Monza) | N/A |
+| 30 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 31 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 32 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 33 | [Shazam 2](http://twitter.com/search?q=Shazam+2) | N/A |
+| 34 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 35 | [Game Dey](http://twitter.com/search?q=Game+Dey) | N/A |
+| 36 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
+| 37 | [49ers and Bengals](http://twitter.com/search?q=49ers+and+Bengals) | N/A |
+| 38 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
+| 39 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 40 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 41 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
+| 42 | [YOUNGJI](http://twitter.com/search?q=YOUNGJI) | YOUNGJI is a Korean name, which means “eternal wisdom” in English. |
+| 43 | [Go Bengals](http://twitter.com/search?q=Go+Bengals) | N/A |
+| 44 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
+| 45 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
+| 46 | [HAPPY BIRTHDAY BIMBUS](http://twitter.com/search?q=HAPPY+BIRTHDAY+BIMBUS) | N/A |
+| 47 | [True Romance](http://twitter.com/search?q=True+Romance) | N/A |
+| 48 | [Mr. T](http://twitter.com/search?q=Mr.+T) | N/A |
+| 49 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 50 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
 
 
 
