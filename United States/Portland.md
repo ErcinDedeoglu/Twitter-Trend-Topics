@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-01-29 17:15:29 UTC`
+📆 Last Updated: `2023-01-29 18:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
-| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 5 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
-| 6 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 2 | [#BullBnb](http://twitter.com/search?q=%23BullBnb) | BullBnb is a cryptocurrency-based peer-to-peer rental platform. It allows users to rent out their homes, apartments, and other properties for short-term stays. The platform is powered by the BULL token, which is used to facilitate payments and transactions on the platform. The name BullBnb is derived from the combination of "Bull" (the token) and "bnb" (short for bed and breakfast). |
+| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 4 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
+| 5 | [Go Birds](http://twitter.com/search?q=Go+Birds) | Go Birds is a phrase used by fans of the Philadelphia Eagles, an American football team based in Philadelphia, Pennsylvania. It is used to show support for the team and is often shouted at games or other events. |
+| 6 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
+| 7 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 8 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
 | 9 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 10 | [Stetson Bennett](http://twitter.com/search?q=Stetson+Bennett) | Stetson Bennett is a nickname given to the University of Georgia's football quarterback, Stetson Bennett IV. The nickname is derived from his full name and the fact that he wears a Stetson hat on the sidelines during games. In English, it means "Stetson Bennett, the fourth." |
-| 11 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 12 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 13 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
-| 14 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 15 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
-| 16 | [#NFCChampionship](http://twitter.com/search?q=%23NFCChampionship) | N/A |
-| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 18 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 19 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 20 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
-| 21 | [As a Biden](http://twitter.com/search?q=As+a+Biden) | N/A |
-| 22 | [Face the Nation](http://twitter.com/search?q=Face+the+Nation) | N/A |
-| 23 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 24 | [Eagles and Bengals](http://twitter.com/search?q=Eagles+and+Bengals) | N/A |
-| 25 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
-| 26 | [Team Sami or Team Roman](http://twitter.com/search?q=Team+Sami+or+Team+Roman) | N/A |
-| 27 | [Monza](http://twitter.com/search?q=Monza) | N/A |
-| 28 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 29 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 30 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 31 | [Shazam 2](http://twitter.com/search?q=Shazam+2) | N/A |
-| 32 | [Eagles and Chiefs](http://twitter.com/search?q=Eagles+and+Chiefs) | N/A |
-| 33 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 34 | [Game Dey](http://twitter.com/search?q=Game+Dey) | N/A |
-| 35 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
-| 36 | [49ers and Bengals](http://twitter.com/search?q=49ers+and+Bengals) | N/A |
-| 37 | [Eagles -2.5](http://twitter.com/search?q=Eagles+-2.5) | N/A |
-| 38 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
-| 39 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 40 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 41 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
-| 42 | [YOUNGJI](http://twitter.com/search?q=YOUNGJI) | YOUNGJI is a Korean name, which means “eternal wisdom” in English. |
-| 43 | [Bengals and Eagles](http://twitter.com/search?q=Bengals+and+Eagles) | N/A |
-| 44 | [Eagles ML](http://twitter.com/search?q=Eagles+ML) | N/A |
-| 45 | [Go Bengals](http://twitter.com/search?q=Go+Bengals) | N/A |
-| 46 | [Bieniemy](http://twitter.com/search?q=Bieniemy) | N/A |
-| 47 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
-| 48 | [HAPPY BIRTHDAY BIMBUS](http://twitter.com/search?q=HAPPY+BIRTHDAY+BIMBUS) | N/A |
-| 49 | [True Romance](http://twitter.com/search?q=True+Romance) | N/A |
-| 50 | [Mr. T](http://twitter.com/search?q=Mr.+T) | N/A |
+| 10 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | N/A |
+| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 12 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 13 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 14 | [Zachary Levi](http://twitter.com/search?q=Zachary+Levi) | N/A |
+| 15 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 16 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 17 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
+| 18 | [Go Niners](http://twitter.com/search?q=Go+Niners) | N/A |
+| 19 | [As a Biden](http://twitter.com/search?q=As+a+Biden) | N/A |
+| 20 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 22 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | N/A |
+| 23 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 24 | [Jett Howard](http://twitter.com/search?q=Jett+Howard) | Jett Howard is a fictional character from the television series The Flash. He is the son of Harrison Wells and Tess Morgan, and is a speedster with the ability to manipulate time. His name is derived from the phrase "jet-setting Howard," which refers to someone who travels frequently and lives an exciting life. |
+| 25 | [Face the Nation](http://twitter.com/search?q=Face+the+Nation) | N/A |
+| 26 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
+| 27 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 28 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 29 | [Go Chiefs](http://twitter.com/search?q=Go+Chiefs) | N/A |
+| 30 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
+| 31 | [Team Sami or Team Roman](http://twitter.com/search?q=Team+Sami+or+Team+Roman) | N/A |
+| 32 | [49ers and Bengals](http://twitter.com/search?q=49ers+and+Bengals) | N/A |
+| 33 | [Shazam 2](http://twitter.com/search?q=Shazam+2) | N/A |
+| 34 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 35 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
+| 36 | [Schefter](http://twitter.com/search?q=Schefter) | Schefter is a slang term used to describe someone who is a fan of the NFL Network's Adam Schefter, an American sports journalist and analyst. It is often used to describe someone who follows NFL news closely and is up-to-date on the latest news and rumors. |
+| 37 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 38 | [Cheesecake Factory](http://twitter.com/search?q=Cheesecake+Factory) | N/A |
+| 39 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 40 | [Zegras](http://twitter.com/search?q=Zegras) | N/A |
+| 41 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 42 | [Margaret Brennan](http://twitter.com/search?q=Margaret+Brennan) | N/A |
+| 43 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 44 | [Football Sunday](http://twitter.com/search?q=Football+Sunday) | N/A |
+| 45 | [Bengals and 49ers](http://twitter.com/search?q=Bengals+and+49ers) | N/A |
+| 46 | [Darren McGavin](http://twitter.com/search?q=Darren+McGavin) | N/A |
+| 47 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 48 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | N/A |
+| 49 | [Lebron vs 9](http://twitter.com/search?q=Lebron+vs+9) | N/A |
 
 
 

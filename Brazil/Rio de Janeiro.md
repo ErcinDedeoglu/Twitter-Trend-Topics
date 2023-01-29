@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-01-29 17:15:00 UTC`
+📆 Last Updated: `2023-01-29 18:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
 | 3 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
 | 4 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 6 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 7 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 10 | [#FicaGabriel](http://twitter.com/search?q=%23FicaGabriel) | N/A |
-| 11 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 12 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 5 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 6 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
+| 7 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
+| 8 | [#BullBnb](http://twitter.com/search?q=%23BullBnb) | BullBnb is a cryptocurrency-based peer-to-peer rental platform. It allows users to rent out their homes, apartments, and other properties for short-term stays. The platform is powered by the BULL token, which is used to facilitate payments and transactions on the platform. The name BullBnb is derived from the combination of "Bull" (the token) and "bnb" (short for bed and breakfast). |
+| 9 | [#FicaGabriel](http://twitter.com/search?q=%23FicaGabriel) | N/A |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 12 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
 | 13 | [Tebet](http://twitter.com/search?q=Tebet) | Tebet is a district in South Jakarta, Indonesia. It is known for its traditional markets and its vibrant nightlife. The name Tebet comes from the Sanskrit word “tevata”, which means “temple”. |
-| 14 | [Vargas](http://twitter.com/search?q=Vargas) | N/A |
-| 15 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 16 | [Gleisi](http://twitter.com/search?q=Gleisi) | N/A |
-| 17 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 19 | [#FACupNaESPN](http://twitter.com/search?q=%23FACupNaESPN) | N/A |
-| 20 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 21 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 22 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 23 | [Niki](http://twitter.com/search?q=Niki) | N/A |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 26 | [Morumbi](http://twitter.com/search?q=Morumbi) | N/A |
-| 27 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 28 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
-| 29 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 30 | [Monza](http://twitter.com/search?q=Monza) | N/A |
-| 31 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 32 | [#BetweenUsFinalEP](http://twitter.com/search?q=%23BetweenUsFinalEP) | #BetweenUsFinalEP is a hashtag used to promote the final episode of the web series Between Us. The hashtag is used to encourage viewers to watch the finale and share their thoughts on social media. In English, it means "The Final Episode of Between Us". |
-| 33 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 34 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
-| 35 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 36 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
-| 37 | [Muriaé](http://twitter.com/search?q=Muria%c3%a9) | N/A |
-| 38 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 39 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 40 | [Ademir](http://twitter.com/search?q=Ademir) | N/A |
-| 41 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 42 | [Valen](http://twitter.com/search?q=Valen) | N/A |
-| 43 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
-| 44 | [Shazam](http://twitter.com/search?q=Shazam) | N/A |
-| 45 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
-| 46 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 47 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 48 | [Federer](http://twitter.com/search?q=Federer) | N/A |
-| 49 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 50 | [PACAEMBU](http://twitter.com/search?q=PACAEMBU) | N/A |
+| 14 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 15 | [Damage](http://twitter.com/search?q=Damage) | N/A |
+| 16 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
+| 17 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 18 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 19 | [Adriana Dias](http://twitter.com/search?q=Adriana+Dias) | N/A |
+| 20 | [#FACupNaESPN](http://twitter.com/search?q=%23FACupNaESPN) | N/A |
+| 21 | [Gleisi](http://twitter.com/search?q=Gleisi) | N/A |
+| 22 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 23 | [Vargas](http://twitter.com/search?q=Vargas) | N/A |
+| 24 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 25 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 26 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 27 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 28 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 29 | [Prodelta](http://twitter.com/search?q=Prodelta) | N/A |
+| 30 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
+| 33 | [Morumbi](http://twitter.com/search?q=Morumbi) | N/A |
+| 34 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 35 | [Hassum](http://twitter.com/search?q=Hassum) | N/A |
+| 36 | [niki](http://twitter.com/search?q=niki) | N/A |
+| 37 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 38 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
+| 39 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
+| 40 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 42 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
+| 43 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 44 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 45 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 46 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 47 | [Monza](http://twitter.com/search?q=Monza) | N/A |
+| 48 | [Resende](http://twitter.com/search?q=Resende) | N/A |
+| 49 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 50 | [Valen](http://twitter.com/search?q=Valen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-01-29 17:15:20 UTC`
+📆 Last Updated: `2023-01-29 18:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
-| 2 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 3 | [#AustralianOpen](http://twitter.com/search?q=%23AustralianOpen) | #AustralianOpen is the official hashtag for the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 4 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 5 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 6 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 7 | [भारतीय महिला क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | भारतीय महिला क्रिकेट टीम is the Indian Women's Cricket Team. It is the national cricket team representing India in international women's cricket matches. |
-| 8 | [U-19](http://twitter.com/search?q=U-19) | U-19 is an abbreviation for Under 19, which refers to a sports team or athlete who is under the age of 19. It is commonly used in youth sports leagues and tournaments. |
-| 9 | [God Kabir Nirvana Diwas](http://twitter.com/search?q=God+Kabir+Nirvana+Diwas) | God Kabir Nirvana Diwas is an annual celebration of the life and teachings of the 15th-century Indian mystic, poet, and saint, Kabir. The day marks the anniversary of his death and is celebrated by followers of Kabir throughout India. The literal translation of the phrase in English is "Kabir God's Day of Liberation". |
-| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 11 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 12 | [Love You Sushant](http://twitter.com/search?q=Love+You+Sushant) | N/A |
-| 13 | [England](http://twitter.com/search?q=England) | N/A |
-| 14 | [T-20](http://twitter.com/search?q=T-20) | N/A |
-| 15 | [लाल चौक](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%9a%e0%a5%8c%e0%a4%95) | लाल चौक (Lal Chauk) is a Hindi phrase that literally translates to "red square". It is used to refer to a place where people gather and socialize, such as a market or plaza. |
-| 16 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 17 | [DEPTH Campaign](http://twitter.com/search?q=DEPTH+Campaign) | N/A |
-| 18 | [भारतीय टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9f%e0%a5%80%e0%a4%ae) | N/A |
-| 19 | [Congratulations Girls](http://twitter.com/search?q=Congratulations+Girls) | N/A |
-| 20 | [टीम इंडिया](http://twitter.com/search?q=%e0%a4%9f%e0%a5%80%e0%a4%ae+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 22 | [किशोर दास](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b6%e0%a5%8b%e0%a4%b0+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 23 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 24 | [Ishan Kishan](http://twitter.com/search?q=Ishan+Kishan) | Ishan Kishan is an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. His name is derived from two Hindu gods, Isha and Kishan, which mean "Lord of the Universe" and "Protector of the Earth" respectively. In English, Ishan Kishan means "Lord of the Universe and Protector of the Earth". |
-| 25 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 26 | [Salabatpura](http://twitter.com/search?q=Salabatpura) | N/A |
-| 27 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 28 | [समाजवादी पार्टी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 29 | [स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | स्वास्थ्य मंत्री is a Hindi phrase meaning "Health Minister". It is used to refer to the minister responsible for health and medical services in India. |
-| 30 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
-| 31 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 32 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
-| 33 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
-| 34 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 35 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 1 | [#HindenburgReport](http://twitter.com/search?q=%23HindenburgReport) | N/A |
+| 2 | [#JACKSONININDIA](http://twitter.com/search?q=%23JACKSONININDIA) | N/A |
+| 3 | [#Adaniscam](http://twitter.com/search?q=%23Adaniscam) | N/A |
+| 4 | [#LollapaloozaIndia](http://twitter.com/search?q=%23LollapaloozaIndia) | N/A |
+| 5 | [भारतीय महिला क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | भारतीय महिला क्रिकेट टीम is the Indian Women's Cricket Team. It is the national cricket team representing India in international women's cricket matches. |
+| 6 | [U-19](http://twitter.com/search?q=U-19) | U-19 is an abbreviation for Under 19, which refers to a sports team or athlete who is under the age of 19. It is commonly used in youth sports leagues and tournaments. |
+| 7 | [God Kabir Nirvana Diwas](http://twitter.com/search?q=God+Kabir+Nirvana+Diwas) | God Kabir Nirvana Diwas is an annual celebration of the life and teachings of the 15th-century Indian mystic, poet, and saint, Kabir. The day marks the anniversary of his death and is celebrated by followers of Kabir throughout India. The literal translation of the phrase in English is "Kabir God's Day of Liberation". |
+| 8 | [Love You Sushant](http://twitter.com/search?q=Love+You+Sushant) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [T-20](http://twitter.com/search?q=T-20) | N/A |
+| 11 | [भारतीय टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9f%e0%a5%80%e0%a4%ae) | N/A |
+| 12 | [टीम इंडिया](http://twitter.com/search?q=%e0%a4%9f%e0%a5%80%e0%a4%ae+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 13 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 14 | [लाल चौक](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%9a%e0%a5%8c%e0%a4%95) | लाल चौक (Lal Chauk) is a Hindi phrase that literally translates to "red square". It is used to refer to a place where people gather and socialize, such as a market or plaza. |
+| 15 | [England](http://twitter.com/search?q=England) | N/A |
+| 16 | [किशोर दास](http://twitter.com/search?q=%e0%a4%95%e0%a4%bf%e0%a4%b6%e0%a5%8b%e0%a4%b0+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 17 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
+| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 19 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
+| 20 | [Salabatpura](http://twitter.com/search?q=Salabatpura) | N/A |
+| 21 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 22 | [DEPTH Campaign](http://twitter.com/search?q=DEPTH+Campaign) | N/A |
+| 23 | [Ishan Kishan](http://twitter.com/search?q=Ishan+Kishan) | Ishan Kishan is an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. His name is derived from two Hindu gods, Isha and Kishan, which mean "Lord of the Universe" and "Protector of the Earth" respectively. In English, Ishan Kishan means "Lord of the Universe and Protector of the Earth". |
+| 24 | [समाजवादी पार्टी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 25 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 26 | [Congratulations Girls](http://twitter.com/search?q=Congratulations+Girls) | N/A |
+| 27 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 28 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 29 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 30 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 31 | [स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | स्वास्थ्य मंत्री is a Hindi phrase meaning "Health Minister". It is used to refer to the minister responsible for health and medical services in India. |
+| 32 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
+| 33 | [क्रिकेट वर्ल्ड](http://twitter.com/search?q=%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b2%e0%a5%8d%e0%a4%a1) | N/A |
+| 34 | [Surya](http://twitter.com/search?q=Surya) | N/A |
+| 35 | [TROPHY AWAITS MC STAN](http://twitter.com/search?q=TROPHY+AWAITS+MC+STAN) | TROPHY AWAITS MC STAN is a phrase used to encourage someone to strive for success and recognition. It implies that if the person works hard and puts in the effort, they will be rewarded with a trophy or other form of recognition. |
 | 36 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 37 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
-| 38 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
-| 39 | [TROPHY AWAITS MC STAN](http://twitter.com/search?q=TROPHY+AWAITS+MC+STAN) | TROPHY AWAITS MC STAN is a phrase used to encourage someone to strive for success and recognition. It implies that if the person works hard and puts in the effort, they will be rewarded with a trophy or other form of recognition. |
+| 37 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
+| 38 | [Omm Shanti](http://twitter.com/search?q=Omm+Shanti) | N/A |
+| 39 | [ROAR LIKE SUMBUL](http://twitter.com/search?q=ROAR+LIKE+SUMBUL) | N/A |
 | 40 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 41 | [Omm Shanti](http://twitter.com/search?q=Omm+Shanti) | N/A |
-| 42 | [ROAR LIKE SUMBUL](http://twitter.com/search?q=ROAR+LIKE+SUMBUL) | N/A |
-| 43 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
-| 44 | [वर्ल्ड चैंपियन](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b2%e0%a5%8d%e0%a4%a1+%e0%a4%9a%e0%a5%88%e0%a4%82%e0%a4%aa%e0%a4%bf%e0%a4%af%e0%a4%a8) | N/A |
-| 45 | [Pandya](http://twitter.com/search?q=Pandya) | N/A |
-| 46 | [India Women](http://twitter.com/search?q=India+Women) | N/A |
-| 47 | [Indian U19](http://twitter.com/search?q=Indian+U19) | N/A |
-| 48 | [#U19T20WorldCup](http://twitter.com/search?q=%23U19T20WorldCup) | #U19T20WorldCup is the hashtag for the Under-19 T20 World Cup, an international cricket tournament for players under the age of 19. The tournament is organized by the International Cricket Council (ICC). |
-| 49 | [#INDVsNZT20](http://twitter.com/search?q=%23INDVsNZT20) | N/A |
+| 41 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
+| 42 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 43 | [Pandya](http://twitter.com/search?q=Pandya) | N/A |
+| 44 | [उज्जवल भविष्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b5%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%af) | N/A |
+| 45 | [वर्ल्ड चैंपियन](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b2%e0%a5%8d%e0%a4%a1+%e0%a4%9a%e0%a5%88%e0%a4%82%e0%a4%aa%e0%a4%bf%e0%a4%af%e0%a4%a8) | N/A |
+| 46 | [Lal Chowk](http://twitter.com/search?q=Lal+Chowk) | N/A |
+| 47 | [Article 370](http://twitter.com/search?q=Article+370) | N/A |
+| 48 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
+| 49 | [#U19T20WorldCup](http://twitter.com/search?q=%23U19T20WorldCup) | #U19T20WorldCup is the hashtag for the Under-19 T20 World Cup, an international cricket tournament for players under the age of 19. The tournament is organized by the International Cricket Council (ICC). |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seongnam
 
-📆 Last Updated: `2023-01-29 17:15:12 UTC`
+📆 Last Updated: `2023-01-29 18:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [트레일러](http://twitter.com/search?q=%ed%8a%b8%eb%a0%88%ec%9d%bc%eb%9f%ac) | 트레일러 is a term used in the film industry to refer to a promotional video or advertisement for an upcoming movie. It is usually released before the movie's release date and can be used to generate interest and excitement for the film. In English, it is referred to as a trailer. |
-| 2 | [#큥_데뷔11주년_축하해](http://twitter.com/search?q=%23%ed%81%a5_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 3 | [더보이즈](http://twitter.com/search?q=%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88) | 더보이즈 (The Boyz) is a South Korean boy band formed by Cre.Ker Entertainment in 2017. The group consists of twelve members: Sangyeon, Jacob, Younghoon, Hyunjae, Juyeon, Kevin, New, Q, Juhaknyeon, Sunwoo, Eric and Hwall. The group's name is an acronym for "The Boys of Zodiac". In English, it means "The Boys of the Zodiac". |
-| 4 | [이재현 얼굴](http://twitter.com/search?q=%ec%9d%b4%ec%9e%ac%ed%98%84+%ec%96%bc%ea%b5%b4) | N/A |
-| 5 | [피처링 라인업](http://twitter.com/search?q=%ed%94%bc%ec%b2%98%eb%a7%81+%eb%9d%bc%ec%9d%b8%ec%97%85) | 피처링 라인업 is a term used in the music industry to refer to the list of featured artists on a particular song or album. It is essentially a list of all the artists who have contributed to the project, including vocalists, instrumentalists, producers, and other contributors. In English, it can be translated as "featuring lineup". |
-| 6 | [꼬들 394](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+394) | N/A |
-| 7 | [#경수와_걸어온_11년](http://twitter.com/search?q=%23%ea%b2%bd%ec%88%98%ec%99%80_%ea%b1%b8%ec%96%b4%ec%98%a8_11%eb%85%84) | N/A |
-| 8 | [커버곡 녹음](http://twitter.com/search?q=%ec%bb%a4%eb%b2%84%ea%b3%a1+%eb%85%b9%ec%9d%8c) | N/A |
-| 9 | [상연오빠](http://twitter.com/search?q=%ec%83%81%ec%97%b0%ec%98%a4%eb%b9%a0) | N/A |
-| 10 | [#아기토끼_생일축하해_보답은_눈물로](http://twitter.com/search?q=%23%ec%95%84%ea%b8%b0%ed%86%a0%eb%81%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%eb%b3%b4%eb%8b%b5%ec%9d%80_%eb%88%88%eb%ac%bc%eb%a1%9c) | N/A |
-| 11 | [부석순 피처링](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c+%ed%94%bc%ec%b2%98%eb%a7%81) | N/A |
-| 12 | [전국노래자랑](http://twitter.com/search?q=%ec%a0%84%ea%b5%ad%eb%85%b8%eb%9e%98%ec%9e%90%eb%9e%91) | N/A |
-| 13 | [#쭈다_10주년_어서오라꾸](http://twitter.com/search?q=%23%ec%ad%88%eb%8b%a4_10%ec%a3%bc%eb%85%84_%ec%96%b4%ec%84%9c%ec%98%a4%eb%9d%bc%ea%be%b8) | N/A |
-| 14 | [수학의정석](http://twitter.com/search?q=%ec%88%98%ed%95%99%ec%9d%98%ec%a0%95%ec%84%9d) | N/A |
-| 15 | [#해찬이와시즈니](http://twitter.com/search?q=%23%ed%95%b4%ec%b0%ac%ec%9d%b4%ec%99%80%ec%8b%9c%ec%a6%88%eb%8b%88) | #해찬이와시즈니 is a hashtag used by fans of the South Korean singer and actor Haechan, who is a member of the K-pop group NCT. The hashtag translates to "Haechan and Cisney," which is a combination of Haechan's name and the English word "cisney," which is a portmanteau of "cute" and "Disney." |
+| 1 | [유플러스](http://twitter.com/search?q=%ec%9c%a0%ed%94%8c%eb%9f%ac%ec%8a%a4) | 유플러스 is a South Korean mobile payment service provider. It is a joint venture between SK Telecom and U.S.-based First Data Corporation. The name "유플러스" is an abbreviation of the phrase "Your Payment Service". It allows users to make payments for goods and services using their mobile phones. |
+| 2 | [남성과 연애함](http://twitter.com/search?q=%eb%82%a8%ec%84%b1%ea%b3%bc+%ec%97%b0%ec%95%a0%ed%95%a8) | 남성과 연애함 is a phrase that means "dating a man". It is used to describe the act of engaging in a romantic relationship with someone of the opposite sex. In English, it would be translated as "dating a man". |
+| 3 | [BL세계관](http://twitter.com/search?q=BL%ec%84%b8%ea%b3%84%ea%b4%80) | BL세계관 is an abbreviation for Boys' Love Worldview. It is a genre of fiction and entertainment that focuses on romantic relationships between male characters. The term is used to describe stories, films, manga, anime, and other media that feature romantic relationships between male characters. In English, it can be translated as "Boys' Love Worldview". |
+| 4 | [#큥_데뷔11주년_축하해](http://twitter.com/search?q=%23%ed%81%a5_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 5 | [설명보고 남돌](http://twitter.com/search?q=%ec%84%a4%eb%aa%85%eb%b3%b4%ea%b3%a0+%eb%82%a8%eb%8f%8c) | N/A |
+| 6 | [트레일러](http://twitter.com/search?q=%ed%8a%b8%eb%a0%88%ec%9d%bc%eb%9f%ac) | 트레일러 is a term used in the film industry to refer to a promotional video or advertisement for an upcoming movie. It is usually released before the movie's release date and can be used to generate interest and excitement for the film. In English, it is referred to as a trailer. |
+| 7 | [#인용으로_이_트친_오프_후기](http://twitter.com/search?q=%23%ec%9d%b8%ec%9a%a9%ec%9c%bc%eb%a1%9c_%ec%9d%b4_%ed%8a%b8%ec%b9%9c_%ec%98%a4%ed%94%84_%ed%9b%84%ea%b8%b0) | N/A |
+| 8 | [길고양이](http://twitter.com/search?q=%ea%b8%b8%ea%b3%a0%ec%96%91%ec%9d%b4) | N/A |
+| 9 | [피처링 라인업](http://twitter.com/search?q=%ed%94%bc%ec%b2%98%eb%a7%81+%eb%9d%bc%ec%9d%b8%ec%97%85) | 피처링 라인업 is a term used in the music industry to refer to the list of featured artists on a particular song or album. It is essentially a list of all the artists who have contributed to the project, including vocalists, instrumentalists, producers, and other contributors. In English, it can be translated as "featuring lineup". |
+| 10 | [수학의정석](http://twitter.com/search?q=%ec%88%98%ed%95%99%ec%9d%98%ec%a0%95%ec%84%9d) | N/A |
+| 11 | [이재현 얼굴](http://twitter.com/search?q=%ec%9d%b4%ec%9e%ac%ed%98%84+%ec%96%bc%ea%b5%b4) | N/A |
+| 12 | [회색도시](http://twitter.com/search?q=%ed%9a%8c%ec%83%89%eb%8f%84%ec%8b%9c) | 회색도시 is a Korean term that literally translates to "gray city". It is used to describe a city or urban area that has become dull and uninspiring due to a lack of economic development, cultural activities, and other forms of life. In English, it can be translated as "gray city" or "drab city". |
+| 13 | [델리만쥬](http://twitter.com/search?q=%eb%8d%b8%eb%a6%ac%eb%a7%8c%ec%a5%ac) | N/A |
+| 14 | [#코스어_트친소](http://twitter.com/search?q=%23%ec%bd%94%ec%8a%a4%ec%96%b4_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 15 | [꼬들 394](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+394) | N/A |
 | 16 | [야구배트](http://twitter.com/search?q=%ec%95%bc%ea%b5%ac%eb%b0%b0%ed%8a%b8) | N/A |
-| 17 | [델리만쥬](http://twitter.com/search?q=%eb%8d%b8%eb%a6%ac%eb%a7%8c%ec%a5%ac) | N/A |
-| 18 | [샘스미스](http://twitter.com/search?q=%ec%83%98%ec%8a%a4%eb%af%b8%ec%8a%a4) | N/A |
-| 19 | [늑대소년](http://twitter.com/search?q=%eb%8a%91%eb%8c%80%ec%86%8c%eb%85%84) | N/A |
-| 20 | [화력체크](http://twitter.com/search?q=%ed%99%94%eb%a0%a5%ec%b2%b4%ed%81%ac) | N/A |
-| 21 | [예측 1위](http://twitter.com/search?q=%ec%98%88%ec%b8%a1+1%ec%9c%84) | N/A |
-| 22 | [이번주도](http://twitter.com/search?q=%ec%9d%b4%eb%b2%88%ec%a3%bc%eb%8f%84) | N/A |
-| 23 | [일타스캔들](http://twitter.com/search?q=%ec%9d%bc%ed%83%80%ec%8a%a4%ec%ba%94%eb%93%a4) | N/A |
-| 24 | [타락천사](http://twitter.com/search?q=%ed%83%80%eb%9d%bd%ec%b2%9c%ec%82%ac) | N/A |
-| 25 | [브라이튼](http://twitter.com/search?q=%eb%b8%8c%eb%9d%bc%ec%9d%b4%ed%8a%bc) | N/A |
-| 26 | [MBTI별](http://twitter.com/search?q=MBTI%eb%b3%84) | N/A |
-| 27 | [마스크 해제](http://twitter.com/search?q=%eb%a7%88%ec%8a%a4%ed%81%ac+%ed%95%b4%ec%a0%9c) | N/A |
-| 28 | [선재해이](http://twitter.com/search?q=%ec%84%a0%ec%9e%ac%ed%95%b4%ec%9d%b4) | N/A |
-| 29 | [람보르기니](http://twitter.com/search?q=%eb%9e%8c%eb%b3%b4%eb%a5%b4%ea%b8%b0%eb%8b%88) | N/A |
-| 30 | [야사우사](http://twitter.com/search?q=%ec%95%bc%ec%82%ac%ec%9a%b0%ec%82%ac) | N/A |
-| 31 | [농구놀이](http://twitter.com/search?q=%eb%86%8d%ea%b5%ac%eb%86%80%ec%9d%b4) | N/A |
-| 32 | [회색도시](http://twitter.com/search?q=%ed%9a%8c%ec%83%89%eb%8f%84%ec%8b%9c) | 회색도시 is a Korean term that literally translates to "gray city". It is used to describe a city or urban area that has become dull and uninspiring due to a lack of economic development, cultural activities, and other forms of life. In English, it can be translated as "gray city" or "drab city". |
-| 33 | [랩게릴라](http://twitter.com/search?q=%eb%9e%a9%ea%b2%8c%eb%a6%b4%eb%9d%bc) | N/A |
-| 34 | [우지 소나기](http://twitter.com/search?q=%ec%9a%b0%ec%a7%80+%ec%86%8c%eb%82%98%ea%b8%b0) | N/A |
-| 35 | [돌박이일](http://twitter.com/search?q=%eb%8f%8c%eb%b0%95%ec%9d%b4%ec%9d%bc) | N/A |
-| 36 | [아이소 후기](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%ec%86%8c+%ed%9b%84%ea%b8%b0) | N/A |
-| 37 | [조코비치](http://twitter.com/search?q=%ec%a1%b0%ec%bd%94%eb%b9%84%ec%b9%98) | N/A |
-| 38 | [진입장벽](http://twitter.com/search?q=%ec%a7%84%ec%9e%85%ec%9e%a5%eb%b2%bd) | N/A |
-| 39 | [우성태섭](http://twitter.com/search?q=%ec%9a%b0%ec%84%b1%ed%83%9c%ec%84%ad) | N/A |
-| 40 | [실내 마스크](http://twitter.com/search?q=%ec%8b%a4%eb%82%b4+%eb%a7%88%ec%8a%a4%ed%81%ac) | N/A |
-| 41 | [다이나모](http://twitter.com/search?q=%eb%8b%a4%ec%9d%b4%eb%82%98%eb%aa%a8) | N/A |
-| 42 | [치열행선](http://twitter.com/search?q=%ec%b9%98%ec%97%b4%ed%96%89%ec%84%a0) | N/A |
-| 43 | [파라라이](http://twitter.com/search?q=%ed%8c%8c%eb%9d%bc%eb%9d%bc%ec%9d%b4) | N/A |
-| 44 | [축구선수와 연애](http://twitter.com/search?q=%ec%b6%95%ea%b5%ac%ec%84%a0%ec%88%98%ec%99%80+%ec%97%b0%ec%95%a0) | N/A |
-| 45 | [도망타입](http://twitter.com/search?q=%eb%8f%84%eb%a7%9d%ed%83%80%ec%9e%85) | N/A |
-| 46 | [독자 생카](http://twitter.com/search?q=%eb%8f%85%ec%9e%90+%ec%83%9d%ec%b9%b4) | N/A |
-| 47 | [전국투어](http://twitter.com/search?q=%ec%a0%84%ea%b5%ad%ed%88%ac%ec%96%b4) | N/A |
-| 48 | [이시가미](http://twitter.com/search?q=%ec%9d%b4%ec%8b%9c%ea%b0%80%eb%af%b8) | N/A |
-| 49 | [아브라카다브라](http://twitter.com/search?q=%ec%95%84%eb%b8%8c%eb%9d%bc%ec%b9%b4%eb%8b%a4%eb%b8%8c%eb%9d%bc) | N/A |
+| 17 | [더보이즈](http://twitter.com/search?q=%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88) | 더보이즈 (The Boyz) is a South Korean boy band formed by Cre.Ker Entertainment in 2017. The group consists of twelve members: Sangyeon, Jacob, Younghoon, Hyunjae, Juyeon, Kevin, New, Q, Juhaknyeon, Sunwoo, Eric and Hwall. The group's name is an acronym for "The Boys of Zodiac". In English, it means "The Boys of the Zodiac". |
+| 18 | [올스타전](http://twitter.com/search?q=%ec%98%ac%ec%8a%a4%ed%83%80%ec%a0%84) | N/A |
+| 19 | [엘지 인터넷](http://twitter.com/search?q=%ec%97%98%ec%a7%80+%ec%9d%b8%ed%84%b0%eb%84%b7) | 엘지 인터넷 is a South Korean internet service provider owned by LG Uplus, a subsidiary of the LG Corporation. It provides broadband internet access, IPTV, and mobile services. In English, it is known as LG Internet. |
+| 20 | [#코코페_트친소](http://twitter.com/search?q=%23%ec%bd%94%ec%bd%94%ed%8e%98_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 21 | [서바이벌 프로그램](http://twitter.com/search?q=%ec%84%9c%eb%b0%94%ec%9d%b4%eb%b2%8c+%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8) | N/A |
+| 22 | [샘스미스](http://twitter.com/search?q=%ec%83%98%ec%8a%a4%eb%af%b8%ec%8a%a4) | N/A |
+| 23 | [선입금 수령](http://twitter.com/search?q=%ec%84%a0%ec%9e%85%ea%b8%88+%ec%88%98%eb%a0%b9) | N/A |
+| 24 | [아이소 후기](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%ec%86%8c+%ed%9b%84%ea%b8%b0) | N/A |
+| 25 | [오케스트라](http://twitter.com/search?q=%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%9d%bc) | N/A |
+| 26 | [#경수와_걸어온_11년](http://twitter.com/search?q=%23%ea%b2%bd%ec%88%98%ec%99%80_%ea%b1%b8%ec%96%b4%ec%98%a8_11%eb%85%84) | N/A |
+| 27 | [전국노래자랑](http://twitter.com/search?q=%ec%a0%84%ea%b5%ad%eb%85%b8%eb%9e%98%ec%9e%90%eb%9e%91) | N/A |
+| 28 | [상연오빠](http://twitter.com/search?q=%ec%83%81%ec%97%b0%ec%98%a4%eb%b9%a0) | N/A |
+| 29 | [커버곡 녹음](http://twitter.com/search?q=%ec%bb%a4%eb%b2%84%ea%b3%a1+%eb%85%b9%ec%9d%8c) | N/A |
+| 30 | [축구선수와 연애](http://twitter.com/search?q=%ec%b6%95%ea%b5%ac%ec%84%a0%ec%88%98%ec%99%80+%ec%97%b0%ec%95%a0) | N/A |
+| 31 | [이혜인 감독님](http://twitter.com/search?q=%ec%9d%b4%ed%98%9c%ec%9d%b8+%ea%b0%90%eb%8f%85%eb%8b%98) | N/A |
+| 32 | [가라오케](http://twitter.com/search?q=%ea%b0%80%eb%9d%bc%ec%98%a4%ec%bc%80) | 가라오케 is a Japanese phrase that means "Let's go!" or "Come on!" in English. |
+| 33 | [마이크쿤](http://twitter.com/search?q=%eb%a7%88%ec%9d%b4%ed%81%ac%ec%bf%a4) | 마이크쿤 (Myeokukun) is a South Korean online shopping mall. It is an online marketplace that sells a variety of products, including clothing, electronics, home appliances, and more. The name "Myeokukun" is derived from the Korean words for "shopping" (마이) and "king" (쿤). In English, it can be translated to mean "Shopping King". |
+| 34 | [MBTI별 디즈니 공주](http://twitter.com/search?q=MBTI%eb%b3%84+%eb%94%94%ec%a6%88%eb%8b%88+%ea%b3%b5%ec%a3%bc) | N/A |
+| 35 | [어디계세](http://twitter.com/search?q=%ec%96%b4%eb%94%94%ea%b3%84%ec%84%b8) | N/A |
+| 36 | [일타스캔들](http://twitter.com/search?q=%ec%9d%bc%ed%83%80%ec%8a%a4%ec%ba%94%eb%93%a4) | N/A |
+| 37 | [화력체크](http://twitter.com/search?q=%ed%99%94%eb%a0%a5%ec%b2%b4%ed%81%ac) | N/A |
+| 38 | [마다 로고](http://twitter.com/search?q=%eb%a7%88%eb%8b%a4+%eb%a1%9c%ea%b3%a0) | N/A |
+| 39 | [다국적 3세대](http://twitter.com/search?q=%eb%8b%a4%ea%b5%ad%ec%a0%81+3%ec%84%b8%eb%8c%80) | N/A |
+| 40 | [선재해이](http://twitter.com/search?q=%ec%84%a0%ec%9e%ac%ed%95%b4%ec%9d%b4) | N/A |
+| 41 | [페더엘리아스](http://twitter.com/search?q=%ed%8e%98%eb%8d%94%ec%97%98%eb%a6%ac%ec%95%84%ec%8a%a4) | N/A |
+| 42 | [뜻의 팀명](http://twitter.com/search?q=%eb%9c%bb%ec%9d%98+%ed%8c%80%eb%aa%85) | N/A |
+| 43 | [위스퍼 가사](http://twitter.com/search?q=%ec%9c%84%ec%8a%a4%ed%8d%bc+%ea%b0%80%ec%82%ac) | N/A |
+| 44 | [돌박이일](http://twitter.com/search?q=%eb%8f%8c%eb%b0%95%ec%9d%b4%ec%9d%bc) | N/A |
+| 45 | [MBTI 테스트 결과](http://twitter.com/search?q=MBTI+%ed%85%8c%ec%8a%a4%ed%8a%b8+%ea%b2%b0%ea%b3%bc) | N/A |
+| 46 | [세레머니](http://twitter.com/search?q=%ec%84%b8%eb%a0%88%eb%a8%b8%eb%8b%88) | N/A |
+| 47 | [음주여부](http://twitter.com/search?q=%ec%9d%8c%ec%a3%bc%ec%97%ac%eb%b6%80) | N/A |
+| 48 | [여러분 큰일](http://twitter.com/search?q=%ec%97%ac%eb%9f%ac%eb%b6%84+%ed%81%b0%ec%9d%bc) | N/A |
+| 49 | [우지 소나기](http://twitter.com/search?q=%ec%9a%b0%ec%a7%80+%ec%86%8c%eb%82%98%ea%b8%b0) | N/A |
 
 
 

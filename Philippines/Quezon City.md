@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-01-29 17:15:14 UTC`
+📆 Last Updated: `2023-01-29 18:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 2 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
-| 3 | [#BGYO_2ndAnniversary](http://twitter.com/search?q=%23BGYO_2ndAnniversary) | N/A |
-| 4 | [#FelipOnDougBrockRadio](http://twitter.com/search?q=%23FelipOnDougBrockRadio) | N/A |
+| 1 | [#FelipOnDougBrockRadio](http://twitter.com/search?q=%23FelipOnDougBrockRadio) | N/A |
+| 2 | [#BGYO_2ndAnniversary](http://twitter.com/search?q=%23BGYO_2ndAnniversary) | N/A |
+| 3 | [YOUNGJI](http://twitter.com/search?q=YOUNGJI) | YOUNGJI is a Korean name, which means “eternal wisdom” in English. |
+| 4 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
 | 5 | [#JonaxxACTYAKab38](http://twitter.com/search?q=%23JonaxxACTYAKab38) | N/A |
-| 6 | [YOUNGJI](http://twitter.com/search?q=YOUNGJI) | YOUNGJI is a Korean name, which means “eternal wisdom” in English. |
-| 7 | [#11YearsWithBaekhyun](http://twitter.com/search?q=%2311YearsWithBaekhyun) | N/A |
-| 8 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
-| 9 | [PULL UP MV TEASER 2](http://twitter.com/search?q=PULL+UP+MV+TEASER+2) | PULL UP MV TEASER 2 is an abbreviation for "Pull Up Music Video Teaser 2". It is a phrase used to describe a short video clip that is released as a teaser for an upcoming music video. The phrase implies that the viewer should "pull up" the video, or watch it, in order to get a preview of what the full music video will be like. |
-| 10 | [THANK YOU KAMBAL](http://twitter.com/search?q=THANK+YOU+KAMBAL) | N/A |
-| 11 | [4 YEARS WITH RYUJIN](http://twitter.com/search?q=4+YEARS+WITH+RYUJIN) | N/A |
-| 12 | [Joshua Hong](http://twitter.com/search?q=Joshua+Hong) | N/A |
-| 13 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
-| 14 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 15 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 16 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 17 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 18 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 19 | [Mamamoo](http://twitter.com/search?q=Mamamoo) | N/A |
-| 20 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 21 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 22 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 23 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 24 | [#11YearsWithKyungsoo](http://twitter.com/search?q=%2311YearsWithKyungsoo) | N/A |
-| 25 | [#경수와_걸어온_11년](http://twitter.com/search?q=%23%ea%b2%bd%ec%88%98%ec%99%80_%ea%b1%b8%ec%96%b4%ec%98%a8_11%eb%85%84) | N/A |
-| 26 | [#11YearsWithDO](http://twitter.com/search?q=%2311YearsWithDO) | N/A |
-| 27 | [#큥_데뷔11주년_축하해](http://twitter.com/search?q=%23%ed%81%a5_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 28 | [#DreamMakerForTheChingus](http://twitter.com/search?q=%23DreamMakerForTheChingus) | N/A |
-| 29 | [#BABYMONSTER_RORA](http://twitter.com/search?q=%23BABYMONSTER_RORA) | N/A |
-| 30 | [#4YearsWithScenery](http://twitter.com/search?q=%234YearsWithScenery) | N/A |
-| 31 | [#VarioUS_D1](http://twitter.com/search?q=%23VarioUS_D1) | N/A |
-| 32 | [#CrashCourseInRomanceEp6](http://twitter.com/search?q=%23CrashCourseInRomanceEp6) | N/A |
-| 33 | [#ST4YwithRYU](http://twitter.com/search?q=%23ST4YwithRYU) | N/A |
-| 34 | [#BetweenUsFinalEP](http://twitter.com/search?q=%23BetweenUsFinalEP) | #BetweenUsFinalEP is a hashtag used to promote the final episode of the web series Between Us. The hashtag is used to encourage viewers to watch the finale and share their thoughts on social media. In English, it means "The Final Episode of Between Us". |
-| 35 | [#ForeverWithBTS](http://twitter.com/search?q=%23ForeverWithBTS) | N/A |
-| 36 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
-| 37 | [#THEBOYZ](http://twitter.com/search?q=%23THEBOYZ) | N/A |
-| 38 | [#TheClashLabananNgPangarap](http://twitter.com/search?q=%23TheClashLabananNgPangarap) | N/A |
-| 39 | [#SeeTheVXONAnnivCon](http://twitter.com/search?q=%23SeeTheVXONAnnivCon) | N/A |
-| 40 | [#DreamMakerAtRobGalleria](http://twitter.com/search?q=%23DreamMakerAtRobGalleria) | N/A |
-| 41 | [#FranSeth](http://twitter.com/search?q=%23FranSeth) | N/A |
-| 42 | [#FelipOnDOUGBROCKTV](http://twitter.com/search?q=%23FelipOnDOUGBROCKTV) | N/A |
-| 43 | [#VoxPopuLIVE](http://twitter.com/search?q=%23VoxPopuLIVE) | N/A |
-| 44 | [#DreamMaker_VINCI](http://twitter.com/search?q=%23DreamMaker_VINCI) | N/A |
+| 6 | [#DreamMakerAtRobGalleria](http://twitter.com/search?q=%23DreamMakerAtRobGalleria) | N/A |
+| 7 | [KDLEX DIREKCATHY IN HK](http://twitter.com/search?q=KDLEX+DIREKCATHY+IN+HK) | KDLEX DIREKCATHY IN HK is a term used to refer to the Hong Kong Directory of Legal Experts, which is an online directory of legal professionals in Hong Kong. It provides information on lawyers, solicitors, barristers, and other legal professionals in the city. The directory is maintained by the Law Society of Hong Kong. |
+| 8 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
+| 9 | [JIA YOU KAYDS](http://twitter.com/search?q=JIA+YOU+KAYDS) | N/A |
+| 10 | [romy](http://twitter.com/search?q=romy) | N/A |
+| 11 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
+| 12 | [SETH MAEFFORT KAY CHIN](http://twitter.com/search?q=SETH+MAEFFORT+KAY+CHIN) | N/A |
+| 13 | [sunday with sarah g](http://twitter.com/search?q=sunday+with+sarah+g) | N/A |
+| 14 | [versatile alexa on asap party](http://twitter.com/search?q=versatile+alexa+on+asap+party) | N/A |
+| 15 | [anji asap90s collab](http://twitter.com/search?q=anji+asap90s+collab) | N/A |
+| 16 | [35thpmpcaward bsa alexa](http://twitter.com/search?q=35thpmpcaward+bsa+alexa) | N/A |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [U-san](http://twitter.com/search?q=U-san) | U-san is a Japanese honorific used to refer to someone in a polite way. It is similar to the English honorific "Mr." or "Ms." and is used when addressing someone of equal or higher status. |
+| 19 | [THANK YOU KAMBAL](http://twitter.com/search?q=THANK+YOU+KAMBAL) | N/A |
+| 20 | [ALWAYS LINKED WITH NCT 127](http://twitter.com/search?q=ALWAYS+LINKED+WITH+NCT+127) | Always Linked with NCT 127 is a phrase used to describe the close relationship between NCT 127, a South Korean boy band, and their fans. It is often used to express the strong bond between the group and their fans, as well as the loyalty of the fans to the group. |
+| 21 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 22 | [4 YEARS WITH RYUJIN](http://twitter.com/search?q=4+YEARS+WITH+RYUJIN) | N/A |
+| 23 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 24 | [PULL UP MV TEASER 2](http://twitter.com/search?q=PULL+UP+MV+TEASER+2) | PULL UP MV TEASER 2 is an abbreviation for "Pull Up Music Video Teaser 2". It is a phrase used to describe a short video clip that is released as a teaser for an upcoming music video. The phrase implies that the viewer should "pull up" the video, or watch it, in order to get a preview of what the full music video will be like. |
+| 25 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 26 | [Tatsulok](http://twitter.com/search?q=Tatsulok) | N/A |
+| 27 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 28 | [clashmasters juliever](http://twitter.com/search?q=clashmasters+juliever) | N/A |
+| 29 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 30 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
+| 31 | [bini ppopasabog sunday](http://twitter.com/search?q=bini+ppopasabog+sunday) | N/A |
+| 32 | [Happy 2nd Anniversary](http://twitter.com/search?q=Happy+2nd+Anniversary) | N/A |
+| 33 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 34 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 35 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 36 | [mnl48 asap party hits](http://twitter.com/search?q=mnl48+asap+party+hits) | N/A |
+| 37 | [ROSÉ CONQUERS ABU DHABI](http://twitter.com/search?q=ROS%c3%89+CONQUERS+ABU+DHABI) | N/A |
+| 38 | [partyhits withdarren](http://twitter.com/search?q=partyhits+withdarren) | N/A |
+| 39 | [FIERY DREAMER YUNHYEONG](http://twitter.com/search?q=FIERY+DREAMER+YUNHYEONG) | N/A |
+| 40 | [welcome svt in the soop 2](http://twitter.com/search?q=welcome+svt+in+the+soop+2) | N/A |
+| 41 | [julieanne clashmaster](http://twitter.com/search?q=julieanne+clashmaster) | N/A |
+| 42 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 43 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 44 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 45 | [Siena](http://twitter.com/search?q=Siena) | N/A |
+| 46 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
+| 47 | [janedeleon in laguna](http://twitter.com/search?q=janedeleon+in+laguna) | N/A |
+| 48 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 49 | [MoreMOmentsWith MOat21](http://twitter.com/search?q=MoreMOmentsWith+MOat21) | N/A |
+| 50 | [KAIA TURN UP DANCE](http://twitter.com/search?q=KAIA+TURN+UP+DANCE) | N/A |
 
 
 
