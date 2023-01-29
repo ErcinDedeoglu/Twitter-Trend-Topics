@@ -11,7 +11,7 @@
 
 ## Trends
 
-This is top 50 for [United Arab Emirates](United+Arab+Emirates)
+This is top 50 for [United Arab Emirates](</>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
