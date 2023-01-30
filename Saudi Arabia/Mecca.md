@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-01-30 10:16:01 UTC`
+📆 Last Updated: `2023-01-30 11:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#تعليم_المخواه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%85%d8%ae%d9%88%d8%a7%d9%87) | N/A |
-| 2 | [#الاتحاد_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | #الاتحاد_الفيحاء is a hashtag used by the Yemeni Union of Feihan, a political and social movement in Yemen. The English translation of the hashtag is "Feihan Union". The movement seeks to promote democracy, human rights, and social justice in Yemen. |
-| 3 | [#ابراهيم_ولدكم_لا_تخلونه](http://twitter.com/search?q=%23%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85_%d9%88%d9%84%d8%af%d9%83%d9%85_%d9%84%d8%a7_%d8%aa%d8%ae%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 4 | [#كاس_سوبر_بيرين](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%b3%d9%88%d8%a8%d8%b1_%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | #كاس_سوبر_بيرين is a hashtag used to promote the Super Cup of Bahrain, an annual football tournament held in Bahrain. In English, it translates to "#SuperCupBahrain". |
-| 5 | [#نهايي_كاس_السوبر_السعودي](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | #نهايي_كاس_السوبر_السعودي is a hashtag used to refer to the Saudi Super Cup, which is an annual football match between the winners of the Saudi Professional League and the King's Cup. In English, it translates to "Saudi Super Cup Final". |
+| 1 | [#الاتحاد_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | #الاتحاد_الفيحاء is a hashtag used by the Yemeni Union of Feihan, a political and social movement in Yemen. The English translation of the hashtag is "Feihan Union". The movement seeks to promote democracy, human rights, and social justice in Yemen. |
+| 2 | [#ابراهيم_ولدكم_لا_تخلونه](http://twitter.com/search?q=%23%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85_%d9%88%d9%84%d8%af%d9%83%d9%85_%d9%84%d8%a7_%d8%aa%d8%ae%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 3 | [#كاس_سوبر_بيرين](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%b3%d9%88%d8%a8%d8%b1_%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | #كاس_سوبر_بيرين is a hashtag used to promote the Super Cup of Bahrain, an annual football tournament held in Bahrain. In English, it translates to "#SuperCupBahrain". |
+| 4 | [#نهايي_كاس_السوبر_السعودي](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | #نهايي_كاس_السوبر_السعودي is a hashtag used to refer to the Saudi Super Cup, which is an annual football match between the winners of the Saudi Professional League and the King's Cup. In English, it translates to "Saudi Super Cup Final". |
+| 5 | [#اكره_النقاب](http://twitter.com/search?q=%23%d8%a7%d9%83%d8%b1%d9%87_%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%a8) | N/A |
 | 6 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 7 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 7 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
 | 8 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 9 | [كاس السوبر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | كاس السوبر (Kass al-Souper) is an Arabic phrase that translates to "Super Cup" in English. It is a term used to refer to a cup or trophy awarded to the winner of a football tournament or championship. |
 | 10 | [قول الساطي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a) | N/A |
-| 11 | [التطعيمات الورقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b7%d8%b9%d9%8a%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b1%d9%82%d9%8a%d9%87) | N/A |
-| 12 | [WE ARE THE CHAMPIONS](http://twitter.com/search?q=WE+ARE+THE+CHAMPIONS) | "We Are the Champions" is a song by the British rock band Queen, written by lead singer Freddie Mercury. The song was released as a single in 1977 and has since become an anthem for victory and triumph. The lyrics of the song celebrate the success of a team or individual who has achieved greatness despite facing adversity. The phrase "We Are the Champions" has become a popular slogan used to express pride in one's accomplishments. |
-| 13 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 14 | [كاس بيرين](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
-| 15 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 16 | [قلب هلالي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | قلب هلالي is an Arabic phrase that translates to "crescent heart." It is a metaphor for someone who has a generous and kind heart. |
-| 17 | [ساسولو](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88) | ساسولو is a type of traditional Iranian bread. It is made from wheat flour, water, and salt and is usually baked in a clay oven. In English, it translates to "sasoolo" or "sasuloo". |
-| 18 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 19 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 11 | [WE ARE THE CHAMPIONS](http://twitter.com/search?q=WE+ARE+THE+CHAMPIONS) | "We Are the Champions" is a song by the British rock band Queen, written by lead singer Freddie Mercury. The song was released as a single in 1977 and has since become an anthem for victory and triumph. The lyrics of the song celebrate the success of a team or individual who has achieved greatness despite facing adversity. The phrase "We Are the Champions" has become a popular slogan used to express pride in one's accomplishments. |
+| 12 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 13 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 14 | [التطعيمات الورقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b7%d8%b9%d9%8a%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b1%d9%82%d9%8a%d9%87) | N/A |
+| 15 | [كاس بيرين](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
+| 16 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 17 | [المحكمه المختصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%b5%d9%87) | N/A |
+| 18 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 19 | [قلب هلالي](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | قلب هلالي is an Arabic phrase that translates to "crescent heart." It is a metaphor for someone who has a generous and kind heart. |
 | 20 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 21 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 22 | [سير العمليه التعليميه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 21 | [ساسولو](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88) | ساسولو is a type of traditional Iranian bread. It is made from wheat flour, water, and salt and is usually baked in a clay oven. In English, it translates to "sasoolo" or "sasuloo". |
+| 22 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 23 | [يزيد الراجحي](http://twitter.com/search?q=%d9%8a%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 24 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 24 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
 | 25 | [فابينهو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 26 | [جول وايلي](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d9%88%d8%a7%d9%8a%d9%84%d9%8a) | N/A |
-| 27 | [حماد العنزي](http://twitter.com/search?q=%d8%ad%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
+| 26 | [النيابة العامة](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d8%a9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%a9) | N/A |
+| 27 | [جول وايلي](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d9%88%d8%a7%d9%8a%d9%84%d9%8a) | N/A |
 | 28 | [الفتح](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | الفتح is an Arabic word meaning "opening" or "unlocking". It can also refer to the conquest of a city or territory. |
-| 29 | [الحلقه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 30 | [عشاق العميد](http://twitter.com/search?q=%d8%b9%d8%b4%d8%a7%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d8%af) | N/A |
+| 29 | [حماد العنزي](http://twitter.com/search?q=%d8%ad%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
+| 30 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
 | 31 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
-| 32 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
-| 33 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 34 | [الالعاب الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 35 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
-| 36 | [ابو فيصل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 37 | [كاس المويه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d9%87) | N/A |
+| 32 | [دوره المياه](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87) | N/A |
+| 33 | [الحلقه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 34 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
+| 35 | [عشاق العميد](http://twitter.com/search?q=%d8%b9%d8%b4%d8%a7%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d8%af) | N/A |
+| 36 | [النقل المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 37 | [الدراسات الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
 | 38 | [الساطي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 39 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 40 | [الدراسات الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 41 | [النقل المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
-| 42 | [الطالبات المتفوقات](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d9%81%d9%88%d9%82%d8%a7%d8%aa) | N/A |
-| 43 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 44 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 45 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
-| 46 | [نبي الثالث](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 47 | [ميلاد جورجينا](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d8%af+%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d8%a7) | N/A |
-| 48 | [كبير الرياض](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 49 | [الزبيدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%a8%d9%8a%d8%af%d9%8a) | N/A |
-| 50 | [الارشاد الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b4%d8%a7%d8%af+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
+| 39 | [ميلاد جورجينا](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d8%af+%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d8%a7) | N/A |
+| 40 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
+| 41 | [كاس المويه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d9%87) | N/A |
+| 42 | [ابو فيصل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 43 | [الموجه الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%ac%d9%87+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
+| 44 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 45 | [مدير مكتب التعليم](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 46 | [كبير الرياض](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 47 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 48 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 49 | [درع الوطن](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 50 | [الاعداد المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%af%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
 
 
 
