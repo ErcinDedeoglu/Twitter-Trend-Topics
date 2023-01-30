@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-01-30 14:15:57 UTC`
+📆 Last Updated: `2023-01-30 15:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#JuveMonza](http://twitter.com/search?q=%23JuveMonza) | #JuveMonza is a hashtag used to refer to the Italian football match between Juventus and Monza. It is used to discuss the match, share news and updates, and show support for either team. In English, it translates to "Juventus vs Monza". |
 | 3 | [#MilanSassuolo](http://twitter.com/search?q=%23MilanSassuolo) | N/A |
 | 4 | [#30gennaio](http://twitter.com/search?q=%2330gennaio) | N/A |
-| 5 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 5 | [#DisdetteDaznSky](http://twitter.com/search?q=%23DisdetteDaznSky) | N/A |
 | 6 | [Giarrusso](http://twitter.com/search?q=Giarrusso) | N/A |
-| 7 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 8 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 9 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 10 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 11 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 12 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 13 | [Illecito](http://twitter.com/search?q=Illecito) | N/A |
-| 14 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 15 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
-| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 7 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 8 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 9 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 10 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 11 | [Illecito](http://twitter.com/search?q=Illecito) | N/A |
+| 12 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 13 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 14 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 15 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 16 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
+| 17 | [Demiral](http://twitter.com/search?q=Demiral) | N/A |
 | 18 | [paky](http://twitter.com/search?q=paky) | N/A |
 | 19 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
 | 20 | [Israele](http://twitter.com/search?q=Israele) | N/A |
 | 21 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 22 | [Demiral](http://twitter.com/search?q=Demiral) | N/A |
-| 23 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
-| 24 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
-| 25 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 26 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
-| 27 | [Tavecchio](http://twitter.com/search?q=Tavecchio) | N/A |
-| 28 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 29 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
-| 30 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
-| 31 | [Palladino](http://twitter.com/search?q=Palladino) | N/A |
-| 32 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 33 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
-| 34 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 35 | [izzo](http://twitter.com/search?q=izzo) | N/A |
-| 36 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 37 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
-| 38 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 39 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 40 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
-| 41 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
-| 42 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 43 | [Di Gregorio](http://twitter.com/search?q=Di+Gregorio) | N/A |
-| 44 | [Zazzaroni](http://twitter.com/search?q=Zazzaroni) | N/A |
-| 45 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 46 | [Bonaccini](http://twitter.com/search?q=Bonaccini) | N/A |
-| 47 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 48 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 49 | [Di Maio](http://twitter.com/search?q=Di+Maio) | N/A |
-| 50 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 22 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 23 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
+| 24 | [Tavecchio](http://twitter.com/search?q=Tavecchio) | N/A |
+| 25 | [41bis](http://twitter.com/search?q=41bis) | N/A |
+| 26 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
+| 27 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 28 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
+| 29 | [spinazzola](http://twitter.com/search?q=spinazzola) | N/A |
+| 30 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 31 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
+| 32 | [Palladino](http://twitter.com/search?q=Palladino) | N/A |
+| 33 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 34 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 35 | [Opera](http://twitter.com/search?q=Opera) | N/A |
+| 36 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 37 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 38 | [nole](http://twitter.com/search?q=nole) | N/A |
+| 39 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 40 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 41 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 42 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 43 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 44 | [Anna Oxa](http://twitter.com/search?q=Anna+Oxa) | N/A |
+| 45 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
+| 46 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 47 | [Zazzaroni](http://twitter.com/search?q=Zazzaroni) | N/A |
+| 48 | [Di Gregorio](http://twitter.com/search?q=Di+Gregorio) | N/A |
+| 49 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
+| 50 | [Becao](http://twitter.com/search?q=Becao) | N/A |
 
 
 

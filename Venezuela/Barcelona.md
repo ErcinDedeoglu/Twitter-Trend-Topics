@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-01-30 14:15:51 UTC`
+📆 Last Updated: `2023-01-30 15:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,47 +20,47 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [#29Ene](http://twitter.com/search?q=%2329Ene) | N/A |
 | 4 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
 | 5 | [#SancionesMatanSueldo](http://twitter.com/search?q=%23SancionesMatanSueldo) | N/A |
-| 6 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 7 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 8 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 9 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
-| 10 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
-| 11 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 12 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
-| 13 | [Juan Antonio Pérez Bonalde](http://twitter.com/search?q=Juan+Antonio+P%c3%a9rez+Bonalde) | N/A |
-| 14 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
-| 15 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
-| 16 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 17 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 18 | [María Corina Machado](http://twitter.com/search?q=Mar%c3%ada+Corina+Machado) | N/A |
-| 19 | [Sociedad Venezolana](http://twitter.com/search?q=Sociedad+Venezolana) | N/A |
-| 20 | [Tío Rico](http://twitter.com/search?q=T%c3%ado+Rico) | N/A |
-| 21 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 22 | [SOY REBELDE TOUR EN VENEZUELA](http://twitter.com/search?q=SOY+REBELDE+TOUR+EN+VENEZUELA) | N/A |
-| 23 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
-| 24 | [Día del Radio Aficionado](http://twitter.com/search?q=D%c3%ada+del+Radio+Aficionado) | N/A |
-| 25 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
+| 6 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
+| 7 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
+| 8 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | N/A |
+| 9 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 10 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 11 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
+| 12 | [FELIZ INICIO DE SEMANA](http://twitter.com/search?q=FELIZ+INICIO+DE+SEMANA) | N/A |
+| 13 | [María Corina Machado](http://twitter.com/search?q=Mar%c3%ada+Corina+Machado) | N/A |
+| 14 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
+| 15 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
+| 16 | [SOY REBELDE TOUR EN VENEZUELA](http://twitter.com/search?q=SOY+REBELDE+TOUR+EN+VENEZUELA) | N/A |
+| 17 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
+| 18 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 19 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
+| 20 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
+| 21 | [día del radio aficionado](http://twitter.com/search?q=d%c3%ada+del+radio+aficionado) | N/A |
+| 22 | [Juan Antonio Pérez Bonalde](http://twitter.com/search?q=Juan+Antonio+P%c3%a9rez+Bonalde) | N/A |
+| 23 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 24 | [Tío Rico](http://twitter.com/search?q=T%c3%ado+Rico) | N/A |
+| 25 | [Antonio José de Sucre](http://twitter.com/search?q=Antonio+Jos%c3%a9+de+Sucre) | N/A |
 | 26 | [día del trabajador social](http://twitter.com/search?q=d%c3%ada+del+trabajador+social) | N/A |
-| 27 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 28 | [El 30](http://twitter.com/search?q=El+30) | N/A |
-| 29 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 30 | [Ocariz](http://twitter.com/search?q=Ocariz) | N/A |
-| 31 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 27 | [Sociedad Venezolana](http://twitter.com/search?q=Sociedad+Venezolana) | N/A |
+| 28 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 29 | [Ocariz](http://twitter.com/search?q=Ocariz) | N/A |
+| 30 | [jhoulys chacín](http://twitter.com/search?q=jhoulys+chac%c3%adn) | N/A |
+| 31 | [Los Dioses](http://twitter.com/search?q=Los+Dioses) | N/A |
 | 32 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 33 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 34 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 35 | [jhoulys chacín](http://twitter.com/search?q=jhoulys+chac%c3%adn) | N/A |
-| 36 | [Los Dioses](http://twitter.com/search?q=Los+Dioses) | N/A |
-| 37 | [calabaza](http://twitter.com/search?q=calabaza) | N/A |
-| 38 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
-| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 40 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | N/A |
-| 41 | [Hesed](http://twitter.com/search?q=Hesed) | N/A |
-| 42 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 43 | [Franco De Vita](http://twitter.com/search?q=Franco+De+Vita) | N/A |
-| 44 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 45 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
-| 46 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 33 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
+| 34 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
+| 35 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 37 | [gabriel noriega](http://twitter.com/search?q=gabriel+noriega) | N/A |
+| 38 | [Hesed](http://twitter.com/search?q=Hesed) | N/A |
+| 39 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
+| 40 | [poleo](http://twitter.com/search?q=poleo) | N/A |
+| 41 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 42 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 43 | [Juan Carlos Torres](http://twitter.com/search?q=Juan+Carlos+Torres) | N/A |
+| 44 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 45 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 46 | [Inces](http://twitter.com/search?q=Inces) | N/A |
 
 
 

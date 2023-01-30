@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-01-30 14:16:23 UTC`
+📆 Last Updated: `2023-01-30 15:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
 | 3 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
-| 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 7 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 8 | [#alayma](http://twitter.com/search?q=%23alayma) | N/A |
-| 9 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | N/A |
-| 10 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 11 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 12 | [BJ Hill](http://twitter.com/search?q=BJ+Hill) | N/A |
+| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 6 | [#alayma](http://twitter.com/search?q=%23alayma) | N/A |
+| 7 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
+| 8 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
+| 9 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 10 | [BJ Hill](http://twitter.com/search?q=BJ+Hill) | N/A |
+| 11 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | N/A |
+| 12 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
 | 13 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | N/A |
-| 14 | [Wordle 590 X](http://twitter.com/search?q=Wordle+590+X) | N/A |
-| 15 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | N/A |
-| 16 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
-| 17 | [Daily Quordle 371](http://twitter.com/search?q=Daily+Quordle+371) | N/A |
-| 18 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 14 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | N/A |
+| 15 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
+| 16 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | N/A |
+| 17 | [Wordle 590 X](http://twitter.com/search?q=Wordle+590+X) | N/A |
+| 18 | [Daily Quordle 371](http://twitter.com/search?q=Daily+Quordle+371) | N/A |
 | 19 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
-| 20 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 21 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 22 | [Wednesday Addams](http://twitter.com/search?q=Wednesday+Addams) | N/A |
-| 23 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 24 | [Asake](http://twitter.com/search?q=Asake) | N/A |
-| 25 | [Tyson Fury](http://twitter.com/search?q=Tyson+Fury) | N/A |
-| 26 | [Winter Storm Warning](http://twitter.com/search?q=Winter+Storm+Warning) | N/A |
-| 27 | [The Addams Family](http://twitter.com/search?q=The+Addams+Family) | N/A |
-| 28 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 29 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
-| 30 | [Barrett Strong](http://twitter.com/search?q=Barrett+Strong) | N/A |
-| 31 | [Pratt](http://twitter.com/search?q=Pratt) | N/A |
-| 32 | [Joe Staley](http://twitter.com/search?q=Joe+Staley) | N/A |
-| 33 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 34 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 35 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 36 | [Megyn Kelly](http://twitter.com/search?q=Megyn+Kelly) | N/A |
-| 37 | [Dr. Jill Biden](http://twitter.com/search?q=Dr.+Jill+Biden) | N/A |
-| 38 | [Empire State Building](http://twitter.com/search?q=Empire+State+Building) | The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. It was designed by Shreve, Lamb & Harmon and completed in 1931. Standing at 1,454 feet (443 m) tall, it was the world's tallest building until 1972. The Empire State Building is an iconic symbol of New York City and a popular tourist attraction. |
-| 39 | [Dr. Kelly](http://twitter.com/search?q=Dr.+Kelly) | N/A |
-| 40 | [Kayvon](http://twitter.com/search?q=Kayvon) | Kayvon is a Persian name meaning "king of kings". It is also used as a given name in some parts of the world. |
-| 41 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 42 | [Jabroni](http://twitter.com/search?q=Jabroni) | N/A |
-| 43 | [Aguadilla](http://twitter.com/search?q=Aguadilla) | N/A |
-| 44 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
-| 45 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 46 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | N/A |
-| 47 | [Patrick Reed](http://twitter.com/search?q=Patrick+Reed) | Patrick Reed is an American professional golfer who plays on the PGA Tour. He has won several tournaments, including the 2018 Masters Tournament. The phrase "Patrick Reed" is used to refer to his success in golf. |
-| 48 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 49 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 20 | [team extreme](http://twitter.com/search?q=team+extreme) | N/A |
+| 21 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 22 | [Saffold](http://twitter.com/search?q=Saffold) | N/A |
+| 23 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 24 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
+| 25 | [The Addams Family](http://twitter.com/search?q=The+Addams+Family) | N/A |
+| 26 | [Wednesday Addams](http://twitter.com/search?q=Wednesday+Addams) | N/A |
+| 27 | [Barrett Strong](http://twitter.com/search?q=Barrett+Strong) | N/A |
+| 28 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 29 | [Dr. Kelly](http://twitter.com/search?q=Dr.+Kelly) | N/A |
+| 30 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 31 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 32 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 33 | [Baldy](http://twitter.com/search?q=Baldy) | N/A |
+| 34 | [Joe Staley](http://twitter.com/search?q=Joe+Staley) | N/A |
+| 35 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 36 | [Winter Storm Warning](http://twitter.com/search?q=Winter+Storm+Warning) | N/A |
+| 37 | [Pratt](http://twitter.com/search?q=Pratt) | N/A |
+| 38 | [Ay-Yo](http://twitter.com/search?q=Ay-Yo) | Ay-Yo is an expression used to express excitement or enthusiasm. It is similar to the phrase "Oh yeah!" and can be used to show agreement or excitement about something. In English, it can be translated as "Yeah!" or "Yay!". |
+| 39 | [Tyson Fury](http://twitter.com/search?q=Tyson+Fury) | N/A |
+| 40 | [Asake](http://twitter.com/search?q=Asake) | N/A |
+| 41 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | N/A |
+| 42 | [Megyn Kelly](http://twitter.com/search?q=Megyn+Kelly) | N/A |
+| 43 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
+| 44 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 45 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 46 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 47 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 48 | [Empire State Building](http://twitter.com/search?q=Empire+State+Building) | The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. It was designed by Shreve, Lamb & Harmon and completed in 1931. Standing at 1,454 feet (443 m) tall, it was the world's tallest building until 1972. The Empire State Building is an iconic symbol of New York City and a popular tourist attraction. |
+| 49 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
 
 
 

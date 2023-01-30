@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-01-30 14:16:30 UTC`
+📆 Last Updated: `2023-01-30 15:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Venezuela
 | 2 | [#LasSancionesCastiganLaSalud](http://twitter.com/search?q=%23LasSancionesCastiganLaSalud) | N/A |
 | 3 | [#29Ene](http://twitter.com/search?q=%2329Ene) | N/A |
 | 4 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
-| 5 | [#SancionesMatanSueldo](http://twitter.com/search?q=%23SancionesMatanSueldo) | N/A |
-| 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 7 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 6 | [#SancionesMatanSueldo](http://twitter.com/search?q=%23SancionesMatanSueldo) | N/A |
+| 7 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
 | 8 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 9 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 10 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
-| 11 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
-| 12 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 13 | [Sociedad Venezolana](http://twitter.com/search?q=Sociedad+Venezolana) | N/A |
-| 14 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
-| 15 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
+| 9 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | N/A |
+| 10 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 11 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
+| 12 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
+| 13 | [FELIZ INICIO DE SEMANA](http://twitter.com/search?q=FELIZ+INICIO+DE+SEMANA) | N/A |
+| 14 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
+| 15 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
 | 16 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
-| 17 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
-| 18 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 19 | [SOY REBELDE TOUR EN VENEZUELA](http://twitter.com/search?q=SOY+REBELDE+TOUR+EN+VENEZUELA) | N/A |
-| 20 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 21 | [Tío Rico](http://twitter.com/search?q=T%c3%ado+Rico) | N/A |
-| 22 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
-| 23 | [Día del Radio Aficionado](http://twitter.com/search?q=D%c3%ada+del+Radio+Aficionado) | N/A |
-| 24 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 25 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 26 | [Juan Antonio Pérez Bonalde](http://twitter.com/search?q=Juan+Antonio+P%c3%a9rez+Bonalde) | N/A |
-| 27 | [El 30](http://twitter.com/search?q=El+30) | N/A |
-| 28 | [día del trabajador social](http://twitter.com/search?q=d%c3%ada+del+trabajador+social) | N/A |
+| 17 | [SOY REBELDE TOUR EN VENEZUELA](http://twitter.com/search?q=SOY+REBELDE+TOUR+EN+VENEZUELA) | N/A |
+| 18 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
+| 19 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 20 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
+| 21 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
+| 22 | [día del radio aficionado](http://twitter.com/search?q=d%c3%ada+del+radio+aficionado) | N/A |
+| 23 | [Juan Antonio Pérez Bonalde](http://twitter.com/search?q=Juan+Antonio+P%c3%a9rez+Bonalde) | N/A |
+| 24 | [Tío Rico](http://twitter.com/search?q=T%c3%ado+Rico) | N/A |
+| 25 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 26 | [antonio josé de sucre](http://twitter.com/search?q=antonio+jos%c3%a9+de+sucre) | N/A |
+| 27 | [día del trabajador social](http://twitter.com/search?q=d%c3%ada+del+trabajador+social) | N/A |
+| 28 | [Sociedad Venezolana](http://twitter.com/search?q=Sociedad+Venezolana) | N/A |
 | 29 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
 | 30 | [Ocariz](http://twitter.com/search?q=Ocariz) | N/A |
-| 31 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 32 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 33 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 34 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 35 | [jhoulys chacín](http://twitter.com/search?q=jhoulys+chac%c3%adn) | N/A |
-| 36 | [Antonio José de Sucre](http://twitter.com/search?q=Antonio+Jos%c3%a9+de+Sucre) | N/A |
-| 37 | [Los Dioses](http://twitter.com/search?q=Los+Dioses) | N/A |
-| 38 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | N/A |
-| 39 | [calabaza](http://twitter.com/search?q=calabaza) | N/A |
-| 40 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
-| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 42 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 43 | [Merlina](http://twitter.com/search?q=Merlina) | N/A |
-| 44 | [Hesed](http://twitter.com/search?q=Hesed) | N/A |
-| 45 | [Franco De Vita](http://twitter.com/search?q=Franco+De+Vita) | N/A |
-| 46 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 47 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
-| 48 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
-| 49 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 50 | [Iguana](http://twitter.com/search?q=Iguana) | N/A |
+| 31 | [jhoulys chacín](http://twitter.com/search?q=jhoulys+chac%c3%adn) | N/A |
+| 32 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
+| 33 | [Los Dioses](http://twitter.com/search?q=Los+Dioses) | N/A |
+| 34 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 35 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
+| 36 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 38 | [gabriel noriega](http://twitter.com/search?q=gabriel+noriega) | N/A |
+| 39 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
+| 40 | [poleo](http://twitter.com/search?q=poleo) | N/A |
+| 41 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 42 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 43 | [Juan Carlos Torres](http://twitter.com/search?q=Juan+Carlos+Torres) | N/A |
+| 44 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 45 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 46 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 47 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 48 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 49 | [El 30](http://twitter.com/search?q=El+30) | N/A |
+| 50 | [calabaza](http://twitter.com/search?q=calabaza) | N/A |
 
 
 

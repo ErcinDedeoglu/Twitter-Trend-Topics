@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-01-30 14:16:06 UTC`
+📆 Last Updated: `2023-01-30 15:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIPaghahanap](http://twitter.com/search?q=%23MCIPaghahanap) | N/A |
-| 2 | [#TWICE_BBWomenInMusic](http://twitter.com/search?q=%23TWICE_BBWomenInMusic) | N/A |
+| 1 | [#TWICE_BBWomenInMusic](http://twitter.com/search?q=%23TWICE_BBWomenInMusic) | N/A |
+| 2 | [#MCIPaghahanap](http://twitter.com/search?q=%23MCIPaghahanap) | N/A |
 | 3 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
-| 4 | [BIGGER VENUE](http://twitter.com/search?q=BIGGER+VENUE) | N/A |
-| 5 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
-| 6 | [PinakaCLASH NAMIN RALPHGAIL](http://twitter.com/search?q=PinakaCLASH+NAMIN+RALPHGAIL) | N/A |
-| 7 | [problem child the premiere](http://twitter.com/search?q=problem+child+the+premiere) | N/A |
-| 8 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
-| 9 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 10 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
-| 11 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 12 | [Elias](http://twitter.com/search?q=Elias) | N/A |
-| 13 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 14 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 15 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 16 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
-| 17 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 18 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
-| 19 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 20 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 21 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 22 | [Joongki](http://twitter.com/search?q=Joongki) | Joongki is a Korean name that means "righteousness" in English. It is a unisex name, so it can be used for both boys and girls. |
-| 23 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 24 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 25 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
-| 26 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
-| 27 | [SUPER JANELLA AT MEDIACON](http://twitter.com/search?q=SUPER+JANELLA+AT+MEDIACON) | N/A |
-| 28 | [JANEDELEON SHINES MEDIACON](http://twitter.com/search?q=JANEDELEON+SHINES+MEDIACON) | N/A |
-| 29 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 30 | [chungha](http://twitter.com/search?q=chungha) | N/A |
+| 4 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | N/A |
+| 5 | [BIGGER VENUE](http://twitter.com/search?q=BIGGER+VENUE) | N/A |
+| 6 | [PAUSE AND JAY MY HEART](http://twitter.com/search?q=PAUSE+AND+JAY+MY+HEART) | N/A |
+| 7 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 8 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 9 | [PROBLEM CHILD THE PREMIERE](http://twitter.com/search?q=PROBLEM+CHILD+THE+PREMIERE) | N/A |
+| 10 | [7TROPHIES MAKE IT HYPEN](http://twitter.com/search?q=7TROPHIES+MAKE+IT+HYPEN) | N/A |
+| 11 | [PinakaCLASH NAMIN RALPHGAIL](http://twitter.com/search?q=PinakaCLASH+NAMIN+RALPHGAIL) | N/A |
+| 12 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 13 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
+| 14 | [Elias](http://twitter.com/search?q=Elias) | N/A |
+| 15 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 16 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 17 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 18 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
+| 19 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 20 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
+| 21 | [hye kyo](http://twitter.com/search?q=hye+kyo) | N/A |
+| 22 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 23 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 24 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
+| 25 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 26 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 27 | [Song Joong Ki](http://twitter.com/search?q=Song+Joong+Ki) | N/A |
+| 28 | [#DLRegrets](http://twitter.com/search?q=%23DLRegrets) | N/A |
+| 29 | [#DONBELLExSMART](http://twitter.com/search?q=%23DONBELLExSMART) | N/A |
+| 30 | [#JonaxxACTYAKab39](http://twitter.com/search?q=%23JonaxxACTYAKab39) | N/A |
 | 31 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 32 | [#DONBELLExSMART](http://twitter.com/search?q=%23DONBELLExSMART) | N/A |
-| 33 | [#DLRegrets](http://twitter.com/search?q=%23DLRegrets) | N/A |
-| 34 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 35 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
-| 36 | [#DreamMakerPIEdate](http://twitter.com/search?q=%23DreamMakerPIEdate) | N/A |
-| 37 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 38 | [#ShinewithJay](http://twitter.com/search?q=%23ShinewithJay) | N/A |
-| 39 | [#LuvIs1stDaySchool](http://twitter.com/search?q=%23LuvIs1stDaySchool) | N/A |
-| 40 | [#그냥_들어봐_Ay_Yo](http://twitter.com/search?q=%23%ea%b7%b8%eb%83%a5_%eb%93%a4%ec%96%b4%eb%b4%90_Ay_Yo) | "#그냥_들어봐_Ay_Yo" is a phrase used in South Korea to encourage someone to try something new. It roughly translates to "Just give it a try, Ay Yo!" |
-| 41 | [#FreeJenAwingan](http://twitter.com/search?q=%23FreeJenAwingan) | N/A |
-| 42 | [#DropTrumpedUpCharges](http://twitter.com/search?q=%23DropTrumpedUpCharges) | N/A |
-| 43 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 44 | [#DarnaSuperExtra](http://twitter.com/search?q=%23DarnaSuperExtra) | N/A |
-| 45 | [#FreenBeck](http://twitter.com/search?q=%23FreenBeck) | N/A |
+| 32 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
+| 33 | [#OneThreeOneHanbinDay](http://twitter.com/search?q=%23OneThreeOneHanbinDay) | N/A |
+| 34 | [#우석이가_나타난_그해그달그날](http://twitter.com/search?q=%23%ec%9a%b0%ec%84%9d%ec%9d%b4%ea%b0%80_%eb%82%98%ed%83%80%eb%82%9c_%ea%b7%b8%ed%95%b4%ea%b7%b8%eb%8b%ac%ea%b7%b8%eb%82%a0) | N/A |
+| 35 | [#DreamMakerPIEdate](http://twitter.com/search?q=%23DreamMakerPIEdate) | N/A |
+| 36 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
+| 37 | [#ShinewithJay](http://twitter.com/search?q=%23ShinewithJay) | N/A |
+| 38 | [#FreeJenAwingan](http://twitter.com/search?q=%23FreeJenAwingan) | N/A |
+| 39 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
+| 40 | [#LuvIs1stDaySchool](http://twitter.com/search?q=%23LuvIs1stDaySchool) | N/A |
+| 41 | [#DropTrumpedUpCharges](http://twitter.com/search?q=%23DropTrumpedUpCharges) | N/A |
+| 42 | [#DarnaSuperExtra](http://twitter.com/search?q=%23DarnaSuperExtra) | N/A |
+| 43 | [#그냥_들어봐_Ay_Yo](http://twitter.com/search?q=%23%ea%b7%b8%eb%83%a5_%eb%93%a4%ec%96%b4%eb%b4%90_Ay_Yo) | "#그냥_들어봐_Ay_Yo" is a phrase used in South Korea to encourage someone to try something new. It roughly translates to "Just give it a try, Ay Yo!" |
+| 44 | [#enHYPEnforTTA](http://twitter.com/search?q=%23enHYPEnforTTA) | N/A |
+| 45 | [#SECONDWIND](http://twitter.com/search?q=%23SECONDWIND) | N/A |
 | 46 | [#ASTROSTUFFSxVELENCE](http://twitter.com/search?q=%23ASTROSTUFFSxVELENCE) | #ASTROSTUFFSxVELENCE is a hashtag used to promote a collaboration between the fashion brand Velence and the K-pop group Astro. The hashtag is used to promote their joint venture, which includes exclusive merchandise and other products. |
-| 47 | [#WelcomeBackHAECHAN](http://twitter.com/search?q=%23WelcomeBackHAECHAN) | N/A |
+| 47 | [#FreenBeckyPH](http://twitter.com/search?q=%23FreenBeckyPH) | N/A |
 
 
 

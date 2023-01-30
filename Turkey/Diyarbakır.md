@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-01-30 14:16:16 UTC`
+📆 Last Updated: `2023-01-30 15:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
 | 2 | [#EYTsizin14MayısBizim](http://twitter.com/search?q=%23EYTsizin14May%c4%b1sBizim) | N/A |
 | 3 | [Ortak Mutabakat Metni](http://twitter.com/search?q=Ortak+Mutabakat+Metni) | Ortak Mutabakat Metni is a Turkish phrase that translates to "Joint Agreement Text" in English. It is a document that outlines the terms of an agreement between two or more parties. It typically includes details such as the scope of the agreement, responsibilities of each party, and any other relevant information. |
-| 4 | [5 GB](http://twitter.com/search?q=5+GB) | 5 GB stands for 5 Gigabytes, which is a unit of digital storage. It is equivalent to 5,000 Megabytes and is commonly used to measure the size of files, such as photos, videos, and music. |
-| 5 | [Kayyum](http://twitter.com/search?q=Kayyum) | Kayyum is a Turkish word that means "trustee" or "guardian". It is used to refer to someone who is appointed to oversee the management of an organization or property. |
-| 6 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 7 | [Uyuyorlar](http://twitter.com/search?q=Uyuyorlar) | Uyuyorlar is a Turkish phrase that translates to "they are sleeping" in English. |
-| 8 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
-| 9 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
-| 10 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 11 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
-| 12 | [Kadir İstekli](http://twitter.com/search?q=Kadir+%c4%b0stekli) | N/A |
-| 13 | [Ümit Özlale](http://twitter.com/search?q=%c3%9cmit+%c3%96zlale) | N/A |
-| 14 | [Oyalamadan AFmeclise](http://twitter.com/search?q=Oyalamadan+AFmeclise) | N/A |
-| 15 | [Sevgilim](http://twitter.com/search?q=Sevgilim) | N/A |
-| 16 | [Jayden Oosterwolde](http://twitter.com/search?q=Jayden+Oosterwolde) | N/A |
-| 17 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 4 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 5 | [5 GB](http://twitter.com/search?q=5+GB) | 5 GB stands for 5 Gigabytes, which is a unit of digital storage. It is equivalent to 5,000 Megabytes and is commonly used to measure the size of files, such as photos, videos, and music. |
+| 6 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
+| 7 | [TEKBİRLERLE YOLA DEVAM](http://twitter.com/search?q=TEKB%c4%b0RLERLE+YOLA+DEVAM) | N/A |
+| 8 | [Sibel Tekin](http://twitter.com/search?q=Sibel+Tekin) | N/A |
+| 9 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 10 | [Kayyum](http://twitter.com/search?q=Kayyum) | Kayyum is a Turkish word that means "trustee" or "guardian". It is used to refer to someone who is appointed to oversee the management of an organization or property. |
+| 11 | [Uyuyorlar](http://twitter.com/search?q=Uyuyorlar) | Uyuyorlar is a Turkish phrase that translates to "they are sleeping" in English. |
+| 12 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
+| 13 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
+| 14 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
+| 15 | [SMA Bilim Kurulu](http://twitter.com/search?q=SMA+Bilim+Kurulu) | N/A |
+| 16 | [Sevgilim](http://twitter.com/search?q=Sevgilim) | N/A |
+| 17 | [Jayden Oosterwolde](http://twitter.com/search?q=Jayden+Oosterwolde) | N/A |
 | 18 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 19 | [Azgın](http://twitter.com/search?q=Azg%c4%b1n) | N/A |
-| 20 | [Çankaya Köşkü'ne](http://twitter.com/search?q=%c3%87ankaya+K%c3%b6%c5%9fk%c3%bc%27ne) | N/A |
-| 21 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 22 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
-| 23 | [Ali Palabıyık](http://twitter.com/search?q=Ali+Palab%c4%b1y%c4%b1k) | N/A |
-| 24 | [H.K.G.](http://twitter.com/search?q=H.K.G.) | N/A |
-| 25 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 26 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
-| 27 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
-| 28 | [Tiplere](http://twitter.com/search?q=Tiplere) | N/A |
-| 29 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | N/A |
-| 30 | [Mızrak Subaşı](http://twitter.com/search?q=M%c4%b1zrak+Suba%c5%9f%c4%b1) | N/A |
-| 31 | [Şuraya](http://twitter.com/search?q=%c5%9euraya) | N/A |
-| 32 | [Cumhurbaşkanlığı](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 33 | [Tavuk](http://twitter.com/search?q=Tavuk) | N/A |
-| 34 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
-| 35 | [Dava](http://twitter.com/search?q=Dava) | N/A |
-| 36 | [#YarınınTürkiyesi](http://twitter.com/search?q=%23Yar%c4%b1n%c4%b1nT%c3%bcrkiyesi) | N/A |
-| 37 | [#KocaAtamaSözünüTut](http://twitter.com/search?q=%23KocaAtamaS%c3%b6z%c3%bcn%c3%bcTut) | N/A |
-| 38 | [#BagkurKapatilsin](http://twitter.com/search?q=%23BagkurKapatilsin) | N/A |
-| 39 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
-| 40 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 41 | [#TarikatveCemaatlerKapatılsın](http://twitter.com/search?q=%23TarikatveCemaatlerKapat%c4%b1ls%c4%b1n) | N/A |
-| 42 | [#Son105Gün](http://twitter.com/search?q=%23Son105G%c3%bcn) | N/A |
-| 43 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 44 | [#Pakistan](http://twitter.com/search?q=%23Pakistan) | N/A |
-| 45 | [#AybükeÇangal](http://twitter.com/search?q=%23Ayb%c3%bcke%c3%87angal) | N/A |
-| 46 | [#galatasaraybilet](http://twitter.com/search?q=%23galatasaraybilet) | N/A |
-| 47 | [#2000sonrasiADELET](http://twitter.com/search?q=%232000sonrasiADELET) | N/A |
+| 19 | [Çankaya Köşkü'ne](http://twitter.com/search?q=%c3%87ankaya+K%c3%b6%c5%9fk%c3%bc%27ne) | N/A |
+| 20 | [Kadir İstekli](http://twitter.com/search?q=Kadir+%c4%b0stekli) | N/A |
+| 21 | [Oyalamadan AFmeclise](http://twitter.com/search?q=Oyalamadan+AFmeclise) | N/A |
+| 22 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 23 | [Azgın](http://twitter.com/search?q=Azg%c4%b1n) | N/A |
+| 24 | [Faik Öztrak](http://twitter.com/search?q=Faik+%c3%96ztrak) | N/A |
+| 25 | [Ümit Özlale](http://twitter.com/search?q=%c3%9cmit+%c3%96zlale) | N/A |
+| 26 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 27 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
+| 28 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 29 | [Tiplere](http://twitter.com/search?q=Tiplere) | N/A |
+| 30 | [Boğaziçi Üniversitesi](http://twitter.com/search?q=Bo%c4%9fazi%c3%a7i+%c3%9cniversitesi) | N/A |
+| 31 | [H.K.G.](http://twitter.com/search?q=H.K.G.) | N/A |
+| 32 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
+| 33 | [Altılı Masa](http://twitter.com/search?q=Alt%c4%b1l%c4%b1+Masa) | Altılı Masa is a Turkish card game. It is similar to the American game of poker, but with some differences. The name translates literally to "Six Table" and refers to the six players who can play at one time. The goal of the game is to make the best five-card hand out of seven cards dealt to each player. |
+| 34 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
+| 35 | [Ali Palabıyık](http://twitter.com/search?q=Ali+Palab%c4%b1y%c4%b1k) | N/A |
+| 36 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 37 | [31 Ocak Salı](http://twitter.com/search?q=31+Ocak+Sal%c4%b1) | N/A |
+| 38 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | N/A |
+| 39 | [Şuraya](http://twitter.com/search?q=%c5%9euraya) | N/A |
+| 40 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 41 | [Cumhurbaşkanlığı](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 42 | [Tavuk](http://twitter.com/search?q=Tavuk) | N/A |
+| 43 | [ilhan kesici](http://twitter.com/search?q=ilhan+kesici) | N/A |
+| 44 | [#YeterSöz100BinÖğretmenin](http://twitter.com/search?q=%23YeterS%c3%b6z100Bin%c3%96%c4%9fretmenin) | N/A |
+| 45 | [#YarınınTürkiyesi](http://twitter.com/search?q=%23Yar%c4%b1n%c4%b1nT%c3%bcrkiyesi) | N/A |
+| 46 | [#DidemArslanYılmazlaVazgecme](http://twitter.com/search?q=%23DidemArslanY%c4%b1lmazlaVazgecme) | N/A |
+| 47 | [#KocaAtamaSözünüTut](http://twitter.com/search?q=%23KocaAtamaS%c3%b6z%c3%bcn%c3%bcTut) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-01-30 14:16:17 UTC`
+📆 Last Updated: `2023-01-30 15:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,7 +37,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 20 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 21 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
 | 22 | [#ShortlandStreet](http://twitter.com/search?q=%23ShortlandStreet) | N/A |
-| 23 | [Waitangi](http://twitter.com/search?q=Waitangi) | N/A |
+| 23 | [waitangi](http://twitter.com/search?q=waitangi) | N/A |
 | 24 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 26 | [efeso](http://twitter.com/search?q=efeso) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 32 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
 | 33 | [metservice](http://twitter.com/search?q=metservice) | N/A |
 | 34 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 35 | [Hamish](http://twitter.com/search?q=Hamish) | N/A |
+| 35 | [hamish](http://twitter.com/search?q=hamish) | N/A |
 | 36 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
 | 37 | [hooton](http://twitter.com/search?q=hooton) | N/A |
 | 38 | [Goff](http://twitter.com/search?q=Goff) | Goff is a slang term used to describe someone who is socially awkward or clumsy. It is derived from the acronym "GOFF," which stands for "geeky, odd, funny, and/or freaky." |
-| 39 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 41 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 42 | [nema](http://twitter.com/search?q=nema) | N/A |
-| 43 | [Tongan](http://twitter.com/search?q=Tongan) | N/A |
-| 44 | [Climate Change](http://twitter.com/search?q=Climate+Change) | N/A |
-| 45 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 46 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 47 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 49 | [State of Emergency](http://twitter.com/search?q=State+of+Emergency) | N/A |
-| 50 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
+| 39 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
+| 40 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 41 | [NEMA](http://twitter.com/search?q=NEMA) | N/A |
+| 42 | [tongan](http://twitter.com/search?q=tongan) | N/A |
+| 43 | [Climate Change](http://twitter.com/search?q=Climate+Change) | N/A |
+| 44 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 45 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
+| 46 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 47 | [State of Emergency](http://twitter.com/search?q=State+of+Emergency) | N/A |
+| 48 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
+| 49 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 50 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-01-30 14:16:24 UTC`
+📆 Last Updated: `2023-01-30 15:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Argentina
 | 3 | [agustin](http://twitter.com/search?q=agustin) | Agustin is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustin is usually translated as "Augustine". |
 | 4 | [Jones Huala](http://twitter.com/search?q=Jones+Huala) | Jones Huala is a phrase from the Hawaiian language meaning "to be strong and brave". It is often used as a mantra to encourage and motivate people to stay strong and brave in the face of adversity. |
 | 5 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 6 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
-| 7 | [#GHArgentina](http://twitter.com/search?q=%23GHArgentina) | N/A |
-| 8 | [#GHArgentina](http://twitter.com/search?q=%23GHArgentina) | N/A |
-| 9 | [El Bolsón](http://twitter.com/search?q=El+Bols%c3%b3n) | N/A |
-| 10 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 11 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 12 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 13 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 6 | [#GHArgentina](http://twitter.com/search?q=%23GHArgentina) | N/A |
+| 7 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 9 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 10 | [El Bolsón](http://twitter.com/search?q=El+Bols%c3%b3n) | N/A |
+| 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 12 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 13 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
 | 14 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 15 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 16 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 17 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
+| 15 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 16 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
+| 17 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | N/A |
 | 18 | [Pablo Moyano](http://twitter.com/search?q=Pablo+Moyano) | N/A |
 | 19 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 20 | [Murió GH](http://twitter.com/search?q=Muri%c3%b3+GH) | Murió GH is a Spanish phrase that translates to "GH died." It is often used as an expression of sadness or mourning for someone who has passed away. |
-| 21 | [La Copa](http://twitter.com/search?q=La+Copa) | N/A |
-| 22 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 23 | [Vamos Boca](http://twitter.com/search?q=Vamos+Boca) | N/A |
-| 24 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 25 | [Ganó Boca](http://twitter.com/search?q=Gan%c3%b3+Boca) | N/A |
-| 26 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 27 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 28 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 29 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
-| 30 | [Resistencia Ancestral Mapuche](http://twitter.com/search?q=Resistencia+Ancestral+Mapuche) | N/A |
+| 20 | [La Copa](http://twitter.com/search?q=La+Copa) | N/A |
+| 21 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 22 | [Murió GH](http://twitter.com/search?q=Muri%c3%b3+GH) | Murió GH is a Spanish phrase that translates to "GH died." It is often used as an expression of sadness or mourning for someone who has passed away. |
+| 23 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 24 | [Río Negro](http://twitter.com/search?q=R%c3%ado+Negro) | N/A |
+| 25 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 26 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 27 | [Ganó Boca](http://twitter.com/search?q=Gan%c3%b3+Boca) | N/A |
+| 28 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 29 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 30 | [Medina](http://twitter.com/search?q=Medina) | N/A |
 | 31 | [Máximo Kirchner](http://twitter.com/search?q=M%c3%a1ximo+Kirchner) | N/A |
-| 32 | [Río Negro](http://twitter.com/search?q=R%c3%ado+Negro) | N/A |
-| 33 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 34 | [Zapelli](http://twitter.com/search?q=Zapelli) | N/A |
-| 35 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 36 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | N/A |
-| 37 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 38 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 39 | [Gio Simeone](http://twitter.com/search?q=Gio+Simeone) | N/A |
-| 40 | [trabajadores](http://twitter.com/search?q=trabajadores) | N/A |
-| 41 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 42 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
-| 43 | [Fefe](http://twitter.com/search?q=Fefe) | N/A |
-| 44 | [Flabián Londoño](http://twitter.com/search?q=Flabi%c3%a1n+Londo%c3%b1o) | N/A |
-| 45 | [Capuchetti](http://twitter.com/search?q=Capuchetti) | N/A |
-| 46 | [La Esperanza](http://twitter.com/search?q=La+Esperanza) | N/A |
-| 47 | [Reniero](http://twitter.com/search?q=Reniero) | N/A |
-| 48 | [paso a paso](http://twitter.com/search?q=paso+a+paso) | N/A |
-| 49 | [Zeballos](http://twitter.com/search?q=Zeballos) | Zeballos is a Spanish surname derived from the Basque name Zabal, which means "valley". In English, it can be translated to mean "valley dweller". |
-| 50 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
+| 32 | [Vamos Boca](http://twitter.com/search?q=Vamos+Boca) | N/A |
+| 33 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
+| 34 | [zapelli](http://twitter.com/search?q=zapelli) | N/A |
+| 35 | [Resistencia Ancestral Mapuche](http://twitter.com/search?q=Resistencia+Ancestral+Mapuche) | N/A |
+| 36 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 37 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 38 | [gio simeone](http://twitter.com/search?q=gio+simeone) | N/A |
+| 39 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 40 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
+| 41 | [Trabajadores](http://twitter.com/search?q=Trabajadores) | N/A |
+| 42 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 43 | [Reniero](http://twitter.com/search?q=Reniero) | N/A |
+| 44 | [Paso a Paso](http://twitter.com/search?q=Paso+a+Paso) | N/A |
+| 45 | [Fertoli](http://twitter.com/search?q=Fertoli) | N/A |
+| 46 | [Zeballos](http://twitter.com/search?q=Zeballos) | Zeballos is a Spanish surname derived from the Basque name Zabal, which means "valley". In English, it can be translated to mean "valley dweller". |
+| 47 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
+| 48 | [fefe](http://twitter.com/search?q=fefe) | N/A |
+| 49 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 50 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
 
 
 

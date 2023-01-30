@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-01-30 14:15:58 UTC`
+📆 Last Updated: `2023-01-30 15:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Spain](</Spain>)
 | 4 | [#COAC2023P9](http://twitter.com/search?q=%23COAC2023P9) | N/A |
 | 5 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 6 | [Alexis Ravelo](http://twitter.com/search?q=Alexis+Ravelo) | N/A |
-| 7 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 8 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
-| 9 | [tamayo](http://twitter.com/search?q=tamayo) | N/A |
-| 10 | [Almodóvar](http://twitter.com/search?q=Almod%c3%b3var) | N/A |
-| 11 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 12 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 13 | [Feroz](http://twitter.com/search?q=Feroz) | N/A |
-| 14 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 15 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 16 | [IlloJuan](http://twitter.com/search?q=IlloJuan) | N/A |
-| 17 | [Marie Kondo](http://twitter.com/search?q=Marie+Kondo) | N/A |
-| 18 | [Jhayco](http://twitter.com/search?q=Jhayco) | Jhayco is a slang term used in the Philippines to refer to someone who is stylish or fashionable. It is derived from the Tagalog phrase "maganda ang ayos," which translates to "well-dressed." |
-| 19 | [jagger](http://twitter.com/search?q=jagger) | N/A |
-| 20 | [lola indigo](http://twitter.com/search?q=lola+indigo) | N/A |
-| 21 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
-| 22 | [luzu](http://twitter.com/search?q=luzu) | N/A |
-| 23 | [Jedet](http://twitter.com/search?q=Jedet) | N/A |
-| 24 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
-| 25 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 26 | [karchez](http://twitter.com/search?q=karchez) | N/A |
-| 27 | [grefg](http://twitter.com/search?q=grefg) | N/A |
-| 28 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 29 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 30 | [Odón Elorza](http://twitter.com/search?q=Od%c3%b3n+Elorza) | N/A |
-| 31 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 32 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 33 | [Felicidades Majestad](http://twitter.com/search?q=Felicidades+Majestad) | N/A |
-| 34 | [gerard romero](http://twitter.com/search?q=gerard+romero) | N/A |
-| 35 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 36 | [Javier Pérez Santana](http://twitter.com/search?q=Javier+P%c3%a9rez+Santana) | N/A |
-| 37 | [Bill y Frank](http://twitter.com/search?q=Bill+y+Frank) | N/A |
-| 38 | [Indecente](http://twitter.com/search?q=Indecente) | N/A |
-| 39 | [pokemon twitch cup](http://twitter.com/search?q=pokemon+twitch+cup) | N/A |
-| 40 | [yuste](http://twitter.com/search?q=yuste) | N/A |
-| 41 | [Masi](http://twitter.com/search?q=Masi) | N/A |
-| 42 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
-| 43 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 44 | [Mellado](http://twitter.com/search?q=Mellado) | N/A |
-| 45 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 46 | [Gerona](http://twitter.com/search?q=Gerona) | N/A |
-| 47 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 48 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
-| 49 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
+| 7 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
+| 8 | [Almodóvar](http://twitter.com/search?q=Almod%c3%b3var) | N/A |
+| 9 | [Feroz](http://twitter.com/search?q=Feroz) | N/A |
+| 10 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 11 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 12 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
+| 13 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 14 | [Marie Kondo](http://twitter.com/search?q=Marie+Kondo) | N/A |
+| 15 | [Jhayco](http://twitter.com/search?q=Jhayco) | Jhayco is a slang term used in the Philippines to refer to someone who is stylish or fashionable. It is derived from the Tagalog phrase "maganda ang ayos," which translates to "well-dressed." |
+| 16 | [JAGGER](http://twitter.com/search?q=JAGGER) | N/A |
+| 17 | [illojuan](http://twitter.com/search?q=illojuan) | N/A |
+| 18 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 19 | [Kubo](http://twitter.com/search?q=Kubo) | Kubo is a Japanese word meaning "corner" or "nook." It is often used to refer to a small, cozy space, such as a corner of a room or an alcove. |
+| 20 | [Lola Indigo](http://twitter.com/search?q=Lola+Indigo) | N/A |
+| 21 | [Jedet](http://twitter.com/search?q=Jedet) | N/A |
+| 22 | [LUZU](http://twitter.com/search?q=LUZU) | N/A |
+| 23 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
+| 24 | [Grefg](http://twitter.com/search?q=Grefg) | N/A |
+| 25 | [Odón Elorza](http://twitter.com/search?q=Od%c3%b3n+Elorza) | N/A |
+| 26 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
+| 27 | [Felicidades Majestad](http://twitter.com/search?q=Felicidades+Majestad) | N/A |
+| 28 | [gerard romero](http://twitter.com/search?q=gerard+romero) | N/A |
+| 29 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 30 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 31 | [Javier Pérez Santana](http://twitter.com/search?q=Javier+P%c3%a9rez+Santana) | N/A |
+| 32 | [Bill y Frank](http://twitter.com/search?q=Bill+y+Frank) | N/A |
+| 33 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 34 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 35 | [Indecente](http://twitter.com/search?q=Indecente) | N/A |
+| 36 | [pokemon twitch cup](http://twitter.com/search?q=pokemon+twitch+cup) | N/A |
+| 37 | [yuste](http://twitter.com/search?q=yuste) | N/A |
+| 38 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
+| 39 | [Mellado](http://twitter.com/search?q=Mellado) | N/A |
+| 40 | [Casa Dani](http://twitter.com/search?q=Casa+Dani) | N/A |
+| 41 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 42 | [Masi](http://twitter.com/search?q=Masi) | N/A |
+| 43 | [Gerona](http://twitter.com/search?q=Gerona) | N/A |
+| 44 | [Imanol](http://twitter.com/search?q=Imanol) | N/A |
+| 45 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | Annie Wersching is an American actress. She is best known for her roles as FBI Special Agent Renee Walker on the Fox television series 24 and as Amelia Joffe on the ABC television series V. |
+| 46 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 47 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 48 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
+| 49 | [febas](http://twitter.com/search?q=febas) | N/A |
 
 
 

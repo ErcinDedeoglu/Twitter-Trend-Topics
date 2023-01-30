@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-01-30 14:15:59 UTC`
+📆 Last Updated: `2023-01-30 15:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,28 +15,33 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
+| 1 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
 | 2 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
 | 3 | [#tonsilstones](http://twitter.com/search?q=%23tonsilstones) | N/A |
-| 4 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 5 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
-| 6 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 4 | [valsts](http://twitter.com/search?q=valsts) | N/A |
+| 5 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
+| 6 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
 | 7 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
 | 8 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 9 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 10 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 9 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
+| 10 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 | 11 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 12 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 13 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
-| 14 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 15 | [bija](http://twitter.com/search?q=bija) | N/A |
-| 16 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 17 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 18 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 19 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 20 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | N/A |
-| 21 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 22 | [#Hockey](http://twitter.com/search?q=%23Hockey) | N/A |
+| 12 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
+| 13 | [Ukrainai](http://twitter.com/search?q=Ukrainai) | N/A |
+| 14 | [Vācijas](http://twitter.com/search?q=V%c4%81cijas) | N/A |
+| 15 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 17 | [Labāk](http://twitter.com/search?q=Lab%c4%81k) | N/A |
+| 18 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 19 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 20 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 21 | [bija](http://twitter.com/search?q=bija) | N/A |
+| 22 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 23 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 24 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 25 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
+| 26 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | N/A |
+| 27 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
 
 
 
