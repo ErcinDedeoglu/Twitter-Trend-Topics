@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-01-30 13:21:02 UTC`
+📆 Last Updated: `2023-01-30 14:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 4 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 5 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 6 | [Florence](http://twitter.com/search?q=Florence) | N/A |
-| 7 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 8 | [Orejuela](http://twitter.com/search?q=Orejuela) | Orejuela is a Spanish word that literally translates to "little ear". It is used to describe something small or insignificant. |
-| 9 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 10 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 11 | [calegari](http://twitter.com/search?q=calegari) | N/A |
-| 12 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 13 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 14 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 15 | [HAIM](http://twitter.com/search?q=HAIM) | N/A |
-| 16 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 17 | [#TheMaskedSingerBR](http://twitter.com/search?q=%23TheMaskedSingerBR) | #TheMaskedSingerBR is a Brazilian version of the popular singing competition show The Masked Singer. It is a reality television show in which celebrities compete against each other while wearing elaborate costumes and masks to conceal their identities. The audience and panel of judges must guess who the celebrity is based on their singing performance. |
-| 18 | [ADSON](http://twitter.com/search?q=ADSON) | N/A |
-| 19 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 20 | [RENATO AUGUSTO](http://twitter.com/search?q=RENATO+AUGUSTO) | N/A |
-| 21 | [#NFLnaESPN](http://twitter.com/search?q=%23NFLnaESPN) | #NFLnaESPN is a hashtag used by ESPN Brazil to promote their coverage of the National Football League (NFL). It translates to "NFL on ESPN" in English. |
-| 22 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 23 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 24 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 25 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 26 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 27 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 28 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 29 | [Pablo Maia](http://twitter.com/search?q=Pablo+Maia) | Pablo Maia is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". In English, it can be translated to mean "humble little one". |
-| 30 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 31 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 32 | [joongki](http://twitter.com/search?q=joongki) | N/A |
-| 33 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 34 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 35 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 36 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 37 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 38 | [PAULINHO](http://twitter.com/search?q=PAULINHO) | N/A |
-| 39 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 40 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 41 | [Yago Felipe](http://twitter.com/search?q=Yago+Felipe) | Yago Felipe is a Portuguese name. It is composed of two parts: Yago, which is a variation of the Hebrew name Jacob, and Felipe, which is the Spanish form of the name Philip. In English, it would be translated as Jacob Philip. |
-| 42 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
-| 43 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
-| 44 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 45 | [ROGER GUEDES](http://twitter.com/search?q=ROGER+GUEDES) | Roger Guedes is a Brazilian footballer who currently plays for Palmeiras. He is a versatile player who can play as a forward, winger, or attacking midfielder. His name in English translates to "strong warrior". |
-| 46 | [Boate Kiss](http://twitter.com/search?q=Boate+Kiss) | Boate Kiss is a Brazilian expression that refers to a passionate kiss. It literally translates to "boat kiss" in English, and it is used to describe a kiss that is so passionate and intense that it feels like you are being taken away on a boat. |
-| 47 | [Muralha](http://twitter.com/search?q=Muralha) | N/A |
-| 48 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
-| 49 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 50 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
+| 1 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 2 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
+| 3 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 4 | [Anhangabaú](http://twitter.com/search?q=Anhangaba%c3%ba) | N/A |
+| 5 | [Flume](http://twitter.com/search?q=Flume) | Flume is a data streaming platform developed by Apache. It is used to collect, aggregate, and move large amounts of streaming data from various sources to a centralized data store. The term "flume" is derived from the concept of a water flume, which is used to transport water from one place to another. |
+| 6 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 7 | [jorge ben](http://twitter.com/search?q=jorge+ben) | N/A |
+| 8 | [#redacaosportv](http://twitter.com/search?q=%23redacaosportv) | N/A |
+| 9 | [The Machine](http://twitter.com/search?q=The+Machine) | N/A |
+| 10 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 11 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 12 | [Ministro de Lula](http://twitter.com/search?q=Ministro+de+Lula) | N/A |
+| 13 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
+| 14 | [The Mars Volta](http://twitter.com/search?q=The+Mars+Volta) | N/A |
+| 15 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | N/A |
+| 16 | [Joongki](http://twitter.com/search?q=Joongki) | Joongki is a Korean name that means "righteousness" in English. It is a unisex name, so it can be used for both boys and girls. |
+| 17 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
+| 18 | [Quadrinho Nacional](http://twitter.com/search?q=Quadrinho+Nacional) | N/A |
+| 19 | [#ONEPIECE](http://twitter.com/search?q=%23ONEPIECE) | N/A |
+| 20 | [Torceria](http://twitter.com/search?q=Torceria) | N/A |
+| 21 | [#segundou](http://twitter.com/search?q=%23segundou) | N/A |
+| 22 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
+| 23 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 24 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
+| 25 | [Dia 30](http://twitter.com/search?q=Dia+30) | N/A |
+| 26 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 27 | [duda beat](http://twitter.com/search?q=duda+beat) | N/A |
+| 28 | [BR-116](http://twitter.com/search?q=BR-116) | N/A |
+| 29 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 30 | [Duque de Caxias](http://twitter.com/search?q=Duque+de+Caxias) | N/A |
+| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 32 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 33 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 34 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 35 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 36 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 37 | [Michele](http://twitter.com/search?q=Michele) | N/A |
+| 38 | [O Bill](http://twitter.com/search?q=O+Bill) | N/A |
+| 39 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 40 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 41 | [#PachecoNAO](http://twitter.com/search?q=%23PachecoNAO) | N/A |
+| 42 | [#ForaDomitila](http://twitter.com/search?q=%23ForaDomitila) | N/A |
+| 43 | [#BolsonaroGenocida](http://twitter.com/search?q=%23BolsonaroGenocida) | N/A |
+| 44 | [#GloboLixo](http://twitter.com/search?q=%23GloboLixo) | N/A |
 
 
 

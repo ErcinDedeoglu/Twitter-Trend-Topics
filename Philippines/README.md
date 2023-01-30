@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-01-30 13:21:38 UTC`
+📆 Last Updated: `2023-01-30 14:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,54 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MCIPaghahanap](http://twitter.com/search?q=%23MCIPaghahanap) | N/A |
-| 2 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
-| 3 | [#DONBELLExSMART](http://twitter.com/search?q=%23DONBELLExSMART) | N/A |
-| 4 | [bigger venue](http://twitter.com/search?q=bigger+venue) | N/A |
-| 5 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
-| 6 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 7 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
-| 8 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
-| 9 | [PROBLEM CHILD THE PREMIERE](http://twitter.com/search?q=PROBLEM+CHILD+THE+PREMIERE) | N/A |
-| 10 | [PinakaCLASH NAMIN RALPHGAIL](http://twitter.com/search?q=PinakaCLASH+NAMIN+RALPHGAIL) | N/A |
-| 11 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 12 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 13 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 14 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 2 | [#TWICE_BBWomenInMusic](http://twitter.com/search?q=%23TWICE_BBWomenInMusic) | N/A |
+| 3 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
+| 4 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
+| 5 | [#DONBELLExSMART](http://twitter.com/search?q=%23DONBELLExSMART) | N/A |
+| 6 | [#DLRegrets](http://twitter.com/search?q=%23DLRegrets) | N/A |
+| 7 | [BIGGER VENUE](http://twitter.com/search?q=BIGGER+VENUE) | N/A |
+| 8 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
+| 9 | [PinakaCLASH NAMIN RALPHGAIL](http://twitter.com/search?q=PinakaCLASH+NAMIN+RALPHGAIL) | N/A |
+| 10 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 11 | [problem child the premiere](http://twitter.com/search?q=problem+child+the+premiere) | N/A |
+| 12 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
+| 13 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
+| 14 | [woozi](http://twitter.com/search?q=woozi) | N/A |
 | 15 | [Elias](http://twitter.com/search?q=Elias) | N/A |
-| 16 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
-| 17 | [ALJAY PINAKA MALUPET](http://twitter.com/search?q=ALJAY+PINAKA+MALUPET) | N/A |
-| 18 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 19 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 20 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
-| 21 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 22 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 23 | [joongki](http://twitter.com/search?q=joongki) | N/A |
-| 24 | [SUPER JANELLA AT MEDIACON](http://twitter.com/search?q=SUPER+JANELLA+AT+MEDIACON) | N/A |
-| 25 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
-| 26 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
-| 27 | [Jullebee Ranara](http://twitter.com/search?q=Jullebee+Ranara) | N/A |
-| 28 | [JANEDELEON SHINES MEDIACON](http://twitter.com/search?q=JANEDELEON+SHINES+MEDIACON) | N/A |
-| 29 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 30 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 31 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 32 | [Kuwait](http://twitter.com/search?q=Kuwait) | N/A |
-| 33 | [#LuvIs1stDaySchool](http://twitter.com/search?q=%23LuvIs1stDaySchool) | N/A |
-| 34 | [#FreeJenAwingan](http://twitter.com/search?q=%23FreeJenAwingan) | N/A |
-| 35 | [#DLRegrets](http://twitter.com/search?q=%23DLRegrets) | N/A |
-| 36 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 37 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 38 | [#VELENCExASTROSTUFFS](http://twitter.com/search?q=%23VELENCExASTROSTUFFS) | N/A |
-| 39 | [#ENDLESSJOURNEY](http://twitter.com/search?q=%23ENDLESSJOURNEY) | #ENDLESSJOURNEY is a hashtag used to describe a journey that has no end or destination. It is often used to express the idea of an ongoing journey of self-discovery, growth, and exploration. |
-| 40 | [#G12NAT](http://twitter.com/search?q=%23G12NAT) | N/A |
-| 41 | [#WelcomeBackHAECHAN](http://twitter.com/search?q=%23WelcomeBackHAECHAN) | N/A |
-| 42 | [#FreenBeck](http://twitter.com/search?q=%23FreenBeck) | N/A |
-| 43 | [#BOYCOTTMZETxAPTxGMA691](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA691) | N/A |
+| 16 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 17 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 18 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 19 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
+| 20 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 21 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
+| 22 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 23 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 24 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 25 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 26 | [Joongki](http://twitter.com/search?q=Joongki) | Joongki is a Korean name that means "righteousness" in English. It is a unisex name, so it can be used for both boys and girls. |
+| 27 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 28 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
+| 29 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 30 | [SUPER JANELLA AT MEDIACON](http://twitter.com/search?q=SUPER+JANELLA+AT+MEDIACON) | N/A |
+| 31 | [JANEDELEON SHINES MEDIACON](http://twitter.com/search?q=JANEDELEON+SHINES+MEDIACON) | N/A |
+| 32 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 33 | [chungha](http://twitter.com/search?q=chungha) | N/A |
+| 34 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
+| 35 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
+| 36 | [#DreamMakerPIEdate](http://twitter.com/search?q=%23DreamMakerPIEdate) | N/A |
+| 37 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 38 | [#ShinewithJay](http://twitter.com/search?q=%23ShinewithJay) | N/A |
+| 39 | [#LuvIs1stDaySchool](http://twitter.com/search?q=%23LuvIs1stDaySchool) | N/A |
+| 40 | [#그냥_들어봐_Ay_Yo](http://twitter.com/search?q=%23%ea%b7%b8%eb%83%a5_%eb%93%a4%ec%96%b4%eb%b4%90_Ay_Yo) | "#그냥_들어봐_Ay_Yo" is a phrase used in South Korea to encourage someone to try something new. It roughly translates to "Just give it a try, Ay Yo!" |
+| 41 | [#FreeJenAwingan](http://twitter.com/search?q=%23FreeJenAwingan) | N/A |
+| 42 | [#DropTrumpedUpCharges](http://twitter.com/search?q=%23DropTrumpedUpCharges) | N/A |
+| 43 | [#DarnaSuperExtra](http://twitter.com/search?q=%23DarnaSuperExtra) | N/A |
+| 44 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
+| 45 | [#FreenBeck](http://twitter.com/search?q=%23FreenBeck) | N/A |
+| 46 | [#ASTROSTUFFSxVELENCE](http://twitter.com/search?q=%23ASTROSTUFFSxVELENCE) | #ASTROSTUFFSxVELENCE is a hashtag used to promote a collaboration between the fashion brand Velence and the K-pop group Astro. The hashtag is used to promote their joint venture, which includes exclusive merchandise and other products. |
+| 47 | [#WelcomeBackHAECHAN](http://twitter.com/search?q=%23WelcomeBackHAECHAN) | N/A |
+| 48 | [#ENDLESSJOURNEY](http://twitter.com/search?q=%23ENDLESSJOURNEY) | #ENDLESSJOURNEY is a hashtag used to describe a journey that has no end or destination. It is often used to express the idea of an ongoing journey of self-discovery, growth, and exploration. |
+| 49 | [#BOYCOTTMZETxAPTxGMA691](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA691) | N/A |
 
 
 

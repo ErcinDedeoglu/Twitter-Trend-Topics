@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-01-30 13:21:04 UTC`
+📆 Last Updated: `2023-01-30 14:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Austria](</Austria>)
 | 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 6 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
 | 7 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 8 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 9 | [Schnabl](http://twitter.com/search?q=Schnabl) | N/A |
-| 10 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 8 | [Schnabl](http://twitter.com/search?q=Schnabl) | N/A |
+| 9 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 10 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
 | 11 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 12 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 13 | [Traiskirchen](http://twitter.com/search?q=Traiskirchen) | N/A |
-| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 15 | [fleckerlteppich](http://twitter.com/search?q=fleckerlteppich) | N/A |
+| 12 | [Traiskirchen](http://twitter.com/search?q=Traiskirchen) | N/A |
+| 13 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 14 | [fleckerlteppich](http://twitter.com/search?q=fleckerlteppich) | N/A |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 16 | [Mikl-Leitner](http://twitter.com/search?q=Mikl-Leitner) | N/A |
-| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 18 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 19 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
-| 20 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 21 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 22 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 23 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 24 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 25 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 26 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 27 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
-| 28 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 29 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 30 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 31 | [johanna mikl](http://twitter.com/search?q=johanna+mikl) | N/A |
+| 17 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 19 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 20 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
+| 21 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 22 | [Babler](http://twitter.com/search?q=Babler) | N/A |
+| 23 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 24 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 25 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 26 | [bund](http://twitter.com/search?q=bund) | N/A |
+| 27 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 28 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 29 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
+| 30 | [johanna mikl](http://twitter.com/search?q=johanna+mikl) | N/A |
+| 31 | [Vorzugsstimmen](http://twitter.com/search?q=Vorzugsstimmen) | N/A |
 | 32 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 33 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 34 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
+| 33 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
+| 34 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
 | 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 36 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
-| 37 | [West](http://twitter.com/search?q=West) | N/A |
-| 38 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 39 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 41 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 42 | [Standard](http://twitter.com/search?q=Standard) | N/A |
-| 43 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 44 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 45 | [quelle](http://twitter.com/search?q=quelle) | N/A |
-| 46 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 47 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
-| 48 | [Möglichkeiten](http://twitter.com/search?q=M%c3%b6glichkeiten) | N/A |
-| 49 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 50 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 36 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 37 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
+| 38 | [West](http://twitter.com/search?q=West) | N/A |
+| 39 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 40 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
+| 41 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
+| 42 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 43 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
+| 44 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 45 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 46 | [Charakter](http://twitter.com/search?q=Charakter) | N/A |
+| 47 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
+| 48 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 49 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 50 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
 
 
 

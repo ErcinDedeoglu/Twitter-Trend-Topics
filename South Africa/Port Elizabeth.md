@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-01-30 13:21:19 UTC`
+📆 Last Updated: `2023-01-30 14:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 2 | [#LoveClaires](http://twitter.com/search?q=%23LoveClaires) | N/A |
-| 3 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 1 | [#LoveClaires](http://twitter.com/search?q=%23LoveClaires) | N/A |
+| 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 3 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 4 | [#LoveFNB](http://twitter.com/search?q=%23LoveFNB) | N/A |
-| 5 | [#vusimaR5](http://twitter.com/search?q=%23vusimaR5) | N/A |
-| 6 | [#isencaneLengane](http://twitter.com/search?q=%23isencaneLengane) | N/A |
+| 5 | [#EveryoneNeedsAHeadStart](http://twitter.com/search?q=%23EveryoneNeedsAHeadStart) | N/A |
+| 6 | [#vusimar5](http://twitter.com/search?q=%23vusimar5) | N/A |
 | 7 | [SANCO](http://twitter.com/search?q=SANCO) | N/A |
 | 8 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
 | 9 | [Edenvale](http://twitter.com/search?q=Edenvale) | N/A |
 | 10 | [Saile](http://twitter.com/search?q=Saile) | N/A |
 | 11 | [Judge Koen](http://twitter.com/search?q=Judge+Koen) | N/A |
-| 12 | [eWallet](http://twitter.com/search?q=eWallet) | N/A |
-| 13 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 14 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
+| 12 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 13 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
+| 14 | [eWallet](http://twitter.com/search?q=eWallet) | N/A |
 | 15 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 16 | [Candy](http://twitter.com/search?q=Candy) | N/A |
-| 17 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 18 | [Zano](http://twitter.com/search?q=Zano) | N/A |
-| 19 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
-| 20 | [Neria](http://twitter.com/search?q=Neria) | N/A |
-| 21 | [Congratulations Rob](http://twitter.com/search?q=Congratulations+Rob) | N/A |
-| 22 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 23 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
-| 24 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 25 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 26 | [Bavuma](http://twitter.com/search?q=Bavuma) | N/A |
-| 27 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [Jumanji](http://twitter.com/search?q=Jumanji) | N/A |
-| 32 | [Coloured](http://twitter.com/search?q=Coloured) | N/A |
-| 33 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 34 | [Sandra and Theo](http://twitter.com/search?q=Sandra+and+Theo) | Sandra and Theo is a Spanish language children's television series created by Televisión Española. It follows the adventures of two friends, Sandra and Theo, as they explore their world and learn about friendship, nature, and the environment. The show's title translates to "Sandra and Theo" in English. |
-| 35 | [Rutendo](http://twitter.com/search?q=Rutendo) | N/A |
-| 36 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 37 | [FOCUS ON THABANG](http://twitter.com/search?q=FOCUS+ON+THABANG) | N/A |
-| 38 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 39 | [Moja Love](http://twitter.com/search?q=Moja+Love) | N/A |
-| 40 | [20th of march](http://twitter.com/search?q=20th+of+march) | N/A |
-| 41 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | N/A |
-| 42 | [Bacardi](http://twitter.com/search?q=Bacardi) | N/A |
+| 16 | [candy](http://twitter.com/search?q=candy) | N/A |
+| 17 | [Congratulations Rob](http://twitter.com/search?q=Congratulations+Rob) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 20 | [Zano](http://twitter.com/search?q=Zano) | N/A |
+| 21 | [Rico Lewis](http://twitter.com/search?q=Rico+Lewis) | Rico Lewis is a Spanish phrase meaning "rich and powerful". It is often used to describe someone who has achieved success and wealth. |
+| 22 | [Neria](http://twitter.com/search?q=Neria) | N/A |
+| 23 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
+| 24 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 25 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
+| 26 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 27 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 28 | [Bavuma](http://twitter.com/search?q=Bavuma) | N/A |
+| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 30 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 31 | [Coloured](http://twitter.com/search?q=Coloured) | N/A |
+| 32 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 33 | [Sandra and Theo](http://twitter.com/search?q=Sandra+and+Theo) | Sandra and Theo is a Spanish language children's television series created by Televisión Española. It follows the adventures of two friends, Sandra and Theo, as they explore their world and learn about friendship, nature, and the environment. The show's title translates to "Sandra and Theo" in English. |
+| 34 | [20th of March](http://twitter.com/search?q=20th+of+March) | N/A |
+| 35 | [FOCUS ON THABANG](http://twitter.com/search?q=FOCUS+ON+THABANG) | N/A |
+| 36 | [rutendo](http://twitter.com/search?q=rutendo) | N/A |
+| 37 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | N/A |
+| 40 | [Bacardi](http://twitter.com/search?q=Bacardi) | N/A |
+| 41 | [Moja Love](http://twitter.com/search?q=Moja+Love) | N/A |
+| 42 | [JHB CBD](http://twitter.com/search?q=JHB+CBD) | N/A |
 | 43 | [Potholes](http://twitter.com/search?q=Potholes) | N/A |
-| 44 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 44 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
 | 45 | [Barcadi](http://twitter.com/search?q=Barcadi) | N/A |
-| 46 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 47 | [Solomons](http://twitter.com/search?q=Solomons) | N/A |
-| 48 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 49 | [Shoprite](http://twitter.com/search?q=Shoprite) | N/A |
-| 50 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 46 | [Jumanji](http://twitter.com/search?q=Jumanji) | N/A |
+| 47 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 48 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 49 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 50 | [Shoprite](http://twitter.com/search?q=Shoprite) | N/A |
 
 
 

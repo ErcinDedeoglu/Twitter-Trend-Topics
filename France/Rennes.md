@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-01-30 13:21:05 UTC`
+📆 Last Updated: `2023-01-30 14:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,46 @@ This is top 50 for [France](</France>)
 | 6 | [#24hdaytonafrance](http://twitter.com/search?q=%2324hdaytonafrance) | N/A |
 | 7 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
 | 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [verratti](http://twitter.com/search?q=verratti) | N/A |
-| 10 | [vincent gérard](http://twitter.com/search?q=vincent+g%c3%a9rard) | N/A |
-| 11 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 12 | [ton pokémon](http://twitter.com/search?q=ton+pok%c3%a9mon) | N/A |
-| 13 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 14 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 16 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
-| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 18 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 19 | [Vercoutre](http://twitter.com/search?q=Vercoutre) | N/A |
-| 20 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 21 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 22 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 9 | [vincent gérard](http://twitter.com/search?q=vincent+g%c3%a9rard) | N/A |
+| 10 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 11 | [verratti](http://twitter.com/search?q=verratti) | N/A |
+| 12 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 14 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
+| 15 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 18 | [Vercoutre](http://twitter.com/search?q=Vercoutre) | N/A |
+| 19 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 20 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 21 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 22 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
 | 23 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
-| 24 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 25 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 24 | [ton pokémon](http://twitter.com/search?q=ton+pok%c3%a9mon) | N/A |
+| 25 | [Davies](http://twitter.com/search?q=Davies) | N/A |
 | 26 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 27 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 28 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 29 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 30 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 31 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 32 | [soler](http://twitter.com/search?q=soler) | N/A |
-| 33 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 34 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 35 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 36 | [Joe Burrow](http://twitter.com/search?q=Joe+Burrow) | Joe Burrow is an American football quarterback who currently plays for the Cincinnati Bengals of the National Football League (NFL). He played college football at Louisiana State University (LSU), where he won the Heisman Trophy, Maxwell Award, and Walter Camp Award in 2019. The name "Joe Burrow" is derived from his given name, Joseph Lee Burrow. |
+| 28 | [Mazraoui](http://twitter.com/search?q=Mazraoui) | N/A |
+| 29 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 30 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 31 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 32 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 33 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 34 | [Joe Burrow](http://twitter.com/search?q=Joe+Burrow) | Joe Burrow is an American football quarterback who currently plays for the Cincinnati Bengals of the National Football League (NFL). He played college football at Louisiana State University (LSU), where he won the Heisman Trophy, Maxwell Award, and Walter Camp Award in 2019. The name "Joe Burrow" is derived from his given name, Joseph Lee Burrow. |
+| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 36 | [Payet](http://twitter.com/search?q=Payet) | N/A |
 | 37 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 38 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | Annie Wersching is an American actress. She is best known for her roles as FBI Special Agent Renee Walker on the Fox television series 24 and as Amelia Joffe on the ABC television series V. |
-| 39 | [Danois](http://twitter.com/search?q=Danois) | N/A |
-| 40 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 41 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 42 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 43 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
-| 44 | [l'épisode 3](http://twitter.com/search?q=l%27%c3%a9pisode+3) | N/A |
-| 45 | [Cabella](http://twitter.com/search?q=Cabella) | N/A |
-| 46 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 47 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 48 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 49 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 38 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 39 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 40 | [L'épisode 3](http://twitter.com/search?q=L%27%c3%a9pisode+3) | N/A |
+| 41 | [danois](http://twitter.com/search?q=danois) | N/A |
+| 42 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 43 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 44 | [Kolasinac](http://twitter.com/search?q=Kolasinac) | N/A |
+| 45 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 46 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 47 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 48 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 
 
 
