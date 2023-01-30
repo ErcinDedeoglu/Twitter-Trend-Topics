@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-01-30 02:34:07 UTC`
+📆 Last Updated: `2023-01-30 03:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 2 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
-| 3 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
-| 4 | [Kyle](http://twitter.com/search?q=Kyle) | N/A |
-| 5 | [Tommy John](http://twitter.com/search?q=Tommy+John) | N/A |
-| 6 | [Joe Shiesty](http://twitter.com/search?q=Joe+Shiesty) | Joe Shiesty is a slang term used to describe someone who is aggressive, daring, and willing to take risks. It can also be used to describe someone who is not afraid to stand up for themselves or speak their mind. |
-| 7 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 8 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 9 | [Trey](http://twitter.com/search?q=Trey) | N/A |
-| 10 | [4 QBs](http://twitter.com/search?q=4+QBs) | N/A |
-| 11 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
-| 12 | [O-line](http://twitter.com/search?q=O-line) | N/A |
-| 13 | [Deebo](http://twitter.com/search?q=Deebo) | Deebo is a slang term derived from the character Deebo in the 1995 movie Friday. It is used to refer to someone who is strong, intimidating, or aggressive. |
-| 14 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 15 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
-| 16 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | Annie Wersching is an American actress. She is best known for her roles as FBI Special Agent Renee Walker on the Fox television series 24 and as Amelia Joffe on the ABC television series V. |
-| 17 | [3 QBs](http://twitter.com/search?q=3+QBs) | N/A |
-| 18 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 19 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 20 | [Eli Apple](http://twitter.com/search?q=Eli+Apple) | Eli Apple is a pun on the phrase "I.D. apple," which is slang for identification card. It is often used to refer to someone who is new or inexperienced in a particular field or activity. |
-| 21 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 22 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 23 | [Tee Higgins](http://twitter.com/search?q=Tee+Higgins) | Tee Higgins is a nickname for the American football player Tee Higgins, who plays wide receiver for the Cincinnati Bengals. The name is derived from his given name, Terrell. |
-| 24 | [Tony Romo](http://twitter.com/search?q=Tony+Romo) | Tony Romo is an American football player who played for the Dallas Cowboys from 2003 to 2016. He is widely regarded as one of the best quarterbacks in NFL history, having been selected to four Pro Bowls and leading the Cowboys to six playoff appearances. The phrase "Tony Romo" has become synonymous with clutch performances and game-winning drives. |
-| 25 | [#AFCChampionship](http://twitter.com/search?q=%23AFCChampionship) | #AFCChampionship is a hashtag used on social media to refer to the American Football Conference (AFC) Championship Game, which is the annual championship game of the National Football League (NFL). It is played between the winners of the two divisions of the AFC: the East and West. The winner of this game advances to the Super Bowl. |
-| 26 | [#CINatKC](http://twitter.com/search?q=%23CINatKC) | #CINatKC is a hashtag used to refer to the Cincinnati Bengals' upcoming game against the Kansas City Chiefs. It stands for "Cincinnati at Kansas City". |
-| 27 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 28 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 29 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 30 | [Trent Williams](http://twitter.com/search?q=Trent+Williams) | Trent Williams is an American football offensive tackle for the San Francisco 49ers of the National Football League (NFL). He was drafted by the Washington Redskins fourth overall in the 2010 NFL Draft. He has been selected to seven Pro Bowls and is considered one of the best offensive tackles in the NFL. |
-| 31 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 32 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 33 | [Zac Taylor](http://twitter.com/search?q=Zac+Taylor) | Zac Taylor is the head coach of the Cincinnati Bengals, an American football team in the National Football League (NFL). He was hired in 2019 and is the youngest head coach in the NFL. The name Zac Taylor comes from his given name Zachary Taylor. |
-| 34 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 35 | [Empire State Building](http://twitter.com/search?q=Empire+State+Building) | The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. It was designed by Shreve, Lamb & Harmon and completed in 1931. Standing at 1,454 feet (443 m) tall, it was the world's tallest building until 1972. The Empire State Building is an iconic symbol of New York City and a popular tourist attraction. |
-| 36 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
-| 37 | [Megyn](http://twitter.com/search?q=Megyn) | Megyn is a female given name of Irish origin, derived from the Gaelic word "Méigín", meaning "little pearl". |
-| 38 | [Kellen Moore](http://twitter.com/search?q=Kellen+Moore) | Kellen Moore is an American football quarterback who is currently a free agent. He played college football at Boise State University and was signed by the Detroit Lions as an undrafted free agent in 2012. He has also been a member of the Dallas Cowboys, Miami Dolphins, and Arizona Cardinals. |
-| 39 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
-| 40 | [Kansas City](http://twitter.com/search?q=Kansas+City) | Kansas City is a city in the U.S. state of Missouri, located at the confluence of the Missouri and Kansas rivers. It is the largest city in Missouri and the 37th most populous city in the United States. The city is known for its jazz and blues music, barbecue, and fountains. |
-| 41 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 42 | [Cincy](http://twitter.com/search?q=Cincy) | Cincy is a nickname for the city of Cincinnati, Ohio. It is derived from the city's name and is commonly used by locals. |
-| 43 | [Charisse](http://twitter.com/search?q=Charisse) | Charisse is a French name derived from the Latin word carissima, meaning "dear one" or "beloved". It is also a variant of the name Charis, which means grace or kindness. |
-| 44 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 45 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 46 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
-| 47 | [Hubbard](http://twitter.com/search?q=Hubbard) | N/A |
-| 48 | [Perine](http://twitter.com/search?q=Perine) | N/A |
-| 49 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
-| 50 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
+| 2 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
+| 3 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
+| 4 | [O-line](http://twitter.com/search?q=O-line) | N/A |
+| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 6 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 7 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 8 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 9 | [Tommy John](http://twitter.com/search?q=Tommy+John) | N/A |
+| 10 | [Dr. Jill Biden](http://twitter.com/search?q=Dr.+Jill+Biden) | N/A |
+| 11 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
+| 12 | [Kyle](http://twitter.com/search?q=Kyle) | N/A |
+| 13 | [#NFLPlayoffs](http://twitter.com/search?q=%23NFLPlayoffs) | #NFLPlayoffs is a hashtag used on social media to refer to the National Football League (NFL) playoffs. It is used to discuss the teams, players, and games that are part of the NFL postseason. |
+| 14 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 15 | [PhDs](http://twitter.com/search?q=PhDs) | N/A |
+| 16 | [#SBLVII](http://twitter.com/search?q=%23SBLVII) | N/A |
+| 17 | [Trey](http://twitter.com/search?q=Trey) | N/A |
+| 18 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
+| 19 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 20 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 21 | [Eli Apple](http://twitter.com/search?q=Eli+Apple) | Eli Apple is a pun on the phrase "I.D. apple," which is slang for identification card. It is often used to refer to someone who is new or inexperienced in a particular field or activity. |
+| 22 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
+| 23 | [Tony Romo](http://twitter.com/search?q=Tony+Romo) | Tony Romo is an American football player who played for the Dallas Cowboys from 2003 to 2016. He is widely regarded as one of the best quarterbacks in NFL history, having been selected to four Pro Bowls and leading the Cowboys to six playoff appearances. The phrase "Tony Romo" has become synonymous with clutch performances and game-winning drives. |
+| 24 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 25 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 26 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
+| 27 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
+| 28 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 29 | [Tee Higgins](http://twitter.com/search?q=Tee+Higgins) | Tee Higgins is a nickname for the American football player Tee Higgins, who plays wide receiver for the Cincinnati Bengals. The name is derived from his given name, Terrell. |
+| 30 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 31 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 32 | [Cancun](http://twitter.com/search?q=Cancun) | N/A |
+| 33 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 34 | [Zac Taylor](http://twitter.com/search?q=Zac+Taylor) | Zac Taylor is the head coach of the Cincinnati Bengals, an American football team in the National Football League (NFL). He was hired in 2019 and is the youngest head coach in the NFL. The name Zac Taylor comes from his given name Zachary Taylor. |
+| 35 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 36 | [Jamar](http://twitter.com/search?q=Jamar) | Jamar is a name of Arabic origin, meaning "handsome". |
+| 37 | [Perine](http://twitter.com/search?q=Perine) | Perine is a term used in anatomy to refer to the area between the anus and the genitals. It is also known as the perineal region. In English, it can be defined as the area between the anus and external genitalia. |
+| 38 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 39 | [Joey B](http://twitter.com/search?q=Joey+B) | Joey B is a nickname for Ghanaian rapper and singer, Joey B. It is derived from his first name, Joey. |
+| 40 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 41 | [Empire State Building](http://twitter.com/search?q=Empire+State+Building) | The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. It was designed by Shreve, Lamb & Harmon and completed in 1931. Standing at 1,454 feet (443 m) tall, it was the world's tallest building until 1972. The Empire State Building is an iconic symbol of New York City and a popular tourist attraction. |
+| 42 | [Patty](http://twitter.com/search?q=Patty) | Patty is a slang term for a hamburger patty, which is a flat, round piece of ground meat that is cooked and served between two slices of bread. |
+| 43 | [Bungles](http://twitter.com/search?q=Bungles) | N/A |
+| 44 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 45 | [Megyn](http://twitter.com/search?q=Megyn) | Megyn is a female given name of Irish origin, derived from the Gaelic word "Méigín", meaning "little pearl". |
+| 46 | [Trent Williams](http://twitter.com/search?q=Trent+Williams) | Trent Williams is an American football offensive tackle for the San Francisco 49ers of the National Football League (NFL). He was drafted by the Washington Redskins fourth overall in the 2010 NFL Draft. He has been selected to seven Pro Bowls and is considered one of the best offensive tackles in the NFL. |
+| 47 | [Butker](http://twitter.com/search?q=Butker) | Butker is a German word meaning "butcher". It is used to refer to someone who works in the meat industry, either as a butcher or a meat cutter. |
+| 48 | [Ja’Marr](http://twitter.com/search?q=Ja%e2%80%99Marr) | Ja’Marr is a unisex name of African-American origin. It is derived from the Arabic name Jamar, which means “handsome” or “beautiful”. |
+| 49 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 50 | [Cabo](http://twitter.com/search?q=Cabo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-01-30 02:34:17 UTC`
+📆 Last Updated: `2023-01-30 03:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,13 +35,13 @@ This is top 50 for Turkey
 | 18 | [kaan ayhan](http://twitter.com/search?q=kaan+ayhan) | N/A |
 | 19 | [Mert Müldür](http://twitter.com/search?q=Mert+M%c3%bcld%c3%bcr) | Mert Müldür is a Turkish name, composed of two words: Mert (meaning brave or courageous) and Müldür (meaning leader). In English, the name could be translated as "brave leader". |
 | 20 | [merkeztaşra buhranı](http://twitter.com/search?q=merkezta%c5%9fra+buhran%c4%b1) | N/A |
-| 21 | [Emre Demir](http://twitter.com/search?q=Emre+Demir) | Emre Demir is a Turkish given name. It is composed of two words: "Emre" which means "leader" and "Demir" which means "iron". In English, the name Emre Demir can be translated to mean "Iron Leader". |
+| 21 | [emre demir](http://twitter.com/search?q=emre+demir) | N/A |
 | 22 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
-| 23 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
-| 24 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | N/A |
-| 25 | [Teşekkürler Amasya](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Amasya) | N/A |
-| 26 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
-| 27 | [asmgrup elemanımağdur](http://twitter.com/search?q=asmgrup+eleman%c4%b1ma%c4%9fdur) | N/A |
+| 23 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | N/A |
+| 24 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
+| 25 | [asmgrup elemanımağdur](http://twitter.com/search?q=asmgrup+eleman%c4%b1ma%c4%9fdur) | N/A |
+| 26 | [Teşekkürler Amasya](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Amasya) | N/A |
+| 27 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
 | 28 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
 | 29 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
 | 30 | [Giresun](http://twitter.com/search?q=Giresun) | Giresun is a province in the Black Sea region of Turkey. Its name in English translates to "Sunny Place". |
@@ -49,22 +49,22 @@ This is top 50 for Turkey
 | 32 | [ALİ HAYDAR ÇELEBİ](http://twitter.com/search?q=AL%c4%b0+HAYDAR+%c3%87ELEB%c4%b0) | N/A |
 | 33 | [Aytaç](http://twitter.com/search?q=Ayta%c3%a7) | N/A |
 | 34 | [uğur dündar](http://twitter.com/search?q=u%c4%9fur+d%c3%bcndar) | N/A |
-| 35 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
-| 36 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 35 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 36 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
 | 37 | [Sabri Çelik](http://twitter.com/search?q=Sabri+%c3%87elik) | Sabri Çelik is a Turkish name. It is composed of two words: Sabri, which means "patient" or "enduring," and Çelik, which means "steel." In English, the name could be translated as "Patient Steel." |
 | 38 | [seniseviyoruz canselayanoğlu](http://twitter.com/search?q=seniseviyoruz+canselayano%c4%9flu) | N/A |
 | 39 | [beyza tufan](http://twitter.com/search?q=beyza+tufan) | N/A |
 | 40 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 41 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
-| 42 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
-| 43 | [MASA ÜÇ BUÇUK ATIYOR](http://twitter.com/search?q=MASA+%c3%9c%c3%87+BU%c3%87UK+ATIYOR) | N/A |
+| 41 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
+| 42 | [MASA ÜÇ BUÇUK ATIYOR](http://twitter.com/search?q=MASA+%c3%9c%c3%87+BU%c3%87UK+ATIYOR) | N/A |
+| 43 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
 | 44 | [emin bayram](http://twitter.com/search?q=emin+bayram) | N/A |
-| 45 | [Yeni MHK](http://twitter.com/search?q=Yeni+MHK) | N/A |
+| 45 | [yeni mhk](http://twitter.com/search?q=yeni+mhk) | N/A |
 | 46 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 47 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
-| 48 | [Yusuf Güney](http://twitter.com/search?q=Yusuf+G%c3%bcney) | N/A |
-| 49 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 50 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 47 | [Targaryen](http://twitter.com/search?q=Targaryen) | N/A |
+| 48 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
+| 49 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 50 | [Ofsaytımsı](http://twitter.com/search?q=Ofsayt%c4%b1ms%c4%b1) | Ofsaytımsı is a Turkish phrase that translates to "I'm sorry" in English. It is used as an apology or expression of regret. |
 
 
 

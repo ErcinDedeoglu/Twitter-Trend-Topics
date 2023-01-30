@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-01-30 02:34:17 UTC`
+📆 Last Updated: `2023-01-30 03:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for Switzerland
 | 18 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
 | 19 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 20 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 21 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 21 | [lösungen](http://twitter.com/search?q=l%c3%b6sungen) | N/A |
 | 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 23 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 24 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
@@ -56,14 +56,14 @@ This is top 50 for Switzerland
 | 39 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
 | 40 | [Linie](http://twitter.com/search?q=Linie) | N/A |
 | 41 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 42 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
-| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 45 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 47 | [America](http://twitter.com/search?q=America) | N/A |
-| 48 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 49 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 42 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 43 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
+| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 47 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 48 | [America](http://twitter.com/search?q=America) | N/A |
+| 49 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
 | 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 
 

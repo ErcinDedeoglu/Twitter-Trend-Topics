@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-01-30 02:33:55 UTC`
+📆 Last Updated: `2023-01-30 03:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 9 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
 | 10 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 11 | [#interswitchspak4](http://twitter.com/search?q=%23interswitchspak4) | N/A |
-| 12 | [Seyi Vibez](http://twitter.com/search?q=Seyi+Vibez) | N/A |
-| 13 | [Naira](http://twitter.com/search?q=Naira) | N/A |
-| 14 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | N/A |
+| 12 | [Seyi](http://twitter.com/search?q=Seyi) | N/A |
+| 13 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | N/A |
+| 14 | [Naira](http://twitter.com/search?q=Naira) | N/A |
 | 15 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 16 | [SHOP PHYNA MERCH](http://twitter.com/search?q=SHOP+PHYNA+MERCH) | N/A |
 | 17 | [WORLD PHYNA DAY](http://twitter.com/search?q=WORLD+PHYNA+DAY) | N/A |
@@ -37,28 +37,28 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 20 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
 | 21 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 22 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
-| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 26 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 25 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 27 | [The Central Bank Of Nigeria](http://twitter.com/search?q=The+Central+Bank+Of+Nigeria) | N/A |
 | 28 | [Zamfara State](http://twitter.com/search?q=Zamfara+State) | N/A |
-| 29 | [10th of February](http://twitter.com/search?q=10th+of+February) | N/A |
+| 29 | [10th of february](http://twitter.com/search?q=10th+of+february) | N/A |
 | 30 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 31 | [Stand By You](http://twitter.com/search?q=Stand+By+You) | N/A |
 | 32 | [dj xclusive](http://twitter.com/search?q=dj+xclusive) | N/A |
 | 33 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 34 | [ATMs](http://twitter.com/search?q=ATMs) | N/A |
-| 35 | [GOOD LUCK YELISA](http://twitter.com/search?q=GOOD+LUCK+YELISA) | N/A |
-| 36 | [Lookman](http://twitter.com/search?q=Lookman) | Lookman is a slang term used to describe someone who is always looking for attention or trying to be noticed. It can also be used to describe someone who is overly eager or desperate for something. |
-| 37 | [Jaiz Bank](http://twitter.com/search?q=Jaiz+Bank) | N/A |
-| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 39 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 40 | [He is 37](http://twitter.com/search?q=He+is+37) | N/A |
-| 41 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
-| 42 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 43 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 44 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 34 | [GOOD LUCK YELISA](http://twitter.com/search?q=GOOD+LUCK+YELISA) | N/A |
+| 35 | [Lookman](http://twitter.com/search?q=Lookman) | Lookman is a slang term used to describe someone who is always looking for attention or trying to be noticed. It can also be used to describe someone who is overly eager or desperate for something. |
+| 36 | [Jaiz Bank](http://twitter.com/search?q=Jaiz+Bank) | N/A |
+| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 38 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 39 | [He is 37](http://twitter.com/search?q=He+is+37) | N/A |
+| 40 | [Emefiele](http://twitter.com/search?q=Emefiele) | N/A |
+| 41 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 42 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 43 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 44 | [ATMs](http://twitter.com/search?q=ATMs) | N/A |
 | 45 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
 | 46 | [The CBN](http://twitter.com/search?q=The+CBN) | N/A |
 | 47 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |

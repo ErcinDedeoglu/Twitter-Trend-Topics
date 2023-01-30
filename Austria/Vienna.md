@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-01-30 02:33:41 UTC`
+📆 Last Updated: `2023-01-30 03:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Austria](</Austria>)
 | 3 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 4 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 6 | [#ltw2023](http://twitter.com/search?q=%23ltw2023) | N/A |
-| 7 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 6 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 7 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
 | 8 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
 | 9 | [schnabl](http://twitter.com/search?q=schnabl) | N/A |
 | 10 | [haltung](http://twitter.com/search?q=haltung) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for [Austria](</Austria>)
 | 30 | [Finale](http://twitter.com/search?q=Finale) | N/A |
 | 31 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
 | 32 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 33 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 33 | [themen](http://twitter.com/search?q=themen) | N/A |
 | 34 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
 | 35 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
 | 36 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |

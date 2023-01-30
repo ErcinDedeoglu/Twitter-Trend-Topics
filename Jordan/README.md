@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-01-30 02:34:14 UTC`
+📆 Last Updated: `2023-01-30 03:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,15 +31,15 @@ This is top 50 for Jordan
 | 14 | [#عمليه_القدس](http://twitter.com/search?q=%23%d8%b9%d9%85%d9%84%d9%8a%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b3) | #عمليه_القدس is an Arabic hashtag that translates to "Operation Jerusalem" in English. It is used to refer to the Israeli military operation in the Gaza Strip in 2018. |
 | 15 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 16 | [عيد ميلاد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d9%8a%d9%84%d8%a7%d8%af) | N/A |
-| 17 | [الحمي القلاعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%8a+%d8%a7%d9%84%d9%82%d9%84%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 18 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 19 | [سيد البلاد](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af) | N/A |
-| 20 | [علي درب الخير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 21 | [سوسيداد](http://twitter.com/search?q=%d8%b3%d9%88%d8%b3%d9%8a%d8%af%d8%a7%d8%af) | سوسيداد (Soussad) is an Arabic word meaning "dignity" or "honor". It is often used to refer to the dignity and respect that should be accorded to a person or group of people. |
-| 22 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
-| 23 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 24 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
-| 25 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | N/A |
+| 17 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 18 | [سيد البلاد](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af) | N/A |
+| 19 | [علي درب الخير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 20 | [سوسيداد](http://twitter.com/search?q=%d8%b3%d9%88%d8%b3%d9%8a%d8%af%d8%a7%d8%af) | سوسيداد (Soussad) is an Arabic word meaning "dignity" or "honor". It is often used to refer to the dignity and respect that should be accorded to a person or group of people. |
+| 21 | [الاردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86) | N/A |
+| 22 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 23 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
+| 24 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | N/A |
+| 25 | [الحمي القلاعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%8a+%d8%a7%d9%84%d9%82%d9%84%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 | 26 | [علي الفاضي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%a7%d8%b6%d9%8a) | N/A |
 | 27 | [العمر المديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%af) | N/A |
 | 28 | [عمر السعدي](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%8a) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Jordan
 | 42 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
 | 43 | [بني صخر](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%b5%d8%ae%d8%b1) | N/A |
 | 44 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 45 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
-| 46 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 47 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 48 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 49 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
-| 50 | [الفيسبوك](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b3%d8%a8%d9%88%d9%83) | N/A |
+| 45 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 46 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 47 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 48 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
+| 49 | [الفيسبوك](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b3%d8%a8%d9%88%d9%83) | N/A |
+| 50 | [وتركيا](http://twitter.com/search?q=%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
 
 
 

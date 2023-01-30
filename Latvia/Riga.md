@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-01-30 02:33:47 UTC`
+📆 Last Updated: `2023-01-30 03:15:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Latvia](</Latvia>)
 | ------- | ------------ | ------------ |
 | 1 | [#muzikalabanka](http://twitter.com/search?q=%23muzikalabanka) | N/A |
 | 2 | [rimi](http://twitter.com/search?q=rimi) | N/A |
-| 3 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 3 | [#Ukulele](http://twitter.com/search?q=%23Ukulele) | N/A |
 | 4 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 5 | [#tonsilstones](http://twitter.com/search?q=%23tonsilstones) | N/A |
 | 6 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
@@ -27,8 +27,8 @@ This is top 50 for [Latvia](</Latvia>)
 | 10 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 11 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 12 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 13 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 14 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 13 | [viss](http://twitter.com/search?q=viss) | N/A |
+| 14 | [bija](http://twitter.com/search?q=bija) | N/A |
 | 15 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
 | 16 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
 | 17 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-01-30 02:34:17 UTC`
+📆 Last Updated: `2023-01-30 03:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Sweden
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [pokka](http://twitter.com/search?q=pokka) | N/A |
-| 2 | [Frycklund](http://twitter.com/search?q=Frycklund) | N/A |
+| 2 | [frycklund](http://twitter.com/search?q=frycklund) | N/A |
 | 3 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 4 | [krister](http://twitter.com/search?q=krister) | N/A |
 | 5 | [#FlyEaglesFly](http://twitter.com/search?q=%23FlyEaglesFly) | #FlyEaglesFly is a hashtag and slogan used by fans of the Philadelphia Eagles, an American football team. It is used to show support for the team and to rally other fans. The phrase is often chanted at games and events. |
@@ -44,12 +44,12 @@ This is top 50 for Sweden
 | 27 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 28 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 29 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 30 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
-| 31 | [rögle](http://twitter.com/search?q=r%c3%b6gle) | N/A |
-| 32 | [Tyre Nichols](http://twitter.com/search?q=Tyre+Nichols) | Tyre Nichols is a name of African-American origin. It is derived from the French word "tirer," which means "to pull," and the English word "Nichols," which is a patronymic surname meaning "son of Nicholas." The name Tyre Nichols can be translated to mean "the son of Nicholas who pulls." |
-| 33 | [spanien](http://twitter.com/search?q=spanien) | N/A |
-| 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [#nflse](http://twitter.com/search?q=%23nflse) | N/A |
+| 31 | [botkyrka](http://twitter.com/search?q=botkyrka) | N/A |
+| 32 | [rögle](http://twitter.com/search?q=r%c3%b6gle) | N/A |
+| 33 | [Tyre Nichols](http://twitter.com/search?q=Tyre+Nichols) | Tyre Nichols is a name of African-American origin. It is derived from the French word "tirer," which means "to pull," and the English word "Nichols," which is a patronymic surname meaning "son of Nicholas." The name Tyre Nichols can be translated to mean "the son of Nicholas who pulls." |
+| 34 | [spanien](http://twitter.com/search?q=spanien) | N/A |
+| 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 36 | [Burzum](http://twitter.com/search?q=Burzum) | N/A |
 | 37 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
 | 38 | [Vincennes](http://twitter.com/search?q=Vincennes) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-01-30 02:34:12 UTC`
+📆 Last Updated: `2023-01-30 03:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for Austria
 | 3 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 4 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 6 | [#ltw2023](http://twitter.com/search?q=%23ltw2023) | N/A |
-| 7 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 6 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 7 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
 | 8 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
 | 9 | [schnabl](http://twitter.com/search?q=schnabl) | N/A |
 | 10 | [haltung](http://twitter.com/search?q=haltung) | N/A |
@@ -60,7 +60,7 @@ This is top 50 for Austria
 | 43 | [zeitverlust](http://twitter.com/search?q=zeitverlust) | N/A |
 | 44 | [Standard](http://twitter.com/search?q=Standard) | N/A |
 | 45 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 46 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 46 | [koalition](http://twitter.com/search?q=koalition) | N/A |
 | 47 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
 | 48 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
 | 49 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-01-30 02:34:15 UTC`
+📆 Last Updated: `2023-01-30 03:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,15 +31,15 @@ This is top 50 for Kuwait
 | 14 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
 | 15 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | N/A |
 | 16 | [سوسيداد](http://twitter.com/search?q=%d8%b3%d9%88%d8%b3%d9%8a%d8%af%d8%a7%d8%af) | سوسيداد (Soussad) is an Arabic word meaning "dignity" or "honor". It is often used to refer to the dignity and respect that should be accorded to a person or group of people. |
-| 17 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 18 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 19 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 20 | [يابو عواد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%88%d8%a7%d8%af) | N/A |
-| 21 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 23 | [النظام المصرفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a) | N/A |
-| 24 | [جاسم البديوي](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d8%a7%d9%84%d8%a8%d8%af%d9%8a%d9%88%d9%8a) | N/A |
-| 25 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 17 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 18 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 19 | [يابو عواد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%88%d8%a7%d8%af) | N/A |
+| 20 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 21 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 22 | [النظام المصرفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a) | N/A |
+| 23 | [جاسم البديوي](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d8%a7%d9%84%d8%a8%d8%af%d9%8a%d9%88%d9%8a) | N/A |
+| 24 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 25 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
 | 26 | [حمد المطر](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 27 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 28 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
@@ -49,11 +49,11 @@ This is top 50 for Kuwait
 | 32 | [مورينيو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%8a%d9%88) | N/A |
 | 33 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
 | 34 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 35 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 36 | [المواطن البسيط](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86+%d8%a7%d9%84%d8%a8%d8%b3%d9%8a%d8%b7) | N/A |
-| 37 | [دوله الكويت](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 38 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 39 | [ابن باز](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a8%d8%a7%d8%b2) | N/A |
+| 35 | [اللهم القبول](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84) | N/A |
+| 36 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
+| 37 | [المواطن البسيط](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86+%d8%a7%d9%84%d8%a8%d8%b3%d9%8a%d8%b7) | N/A |
+| 38 | [دوله الكويت](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 39 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
 | 40 | [مجلس الامه](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
 | 41 | [الامارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
 | 42 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
@@ -61,7 +61,7 @@ This is top 50 for Kuwait
 | 44 | [سليمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | سليمان (Solomon) is a figure in the Bible and the Qur'an. He was a king of Israel and is known for his wisdom. In English, his name means "peaceful". |
 | 45 | [القادسية](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9) | N/A |
 | 46 | [الدوله العميقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d9%82%d9%87) | N/A |
-| 47 | [جابر الاحمد](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 47 | [ابن باز](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a8%d8%a7%d8%b2) | N/A |
 | 48 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
 | 49 | [جنات الخلد](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%84%d8%af) | N/A |
 | 50 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |

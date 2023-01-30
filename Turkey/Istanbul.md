@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-01-30 02:34:04 UTC`
+📆 Last Updated: `2023-01-30 03:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,10 +32,10 @@ This is top 50 for [Turkey](</Turkey>)
 | 15 | [Mehmet Bekaroğlu](http://twitter.com/search?q=Mehmet+Bekaro%c4%9flu) | N/A |
 | 16 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 17 | [Melek Mızrak Subaşı](http://twitter.com/search?q=Melek+M%c4%b1zrak+Suba%c5%9f%c4%b1) | N/A |
-| 18 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
+| 18 | [kaan ayhan](http://twitter.com/search?q=kaan+ayhan) | N/A |
 | 19 | [Mert Müldür](http://twitter.com/search?q=Mert+M%c3%bcld%c3%bcr) | Mert Müldür is a Turkish name, composed of two words: Mert (meaning brave or courageous) and Müldür (meaning leader). In English, the name could be translated as "brave leader". |
 | 20 | [merkeztaşra buhranı](http://twitter.com/search?q=merkezta%c5%9fra+buhran%c4%b1) | N/A |
-| 21 | [Emre Demir](http://twitter.com/search?q=Emre+Demir) | Emre Demir is a Turkish given name. It is composed of two words: "Emre" which means "leader" and "Demir" which means "iron". In English, the name Emre Demir can be translated to mean "Iron Leader". |
+| 21 | [emre demir](http://twitter.com/search?q=emre+demir) | N/A |
 | 22 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
 | 23 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
 | 24 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | N/A |
@@ -49,8 +49,8 @@ This is top 50 for [Turkey](</Turkey>)
 | 32 | [ALİ HAYDAR ÇELEBİ](http://twitter.com/search?q=AL%c4%b0+HAYDAR+%c3%87ELEB%c4%b0) | N/A |
 | 33 | [Aytaç](http://twitter.com/search?q=Ayta%c3%a7) | N/A |
 | 34 | [uğur dündar](http://twitter.com/search?q=u%c4%9fur+d%c3%bcndar) | N/A |
-| 35 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
-| 36 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 35 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 36 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
 | 37 | [Sabri Çelik](http://twitter.com/search?q=Sabri+%c3%87elik) | Sabri Çelik is a Turkish name. It is composed of two words: Sabri, which means "patient" or "enduring," and Çelik, which means "steel." In English, the name could be translated as "Patient Steel." |
 | 38 | [seniseviyoruz canselayanoğlu](http://twitter.com/search?q=seniseviyoruz+canselayano%c4%9flu) | N/A |
 | 39 | [beyza tufan](http://twitter.com/search?q=beyza+tufan) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Turkey](</Turkey>)
 | 42 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
 | 43 | [MASA ÜÇ BUÇUK ATIYOR](http://twitter.com/search?q=MASA+%c3%9c%c3%87+BU%c3%87UK+ATIYOR) | N/A |
 | 44 | [emin bayram](http://twitter.com/search?q=emin+bayram) | N/A |
-| 45 | [Yeni MHK](http://twitter.com/search?q=Yeni+MHK) | N/A |
+| 45 | [yeni mhk](http://twitter.com/search?q=yeni+mhk) | N/A |
 | 46 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 47 | [Yusuf Güney](http://twitter.com/search?q=Yusuf+G%c3%bcney) | N/A |
+| 47 | [Fitil](http://twitter.com/search?q=Fitil) | N/A |
 | 48 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
-| 49 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 50 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 49 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
+| 50 | [Ofsaytımsı](http://twitter.com/search?q=Ofsayt%c4%b1ms%c4%b1) | Ofsaytımsı is a Turkish phrase that translates to "I'm sorry" in English. It is used as an apology or expression of regret. |
 
 
 

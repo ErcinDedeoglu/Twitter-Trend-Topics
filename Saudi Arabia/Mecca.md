@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-01-30 02:33:57 UTC`
+📆 Last Updated: `2023-01-30 03:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
-| 2 | [#الاتحاد_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | #الاتحاد_الفيحاء is a hashtag used by the Yemeni Union of Feihan, a political and social movement in Yemen. The English translation of the hashtag is "Feihan Union". The movement seeks to promote democracy, human rights, and social justice in Yemen. |
-| 3 | [#كاس_سوبر_بيرين](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%b3%d9%88%d8%a8%d8%b1_%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | #كاس_سوبر_بيرين is a hashtag used to promote the Super Cup of Bahrain, an annual football tournament held in Bahrain. In English, it translates to "#SuperCupBahrain". |
-| 4 | [#نهايي_كاس_السوبر_السعودي](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | #نهايي_كاس_السوبر_السعودي is a hashtag used to refer to the Saudi Super Cup, which is an annual football match between the winners of the Saudi Professional League and the King's Cup. In English, it translates to "Saudi Super Cup Final". |
-| 5 | [#بوح_اخر_اليل](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d8%ae%d8%b1_%d8%a7%d9%84%d9%8a%d9%84) | N/A |
-| 6 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 7 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 8 | [#اكره_النقاب](http://twitter.com/search?q=%23%d8%a7%d9%83%d8%b1%d9%87_%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%a8) | N/A |
+| 1 | [#الاتحاد_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | #الاتحاد_الفيحاء is a hashtag used by the Yemeni Union of Feihan, a political and social movement in Yemen. The English translation of the hashtag is "Feihan Union". The movement seeks to promote democracy, human rights, and social justice in Yemen. |
+| 2 | [#كاس_سوبر_بيرين](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%b3%d9%88%d8%a8%d8%b1_%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | #كاس_سوبر_بيرين is a hashtag used to promote the Super Cup of Bahrain, an annual football tournament held in Bahrain. In English, it translates to "#SuperCupBahrain". |
+| 3 | [#نهايي_كاس_السوبر_السعودي](http://twitter.com/search?q=%23%d9%86%d9%87%d8%a7%d9%8a%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | #نهايي_كاس_السوبر_السعودي is a hashtag used to refer to the Saudi Super Cup, which is an annual football match between the winners of the Saudi Professional League and the King's Cup. In English, it translates to "Saudi Super Cup Final". |
+| 4 | [#بوح_اخر_اليل](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d8%ae%d8%b1_%d8%a7%d9%84%d9%8a%d9%84) | N/A |
+| 5 | [#اكره_النقاب](http://twitter.com/search?q=%23%d8%a7%d9%83%d8%b1%d9%87_%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%a8) | N/A |
+| 6 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 7 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 8 | [كاس السوبر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | كاس السوبر (Kass al-Souper) is an Arabic phrase that translates to "Super Cup" in English. It is a term used to refer to a cup or trophy awarded to the winner of a football tournament or championship. |
 | 9 | [ساسولو](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88) | ساسولو is a type of traditional Iranian bread. It is made from wheat flour, water, and salt and is usually baked in a clay oven. In English, it translates to "sasoolo" or "sasuloo". |
 | 10 | [قول الساطي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%b3%d8%a7%d8%b7%d9%8a) | N/A |
 | 11 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
@@ -34,37 +34,37 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 17 | [حماد العنزي](http://twitter.com/search?q=%d8%ad%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
 | 18 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
 | 19 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 20 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
-| 21 | [يزيد الراجحي](http://twitter.com/search?q=%d9%8a%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 22 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
-| 23 | [الفتح](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | الفتح is an Arabic word meaning "opening" or "unlocking". It can also refer to the conquest of a city or territory. |
-| 24 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 25 | [سوسيداد](http://twitter.com/search?q=%d8%b3%d9%88%d8%b3%d9%8a%d8%af%d8%a7%d8%af) | سوسيداد (Soussad) is an Arabic word meaning "dignity" or "honor". It is often used to refer to the dignity and respect that should be accorded to a person or group of people. |
-| 26 | [عشاق العميد](http://twitter.com/search?q=%d8%b9%d8%b4%d8%a7%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d8%af) | N/A |
-| 27 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 28 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 29 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
-| 30 | [فابينهو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 31 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 32 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 33 | [نادي الوطن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | نادي الوطن is a sports club in Saudi Arabia. The name translates to "National Club" in English. It is based in Riyadh and was founded in 1959. The club is known for its football team, which competes in the Saudi Professional League. |
-| 34 | [كاس المويه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d9%87) | N/A |
-| 35 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
-| 36 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 37 | [محمد منصور](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
-| 38 | [طويل العمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
-| 39 | [ابو فيصل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 40 | [النقل المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
-| 41 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | N/A |
-| 42 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
-| 43 | [النسخه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 44 | [علي البلنتي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d9%86%d8%aa%d9%8a) | N/A |
-| 45 | [جماهير الذهب](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d8%b0%d9%87%d8%a8) | N/A |
-| 46 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 47 | [تاي بريك](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a+%d8%a8%d8%b1%d9%8a%d9%83) | N/A |
-| 48 | [صوت الجمهور](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
-| 49 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
-| 50 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 20 | [فيراتي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d8%a7%d8%aa%d9%8a) | فيراتي is an Arabic word that means "my friend". |
+| 21 | [الفتح](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | الفتح is an Arabic word meaning "opening" or "unlocking". It can also refer to the conquest of a city or territory. |
+| 22 | [يزيد الراجحي](http://twitter.com/search?q=%d9%8a%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
+| 23 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 24 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
+| 25 | [عشاق العميد](http://twitter.com/search?q=%d8%b9%d8%b4%d8%a7%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d8%af) | N/A |
+| 26 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 27 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 28 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
+| 29 | [فابينهو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 30 | [نادي الوطن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | نادي الوطن is a sports club in Saudi Arabia. The name translates to "National Club" in English. It is based in Riyadh and was founded in 1959. The club is known for its football team, which competes in the Saudi Professional League. |
+| 31 | [كاس المويه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d9%87) | N/A |
+| 32 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 33 | [طويل العمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
+| 34 | [ابو فيصل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 35 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
+| 36 | [النسخه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 37 | [علي البلنتي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d9%86%d8%aa%d9%8a) | N/A |
+| 38 | [جماهير الذهب](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d8%b0%d9%87%d8%a8) | N/A |
+| 39 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 40 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | N/A |
+| 41 | [تاي بريك](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a+%d8%a8%d8%b1%d9%8a%d9%83) | N/A |
+| 42 | [صوت الجمهور](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
+| 43 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 44 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
+| 45 | [النقل المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d9%84+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 46 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 47 | [نبي الثالث](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 48 | [البطوله المستحقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ad%d9%82%d9%87) | N/A |
+| 49 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 50 | [الحلقه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
 
 
 

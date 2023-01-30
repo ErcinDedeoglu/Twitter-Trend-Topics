@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-01-30 02:34:12 UTC`
+📆 Last Updated: `2023-01-30 03:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for Belgium
 | 18 | [Links](http://twitter.com/search?q=Links) | N/A |
 | 19 | [Groen](http://twitter.com/search?q=Groen) | N/A |
 | 20 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 21 | [Prachtig](http://twitter.com/search?q=Prachtig) | N/A |
+| 21 | [prachtig](http://twitter.com/search?q=prachtig) | N/A |
 | 22 | [red lions](http://twitter.com/search?q=red+lions) | N/A |
 | 23 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
 | 24 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-01-30 02:33:56 UTC`
+📆 Last Updated: `2023-01-30 03:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#barakazamilele](http://twitter.com/search?q=%23barakazamilele) | N/A |
+| 1 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
 | 2 | [Jacaranda](http://twitter.com/search?q=Jacaranda) | N/A |
 | 3 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
 | 4 | [#mashemejiderby](http://twitter.com/search?q=%23mashemejiderby) | N/A |
@@ -30,24 +30,24 @@ This is top 50 for [Kenya](</Kenya>)
 | 13 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
 | 14 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 | 15 | [nyayo stadium](http://twitter.com/search?q=nyayo+stadium) | N/A |
-| 16 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 17 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 19 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 20 | [kalonzo musyoka](http://twitter.com/search?q=kalonzo+musyoka) | N/A |
-| 21 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 22 | [Zakayo](http://twitter.com/search?q=Zakayo) | N/A |
+| 16 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 17 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
+| 18 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 19 | [kalonzo musyoka](http://twitter.com/search?q=kalonzo+musyoka) | N/A |
+| 20 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 21 | [Zakayo](http://twitter.com/search?q=Zakayo) | N/A |
+| 22 | [Baba](http://twitter.com/search?q=Baba) | N/A |
 | 23 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 24 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 24 | [happy sabbath](http://twitter.com/search?q=happy+sabbath) | N/A |
 | 25 | [Reddington](http://twitter.com/search?q=Reddington) | N/A |
 | 26 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 27 | [EALA](http://twitter.com/search?q=EALA) | N/A |
+| 27 | [Sunday Nation](http://twitter.com/search?q=Sunday+Nation) | N/A |
 | 28 | [savara](http://twitter.com/search?q=savara) | N/A |
-| 29 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 30 | [Surgeon's Diary](http://twitter.com/search?q=Surgeon%27s+Diary) | N/A |
-| 31 | [Sunday Nation](http://twitter.com/search?q=Sunday+Nation) | N/A |
-| 32 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 33 | [kindiki](http://twitter.com/search?q=kindiki) | N/A |
+| 29 | [Surgeon's Diary](http://twitter.com/search?q=Surgeon%27s+Diary) | N/A |
+| 30 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 31 | [Eala](http://twitter.com/search?q=Eala) | N/A |
+| 32 | [kindiki](http://twitter.com/search?q=kindiki) | N/A |
+| 33 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
 | 34 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 35 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 36 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
@@ -61,8 +61,8 @@ This is top 50 for [Kenya](</Kenya>)
 | 44 | [absa grounds](http://twitter.com/search?q=absa+grounds) | N/A |
 | 45 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
 | 46 | [gor mahia](http://twitter.com/search?q=gor+mahia) | N/A |
-| 47 | [ingwe](http://twitter.com/search?q=ingwe) | N/A |
-| 48 | [Narok](http://twitter.com/search?q=Narok) | N/A |
+| 47 | [Narok](http://twitter.com/search?q=Narok) | N/A |
+| 48 | [ingwe](http://twitter.com/search?q=ingwe) | N/A |
 | 49 | [kwale](http://twitter.com/search?q=kwale) | N/A |
 
 

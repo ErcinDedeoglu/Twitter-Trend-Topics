@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-01-30 02:34:16 UTC`
+📆 Last Updated: `2023-01-30 03:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,7 +39,7 @@ This is top 50 for Norway
 | 22 | [sarpsborg](http://twitter.com/search?q=sarpsborg) | N/A |
 | 23 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 24 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 25 | [Stjernen](http://twitter.com/search?q=Stjernen) | N/A |
+| 25 | [stjernen](http://twitter.com/search?q=stjernen) | N/A |
 | 26 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 27 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
 | 28 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Norway
 | 32 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
 | 33 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 34 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
-| 35 | [Flott](http://twitter.com/search?q=Flott) | N/A |
+| 35 | [flott](http://twitter.com/search?q=flott) | N/A |
 | 36 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 37 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 38 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
-| 39 | [#Transfers](http://twitter.com/search?q=%23Transfers) | N/A |
+| 38 | [vålerenga](http://twitter.com/search?q=v%c3%a5lerenga) | N/A |
+| 39 | [#transfers](http://twitter.com/search?q=%23transfers) | N/A |
 | 40 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
 | 41 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
 | 42 | [finnes](http://twitter.com/search?q=finnes) | N/A |
-| 43 | [Mikkelsen](http://twitter.com/search?q=Mikkelsen) | N/A |
+| 43 | [mikkelsen](http://twitter.com/search?q=mikkelsen) | N/A |
 | 44 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 45 | [e134 haukelifjell](http://twitter.com/search?q=e134+haukelifjell) | N/A |
 | 46 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
 | 47 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
 | 48 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
-| 49 | [veldig](http://twitter.com/search?q=veldig) | N/A |
-| 50 | [burde](http://twitter.com/search?q=burde) | N/A |
+| 49 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 50 | [veldig](http://twitter.com/search?q=veldig) | N/A |
 
 
 
