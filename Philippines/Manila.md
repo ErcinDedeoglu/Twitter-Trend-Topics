@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-01-30 18:16:24 UTC`
+📆 Last Updated: `2023-01-30 19:15:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,14 +23,14 @@ This is top 50 for [Philippines](</Philippines>)
 | 6 | [#TWICE_BBWomenInMusic](http://twitter.com/search?q=%23TWICE_BBWomenInMusic) | N/A |
 | 7 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
 | 8 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 9 | [joongki](http://twitter.com/search?q=joongki) | N/A |
+| 9 | [Joongki](http://twitter.com/search?q=Joongki) | Joongki is a Korean name that means "righteousness" in English. It is a unisex name, so it can be used for both boys and girls. |
 | 10 | [hye kyo](http://twitter.com/search?q=hye+kyo) | N/A |
-| 11 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 12 | [BIGGER VENUE](http://twitter.com/search?q=BIGGER+VENUE) | N/A |
-| 13 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 14 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 11 | [BIGGER VENUE](http://twitter.com/search?q=BIGGER+VENUE) | N/A |
+| 12 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 13 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 14 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 15 | [super janella at mediacon](http://twitter.com/search?q=super+janella+at+mediacon) | N/A |
-| 16 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
+| 16 | [kodrea tcextras ang pinaka](http://twitter.com/search?q=kodrea+tcextras+ang+pinaka) | N/A |
 | 17 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
 | 18 | [JANEDELEON SHINES MEDIACON](http://twitter.com/search?q=JANEDELEON+SHINES+MEDIACON) | N/A |
 | 19 | [gap world domination](http://twitter.com/search?q=gap+world+domination) | N/A |
@@ -38,16 +38,16 @@ This is top 50 for [Philippines](</Philippines>)
 | 21 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
 | 22 | [jia you kayds](http://twitter.com/search?q=jia+you+kayds) | N/A |
 | 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
-| 25 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 26 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 27 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
+| 24 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
+| 25 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
+| 26 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 27 | [taeil](http://twitter.com/search?q=taeil) | N/A |
 | 28 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
 | 29 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
 | 30 | [somi](http://twitter.com/search?q=somi) | N/A |
 | 31 | [chungha](http://twitter.com/search?q=chungha) | N/A |
 | 32 | [bini mojos everyday](http://twitter.com/search?q=bini+mojos+everyday) | N/A |
-| 33 | [PinakaCLASH NAMIN RALPHGAIL](http://twitter.com/search?q=PinakaCLASH+NAMIN+RALPHGAIL) | N/A |
+| 33 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
 | 34 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
 | 35 | [youngji](http://twitter.com/search?q=youngji) | N/A |
 | 36 | [BGYO ACEstronger TWO YEARS](http://twitter.com/search?q=BGYO+ACEstronger+TWO+YEARS) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for [Philippines](</Philippines>)
 | 38 | [aljay pinaka malupet](http://twitter.com/search?q=aljay+pinaka+malupet) | N/A |
 | 39 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
 | 40 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
-| 41 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
+| 41 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
 | 42 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
-| 43 | [Boonana](http://twitter.com/search?q=Boonana) | N/A |
-| 44 | [Rapper jaehyun](http://twitter.com/search?q=Rapper+jaehyun) | N/A |
-| 45 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
-| 46 | [PAUSE AND JAY MY HEART](http://twitter.com/search?q=PAUSE+AND+JAY+MY+HEART) | N/A |
-| 47 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
-| 48 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
-| 49 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
-| 50 | [MoreMOmentsWith MOat21](http://twitter.com/search?q=MoreMOmentsWith+MOat21) | N/A |
+| 43 | [Rapper jaehyun](http://twitter.com/search?q=Rapper+jaehyun) | N/A |
+| 44 | [PAUSE AND JAY MY HEART](http://twitter.com/search?q=PAUSE+AND+JAY+MY+HEART) | N/A |
+| 45 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 46 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 47 | [Boonana](http://twitter.com/search?q=Boonana) | N/A |
+| 48 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
+| 49 | [MoreMOmentsWith MOat21](http://twitter.com/search?q=MoreMOmentsWith+MOat21) | N/A |
+| 50 | [PROBLEM CHILD THE PREMIERE](http://twitter.com/search?q=PROBLEM+CHILD+THE+PREMIERE) | N/A |
 
 
 

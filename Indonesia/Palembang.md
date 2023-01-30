@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-01-30 18:16:18 UTC`
+📆 Last Updated: `2023-01-30 19:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 8 | [tambah kehidupmu](http://twitter.com/search?q=tambah+kehidupmu) | N/A |
 | 9 | [mending prabowo](http://twitter.com/search?q=mending+prabowo) | N/A |
 | 10 | [Satu Abad NU](http://twitter.com/search?q=Satu+Abad+NU) | Satu Abad NU is an Indonesian phrase that translates to "One Century Now". It is a slogan used to promote the idea of a new century of progress and development in Indonesia. |
-| 11 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 12 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 11 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 12 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
 | 13 | [WE LOVE YOU JAEMIN](http://twitter.com/search?q=WE+LOVE+YOU+JAEMIN) | N/A |
 | 14 | [rokok bukan untuk anak](http://twitter.com/search?q=rokok+bukan+untuk+anak) | N/A |
-| 15 | [VIBING WITH BTS](http://twitter.com/search?q=VIBING+WITH+BTS) | VIBING WITH BTS is a phrase used to describe the feeling of being in sync with the music and energy of the South Korean boy band BTS. It is often used to express a sense of connection and appreciation for their music. |
+| 15 | [vibing with bts](http://twitter.com/search?q=vibing+with+bts) | N/A |
 | 16 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
 | 17 | [Senin](http://twitter.com/search?q=Senin) | N/A |
 | 18 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
 | 19 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
-| 20 | [hitz jingle lazada](http://twitter.com/search?q=hitz+jingle+lazada) | N/A |
-| 21 | [JD ID](http://twitter.com/search?q=JD+ID) | N/A |
-| 22 | [Diri](http://twitter.com/search?q=Diri) | N/A |
+| 20 | [ARMY APOLOGIZE TO JAEMIN](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+JAEMIN) | N/A |
+| 21 | [hitz jingle lazada](http://twitter.com/search?q=hitz+jingle+lazada) | N/A |
+| 22 | [JD ID](http://twitter.com/search?q=JD+ID) | N/A |
 | 23 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 24 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 25 | [balitbang kemhan](http://twitter.com/search?q=balitbang+kemhan) | N/A |
-| 26 | [Song Joongki](http://twitter.com/search?q=Song+Joongki) | N/A |
-| 27 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 28 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
-| 29 | [Gratis Ongkir](http://twitter.com/search?q=Gratis+Ongkir) | Gratis Ongkir is an Indonesian phrase meaning "free shipping". It is commonly used in online shopping to indicate that the cost of shipping is included in the price of the item. |
-| 30 | [Nangka](http://twitter.com/search?q=Nangka) | N/A |
-| 31 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 32 | [Bunuh](http://twitter.com/search?q=Bunuh) | N/A |
+| 25 | [Diri](http://twitter.com/search?q=Diri) | N/A |
+| 26 | [balitbang kemhan](http://twitter.com/search?q=balitbang+kemhan) | N/A |
+| 27 | [Song Joongki](http://twitter.com/search?q=Song+Joongki) | N/A |
+| 28 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 29 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
+| 30 | [Gratis Ongkir](http://twitter.com/search?q=Gratis+Ongkir) | Gratis Ongkir is an Indonesian phrase meaning "free shipping". It is commonly used in online shopping to indicate that the cost of shipping is included in the price of the item. |
+| 31 | [Nangka](http://twitter.com/search?q=Nangka) | N/A |
+| 32 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 33 | [defend id](http://twitter.com/search?q=defend+id) | N/A |
 | 34 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
-| 35 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
+| 35 | [Bunuh](http://twitter.com/search?q=Bunuh) | N/A |
 | 36 | [Orient](http://twitter.com/search?q=Orient) | N/A |
 | 37 | [Song Hye Kyo](http://twitter.com/search?q=Song+Hye+Kyo) | N/A |
 | 38 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
 | 39 | [pull up mv teaser 2](http://twitter.com/search?q=pull+up+mv+teaser+2) | N/A |
-| 40 | [Heni](http://twitter.com/search?q=Heni) | N/A |
-| 41 | [shin tae yong](http://twitter.com/search?q=shin+tae+yong) | N/A |
-| 42 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 43 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 44 | [revolusi pssi](http://twitter.com/search?q=revolusi+pssi) | N/A |
-| 45 | [Dewa United](http://twitter.com/search?q=Dewa+United) | N/A |
-| 46 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 40 | [shin tae yong](http://twitter.com/search?q=shin+tae+yong) | N/A |
+| 41 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 42 | [revolusi pssi](http://twitter.com/search?q=revolusi+pssi) | N/A |
+| 43 | [Dewa United](http://twitter.com/search?q=Dewa+United) | N/A |
+| 44 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 45 | [Heni](http://twitter.com/search?q=Heni) | N/A |
+| 46 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
 | 47 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 48 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 48 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
 
 
 

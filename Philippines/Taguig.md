@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-01-30 18:16:24 UTC`
+📆 Last Updated: `2023-01-30 19:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Philippines](</Philippines>)
 | 12 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
 | 13 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
 | 14 | [super janella at mediacon](http://twitter.com/search?q=super+janella+at+mediacon) | N/A |
-| 15 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
+| 15 | [kodrea tcextras ang pinaka](http://twitter.com/search?q=kodrea+tcextras+ang+pinaka) | N/A |
 | 16 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
 | 17 | [JANEDELEON SHINES MEDIACON](http://twitter.com/search?q=JANEDELEON+SHINES+MEDIACON) | N/A |
 | 18 | [gap world domination](http://twitter.com/search?q=gap+world+domination) | N/A |
@@ -37,16 +37,16 @@ This is top 50 for [Philippines](</Philippines>)
 | 20 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
 | 21 | [jia you kayds](http://twitter.com/search?q=jia+you+kayds) | N/A |
 | 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 23 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
-| 24 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 25 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 26 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
+| 23 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
+| 24 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
+| 25 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 26 | [taeil](http://twitter.com/search?q=taeil) | N/A |
 | 27 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
 | 28 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
 | 29 | [somi](http://twitter.com/search?q=somi) | N/A |
 | 30 | [chungha](http://twitter.com/search?q=chungha) | N/A |
 | 31 | [bini mojos everyday](http://twitter.com/search?q=bini+mojos+everyday) | N/A |
-| 32 | [PinakaCLASH NAMIN RALPHGAIL](http://twitter.com/search?q=PinakaCLASH+NAMIN+RALPHGAIL) | N/A |
+| 32 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
 | 33 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
 | 34 | [youngji](http://twitter.com/search?q=youngji) | N/A |
 | 35 | [BGYO ACEstronger TWO YEARS](http://twitter.com/search?q=BGYO+ACEstronger+TWO+YEARS) | N/A |
@@ -54,16 +54,16 @@ This is top 50 for [Philippines](</Philippines>)
 | 37 | [aljay pinaka malupet](http://twitter.com/search?q=aljay+pinaka+malupet) | N/A |
 | 38 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
 | 39 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
-| 40 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
+| 40 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
 | 41 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
 | 42 | [Rapper jaehyun](http://twitter.com/search?q=Rapper+jaehyun) | N/A |
-| 43 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
-| 44 | [PAUSE AND JAY MY HEART](http://twitter.com/search?q=PAUSE+AND+JAY+MY+HEART) | N/A |
-| 45 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
+| 43 | [PAUSE AND JAY MY HEART](http://twitter.com/search?q=PAUSE+AND+JAY+MY+HEART) | N/A |
+| 44 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 45 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
 | 46 | [Boonana](http://twitter.com/search?q=Boonana) | N/A |
-| 47 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
-| 48 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
-| 49 | [MoreMOmentsWith MOat21](http://twitter.com/search?q=MoreMOmentsWith+MOat21) | N/A |
+| 47 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
+| 48 | [MoreMOmentsWith MOat21](http://twitter.com/search?q=MoreMOmentsWith+MOat21) | N/A |
+| 49 | [PROBLEM CHILD THE PREMIERE](http://twitter.com/search?q=PROBLEM+CHILD+THE+PREMIERE) | N/A |
 
 
 
