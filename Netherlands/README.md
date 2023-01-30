@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-01-30 16:17:23 UTC`
+📆 Last Updated: `2023-01-30 17:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for Netherlands
 | ------- | ------------ | ------------ |
 | 1 | [#excaja](http://twitter.com/search?q=%23excaja) | N/A |
 | 2 | [#twefey](http://twitter.com/search?q=%23twefey) | N/A |
-| 3 | [bijlow](http://twitter.com/search?q=bijlow) | N/A |
-| 4 | [#volgro](http://twitter.com/search?q=%23volgro) | N/A |
-| 5 | [#camfor](http://twitter.com/search?q=%23camfor) | N/A |
-| 6 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 7 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 8 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
-| 9 | [#azutr](http://twitter.com/search?q=%23azutr) | N/A |
-| 10 | [Philips](http://twitter.com/search?q=Philips) | N/A |
-| 11 | [trefbal](http://twitter.com/search?q=trefbal) | N/A |
-| 12 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 3 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
+| 4 | [#camfor](http://twitter.com/search?q=%23camfor) | N/A |
+| 5 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 6 | [#VOLGRO](http://twitter.com/search?q=%23VOLGRO) | N/A |
+| 7 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
+| 8 | [#azutr](http://twitter.com/search?q=%23azutr) | N/A |
+| 9 | [Philips](http://twitter.com/search?q=Philips) | N/A |
+| 10 | [trefbal](http://twitter.com/search?q=trefbal) | N/A |
+| 11 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 12 | [Brenet](http://twitter.com/search?q=Brenet) | N/A |
 | 13 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
-| 14 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 15 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
-| 16 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
-| 17 | [frans hoek](http://twitter.com/search?q=frans+hoek) | N/A |
-| 18 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 19 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 20 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
-| 21 | [Pröpper](http://twitter.com/search?q=Pr%c3%b6pper) | N/A |
-| 22 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 23 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
-| 24 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 26 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 27 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
-| 28 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 29 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
-| 30 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
-| 31 | [Louise Fresco](http://twitter.com/search?q=Louise+Fresco) | N/A |
-| 32 | [UMCG](http://twitter.com/search?q=UMCG) | N/A |
-| 33 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 34 | [Anish Giri](http://twitter.com/search?q=Anish+Giri) | N/A |
-| 35 | [Den Uyl](http://twitter.com/search?q=Den+Uyl) | N/A |
-| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [Striptease](http://twitter.com/search?q=Striptease) | N/A |
-| 38 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 39 | [PABO](http://twitter.com/search?q=PABO) | N/A |
-| 40 | [zeist](http://twitter.com/search?q=zeist) | N/A |
-| 41 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 42 | [ziggo dome](http://twitter.com/search?q=ziggo+dome) | N/A |
-| 43 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 44 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 45 | [Luik](http://twitter.com/search?q=Luik) | N/A |
-| 46 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 47 | [Strijders](http://twitter.com/search?q=Strijders) | N/A |
-| 48 | [thomas erdbrink](http://twitter.com/search?q=thomas+erdbrink) | N/A |
-| 49 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 14 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
+| 15 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 16 | [frans hoek](http://twitter.com/search?q=frans+hoek) | N/A |
+| 17 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 18 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
+| 19 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 20 | [manschot](http://twitter.com/search?q=manschot) | N/A |
+| 21 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
+| 22 | [Pröpper](http://twitter.com/search?q=Pr%c3%b6pper) | N/A |
+| 23 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 24 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
+| 25 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
+| 26 | [Den Uyl](http://twitter.com/search?q=Den+Uyl) | N/A |
+| 27 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 29 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
+| 30 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 31 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 32 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
+| 33 | [Louise Fresco](http://twitter.com/search?q=Louise+Fresco) | N/A |
+| 34 | [UMCG](http://twitter.com/search?q=UMCG) | N/A |
+| 35 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 36 | [Anish Giri](http://twitter.com/search?q=Anish+Giri) | N/A |
+| 37 | [ook nederland](http://twitter.com/search?q=ook+nederland) | N/A |
+| 38 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 40 | [Pabo](http://twitter.com/search?q=Pabo) | N/A |
+| 41 | [Striptease](http://twitter.com/search?q=Striptease) | N/A |
+| 42 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 43 | [Gorinchem](http://twitter.com/search?q=Gorinchem) | N/A |
+| 44 | [Zeist](http://twitter.com/search?q=Zeist) | N/A |
+| 45 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 46 | [Luik](http://twitter.com/search?q=Luik) | N/A |
+| 47 | [ziggo dome](http://twitter.com/search?q=ziggo+dome) | N/A |
+| 48 | [Strijders](http://twitter.com/search?q=Strijders) | N/A |
+| 49 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 50 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
 
 

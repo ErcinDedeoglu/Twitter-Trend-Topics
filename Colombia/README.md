@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-01-30 16:17:20 UTC`
+📆 Last Updated: `2023-01-30 17:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Colombia
 | 4 | [#NuestraEconomíaVa](http://twitter.com/search?q=%23NuestraEconom%c3%adaVa) | N/A |
 | 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 7 | [Belizza Ruiz](http://twitter.com/search?q=Belizza+Ruiz) | N/A |
-| 8 | [Fedegan](http://twitter.com/search?q=Fedegan) | N/A |
+| 7 | [Fedegan](http://twitter.com/search?q=Fedegan) | N/A |
+| 8 | [Belizza Ruiz](http://twitter.com/search?q=Belizza+Ruiz) | N/A |
 | 9 | [Leo Castro](http://twitter.com/search?q=Leo+Castro) | N/A |
-| 10 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 11 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
-| 12 | [Irene Vélez](http://twitter.com/search?q=Irene+V%c3%a9lez) | N/A |
-| 13 | [Estado Colombiano](http://twitter.com/search?q=Estado+Colombiano) | N/A |
-| 14 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
-| 15 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 16 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 17 | [Corte IDH](http://twitter.com/search?q=Corte+IDH) | N/A |
-| 18 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 10 | [Estado Colombiano](http://twitter.com/search?q=Estado+Colombiano) | N/A |
+| 11 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 12 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 13 | [Corte IDH](http://twitter.com/search?q=Corte+IDH) | N/A |
+| 14 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
+| 15 | [Irene Vélez](http://twitter.com/search?q=Irene+V%c3%a9lez) | N/A |
+| 16 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
+| 17 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
+| 18 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 19 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 20 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 21 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 22 | [Didier](http://twitter.com/search?q=Didier) | N/A |
+| 20 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 21 | [Didier](http://twitter.com/search?q=Didier) | N/A |
+| 22 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 23 | [El Santuario](http://twitter.com/search?q=El+Santuario) | N/A |
-| 24 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
-| 25 | [Abudinen](http://twitter.com/search?q=Abudinen) | N/A |
+| 24 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 25 | [Vacas](http://twitter.com/search?q=Vacas) | N/A |
 | 26 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
 | 27 | [Ever Valencia](http://twitter.com/search?q=Ever+Valencia) | N/A |
-| 28 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 29 | [Vacas](http://twitter.com/search?q=Vacas) | N/A |
-| 30 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 31 | [El Estado](http://twitter.com/search?q=El+Estado) | N/A |
-| 32 | [Jennifer Steffens](http://twitter.com/search?q=Jennifer+Steffens) | N/A |
-| 33 | [Goez](http://twitter.com/search?q=Goez) | N/A |
-| 34 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
-| 35 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 36 | [vamos millos](http://twitter.com/search?q=vamos+millos) | N/A |
-| 37 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 38 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 39 | [Giraldo](http://twitter.com/search?q=Giraldo) | N/A |
-| 40 | [carre](http://twitter.com/search?q=carre) | N/A |
-| 41 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 42 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 43 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 44 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 45 | [hernán ramírez villegas](http://twitter.com/search?q=hern%c3%a1n+ram%c3%adrez+villegas) | N/A |
+| 28 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
+| 29 | [Goez](http://twitter.com/search?q=Goez) | N/A |
+| 30 | [vamos millos](http://twitter.com/search?q=vamos+millos) | N/A |
+| 31 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 32 | [Leandro Castellanos](http://twitter.com/search?q=Leandro+Castellanos) | N/A |
+| 33 | [Limpiamente](http://twitter.com/search?q=Limpiamente) | N/A |
+| 34 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 35 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 36 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 37 | [Jennifer Steffens](http://twitter.com/search?q=Jennifer+Steffens) | N/A |
+| 38 | [Giraldo](http://twitter.com/search?q=Giraldo) | N/A |
+| 39 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 40 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 41 | [Jader](http://twitter.com/search?q=Jader) | N/A |
+| 42 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 43 | [Abudinen](http://twitter.com/search?q=Abudinen) | N/A |
+| 44 | [El Estado](http://twitter.com/search?q=El+Estado) | N/A |
+| 45 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
 | 46 | [Bertel](http://twitter.com/search?q=Bertel) | N/A |
-| 47 | [pardo](http://twitter.com/search?q=pardo) | N/A |
-| 48 | [Camila Osorio](http://twitter.com/search?q=Camila+Osorio) | N/A |
-| 49 | [Plan Cazador](http://twitter.com/search?q=Plan+Cazador) | N/A |
-| 50 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
+| 47 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
+| 48 | [Laura Mora](http://twitter.com/search?q=Laura+Mora) | N/A |
+| 49 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 50 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
 
 
 
