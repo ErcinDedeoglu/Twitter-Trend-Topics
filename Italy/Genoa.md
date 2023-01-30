@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-01-30 21:16:34 UTC`
+📆 Last Updated: `2023-01-30 22:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NapoliRoma](http://twitter.com/search?q=%23NapoliRoma) | N/A |
-| 2 | [#30gennaio](http://twitter.com/search?q=%2330gennaio) | N/A |
-| 3 | [#DisdetteDaznSky](http://twitter.com/search?q=%23DisdetteDaznSky) | N/A |
-| 4 | [#BlackOutLaSerie](http://twitter.com/search?q=%23BlackOutLaSerie) | N/A |
-| 5 | [Giarrusso](http://twitter.com/search?q=Giarrusso) | N/A |
-| 6 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 7 | [Demiral](http://twitter.com/search?q=Demiral) | N/A |
-| 8 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 9 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 10 | [Ivana](http://twitter.com/search?q=Ivana) | N/A |
-| 11 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 12 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 13 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 14 | [Diaco](http://twitter.com/search?q=Diaco) | N/A |
-| 15 | [Becao](http://twitter.com/search?q=Becao) | N/A |
-| 16 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 17 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
-| 18 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 19 | [Tavecchio](http://twitter.com/search?q=Tavecchio) | N/A |
-| 20 | [CONI](http://twitter.com/search?q=CONI) | CONI is an acronym for the Italian National Olympic Committee (Comitato Olimpico Nazionale Italiano). It is responsible for organizing and promoting the participation of Italian athletes in the Olympic Games. |
-| 21 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 22 | [Zazzaroni](http://twitter.com/search?q=Zazzaroni) | N/A |
-| 23 | [Opera](http://twitter.com/search?q=Opera) | N/A |
-| 24 | [Palladino](http://twitter.com/search?q=Palladino) | N/A |
-| 25 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 26 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 27 | [Illecito](http://twitter.com/search?q=Illecito) | N/A |
-| 28 | [Marsiglia](http://twitter.com/search?q=Marsiglia) | N/A |
-| 29 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 30 | [Eleonora](http://twitter.com/search?q=Eleonora) | N/A |
-| 31 | [todaro](http://twitter.com/search?q=todaro) | N/A |
-| 32 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
-| 33 | [Fatture](http://twitter.com/search?q=Fatture) | N/A |
-| 34 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 35 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 36 | [Di Maio](http://twitter.com/search?q=Di+Maio) | N/A |
-| 37 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 38 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
-| 39 | [Cherubini](http://twitter.com/search?q=Cherubini) | N/A |
-| 40 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
-| 41 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 42 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 43 | [Exor](http://twitter.com/search?q=Exor) | N/A |
-| 44 | [Nino Sarratore](http://twitter.com/search?q=Nino+Sarratore) | N/A |
-| 45 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 46 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
-| 47 | [Friedkin](http://twitter.com/search?q=Friedkin) | N/A |
-| 48 | [Grignani](http://twitter.com/search?q=Grignani) | N/A |
-| 49 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 2 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 3 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 4 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 5 | [#BlackOutLaSerie](http://twitter.com/search?q=%23BlackOutLaSerie) | N/A |
+| 6 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 7 | [#NapoliRoma](http://twitter.com/search?q=%23NapoliRoma) | N/A |
+| 8 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 9 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 10 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 11 | [Darling](http://twitter.com/search?q=Darling) | N/A |
+| 12 | [Giarrusso](http://twitter.com/search?q=Giarrusso) | N/A |
+| 13 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 14 | [Demiral](http://twitter.com/search?q=Demiral) | N/A |
+| 15 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 16 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
+| 17 | [Ivana](http://twitter.com/search?q=Ivana) | N/A |
+| 18 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 19 | [IL DIRETTORE](http://twitter.com/search?q=IL+DIRETTORE) | N/A |
+| 20 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 21 | [Minchia](http://twitter.com/search?q=Minchia) | N/A |
+| 22 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 23 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
+| 24 | [Becao](http://twitter.com/search?q=Becao) | N/A |
+| 25 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 26 | [Marsiglia](http://twitter.com/search?q=Marsiglia) | N/A |
+| 27 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 28 | [Bebè](http://twitter.com/search?q=Beb%c3%a8) | N/A |
+| 29 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 30 | [Zazzaroni](http://twitter.com/search?q=Zazzaroni) | N/A |
+| 31 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 32 | [Paola e Chiara](http://twitter.com/search?q=Paola+e+Chiara) | N/A |
+| 33 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 34 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 35 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 36 | [Opera](http://twitter.com/search?q=Opera) | N/A |
+| 37 | [Palladino](http://twitter.com/search?q=Palladino) | N/A |
+| 38 | [Illecito](http://twitter.com/search?q=Illecito) | N/A |
+| 39 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 40 | [todaro](http://twitter.com/search?q=todaro) | N/A |
+| 41 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
+| 42 | [Fatture](http://twitter.com/search?q=Fatture) | N/A |
+| 43 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 44 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 45 | [Nino Sarratore](http://twitter.com/search?q=Nino+Sarratore) | N/A |
+| 46 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 47 | [Eleonora](http://twitter.com/search?q=Eleonora) | N/A |
+| 48 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 49 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-01-30 21:16:38 UTC`
+📆 Last Updated: `2023-01-30 22:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,39 +31,39 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 14 | [WE LOVE YOU JAEMIN](http://twitter.com/search?q=WE+LOVE+YOU+JAEMIN) | N/A |
 | 15 | [vibing with bts](http://twitter.com/search?q=vibing+with+bts) | N/A |
 | 16 | [rokok bukan untuk anak](http://twitter.com/search?q=rokok+bukan+untuk+anak) | N/A |
-| 17 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
-| 18 | [gratis ongkir](http://twitter.com/search?q=gratis+ongkir) | N/A |
+| 17 | [gratis ongkir](http://twitter.com/search?q=gratis+ongkir) | N/A |
+| 18 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
 | 19 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
 | 20 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
-| 21 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 22 | [army apologize to jaemin](http://twitter.com/search?q=army+apologize+to+jaemin) | N/A |
-| 23 | [hitz jingle lazada](http://twitter.com/search?q=hitz+jingle+lazada) | N/A |
-| 24 | [JD ID](http://twitter.com/search?q=JD+ID) | N/A |
+| 21 | [army apologize to jaemin](http://twitter.com/search?q=army+apologize+to+jaemin) | N/A |
+| 22 | [hitz jingle lazada](http://twitter.com/search?q=hitz+jingle+lazada) | N/A |
+| 23 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 24 | [jd id](http://twitter.com/search?q=jd+id) | N/A |
 | 25 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 26 | [Song Joongki](http://twitter.com/search?q=Song+Joongki) | N/A |
 | 27 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
-| 28 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 29 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 30 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 31 | [Diri](http://twitter.com/search?q=Diri) | N/A |
-| 32 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
-| 33 | [Orient](http://twitter.com/search?q=Orient) | N/A |
-| 34 | [Song Hye Kyo](http://twitter.com/search?q=Song+Hye+Kyo) | N/A |
+| 28 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 29 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 30 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 31 | [Orient](http://twitter.com/search?q=Orient) | N/A |
+| 32 | [Song Hye Kyo](http://twitter.com/search?q=Song+Hye+Kyo) | N/A |
+| 33 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
+| 34 | [Diri](http://twitter.com/search?q=Diri) | N/A |
 | 35 | [shin tae yong](http://twitter.com/search?q=shin+tae+yong) | N/A |
 | 36 | [revolusi pssi](http://twitter.com/search?q=revolusi+pssi) | N/A |
-| 37 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 38 | [Nangka](http://twitter.com/search?q=Nangka) | N/A |
-| 39 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
-| 40 | [Heni](http://twitter.com/search?q=Heni) | N/A |
-| 41 | [apel pagi](http://twitter.com/search?q=apel+pagi) | N/A |
-| 42 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
-| 43 | [Dewa United](http://twitter.com/search?q=Dewa+United) | N/A |
-| 44 | [thank you the link](http://twitter.com/search?q=thank+you+the+link) | N/A |
-| 45 | [prabowo lebih baik](http://twitter.com/search?q=prabowo+lebih+baik) | N/A |
-| 46 | [iPhone 11](http://twitter.com/search?q=iPhone+11) | N/A |
-| 47 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 48 | [balitbang kemhan](http://twitter.com/search?q=balitbang+kemhan) | N/A |
-| 49 | [Kebangun](http://twitter.com/search?q=Kebangun) | N/A |
+| 37 | [Nangka](http://twitter.com/search?q=Nangka) | N/A |
+| 38 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
+| 39 | [Heni](http://twitter.com/search?q=Heni) | N/A |
+| 40 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 41 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
+| 42 | [apel pagi](http://twitter.com/search?q=apel+pagi) | N/A |
+| 43 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
+| 44 | [Dewa United](http://twitter.com/search?q=Dewa+United) | N/A |
+| 45 | [thank you the link](http://twitter.com/search?q=thank+you+the+link) | N/A |
+| 46 | [prabowo lebih baik](http://twitter.com/search?q=prabowo+lebih+baik) | N/A |
+| 47 | [balitbang kemhan](http://twitter.com/search?q=balitbang+kemhan) | N/A |
+| 48 | [Kebangun](http://twitter.com/search?q=Kebangun) | N/A |
+| 49 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
 
 
 

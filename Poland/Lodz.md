@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-01-30 21:16:31 UTC`
+📆 Last Updated: `2023-01-30 22:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 2 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
-| 3 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
-| 4 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 5 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 6 | [#CRAGÓR](http://twitter.com/search?q=%23CRAG%c3%93R) | N/A |
+| 2 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 3 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
+| 4 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
+| 5 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
+| 6 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 7 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
 | 8 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
 | 9 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 10 | [patryka](http://twitter.com/search?q=patryka) | N/A |
-| 11 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
-| 12 | [gual](http://twitter.com/search?q=gual) | N/A |
-| 13 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 14 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 15 | [iranie](http://twitter.com/search?q=iranie) | N/A |
-| 16 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
-| 17 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
-| 18 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
-| 19 | [Billa](http://twitter.com/search?q=Billa) | N/A |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Zielińskiego](http://twitter.com/search?q=Zieli%c5%84skiego) | N/A |
-| 22 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 10 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 11 | [Billa](http://twitter.com/search?q=Billa) | N/A |
+| 12 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
+| 13 | [Poncyliusz](http://twitter.com/search?q=Poncyliusz) | N/A |
+| 14 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
+| 15 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 16 | [gual](http://twitter.com/search?q=gual) | N/A |
+| 17 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 18 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 19 | [iranie](http://twitter.com/search?q=iranie) | N/A |
+| 20 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 21 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 22 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
 | 23 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 24 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 25 | [Poncyliusz](http://twitter.com/search?q=Poncyliusz) | N/A |
-| 26 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 27 | [Kounde](http://twitter.com/search?q=Kounde) | N/A |
-| 28 | [Juras](http://twitter.com/search?q=Juras) | N/A |
-| 29 | [Wiki](http://twitter.com/search?q=Wiki) | N/A |
-| 30 | [Tatrach](http://twitter.com/search?q=Tatrach) | N/A |
-| 31 | [Babis](http://twitter.com/search?q=Babis) | N/A |
-| 32 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
-| 33 | [Wika](http://twitter.com/search?q=Wika) | N/A |
-| 34 | [Muci](http://twitter.com/search?q=Muci) | N/A |
-| 35 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 36 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
-| 37 | [Pavarda](http://twitter.com/search?q=Pavarda) | N/A |
-| 38 | [Beata Z.](http://twitter.com/search?q=Beata+Z.) | N/A |
-| 39 | [Cracovii](http://twitter.com/search?q=Cracovii) | N/A |
-| 40 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 41 | [kneblewski](http://twitter.com/search?q=kneblewski) | N/A |
-| 42 | [Radomiu](http://twitter.com/search?q=Radomiu) | N/A |
-| 43 | [nikogo](http://twitter.com/search?q=nikogo) | N/A |
-| 44 | [Orkiestry](http://twitter.com/search?q=Orkiestry) | N/A |
-| 45 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
-| 46 | [horała](http://twitter.com/search?q=hora%c5%82a) | N/A |
+| 24 | [Zielińskiego](http://twitter.com/search?q=Zieli%c5%84skiego) | N/A |
+| 25 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
+| 26 | [Juras](http://twitter.com/search?q=Juras) | N/A |
+| 27 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 30 | [Kounde](http://twitter.com/search?q=Kounde) | N/A |
+| 31 | [Wika](http://twitter.com/search?q=Wika) | N/A |
+| 32 | [Babis](http://twitter.com/search?q=Babis) | N/A |
+| 33 | [Pavarda](http://twitter.com/search?q=Pavarda) | N/A |
+| 34 | [Beata Z.](http://twitter.com/search?q=Beata+Z.) | N/A |
+| 35 | [O 13](http://twitter.com/search?q=O+13) | N/A |
+| 36 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 37 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
+| 38 | [Wiki](http://twitter.com/search?q=Wiki) | N/A |
+| 39 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 40 | [nikogo](http://twitter.com/search?q=nikogo) | N/A |
+| 41 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
+| 42 | [Carlitosa](http://twitter.com/search?q=Carlitosa) | N/A |
+| 43 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
+| 44 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
+| 45 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 46 | [Tatrach](http://twitter.com/search?q=Tatrach) | N/A |
 | 47 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 48 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
 
 
 

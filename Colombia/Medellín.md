@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-01-30 21:16:27 UTC`
+📆 Last Updated: `2023-01-30 22:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [#ALaCalle15F](http://twitter.com/search?q=%23ALaCalle15F) | N/A |
 | 3 | [Unión Patriótica](http://twitter.com/search?q=Uni%c3%b3n+Patri%c3%b3tica) | Unión Patriótica is a political party in Colombia. The name translates to "Patriotic Union" in English and the party was founded in 1985 with the goal of promoting peace and democracy in the country. The party has been involved in several peace negotiations with the Colombian government and guerrilla groups, including the 2016 peace agreement between the government and FARC. |
 | 4 | [#NuestraEconomíaVa](http://twitter.com/search?q=%23NuestraEconom%c3%adaVa) | N/A |
-| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 6 | [Fedegan](http://twitter.com/search?q=Fedegan) | N/A |
-| 7 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 5 | [Fedegan](http://twitter.com/search?q=Fedegan) | N/A |
+| 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 8 | [Belizza Ruiz](http://twitter.com/search?q=Belizza+Ruiz) | N/A |
 | 9 | [Uber](http://twitter.com/search?q=Uber) | N/A |
 | 10 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
@@ -29,42 +29,42 @@ This is top 50 for [Colombia](</Colombia>)
 | 12 | [Leo Castro](http://twitter.com/search?q=Leo+Castro) | N/A |
 | 13 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
 | 14 | [Corte IDH](http://twitter.com/search?q=Corte+IDH) | N/A |
-| 15 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
-| 16 | [Estado Colombiano](http://twitter.com/search?q=Estado+Colombiano) | N/A |
-| 17 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 18 | [Vacas](http://twitter.com/search?q=Vacas) | N/A |
-| 19 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 20 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 21 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
-| 22 | [El Santuario](http://twitter.com/search?q=El+Santuario) | N/A |
-| 23 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
+| 15 | [Estado Colombiano](http://twitter.com/search?q=Estado+Colombiano) | N/A |
+| 16 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
+| 17 | [Vacas](http://twitter.com/search?q=Vacas) | N/A |
+| 18 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
+| 19 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 20 | [El Santuario](http://twitter.com/search?q=El+Santuario) | N/A |
+| 21 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
+| 22 | [Didier](http://twitter.com/search?q=Didier) | N/A |
+| 23 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 24 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
 | 25 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
 | 26 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 27 | [Vamos Millos](http://twitter.com/search?q=Vamos+Millos) | N/A |
-| 28 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 29 | [Lafaurie](http://twitter.com/search?q=Lafaurie) | N/A |
-| 30 | [Limpiamente](http://twitter.com/search?q=Limpiamente) | N/A |
-| 31 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 27 | [vamos millos](http://twitter.com/search?q=vamos+millos) | N/A |
+| 28 | [Hugo Ospina](http://twitter.com/search?q=Hugo+Ospina) | Hugo Ospina is a Colombian footballer who currently plays for the Colombian national team. He is known for his defensive skills and his ability to read the game. In English, Hugo Ospina means "Hugo of the Ospina family". |
+| 29 | [Alpilitro](http://twitter.com/search?q=Alpilitro) | N/A |
+| 30 | [Lafaurie](http://twitter.com/search?q=Lafaurie) | N/A |
+| 31 | [Limpiamente](http://twitter.com/search?q=Limpiamente) | N/A |
 | 32 | [Jennifer Steffens](http://twitter.com/search?q=Jennifer+Steffens) | N/A |
-| 33 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 34 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
+| 33 | [Carre](http://twitter.com/search?q=Carre) | N/A |
+| 34 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 35 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 36 | [Ever Valencia](http://twitter.com/search?q=Ever+Valencia) | N/A |
-| 37 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
-| 38 | [Giraldo](http://twitter.com/search?q=Giraldo) | N/A |
+| 36 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
+| 37 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 38 | [Ever Valencia](http://twitter.com/search?q=Ever+Valencia) | N/A |
 | 39 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 40 | [Abudinen](http://twitter.com/search?q=Abudinen) | N/A |
-| 41 | [El Estado](http://twitter.com/search?q=El+Estado) | N/A |
-| 42 | [Cocaína](http://twitter.com/search?q=Coca%c3%adna) | N/A |
-| 43 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 44 | [Hugo Ospina](http://twitter.com/search?q=Hugo+Ospina) | Hugo Ospina is a Colombian footballer who currently plays for the Colombian national team. He is known for his defensive skills and his ability to read the game. In English, Hugo Ospina means "Hugo of the Ospina family". |
-| 45 | [Alpilitro](http://twitter.com/search?q=Alpilitro) | N/A |
-| 46 | [Laura Mora](http://twitter.com/search?q=Laura+Mora) | N/A |
-| 47 | [Plan Cazador](http://twitter.com/search?q=Plan+Cazador) | N/A |
-| 48 | [Goez](http://twitter.com/search?q=Goez) | N/A |
-| 49 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 50 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 40 | [Giraldo](http://twitter.com/search?q=Giraldo) | N/A |
+| 41 | [Cocaína](http://twitter.com/search?q=Coca%c3%adna) | N/A |
+| 42 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
+| 43 | [El Estado](http://twitter.com/search?q=El+Estado) | N/A |
+| 44 | [Abudinen](http://twitter.com/search?q=Abudinen) | N/A |
+| 45 | [goez](http://twitter.com/search?q=goez) | N/A |
+| 46 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 47 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 48 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 49 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 50 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
 
 
 

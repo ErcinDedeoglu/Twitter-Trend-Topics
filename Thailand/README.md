@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-01-30 21:17:07 UTC`
+📆 Last Updated: `2023-01-30 22:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,22 +25,22 @@ This is top 50 for Thailand
 | 8 | [bambam gm 30january](http://twitter.com/search?q=bambam+gm+30january) | N/A |
 | 9 | [palit su su](http://twitter.com/search?q=palit+su+su) | N/A |
 | 10 | [700k fantastic fourth](http://twitter.com/search?q=700k+fantastic+fourth) | N/A |
-| 11 | [Charlotte Austin](http://twitter.com/search?q=Charlotte+Austin) | N/A |
-| 12 | [JD Central](http://twitter.com/search?q=JD+Central) | N/A |
+| 11 | [charlotte austin](http://twitter.com/search?q=charlotte+austin) | N/A |
+| 12 | [jd central](http://twitter.com/search?q=jd+central) | N/A |
 | 13 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
 | 14 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 | 15 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 16 | [RVWF-HE46-QKB8](http://twitter.com/search?q=RVWF-HE46-QKB8) | N/A |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [PURPEECH](http://twitter.com/search?q=PURPEECH) | N/A |
+| 16 | [Congrats TikTok CL 1M](http://twitter.com/search?q=Congrats+TikTok+CL+1M) | N/A |
+| 17 | [RVWF-HE46-QKB8](http://twitter.com/search?q=RVWF-HE46-QKB8) | N/A |
+| 18 | [Miu Ning](http://twitter.com/search?q=Miu+Ning) | N/A |
 | 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 21 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 22 | [#บิวทําร้ายร่างการผู้หญิง](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%97%e0%b9%8d%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b8%a3%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%ab%e0%b8%8d%e0%b8%b4%e0%b8%87) | #บิวทําร้ายร่างการผู้หญิง is a hashtag used in Thailand to express support for women's rights and gender equality. In English, it translates to "#SupportWomenRights". |
-| 23 | [#AiLongNhaiTheEndlessLove](http://twitter.com/search?q=%23AiLongNhaiTheEndlessLove) | N/A |
-| 24 | [#2M100KstaywithNuNew](http://twitter.com/search?q=%232M100KstaywithNuNew) | #2M100KstaywithNuNew is a hashtag used by the Nu New clothing brand to encourage their customers to stay with them. It is a reference to the company's goal of reaching 2 million followers and 100,000 customers. |
-| 25 | [#DVI_SugarMV](http://twitter.com/search?q=%23DVI_SugarMV) | N/A |
-| 26 | [#ซงจุงกิ](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%87%e0%b8%88%e0%b8%b8%e0%b8%87%e0%b8%81%e0%b8%b4) | N/A |
+| 23 | [#2M100KstaywithNuNew](http://twitter.com/search?q=%232M100KstaywithNuNew) | #2M100KstaywithNuNew is a hashtag used by the Nu New clothing brand to encourage their customers to stay with them. It is a reference to the company's goal of reaching 2 million followers and 100,000 customers. |
+| 24 | [#Ailongnhaitheendlesslove](http://twitter.com/search?q=%23Ailongnhaitheendlesslove) | N/A |
+| 25 | [#ซงจุงกิ](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%87%e0%b8%88%e0%b8%b8%e0%b8%87%e0%b8%81%e0%b8%b4) | N/A |
+| 26 | [#DVI_SugarMV](http://twitter.com/search?q=%23DVI_SugarMV) | N/A |
 | 27 | [#BetweenUsFinalEP](http://twitter.com/search?q=%23BetweenUsFinalEP) | #BetweenUsFinalEP is a hashtag used to promote the final episode of the web series Between Us. The hashtag is used to encourage viewers to watch the finale and share their thoughts on social media. In English, it means "The Final Episode of Between Us". |
 | 28 | [#ASTROSTUFFSxVELENCE](http://twitter.com/search?q=%23ASTROSTUFFSxVELENCE) | #ASTROSTUFFSxVELENCE is a hashtag used to promote a collaboration between the fashion brand Velence and the K-pop group Astro. The hashtag is used to promote their joint venture, which includes exclusive merchandise and other products. |
 | 29 | [#atlas2023](http://twitter.com/search?q=%23atlas2023) | N/A |
@@ -62,8 +62,8 @@ This is top 50 for Thailand
 | 45 | [#กพ66](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%9e66) | N/A |
 | 46 | [#นางนาคสะใภ้พระโขนงep7](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b2%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%aa%e0%b8%b0%e0%b9%83%e0%b8%a0%e0%b9%89%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%82%e0%b8%99%e0%b8%87ep7) | N/A |
 | 47 | [#ตํารวจไทย](http://twitter.com/search?q=%23%e0%b8%95%e0%b9%8d%e0%b8%b2%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b9%84%e0%b8%97%e0%b8%a2) | N/A |
-| 48 | [#theseriesy_thailand](http://twitter.com/search?q=%23theseriesy_thailand) | N/A |
-| 49 | [#lastmondayofjanมีนปิง](http://twitter.com/search?q=%23lastmondayofjan%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
+| 48 | [#lastmondayofjanมีนปิง](http://twitter.com/search?q=%23lastmondayofjan%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
+| 49 | [#theseriesy_thailand](http://twitter.com/search?q=%23theseriesy_thailand) | N/A |
 | 50 | [#ไว้เจอกันใหม่นะคับแพทริค](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a7%e0%b9%89%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b8%99%e0%b8%b0%e0%b8%84%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84) | N/A |
 
 

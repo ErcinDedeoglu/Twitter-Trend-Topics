@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-01-30 21:17:01 UTC`
+📆 Last Updated: `2023-01-30 22:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,49 @@ This is top 50 for [United States](</United States>)
 | 1 | [Rays](http://twitter.com/search?q=Rays) | N/A |
 | 2 | [St. Pete](http://twitter.com/search?q=St.+Pete) | N/A |
 | 3 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
-| 4 | [Chris and Patrick](http://twitter.com/search?q=Chris+and+Patrick) | Chris and Patrick is a phrase that is used to refer to two people who are close friends. It can also be used to describe a situation in which two people are working together on something. |
-| 5 | [Jazz Chisholm](http://twitter.com/search?q=Jazz+Chisholm) | Jazz Chisholm is a nickname given to the Bahamian professional baseball player, Jazz Chisholm Jr. The name is derived from his first and last name, and is often used as a way to refer to him in a more informal manner. In English, it simply means "Jazz Chisholm". |
-| 6 | [DeSantis](http://twitter.com/search?q=DeSantis) | N/A |
-| 7 | [Schaffrillas](http://twitter.com/search?q=Schaffrillas) | Schaffrillas is a slang term used to describe someone who is stylish and fashionable. It is derived from the words "sharp" and "thriller," and it can be used to describe someone who always looks their best. |
-| 8 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
-| 9 | [#TSErasCollection](http://twitter.com/search?q=%23TSErasCollection) | N/A |
-| 10 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
-| 11 | [#MLBTheShow23](http://twitter.com/search?q=%23MLBTheShow23) | N/A |
-| 12 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 13 | [#PMSOverreactionMonday](http://twitter.com/search?q=%23PMSOverreactionMonday) | N/A |
-| 14 | [THE ALBUM](http://twitter.com/search?q=THE+ALBUM) | The Album is a term used to refer to a collection of songs or recordings released as a single package. It is typically used to refer to a full-length album, but can also be used for an EP or single. The term is derived from the traditional method of releasing music on vinyl records, which were usually packaged in an album with multiple songs. |
-| 15 | [Mark Houck](http://twitter.com/search?q=Mark+Houck) | Mark Houck is a surname of German origin. It is derived from the German word "Houck" which means "hill". The name is most commonly found in the United States, where it is often associated with Pennsylvania Dutch culture. |
-| 16 | [Atrioc](http://twitter.com/search?q=Atrioc) | Atrioc is a term used in the gaming community to refer to a player who is highly skilled and experienced in a particular game. It is derived from the Latin word "atrios" which means "skilled". |
-| 17 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 18 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 19 | [JRod](http://twitter.com/search?q=JRod) | N/A |
-| 20 | [TD Jakes](http://twitter.com/search?q=TD+Jakes) | N/A |
-| 21 | [John Adams](http://twitter.com/search?q=John+Adams) | John Adams is the second President of the United States, serving from 1797 to 1801. He was a leader of the American Revolution and a major figure in the early history of the United States. The phrase "John Adams" is often used to refer to his legacy as a Founding Father of the United States. |
-| 22 | [Casablanca](http://twitter.com/search?q=Casablanca) | N/A |
-| 23 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 24 | [Hummer](http://twitter.com/search?q=Hummer) | N/A |
-| 25 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
-| 26 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | N/A |
-| 27 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 28 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 29 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
-| 30 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 31 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 32 | [Bleier](http://twitter.com/search?q=Bleier) | N/A |
-| 33 | [Yeti](http://twitter.com/search?q=Yeti) | N/A |
-| 34 | [Pyer Moss](http://twitter.com/search?q=Pyer+Moss) | N/A |
-| 35 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
-| 36 | [Epoch Times](http://twitter.com/search?q=Epoch+Times) | N/A |
-| 37 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 38 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | Gene Hackman is the stage name of Eugene Allen Hackman, an American actor, director, and novelist. He is known for his roles in films such as The French Connection, Unforgiven, The Royal Tenenbaums, and The Birdcage. He has won two Academy Awards for Best Actor and Best Supporting Actor. |
-| 39 | [Louis CK](http://twitter.com/search?q=Louis+CK) | N/A |
-| 40 | [Preston Hemphill](http://twitter.com/search?q=Preston+Hemphill) | N/A |
-| 41 | [To Kill a Mockingbird](http://twitter.com/search?q=To+Kill+a+Mockingbird) | N/A |
-| 42 | [Grubb](http://twitter.com/search?q=Grubb) | N/A |
-| 43 | [BJ Hill](http://twitter.com/search?q=BJ+Hill) | BJ Hill is an acronym for "Big Joke Hill," which is a term used to describe a situation that is so ridiculous or absurd that it's funny. It can also be used to describe someone who is making a joke out of something serious. |
-| 44 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 45 | [Whoopi Goldberg](http://twitter.com/search?q=Whoopi+Goldberg) | N/A |
-| 46 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
+| 4 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 5 | [Chris and Patrick](http://twitter.com/search?q=Chris+and+Patrick) | Chris and Patrick is a phrase that is used to refer to two people who are close friends. It can also be used to describe a situation in which two people are working together on something. |
+| 6 | [Schaffrillas](http://twitter.com/search?q=Schaffrillas) | Schaffrillas is a slang term used to describe someone who is stylish and fashionable. It is derived from the words "sharp" and "thriller," and it can be used to describe someone who always looks their best. |
+| 7 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 8 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 9 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 10 | [#PMSOverreactionMonday](http://twitter.com/search?q=%23PMSOverreactionMonday) | N/A |
+| 11 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
+| 12 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
+| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 14 | [Mark Houck](http://twitter.com/search?q=Mark+Houck) | Mark Houck is a surname of German origin. It is derived from the German word "Houck" which means "hill". The name is most commonly found in the United States, where it is often associated with Pennsylvania Dutch culture. |
+| 15 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 16 | [#MLBTheShow23](http://twitter.com/search?q=%23MLBTheShow23) | N/A |
+| 17 | [The Album](http://twitter.com/search?q=The+Album) | The Album is a term used to refer to a collection of songs, usually released as a single package. It is typically used to refer to an album of recorded music, though it can also be used for other types of audio recordings such as spoken word albums and comedy albums. |
+| 18 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 19 | [Atrioc](http://twitter.com/search?q=Atrioc) | Atrioc is a term used in the gaming community to refer to a player who is highly skilled and experienced in a particular game. It is derived from the Latin word "atrios" which means "skilled". |
+| 20 | [Dallas Zoo](http://twitter.com/search?q=Dallas+Zoo) | Dallas Zoo is a zoological park located in Dallas, Texas. It is home to over 2,000 animals representing 406 species. The zoo is divided into several sections, including the Wilds of Africa, the Giants of the Savanna, and the Children's Zoo. Visitors can explore these areas and learn about the animals that inhabit them. |
+| 21 | [Casablanca](http://twitter.com/search?q=Casablanca) | N/A |
+| 22 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 23 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
+| 24 | [#TCEA23](http://twitter.com/search?q=%23TCEA23) | N/A |
+| 25 | [#TSErasCollection](http://twitter.com/search?q=%23TSErasCollection) | N/A |
+| 26 | [JRod](http://twitter.com/search?q=JRod) | N/A |
+| 27 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 28 | [To Kill a Mockingbird](http://twitter.com/search?q=To+Kill+a+Mockingbird) | N/A |
+| 29 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
+| 30 | [TD Jakes](http://twitter.com/search?q=TD+Jakes) | N/A |
+| 31 | [Hummer](http://twitter.com/search?q=Hummer) | N/A |
+| 32 | [Blue Yeti](http://twitter.com/search?q=Blue+Yeti) | N/A |
+| 33 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
+| 34 | [John Adams](http://twitter.com/search?q=John+Adams) | John Adams is the second President of the United States, serving from 1797 to 1801. He was a leader of the American Revolution and a major figure in the early history of the United States. The phrase "John Adams" is often used to refer to his legacy as a Founding Father of the United States. |
+| 35 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
+| 36 | [Wonderful Life](http://twitter.com/search?q=Wonderful+Life) | N/A |
+| 37 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
+| 38 | [12 Angry Men](http://twitter.com/search?q=12+Angry+Men) | N/A |
+| 39 | [Pyer Moss](http://twitter.com/search?q=Pyer+Moss) | N/A |
+| 40 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
+| 41 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 42 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | Gene Hackman is the stage name of Eugene Allen Hackman, an American actor, director, and novelist. He is known for his roles in films such as The French Connection, Unforgiven, The Royal Tenenbaums, and The Birdcage. He has won two Academy Awards for Best Actor and Best Supporting Actor. |
+| 43 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 44 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 45 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
+| 46 | [The Maltese Falcon](http://twitter.com/search?q=The+Maltese+Falcon) | N/A |
 
 
 

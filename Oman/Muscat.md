@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-01-30 21:16:51 UTC`
+📆 Last Updated: `2023-01-30 22:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Oman](</Oman>)
 | 12 | [المنتدي العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%af%d9%8a+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 13 | [كيلو جرام](http://twitter.com/search?q=%d9%83%d9%8a%d9%84%d9%88+%d8%ac%d8%b1%d8%a7%d9%85) | N/A |
 | 14 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
-| 15 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 16 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
-| 17 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 18 | [ذهاب دور](http://twitter.com/search?q=%d8%b0%d9%87%d8%a7%d8%a8+%d8%af%d9%88%d8%b1) | N/A |
-| 19 | [بورصة](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%b5%d8%a9) | N/A |
-| 20 | [المنتجات المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 21 | [مركز الوفاء](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d9%81%d8%a7%d8%a1) | N/A |
-| 22 | [صحار](http://twitter.com/search?q=%d8%b5%d8%ad%d8%a7%d8%b1) | N/A |
-| 23 | [الدوره التاسعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d9%87) | N/A |
-| 24 | [وزارة العمل](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 25 | [الموارد البشريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d8%af+%d8%a7%d9%84%d8%a8%d8%b4%d8%b1%d9%8a%d9%87) | N/A |
-| 26 | [المنتجات الزراعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 27 | [السلطان المعظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b9%d8%b8%d9%85) | N/A |
-| 28 | [الشركه العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 29 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 30 | [علي الرابط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7) | N/A |
-| 31 | [الانستا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
-| 32 | [29 يناير](http://twitter.com/search?q=29+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1) | N/A |
-| 33 | [سوسيداد](http://twitter.com/search?q=%d8%b3%d9%88%d8%b3%d9%8a%d8%af%d8%a7%d8%af) | سوسيداد (Soussad) is an Arabic word meaning "dignity" or "honor". It is often used to refer to the dignity and respect that should be accorded to a person or group of people. |
-| 34 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
-| 35 | [ذوي الاعاقه التابع](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%a8%d8%b9) | N/A |
-| 36 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 37 | [محمود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
-| 38 | [تيك توك](http://twitter.com/search?q=%d8%aa%d9%8a%d9%83+%d8%aa%d9%88%d9%83) | N/A |
+| 15 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 16 | [ذهاب دور](http://twitter.com/search?q=%d8%b0%d9%87%d8%a7%d8%a8+%d8%af%d9%88%d8%b1) | N/A |
+| 17 | [بورصة](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%b5%d8%a9) | N/A |
+| 18 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 19 | [مركز الوفاء](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d9%81%d8%a7%d8%a1) | N/A |
+| 20 | [صحار](http://twitter.com/search?q=%d8%b5%d8%ad%d8%a7%d8%b1) | N/A |
+| 21 | [المنتجات المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 22 | [الدوره التاسعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d9%87) | N/A |
+| 23 | [وزارة العمل](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 24 | [الموارد البشريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d8%af+%d8%a7%d9%84%d8%a8%d8%b4%d8%b1%d9%8a%d9%87) | N/A |
+| 25 | [المنتجات الزراعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d8%b2%d8%b1%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 26 | [السلطان المعظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b9%d8%b8%d9%85) | N/A |
+| 27 | [الشركه العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 28 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 29 | [علي الرابط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7) | N/A |
+| 30 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
+| 31 | [29 يناير](http://twitter.com/search?q=29+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1) | N/A |
+| 32 | [الانستا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
+| 33 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 34 | [سوسيداد](http://twitter.com/search?q=%d8%b3%d9%88%d8%b3%d9%8a%d8%af%d8%a7%d8%af) | سوسيداد (Soussad) is an Arabic word meaning "dignity" or "honor". It is often used to refer to the dignity and respect that should be accorded to a person or group of people. |
+| 35 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
+| 36 | [ذوي الاعاقه التابع](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%a8%d8%b9) | N/A |
+| 37 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 38 | [محمود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
 | 39 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
 | 40 | [الجهات المختصه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%b5%d9%87) | N/A |
-| 41 | [الواحد الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 41 | [تيك توك](http://twitter.com/search?q=%d8%aa%d9%8a%d9%83+%d8%aa%d9%88%d9%83) | N/A |
 | 42 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 43 | [رشا رزق](http://twitter.com/search?q=%d8%b1%d8%b4%d8%a7+%d8%b1%d8%b2%d9%82) | N/A |
 | 44 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
 | 45 | [الخدمات المقدمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%82%d8%af%d9%85%d9%87) | N/A |
 | 46 | [أحمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
 | 47 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 48 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 49 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 50 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
+| 48 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 49 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
+| 50 | [المركز الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 
 
 
