@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-01-30 22:16:42 UTC`
+📆 Last Updated: `2023-01-30 23:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 5 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 6 | [Hazel McCallion](http://twitter.com/search?q=Hazel+McCallion) | Hazel McCallion is the former mayor of Mississauga, Ontario, Canada. She served as mayor from 1978 to 2014, making her the longest-serving mayor in Canadian history. Her name has become synonymous with strong leadership and a commitment to public service. |
-| 7 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 8 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 10 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 12 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
-| 13 | [#NFCChampionshipGame](http://twitter.com/search?q=%23NFCChampionshipGame) | N/A |
-| 14 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 15 | [#FairDealAtMUN](http://twitter.com/search?q=%23FairDealAtMUN) | N/A |
-| 16 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 18 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
-| 19 | [Mississauga](http://twitter.com/search?q=Mississauga) | N/A |
-| 20 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 21 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
-| 22 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 23 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 24 | [The Golden Jet](http://twitter.com/search?q=The+Golden+Jet) | The Golden Jet is a nickname for the legendary hockey player Bobby Hull. He was known for his blazing speed and powerful slap shot, earning him the nickname "The Golden Jet." |
-| 25 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 26 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 27 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
-| 28 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
-| 29 | [Mindbender](http://twitter.com/search?q=Mindbender) | N/A |
-| 30 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 31 | [Megyn](http://twitter.com/search?q=Megyn) | Megyn is a female given name of Irish origin, derived from the Gaelic word "Méigín", meaning "little pearl". |
-| 32 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 33 | [Tony Romo](http://twitter.com/search?q=Tony+Romo) | Tony Romo is an American football player who played for the Dallas Cowboys from 2003 to 2016. He is widely regarded as one of the best quarterbacks in NFL history, having been selected to four Pro Bowls and leading the Cowboys to six playoff appearances. The phrase "Tony Romo" has become synonymous with clutch performances and game-winning drives. |
-| 34 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 35 | [Singh](http://twitter.com/search?q=Singh) | N/A |
-| 36 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 37 | [Stecher](http://twitter.com/search?q=Stecher) | N/A |
-| 38 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 1 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 2 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 3 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
+| 4 | [Raty](http://twitter.com/search?q=Raty) | Raty is a Finnish online payment system that allows customers to pay for goods and services in installments. It is similar to a layaway plan, allowing customers to pay for items over time rather than all at once. The word Raty is derived from the Finnish word "ratkaista," which means "to solve." |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 7 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
+| 8 | [Beauvillier](http://twitter.com/search?q=Beauvillier) | Beauvillier is a French surname. It is derived from the Old French word "beau" meaning "beautiful" and "villier" meaning "farmer". In English, it can be translated to mean "beautiful farmer". |
+| 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 10 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 11 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 12 | [Hazel McCallion](http://twitter.com/search?q=Hazel+McCallion) | Hazel McCallion is the former mayor of Mississauga, Ontario, Canada. She served as mayor from 1978 to 2014, making her the longest-serving mayor in Canadian history. Her name has become synonymous with strong leadership and a commitment to public service. |
+| 13 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 14 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
+| 15 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 16 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 17 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 18 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 19 | [#NFCChampionshipGame](http://twitter.com/search?q=%23NFCChampionshipGame) | N/A |
+| 20 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 21 | [#FairDealAtMUN](http://twitter.com/search?q=%23FairDealAtMUN) | N/A |
+| 22 | [Long Island](http://twitter.com/search?q=Long+Island) | N/A |
+| 23 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 24 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 25 | [Mississauga](http://twitter.com/search?q=Mississauga) | N/A |
+| 26 | [Lou Lamoriello](http://twitter.com/search?q=Lou+Lamoriello) | N/A |
+| 27 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
+| 28 | [The Golden Jet](http://twitter.com/search?q=The+Golden+Jet) | The Golden Jet is a nickname for the legendary hockey player Bobby Hull. He was known for his blazing speed and powerful slap shot, earning him the nickname "The Golden Jet." |
+| 29 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 30 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
+| 31 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 32 | [Mindbender](http://twitter.com/search?q=Mindbender) | N/A |
+| 33 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 34 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 35 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
+| 36 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 37 | [Tony Romo](http://twitter.com/search?q=Tony+Romo) | Tony Romo is an American football player who played for the Dallas Cowboys from 2003 to 2016. He is widely regarded as one of the best quarterbacks in NFL history, having been selected to four Pro Bowls and leading the Cowboys to six playoff appearances. The phrase "Tony Romo" has become synonymous with clutch performances and game-winning drives. |
+| 38 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
 | 39 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 40 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
-| 41 | [Capital Daily](http://twitter.com/search?q=Capital+Daily) | N/A |
-| 42 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 43 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
-| 44 | [Parliament Hill](http://twitter.com/search?q=Parliament+Hill) | N/A |
-| 45 | [Eli Apple](http://twitter.com/search?q=Eli+Apple) | Eli Apple is a pun on the phrase "I.D. apple," which is slang for identification card. It is often used to refer to someone who is new or inexperienced in a particular field or activity. |
-| 46 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 47 | [Saran Wrap](http://twitter.com/search?q=Saran+Wrap) | N/A |
-| 48 | [Patrick](http://twitter.com/search?q=Patrick) | N/A |
-| 49 | [Burrowhead](http://twitter.com/search?q=Burrowhead) | N/A |
-| 50 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
+| 40 | [Patrick](http://twitter.com/search?q=Patrick) | N/A |
+| 41 | [Megyn](http://twitter.com/search?q=Megyn) | Megyn is a female given name of Irish origin, derived from the Gaelic word "Méigín", meaning "little pearl". |
+| 42 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 43 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 44 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 45 | [Stecher](http://twitter.com/search?q=Stecher) | N/A |
+| 46 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 47 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
+| 48 | [Schaffrillas](http://twitter.com/search?q=Schaffrillas) | Schaffrillas is a slang term used to describe someone who is stylish and fashionable. It is derived from the words "sharp" and "thriller," and it can be used to describe someone who always looks their best. |
+| 49 | [Vieux-Québec](http://twitter.com/search?q=Vieux-Qu%c3%a9bec) | N/A |
+| 50 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
 
 
 

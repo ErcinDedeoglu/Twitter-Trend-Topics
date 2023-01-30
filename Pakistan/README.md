@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-01-30 22:16:46 UTC`
+📆 Last Updated: `2023-01-30 23:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for Pakistan
 | 13 | [Terrorism](http://twitter.com/search?q=Terrorism) | N/A |
 | 14 | [pakistan and uae](http://twitter.com/search?q=pakistan+and+uae) | N/A |
 | 15 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 16 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 17 | [uae president](http://twitter.com/search?q=uae+president) | N/A |
-| 18 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 19 | [Masjid](http://twitter.com/search?q=Masjid) | N/A |
-| 20 | [Sohail Tanvir](http://twitter.com/search?q=Sohail+Tanvir) | N/A |
-| 21 | [Junaid Khan](http://twitter.com/search?q=Junaid+Khan) | N/A |
-| 22 | [1YR OF VIJAYI TEJASSWI](http://twitter.com/search?q=1YR+OF+VIJAYI+TEJASSWI) | 1YR OF VIJAYI TEJASSWI is a hashtag used to celebrate the one-year anniversary of the Indian television series, Vijayi Tejasswi. The English translation of this phrase would be "One Year of Vijayi Tejasswi". |
-| 23 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
+| 16 | [Sohail Tanvir](http://twitter.com/search?q=Sohail+Tanvir) | N/A |
+| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 18 | [Masjid](http://twitter.com/search?q=Masjid) | N/A |
+| 19 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
+| 20 | [uae president](http://twitter.com/search?q=uae+president) | N/A |
+| 21 | [1YR OF VIJAYI TEJASSWI](http://twitter.com/search?q=1YR+OF+VIJAYI+TEJASSWI) | 1YR OF VIJAYI TEJASSWI is a hashtag used to celebrate the one-year anniversary of the Indian television series, Vijayi Tejasswi. The English translation of this phrase would be "One Year of Vijayi Tejasswi". |
+| 22 | [lasbela](http://twitter.com/search?q=lasbela) | N/A |
+| 23 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 | 24 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 25 | [Lasbela](http://twitter.com/search?q=Lasbela) | N/A |
-| 26 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 27 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 28 | [Taimoor Khan](http://twitter.com/search?q=Taimoor+Khan) | N/A |
+| 25 | [Junaid Khan](http://twitter.com/search?q=Junaid+Khan) | N/A |
+| 26 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
+| 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 28 | [Pashtoons](http://twitter.com/search?q=Pashtoons) | N/A |
 | 29 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 31 | [Pashtoons](http://twitter.com/search?q=Pashtoons) | N/A |
-| 32 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
+| 30 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 31 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
+| 32 | [Intelligence](http://twitter.com/search?q=Intelligence) | N/A |
 | 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
-| 35 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 36 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 37 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
-| 38 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 39 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 40 | [May Almighty](http://twitter.com/search?q=May+Almighty) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [Nimrit](http://twitter.com/search?q=Nimrit) | N/A |
+| 34 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 35 | [Just DM](http://twitter.com/search?q=Just+DM) | N/A |
+| 36 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 37 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
+| 38 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 40 | [Nimrit](http://twitter.com/search?q=Nimrit) | N/A |
+| 41 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 42 | [Money](http://twitter.com/search?q=Money) | N/A |
 | 43 | [Cutest](http://twitter.com/search?q=Cutest) | N/A |
-| 44 | [Achi](http://twitter.com/search?q=Achi) | N/A |
-| 45 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 46 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 47 | [Aunty](http://twitter.com/search?q=Aunty) | N/A |
-| 48 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 49 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 44 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
+| 45 | [Achi](http://twitter.com/search?q=Achi) | N/A |
+| 46 | [Aunty](http://twitter.com/search?q=Aunty) | N/A |
+| 47 | [Blood](http://twitter.com/search?q=Blood) | N/A |
+| 48 | [Turkey](http://twitter.com/search?q=Turkey) | N/A |
+| 49 | [Haram](http://twitter.com/search?q=Haram) | N/A |
 | 50 | [America](http://twitter.com/search?q=America) | N/A |
 
 

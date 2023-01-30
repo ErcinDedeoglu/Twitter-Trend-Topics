@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-01-30 22:16:03 UTC`
+📆 Last Updated: `2023-01-30 23:15:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
 | 2 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
-| 3 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
-| 4 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
+| 3 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
+| 4 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
 | 5 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
 | 6 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 7 | [#CRAGÓR](http://twitter.com/search?q=%23CRAG%c3%93R) | N/A |
 | 8 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 9 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
-| 10 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 11 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 12 | [Billa](http://twitter.com/search?q=Billa) | N/A |
+| 9 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 10 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 11 | [Billa](http://twitter.com/search?q=Billa) | N/A |
+| 12 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 13 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
 | 14 | [Poncyliusz](http://twitter.com/search?q=Poncyliusz) | N/A |
-| 15 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
-| 16 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 15 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
+| 16 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
 | 17 | [gual](http://twitter.com/search?q=gual) | N/A |
 | 18 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 19 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
 | 20 | [iranie](http://twitter.com/search?q=iranie) | N/A |
-| 21 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
-| 22 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
-| 23 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
-| 24 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 25 | [Zielińskiego](http://twitter.com/search?q=Zieli%c5%84skiego) | N/A |
-| 26 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
-| 27 | [Juras](http://twitter.com/search?q=Juras) | N/A |
-| 28 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 30 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 31 | [Kounde](http://twitter.com/search?q=Kounde) | N/A |
+| 21 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 22 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 23 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 24 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
+| 25 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 26 | [Zielińskiego](http://twitter.com/search?q=Zieli%c5%84skiego) | N/A |
+| 27 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
+| 28 | [Juras](http://twitter.com/search?q=Juras) | N/A |
+| 29 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 31 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
 | 32 | [Wika](http://twitter.com/search?q=Wika) | N/A |
-| 33 | [Babis](http://twitter.com/search?q=Babis) | N/A |
-| 34 | [Pavarda](http://twitter.com/search?q=Pavarda) | N/A |
-| 35 | [Beata Z.](http://twitter.com/search?q=Beata+Z.) | N/A |
-| 36 | [O 13](http://twitter.com/search?q=O+13) | N/A |
-| 37 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 33 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 34 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 35 | [Pavarda](http://twitter.com/search?q=Pavarda) | N/A |
+| 36 | [beata z.](http://twitter.com/search?q=beata+z.) | N/A |
+| 37 | [O 13](http://twitter.com/search?q=O+13) | N/A |
 | 38 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
-| 39 | [Wiki](http://twitter.com/search?q=Wiki) | N/A |
-| 40 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 41 | [nikogo](http://twitter.com/search?q=nikogo) | N/A |
-| 42 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
-| 43 | [Carlitosa](http://twitter.com/search?q=Carlitosa) | N/A |
-| 44 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
-| 45 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
-| 46 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 47 | [Tatrach](http://twitter.com/search?q=Tatrach) | N/A |
-| 48 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 49 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
+| 39 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 40 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 41 | [Wiki](http://twitter.com/search?q=Wiki) | N/A |
+| 42 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
+| 43 | [DOSLOWNIE](http://twitter.com/search?q=DOSLOWNIE) | N/A |
+| 44 | [nikogo](http://twitter.com/search?q=nikogo) | N/A |
+| 45 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
+| 46 | [Carlitosa](http://twitter.com/search?q=Carlitosa) | N/A |
+| 47 | [Belka](http://twitter.com/search?q=Belka) | N/A |
+| 48 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
 
 
 

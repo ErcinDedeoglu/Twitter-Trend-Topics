@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-01-30 22:16:41 UTC`
+📆 Last Updated: `2023-01-30 23:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,26 +15,27 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Зимбабве](http://twitter.com/search?q=%d0%97%d0%b8%d0%bc%d0%b1%d0%b0%d0%b1%d0%b2%d0%b5) | N/A |
+| 1 | [зимбабве](http://twitter.com/search?q=%d0%b7%d0%b8%d0%bc%d0%b1%d0%b0%d0%b1%d0%b2%d0%b5) | N/A |
 | 2 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 3 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
-| 4 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 5 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
-| 6 | [Беларусь](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 7 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
-| 8 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
-| 9 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 10 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 3 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 4 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
+| 5 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
+| 6 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
+| 7 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
+| 8 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
+| 9 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 10 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
 | 11 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
-| 12 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 13 | [Foundation](http://twitter.com/search?q=Foundation) | N/A |
-| 14 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 15 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 12 | [Foundation](http://twitter.com/search?q=Foundation) | N/A |
+| 13 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 14 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
+| 15 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
 | 16 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
 | 17 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 18 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
-| 19 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 20 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 18 | [Беларусь](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 19 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 20 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
+| 21 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
 
 
 

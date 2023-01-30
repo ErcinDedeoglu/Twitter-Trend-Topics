@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-01-30 22:16:31 UTC`
+📆 Last Updated: `2023-01-30 23:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Turkey](</Turkey>)
 | 6 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
 | 7 | [HAKAN FİDAN ADAMDIR](http://twitter.com/search?q=HAKAN+F%c4%b0DAN+ADAMDIR) | HAKAN FİDAN ADAMDIR is a Turkish phrase that translates to "Hakan Fidan is a man". It is used to express the fact that Hakan Fidan is a real person. |
 | 8 | [Bitti](http://twitter.com/search?q=Bitti) | N/A |
-| 9 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
-| 10 | [ADAM SEÇİLECEK](http://twitter.com/search?q=ADAM+SE%c3%87%c4%b0LECEK) | ADAM SEÇİLECEK is a Turkish phrase that translates to "A Person Will Be Chosen". It is typically used in the context of selecting someone for a job or other position. |
+| 9 | [ADAM SEÇİLECEK](http://twitter.com/search?q=ADAM+SE%c3%87%c4%b0LECEK) | ADAM SEÇİLECEK is a Turkish phrase that translates to "A Person Will Be Chosen". It is typically used in the context of selecting someone for a job or other position. |
+| 10 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
 | 11 | [Kübra](http://twitter.com/search?q=K%c3%bcbra) | Kübra is a Turkish female name. It is derived from the Arabic word kabir, which means "great" or "big". In English, Kübra can be translated to mean "great one". |
 | 12 | [Hakim Ziyech](http://twitter.com/search?q=Hakim+Ziyech) | N/A |
 | 13 | [Şeyda](http://twitter.com/search?q=%c5%9eeyda) | N/A |
-| 14 | [İmrda Barış](http://twitter.com/search?q=%c4%b0mrda+Bar%c4%b1%c5%9f) | İmrda Barış is a Turkish phrase that translates to "Peace Now." It is a call for an immediate end to conflict and violence, and for the establishment of peace. |
-| 15 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 16 | [Nevzat](http://twitter.com/search?q=Nevzat) | N/A |
-| 17 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 18 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 19 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 20 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
+| 14 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 15 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 16 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 17 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 18 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
+| 19 | [Nevzat](http://twitter.com/search?q=Nevzat) | N/A |
+| 20 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
 | 21 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 22 | [Zolgensma](http://twitter.com/search?q=Zolgensma) | N/A |
-| 23 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
+| 22 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
+| 23 | [Zolgensma](http://twitter.com/search?q=Zolgensma) | N/A |
 | 24 | [Sedat](http://twitter.com/search?q=Sedat) | Sedat is a Turkish name meaning "calm" or "peaceful". |
-| 25 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
+| 25 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
 | 26 | [Melek Subaşı](http://twitter.com/search?q=Melek+Suba%c5%9f%c4%b1) | N/A |
-| 27 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 28 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 27 | [İmrda Barış](http://twitter.com/search?q=%c4%b0mrda+Bar%c4%b1%c5%9f) | İmrda Barış is a Turkish phrase that translates to "Peace Now." It is a call for an immediate end to conflict and violence, and for the establishment of peace. |
+| 28 | [Sony](http://twitter.com/search?q=Sony) | N/A |
 | 29 | [Mutabakat](http://twitter.com/search?q=Mutabakat) | N/A |
 | 30 | [Nefise](http://twitter.com/search?q=Nefise) | N/A |
-| 31 | [Altılı Masa](http://twitter.com/search?q=Alt%c4%b1l%c4%b1+Masa) | Altılı Masa is a Turkish card game. It is similar to the American game of poker, but with some differences. The name translates literally to "Six Table" and refers to the six players who can play at one time. The goal of the game is to make the best five-card hand out of seven cards dealt to each player. |
-| 32 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
-| 33 | [Yaren](http://twitter.com/search?q=Yaren) | N/A |
-| 34 | [İlemri](http://twitter.com/search?q=%c4%b0lemri) | İlemri is a Turkish word that means "to be done". It is used to describe an action that needs to be completed or carried out. |
-| 35 | [Başıboş](http://twitter.com/search?q=Ba%c5%9f%c4%b1bo%c5%9f) | N/A |
+| 31 | [Yaren](http://twitter.com/search?q=Yaren) | N/A |
+| 32 | [Altılı Masa](http://twitter.com/search?q=Alt%c4%b1l%c4%b1+Masa) | Altılı Masa is a Turkish card game. It is similar to the American game of poker, but with some differences. The name translates literally to "Six Table" and refers to the six players who can play at one time. The goal of the game is to make the best five-card hand out of seven cards dealt to each player. |
+| 33 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 34 | [Başıboş](http://twitter.com/search?q=Ba%c5%9f%c4%b1bo%c5%9f) | N/A |
+| 35 | [İlemri](http://twitter.com/search?q=%c4%b0lemri) | İlemri is a Turkish word that means "to be done". It is used to describe an action that needs to be completed or carried out. |
 | 36 | [Gamze](http://twitter.com/search?q=Gamze) | N/A |
-| 37 | [Murat Sancak](http://twitter.com/search?q=Murat+Sancak) | N/A |
+| 37 | [Ayşenur](http://twitter.com/search?q=Ay%c5%9fenur) | N/A |
 | 38 | [Sokak](http://twitter.com/search?q=Sokak) | N/A |
-| 39 | [Ayşenur](http://twitter.com/search?q=Ay%c5%9fenur) | N/A |
-| 40 | [Batuhan](http://twitter.com/search?q=Batuhan) | N/A |
-| 41 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
-| 42 | [ORTAK İHANET METNİ](http://twitter.com/search?q=ORTAK+%c4%b0HANET+METN%c4%b0) | N/A |
-| 43 | [5 GB](http://twitter.com/search?q=5+GB) | 5 GB stands for 5 Gigabytes, which is a unit of digital storage. It is equivalent to 5,000 Megabytes and is commonly used to measure the size of files, such as photos, videos, and music. |
-| 44 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
-| 45 | [Simge](http://twitter.com/search?q=Simge) | N/A |
-| 46 | [Adnan Oktar](http://twitter.com/search?q=Adnan+Oktar) | N/A |
-| 47 | [Kademeli](http://twitter.com/search?q=Kademeli) | N/A |
+| 39 | [Batuhan](http://twitter.com/search?q=Batuhan) | N/A |
+| 40 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
+| 41 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
+| 42 | [Simge](http://twitter.com/search?q=Simge) | N/A |
+| 43 | [Kademeli](http://twitter.com/search?q=Kademeli) | N/A |
+| 44 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 45 | [Adnan Oktar](http://twitter.com/search?q=Adnan+Oktar) | N/A |
+| 46 | [Ortak](http://twitter.com/search?q=Ortak) | N/A |
+| 47 | [TEKBİRLERLE YOLA DEVAM](http://twitter.com/search?q=TEKB%c4%b0RLERLE+YOLA+DEVAM) | N/A |
 
 
 

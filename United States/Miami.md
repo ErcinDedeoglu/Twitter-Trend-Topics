@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-01-30 22:16:36 UTC`
+📆 Last Updated: `2023-01-30 23:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [United States](</United States>)
 | 2 | [St. Pete](http://twitter.com/search?q=St.+Pete) | N/A |
 | 3 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
 | 4 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 5 | [Chris and Patrick](http://twitter.com/search?q=Chris+and+Patrick) | Chris and Patrick is a phrase that is used to refer to two people who are close friends. It can also be used to describe a situation in which two people are working together on something. |
-| 6 | [Schaffrillas](http://twitter.com/search?q=Schaffrillas) | Schaffrillas is a slang term used to describe someone who is stylish and fashionable. It is derived from the words "sharp" and "thriller," and it can be used to describe someone who always looks their best. |
-| 7 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 8 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 9 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 10 | [#PMSOverreactionMonday](http://twitter.com/search?q=%23PMSOverreactionMonday) | N/A |
-| 11 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
-| 12 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
-| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 14 | [Mark Houck](http://twitter.com/search?q=Mark+Houck) | Mark Houck is a surname of German origin. It is derived from the German word "Houck" which means "hill". The name is most commonly found in the United States, where it is often associated with Pennsylvania Dutch culture. |
-| 15 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 16 | [#MLBTheShow23](http://twitter.com/search?q=%23MLBTheShow23) | N/A |
-| 17 | [The Album](http://twitter.com/search?q=The+Album) | The Album is a term used to refer to a collection of songs, usually released as a single package. It is typically used to refer to an album of recorded music, though it can also be used for other types of audio recordings such as spoken word albums and comedy albums. |
-| 18 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 19 | [Atrioc](http://twitter.com/search?q=Atrioc) | Atrioc is a term used in the gaming community to refer to a player who is highly skilled and experienced in a particular game. It is derived from the Latin word "atrios" which means "skilled". |
-| 20 | [Dallas Zoo](http://twitter.com/search?q=Dallas+Zoo) | Dallas Zoo is a zoological park located in Dallas, Texas. It is home to over 2,000 animals representing 406 species. The zoo is divided into several sections, including the Wilds of Africa, the Giants of the Savanna, and the Children's Zoo. Visitors can explore these areas and learn about the animals that inhabit them. |
-| 21 | [Casablanca](http://twitter.com/search?q=Casablanca) | N/A |
+| 5 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 6 | [Chris and Patrick](http://twitter.com/search?q=Chris+and+Patrick) | Chris and Patrick is a phrase that is used to refer to two people who are close friends. It can also be used to describe a situation in which two people are working together on something. |
+| 7 | [Schaffrillas](http://twitter.com/search?q=Schaffrillas) | Schaffrillas is a slang term used to describe someone who is stylish and fashionable. It is derived from the words "sharp" and "thriller," and it can be used to describe someone who always looks their best. |
+| 8 | [Raty](http://twitter.com/search?q=Raty) | Raty is a Finnish online payment system that allows customers to pay for goods and services in installments. It is similar to a layaway plan, allowing customers to pay for items over time rather than all at once. The word Raty is derived from the Finnish word "ratkaista," which means "to solve." |
+| 9 | [Dallas Zoo](http://twitter.com/search?q=Dallas+Zoo) | Dallas Zoo is a zoological park located in Dallas, Texas. It is home to over 2,000 animals representing 406 species. The zoo is divided into several sections, including the Wilds of Africa, the Giants of the Savanna, and the Children's Zoo. Visitors can explore these areas and learn about the animals that inhabit them. |
+| 10 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 11 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 12 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 13 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
+| 14 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 15 | [Tommy John](http://twitter.com/search?q=Tommy+John) | Tommy John is a surgical procedure in which a tendon from another part of the body is used to replace an injured elbow ligament in the arm. It is named after former Major League Baseball pitcher Tommy John, who was the first athlete to undergo the procedure. The surgery has become increasingly common among professional athletes, and has helped many pitchers extend their careers. |
+| 16 | [#PMSOverreactionMonday](http://twitter.com/search?q=%23PMSOverreactionMonday) | N/A |
+| 17 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
+| 18 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 19 | [The Album](http://twitter.com/search?q=The+Album) | The Album is a term used to refer to a collection of songs, usually released as a single package. It is typically used to refer to an album of recorded music, though it can also be used for other types of audio recordings such as spoken word albums and comedy albums. |
+| 20 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 21 | [Beauvillier](http://twitter.com/search?q=Beauvillier) | Beauvillier is a French surname. It is derived from the Old French word "beau" meaning "beautiful" and "villier" meaning "farmer". In English, it can be translated to mean "beautiful farmer". |
 | 22 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
 | 23 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
-| 24 | [#TCEA23](http://twitter.com/search?q=%23TCEA23) | N/A |
-| 25 | [#TSErasCollection](http://twitter.com/search?q=%23TSErasCollection) | N/A |
-| 26 | [JRod](http://twitter.com/search?q=JRod) | N/A |
-| 27 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 28 | [To Kill a Mockingbird](http://twitter.com/search?q=To+Kill+a+Mockingbird) | N/A |
-| 29 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
-| 30 | [TD Jakes](http://twitter.com/search?q=TD+Jakes) | N/A |
-| 31 | [Hummer](http://twitter.com/search?q=Hummer) | N/A |
-| 32 | [Blue Yeti](http://twitter.com/search?q=Blue+Yeti) | N/A |
-| 33 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
-| 34 | [John Adams](http://twitter.com/search?q=John+Adams) | John Adams is the second President of the United States, serving from 1797 to 1801. He was a leader of the American Revolution and a major figure in the early history of the United States. The phrase "John Adams" is often used to refer to his legacy as a Founding Father of the United States. |
-| 35 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
-| 36 | [Wonderful Life](http://twitter.com/search?q=Wonderful+Life) | N/A |
-| 37 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
-| 38 | [12 Angry Men](http://twitter.com/search?q=12+Angry+Men) | N/A |
-| 39 | [Pyer Moss](http://twitter.com/search?q=Pyer+Moss) | N/A |
-| 40 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
-| 41 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 42 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | Gene Hackman is the stage name of Eugene Allen Hackman, an American actor, director, and novelist. He is known for his roles in films such as The French Connection, Unforgiven, The Royal Tenenbaums, and The Birdcage. He has won two Academy Awards for Best Actor and Best Supporting Actor. |
-| 43 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 44 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 45 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
-| 46 | [The Maltese Falcon](http://twitter.com/search?q=The+Maltese+Falcon) | N/A |
-| 47 | [Preston Hemphill](http://twitter.com/search?q=Preston+Hemphill) | N/A |
-| 48 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 24 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
+| 25 | [Mark Houck](http://twitter.com/search?q=Mark+Houck) | Mark Houck is a surname of German origin. It is derived from the German word "Houck" which means "hill". The name is most commonly found in the United States, where it is often associated with Pennsylvania Dutch culture. |
+| 26 | [Atrioc](http://twitter.com/search?q=Atrioc) | Atrioc is a term used in the gaming community to refer to a player who is highly skilled and experienced in a particular game. It is derived from the Latin word "atrios" which means "skilled". |
+| 27 | [#MLBTheShow23](http://twitter.com/search?q=%23MLBTheShow23) | N/A |
+| 28 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 29 | [Casablanca](http://twitter.com/search?q=Casablanca) | N/A |
+| 30 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 31 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
+| 32 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
+| 33 | [To Kill a Mockingbird](http://twitter.com/search?q=To+Kill+a+Mockingbird) | N/A |
+| 34 | [Hummer](http://twitter.com/search?q=Hummer) | N/A |
+| 35 | [#TASA2023](http://twitter.com/search?q=%23TASA2023) | N/A |
+| 36 | [#NotSureAboutYouBut](http://twitter.com/search?q=%23NotSureAboutYouBut) | N/A |
+| 37 | [Wonderful Life](http://twitter.com/search?q=Wonderful+Life) | N/A |
+| 38 | [Blue Yeti](http://twitter.com/search?q=Blue+Yeti) | N/A |
+| 39 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 40 | [Julio Rodriguez](http://twitter.com/search?q=Julio+Rodriguez) | N/A |
+| 41 | [TD Jakes](http://twitter.com/search?q=TD+Jakes) | N/A |
+| 42 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 43 | [Tequila Sunrise](http://twitter.com/search?q=Tequila+Sunrise) | N/A |
+| 44 | [All About Eve](http://twitter.com/search?q=All+About+Eve) | N/A |
+| 45 | [Bill Maher](http://twitter.com/search?q=Bill+Maher) | N/A |
+| 46 | [Kim Foxx](http://twitter.com/search?q=Kim+Foxx) | N/A |
+| 47 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
+| 48 | [Ryan Pace](http://twitter.com/search?q=Ryan+Pace) | N/A |
 
 
 
