@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-01-30 00:25:15 UTC`
+📆 Last Updated: `2023-01-30 01:42:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,13 +18,13 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [#twefey](http://twitter.com/search?q=%23twefey) | N/A |
 | 2 | [#excaja](http://twitter.com/search?q=%23excaja) | N/A |
 | 3 | [#camfor](http://twitter.com/search?q=%23camfor) | N/A |
-| 4 | [#volGRO](http://twitter.com/search?q=%23volGRO) | N/A |
+| 4 | [#volgro](http://twitter.com/search?q=%23volgro) | N/A |
 | 5 | [#azutr](http://twitter.com/search?q=%23azutr) | N/A |
 | 6 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
 | 7 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
 | 8 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
 | 9 | [Brenet](http://twitter.com/search?q=Brenet) | N/A |
-| 10 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
+| 10 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
 | 11 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
 | 12 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
 | 13 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 18 | [Den Uyl](http://twitter.com/search?q=Den+Uyl) | N/A |
 | 19 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
 | 20 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 21 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
+| 21 | [manschot](http://twitter.com/search?q=manschot) | N/A |
 | 22 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
 | 23 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 | 24 | [frans hoek](http://twitter.com/search?q=frans+hoek) | N/A |
 | 25 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 26 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
+| 26 | [malieveld](http://twitter.com/search?q=malieveld) | N/A |
 | 27 | [Fledderus](http://twitter.com/search?q=Fledderus) | N/A |
-| 28 | [Misidjan](http://twitter.com/search?q=Misidjan) | N/A |
-| 29 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 28 | [misidjan](http://twitter.com/search?q=misidjan) | N/A |
+| 29 | [arne slot](http://twitter.com/search?q=arne+slot) | N/A |
 | 30 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 31 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 32 | [Januzaj](http://twitter.com/search?q=Januzaj) | N/A |
-| 33 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 34 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
-| 35 | [Joop](http://twitter.com/search?q=Joop) | N/A |
-| 36 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
-| 37 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 38 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 39 | [fc volendam](http://twitter.com/search?q=fc+volendam) | N/A |
-| 40 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 41 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 42 | [a12 in den haag](http://twitter.com/search?q=a12+in+den+haag) | N/A |
-| 43 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 44 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
-| 45 | [Amnesty](http://twitter.com/search?q=Amnesty) | N/A |
-| 46 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 47 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
-| 48 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 49 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 50 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 31 | [Januzaj](http://twitter.com/search?q=Januzaj) | N/A |
+| 32 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 33 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
+| 34 | [Joop](http://twitter.com/search?q=Joop) | N/A |
+| 35 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
+| 36 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 37 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 38 | [fc volendam](http://twitter.com/search?q=fc+volendam) | N/A |
+| 39 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 40 | [a12 in den haag](http://twitter.com/search?q=a12+in+den+haag) | N/A |
+| 41 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 42 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
+| 43 | [Amnesty](http://twitter.com/search?q=Amnesty) | N/A |
+| 44 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
+| 45 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 46 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
+| 47 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 48 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 49 | [louise fresco](http://twitter.com/search?q=louise+fresco) | N/A |
+| 50 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-01-30 00:25:06 UTC`
+📆 Last Updated: `2023-01-30 01:42:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
 | 3 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 4 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 5 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 6 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
-| 7 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 8 | [Dedsafio](http://twitter.com/search?q=Dedsafio) | N/A |
-| 9 | [#NFLPlayoffsEnTUDN](http://twitter.com/search?q=%23NFLPlayoffsEnTUDN) | N/A |
+| 5 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 6 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 7 | [#NFLPlayoffsEnTUDN](http://twitter.com/search?q=%23NFLPlayoffsEnTUDN) | N/A |
+| 8 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 9 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
 | 10 | [#ChiefsKingdom](http://twitter.com/search?q=%23ChiefsKingdom) | #ChiefsKingdom is a hashtag used by fans of the Kansas City Chiefs, an American football team. It is used to show support for the team and to express enthusiasm for their success. The phrase "Chiefs Kingdom" is a metaphor for the passionate fan base of the Chiefs, and it implies that they are all united in their love and support for the team. |
-| 11 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 12 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 13 | [Jhayco](http://twitter.com/search?q=Jhayco) | Jhayco is a slang term used in the Philippines to refer to someone who is stylish or fashionable. It is derived from the Tagalog phrase "maganda ang ayos," which translates to "well-dressed." |
-| 14 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 15 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 16 | [Karmaland](http://twitter.com/search?q=Karmaland) | Karmaland is a popular Spanish-language YouTube channel created by the Spanish YouTuber, JuegaGerman. The channel features videos of the YouTuber playing various video games, such as Minecraft and Roblox. The name Karmaland is derived from the concept of karma, which is a belief that one's actions will have consequences in the future. In English, Karmaland can be translated to mean "the land of karma". |
-| 17 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 18 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 19 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 20 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 21 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 22 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 23 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 24 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 25 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
-| 26 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
-| 27 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
-| 28 | [Gabriel Caballero](http://twitter.com/search?q=Gabriel+Caballero) | N/A |
-| 29 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
-| 30 | [Trent Williams](http://twitter.com/search?q=Trent+Williams) | Trent Williams is an American football offensive tackle for the San Francisco 49ers of the National Football League (NFL). He was drafted by the Washington Redskins fourth overall in the 2010 NFL Draft. He has been selected to seven Pro Bowls and is considered one of the best offensive tackles in the NFL. |
-| 31 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
-| 32 | [Zilverk](http://twitter.com/search?q=Zilverk) | N/A |
-| 33 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
-| 34 | [Lola](http://twitter.com/search?q=Lola) | N/A |
-| 35 | [Streamer](http://twitter.com/search?q=Streamer) | N/A |
-| 36 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 37 | [Conferencia Nacional](http://twitter.com/search?q=Conferencia+Nacional) | N/A |
-| 38 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
-| 39 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 40 | [HUMBE NEW ERA](http://twitter.com/search?q=HUMBE+NEW+ERA) | N/A |
-| 41 | [Juanpa](http://twitter.com/search?q=Juanpa) | N/A |
-| 42 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 43 | [JUAN ROLEPLAYER DEL AÑO](http://twitter.com/search?q=JUAN+ROLEPLAYER+DEL+A%c3%91O) | N/A |
-| 44 | [Robleis](http://twitter.com/search?q=Robleis) | N/A |
+| 11 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 12 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 13 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 14 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 15 | [Dedsafio](http://twitter.com/search?q=Dedsafio) | N/A |
+| 16 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
+| 17 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 18 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 19 | [Karmaland](http://twitter.com/search?q=Karmaland) | Karmaland is a popular Spanish-language YouTube channel created by the Spanish YouTuber, JuegaGerman. The channel features videos of the YouTuber playing various video games, such as Minecraft and Roblox. The name Karmaland is derived from the concept of karma, which is a belief that one's actions will have consequences in the future. In English, Karmaland can be translated to mean "the land of karma". |
+| 20 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 21 | [Jhayco](http://twitter.com/search?q=Jhayco) | Jhayco is a slang term used in the Philippines to refer to someone who is stylish or fashionable. It is derived from the Tagalog phrase "maganda ang ayos," which translates to "well-dressed." |
+| 22 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 23 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 24 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
+| 25 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 26 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 27 | [Valdo](http://twitter.com/search?q=Valdo) | N/A |
+| 28 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 29 | [Cincinnati](http://twitter.com/search?q=Cincinnati) | Cincinnati is a city in the U.S. state of Ohio, located on the Ohio River. It is the third-largest city in Ohio and the 65th-largest city in the United States. The name Cincinnati is derived from a Latinized version of a Native American word meaning "the town of the great chief." |
+| 30 | [Gabriel Caballero](http://twitter.com/search?q=Gabriel+Caballero) | N/A |
+| 31 | [Streamer](http://twitter.com/search?q=Streamer) | N/A |
+| 32 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
+| 33 | [Trent Williams](http://twitter.com/search?q=Trent+Williams) | Trent Williams is an American football offensive tackle for the San Francisco 49ers of the National Football League (NFL). He was drafted by the Washington Redskins fourth overall in the 2010 NFL Draft. He has been selected to seven Pro Bowls and is considered one of the best offensive tackles in the NFL. |
+| 34 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 35 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 36 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 37 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 38 | [HUMBE NEW ERA](http://twitter.com/search?q=HUMBE+NEW+ERA) | N/A |
+| 39 | [Hurts](http://twitter.com/search?q=Hurts) | Hurts is an English verb meaning to cause physical or emotional pain. It can also be used as a noun to refer to the pain itself. |
+| 40 | [Reborn](http://twitter.com/search?q=Reborn) | N/A |
+| 41 | [JUAN ROLEPLAYER DEL AÑO](http://twitter.com/search?q=JUAN+ROLEPLAYER+DEL+A%c3%91O) | N/A |
+| 42 | [4to QB](http://twitter.com/search?q=4to+QB) | N/A |
+| 43 | [Conferencia Nacional](http://twitter.com/search?q=Conferencia+Nacional) | N/A |
+| 44 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
 | 45 | [Maxo](http://twitter.com/search?q=Maxo) | N/A |
-| 46 | [4to QB](http://twitter.com/search?q=4to+QB) | N/A |
+| 46 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
 | 47 | [Jelty](http://twitter.com/search?q=Jelty) | N/A |
 | 48 | [Merecido](http://twitter.com/search?q=Merecido) | N/A |
-| 49 | [Valdo](http://twitter.com/search?q=Valdo) | N/A |
+| 49 | [Lola](http://twitter.com/search?q=Lola) | N/A |
 
 
 

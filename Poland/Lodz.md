@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-01-30 00:25:11 UTC`
+📆 Last Updated: `2023-01-30 01:42:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,36 +19,36 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
 | 3 | [#LEGKOR](http://twitter.com/search?q=%23LEGKOR) | N/A |
 | 4 | [#piajag](http://twitter.com/search?q=%23piajag) | N/A |
-| 5 | [#StrefaStarcia](http://twitter.com/search?q=%23StrefaStarcia) | N/A |
-| 6 | [#LGDWPŁ](http://twitter.com/search?q=%23LGDWP%c5%81) | N/A |
+| 5 | [#lgdwpł](http://twitter.com/search?q=%23lgdwp%c5%82) | N/A |
+| 6 | [#StrefaStarcia](http://twitter.com/search?q=%23StrefaStarcia) | N/A |
 | 7 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
-| 8 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 8 | [korony](http://twitter.com/search?q=korony) | N/A |
 | 9 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
 | 10 | [Iranie](http://twitter.com/search?q=Iranie) | N/A |
-| 11 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
-| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 13 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 14 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 15 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 12 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 13 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 14 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
+| 15 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
 | 16 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
-| 17 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 18 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
-| 19 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 17 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
+| 18 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 19 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 21 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
-| 22 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
-| 23 | [ochojska](http://twitter.com/search?q=ochojska) | N/A |
+| 22 | [ochojska](http://twitter.com/search?q=ochojska) | N/A |
+| 23 | [Jurasa](http://twitter.com/search?q=Jurasa) | N/A |
 | 24 | [Augustyniak](http://twitter.com/search?q=Augustyniak) | N/A |
 | 25 | [Kneblewski](http://twitter.com/search?q=Kneblewski) | N/A |
 | 26 | [Muci](http://twitter.com/search?q=Muci) | N/A |
 | 27 | [kropiwnicki](http://twitter.com/search?q=kropiwnicki) | N/A |
 | 28 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
-| 29 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
-| 30 | [tudora](http://twitter.com/search?q=tudora) | N/A |
-| 31 | [Orkiestry](http://twitter.com/search?q=Orkiestry) | N/A |
-| 32 | [Ksiądz](http://twitter.com/search?q=Ksi%c4%85dz) | N/A |
-| 33 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
-| 34 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
+| 29 | [tudora](http://twitter.com/search?q=tudora) | N/A |
+| 30 | [Orkiestry](http://twitter.com/search?q=Orkiestry) | N/A |
+| 31 | [ksiądz](http://twitter.com/search?q=ksi%c4%85dz) | N/A |
+| 32 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
+| 33 | [widzewa](http://twitter.com/search?q=widzewa) | N/A |
+| 34 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
 | 35 | [siema](http://twitter.com/search?q=siema) | N/A |
 | 36 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
 | 37 | [Gual](http://twitter.com/search?q=Gual) | N/A |
@@ -59,11 +59,11 @@ This is top 50 for [Poland](</Poland>)
 | 42 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
 | 43 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
 | 44 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 45 | [Babis](http://twitter.com/search?q=Babis) | N/A |
-| 46 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 47 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 48 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 49 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 45 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 46 | [Babis](http://twitter.com/search?q=Babis) | N/A |
+| 47 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
+| 48 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 49 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 
 
 

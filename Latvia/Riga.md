@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-01-30 00:25:17 UTC`
+📆 Last Updated: `2023-01-30 01:42:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,8 +33,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 16 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
 | 17 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 | 18 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 19 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 20 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
+| 19 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
 
 
 

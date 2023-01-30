@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-01-30 00:25:43 UTC`
+📆 Last Updated: `2023-01-30 01:42:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,22 +33,22 @@ This is top 50 for Belgium
 | 16 | [Grondwet](http://twitter.com/search?q=Grondwet) | N/A |
 | 17 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
 | 18 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 19 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 20 | [Groen](http://twitter.com/search?q=Groen) | N/A |
+| 19 | [Groen](http://twitter.com/search?q=Groen) | N/A |
+| 20 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
 | 21 | [Prachtig](http://twitter.com/search?q=Prachtig) | N/A |
-| 22 | [Red Lions](http://twitter.com/search?q=Red+Lions) | N/A |
-| 23 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
-| 24 | [Congratz](http://twitter.com/search?q=Congratz) | N/A |
-| 25 | [Komt](http://twitter.com/search?q=Komt) | N/A |
-| 26 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
-| 27 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 28 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
-| 29 | [Spijtig](http://twitter.com/search?q=Spijtig) | N/A |
-| 30 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 31 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 32 | [de vlaamse](http://twitter.com/search?q=de+vlaamse) | N/A |
-| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 34 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 22 | [red lions](http://twitter.com/search?q=red+lions) | N/A |
+| 23 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 24 | [Congolais](http://twitter.com/search?q=Congolais) | N/A |
+| 25 | [Congratz](http://twitter.com/search?q=Congratz) | N/A |
+| 26 | [Komt](http://twitter.com/search?q=Komt) | N/A |
+| 27 | [Bruges](http://twitter.com/search?q=Bruges) | N/A |
+| 28 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 29 | [TOTY](http://twitter.com/search?q=TOTY) | N/A |
+| 30 | [spijtig](http://twitter.com/search?q=spijtig) | N/A |
+| 31 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 32 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 33 | [de vlaamse](http://twitter.com/search?q=de+vlaamse) | N/A |
+| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 35 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
 | 36 | [Pardon](http://twitter.com/search?q=Pardon) | N/A |
 | 37 | [Vivaldi](http://twitter.com/search?q=Vivaldi) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Belgium
 | 42 | [cd&v](http://twitter.com/search?q=cd%26v) | N/A |
 | 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 44 | [Big Pharma](http://twitter.com/search?q=Big+Pharma) | N/A |
-| 45 | [Pape](http://twitter.com/search?q=Pape) | N/A |
-| 46 | [Demir](http://twitter.com/search?q=Demir) | N/A |
-| 47 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 48 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 49 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
-| 50 | [Tyre Nichols](http://twitter.com/search?q=Tyre+Nichols) | Tyre Nichols is a name of African-American origin. It is derived from the French word "tirer," which means "to pull," and the English word "Nichols," which is a patronymic surname meaning "son of Nicholas." The name Tyre Nichols can be translated to mean "the son of Nicholas who pulls." |
+| 45 | [Demir](http://twitter.com/search?q=Demir) | N/A |
+| 46 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 47 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
+| 48 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
+| 49 | [Tyre Nichols](http://twitter.com/search?q=Tyre+Nichols) | Tyre Nichols is a name of African-American origin. It is derived from the French word "tirer," which means "to pull," and the English word "Nichols," which is a patronymic surname meaning "son of Nicholas." The name Tyre Nichols can be translated to mean "the son of Nicholas who pulls." |
+| 50 | [Dankje](http://twitter.com/search?q=Dankje) | N/A |
 
 
 

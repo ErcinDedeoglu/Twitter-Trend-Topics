@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-01-30 00:25:17 UTC`
+📆 Last Updated: `2023-01-30 01:42:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,34 +37,34 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 20 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
 | 21 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
 | 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 23 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 24 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 25 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 26 | [Langnau](http://twitter.com/search?q=Langnau) | N/A |
-| 27 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 28 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
-| 29 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 30 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
-| 31 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 32 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 33 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 34 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 35 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 36 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 37 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 38 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 39 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 40 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 41 | [Linie](http://twitter.com/search?q=Linie) | N/A |
-| 42 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 43 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 47 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 48 | [America](http://twitter.com/search?q=America) | N/A |
-| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 50 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 23 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 24 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 25 | [langnau](http://twitter.com/search?q=langnau) | N/A |
+| 26 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 27 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
+| 28 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 29 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
+| 30 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 31 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 32 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 33 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 34 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 35 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 36 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 37 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 38 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 39 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 40 | [Linie](http://twitter.com/search?q=Linie) | N/A |
+| 41 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 42 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
+| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 45 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 47 | [America](http://twitter.com/search?q=America) | N/A |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 49 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 50 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
 
 
 

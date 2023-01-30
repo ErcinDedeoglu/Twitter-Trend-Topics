@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-01-30 00:25:43 UTC`
+📆 Last Updated: `2023-01-30 01:42:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,25 +17,25 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [Lauge](http://twitter.com/search?q=Lauge) | N/A |
 | 2 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
-| 3 | [#handball23](http://twitter.com/search?q=%23handball23) | N/A |
-| 4 | [#håndbold](http://twitter.com/search?q=%23h%c3%a5ndbold) | N/A |
-| 5 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
-| 6 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 7 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
-| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 9 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 10 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 11 | [#nfldk](http://twitter.com/search?q=%23nfldk) | N/A |
-| 12 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 14 | [Duelund](http://twitter.com/search?q=Duelund) | N/A |
-| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 16 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 17 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
-| 18 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
-| 19 | [st. bededag](http://twitter.com/search?q=st.+bededag) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 3 | [#håndbold](http://twitter.com/search?q=%23h%c3%a5ndbold) | N/A |
+| 4 | [#handball23](http://twitter.com/search?q=%23handball23) | N/A |
+| 5 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 7 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 8 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
+| 9 | [#nfldk](http://twitter.com/search?q=%23nfldk) | N/A |
+| 10 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
+| 11 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 12 | [Duelund](http://twitter.com/search?q=Duelund) | N/A |
+| 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 14 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 15 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
+| 16 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
+| 17 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
+| 18 | [st. bededag](http://twitter.com/search?q=st.+bededag) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 21 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
 | 22 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 23 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Denmark
 | 28 | [horsens](http://twitter.com/search?q=horsens) | N/A |
 | 29 | [Rosted](http://twitter.com/search?q=Rosted) | N/A |
 | 30 | [Maxsø](http://twitter.com/search?q=Maxs%c3%b8) | N/A |
-| 31 | [Rigtig](http://twitter.com/search?q=Rigtig) | N/A |
+| 31 | [rigtig](http://twitter.com/search?q=rigtig) | N/A |
 | 32 | [Landin](http://twitter.com/search?q=Landin) | Landin is not a word in English. It may be a misspelling of the word "landing," which means the act of arriving at a destination, especially by aircraft or spacecraft. |
 | 33 | [$GIGA](http://twitter.com/search?q=%24GIGA) | N/A |
 | 34 | [America](http://twitter.com/search?q=America) | N/A |
@@ -57,11 +57,11 @@ This is top 50 for Denmark
 | 40 | [bjur](http://twitter.com/search?q=bjur) | N/A |
 | 41 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 42 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
-| 43 | [Forstår](http://twitter.com/search?q=Forst%c3%a5r) | N/A |
-| 44 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
-| 45 | [Mikkel](http://twitter.com/search?q=Mikkel) | N/A |
-| 46 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 47 | [Sjovt](http://twitter.com/search?q=Sjovt) | N/A |
+| 43 | [forstår](http://twitter.com/search?q=forst%c3%a5r) | N/A |
+| 44 | [Sjovt](http://twitter.com/search?q=Sjovt) | N/A |
+| 45 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
+| 46 | [Mikkel](http://twitter.com/search?q=Mikkel) | N/A |
+| 47 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
 | 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 49 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
 | 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-01-30 00:25:43 UTC`
+📆 Last Updated: `2023-01-30 01:42:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Austria
 | 3 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 4 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 6 | [#LTW2023](http://twitter.com/search?q=%23LTW2023) | N/A |
+| 6 | [#ltw2023](http://twitter.com/search?q=%23ltw2023) | N/A |
 | 7 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
 | 8 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 9 | [Schnabl](http://twitter.com/search?q=Schnabl) | N/A |
+| 9 | [schnabl](http://twitter.com/search?q=schnabl) | N/A |
 | 10 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
 | 11 | [Bund](http://twitter.com/search?q=Bund) | N/A |
 | 12 | [Fleckerlteppich](http://twitter.com/search?q=Fleckerlteppich) | N/A |
 | 13 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 14 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
-| 15 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 16 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 17 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 20 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
-| 21 | [Johanna Mikl](http://twitter.com/search?q=Johanna+Mikl) | N/A |
-| 22 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 23 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 24 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 26 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
-| 27 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
-| 28 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 29 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 30 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
-| 31 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 32 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
-| 33 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 34 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 35 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 36 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 37 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 38 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
-| 39 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [roten](http://twitter.com/search?q=roten) | N/A |
+| 17 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 19 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
+| 20 | [Johanna Mikl](http://twitter.com/search?q=Johanna+Mikl) | N/A |
+| 21 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 22 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 23 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 25 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
+| 26 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
+| 27 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 28 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 29 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 30 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 31 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
+| 32 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 33 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 34 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 35 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 36 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 37 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 38 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
+| 39 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
 | 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 41 | [Option](http://twitter.com/search?q=Option) | N/A |
 | 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 43 | [zeitverlust](http://twitter.com/search?q=zeitverlust) | N/A |
 | 44 | [Standard](http://twitter.com/search?q=Standard) | N/A |
-| 45 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
-| 46 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 47 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 48 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 49 | [Sicht](http://twitter.com/search?q=Sicht) | N/A |
-| 50 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
+| 45 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 46 | [Koalition](http://twitter.com/search?q=Koalition) | N/A |
+| 47 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 48 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
+| 49 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
+| 50 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
 
 
 

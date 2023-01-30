@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-01-30 00:25:26 UTC`
+📆 Last Updated: `2023-01-30 01:42:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for [Kenya](</Kenya>)
 | 2 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
 | 3 | [#MashemejiDerby](http://twitter.com/search?q=%23MashemejiDerby) | N/A |
 | 4 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 5 | [Kevin Mboya](http://twitter.com/search?q=Kevin+Mboya) | N/A |
-| 6 | [#MUNREA](http://twitter.com/search?q=%23MUNREA) | #MUNREA is an acronym for the Municipal Real Estate Assessment, which is a process used to assess the value of real estate in a municipality. The assessment is used to determine the amount of taxes that are owed on the property. |
-| 7 | [#fearwomen](http://twitter.com/search?q=%23fearwomen) | N/A |
-| 8 | [#ProfitWithoutBorders](http://twitter.com/search?q=%23ProfitWithoutBorders) | N/A |
+| 5 | [kevin mboya](http://twitter.com/search?q=kevin+mboya) | N/A |
+| 6 | [#munrea](http://twitter.com/search?q=%23munrea) | N/A |
+| 7 | [#profitwithoutborders](http://twitter.com/search?q=%23profitwithoutborders) | N/A |
+| 8 | [#fearwomen](http://twitter.com/search?q=%23fearwomen) | N/A |
 | 9 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 10 | [#reggaeboyzonnrg](http://twitter.com/search?q=%23reggaeboyzonnrg) | N/A |
 | 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
@@ -32,10 +32,10 @@ This is top 50 for [Kenya](</Kenya>)
 | 15 | [nyayo stadium](http://twitter.com/search?q=nyayo+stadium) | N/A |
 | 16 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 17 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 19 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 18 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 19 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
 | 20 | [Zakayo](http://twitter.com/search?q=Zakayo) | N/A |
-| 21 | [Kalonzo Musyoka](http://twitter.com/search?q=Kalonzo+Musyoka) | N/A |
+| 21 | [kalonzo musyoka](http://twitter.com/search?q=kalonzo+musyoka) | N/A |
 | 22 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 23 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 24 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
@@ -43,11 +43,11 @@ This is top 50 for [Kenya](</Kenya>)
 | 26 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 27 | [EALA](http://twitter.com/search?q=EALA) | N/A |
 | 28 | [savara](http://twitter.com/search?q=savara) | N/A |
-| 29 | [Surgeon's Diary](http://twitter.com/search?q=Surgeon%27s+Diary) | N/A |
-| 30 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 31 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 29 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 30 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 31 | [Surgeon's Diary](http://twitter.com/search?q=Surgeon%27s+Diary) | N/A |
 | 32 | [Sunday Nation](http://twitter.com/search?q=Sunday+Nation) | N/A |
-| 33 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
+| 33 | [kindiki](http://twitter.com/search?q=kindiki) | N/A |
 | 34 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 35 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 36 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Kenya](</Kenya>)
 | 44 | [Narok](http://twitter.com/search?q=Narok) | N/A |
 | 45 | [Funds](http://twitter.com/search?q=Funds) | N/A |
 | 46 | [absa grounds](http://twitter.com/search?q=absa+grounds) | N/A |
-| 47 | [Gor Mahia](http://twitter.com/search?q=Gor+Mahia) | N/A |
+| 47 | [gor mahia](http://twitter.com/search?q=gor+mahia) | N/A |
 | 48 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
 | 49 | [ingwe](http://twitter.com/search?q=ingwe) | N/A |
-| 50 | [Kwale](http://twitter.com/search?q=Kwale) | N/A |
+| 50 | [kwale](http://twitter.com/search?q=kwale) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-01-30 00:25:10 UTC`
+📆 Last Updated: `2023-01-30 01:42:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 2 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 3 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 4 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 5 | [Zapelli](http://twitter.com/search?q=Zapelli) | N/A |
-| 6 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 7 | [Reniero](http://twitter.com/search?q=Reniero) | N/A |
-| 8 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 9 | [#CanibalesEnC5N](http://twitter.com/search?q=%23CanibalesEnC5N) | N/A |
-| 10 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 11 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 12 | [Fertoli](http://twitter.com/search?q=Fertoli) | N/A |
-| 13 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
-| 14 | [Cardona](http://twitter.com/search?q=Cardona) | N/A |
-| 15 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 16 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | N/A |
-| 17 | [Newell](http://twitter.com/search?q=Newell) | N/A |
-| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 19 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
-| 20 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 21 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 22 | [Platense](http://twitter.com/search?q=Platense) | N/A |
-| 23 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
-| 24 | [Lema](http://twitter.com/search?q=Lema) | N/A |
-| 25 | [Meza](http://twitter.com/search?q=Meza) | N/A |
-| 26 | [lola indigo](http://twitter.com/search?q=lola+indigo) | N/A |
-| 27 | [Arboleda](http://twitter.com/search?q=Arboleda) | Arboleda is a Spanish word that translates to "grove" or "woodland" in English. It is used to refer to a small area of trees, usually in a park or garden. |
-| 28 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 30 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 31 | [Gio Simeone](http://twitter.com/search?q=Gio+Simeone) | N/A |
-| 32 | [Saralegui](http://twitter.com/search?q=Saralegui) | N/A |
-| 33 | [Nardoni](http://twitter.com/search?q=Nardoni) | N/A |
-| 34 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
-| 35 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
-| 36 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 37 | [Panchito](http://twitter.com/search?q=Panchito) | N/A |
-| 38 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 39 | [Moralez](http://twitter.com/search?q=Moralez) | N/A |
-| 40 | [Vegetti](http://twitter.com/search?q=Vegetti) | N/A |
-| 41 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 42 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 43 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
-| 44 | [Arce](http://twitter.com/search?q=Arce) | N/A |
-| 45 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Barlasina](http://twitter.com/search?q=Barlasina) | N/A |
-| 48 | [Taborda](http://twitter.com/search?q=Taborda) | N/A |
-| 49 | [Alario](http://twitter.com/search?q=Alario) | N/A |
-| 50 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 2 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 3 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 4 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 5 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 6 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
+| 7 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 8 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 9 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 10 | [Sandez](http://twitter.com/search?q=Sandez) | Sandez is a Spanish term meaning “goodbye” or “farewell.” It is derived from the phrase “adiós, amigo,” which literally translates to “goodbye, friend.” |
+| 11 | [Reniero](http://twitter.com/search?q=Reniero) | N/A |
+| 12 | [Zapelli](http://twitter.com/search?q=Zapelli) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
+| 14 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 15 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 16 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
+| 17 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
+| 18 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
+| 19 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
+| 20 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 21 | [Vamos Boca](http://twitter.com/search?q=Vamos+Boca) | N/A |
+| 22 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 23 | [Payero](http://twitter.com/search?q=Payero) | N/A |
+| 24 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 25 | [#CanibalesEnC5N](http://twitter.com/search?q=%23CanibalesEnC5N) | N/A |
+| 26 | [Orozco](http://twitter.com/search?q=Orozco) | N/A |
+| 27 | [Vignolo](http://twitter.com/search?q=Vignolo) | N/A |
+| 28 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | N/A |
+| 29 | [AGUSTIN AL 9009](http://twitter.com/search?q=AGUSTIN+AL+9009) | AGUSTIN AL 9009 is a phrase used in Spanish to describe someone who is very clever and resourceful. It literally translates to "Agustin is very clever". |
+| 30 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
+| 31 | [Cardona](http://twitter.com/search?q=Cardona) | N/A |
+| 32 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 33 | [Vegetti](http://twitter.com/search?q=Vegetti) | N/A |
+| 34 | [Saralegui](http://twitter.com/search?q=Saralegui) | N/A |
+| 35 | [Troyansky](http://twitter.com/search?q=Troyansky) | N/A |
+| 36 | [Lema](http://twitter.com/search?q=Lema) | N/A |
+| 37 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 38 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
+| 39 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
+| 40 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 41 | [Atlético Tucumán](http://twitter.com/search?q=Atl%c3%a9tico+Tucum%c3%a1n) | N/A |
+| 42 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
+| 43 | [#Racing](http://twitter.com/search?q=%23Racing) | N/A |
+| 44 | [Boquita](http://twitter.com/search?q=Boquita) | N/A |
+| 45 | [Zabala](http://twitter.com/search?q=Zabala) | N/A |
+| 46 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 47 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
+| 48 | [Meza](http://twitter.com/search?q=Meza) | N/A |
+| 49 | [Nardoni](http://twitter.com/search?q=Nardoni) | N/A |
+| 50 | [Vega](http://twitter.com/search?q=Vega) | N/A |
 
 
 
