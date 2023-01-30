@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-01-30 03:15:24 UTC`
+📆 Last Updated: `2023-01-30 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,47 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PremiosCaleucheEnTVN](http://twitter.com/search?q=%23PremiosCaleucheEnTVN) | #PremiosCaleucheEnTVN is a hashtag used to promote the Chilean television network TVN's annual awards ceremony, the Premios Caleuche. The English translation of the hashtag is "#CaleucheAwardsOnTVN". |
-| 2 | [#PremiosCaleuche2023](http://twitter.com/search?q=%23PremiosCaleuche2023) | N/A |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [#PremiosCaleucheEnTVN](http://twitter.com/search?q=%23PremiosCaleucheEnTVN) | #PremiosCaleucheEnTVN is a hashtag used to promote the Chilean television network TVN's annual awards ceremony, the Premios Caleuche. The English translation of the hashtag is "#CaleucheAwardsOnTVN". |
+| 3 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 4 | [Natalia Valdebenito](http://twitter.com/search?q=Natalia+Valdebenito) | N/A |
-| 5 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 6 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 7 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 8 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 9 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 10 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 11 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 12 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
-| 13 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 14 | [Ramiro Gonzalez](http://twitter.com/search?q=Ramiro+Gonzalez) | N/A |
-| 15 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 16 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 17 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 18 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 19 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 20 | [Opazo](http://twitter.com/search?q=Opazo) | N/A |
-| 21 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 22 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 23 | [Donoso](http://twitter.com/search?q=Donoso) | N/A |
-| 24 | [Plaza Egaña](http://twitter.com/search?q=Plaza+Ega%c3%b1a) | N/A |
-| 25 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
-| 26 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 27 | [Gutierrez](http://twitter.com/search?q=Gutierrez) | N/A |
-| 28 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 29 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 5 | [#YoSoyChv](http://twitter.com/search?q=%23YoSoyChv) | N/A |
+| 6 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 7 | [Héctor Noguera](http://twitter.com/search?q=H%c3%a9ctor+Noguera) | N/A |
+| 8 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 9 | [Tito Noguera](http://twitter.com/search?q=Tito+Noguera) | N/A |
+| 10 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 11 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 12 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 13 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
+| 14 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 15 | [Ramiro González](http://twitter.com/search?q=Ramiro+Gonz%c3%a1lez) | Ramiro González is a Spanish name. It is composed of two parts: Ramiro, which is a Spanish given name derived from the Germanic name Raginmar, meaning "famous judgment"; and González, which is a Spanish surname derived from the Latin word Gundisalvus, meaning "battle-ready". In English, the name would be translated as "Famous Judgment Battle-Ready". |
+| 16 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 17 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 18 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 19 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 20 | [Higgins](http://twitter.com/search?q=Higgins) | Higgins is a slang term used to refer to someone who is very smart or intelligent. It can also be used to describe someone who is very well-informed or knowledgeable about a particular subject. |
+| 21 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 22 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 23 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 24 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 25 | [Donoso](http://twitter.com/search?q=Donoso) | N/A |
+| 26 | [Plaza Egaña](http://twitter.com/search?q=Plaza+Ega%c3%b1a) | N/A |
+| 27 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
+| 28 | [Gutierrez](http://twitter.com/search?q=Gutierrez) | N/A |
+| 29 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
 | 30 | [Moya](http://twitter.com/search?q=Moya) | N/A |
-| 31 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
-| 32 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 33 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 34 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 35 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 36 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 31 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 32 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
+| 33 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 34 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 35 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
+| 36 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
 | 37 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
-| 38 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
+| 38 | [#BoricDemente](http://twitter.com/search?q=%23BoricDemente) | N/A |
 | 39 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 40 | [#BoricDemente](http://twitter.com/search?q=%23BoricDemente) | N/A |
-| 41 | [#ApagaEl13](http://twitter.com/search?q=%23ApagaEl13) | N/A |
-| 42 | [#ListaDelIndulto](http://twitter.com/search?q=%23ListaDelIndulto) | N/A |
-| 43 | [#MerluzoDemente](http://twitter.com/search?q=%23MerluzoDemente) | N/A |
+| 40 | [#ApagaEl13](http://twitter.com/search?q=%23ApagaEl13) | N/A |
+| 41 | [#ListaDelIndulto](http://twitter.com/search?q=%23ListaDelIndulto) | N/A |
 
 
 

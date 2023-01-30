@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-01-30 03:15:40 UTC`
+📆 Last Updated: `2023-01-30 04:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SafeflightHKxBible](http://twitter.com/search?q=%23SafeflightHKxBible) | #SafeflightHKxBible is a hashtag used to promote a collaboration between the Hong Kong-based airline, Safeflight HK, and the Bible App. The hashtag is used to promote the partnership between the two companies and encourage people to use the Bible App while flying with Safeflight HK. |
-| 2 | [Nurul Izzah](http://twitter.com/search?q=Nurul+Izzah) | N/A |
-| 3 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [#SeenFestivalInKL2023](http://twitter.com/search?q=%23SeenFestivalInKL2023) | N/A |
-| 6 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 8 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 9 | [#familiduo](http://twitter.com/search?q=%23familiduo) | N/A |
-| 10 | [#ARRLiveInMalaysia](http://twitter.com/search?q=%23ARRLiveInMalaysia) | N/A |
-| 11 | [Tamil](http://twitter.com/search?q=Tamil) | N/A |
-| 12 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
-| 13 | [#BHALIV](http://twitter.com/search?q=%23BHALIV) | #BHALIV is a hashtag used on social media to promote the Bhaliv movement in India. The Bhaliv movement is a campaign to raise awareness about the importance of protecting and preserving India's natural resources. The hashtag translates to "Protect India's Nature" in English. |
-| 14 | [youngji](http://twitter.com/search?q=youngji) | N/A |
-| 15 | [Hokkien](http://twitter.com/search?q=Hokkien) | N/A |
-| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 17 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 18 | [pull up mv teaser 2](http://twitter.com/search?q=pull+up+mv+teaser+2) | N/A |
-| 19 | [Munbe Vaa](http://twitter.com/search?q=Munbe+Vaa) | N/A |
-| 20 | [Bogum](http://twitter.com/search?q=Bogum) | N/A |
-| 21 | [Gopal Sri Ram](http://twitter.com/search?q=Gopal+Sri+Ram) | N/A |
+| 1 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
+| 2 | [#hello82](http://twitter.com/search?q=%23hello82) | N/A |
+| 3 | [#QuestionParade_THEBOYZ](http://twitter.com/search?q=%23QuestionParade_THEBOYZ) | N/A |
+| 4 | [#SafeflightHKxBible](http://twitter.com/search?q=%23SafeflightHKxBible) | #SafeflightHKxBible is a hashtag used to promote a collaboration between the Hong Kong-based airline, Safeflight HK, and the Bible App. The hashtag is used to promote the partnership between the two companies and encourage people to use the Bible App while flying with Safeflight HK. |
+| 5 | [Nurul Izzah](http://twitter.com/search?q=Nurul+Izzah) | N/A |
+| 6 | [#2M100KstaywithNuNew](http://twitter.com/search?q=%232M100KstaywithNuNew) | #2M100KstaywithNuNew is a hashtag used by the Nu New clothing brand to encourage their customers to stay with them. It is a reference to the company's goal of reaching 2 million followers and 100,000 customers. |
+| 7 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 8 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
+| 11 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 12 | [Tamil](http://twitter.com/search?q=Tamil) | N/A |
+| 13 | [Nepotism](http://twitter.com/search?q=Nepotism) | N/A |
+| 14 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 15 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 16 | [Hokkien](http://twitter.com/search?q=Hokkien) | N/A |
+| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 18 | [youngji](http://twitter.com/search?q=youngji) | N/A |
+| 19 | [pull up mv teaser 2](http://twitter.com/search?q=pull+up+mv+teaser+2) | N/A |
+| 20 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 21 | [Siti Nurhaliza](http://twitter.com/search?q=Siti+Nurhaliza) | N/A |
 | 22 | [DSAI](http://twitter.com/search?q=DSAI) | N/A |
-| 23 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 24 | [Siti Nurhaliza](http://twitter.com/search?q=Siti+Nurhaliza) | N/A |
-| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 26 | [GAP WORLD DOMINATION](http://twitter.com/search?q=GAP+WORLD+DOMINATION) | GAP World Domination is a term used to describe the ambition of the clothing company GAP to become a global leader in the fashion industry. The phrase is often used to refer to GAP's aggressive expansion strategy, which has seen them open stores in many countries around the world. |
-| 27 | [The Link](http://twitter.com/search?q=The+Link) | The Link is a term used to describe the connection between two or more people, ideas, or things. It can refer to the physical connection between two people, such as a handshake or hug, or it can refer to the mental connection between two ideas or concepts. The Link is often used to describe the relationship between people and their environment, as well as the relationship between different cultures and societies. |
+| 23 | [Bogum](http://twitter.com/search?q=Bogum) | N/A |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 25 | [GAP WORLD DOMINATION](http://twitter.com/search?q=GAP+WORLD+DOMINATION) | GAP World Domination is a term used to describe the ambition of the clothing company GAP to become a global leader in the fashion industry. The phrase is often used to refer to GAP's aggressive expansion strategy, which has seen them open stores in many countries around the world. |
+| 26 | [The Link](http://twitter.com/search?q=The+Link) | The Link is a term used to describe the connection between two or more people, ideas, or things. It can refer to the physical connection between two people, such as a handshake or hug, or it can refer to the mental connection between two ideas or concepts. The Link is often used to describe the relationship between people and their environment, as well as the relationship between different cultures and societies. |
+| 27 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
 | 28 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 29 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
-| 30 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
-| 31 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 32 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 33 | [affliate](http://twitter.com/search?q=affliate) | N/A |
-| 34 | [dato siti](http://twitter.com/search?q=dato+siti) | N/A |
-| 35 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 36 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 37 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 38 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 39 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 40 | [Pro Bono](http://twitter.com/search?q=Pro+Bono) | N/A |
-| 41 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 42 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 43 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 44 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 45 | [Kun Faya Kun](http://twitter.com/search?q=Kun+Faya+Kun) | N/A |
-| 46 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 47 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
-| 48 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 29 | [Gopal Sri Ram](http://twitter.com/search?q=Gopal+Sri+Ram) | N/A |
+| 30 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 31 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 32 | [Munbe Vaa](http://twitter.com/search?q=Munbe+Vaa) | N/A |
+| 33 | [dato siti](http://twitter.com/search?q=dato+siti) | N/A |
+| 34 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 35 | [Pro Bono](http://twitter.com/search?q=Pro+Bono) | N/A |
+| 36 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 37 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
+| 38 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 39 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 40 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 41 | [Kun Faya Kun](http://twitter.com/search?q=Kun+Faya+Kun) | N/A |
+| 42 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 43 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 44 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 45 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 46 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 47 | [Brazilian](http://twitter.com/search?q=Brazilian) | N/A |
+| 48 | [Jones](http://twitter.com/search?q=Jones) | N/A |
 
 
 

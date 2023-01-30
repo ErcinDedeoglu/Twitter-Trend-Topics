@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-01-30 03:16:03 UTC`
+📆 Last Updated: `2023-01-30 04:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 2 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 3 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
-| 4 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
-| 5 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 6 | [#RumboALaCumbre](http://twitter.com/search?q=%23RumboALaCumbre) | N/A |
-| 7 | [#RuleTheJungle](http://twitter.com/search?q=%23RuleTheJungle) | #RuleTheJungle is a phrase that is used to encourage people to take control of their lives and be the master of their own destiny. It is a call to action for people to take charge and be the leader of their own lives. |
-| 8 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 9 | [#NFLPlayoffsEnTDN](http://twitter.com/search?q=%23NFLPlayoffsEnTDN) | N/A |
-| 10 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 11 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 12 | [#AFCChampionshipGame](http://twitter.com/search?q=%23AFCChampionshipGame) | #AFCChampionshipGame is the hashtag used to refer to the American Football Conference (AFC) Championship Game, which is an annual NFL playoff game that determines the champion of the AFC. The winner of this game goes on to compete in the Super Bowl. |
-| 13 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 14 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 15 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 16 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 17 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 18 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 19 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 20 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 21 | [Jefes](http://twitter.com/search?q=Jefes) | N/A |
-| 22 | [La NFL](http://twitter.com/search?q=La+NFL) | N/A |
-| 23 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 24 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 25 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 26 | [Dedsafio](http://twitter.com/search?q=Dedsafio) | N/A |
-| 27 | [Chase](http://twitter.com/search?q=Chase) | Chase is a verb meaning to pursue or follow someone or something in order to catch them. It can also mean to try hard to achieve something. |
-| 28 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 29 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 3 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 4 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 5 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
+| 6 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
+| 7 | [#RumboALaCumbre](http://twitter.com/search?q=%23RumboALaCumbre) | N/A |
+| 8 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 9 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 10 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 11 | [#RuleTheJungle](http://twitter.com/search?q=%23RuleTheJungle) | #RuleTheJungle is a phrase that is used to encourage people to take control of their lives and be the master of their own destiny. It is a call to action for people to take charge and be the leader of their own lives. |
+| 12 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 13 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 14 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 15 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 16 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 17 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 18 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 19 | [Jefes](http://twitter.com/search?q=Jefes) | N/A |
+| 20 | [Vince Lombardi](http://twitter.com/search?q=Vince+Lombardi) | N/A |
+| 21 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 22 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 23 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 24 | [La NFL](http://twitter.com/search?q=La+NFL) | N/A |
+| 25 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 26 | [Bengalíes](http://twitter.com/search?q=Bengal%c3%ades) | N/A |
+| 27 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 28 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 29 | [Conferencia Americana](http://twitter.com/search?q=Conferencia+Americana) | N/A |
 | 30 | [MATISSE](http://twitter.com/search?q=MATISSE) | N/A |
-| 31 | [Karmaland](http://twitter.com/search?q=Karmaland) | Karmaland is a popular Spanish-language YouTube channel created by the Spanish YouTuber, JuegaGerman. The channel features videos of the YouTuber playing various video games, such as Minecraft and Roblox. The name Karmaland is derived from the concept of karma, which is a belief that one's actions will have consequences in the future. In English, Karmaland can be translated to mean "the land of karma". |
-| 32 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 33 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
-| 34 | [Bengalíes](http://twitter.com/search?q=Bengal%c3%ades) | N/A |
-| 35 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 36 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 37 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 38 | [Gabriel Caballero](http://twitter.com/search?q=Gabriel+Caballero) | N/A |
-| 39 | [Jhayco](http://twitter.com/search?q=Jhayco) | Jhayco is a slang term used in the Philippines to refer to someone who is stylish or fashionable. It is derived from the Tagalog phrase "maganda ang ayos," which translates to "well-dressed." |
-| 40 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 41 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 42 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
-| 43 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 44 | [Maxo](http://twitter.com/search?q=Maxo) | N/A |
-| 45 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
-| 46 | [Streamer](http://twitter.com/search?q=Streamer) | N/A |
-| 47 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 48 | [Paty](http://twitter.com/search?q=Paty) | N/A |
-| 49 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 50 | [Ari y Juan](http://twitter.com/search?q=Ari+y+Juan) | N/A |
+| 31 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 32 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 33 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
+| 34 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 35 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 36 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 37 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
+| 38 | [Chase](http://twitter.com/search?q=Chase) | Chase is a verb meaning to pursue or follow someone or something in order to catch them. It can also mean to try hard to achieve something. |
+| 39 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 40 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 41 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 42 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 43 | [Dedsafio](http://twitter.com/search?q=Dedsafio) | N/A |
+| 44 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 45 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 46 | [Aristeo](http://twitter.com/search?q=Aristeo) | N/A |
+| 47 | [Osvaldo](http://twitter.com/search?q=Osvaldo) | N/A |
+| 48 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 49 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 50 | [Maxo](http://twitter.com/search?q=Maxo) | N/A |
 
 
 

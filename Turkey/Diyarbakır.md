@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-01-30 03:15:51 UTC`
+📆 Last Updated: `2023-01-30 04:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FBvKAS](http://twitter.com/search?q=%23FBvKAS) | #FBvKAS is an abbreviation for the Dutch football match between Feyenoord and AZ Alkmaar. The acronym stands for Feyenoord versus AZ Alkmaar. |
-| 2 | [#KadıköydeSkandalVAR](http://twitter.com/search?q=%23Kad%c4%b1k%c3%b6ydeSkandalVAR) | #KadıköydeSkandalVAR is a hashtag used on social media in Turkey to refer to a scandal involving the Kadıköy district of Istanbul. It is used to draw attention to news stories or events related to the scandal. In English, it translates to "There's a Scandal in Kadıköy". |
-| 3 | [#elbetbirgün](http://twitter.com/search?q=%23elbetbirg%c3%bcn) | #elbetbirgün is a Turkish phrase that translates to "someday" in English. It is used to express hope and optimism for the future. |
+| 2 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 3 | [#KadıköydeSkandalVAR](http://twitter.com/search?q=%23Kad%c4%b1k%c3%b6ydeSkandalVAR) | #KadıköydeSkandalVAR is a hashtag used on social media in Turkey to refer to a scandal involving the Kadıköy district of Istanbul. It is used to draw attention to news stories or events related to the scandal. In English, it translates to "There's a Scandal in Kadıköy". |
 | 4 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 5 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
 | 6 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
@@ -31,38 +31,38 @@ This is top 50 for [Turkey](</Turkey>)
 | 14 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 15 | [Melek Mızrak Subaşı](http://twitter.com/search?q=Melek+M%c4%b1zrak+Suba%c5%9f%c4%b1) | N/A |
 | 16 | [kaan ayhan](http://twitter.com/search?q=kaan+ayhan) | N/A |
-| 17 | [Mert Müldür](http://twitter.com/search?q=Mert+M%c3%bcld%c3%bcr) | Mert Müldür is a Turkish name, composed of two words: Mert (meaning brave or courageous) and Müldür (meaning leader). In English, the name could be translated as "brave leader". |
+| 17 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
 | 18 | [merkeztaşra buhranı](http://twitter.com/search?q=merkezta%c5%9fra+buhran%c4%b1) | N/A |
 | 19 | [emre demir](http://twitter.com/search?q=emre+demir) | N/A |
 | 20 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
-| 21 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
+| 21 | [Mert Müldür](http://twitter.com/search?q=Mert+M%c3%bcld%c3%bcr) | Mert Müldür is a Turkish name, composed of two words: Mert (meaning brave or courageous) and Müldür (meaning leader). In English, the name could be translated as "brave leader". |
 | 22 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | N/A |
 | 23 | [Teşekkürler Amasya](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Amasya) | N/A |
-| 24 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
-| 25 | [asmgrup elemanımağdur](http://twitter.com/search?q=asmgrup+eleman%c4%b1ma%c4%9fdur) | N/A |
-| 26 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
-| 27 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
-| 28 | [Giresun](http://twitter.com/search?q=Giresun) | Giresun is a province in the Black Sea region of Turkey. Its name in English translates to "Sunny Place". |
-| 29 | [13 Şubat](http://twitter.com/search?q=13+%c5%9eubat) | N/A |
-| 30 | [ALİ HAYDAR ÇELEBİ](http://twitter.com/search?q=AL%c4%b0+HAYDAR+%c3%87ELEB%c4%b0) | N/A |
+| 24 | [asmgrup elemanımağdur](http://twitter.com/search?q=asmgrup+eleman%c4%b1ma%c4%9fdur) | N/A |
+| 25 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
+| 26 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
+| 27 | [selçuk i̇nan](http://twitter.com/search?q=sel%c3%a7uk+i%cc%87nan) | N/A |
+| 28 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
+| 29 | [Giresun](http://twitter.com/search?q=Giresun) | Giresun is a province in the Black Sea region of Turkey. Its name in English translates to "Sunny Place". |
+| 30 | [13 Şubat](http://twitter.com/search?q=13+%c5%9eubat) | N/A |
 | 31 | [Aytaç](http://twitter.com/search?q=Ayta%c3%a7) | N/A |
-| 32 | [uğur dündar](http://twitter.com/search?q=u%c4%9fur+d%c3%bcndar) | N/A |
-| 33 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 34 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
-| 35 | [Sabri Çelik](http://twitter.com/search?q=Sabri+%c3%87elik) | Sabri Çelik is a Turkish name. It is composed of two words: Sabri, which means "patient" or "enduring," and Çelik, which means "steel." In English, the name could be translated as "Patient Steel." |
-| 36 | [seniseviyoruz canselayanoğlu](http://twitter.com/search?q=seniseviyoruz+canselayano%c4%9flu) | N/A |
-| 37 | [beyza tufan](http://twitter.com/search?q=beyza+tufan) | N/A |
-| 38 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 39 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
-| 40 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
-| 41 | [MASA ÜÇ BUÇUK ATIYOR](http://twitter.com/search?q=MASA+%c3%9c%c3%87+BU%c3%87UK+ATIYOR) | N/A |
-| 42 | [emin bayram](http://twitter.com/search?q=emin+bayram) | N/A |
-| 43 | [yeni mhk](http://twitter.com/search?q=yeni+mhk) | N/A |
-| 44 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 45 | [Fitil](http://twitter.com/search?q=Fitil) | N/A |
-| 46 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
-| 47 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
-| 48 | [Ofsaytımsı](http://twitter.com/search?q=Ofsayt%c4%b1ms%c4%b1) | Ofsaytımsı is a Turkish phrase that translates to "I'm sorry" in English. It is used as an apology or expression of regret. |
+| 32 | [ALİ HAYDAR ÇELEBİ](http://twitter.com/search?q=AL%c4%b0+HAYDAR+%c3%87ELEB%c4%b0) | N/A |
+| 33 | [uğur dündar](http://twitter.com/search?q=u%c4%9fur+d%c3%bcndar) | N/A |
+| 34 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 35 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 36 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
+| 37 | [Sabri Çelik](http://twitter.com/search?q=Sabri+%c3%87elik) | Sabri Çelik is a Turkish name. It is composed of two words: Sabri, which means "patient" or "enduring," and Çelik, which means "steel." In English, the name could be translated as "Patient Steel." |
+| 38 | [seniseviyoruz canselayanoğlu](http://twitter.com/search?q=seniseviyoruz+canselayano%c4%9flu) | N/A |
+| 39 | [beyza tufan](http://twitter.com/search?q=beyza+tufan) | N/A |
+| 40 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 41 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
+| 42 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 43 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
+| 44 | [MASA ÜÇ BUÇUK ATIYOR](http://twitter.com/search?q=MASA+%c3%9c%c3%87+BU%c3%87UK+ATIYOR) | N/A |
+| 45 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 46 | [emin bayram](http://twitter.com/search?q=emin+bayram) | N/A |
+| 47 | [yeni mhk](http://twitter.com/search?q=yeni+mhk) | N/A |
+| 48 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
 
 
 

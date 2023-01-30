@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-01-30 03:15:34 UTC`
+📆 Last Updated: `2023-01-30 04:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,17 +18,17 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 2 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 3 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
-| 4 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 5 | [#hcap](http://twitter.com/search?q=%23hcap) | N/A |
-| 6 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 7 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 8 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
-| 9 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 10 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 11 | [#nosvp](http://twitter.com/search?q=%23nosvp) | N/A |
-| 12 | [#DokkanBattle](http://twitter.com/search?q=%23DokkanBattle) | N/A |
-| 13 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 14 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
+| 4 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
+| 5 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 6 | [#hcap](http://twitter.com/search?q=%23hcap) | N/A |
+| 7 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 8 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 9 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 10 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 11 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 12 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 13 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
+| 14 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
 | 15 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
 | 16 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 17 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
@@ -38,10 +38,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 21 | [lösungen](http://twitter.com/search?q=l%c3%b6sungen) | N/A |
 | 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 23 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 24 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 25 | [langnau](http://twitter.com/search?q=langnau) | N/A |
-| 26 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 27 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
+| 24 | [langnau](http://twitter.com/search?q=langnau) | N/A |
+| 25 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 26 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
+| 27 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
 | 28 | [Earth](http://twitter.com/search?q=Earth) | N/A |
 | 29 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
 | 30 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
@@ -50,20 +50,20 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 33 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 34 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
 | 35 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 36 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 37 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 38 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 39 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 40 | [Linie](http://twitter.com/search?q=Linie) | N/A |
-| 41 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 42 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 36 | [himmel](http://twitter.com/search?q=himmel) | N/A |
+| 37 | [Linie](http://twitter.com/search?q=Linie) | N/A |
+| 38 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 39 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 40 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 41 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 43 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 44 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
 | 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 47 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 48 | [America](http://twitter.com/search?q=America) | N/A |
-| 49 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 47 | [America](http://twitter.com/search?q=America) | N/A |
+| 48 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 49 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 | 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 
 
