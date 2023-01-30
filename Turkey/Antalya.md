@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-01-30 01:42:29 UTC`
+📆 Last Updated: `2023-01-30 02:34:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Turkey](</Turkey>)
 | 8 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
 | 9 | [yağmurtepe osurdu](http://twitter.com/search?q=ya%c4%9fmurtepe+osurdu) | N/A |
 | 10 | [gençlerle buluşma](http://twitter.com/search?q=gen%c3%a7lerle+bulu%c5%9fma) | N/A |
-| 11 | [Haber Odak](http://twitter.com/search?q=Haber+Odak) | Haber Odak is a Turkish phrase that translates to "news focus" or "news center." It is used to refer to a news outlet or organization that focuses on providing news coverage. |
+| 11 | [haber odak](http://twitter.com/search?q=haber+odak) | N/A |
 | 12 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
 | 13 | [Kural](http://twitter.com/search?q=Kural) | Kural is a Tamil classic written by the poet Thiruvalluvar. It is a collection of couplets, each containing two lines of poetry, that are meant to provide moral guidance and wisdom. The English translation of Kural is "The Couplets of Virtue". |
 | 14 | [merkeztaşraayrımınason](http://twitter.com/search?q=merkezta%c5%9fraayr%c4%b1m%c4%b1nason) | N/A |
@@ -35,8 +35,8 @@ This is top 50 for [Turkey](</Turkey>)
 | 18 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
 | 19 | [Mert Müldür](http://twitter.com/search?q=Mert+M%c3%bcld%c3%bcr) | Mert Müldür is a Turkish name, composed of two words: Mert (meaning brave or courageous) and Müldür (meaning leader). In English, the name could be translated as "brave leader". |
 | 20 | [merkeztaşra buhranı](http://twitter.com/search?q=merkezta%c5%9fra+buhran%c4%b1) | N/A |
-| 21 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
-| 22 | [Emre Demir](http://twitter.com/search?q=Emre+Demir) | Emre Demir is a Turkish given name. It is composed of two words: "Emre" which means "leader" and "Demir" which means "iron". In English, the name Emre Demir can be translated to mean "Iron Leader". |
+| 21 | [Emre Demir](http://twitter.com/search?q=Emre+Demir) | Emre Demir is a Turkish given name. It is composed of two words: "Emre" which means "leader" and "Demir" which means "iron". In English, the name Emre Demir can be translated to mean "Iron Leader". |
+| 22 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
 | 23 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
 | 24 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | N/A |
 | 25 | [Teşekkürler Amasya](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Amasya) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Turkey](</Turkey>)
 | 34 | [uğur dündar](http://twitter.com/search?q=u%c4%9fur+d%c3%bcndar) | N/A |
 | 35 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
 | 36 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 37 | [MASA ÜÇ BUÇUK ATIYOR](http://twitter.com/search?q=MASA+%c3%9c%c3%87+BU%c3%87UK+ATIYOR) | N/A |
-| 38 | [Sabri Çelik](http://twitter.com/search?q=Sabri+%c3%87elik) | Sabri Çelik is a Turkish name. It is composed of two words: Sabri, which means "patient" or "enduring," and Çelik, which means "steel." In English, the name could be translated as "Patient Steel." |
-| 39 | [seniseviyoruz canselayanoğlu](http://twitter.com/search?q=seniseviyoruz+canselayano%c4%9flu) | N/A |
-| 40 | [beyza tufan](http://twitter.com/search?q=beyza+tufan) | N/A |
-| 41 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 42 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
-| 43 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
+| 37 | [Sabri Çelik](http://twitter.com/search?q=Sabri+%c3%87elik) | Sabri Çelik is a Turkish name. It is composed of two words: Sabri, which means "patient" or "enduring," and Çelik, which means "steel." In English, the name could be translated as "Patient Steel." |
+| 38 | [seniseviyoruz canselayanoğlu](http://twitter.com/search?q=seniseviyoruz+canselayano%c4%9flu) | N/A |
+| 39 | [beyza tufan](http://twitter.com/search?q=beyza+tufan) | N/A |
+| 40 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 41 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
+| 42 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
+| 43 | [MASA ÜÇ BUÇUK ATIYOR](http://twitter.com/search?q=MASA+%c3%9c%c3%87+BU%c3%87UK+ATIYOR) | N/A |
 | 44 | [emin bayram](http://twitter.com/search?q=emin+bayram) | N/A |
 | 45 | [Yeni MHK](http://twitter.com/search?q=Yeni+MHK) | N/A |
 | 46 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 47 | [Sihayı](http://twitter.com/search?q=Sihay%c4%b1) | N/A |
+| 47 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
 | 48 | [Yusuf Güney](http://twitter.com/search?q=Yusuf+G%c3%bcney) | N/A |
-| 49 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
-| 50 | [Gani](http://twitter.com/search?q=Gani) | N/A |
+| 49 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 50 | [Hacı](http://twitter.com/search?q=Hac%c4%b1) | N/A |
 
 
 

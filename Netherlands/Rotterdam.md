@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-01-30 01:42:10 UTC`
+📆 Last Updated: `2023-01-30 02:33:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,7 +36,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 19 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
 | 20 | [Timber](http://twitter.com/search?q=Timber) | N/A |
 | 21 | [manschot](http://twitter.com/search?q=manschot) | N/A |
-| 22 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 22 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
 | 23 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 | 24 | [frans hoek](http://twitter.com/search?q=frans+hoek) | N/A |
 | 25 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
@@ -53,7 +53,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 36 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
 | 37 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
 | 38 | [fc volendam](http://twitter.com/search?q=fc+volendam) | N/A |
-| 39 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 39 | [wijndal](http://twitter.com/search?q=wijndal) | N/A |
 | 40 | [a12 in den haag](http://twitter.com/search?q=a12+in+den+haag) | N/A |
 | 41 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
 | 42 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |

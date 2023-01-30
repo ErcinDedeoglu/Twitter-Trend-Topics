@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-01-30 01:42:41 UTC`
+📆 Last Updated: `2023-01-30 02:34:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Pakistan
 | 5 | [#شیطان_کی_مجلس_شوری](http://twitter.com/search?q=%23%d8%b4%db%8c%d8%b7%d8%a7%d9%86_%da%a9%db%8c_%d9%85%d8%ac%d9%84%d8%b3_%d8%b4%d9%88%d8%b1%db%8c) | N/A |
 | 6 | [Rs 35](http://twitter.com/search?q=Rs+35) | Rs 35 is the abbreviation for Indian Rupees 35, which is the currency of India. In English, it would be equivalent to $0.48 USD. |
 | 7 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 8 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
-| 9 | [lasbela](http://twitter.com/search?q=lasbela) | N/A |
-| 10 | [35 rs](http://twitter.com/search?q=35+rs) | N/A |
-| 11 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 12 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 14 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
-| 15 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 16 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 17 | [Wali Khan](http://twitter.com/search?q=Wali+Khan) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
+| 9 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
+| 10 | [lasbela](http://twitter.com/search?q=lasbela) | N/A |
+| 11 | [35 Rs](http://twitter.com/search?q=35+Rs) | N/A |
+| 12 | [Reported](http://twitter.com/search?q=Reported) | N/A |
+| 13 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 15 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
+| 16 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 17 | [wali khan](http://twitter.com/search?q=wali+khan) | N/A |
 | 18 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
 | 19 | [reimagining pakistan](http://twitter.com/search?q=reimagining+pakistan) | N/A |
 | 20 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
 | 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 23 | [favourite moment](http://twitter.com/search?q=favourite+moment) | N/A |
-| 24 | [TROPHY AWAITS MC STAN](http://twitter.com/search?q=TROPHY+AWAITS+MC+STAN) | TROPHY AWAITS MC STAN is a phrase used to encourage someone to strive for success and recognition. It implies that if the person works hard and puts in the effort, they will be rewarded with a trophy or other form of recognition. |
-| 25 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 26 | [mustafavi students movement](http://twitter.com/search?q=mustafavi+students+movement) | N/A |
-| 27 | [atif aslam](http://twitter.com/search?q=atif+aslam) | N/A |
-| 28 | [pdm govt](http://twitter.com/search?q=pdm+govt) | N/A |
-| 29 | [35 pkr](http://twitter.com/search?q=35+pkr) | N/A |
-| 30 | [Mian](http://twitter.com/search?q=Mian) | N/A |
-| 31 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 32 | [Welcome to Purana Pakistan](http://twitter.com/search?q=Welcome+to+Purana+Pakistan) | N/A |
-| 33 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 34 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 35 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 37 | [PKR 35](http://twitter.com/search?q=PKR+35) | N/A |
-| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 39 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 40 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 41 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 23 | [TROPHY AWAITS MC STAN](http://twitter.com/search?q=TROPHY+AWAITS+MC+STAN) | TROPHY AWAITS MC STAN is a phrase used to encourage someone to strive for success and recognition. It implies that if the person works hard and puts in the effort, they will be rewarded with a trophy or other form of recognition. |
+| 24 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 25 | [mustafavi students movement](http://twitter.com/search?q=mustafavi+students+movement) | N/A |
+| 26 | [Atif Aslam](http://twitter.com/search?q=Atif+Aslam) | N/A |
+| 27 | [pdm govt](http://twitter.com/search?q=pdm+govt) | N/A |
+| 28 | [Mian](http://twitter.com/search?q=Mian) | N/A |
+| 29 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 30 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 31 | [Welcome to Purana Pakistan](http://twitter.com/search?q=Welcome+to+Purana+Pakistan) | N/A |
+| 32 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 33 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 34 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 35 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 36 | [Favourite Moment](http://twitter.com/search?q=Favourite+Moment) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [35 PKR](http://twitter.com/search?q=35+PKR) | N/A |
+| 39 | [PKR 35](http://twitter.com/search?q=PKR+35) | N/A |
+| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
 | 42 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 44 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 45 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 46 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 47 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 48 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 49 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
-| 50 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 43 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 44 | [Government](http://twitter.com/search?q=Government) | N/A |
+| 45 | [Zionist](http://twitter.com/search?q=Zionist) | N/A |
+| 46 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
+| 47 | [Raha](http://twitter.com/search?q=Raha) | N/A |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 49 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
+| 50 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
 
 
 

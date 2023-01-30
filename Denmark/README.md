@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-01-30 01:42:38 UTC`
+📆 Last Updated: `2023-01-30 02:34:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lauge](http://twitter.com/search?q=Lauge) | N/A |
-| 2 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
+| 1 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
+| 2 | [Lauge](http://twitter.com/search?q=Lauge) | N/A |
 | 3 | [#håndbold](http://twitter.com/search?q=%23h%c3%a5ndbold) | N/A |
 | 4 | [#handball23](http://twitter.com/search?q=%23handball23) | N/A |
 | 5 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for Denmark
 | 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 14 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
 | 15 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
-| 16 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
+| 16 | [frankrig](http://twitter.com/search?q=frankrig) | N/A |
 | 17 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | N/A |
 | 18 | [st. bededag](http://twitter.com/search?q=st.+bededag) | N/A |
 | 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
@@ -56,15 +56,15 @@ This is top 50 for Denmark
 | 39 | [farzam](http://twitter.com/search?q=farzam) | N/A |
 | 40 | [bjur](http://twitter.com/search?q=bjur) | N/A |
 | 41 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 42 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 42 | [spanien](http://twitter.com/search?q=spanien) | N/A |
 | 43 | [forstår](http://twitter.com/search?q=forst%c3%a5r) | N/A |
 | 44 | [Sjovt](http://twitter.com/search?q=Sjovt) | N/A |
 | 45 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
-| 46 | [Mikkel](http://twitter.com/search?q=Mikkel) | N/A |
+| 46 | [mikkel](http://twitter.com/search?q=mikkel) | N/A |
 | 47 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 48 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
 
 
 

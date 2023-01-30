@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-01-30 01:42:38 UTC`
+📆 Last Updated: `2023-01-30 02:34:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for Belgium
 | 6 | [Raman](http://twitter.com/search?q=Raman) | N/A |
 | 7 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 8 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 9 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 10 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
+| 9 | [cercle](http://twitter.com/search?q=cercle) | N/A |
+| 10 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
 | 11 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
 | 12 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
 | 13 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
@@ -48,14 +48,14 @@ This is top 50 for Belgium
 | 31 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
 | 32 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 33 | [de vlaamse](http://twitter.com/search?q=de+vlaamse) | N/A |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 36 | [Pardon](http://twitter.com/search?q=Pardon) | N/A |
-| 37 | [Vivaldi](http://twitter.com/search?q=Vivaldi) | N/A |
-| 38 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 36 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 37 | [Pardon](http://twitter.com/search?q=Pardon) | N/A |
+| 38 | [Vivaldi](http://twitter.com/search?q=Vivaldi) | N/A |
+| 39 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
 | 40 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 41 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 41 | [jolien](http://twitter.com/search?q=jolien) | N/A |
 | 42 | [cd&v](http://twitter.com/search?q=cd%26v) | N/A |
 | 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 44 | [Big Pharma](http://twitter.com/search?q=Big+Pharma) | N/A |

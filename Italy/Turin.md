@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-01-30 01:42:10 UTC`
+📆 Last Updated: `2023-01-30 02:33:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for [Italy](</Italy>)
 | 17 | [Palladino](http://twitter.com/search?q=Palladino) | N/A |
 | 18 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
 | 19 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 20 | [charlize](http://twitter.com/search?q=charlize) | N/A |
+| 20 | [Charlize](http://twitter.com/search?q=Charlize) | N/A |
 | 21 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
-| 22 | [Tavecchio](http://twitter.com/search?q=Tavecchio) | N/A |
+| 22 | [tavecchio](http://twitter.com/search?q=tavecchio) | N/A |
 | 23 | [Matic](http://twitter.com/search?q=Matic) | N/A |
 | 24 | [Kean](http://twitter.com/search?q=Kean) | N/A |
 | 25 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
-| 26 | [Smalling](http://twitter.com/search?q=Smalling) | N/A |
-| 27 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 28 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
-| 29 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 30 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
-| 31 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 32 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 33 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
-| 34 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
-| 35 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 36 | [Rovella](http://twitter.com/search?q=Rovella) | N/A |
-| 37 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
-| 38 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
-| 39 | [la celentano](http://twitter.com/search?q=la+celentano) | N/A |
-| 40 | [Uniti](http://twitter.com/search?q=Uniti) | N/A |
-| 41 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
-| 42 | [Becao](http://twitter.com/search?q=Becao) | N/A |
-| 43 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
-| 44 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 46 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 47 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 48 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 49 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 50 | [EdoD](http://twitter.com/search?q=EdoD) | N/A |
+| 26 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 27 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
+| 28 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 29 | [todaro](http://twitter.com/search?q=todaro) | N/A |
+| 30 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 31 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 32 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 33 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 34 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 35 | [Rovella](http://twitter.com/search?q=Rovella) | N/A |
+| 36 | [Sanremo](http://twitter.com/search?q=Sanremo) | N/A |
+| 37 | [Gino Paoli](http://twitter.com/search?q=Gino+Paoli) | N/A |
+| 38 | [la celentano](http://twitter.com/search?q=la+celentano) | N/A |
+| 39 | [Uniti](http://twitter.com/search?q=Uniti) | N/A |
+| 40 | [mario rui](http://twitter.com/search?q=mario+rui) | N/A |
+| 41 | [Becao](http://twitter.com/search?q=Becao) | N/A |
+| 42 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 43 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 44 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
+| 45 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
+| 46 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 47 | [Smalling](http://twitter.com/search?q=Smalling) | N/A |
+| 48 | [EdoD](http://twitter.com/search?q=EdoD) | N/A |
+| 49 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 50 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
 
 
 

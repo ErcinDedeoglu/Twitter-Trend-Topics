@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-01-30 01:42:41 UTC`
+📆 Last Updated: `2023-01-30 02:34:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,7 +53,7 @@ This is top 50 for Netherlands
 | 36 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
 | 37 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
 | 38 | [fc volendam](http://twitter.com/search?q=fc+volendam) | N/A |
-| 39 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 39 | [wijndal](http://twitter.com/search?q=wijndal) | N/A |
 | 40 | [a12 in den haag](http://twitter.com/search?q=a12+in+den+haag) | N/A |
 | 41 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
 | 42 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |

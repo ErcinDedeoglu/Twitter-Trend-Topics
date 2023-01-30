@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-01-30 01:42:41 UTC`
+📆 Last Updated: `2023-01-30 02:34:16 UTC`
 
 🔧 Updated every 1 hour!
 

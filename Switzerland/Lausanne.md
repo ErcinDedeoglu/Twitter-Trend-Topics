@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-01-30 01:42:12 UTC`
+📆 Last Updated: `2023-01-30 02:33:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 3 | [#AusOpen](http://twitter.com/search?q=%23AusOpen) | #AusOpen is the hashtag used to refer to the Australian Open, an annual tennis tournament held in Melbourne, Australia. It is one of the four Grand Slam tournaments and is considered to be one of the most prestigious tennis events in the world. |
 | 4 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 5 | [#HCap](http://twitter.com/search?q=%23HCap) | N/A |
+| 5 | [#hcap](http://twitter.com/search?q=%23hcap) | N/A |
 | 6 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 7 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 8 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 8 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
 | 9 | [Luft](http://twitter.com/search?q=Luft) | N/A |
 | 10 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 11 | [#nosvp](http://twitter.com/search?q=%23nosvp) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-01-30 01:41:59 UTC`
+📆 Last Updated: `2023-01-30 02:33:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Faride](http://twitter.com/search?q=Faride) | N/A |
-| 2 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 3 | [#YoCreoEnTi](http://twitter.com/search?q=%23YoCreoEnTi) | N/A |
+| 2 | [#YoCreoEnTi](http://twitter.com/search?q=%23YoCreoEnTi) | N/A |
+| 3 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
 | 4 | [#YoCreoEnElPRM](http://twitter.com/search?q=%23YoCreoEnElPRM) | N/A |
-| 5 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 6 | [El Alfa](http://twitter.com/search?q=El+Alfa) | N/A |
-| 7 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 5 | [El Alfa](http://twitter.com/search?q=El+Alfa) | N/A |
+| 6 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 7 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
 | 8 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
 | 9 | [Arenoso](http://twitter.com/search?q=Arenoso) | N/A |
 | 10 | [Maimón](http://twitter.com/search?q=Maim%c3%b3n) | N/A |
-| 11 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 12 | [Yadira](http://twitter.com/search?q=Yadira) | N/A |
-| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 14 | [#ChiefsKingdom](http://twitter.com/search?q=%23ChiefsKingdom) | #ChiefsKingdom is a hashtag used by fans of the Kansas City Chiefs, an American football team. It is used to show support for the team and to express enthusiasm for their success. The phrase "Chiefs Kingdom" is a metaphor for the passionate fan base of the Chiefs, and it implies that they are all united in their love and support for the team. |
-| 15 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 17 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 18 | [Plan Nacional de Crecimiento](http://twitter.com/search?q=Plan+Nacional+de+Crecimiento) | N/A |
-| 19 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
-| 20 | [Samuel Pereyra](http://twitter.com/search?q=Samuel+Pereyra) | N/A |
-| 21 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 22 | [Banreservas](http://twitter.com/search?q=Banreservas) | N/A |
+| 13 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 14 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 15 | [#NFLPlayoffs](http://twitter.com/search?q=%23NFLPlayoffs) | #NFLPlayoffs is a hashtag used on social media to refer to the National Football League (NFL) playoffs. It is used to discuss the teams, players, and games that are part of the NFL postseason. |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [Plan Nacional de Crecimiento](http://twitter.com/search?q=Plan+Nacional+de+Crecimiento) | N/A |
+| 18 | [#ChiefsKingdom](http://twitter.com/search?q=%23ChiefsKingdom) | #ChiefsKingdom is a hashtag used by fans of the Kansas City Chiefs, an American football team. It is used to show support for the team and to express enthusiasm for their success. The phrase "Chiefs Kingdom" is a metaphor for the passionate fan base of the Chiefs, and it implies that they are all united in their love and support for the team. |
+| 19 | [samuel pereyra](http://twitter.com/search?q=samuel+pereyra) | N/A |
+| 20 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 21 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
 | 23 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 24 | [Villa Riva](http://twitter.com/search?q=Villa+Riva) | N/A |
-| 25 | [Cadillo](http://twitter.com/search?q=Cadillo) | Cadillo is a Spanish word that means "clove". It is used to refer to the dried flower bud of the clove tree, which is used as a spice in cooking. |
-| 26 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 27 | [monte plata](http://twitter.com/search?q=monte+plata) | N/A |
-| 28 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 29 | [Miss USA](http://twitter.com/search?q=Miss+USA) | Miss USA is an annual beauty pageant that is held to select the representative of the United States in the Miss Universe pageant. The winner of Miss USA is typically crowned by the previous year's titleholder. The event is organized by the Miss Universe Organization, which also organizes the Miss Teen USA and Miss Universe pageants. |
-| 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 32 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 34 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 35 | [Leonel Fernández](http://twitter.com/search?q=Leonel+Fern%c3%a1ndez) | N/A |
-| 36 | [Burocracia Cero](http://twitter.com/search?q=Burocracia+Cero) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 38 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 39 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 40 | [Dirección Ejecutiva](http://twitter.com/search?q=Direcci%c3%b3n+Ejecutiva) | N/A |
-| 41 | [Capotillo](http://twitter.com/search?q=Capotillo) | N/A |
-| 42 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 43 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 44 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 45 | [Capi](http://twitter.com/search?q=Capi) | N/A |
-| 46 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 47 | [Santo Domingo Norte](http://twitter.com/search?q=Santo+Domingo+Norte) | N/A |
-| 48 | [Miss Universo](http://twitter.com/search?q=Miss+Universo) | N/A |
-| 49 | [roberto fulcar](http://twitter.com/search?q=roberto+fulcar) | N/A |
+| 24 | [Banreservas](http://twitter.com/search?q=Banreservas) | N/A |
+| 25 | [Villa Riva](http://twitter.com/search?q=Villa+Riva) | N/A |
+| 26 | [Cadillo](http://twitter.com/search?q=Cadillo) | Cadillo is a Spanish word that means "clove". It is used to refer to the dried flower bud of the clove tree, which is used as a spice in cooking. |
+| 27 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 28 | [monte plata](http://twitter.com/search?q=monte+plata) | N/A |
+| 29 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 30 | [Miss USA](http://twitter.com/search?q=Miss+USA) | Miss USA is an annual beauty pageant that is held to select the representative of the United States in the Miss Universe pageant. The winner of Miss USA is typically crowned by the previous year's titleholder. The event is organized by the Miss Universe Organization, which also organizes the Miss Teen USA and Miss Universe pageants. |
+| 31 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 33 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 34 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 35 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 36 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 37 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 38 | [Burocracia Cero](http://twitter.com/search?q=Burocracia+Cero) | N/A |
+| 39 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 40 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 41 | [Leonel Fernández](http://twitter.com/search?q=Leonel+Fern%c3%a1ndez) | N/A |
+| 42 | [Dirección Ejecutiva](http://twitter.com/search?q=Direcci%c3%b3n+Ejecutiva) | N/A |
+| 43 | [Capotillo](http://twitter.com/search?q=Capotillo) | N/A |
+| 44 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 45 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 47 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 48 | [Capi](http://twitter.com/search?q=Capi) | N/A |
+| 49 | [Santo Domingo Norte](http://twitter.com/search?q=Santo+Domingo+Norte) | N/A |
 | 50 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
 
 

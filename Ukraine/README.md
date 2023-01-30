@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-01-30 01:42:43 UTC`
+📆 Last Updated: `2023-01-30 02:34:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for Ukraine
 | 17 | [Azov](http://twitter.com/search?q=Azov) | N/A |
 | 18 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
 | 19 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 20 | [Таааак](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b0%d0%b0%d0%b0%d0%ba) | N/A |
+| 20 | [таааак](http://twitter.com/search?q=%d1%82%d0%b0%d0%b0%d0%b0%d0%b0%d0%ba) | N/A |
 | 21 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 22 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
-| 23 | [База](http://twitter.com/search?q=%d0%91%d0%b0%d0%b7%d0%b0) | N/A |
-| 24 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 25 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 26 | [Простите](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
-| 27 | [кремле](http://twitter.com/search?q=%d0%ba%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
-| 28 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 29 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 30 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
-| 31 | [Ясно](http://twitter.com/search?q=%d0%af%d1%81%d0%bd%d0%be) | N/A |
+| 23 | [красота](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 24 | [видимо](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 25 | [Простите](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
+| 26 | [кремле](http://twitter.com/search?q=%d0%ba%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
+| 27 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 28 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 29 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
+| 30 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 31 | [ясно](http://twitter.com/search?q=%d1%8f%d1%81%d0%bd%d0%be) | N/A |
 | 32 | [Мариуполь](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
-| 33 | [Самая](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%b0%d1%8f) | N/A |
+| 33 | [самая](http://twitter.com/search?q=%d1%81%d0%b0%d0%bc%d0%b0%d1%8f) | N/A |
 | 34 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 35 | [круто](http://twitter.com/search?q=%d0%ba%d1%80%d1%83%d1%82%d0%be) | N/A |
-| 36 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 37 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
-| 38 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
-| 39 | [Плюс](http://twitter.com/search?q=%d0%9f%d0%bb%d1%8e%d1%81) | N/A |
-| 40 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 41 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 42 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 43 | [какое](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
-| 44 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
-| 45 | [Россияне](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5) | N/A |
-| 46 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
-| 47 | [краса](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b0) | N/A |
-| 48 | [Скажите](http://twitter.com/search?q=%d0%a1%d0%ba%d0%b0%d0%b6%d0%b8%d1%82%d0%b5) | N/A |
-| 49 | [показуйте](http://twitter.com/search?q=%d0%bf%d0%be%d0%ba%d0%b0%d0%b7%d1%83%d0%b9%d1%82%d0%b5) | N/A |
-| 50 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 35 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
+| 36 | [европа](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
+| 37 | [Плюс](http://twitter.com/search?q=%d0%9f%d0%bb%d1%8e%d1%81) | N/A |
+| 38 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 39 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 40 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 41 | [какое](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
+| 42 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 43 | [россияне](http://twitter.com/search?q=%d1%80%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5) | N/A |
+| 44 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 45 | [краса](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b0) | N/A |
+| 46 | [База](http://twitter.com/search?q=%d0%91%d0%b0%d0%b7%d0%b0) | N/A |
+| 47 | [Скажите](http://twitter.com/search?q=%d0%a1%d0%ba%d0%b0%d0%b6%d0%b8%d1%82%d0%b5) | N/A |
+| 48 | [показуйте](http://twitter.com/search?q=%d0%bf%d0%be%d0%ba%d0%b0%d0%b7%d1%83%d0%b9%d1%82%d0%b5) | N/A |
+| 49 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 50 | [бахмутом](http://twitter.com/search?q=%d0%b1%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%be%d0%bc) | N/A |
 
 
 

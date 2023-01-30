@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-01-30 01:42:12 UTC`
+📆 Last Updated: `2023-01-30 02:33:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,26 +44,26 @@ This is top 50 for [Norway](</Norway>)
 | 27 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
 | 28 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
 | 29 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 30 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 31 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
-| 32 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 33 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
-| 34 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 30 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 31 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 32 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
+| 33 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 34 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
 | 35 | [Flott](http://twitter.com/search?q=Flott) | N/A |
 | 36 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 37 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 38 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
 | 39 | [#Transfers](http://twitter.com/search?q=%23Transfers) | N/A |
 | 40 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
-| 41 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
+| 41 | [tipper](http://twitter.com/search?q=tipper) | N/A |
 | 42 | [finnes](http://twitter.com/search?q=finnes) | N/A |
 | 43 | [Mikkelsen](http://twitter.com/search?q=Mikkelsen) | N/A |
 | 44 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 45 | [e134 haukelifjell](http://twitter.com/search?q=e134+haukelifjell) | N/A |
 | 46 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 49 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
+| 47 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 48 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
+| 49 | [veldig](http://twitter.com/search?q=veldig) | N/A |
 
 
 

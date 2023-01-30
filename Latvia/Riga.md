@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-01-30 01:42:12 UTC`
+📆 Last Updated: `2023-01-30 02:33:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#muzikalabanka](http://twitter.com/search?q=%23muzikalabanka) | N/A |
-| 2 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 2 | [rimi](http://twitter.com/search?q=rimi) | N/A |
 | 3 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
 | 4 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 5 | [#tonsilstones](http://twitter.com/search?q=%23tonsilstones) | N/A |
@@ -24,7 +24,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 7 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 8 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 9 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 10 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 10 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 11 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 12 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
 | 13 | [Viss](http://twitter.com/search?q=Viss) | N/A |

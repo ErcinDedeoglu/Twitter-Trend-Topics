@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-01-30 01:42:09 UTC`
+📆 Last Updated: `2023-01-30 02:33:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Germany](</Germany>)
 | 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 10 | [Finale](http://twitter.com/search?q=Finale) | N/A |
 | 11 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 12 | [Krone](http://twitter.com/search?q=Krone) | N/A |
-| 13 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
-| 14 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
-| 15 | [Sterne](http://twitter.com/search?q=Sterne) | N/A |
-| 16 | [Sonja](http://twitter.com/search?q=Sonja) | N/A |
-| 17 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 18 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 12 | [Prüfung](http://twitter.com/search?q=Pr%c3%bcfung) | N/A |
+| 13 | [Krone](http://twitter.com/search?q=Krone) | N/A |
+| 14 | [Sonja](http://twitter.com/search?q=Sonja) | N/A |
+| 15 | [Dschungelkönig](http://twitter.com/search?q=Dschungelk%c3%b6nig) | N/A |
+| 16 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 17 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 18 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
 | 19 | [Jolina](http://twitter.com/search?q=Jolina) | N/A |
 | 20 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 21 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 22 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 23 | [Saarbrücken](http://twitter.com/search?q=Saarbr%c3%bccken) | N/A |
-| 24 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 25 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 26 | [ralle](http://twitter.com/search?q=ralle) | N/A |
-| 27 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 28 | [Dr. Bob](http://twitter.com/search?q=Dr.+Bob) | N/A |
-| 29 | [U-Boote](http://twitter.com/search?q=U-Boote) | N/A |
-| 30 | [latza](http://twitter.com/search?q=latza) | N/A |
-| 31 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 32 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 33 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 21 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 22 | [Saarbrücken](http://twitter.com/search?q=Saarbr%c3%bccken) | N/A |
+| 23 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 24 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 25 | [ralle](http://twitter.com/search?q=ralle) | N/A |
+| 26 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 27 | [Dr. Bob](http://twitter.com/search?q=Dr.+Bob) | N/A |
+| 28 | [U-Boote](http://twitter.com/search?q=U-Boote) | N/A |
+| 29 | [latza](http://twitter.com/search?q=latza) | N/A |
+| 30 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 31 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 32 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 33 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
 | 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 35 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 35 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
 | 36 | [Maaßen](http://twitter.com/search?q=Maa%c3%9fen) | N/A |
-| 37 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 39 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 40 | [Schnorchel](http://twitter.com/search?q=Schnorchel) | N/A |
-| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 42 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 43 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 44 | [Kakerlaken](http://twitter.com/search?q=Kakerlaken) | N/A |
-| 45 | [gegentor](http://twitter.com/search?q=gegentor) | N/A |
-| 46 | [Herr Merz](http://twitter.com/search?q=Herr+Merz) | N/A |
-| 47 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 48 | [Jenz](http://twitter.com/search?q=Jenz) | N/A |
-| 49 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 37 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 38 | [Schnorchel](http://twitter.com/search?q=Schnorchel) | N/A |
+| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 40 | [Herr Merz](http://twitter.com/search?q=Herr+Merz) | N/A |
+| 41 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 42 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 43 | [Kakerlaken](http://twitter.com/search?q=Kakerlaken) | N/A |
+| 44 | [gegentor](http://twitter.com/search?q=gegentor) | N/A |
+| 45 | [Sterne](http://twitter.com/search?q=Sterne) | N/A |
+| 46 | [jenz](http://twitter.com/search?q=jenz) | N/A |
+| 47 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 48 | [Kral](http://twitter.com/search?q=Kral) | N/A |
+| 49 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
 
 
 

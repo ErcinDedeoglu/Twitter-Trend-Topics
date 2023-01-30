@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-01-30 01:42:38 UTC`
+📆 Last Updated: `2023-01-30 02:34:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,15 +24,15 @@ This is top 50 for Austria
 | 7 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
 | 8 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
 | 9 | [schnabl](http://twitter.com/search?q=schnabl) | N/A |
-| 10 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
+| 10 | [haltung](http://twitter.com/search?q=haltung) | N/A |
 | 11 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 12 | [Fleckerlteppich](http://twitter.com/search?q=Fleckerlteppich) | N/A |
-| 13 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 12 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 13 | [Fleckerlteppich](http://twitter.com/search?q=Fleckerlteppich) | N/A |
 | 14 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
 | 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 16 | [roten](http://twitter.com/search?q=roten) | N/A |
-| 17 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 16 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 18 | [Roten](http://twitter.com/search?q=Roten) | N/A |
 | 19 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
 | 20 | [Johanna Mikl](http://twitter.com/search?q=Johanna+Mikl) | N/A |
 | 21 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for Austria
 | 30 | [Finale](http://twitter.com/search?q=Finale) | N/A |
 | 31 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
 | 32 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 33 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 33 | [themen](http://twitter.com/search?q=themen) | N/A |
 | 34 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
 | 35 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
 | 36 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |

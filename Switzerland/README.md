@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-01-30 01:42:43 UTC`
+📆 Last Updated: `2023-01-30 02:34:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Switzerland
 | 5 | [#hcap](http://twitter.com/search?q=%23hcap) | N/A |
 | 6 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 7 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 8 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
+| 8 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
 | 9 | [Luft](http://twitter.com/search?q=Luft) | N/A |
 | 10 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 11 | [#nosvp](http://twitter.com/search?q=%23nosvp) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Switzerland
 | 45 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
 | 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
 | 47 | [America](http://twitter.com/search?q=America) | N/A |
-| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 49 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 50 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 48 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 49 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 
 
 
