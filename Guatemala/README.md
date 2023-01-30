@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-01-30 09:16:58 UTC`
+📆 Last Updated: `2023-01-30 10:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Guatemala
 | 15 | [malacateco](http://twitter.com/search?q=malacateco) | N/A |
 | 16 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
 | 17 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 18 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 18 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
 | 19 | [malacatan](http://twitter.com/search?q=malacatan) | N/A |
-| 20 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 21 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
-| 22 | [#maxtott2023](http://twitter.com/search?q=%23maxtott2023) | N/A |
-| 23 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 24 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 25 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 26 | [Thelma Cabrera](http://twitter.com/search?q=Thelma+Cabrera) | N/A |
+| 20 | [comunicaciones](http://twitter.com/search?q=comunicaciones) | N/A |
+| 21 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 22 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
+| 23 | [#maxtott2023](http://twitter.com/search?q=%23maxtott2023) | N/A |
+| 24 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 25 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 26 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 27 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
 | 28 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
 | 29 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
 | 30 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
 | 31 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 32 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 33 | [comunicaciones](http://twitter.com/search?q=comunicaciones) | N/A |
-| 34 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 35 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
-| 36 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 37 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 38 | [Santa Lucía](http://twitter.com/search?q=Santa+Luc%c3%ada) | N/A |
-| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [alberto gonzález](http://twitter.com/search?q=alberto+gonz%c3%a1lez) | N/A |
+| 33 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 34 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
+| 35 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 36 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 37 | [Santa Lucía](http://twitter.com/search?q=Santa+Luc%c3%ada) | N/A |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 40 | [alberto gonzález](http://twitter.com/search?q=alberto+gonz%c3%a1lez) | N/A |
+| 41 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 42 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
 | 43 | [Anapau](http://twitter.com/search?q=Anapau) | N/A |
 | 44 | [El Madrid](http://twitter.com/search?q=El+Madrid) | El Madrid is a nickname for the Spanish football team Real Madrid. It is derived from the city of Madrid, where the team is based. In English, it translates to "The Madrid". |
-| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 46 | [guardia de honor](http://twitter.com/search?q=guardia+de+honor) | N/A |
-| 47 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
-| 48 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 49 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 50 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 45 | [guardia de honor](http://twitter.com/search?q=guardia+de+honor) | N/A |
+| 46 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
+| 47 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 48 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 49 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 50 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
 
 
 

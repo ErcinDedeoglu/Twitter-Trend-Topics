@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-01-30 09:16:32 UTC`
+📆 Last Updated: `2023-01-30 10:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 2 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
+| 1 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
+| 2 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
 | 3 | [#WelcomeBackHAECHAN](http://twitter.com/search?q=%23WelcomeBackHAECHAN) | N/A |
-| 4 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 5 | [SUPER JANELLA AT MEDIACON](http://twitter.com/search?q=SUPER+JANELLA+AT+MEDIACON) | N/A |
-| 6 | [JANEDELEON SHINES MEDIACON](http://twitter.com/search?q=JANEDELEON+SHINES+MEDIACON) | N/A |
-| 7 | [Song Joong Ki](http://twitter.com/search?q=Song+Joong+Ki) | N/A |
-| 8 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
-| 9 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 10 | [#FelipOnDougBrockRadio](http://twitter.com/search?q=%23FelipOnDougBrockRadio) | N/A |
-| 11 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 12 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
-| 13 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 14 | [KDLEX DIREKCATHY IN HK](http://twitter.com/search?q=KDLEX+DIREKCATHY+IN+HK) | KDLEX DIREKCATHY IN HK is a term used to refer to the Hong Kong Directory of Legal Experts, which is an online directory of legal professionals in Hong Kong. It provides information on lawyers, solicitors, barristers, and other legal professionals in the city. The directory is maintained by the Law Society of Hong Kong. |
-| 15 | [BGYO ACEstronger TWO YEARS](http://twitter.com/search?q=BGYO+ACEstronger+TWO+YEARS) | N/A |
-| 16 | [versatile alexa on asap party](http://twitter.com/search?q=versatile+alexa+on+asap+party) | N/A |
-| 17 | [Youngji](http://twitter.com/search?q=Youngji) | N/A |
-| 18 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 19 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
-| 20 | [gap world domination](http://twitter.com/search?q=gap+world+domination) | N/A |
-| 21 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 22 | [jia you kayds](http://twitter.com/search?q=jia+you+kayds) | N/A |
-| 23 | [pull up mv teaser 2](http://twitter.com/search?q=pull+up+mv+teaser+2) | N/A |
-| 24 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
-| 25 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
-| 26 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
-| 27 | [clashmasters juliever](http://twitter.com/search?q=clashmasters+juliever) | N/A |
-| 28 | [ADONIS](http://twitter.com/search?q=ADONIS) | N/A |
-| 29 | [seth maeffort kay chin](http://twitter.com/search?q=seth+maeffort+kay+chin) | N/A |
-| 30 | [Happy 2nd Anniversary](http://twitter.com/search?q=Happy+2nd+Anniversary) | N/A |
-| 31 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
-| 32 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
-| 33 | [welcome svt in the soop 2](http://twitter.com/search?q=welcome+svt+in+the+soop+2) | N/A |
-| 34 | [julieanne clashmaster](http://twitter.com/search?q=julieanne+clashmaster) | N/A |
-| 35 | [Sara Duterte](http://twitter.com/search?q=Sara+Duterte) | N/A |
-| 36 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
-| 37 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 38 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 39 | [janedeleon in laguna](http://twitter.com/search?q=janedeleon+in+laguna) | N/A |
-| 40 | [ENDEARING ANGEL YUNHYEONG](http://twitter.com/search?q=ENDEARING+ANGEL+YUNHYEONG) | N/A |
-| 41 | [BINI MOJOS EVERYDAY](http://twitter.com/search?q=BINI+MOJOS+EVERYDAY) | N/A |
-| 42 | [kaia turn up dance](http://twitter.com/search?q=kaia+turn+up+dance) | N/A |
-| 43 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
-| 44 | [Tatsulok](http://twitter.com/search?q=Tatsulok) | N/A |
-| 45 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 46 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
-| 47 | [Minho](http://twitter.com/search?q=Minho) | N/A |
-| 48 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
-| 49 | [Bogum](http://twitter.com/search?q=Bogum) | N/A |
-| 50 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 4 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
+| 5 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 6 | [#FelipOnDougBrockRadio](http://twitter.com/search?q=%23FelipOnDougBrockRadio) | N/A |
+| 7 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 8 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 9 | [Joongki](http://twitter.com/search?q=Joongki) | Joongki is a Korean name that means "righteousness" in English. It is a unisex name, so it can be used for both boys and girls. |
+| 10 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 11 | [JANEDELEON SHINES MEDIACON](http://twitter.com/search?q=JANEDELEON+SHINES+MEDIACON) | N/A |
+| 12 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
+| 13 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
+| 14 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 15 | [#DreamMakerAtRobGalleria](http://twitter.com/search?q=%23DreamMakerAtRobGalleria) | N/A |
+| 16 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 17 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 18 | [ALJAY PINAKA MALUPET](http://twitter.com/search?q=ALJAY+PINAKA+MALUPET) | N/A |
+| 19 | [BGYO ACEstronger TWO YEARS](http://twitter.com/search?q=BGYO+ACEstronger+TWO+YEARS) | N/A |
+| 20 | [versatile alexa on asap party](http://twitter.com/search?q=versatile+alexa+on+asap+party) | N/A |
+| 21 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 22 | [Youngji](http://twitter.com/search?q=Youngji) | N/A |
+| 23 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 24 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 25 | [gap world domination](http://twitter.com/search?q=gap+world+domination) | N/A |
+| 26 | [ARE YOU READY](http://twitter.com/search?q=ARE+YOU+READY) | N/A |
+| 27 | [KDLEX DIREKCATHY IN HK](http://twitter.com/search?q=KDLEX+DIREKCATHY+IN+HK) | KDLEX DIREKCATHY IN HK is a term used to refer to the Hong Kong Directory of Legal Experts, which is an online directory of legal professionals in Hong Kong. It provides information on lawyers, solicitors, barristers, and other legal professionals in the city. The directory is maintained by the Law Society of Hong Kong. |
+| 28 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
+| 29 | [jia you kayds](http://twitter.com/search?q=jia+you+kayds) | N/A |
+| 30 | [pull up mv teaser 2](http://twitter.com/search?q=pull+up+mv+teaser+2) | N/A |
+| 31 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 32 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
+| 33 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
+| 34 | [clashmasters juliever](http://twitter.com/search?q=clashmasters+juliever) | N/A |
+| 35 | [chungha](http://twitter.com/search?q=chungha) | N/A |
+| 36 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
+| 37 | [seth maeffort kay chin](http://twitter.com/search?q=seth+maeffort+kay+chin) | N/A |
+| 38 | [happy 2nd anniversary](http://twitter.com/search?q=happy+2nd+anniversary) | N/A |
+| 39 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
+| 40 | [welcome svt in the soop 2](http://twitter.com/search?q=welcome+svt+in+the+soop+2) | N/A |
+| 41 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 42 | [julieanne clashmaster](http://twitter.com/search?q=julieanne+clashmaster) | N/A |
+| 43 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
+| 44 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 45 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 46 | [BINI MOJOS EVERYDAY](http://twitter.com/search?q=BINI+MOJOS+EVERYDAY) | N/A |
+| 47 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
+| 48 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
+| 49 | [ENDEARING ANGEL YUNHYEONG](http://twitter.com/search?q=ENDEARING+ANGEL+YUNHYEONG) | N/A |
+| 50 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
 
 
 

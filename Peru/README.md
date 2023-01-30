@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-01-30 09:17:00 UTC`
+📆 Last Updated: `2023-01-30 10:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for Peru
 | 5 | [Essalud](http://twitter.com/search?q=Essalud) | N/A |
 | 6 | [#mensajealanacion](http://twitter.com/search?q=%23mensajealanacion) | N/A |
 | 7 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 8 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 9 | [Víctor Santisteban Yacsavilca](http://twitter.com/search?q=V%c3%adctor+Santisteban+Yacsavilca) | N/A |
+| 8 | [Víctor Santisteban Yacsavilca](http://twitter.com/search?q=V%c3%adctor+Santisteban+Yacsavilca) | N/A |
+| 9 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
 | 10 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
 | 11 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 | 12 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
@@ -37,34 +37,34 @@ This is top 50 for Peru
 | 20 | [Mónica Delta](http://twitter.com/search?q=M%c3%b3nica+Delta) | N/A |
 | 21 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
 | 22 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 23 | [Asesinado](http://twitter.com/search?q=Asesinado) | Asesinado is a Spanish word meaning "murdered" or "assassinated". It is used to describe someone who has been killed by another person. |
+| 23 | [asesinado](http://twitter.com/search?q=asesinado) | N/A |
 | 24 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 25 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 25 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
 | 26 | [Wayka](http://twitter.com/search?q=Wayka) | N/A |
-| 27 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 27 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
 | 28 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 29 | [Redondos](http://twitter.com/search?q=Redondos) | N/A |
 | 30 | [almenara](http://twitter.com/search?q=almenara) | N/A |
 | 31 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 32 | [Canal N](http://twitter.com/search?q=Canal+N) | N/A |
+| 32 | [canal n](http://twitter.com/search?q=canal+n) | N/A |
 | 33 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
 | 34 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 35 | [Conflicto](http://twitter.com/search?q=Conflicto) | N/A |
-| 36 | [Richard Arce](http://twitter.com/search?q=Richard+Arce) | N/A |
-| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 38 | [disparo](http://twitter.com/search?q=disparo) | N/A |
+| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 36 | [Conflicto](http://twitter.com/search?q=Conflicto) | N/A |
+| 37 | [disparo](http://twitter.com/search?q=disparo) | N/A |
+| 38 | [RBD X PERÚ](http://twitter.com/search?q=RBD+X+PER%c3%9a) | N/A |
 | 39 | [Paren](http://twitter.com/search?q=Paren) | N/A |
-| 40 | [RBD X PERÚ](http://twitter.com/search?q=RBD+X+PER%c3%9a) | N/A |
+| 40 | [Richard Arce](http://twitter.com/search?q=Richard+Arce) | N/A |
 | 41 | [APRA](http://twitter.com/search?q=APRA) | N/A |
 | 42 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 43 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
+| 43 | [quispe](http://twitter.com/search?q=quispe) | N/A |
 | 44 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
 | 45 | [Grefg](http://twitter.com/search?q=Grefg) | N/A |
 | 46 | [Lola](http://twitter.com/search?q=Lola) | N/A |
 | 47 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
 | 48 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
-| 49 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
-| 50 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 49 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 50 | [Av. Abancay](http://twitter.com/search?q=Av.+Abancay) | N/A |
 
 
 

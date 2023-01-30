@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-01-30 09:16:24 UTC`
+📆 Last Updated: `2023-01-30 10:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,49 @@ This is top 50 for [Norway](</Norway>)
 | 3 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 4 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 5 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 8 | [zafeiris](http://twitter.com/search?q=zafeiris) | N/A |
-| 9 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 10 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
-| 11 | [skrellex](http://twitter.com/search?q=skrellex) | N/A |
-| 12 | [slavia praha](http://twitter.com/search?q=slavia+praha) | N/A |
-| 13 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
-| 14 | [Jordal](http://twitter.com/search?q=Jordal) | N/A |
-| 15 | [#nrkmgp](http://twitter.com/search?q=%23nrkmgp) | N/A |
-| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 17 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 18 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 19 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 20 | [sandnes](http://twitter.com/search?q=sandnes) | N/A |
-| 21 | [sarpsborg](http://twitter.com/search?q=sarpsborg) | N/A |
-| 22 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 23 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 24 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 26 | [stjernen](http://twitter.com/search?q=stjernen) | N/A |
-| 27 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 28 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 29 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 30 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 31 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 32 | [Sæter](http://twitter.com/search?q=S%c3%a6ter) | N/A |
-| 33 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 6 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 7 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
+| 8 | [skrellex](http://twitter.com/search?q=skrellex) | N/A |
+| 9 | [slavia praha](http://twitter.com/search?q=slavia+praha) | N/A |
+| 10 | [#FACup](http://twitter.com/search?q=%23FACup) | #FACup is an abbreviation for the Football Association Challenge Cup, which is an annual knockout football competition in England. It is the oldest football competition in the world and is open to all teams from the top four tiers of English football. |
+| 11 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 12 | [Jordal](http://twitter.com/search?q=Jordal) | N/A |
+| 13 | [#nrkmgp](http://twitter.com/search?q=%23nrkmgp) | N/A |
+| 14 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 15 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 18 | [sarpsborg](http://twitter.com/search?q=sarpsborg) | N/A |
+| 19 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 20 | [Zafeiris](http://twitter.com/search?q=Zafeiris) | N/A |
+| 21 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 23 | [stjernen](http://twitter.com/search?q=stjernen) | N/A |
+| 24 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 25 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 26 | [Sæter](http://twitter.com/search?q=S%c3%a6ter) | N/A |
+| 27 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 28 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 29 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 30 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 31 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 32 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 33 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
 | 34 | [Flott](http://twitter.com/search?q=Flott) | N/A |
-| 35 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 35 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 36 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
-| 37 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 38 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 39 | [Aftenposten](http://twitter.com/search?q=Aftenposten) | N/A |
-| 40 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
-| 41 | [Finnes](http://twitter.com/search?q=Finnes) | N/A |
-| 42 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 43 | [Mikkelsen](http://twitter.com/search?q=Mikkelsen) | N/A |
-| 44 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
-| 45 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 46 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 47 | [E134 Haukelifjell](http://twitter.com/search?q=E134+Haukelifjell) | N/A |
-| 48 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 49 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 37 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 38 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
+| 39 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 41 | [Spania](http://twitter.com/search?q=Spania) | N/A |
+| 42 | [Aftenposten](http://twitter.com/search?q=Aftenposten) | N/A |
+| 43 | [#Transfers](http://twitter.com/search?q=%23Transfers) | N/A |
+| 44 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
+| 45 | [Finnes](http://twitter.com/search?q=Finnes) | N/A |
+| 46 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
+| 47 | [Mikkelsen](http://twitter.com/search?q=Mikkelsen) | N/A |
+| 48 | [E134 Haukelifjell](http://twitter.com/search?q=E134+Haukelifjell) | N/A |
 
 
 
