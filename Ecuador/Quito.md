@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-01-30 07:15:14 UTC`
+📆 Last Updated: `2023-01-30 08:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,27 +43,27 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 26 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 27 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 28 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 30 | [rodrigo paz delgado](http://twitter.com/search?q=rodrigo+paz+delgado) | N/A |
-| 31 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 32 | [Samborondón](http://twitter.com/search?q=Samborond%c3%b3n) | N/A |
-| 33 | [Pony](http://twitter.com/search?q=Pony) | N/A |
-| 34 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
-| 35 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
-| 36 | [El Kun](http://twitter.com/search?q=El+Kun) | El Kun is a nickname for the Argentine footballer Lionel Messi. It is derived from the pronunciation of his surname, which in Spanish is pronounced "Messi". In English, it can be translated to mean "The King". |
-| 37 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 38 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 39 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 42 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 43 | [capi oyola](http://twitter.com/search?q=capi+oyola) | N/A |
-| 44 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 45 | [Joey Montana](http://twitter.com/search?q=Joey+Montana) | N/A |
-| 46 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 47 | [Narcisa de Jesús](http://twitter.com/search?q=Narcisa+de+Jes%c3%bas) | N/A |
-| 48 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 49 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
+| 29 | [rodrigo paz delgado](http://twitter.com/search?q=rodrigo+paz+delgado) | N/A |
+| 30 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 31 | [Pony](http://twitter.com/search?q=Pony) | N/A |
+| 32 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
+| 33 | [alzugaray](http://twitter.com/search?q=alzugaray) | N/A |
+| 34 | [El Kun](http://twitter.com/search?q=El+Kun) | El Kun is a nickname for the Argentine footballer Lionel Messi. It is derived from the pronunciation of his surname, which in Spanish is pronounced "Messi". In English, it can be translated to mean "The King". |
+| 35 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 36 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 37 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 40 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 41 | [capi oyola](http://twitter.com/search?q=capi+oyola) | N/A |
+| 42 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
+| 43 | [joey montana](http://twitter.com/search?q=joey+montana) | N/A |
+| 44 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 45 | [Narcisa de Jesús](http://twitter.com/search?q=Narcisa+de+Jes%c3%bas) | N/A |
+| 46 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 47 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
+| 48 | [Samborondón](http://twitter.com/search?q=Samborond%c3%b3n) | N/A |
+| 49 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
 | 50 | [Iguana](http://twitter.com/search?q=Iguana) | N/A |
 
 

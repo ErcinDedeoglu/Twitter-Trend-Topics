@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-01-30 07:15:16 UTC`
+📆 Last Updated: `2023-01-30 08:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,41 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
 | 3 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 4 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 5 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 6 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 5 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 6 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
 | 7 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 8 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 9 | [Se o Gabriel](http://twitter.com/search?q=Se+o+Gabriel) | Se o Gabriel is a Portuguese phrase that translates to "If Gabriel". It is typically used as a rhetorical question to express surprise or disbelief. |
-| 10 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 12 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
-| 13 | [Tchau Gabriel](http://twitter.com/search?q=Tchau+Gabriel) | N/A |
-| 14 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 15 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 16 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 17 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 18 | [Episódio](http://twitter.com/search?q=Epis%c3%b3dio) | N/A |
+| 9 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 10 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 11 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
+| 12 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 13 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
+| 14 | [O Bill](http://twitter.com/search?q=O+Bill) | N/A |
+| 15 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 16 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 17 | [Episódio](http://twitter.com/search?q=Epis%c3%b3dio) | N/A |
+| 18 | [Ep 3](http://twitter.com/search?q=Ep+3) | N/A |
 | 19 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 20 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 21 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
-| 22 | [Neil Druckmann](http://twitter.com/search?q=Neil+Druckmann) | N/A |
-| 23 | [#FestivalDeVeraoNoMultishow](http://twitter.com/search?q=%23FestivalDeVeraoNoMultishow) | N/A |
-| 24 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 25 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
-| 26 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 27 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 28 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
-| 29 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 30 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
-| 31 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
-| 32 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 33 | [Esse 3](http://twitter.com/search?q=Esse+3) | N/A |
-| 34 | [Olodum](http://twitter.com/search?q=Olodum) | N/A |
-| 35 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 36 | [Expôs](http://twitter.com/search?q=Exp%c3%b4s) | N/A |
-| 37 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
-| 38 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 39 | [Cubriel](http://twitter.com/search?q=Cubriel) | N/A |
-| 40 | [Esse EP](http://twitter.com/search?q=Esse+EP) | N/A |
-| 41 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 42 | [Ron Swanson](http://twitter.com/search?q=Ron+Swanson) | Ron Swanson is a fictional character from the American television show Parks and Recreation. He is a libertarian, anti-government bureaucrat who works as the director of the Parks and Recreation Department in Pawnee, Indiana. He is known for his stoic demeanor, deadpan humor, and strong opinions on government bureaucracy. |
-| 43 | [Luisa Sonza](http://twitter.com/search?q=Luisa+Sonza) | N/A |
-| 44 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
-| 45 | [Dourado](http://twitter.com/search?q=Dourado) | N/A |
-| 46 | [#Yanomami](http://twitter.com/search?q=%23Yanomami) | N/A |
-| 47 | [#BolsonaroGenocida](http://twitter.com/search?q=%23BolsonaroGenocida) | N/A |
+| 20 | [Neil Druckmann](http://twitter.com/search?q=Neil+Druckmann) | N/A |
+| 21 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 22 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 23 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
+| 24 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
+| 25 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 26 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
+| 27 | [Olodum](http://twitter.com/search?q=Olodum) | N/A |
+| 28 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 29 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
+| 30 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 31 | [#Yanomami](http://twitter.com/search?q=%23Yanomami) | N/A |
+| 32 | [Cubriel](http://twitter.com/search?q=Cubriel) | N/A |
+| 33 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
+| 34 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 35 | [Luísa Sonza](http://twitter.com/search?q=Lu%c3%adsa+Sonza) | N/A |
+| 36 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
+| 37 | [Dourado](http://twitter.com/search?q=Dourado) | N/A |
+| 38 | [#FestivalDeVerao](http://twitter.com/search?q=%23FestivalDeVerao) | N/A |
+| 39 | [#BolsonaroGenocida](http://twitter.com/search?q=%23BolsonaroGenocida) | N/A |
 
 
 

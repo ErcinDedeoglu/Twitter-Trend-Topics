@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-01-30 07:15:39 UTC`
+📆 Last Updated: `2023-01-30 08:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Turkey](</Turkey>)
 | 6 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
 | 7 | [yağmurtepe osurdu](http://twitter.com/search?q=ya%c4%9fmurtepe+osurdu) | N/A |
 | 8 | [haber odak](http://twitter.com/search?q=haber+odak) | N/A |
-| 9 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 10 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 11 | [merkeztaşraayrımınason](http://twitter.com/search?q=merkezta%c5%9fraayr%c4%b1m%c4%b1nason) | N/A |
-| 12 | [Gençlerle Buluşma](http://twitter.com/search?q=Gen%c3%a7lerle+Bulu%c5%9fma) | Gençlerle Buluşma is a Turkish phrase that translates to "Meeting with the Youth". It is often used to refer to a gathering or event where young people come together to discuss topics of interest. |
-| 13 | [Kural](http://twitter.com/search?q=Kural) | Kural is a Tamil classic written by the poet Thiruvalluvar. It is a collection of couplets, each containing two lines of poetry, that are meant to provide moral guidance and wisdom. The English translation of Kural is "The Couplets of Virtue". |
-| 14 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 15 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 9 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 10 | [Saat 11](http://twitter.com/search?q=Saat+11) | N/A |
+| 11 | [Dönmez](http://twitter.com/search?q=D%c3%b6nmez) | N/A |
+| 12 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 13 | [merkeztaşraayrımınason](http://twitter.com/search?q=merkezta%c5%9fraayr%c4%b1m%c4%b1nason) | N/A |
+| 14 | [Gençlerle Buluşma](http://twitter.com/search?q=Gen%c3%a7lerle+Bulu%c5%9fma) | Gençlerle Buluşma is a Turkish phrase that translates to "Meeting with the Youth". It is often used to refer to a gathering or event where young people come together to discuss topics of interest. |
+| 15 | [Kural](http://twitter.com/search?q=Kural) | Kural is a Tamil classic written by the poet Thiruvalluvar. It is a collection of couplets, each containing two lines of poetry, that are meant to provide moral guidance and wisdom. The English translation of Kural is "The Couplets of Virtue". |
 | 16 | [Melek Mızrak Subaşı](http://twitter.com/search?q=Melek+M%c4%b1zrak+Suba%c5%9f%c4%b1) | N/A |
-| 17 | [merkeztaşra buhranı](http://twitter.com/search?q=merkezta%c5%9fra+buhran%c4%b1) | N/A |
-| 18 | [Emre Demir](http://twitter.com/search?q=Emre+Demir) | Emre Demir is a Turkish given name. It is composed of two words: "Emre" which means "leader" and "Demir" which means "iron". In English, the name Emre Demir can be translated to mean "Iron Leader". |
-| 19 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
-| 20 | [Mehmet Bekaroğlu](http://twitter.com/search?q=Mehmet+Bekaro%c4%9flu) | N/A |
-| 21 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 22 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 23 | [asmgrup elemanımağdur](http://twitter.com/search?q=asmgrup+eleman%c4%b1ma%c4%9fdur) | N/A |
-| 24 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
-| 25 | [Mert Müldür](http://twitter.com/search?q=Mert+M%c3%bcld%c3%bcr) | Mert Müldür is a Turkish name, composed of two words: Mert (meaning brave or courageous) and Müldür (meaning leader). In English, the name could be translated as "brave leader". |
-| 26 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
-| 27 | [Teşekkürler Amasya](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Amasya) | N/A |
+| 17 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 18 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
+| 19 | [merkeztaşra buhranı](http://twitter.com/search?q=merkezta%c5%9fra+buhran%c4%b1) | N/A |
+| 20 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 21 | [Amasra-2](http://twitter.com/search?q=Amasra-2) | N/A |
+| 22 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 23 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
+| 24 | [Mehmet Bekaroğlu](http://twitter.com/search?q=Mehmet+Bekaro%c4%9flu) | N/A |
+| 25 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
+| 26 | [asmgrup elemanımağdur](http://twitter.com/search?q=asmgrup+eleman%c4%b1ma%c4%9fdur) | N/A |
+| 27 | [Mert Müldür](http://twitter.com/search?q=Mert+M%c3%bcld%c3%bcr) | Mert Müldür is a Turkish name, composed of two words: Mert (meaning brave or courageous) and Müldür (meaning leader). In English, the name could be translated as "brave leader". |
 | 28 | [13 Şubat](http://twitter.com/search?q=13+%c5%9eubat) | N/A |
-| 29 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
-| 30 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | N/A |
+| 29 | [Teşekkürler Amasya](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Amasya) | N/A |
+| 30 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
 | 31 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
-| 32 | [ALİ HAYDAR ÇELEBİ](http://twitter.com/search?q=AL%c4%b0+HAYDAR+%c3%87ELEB%c4%b0) | N/A |
-| 33 | [Cedi Osman](http://twitter.com/search?q=Cedi+Osman) | N/A |
-| 34 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
-| 35 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
-| 36 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 37 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 38 | [seniseviyoruz canselayanoğlu](http://twitter.com/search?q=seniseviyoruz+canselayano%c4%9flu) | N/A |
-| 39 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 40 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
-| 41 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
-| 42 | [Giresun](http://twitter.com/search?q=Giresun) | Giresun is a province in the Black Sea region of Turkey. Its name in English translates to "Sunny Place". |
-| 43 | [Aytaç](http://twitter.com/search?q=Ayta%c3%a7) | N/A |
-| 44 | [Saat 11](http://twitter.com/search?q=Saat+11) | N/A |
-| 45 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
-| 46 | [Sabri Çelik](http://twitter.com/search?q=Sabri+%c3%87elik) | Sabri Çelik is a Turkish name. It is composed of two words: Sabri, which means "patient" or "enduring," and Çelik, which means "steel." In English, the name could be translated as "Patient Steel." |
-| 47 | [MASA ÜÇ BUÇUK ATIYOR](http://twitter.com/search?q=MASA+%c3%9c%c3%87+BU%c3%87UK+ATIYOR) | N/A |
-| 48 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 32 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 33 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 34 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
+| 35 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | N/A |
+| 36 | [ALİ HAYDAR ÇELEBİ](http://twitter.com/search?q=AL%c4%b0+HAYDAR+%c3%87ELEB%c4%b0) | N/A |
+| 37 | [Cedi Osman](http://twitter.com/search?q=Cedi+Osman) | N/A |
+| 38 | [Emre Demir](http://twitter.com/search?q=Emre+Demir) | Emre Demir is a Turkish given name. It is composed of two words: "Emre" which means "leader" and "Demir" which means "iron". In English, the name Emre Demir can be translated to mean "Iron Leader". |
+| 39 | [Selçuk İnan](http://twitter.com/search?q=Sel%c3%a7uk+%c4%b0nan) | N/A |
+| 40 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 41 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 42 | [seniseviyoruz canselayanoğlu](http://twitter.com/search?q=seniseviyoruz+canselayano%c4%9flu) | N/A |
+| 43 | [Hamza Mısır](http://twitter.com/search?q=Hamza+M%c4%b1s%c4%b1r) | N/A |
+| 44 | [Aytaç](http://twitter.com/search?q=Ayta%c3%a7) | N/A |
+| 45 | [Giresun](http://twitter.com/search?q=Giresun) | Giresun is a province in the Black Sea region of Turkey. Its name in English translates to "Sunny Place". |
+| 46 | [H.K.G.](http://twitter.com/search?q=H.K.G.) | N/A |
+| 47 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 48 | [Boğaziçi Üniversitesi](http://twitter.com/search?q=Bo%c4%9fazi%c3%a7i+%c3%9cniversitesi) | N/A |
 
 
 

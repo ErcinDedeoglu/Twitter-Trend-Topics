@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-01-30 07:15:24 UTC`
+📆 Last Updated: `2023-01-30 08:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [E-Tactical SERGAP](http://twitter.com/search?q=E-Tactical+SERGAP) | E-Tactical SERGAP is an Indonesian term that stands for "Sistem Elektronik Rekam Gaji dan Penggajian" which translates to Electronic System for Recording Salaries and Payroll. It is a computerized system used to manage payroll and salary records. |
-| 2 | [Siap Mengaspal](http://twitter.com/search?q=Siap+Mengaspal) | Siap Mengaspal is an Indonesian phrase that translates to "Ready to Roll" in English. It is used to express enthusiasm and readiness for something. |
-| 3 | [Motor Listrik Militer](http://twitter.com/search?q=Motor+Listrik+Militer) | Motor Listrik Militer is a type of electric motor used in military applications. It is designed to be more reliable and efficient than traditional motors, and is typically used in vehicles, aircraft, and other military equipment. The term "motor listrik militer" translates to "military electric motor" in English. |
-| 4 | [Satu Abad NU](http://twitter.com/search?q=Satu+Abad+NU) | Satu Abad NU is an Indonesian phrase that translates to "One Century Now". It is a slogan used to promote the idea of a new century of progress and development in Indonesia. |
-| 5 | [DEFEND ID](http://twitter.com/search?q=DEFEND+ID) | N/A |
-| 6 | [Balitbang Kemhan](http://twitter.com/search?q=Balitbang+Kemhan) | N/A |
-| 7 | [#GibranMarah](http://twitter.com/search?q=%23GibranMarah) | N/A |
-| 8 | [Revolusi PSSI](http://twitter.com/search?q=Revolusi+PSSI) | N/A |
-| 9 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
-| 10 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
-| 11 | [Song Joongki](http://twitter.com/search?q=Song+Joongki) | N/A |
-| 12 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
-| 13 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
-| 14 | [Babinsa](http://twitter.com/search?q=Babinsa) | N/A |
-| 15 | [#hello82](http://twitter.com/search?q=%23hello82) | N/A |
-| 16 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
-| 17 | [#QuestionParade_THEBOYZ](http://twitter.com/search?q=%23QuestionParade_THEBOYZ) | N/A |
-| 18 | [PROOF SONGS TO 100M](http://twitter.com/search?q=PROOF+SONGS+TO+100M) | N/A |
-| 19 | [Dewa United](http://twitter.com/search?q=Dewa+United) | N/A |
-| 20 | [KKIP](http://twitter.com/search?q=KKIP) | N/A |
-| 21 | [#BatalkanRevisiPP109](http://twitter.com/search?q=%23BatalkanRevisiPP109) | N/A |
-| 22 | [#GusMuhaiminIskandar](http://twitter.com/search?q=%23GusMuhaiminIskandar) | N/A |
-| 23 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 24 | [Rokok Bukan Untuk Anak](http://twitter.com/search?q=Rokok+Bukan+Untuk+Anak) | N/A |
-| 25 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 26 | [Bubar](http://twitter.com/search?q=Bubar) | N/A |
-| 27 | [Sarasehan Nasional](http://twitter.com/search?q=Sarasehan+Nasional) | N/A |
-| 28 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
-| 29 | [Heni](http://twitter.com/search?q=Heni) | N/A |
-| 30 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 31 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 32 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
-| 33 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 34 | [Durian](http://twitter.com/search?q=Durian) | Durian is a tropical fruit native to Southeast Asia. It is known for its strong smell and spiky exterior. The flesh of the durian is yellowish-white and has a custard-like texture. The flavor of the durian is often described as sweet and creamy, with hints of garlic, onion, and other savory flavors. In English, durian is sometimes referred to as the "king of fruits". |
-| 35 | [Neraka](http://twitter.com/search?q=Neraka) | N/A |
-| 36 | [Arema FC](http://twitter.com/search?q=Arema+FC) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
-| 40 | [Matcha](http://twitter.com/search?q=Matcha) | N/A |
-| 41 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
-| 42 | [#TeamForYouth](http://twitter.com/search?q=%23TeamForYouth) | N/A |
-| 43 | [#SafeflightHKxBible](http://twitter.com/search?q=%23SafeflightHKxBible) | #SafeflightHKxBible is a hashtag used to promote a collaboration between the Hong Kong-based airline, Safeflight HK, and the Bible App. The hashtag is used to promote the partnership between the two companies and encourage people to use the Bible App while flying with Safeflight HK. |
-| 44 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
-| 45 | [#DukungPengesahanKUHP](http://twitter.com/search?q=%23DukungPengesahanKUHP) | N/A |
-| 46 | [#LangkahBesarBangsaUntukKUHP](http://twitter.com/search?q=%23LangkahBesarBangsaUntukKUHP) | N/A |
-| 47 | [#KUHPKemajuanIndonesia](http://twitter.com/search?q=%23KUHPKemajuanIndonesia) | N/A |
-| 48 | [#KUHPReformasiHukum](http://twitter.com/search?q=%23KUHPReformasiHukum) | N/A |
-| 49 | [#Happy30thNewwieeDay](http://twitter.com/search?q=%23Happy30thNewwieeDay) | N/A |
+| 1 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 2 | [Prabowo Subianto](http://twitter.com/search?q=Prabowo+Subianto) | Prabowo Subianto is an Indonesian politician and retired army general who is the current Minister of Defense. His name is derived from two Javanese words: Prabu, meaning "king" or "lord", and Woso, meaning "brave". In English, his name translates to "Brave Lord". |
+| 3 | [E-Tactical SERGAP](http://twitter.com/search?q=E-Tactical+SERGAP) | E-Tactical SERGAP is an Indonesian term that stands for "Sistem Elektronik Rekam Gaji dan Penggajian" which translates to Electronic System for Recording Salaries and Payroll. It is a computerized system used to manage payroll and salary records. |
+| 4 | [Motor Listrik Militer](http://twitter.com/search?q=Motor+Listrik+Militer) | Motor Listrik Militer is a type of electric motor used in military applications. It is designed to be more reliable and efficient than traditional motors, and is typically used in vehicles, aircraft, and other military equipment. The term "motor listrik militer" translates to "military electric motor" in English. |
+| 5 | [Siap Mengaspal](http://twitter.com/search?q=Siap+Mengaspal) | Siap Mengaspal is an Indonesian phrase that translates to "Ready to Roll" in English. It is used to express enthusiasm and readiness for something. |
+| 6 | [Satu Abad NU](http://twitter.com/search?q=Satu+Abad+NU) | Satu Abad NU is an Indonesian phrase that translates to "One Century Now". It is a slogan used to promote the idea of a new century of progress and development in Indonesia. |
+| 7 | [#JingleHitsLazada](http://twitter.com/search?q=%23JingleHitsLazada) | N/A |
+| 8 | [#BelanjaSuperHemat](http://twitter.com/search?q=%23BelanjaSuperHemat) | N/A |
+| 9 | [Tambah Kehidupmu](http://twitter.com/search?q=Tambah+Kehidupmu) | N/A |
+| 10 | [Gratis Ongkir](http://twitter.com/search?q=Gratis+Ongkir) | N/A |
+| 11 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | N/A |
+| 12 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | N/A |
+| 13 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
+| 14 | [DEFEND ID](http://twitter.com/search?q=DEFEND+ID) | N/A |
+| 15 | [Balitbang Kemhan](http://twitter.com/search?q=Balitbang+Kemhan) | N/A |
+| 16 | [#GibranMarah](http://twitter.com/search?q=%23GibranMarah) | N/A |
+| 17 | [Revolusi PSSI](http://twitter.com/search?q=Revolusi+PSSI) | N/A |
+| 18 | [Song Joongki](http://twitter.com/search?q=Song+Joongki) | N/A |
+| 19 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
+| 20 | [Prabowo Lebih Baik](http://twitter.com/search?q=Prabowo+Lebih+Baik) | Prabowo Lebih Baik is a slogan used by supporters of Indonesian presidential candidate Prabowo Subianto in the 2019 election. It translates to "Prabowo is Better" in English. |
+| 21 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
+| 22 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
+| 23 | [Layani Sepenuh Hati](http://twitter.com/search?q=Layani+Sepenuh+Hati) | N/A |
+| 24 | [ARMY APOLOGIZE TO NCT](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+NCT) | N/A |
+| 25 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 26 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
+| 27 | [Babinsa](http://twitter.com/search?q=Babinsa) | N/A |
+| 28 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 29 | [Sarasehan Nasional](http://twitter.com/search?q=Sarasehan+Nasional) | N/A |
+| 30 | [Dewa United](http://twitter.com/search?q=Dewa+United) | N/A |
+| 31 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
+| 32 | [Ikhlasin](http://twitter.com/search?q=Ikhlasin) | N/A |
+| 33 | [PROOF SONGS TO 100M](http://twitter.com/search?q=PROOF+SONGS+TO+100M) | N/A |
+| 34 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
+| 35 | [KKIP](http://twitter.com/search?q=KKIP) | N/A |
+| 36 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 37 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
+| 38 | [Bubar](http://twitter.com/search?q=Bubar) | N/A |
+| 39 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 40 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 41 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
+| 42 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 43 | [Heni](http://twitter.com/search?q=Heni) | N/A |
+| 44 | [Neraka](http://twitter.com/search?q=Neraka) | N/A |
+| 45 | [Arema FC](http://twitter.com/search?q=Arema+FC) | N/A |
+| 46 | [Durian](http://twitter.com/search?q=Durian) | Durian is a tropical fruit native to Southeast Asia. It is known for its strong smell and spiky exterior. The flesh of the durian is yellowish-white and has a custard-like texture. The flavor of the durian is often described as sweet and creamy, with hints of garlic, onion, and other savory flavors. In English, durian is sometimes referred to as the "king of fruits". |
+| 47 | [Dosen](http://twitter.com/search?q=Dosen) | N/A |
+| 48 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 49 | [#HadirIkhlas](http://twitter.com/search?q=%23HadirIkhlas) | N/A |
 
 
 

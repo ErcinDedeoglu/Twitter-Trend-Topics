@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Novosibirsk
 
-📆 Last Updated: `2023-01-30 07:15:34 UTC`
+📆 Last Updated: `2023-01-30 08:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Russia](</Russia>)
 | ------- | ------------ | ------------ |
 | 1 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
 | 2 | [Иран](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd) | N/A |
-| 3 | [USERS](http://twitter.com/search?q=USERS) | N/A |
-| 4 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
+| 3 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
+| 4 | [Users](http://twitter.com/search?q=Users) | N/A |
 | 5 | [#NFTFam](http://twitter.com/search?q=%23NFTFam) | N/A |
 | 6 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
 | 7 | [#Kazakhstan](http://twitter.com/search?q=%23Kazakhstan) | N/A |
 | 8 | [#kazakhanthem](http://twitter.com/search?q=%23kazakhanthem) | N/A |
 | 9 | [#menińqazaqstanym](http://twitter.com/search?q=%23meni%c5%84qazaqstanym) | N/A |
-| 10 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
-| 11 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 12 | [#NFTartwork](http://twitter.com/search?q=%23NFTartwork) | N/A |
-| 13 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 14 | [алексей](http://twitter.com/search?q=%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9) | N/A |
-| 15 | [Бабченко](http://twitter.com/search?q=%d0%91%d0%b0%d0%b1%d1%87%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 16 | [Спать](http://twitter.com/search?q=%d0%a1%d0%bf%d0%b0%d1%82%d1%8c) | N/A |
-| 17 | [Чехии](http://twitter.com/search?q=%d0%a7%d0%b5%d1%85%d0%b8%d0%b8) | N/A |
-| 18 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
-| 19 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 10 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 11 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 12 | [#вордли](http://twitter.com/search?q=%23%d0%b2%d0%be%d1%80%d0%b4%d0%bb%d0%b8) | N/A |
+| 13 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | N/A |
+| 14 | [Бабченко](http://twitter.com/search?q=%d0%91%d0%b0%d0%b1%d1%87%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 15 | [Чехии](http://twitter.com/search?q=%d0%a7%d0%b5%d1%85%d0%b8%d0%b8) | N/A |
+| 16 | [алексей](http://twitter.com/search?q=%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9) | N/A |
+| 17 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 18 | [Спать](http://twitter.com/search?q=%d0%a1%d0%bf%d0%b0%d1%82%d1%8c) | N/A |
+| 19 | [China](http://twitter.com/search?q=China) | N/A |
 | 20 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 21 | [Иерусалиме](http://twitter.com/search?q=%d0%98%d0%b5%d1%80%d1%83%d1%81%d0%b0%d0%bb%d0%b8%d0%bc%d0%b5) | N/A |
-| 22 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 23 | [China](http://twitter.com/search?q=China) | N/A |
+| 22 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
+| 23 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
 | 24 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
 | 25 | [Альбедо](http://twitter.com/search?q=%d0%90%d0%bb%d1%8c%d0%b1%d0%b5%d0%b4%d0%be) | N/A |
 | 26 | [неправда](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bf%d1%80%d0%b0%d0%b2%d0%b4%d0%b0) | N/A |
-| 27 | [Магазин Weed Star](http://twitter.com/search?q=%d0%9c%d0%b0%d0%b3%d0%b0%d0%b7%d0%b8%d0%bd+Weed+Star) | N/A |
-| 28 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 29 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
-| 30 | [Видно](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%bd%d0%be) | N/A |
+| 27 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 28 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 29 | [Видно](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%bd%d0%be) | N/A |
+| 30 | [Ваня](http://twitter.com/search?q=%d0%92%d0%b0%d0%bd%d1%8f) | N/A |
 | 31 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
-| 32 | [представляю](http://twitter.com/search?q=%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 33 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 34 | [впервые](http://twitter.com/search?q=%d0%b2%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b5) | N/A |
-| 35 | [Америке](http://twitter.com/search?q=%d0%90%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
-| 36 | [мечта](http://twitter.com/search?q=%d0%bc%d0%b5%d1%87%d1%82%d0%b0) | N/A |
-| 37 | [Знаешь](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d0%b5%d1%88%d1%8c) | N/A |
-| 38 | [Ваня](http://twitter.com/search?q=%d0%92%d0%b0%d0%bd%d1%8f) | N/A |
-| 39 | [сорян](http://twitter.com/search?q=%d1%81%d0%be%d1%80%d1%8f%d0%bd) | N/A |
-| 40 | [стрелкова](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b5%d0%bb%d0%ba%d0%be%d0%b2%d0%b0) | N/A |
-| 41 | [ееее](http://twitter.com/search?q=%d0%b5%d0%b5%d0%b5%d0%b5) | N/A |
-| 42 | [бред](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d0%b4) | N/A |
-| 43 | [ЕСТЕСТВЕННО](http://twitter.com/search?q=%d0%95%d0%a1%d0%a2%d0%95%d0%a1%d0%a2%d0%92%d0%95%d0%9d%d0%9d%d0%9e) | N/A |
-| 44 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
-| 45 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 46 | [Финляндии](http://twitter.com/search?q=%d0%a4%d0%b8%d0%bd%d0%bb%d1%8f%d0%bd%d0%b4%d0%b8%d0%b8) | N/A |
-| 47 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 48 | [Казахстан](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd) | N/A |
-| 49 | [Русские](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b5) | N/A |
-| 50 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 32 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
+| 33 | [Финляндии](http://twitter.com/search?q=%d0%a4%d0%b8%d0%bd%d0%bb%d1%8f%d0%bd%d0%b4%d0%b8%d0%b8) | N/A |
+| 34 | [Казахстан](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd) | N/A |
+| 35 | [представляю](http://twitter.com/search?q=%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 36 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 37 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 38 | [Впервые](http://twitter.com/search?q=%d0%92%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b5) | N/A |
+| 39 | [америке](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
+| 40 | [мечта](http://twitter.com/search?q=%d0%bc%d0%b5%d1%87%d1%82%d0%b0) | N/A |
+| 41 | [КНДР](http://twitter.com/search?q=%d0%9a%d0%9d%d0%94%d0%a0) | N/A |
+| 42 | [Японии](http://twitter.com/search?q=%d0%af%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
+| 43 | [Знаешь](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d0%b5%d1%88%d1%8c) | N/A |
+| 44 | [сорян](http://twitter.com/search?q=%d1%81%d0%be%d1%80%d1%8f%d0%bd) | N/A |
+| 45 | [стрелкова](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b5%d0%bb%d0%ba%d0%be%d0%b2%d0%b0) | N/A |
+| 46 | [ееее](http://twitter.com/search?q=%d0%b5%d0%b5%d0%b5%d0%b5) | N/A |
+| 47 | [Бред](http://twitter.com/search?q=%d0%91%d1%80%d0%b5%d0%b4) | N/A |
+| 48 | [ЕСТЕСТВЕННО](http://twitter.com/search?q=%d0%95%d0%a1%d0%a2%d0%95%d0%a1%d0%a2%d0%92%d0%95%d0%9d%d0%9d%d0%9e) | N/A |
+| 49 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 50 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 
 
 

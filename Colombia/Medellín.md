@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-01-30 07:15:13 UTC`
+📆 Last Updated: `2023-01-30 08:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [David](http://twitter.com/search?q=David) | N/A |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [#ALaCalle15F](http://twitter.com/search?q=%23ALaCalle15F) | N/A |
-| 4 | [Leo Castro](http://twitter.com/search?q=Leo+Castro) | N/A |
-| 5 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 6 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 7 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 8 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
-| 9 | [#Envigado](http://twitter.com/search?q=%23Envigado) | N/A |
-| 10 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 11 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 12 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
+| 1 | [#Envigado](http://twitter.com/search?q=%23Envigado) | N/A |
+| 2 | [David](http://twitter.com/search?q=David) | N/A |
+| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [#ALaCalle15F](http://twitter.com/search?q=%23ALaCalle15F) | N/A |
+| 5 | [Leo Castro](http://twitter.com/search?q=Leo+Castro) | N/A |
+| 6 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 7 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 8 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
+| 9 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
+| 10 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 11 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
+| 12 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 13 | [Fedegan](http://twitter.com/search?q=Fedegan) | N/A |
 | 14 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 15 | [Ever Valencia](http://twitter.com/search?q=Ever+Valencia) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for [Colombia](</Colombia>)
 | 17 | [Belizza Ruiz](http://twitter.com/search?q=Belizza+Ruiz) | N/A |
 | 18 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 19 | [Giraldo](http://twitter.com/search?q=Giraldo) | N/A |
-| 20 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 21 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 22 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 23 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 24 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 25 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 26 | [Millos](http://twitter.com/search?q=Millos) | N/A |
-| 27 | [Enviaseo](http://twitter.com/search?q=Enviaseo) | N/A |
-| 28 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 29 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 30 | [goez](http://twitter.com/search?q=goez) | N/A |
-| 31 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 32 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
-| 33 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
-| 34 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 35 | [Adolfo Pacheco](http://twitter.com/search?q=Adolfo+Pacheco) | Adolfo Pacheco is a Spanish name. It is derived from the Germanic elements adal, meaning “noble”, and fred, meaning “peace”. The name can be translated to mean “noble peace” in English. |
-| 36 | [plan cazador](http://twitter.com/search?q=plan+cazador) | N/A |
-| 37 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
-| 38 | [El Santuario](http://twitter.com/search?q=El+Santuario) | N/A |
-| 39 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
-| 40 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
-| 41 | [Sierra](http://twitter.com/search?q=Sierra) | N/A |
-| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 43 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 44 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 45 | [Vacas](http://twitter.com/search?q=Vacas) | N/A |
-| 46 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
-| 47 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 48 | [Yuber](http://twitter.com/search?q=Yuber) | N/A |
-| 49 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 50 | [Laura Mora](http://twitter.com/search?q=Laura+Mora) | N/A |
+| 20 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 21 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 22 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 23 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 24 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 25 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 26 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 27 | [goez](http://twitter.com/search?q=goez) | N/A |
+| 28 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 29 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
+| 30 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 31 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 32 | [Adolfo Pacheco](http://twitter.com/search?q=Adolfo+Pacheco) | Adolfo Pacheco is a Spanish name. It is derived from the Germanic elements adal, meaning “noble”, and fred, meaning “peace”. The name can be translated to mean “noble peace” in English. |
+| 33 | [plan cazador](http://twitter.com/search?q=plan+cazador) | N/A |
+| 34 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
+| 35 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
+| 36 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 37 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
+| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 39 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 40 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 41 | [Vacas](http://twitter.com/search?q=Vacas) | N/A |
+| 42 | [lencina](http://twitter.com/search?q=lencina) | N/A |
+| 43 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 44 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 45 | [Yuber](http://twitter.com/search?q=Yuber) | N/A |
+| 46 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 47 | [Laura Mora](http://twitter.com/search?q=Laura+Mora) | N/A |
+| 48 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 49 | [Berrío](http://twitter.com/search?q=Berr%c3%ado) | N/A |
+| 50 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
 
 
 

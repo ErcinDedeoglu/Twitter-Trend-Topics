@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-01-30 07:15:14 UTC`
+📆 Last Updated: `2023-01-30 08:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 3 | [#SancionesMatanSueldo](http://twitter.com/search?q=%23SancionesMatanSueldo) | N/A |
 | 4 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
-| 5 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 7 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 8 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
+| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 6 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 7 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
+| 8 | [Bill y Frank](http://twitter.com/search?q=Bill+y+Frank) | N/A |
 | 9 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 10 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
 | 11 | [#30Ene](http://twitter.com/search?q=%2330Ene) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 19 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 | 20 | [día del trabajador social](http://twitter.com/search?q=d%c3%ada+del+trabajador+social) | N/A |
 | 21 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 22 | [Juan Carlos Torres](http://twitter.com/search?q=Juan+Carlos+Torres) | N/A |
+| 22 | [juan carlos torres](http://twitter.com/search?q=juan+carlos+torres) | N/A |
 | 23 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
 | 24 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
 | 25 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
@@ -50,10 +50,10 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 33 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
 | 34 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
 | 35 | [Rosales](http://twitter.com/search?q=Rosales) | N/A |
-| 36 | [San Agustín](http://twitter.com/search?q=San+Agust%c3%adn) | N/A |
-| 37 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 38 | [Benjamín](http://twitter.com/search?q=Benjam%c3%adn) | N/A |
-| 39 | [tumeremo](http://twitter.com/search?q=tumeremo) | N/A |
+| 36 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 37 | [Benjamín](http://twitter.com/search?q=Benjam%c3%adn) | N/A |
+| 38 | [tumeremo](http://twitter.com/search?q=tumeremo) | N/A |
+| 39 | [San Agustín](http://twitter.com/search?q=San+Agust%c3%adn) | N/A |
 | 40 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 41 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 42 | [bendecido domingo](http://twitter.com/search?q=bendecido+domingo) | N/A |
