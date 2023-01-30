@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-01-30 04:17:30 UTC`
+📆 Last Updated: `2023-01-30 05:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,20 +24,20 @@ This is top 50 for Austria
 | 7 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
 | 8 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
 | 9 | [schnabl](http://twitter.com/search?q=schnabl) | N/A |
-| 10 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 10 | [haltung](http://twitter.com/search?q=haltung) | N/A |
 | 11 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 12 | [haltung](http://twitter.com/search?q=haltung) | N/A |
-| 13 | [Fleckerlteppich](http://twitter.com/search?q=Fleckerlteppich) | N/A |
+| 12 | [Fleckerlteppich](http://twitter.com/search?q=Fleckerlteppich) | N/A |
+| 13 | [Bund](http://twitter.com/search?q=Bund) | N/A |
 | 14 | [Leitner](http://twitter.com/search?q=Leitner) | N/A |
 | 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 16 | [grün](http://twitter.com/search?q=gr%c3%bcn) | N/A |
-| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 18 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 19 | [johanna mikl](http://twitter.com/search?q=johanna+mikl) | N/A |
-| 20 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
+| 17 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 18 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
+| 19 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 20 | [johanna mikl](http://twitter.com/search?q=johanna+mikl) | N/A |
 | 21 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 22 | [wahlkampf](http://twitter.com/search?q=wahlkampf) | N/A |
-| 23 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 22 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 23 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
 | 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 25 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
 | 26 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
@@ -45,25 +45,25 @@ This is top 50 for Austria
 | 28 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
 | 29 | [Finale](http://twitter.com/search?q=Finale) | N/A |
 | 30 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
-| 31 | [ideologie](http://twitter.com/search?q=ideologie) | N/A |
+| 31 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
 | 32 | [themen](http://twitter.com/search?q=themen) | N/A |
-| 33 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 34 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 35 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 36 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 37 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 38 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
-| 39 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 40 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 41 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 42 | [Option](http://twitter.com/search?q=Option) | N/A |
-| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 44 | [zeitverlust](http://twitter.com/search?q=zeitverlust) | N/A |
-| 45 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 33 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 34 | [verfassung](http://twitter.com/search?q=verfassung) | N/A |
+| 35 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 36 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 37 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
+| 38 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
+| 39 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 40 | [Option](http://twitter.com/search?q=Option) | N/A |
+| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 42 | [zeitverlust](http://twitter.com/search?q=zeitverlust) | N/A |
+| 43 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 44 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 45 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
 | 46 | [koalition](http://twitter.com/search?q=koalition) | N/A |
-| 47 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 48 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 49 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 47 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 48 | [einsatz](http://twitter.com/search?q=einsatz) | N/A |
+| 49 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
 | 50 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
 
 

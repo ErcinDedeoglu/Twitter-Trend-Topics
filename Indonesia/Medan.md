@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-01-30 04:17:00 UTC`
+📆 Last Updated: `2023-01-30 05:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
-| 2 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
-| 3 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
+| 2 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
+| 3 | [#SekteMangkujiwo](http://twitter.com/search?q=%23SekteMangkujiwo) | #SekteMangkujiwo is a hashtag used by Indonesian netizens to express their support for the Mangkujiwo movement, which is a grassroots movement advocating for greater political and economic justice in Indonesia. The phrase translates to "Let's support Mangkujiwo" in English. |
 | 4 | [#BatalkanRevisiPP109](http://twitter.com/search?q=%23BatalkanRevisiPP109) | N/A |
-| 5 | [#hello82](http://twitter.com/search?q=%23hello82) | N/A |
-| 6 | [Rokok Bukan Untuk Anak](http://twitter.com/search?q=Rokok+Bukan+Untuk+Anak) | N/A |
-| 7 | [#QuestionParade_THEBOYZ](http://twitter.com/search?q=%23QuestionParade_THEBOYZ) | N/A |
-| 8 | [#SekteMangkujiwo](http://twitter.com/search?q=%23SekteMangkujiwo) | #SekteMangkujiwo is a hashtag used by Indonesian netizens to express their support for the Mangkujiwo movement, which is a grassroots movement advocating for greater political and economic justice in Indonesia. The phrase translates to "Let's support Mangkujiwo" in English. |
-| 9 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 10 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 11 | [#konspirasimangkujiwo](http://twitter.com/search?q=%23konspirasimangkujiwo) | N/A |
+| 5 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 6 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
+| 7 | [#hello82](http://twitter.com/search?q=%23hello82) | N/A |
+| 8 | [#konspirasimangkujiwo](http://twitter.com/search?q=%23konspirasimangkujiwo) | N/A |
+| 9 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 10 | [nyalain sheilaon7](http://twitter.com/search?q=nyalain+sheilaon7) | N/A |
+| 11 | [#QuestionParade_THEBOYZ](http://twitter.com/search?q=%23QuestionParade_THEBOYZ) | N/A |
 | 12 | [THANK YOU NCT 127](http://twitter.com/search?q=THANK+YOU+NCT+127) | "THANK YOU NCT 127" is an expression of gratitude and appreciation for the South Korean boy band NCT 127. In English, it means "Thank you, NCT 127". |
-| 13 | [nyalain sheilaon7](http://twitter.com/search?q=nyalain+sheilaon7) | N/A |
-| 14 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
-| 15 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
-| 16 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 13 | [Rokok Bukan Untuk Anak](http://twitter.com/search?q=Rokok+Bukan+Untuk+Anak) | N/A |
+| 14 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 15 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
+| 16 | [Heni](http://twitter.com/search?q=Heni) | N/A |
 | 17 | [Dewa United](http://twitter.com/search?q=Dewa+United) | N/A |
-| 18 | [Bubar](http://twitter.com/search?q=Bubar) | N/A |
-| 19 | [Heni](http://twitter.com/search?q=Heni) | N/A |
-| 20 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 21 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
-| 22 | [ocbc nisp](http://twitter.com/search?q=ocbc+nisp) | N/A |
-| 23 | [MARK LEE THANK YOU](http://twitter.com/search?q=MARK+LEE+THANK+YOU) | N/A |
-| 24 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 25 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 26 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Chico](http://twitter.com/search?q=Chico) | N/A |
-| 29 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 30 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 31 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
-| 32 | [Ricis](http://twitter.com/search?q=Ricis) | N/A |
-| 33 | [Berani](http://twitter.com/search?q=Berani) | N/A |
-| 34 | [Tetangga](http://twitter.com/search?q=Tetangga) | N/A |
-| 35 | [Wamenhan RI Pak M Herindra](http://twitter.com/search?q=Wamenhan+RI+Pak+M+Herindra) | N/A |
-| 36 | [Lockscreen](http://twitter.com/search?q=Lockscreen) | N/A |
-| 37 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
-| 38 | [The Day](http://twitter.com/search?q=The+Day) | N/A |
-| 39 | [WELCOME BABYMONSTER RORA](http://twitter.com/search?q=WELCOME+BABYMONSTER+RORA) | "WELCOME BABYMONSTER RORA" is a phrase used to express excitement and joy at the arrival of a new baby. It is typically used as a greeting or congratulatory message to the parents of the newborn. In English, it can be translated to "Congratulations on the arrival of your new baby, Rora!" |
-| 40 | [pull up mv teaser 2](http://twitter.com/search?q=pull+up+mv+teaser+2) | N/A |
-| 41 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 42 | [Penting](http://twitter.com/search?q=Penting) | N/A |
-| 43 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 44 | [Kris](http://twitter.com/search?q=Kris) | N/A |
-| 45 | [Durian](http://twitter.com/search?q=Durian) | Durian is a tropical fruit native to Southeast Asia. It is known for its strong smell and spiky exterior. The flesh of the durian is yellowish-white and has a custard-like texture. The flavor of the durian is often described as sweet and creamy, with hints of garlic, onion, and other savory flavors. In English, durian is sometimes referred to as the "king of fruits". |
-| 46 | [ABU DHABI LOVES LISA](http://twitter.com/search?q=ABU+DHABI+LOVES+LISA) | ABU DHABI LOVES LISA is a phrase that expresses the sentiment of love and admiration for a person named Lisa from the city of Abu Dhabi. It is a way of expressing appreciation and admiration for someone from the city. |
-| 47 | [Monza](http://twitter.com/search?q=Monza) | N/A |
-| 48 | [Shoot Me](http://twitter.com/search?q=Shoot+Me) | N/A |
-| 49 | [MC DOYOUNG](http://twitter.com/search?q=MC+DOYOUNG) | N/A |
-| 50 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 18 | [PROOF SONGS TO 100M](http://twitter.com/search?q=PROOF+SONGS+TO+100M) | N/A |
+| 19 | [Bubar](http://twitter.com/search?q=Bubar) | N/A |
+| 20 | [ocbc nisp](http://twitter.com/search?q=ocbc+nisp) | N/A |
+| 21 | [Wamenhan RI Pak M Herindra](http://twitter.com/search?q=Wamenhan+RI+Pak+M+Herindra) | N/A |
+| 22 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 23 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
+| 24 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 27 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
+| 28 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 29 | [Berani](http://twitter.com/search?q=Berani) | N/A |
+| 30 | [Ricis](http://twitter.com/search?q=Ricis) | N/A |
+| 31 | [Chico](http://twitter.com/search?q=Chico) | N/A |
+| 32 | [Tetangga](http://twitter.com/search?q=Tetangga) | N/A |
+| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 34 | [Lockscreen](http://twitter.com/search?q=Lockscreen) | N/A |
+| 35 | [THANK YOU DREAMIES](http://twitter.com/search?q=THANK+YOU+DREAMIES) | N/A |
+| 36 | [The Day](http://twitter.com/search?q=The+Day) | N/A |
+| 37 | [pull up mv teaser 2](http://twitter.com/search?q=pull+up+mv+teaser+2) | N/A |
+| 38 | [MARK LEE THANK YOU](http://twitter.com/search?q=MARK+LEE+THANK+YOU) | N/A |
+| 39 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 40 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 41 | [KKIP](http://twitter.com/search?q=KKIP) | N/A |
+| 42 | [Durian](http://twitter.com/search?q=Durian) | Durian is a tropical fruit native to Southeast Asia. It is known for its strong smell and spiky exterior. The flesh of the durian is yellowish-white and has a custard-like texture. The flavor of the durian is often described as sweet and creamy, with hints of garlic, onion, and other savory flavors. In English, durian is sometimes referred to as the "king of fruits". |
+| 43 | [WELCOME BABYMONSTER RORA](http://twitter.com/search?q=WELCOME+BABYMONSTER+RORA) | "WELCOME BABYMONSTER RORA" is a phrase used to express excitement and joy at the arrival of a new baby. It is typically used as a greeting or congratulatory message to the parents of the newborn. In English, it can be translated to "Congratulations on the arrival of your new baby, Rora!" |
+| 44 | [Penting](http://twitter.com/search?q=Penting) | N/A |
+| 45 | [Kris](http://twitter.com/search?q=Kris) | N/A |
+| 46 | [Shoot Me](http://twitter.com/search?q=Shoot+Me) | N/A |
+| 47 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 48 | [Monza](http://twitter.com/search?q=Monza) | N/A |
+| 49 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 50 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
 
 
 

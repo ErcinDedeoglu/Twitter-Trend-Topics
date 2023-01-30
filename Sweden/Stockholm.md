@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-01-30 04:16:59 UTC`
+📆 Last Updated: `2023-01-30 05:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,8 +40,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 23 | [hela sverige](http://twitter.com/search?q=hela+sverige) | N/A |
 | 24 | [timbro](http://twitter.com/search?q=timbro) | N/A |
 | 25 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 26 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 27 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 26 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 27 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 28 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 29 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
 | 30 | [#nflse](http://twitter.com/search?q=%23nflse) | N/A |
@@ -51,18 +51,18 @@ This is top 50 for [Sweden](</Sweden>)
 | 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 35 | [Burzum](http://twitter.com/search?q=Burzum) | N/A |
 | 36 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 37 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 38 | [Vincennes](http://twitter.com/search?q=Vincennes) | N/A |
+| 37 | [Vincennes](http://twitter.com/search?q=Vincennes) | N/A |
+| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 40 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
 | 41 | [fa-cupen](http://twitter.com/search?q=fa-cupen) | N/A |
 | 42 | [västervik](http://twitter.com/search?q=v%c3%a4stervik) | N/A |
 | 43 | [Forsell](http://twitter.com/search?q=Forsell) | N/A |
-| 44 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 45 | [Prix](http://twitter.com/search?q=Prix) | N/A |
+| 44 | [Prix](http://twitter.com/search?q=Prix) | N/A |
+| 45 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
 | 46 | [don fanucci zet](http://twitter.com/search?q=don+fanucci+zet) | N/A |
-| 47 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
-| 48 | [natoprocessen](http://twitter.com/search?q=natoprocessen) | N/A |
+| 47 | [natoprocessen](http://twitter.com/search?q=natoprocessen) | N/A |
+| 48 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
 | 49 | [malmös](http://twitter.com/search?q=malm%c3%b6s) | N/A |
 | 50 | [alliansen](http://twitter.com/search?q=alliansen) | N/A |
 
