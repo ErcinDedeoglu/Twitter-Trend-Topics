@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-01-30 12:17:50 UTC`
+📆 Last Updated: `2023-01-30 13:21:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 2 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 3 | [Humphries](http://twitter.com/search?q=Humphries) | N/A |
-| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 5 | [#SwanFlashGiveaway](http://twitter.com/search?q=%23SwanFlashGiveaway) | N/A |
-| 6 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
-| 7 | [Reed](http://twitter.com/search?q=Reed) | N/A |
-| 8 | [#DubaiDesertClassic](http://twitter.com/search?q=%23DubaiDesertClassic) | N/A |
-| 9 | [#NationalStorytellingWeek](http://twitter.com/search?q=%23NationalStorytellingWeek) | N/A |
-| 10 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
+| 1 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 2 | [#SwanFlashGiveaway](http://twitter.com/search?q=%23SwanFlashGiveaway) | N/A |
+| 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 4 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 5 | [Humphries](http://twitter.com/search?q=Humphries) | N/A |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 8 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 9 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 10 | [Rico Lewis](http://twitter.com/search?q=Rico+Lewis) | Rico Lewis is a Spanish phrase meaning "rich and powerful". It is often used to describe someone who has achieved success and wealth. |
 | 11 | [Noppert](http://twitter.com/search?q=Noppert) | N/A |
-| 12 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 14 | [Aspinall](http://twitter.com/search?q=Aspinall) | N/A |
+| 12 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 13 | [#NationalStorytellingWeek](http://twitter.com/search?q=%23NationalStorytellingWeek) | N/A |
+| 14 | [Reed](http://twitter.com/search?q=Reed) | N/A |
 | 15 | [Ross Smith](http://twitter.com/search?q=Ross+Smith) | N/A |
-| 16 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 17 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
-| 18 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 19 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 20 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 21 | [Cresswell](http://twitter.com/search?q=Cresswell) | N/A |
-| 22 | [Helen Whately](http://twitter.com/search?q=Helen+Whately) | Helen Whately is a British politician who has been the Member of Parliament (MP) for Faversham and Mid Kent since 2015. She is a member of the Conservative Party and currently serves as Minister of State for Care in the Department of Health and Social Care. |
-| 23 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 24 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
-| 25 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 26 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 27 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 28 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
-| 29 | [Dobey](http://twitter.com/search?q=Dobey) | N/A |
-| 30 | [Daily Quordle 371](http://twitter.com/search?q=Daily+Quordle+371) | N/A |
-| 31 | [Wordle 590 X](http://twitter.com/search?q=Wordle+590+X) | N/A |
-| 32 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
-| 33 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 34 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
-| 35 | [Dundee](http://twitter.com/search?q=Dundee) | N/A |
-| 36 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 37 | [British Army](http://twitter.com/search?q=British+Army) | N/A |
-| 38 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 16 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
+| 17 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 18 | [JD Sports](http://twitter.com/search?q=JD+Sports) | N/A |
+| 19 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 20 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
+| 21 | [Breakfast](http://twitter.com/search?q=Breakfast) | N/A |
+| 22 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 23 | [aspinall](http://twitter.com/search?q=aspinall) | N/A |
+| 24 | [Dinner](http://twitter.com/search?q=Dinner) | N/A |
+| 25 | [Cresswell](http://twitter.com/search?q=Cresswell) | N/A |
+| 26 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 27 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 28 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
+| 29 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 30 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 31 | [Helen Whately](http://twitter.com/search?q=Helen+Whately) | Helen Whately is a British politician who has been the Member of Parliament (MP) for Faversham and Mid Kent since 2015. She is a member of the Conservative Party and currently serves as Minister of State for Care in the Department of Health and Social Care. |
+| 32 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 33 | [Dobey](http://twitter.com/search?q=Dobey) | N/A |
+| 34 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 35 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 36 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
+| 37 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 38 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
 | 39 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 41 | [St Johnstone](http://twitter.com/search?q=St+Johnstone) | N/A |
-| 42 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 43 | [#DPWorldTour](http://twitter.com/search?q=%23DPWorldTour) | N/A |
-| 44 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 45 | [#ToriesOut207](http://twitter.com/search?q=%23ToriesOut207) | N/A |
-| 46 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
-| 47 | [#LiarJohnson](http://twitter.com/search?q=%23LiarJohnson) | N/A |
-| 48 | [#SamSmith](http://twitter.com/search?q=%23SamSmith) | N/A |
+| 40 | [Wordle 590 X](http://twitter.com/search?q=Wordle+590+X) | N/A |
+| 41 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
+| 42 | [Masters](http://twitter.com/search?q=Masters) | N/A |
+| 43 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 44 | [Dundee](http://twitter.com/search?q=Dundee) | N/A |
+| 45 | [St Johnstone](http://twitter.com/search?q=St+Johnstone) | N/A |
+| 46 | [British Army](http://twitter.com/search?q=British+Army) | N/A |
+| 47 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
+| 48 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 49 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 50 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | Annie Wersching is an American actress. She is best known for her roles as FBI Special Agent Renee Walker on the Fox television series 24 and as Amelia Joffe on the ABC television series V. |
 
 
 

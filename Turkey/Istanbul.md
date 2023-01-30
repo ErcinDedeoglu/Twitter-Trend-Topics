@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-01-30 12:17:37 UTC`
+📆 Last Updated: `2023-01-30 13:21:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#galatasaraybilet](http://twitter.com/search?q=%23galatasaraybilet) | N/A |
-| 2 | [Kayyum](http://twitter.com/search?q=Kayyum) | Kayyum is a Turkish word that means "trustee" or "guardian". It is used to refer to someone who is appointed to oversee the management of an organization or property. |
-| 3 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
-| 4 | [#EYTsizin14MayısBizim](http://twitter.com/search?q=%23EYTsizin14May%c4%b1sBizim) | N/A |
+| 1 | [#LaleOrtaFenerGol](http://twitter.com/search?q=%23LaleOrtaFenerGol) | N/A |
+| 2 | [Nihat](http://twitter.com/search?q=Nihat) | N/A |
+| 3 | [#EYTsizin14MayısBizim](http://twitter.com/search?q=%23EYTsizin14May%c4%b1sBizim) | N/A |
+| 4 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
 | 5 | [#YarınınTürkiyesi](http://twitter.com/search?q=%23Yar%c4%b1n%c4%b1nT%c3%bcrkiyesi) | N/A |
-| 6 | [Uyuyorlar](http://twitter.com/search?q=Uyuyorlar) | Uyuyorlar is a Turkish phrase that translates to "they are sleeping" in English. |
+| 6 | [Kayyum](http://twitter.com/search?q=Kayyum) | Kayyum is a Turkish word that means "trustee" or "guardian". It is used to refer to someone who is appointed to oversee the management of an organization or property. |
 | 7 | [Ortak Mutabakat Metni](http://twitter.com/search?q=Ortak+Mutabakat+Metni) | Ortak Mutabakat Metni is a Turkish phrase that translates to "Joint Agreement Text" in English. It is a document that outlines the terms of an agreement between two or more parties. It typically includes details such as the scope of the agreement, responsibilities of each party, and any other relevant information. |
-| 8 | [5 GB](http://twitter.com/search?q=5+GB) | 5 GB stands for 5 Gigabytes, which is a unit of digital storage. It is equivalent to 5,000 Megabytes and is commonly used to measure the size of files, such as photos, videos, and music. |
-| 9 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
-| 10 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 11 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 12 | [Ali Palabıyık](http://twitter.com/search?q=Ali+Palab%c4%b1y%c4%b1k) | N/A |
-| 13 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 14 | [Azgın](http://twitter.com/search?q=Azg%c4%b1n) | N/A |
-| 15 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
-| 16 | [Prim](http://twitter.com/search?q=Prim) | N/A |
-| 17 | [Kadir İstekli](http://twitter.com/search?q=Kadir+%c4%b0stekli) | N/A |
-| 18 | [Sevgilim](http://twitter.com/search?q=Sevgilim) | N/A |
-| 19 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
-| 20 | [Saat 11](http://twitter.com/search?q=Saat+11) | N/A |
-| 21 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | N/A |
-| 22 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
-| 23 | [Yusuf Ziya Gümüşel](http://twitter.com/search?q=Yusuf+Ziya+G%c3%bcm%c3%bc%c5%9fel) | N/A |
-| 24 | [H.K.G](http://twitter.com/search?q=H.K.G) | N/A |
-| 25 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
-| 26 | [Tiplere](http://twitter.com/search?q=Tiplere) | N/A |
-| 27 | [Şuraya](http://twitter.com/search?q=%c5%9euraya) | N/A |
-| 28 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 29 | [Cumhurbaşkanlığı](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 30 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
-| 31 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
-| 32 | [Dönmez](http://twitter.com/search?q=D%c3%b6nmez) | N/A |
-| 33 | [Meclis'e](http://twitter.com/search?q=Meclis%27e) | N/A |
-| 34 | [Tavuk](http://twitter.com/search?q=Tavuk) | N/A |
-| 35 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
-| 36 | [Dava](http://twitter.com/search?q=Dava) | N/A |
-| 37 | [#KocaAtamaSözünüTut](http://twitter.com/search?q=%23KocaAtamaS%c3%b6z%c3%bcn%c3%bcTut) | N/A |
-| 38 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
-| 39 | [#BagkurKapatilsin](http://twitter.com/search?q=%23BagkurKapatilsin) | N/A |
-| 40 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 41 | [#Son105Gün](http://twitter.com/search?q=%23Son105G%c3%bcn) | N/A |
-| 42 | [#Netleşiyor](http://twitter.com/search?q=%23Netle%c5%9fiyor) | N/A |
-| 43 | [#EnginAkyürek](http://twitter.com/search?q=%23EnginAky%c3%bcrek) | N/A |
-| 44 | [#2000sonrasiADELET](http://twitter.com/search?q=%232000sonrasiADELET) | N/A |
+| 8 | [Uyuyorlar](http://twitter.com/search?q=Uyuyorlar) | Uyuyorlar is a Turkish phrase that translates to "they are sleeping" in English. |
+| 9 | [5 GB](http://twitter.com/search?q=5+GB) | 5 GB stands for 5 Gigabytes, which is a unit of digital storage. It is equivalent to 5,000 Megabytes and is commonly used to measure the size of files, such as photos, videos, and music. |
+| 10 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 11 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
+| 12 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
+| 13 | [#KocaAtamaSözünüTut](http://twitter.com/search?q=%23KocaAtamaS%c3%b6z%c3%bcn%c3%bcTut) | N/A |
+| 14 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
+| 15 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
+| 16 | [Ümit Özlale](http://twitter.com/search?q=%c3%9cmit+%c3%96zlale) | N/A |
+| 17 | [Çankaya Köşkü'ne](http://twitter.com/search?q=%c3%87ankaya+K%c3%b6%c5%9fk%c3%bc%27ne) | N/A |
+| 18 | [Ali Palabıyık](http://twitter.com/search?q=Ali+Palab%c4%b1y%c4%b1k) | N/A |
+| 19 | [Kadir İstekli](http://twitter.com/search?q=Kadir+%c4%b0stekli) | N/A |
+| 20 | [Sevgilim](http://twitter.com/search?q=Sevgilim) | N/A |
+| 21 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
+| 22 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
+| 23 | [Azgın](http://twitter.com/search?q=Azg%c4%b1n) | N/A |
+| 24 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 25 | [H.K.G.](http://twitter.com/search?q=H.K.G.) | N/A |
+| 26 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 27 | [Tiplere](http://twitter.com/search?q=Tiplere) | N/A |
+| 28 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
+| 29 | [SEÇTİK YİNE SEÇECEĞİZ](http://twitter.com/search?q=SE%c3%87T%c4%b0K+Y%c4%b0NE+SE%c3%87ECE%c4%9e%c4%b0Z) | N/A |
+| 30 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | N/A |
+| 31 | [Tavuk](http://twitter.com/search?q=Tavuk) | N/A |
+| 32 | [Şuraya](http://twitter.com/search?q=%c5%9euraya) | N/A |
+| 33 | [dönmez](http://twitter.com/search?q=d%c3%b6nmez) | N/A |
+| 34 | [Cumhurbaşkanlığı](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 35 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
+| 36 | [Meclis'e](http://twitter.com/search?q=Meclis%27e) | N/A |
+| 37 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
+| 38 | [Dava](http://twitter.com/search?q=Dava) | N/A |
+| 39 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 40 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
+| 41 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 42 | [#BagkurKapatilsin](http://twitter.com/search?q=%23BagkurKapatilsin) | N/A |
+| 43 | [#Son105Gün](http://twitter.com/search?q=%23Son105G%c3%bcn) | N/A |
+| 44 | [#TarikatveCemaatlerKapatılsın](http://twitter.com/search?q=%23TarikatveCemaatlerKapat%c4%b1ls%c4%b1n) | N/A |
 | 45 | [#Pakistan](http://twitter.com/search?q=%23Pakistan) | N/A |
-| 46 | [#GSBYurtlarıKampta](http://twitter.com/search?q=%23GSBYurtlar%c4%b1Kampta) | N/A |
-| 47 | [#MelekMızrakSubası](http://twitter.com/search?q=%23MelekM%c4%b1zrakSubas%c4%b1) | N/A |
-| 48 | [#LaleOrtaFenerGol](http://twitter.com/search?q=%23LaleOrtaFenerGol) | N/A |
-| 49 | [#mutluhaftalar](http://twitter.com/search?q=%23mutluhaftalar) | N/A |
-| 50 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
+| 46 | [#Netleşiyor](http://twitter.com/search?q=%23Netle%c5%9fiyor) | N/A |
+| 47 | [#2000sonrasiADELET](http://twitter.com/search?q=%232000sonrasiADELET) | N/A |
+| 48 | [#EnginAkyürek](http://twitter.com/search?q=%23EnginAky%c3%bcrek) | N/A |
+| 49 | [#galatasaraybilet](http://twitter.com/search?q=%23galatasaraybilet) | N/A |
+| 50 | [#GSBYurtlarıKampta](http://twitter.com/search?q=%23GSBYurtlar%c4%b1Kampta) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-01-30 12:17:47 UTC`
+📆 Last Updated: `2023-01-30 13:21:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,20 +16,20 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
+| 2 | [esland](http://twitter.com/search?q=esland) | N/A |
 | 3 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 4 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 5 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
 | 6 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
 | 7 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 | 8 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 9 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 10 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 9 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 10 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
 | 11 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 12 | [Zury](http://twitter.com/search?q=Zury) | N/A |
-| 13 | [malacateco](http://twitter.com/search?q=malacateco) | N/A |
-| 14 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 15 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
+| 12 | [malacateco](http://twitter.com/search?q=malacateco) | N/A |
+| 13 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 14 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 15 | [Zury](http://twitter.com/search?q=Zury) | N/A |
 | 16 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
 | 17 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
 | 18 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
@@ -45,26 +45,26 @@ This is top 50 for Guatemala
 | 28 | [QUACKITY](http://twitter.com/search?q=QUACKITY) | N/A |
 | 29 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
 | 30 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
-| 31 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 32 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 31 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 32 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 33 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 34 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
 | 35 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 36 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 37 | [Santa Lucía](http://twitter.com/search?q=Santa+Luc%c3%ada) | N/A |
-| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [alberto gonzález](http://twitter.com/search?q=alberto+gonz%c3%a1lez) | N/A |
+| 36 | [Santa Lucía](http://twitter.com/search?q=Santa+Luc%c3%ada) | N/A |
+| 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 39 | [alberto gonzález](http://twitter.com/search?q=alberto+gonz%c3%a1lez) | N/A |
+| 40 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
 | 41 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 42 | [pirulo](http://twitter.com/search?q=pirulo) | N/A |
-| 43 | [anapau](http://twitter.com/search?q=anapau) | N/A |
-| 44 | [El Madrid](http://twitter.com/search?q=El+Madrid) | El Madrid is a nickname for the Spanish football team Real Madrid. It is derived from the city of Madrid, where the team is based. In English, it translates to "The Madrid". |
-| 45 | [guardia de honor](http://twitter.com/search?q=guardia+de+honor) | N/A |
-| 46 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 42 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
+| 43 | [Anapau](http://twitter.com/search?q=Anapau) | N/A |
+| 44 | [guardia de honor](http://twitter.com/search?q=guardia+de+honor) | N/A |
+| 45 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 46 | [Ánimo](http://twitter.com/search?q=%c3%81nimo) | N/A |
 | 47 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 48 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 49 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 50 | [Liga Nacional](http://twitter.com/search?q=Liga+Nacional) | N/A |
+| 48 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 49 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 50 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 
 
 
