@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-01-30 19:15:26 UTC`
+📆 Last Updated: `2023-01-30 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 2 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 5 | [#Luzern](http://twitter.com/search?q=%23Luzern) | N/A |
-| 6 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 1 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
+| 4 | [#Luzern](http://twitter.com/search?q=%23Luzern) | N/A |
+| 5 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 6 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 7 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 8 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 9 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
-| 10 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 8 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 9 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 10 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
 | 11 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 12 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 13 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 14 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 15 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 16 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 12 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 13 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 14 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 15 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 16 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 17 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 18 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 19 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 21 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 22 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 23 | [Langnau](http://twitter.com/search?q=Langnau) | N/A |
-| 24 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 26 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 27 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 28 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 29 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 30 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 31 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 32 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
-| 33 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 34 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 35 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 36 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 37 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 38 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
-| 39 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 40 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
-| 43 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 44 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
-| 45 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
-| 46 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
-| 47 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 48 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 49 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 18 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 19 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 20 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 21 | [langnau](http://twitter.com/search?q=langnau) | N/A |
+| 22 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 23 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 24 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 25 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 26 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 27 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 28 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 29 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 30 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 31 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 32 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 33 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 34 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 35 | [Staaten](http://twitter.com/search?q=Staaten) | N/A |
+| 36 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 37 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
+| 38 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 40 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
+| 41 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 42 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 43 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 44 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 47 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 48 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
+| 49 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
 | 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 
 

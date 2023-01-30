@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-01-30 19:15:16 UTC`
+📆 Last Updated: `2023-01-30 20:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,39 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MessiEnUrbanaPlay](http://twitter.com/search?q=%23MessiEnUrbanaPlay) | N/A |
-| 2 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 3 | [agustin](http://twitter.com/search?q=agustin) | Agustin is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustin is usually translated as "Augustine". |
-| 4 | [Jones Huala](http://twitter.com/search?q=Jones+Huala) | Jones Huala is a phrase from the Hawaiian language meaning "to be strong and brave". It is often used as a mantra to encourage and motivate people to stay strong and brave in the face of adversity. |
-| 5 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 6 | [#GHArgentina](http://twitter.com/search?q=%23GHArgentina) | N/A |
-| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 8 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 9 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 10 | [#MasDeLoMismo](http://twitter.com/search?q=%23MasDeLoMismo) | N/A |
-| 11 | [Mi 2023](http://twitter.com/search?q=Mi+2023) | Mi 2023 is a Chinese term that refers to the year 2023. It literally translates to "the year of 2023" in English. |
-| 12 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 13 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 14 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 15 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 16 | [El Bolsón](http://twitter.com/search?q=El+Bols%c3%b3n) | N/A |
-| 17 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
-| 18 | [Murió GH](http://twitter.com/search?q=Muri%c3%b3+GH) | Murió GH is a Spanish phrase that translates to "GH died." It is often used as an expression of sadness or mourning for someone who has passed away. |
-| 19 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 21 | [vamos boca](http://twitter.com/search?q=vamos+boca) | N/A |
-| 22 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
-| 23 | [Pablo Moyano](http://twitter.com/search?q=Pablo+Moyano) | N/A |
-| 24 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 25 | [Ganó Boca](http://twitter.com/search?q=Gan%c3%b3+Boca) | N/A |
-| 26 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 27 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 28 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 29 | [Marabel](http://twitter.com/search?q=Marabel) | N/A |
-| 30 | [Máximo Kirchner](http://twitter.com/search?q=M%c3%a1ximo+Kirchner) | N/A |
-| 31 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 32 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 33 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 34 | [Zapelli](http://twitter.com/search?q=Zapelli) | N/A |
-| 35 | [Pepin](http://twitter.com/search?q=Pepin) | N/A |
-| 36 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 37 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 38 | [Reniero](http://twitter.com/search?q=Reniero) | N/A |
-| 39 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
-| 40 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 41 | [Mapuche](http://twitter.com/search?q=Mapuche) | N/A |
-| 42 | [Fertoli](http://twitter.com/search?q=Fertoli) | N/A |
-| 43 | [carre](http://twitter.com/search?q=carre) | N/A |
-| 44 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
-| 45 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 46 | [Schweinsteiger](http://twitter.com/search?q=Schweinsteiger) | N/A |
-| 47 | [Sordo](http://twitter.com/search?q=Sordo) | N/A |
-| 48 | [Fefe](http://twitter.com/search?q=Fefe) | N/A |
-| 49 | [Ruggeri](http://twitter.com/search?q=Ruggeri) | N/A |
-| 50 | [mucha fuerza primo](http://twitter.com/search?q=mucha+fuerza+primo) | N/A |
+| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [Jones Huala](http://twitter.com/search?q=Jones+Huala) | Jones Huala is a phrase from the Hawaiian language meaning "to be strong and brave". It is often used as a mantra to encourage and motivate people to stay strong and brave in the face of adversity. |
+| 3 | [#MasDeLoMismo](http://twitter.com/search?q=%23MasDeLoMismo) | N/A |
+| 4 | [Mi 2023](http://twitter.com/search?q=Mi+2023) | Mi 2023 is a Chinese term that refers to the year 2023. It literally translates to "the year of 2023" in English. |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
+| 7 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 8 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
+| 9 | [Ruggeri](http://twitter.com/search?q=Ruggeri) | N/A |
+| 10 | [Pablo Moyano](http://twitter.com/search?q=Pablo+Moyano) | N/A |
+| 11 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 12 | [El Bolsón](http://twitter.com/search?q=El+Bols%c3%b3n) | N/A |
+| 13 | [Schweinsteiger](http://twitter.com/search?q=Schweinsteiger) | N/A |
+| 14 | [Pepín](http://twitter.com/search?q=Pep%c3%adn) | N/A |
+| 15 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 16 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
+| 17 | [Lago Escondido](http://twitter.com/search?q=Lago+Escondido) | N/A |
+| 18 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 20 | [Mapuche](http://twitter.com/search?q=Mapuche) | N/A |
+| 21 | [#perrosdelacalle](http://twitter.com/search?q=%23perrosdelacalle) | N/A |
+| 22 | [Río Negro](http://twitter.com/search?q=R%c3%ado+Negro) | N/A |
+| 23 | [Trabajadores](http://twitter.com/search?q=Trabajadores) | N/A |
+| 24 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 25 | [Frente de Todos](http://twitter.com/search?q=Frente+de+Todos) | N/A |
+| 26 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 27 | [Rial](http://twitter.com/search?q=Rial) | N/A |
+| 28 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 29 | [Stanley](http://twitter.com/search?q=Stanley) | N/A |
+| 30 | [Insua](http://twitter.com/search?q=Insua) | N/A |
+| 31 | [Verón](http://twitter.com/search?q=Ver%c3%b3n) | N/A |
+| 32 | [#CFK2023](http://twitter.com/search?q=%23CFK2023) | N/A |
+| 33 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
 
 
 

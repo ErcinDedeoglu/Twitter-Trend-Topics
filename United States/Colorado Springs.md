@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-01-30 19:15:46 UTC`
+📆 Last Updated: `2023-01-30 20:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 2 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
-| 3 | [#TSErasCollection](http://twitter.com/search?q=%23TSErasCollection) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [DeSantis](http://twitter.com/search?q=DeSantis) | N/A |
-| 6 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
-| 7 | [John Adams](http://twitter.com/search?q=John+Adams) | John Adams is the second President of the United States, serving from 1797 to 1801. He was a leader of the American Revolution and a major figure in the early history of the United States. The phrase "John Adams" is often used to refer to his legacy as a Founding Father of the United States. |
-| 8 | [#JDGiveaway](http://twitter.com/search?q=%23JDGiveaway) | N/A |
-| 9 | [#YIAYright](http://twitter.com/search?q=%23YIAYright) | N/A |
-| 10 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
-| 11 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | Gene Hackman is the stage name of Eugene Allen Hackman, an American actor, director, and novelist. He is known for his roles in films such as The French Connection, Unforgiven, The Royal Tenenbaums, and The Birdcage. He has won two Academy Awards for Best Actor and Best Supporting Actor. |
-| 12 | [BJ Hill](http://twitter.com/search?q=BJ+Hill) | BJ Hill is an acronym for "Big Joke Hill," which is a term used to describe a situation that is so ridiculous or absurd that it's funny. It can also be used to describe someone who is making a joke out of something serious. |
-| 13 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 14 | [Epoch Times](http://twitter.com/search?q=Epoch+Times) | N/A |
-| 15 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 16 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 17 | [Atrioc](http://twitter.com/search?q=Atrioc) | N/A |
-| 18 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 19 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
-| 20 | [Piccolo](http://twitter.com/search?q=Piccolo) | Piccolo is an Italian word meaning "small" or "little". It is often used to describe a small musical instrument, such as a flute or a trumpet. It can also be used to describe something that is small in size or amount. |
-| 21 | [Kellen Moore](http://twitter.com/search?q=Kellen+Moore) | Kellen Moore is an American football quarterback who is currently a free agent. He played college football at Boise State University and was signed by the Detroit Lions as an undrafted free agent in 2012. He has also been a member of the Dallas Cowboys, Miami Dolphins, and Arizona Cardinals. |
-| 22 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 23 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 24 | [The Golden Jet](http://twitter.com/search?q=The+Golden+Jet) | The Golden Jet is a nickname for the legendary hockey player Bobby Hull. He was known for his blazing speed and powerful slap shot, earning him the nickname "The Golden Jet." |
-| 25 | [Preston Hemphill](http://twitter.com/search?q=Preston+Hemphill) | N/A |
-| 26 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
-| 27 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 28 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 29 | [Jaafar Jackson](http://twitter.com/search?q=Jaafar+Jackson) | Jaafar Jackson is the name of a popular American singer and songwriter. He is the youngest son of the late pop star Michael Jackson. The name Jaafar is derived from Arabic and means "small river". |
-| 30 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 31 | [Louis CK](http://twitter.com/search?q=Louis+CK) | N/A |
-| 32 | [Yeti](http://twitter.com/search?q=Yeti) | N/A |
-| 33 | [Cardinal Stadium](http://twitter.com/search?q=Cardinal+Stadium) | N/A |
-| 34 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
-| 35 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
-| 36 | [Android 18](http://twitter.com/search?q=Android+18) | N/A |
-| 37 | [Pyer Moss](http://twitter.com/search?q=Pyer+Moss) | N/A |
-| 38 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
-| 39 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 40 | [Darren O'Day](http://twitter.com/search?q=Darren+O%27Day) | N/A |
-| 41 | [The Conversation](http://twitter.com/search?q=The+Conversation) | N/A |
-| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 2 | [#TSErasCollection](http://twitter.com/search?q=%23TSErasCollection) | N/A |
+| 3 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
+| 4 | [DeSantis](http://twitter.com/search?q=DeSantis) | N/A |
+| 5 | [Chandler Parsons](http://twitter.com/search?q=Chandler+Parsons) | Chandler Parsons is an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He is known for his ability to shoot from long range and his versatility as a forward. |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [#EasytoEnjoy](http://twitter.com/search?q=%23EasytoEnjoy) | #EasytoEnjoy is a hashtag used to promote products, services, or experiences that are easy to enjoy. It is often used to describe activities that require minimal effort and can be enjoyed by anyone. |
+| 8 | [John Adams](http://twitter.com/search?q=John+Adams) | John Adams is the second President of the United States, serving from 1797 to 1801. He was a leader of the American Revolution and a major figure in the early history of the United States. The phrase "John Adams" is often used to refer to his legacy as a Founding Father of the United States. |
+| 9 | [Atrioc](http://twitter.com/search?q=Atrioc) | N/A |
+| 10 | [#JDGiveaway](http://twitter.com/search?q=%23JDGiveaway) | N/A |
+| 11 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 12 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 13 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | Gene Hackman is the stage name of Eugene Allen Hackman, an American actor, director, and novelist. He is known for his roles in films such as The French Connection, Unforgiven, The Royal Tenenbaums, and The Birdcage. He has won two Academy Awards for Best Actor and Best Supporting Actor. |
+| 14 | [BJ Hill](http://twitter.com/search?q=BJ+Hill) | BJ Hill is an acronym for "Big Joke Hill," which is a term used to describe a situation that is so ridiculous or absurd that it's funny. It can also be used to describe someone who is making a joke out of something serious. |
+| 15 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
+| 16 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 17 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 18 | [Pyer Moss](http://twitter.com/search?q=Pyer+Moss) | N/A |
+| 19 | [Preston Hemphill](http://twitter.com/search?q=Preston+Hemphill) | N/A |
+| 20 | [Louis CK](http://twitter.com/search?q=Louis+CK) | N/A |
+| 21 | [Piccolo](http://twitter.com/search?q=Piccolo) | Piccolo is an Italian word meaning "small" or "little". It is often used to describe a small musical instrument, such as a flute or a trumpet. It can also be used to describe something that is small in size or amount. |
+| 22 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
+| 23 | [Epoch Times](http://twitter.com/search?q=Epoch+Times) | N/A |
+| 24 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 25 | [Yeti](http://twitter.com/search?q=Yeti) | N/A |
+| 26 | [TD Jakes](http://twitter.com/search?q=TD+Jakes) | N/A |
+| 27 | [Kellen Moore](http://twitter.com/search?q=Kellen+Moore) | Kellen Moore is an American football quarterback who is currently a free agent. He played college football at Boise State University and was signed by the Detroit Lions as an undrafted free agent in 2012. He has also been a member of the Dallas Cowboys, Miami Dolphins, and Arizona Cardinals. |
+| 28 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
+| 29 | [Cardinal Stadium](http://twitter.com/search?q=Cardinal+Stadium) | N/A |
+| 30 | [Hummer](http://twitter.com/search?q=Hummer) | N/A |
+| 31 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
+| 32 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 34 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 35 | [Matt Barnes](http://twitter.com/search?q=Matt+Barnes) | N/A |
+| 36 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
+| 37 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 38 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 39 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 40 | [Jaafar Jackson](http://twitter.com/search?q=Jaafar+Jackson) | Jaafar Jackson is the name of a popular American singer and songwriter. He is the youngest son of the late pop star Michael Jackson. The name Jaafar is derived from Arabic and means "small river". |
+| 41 | [The Golden Jet](http://twitter.com/search?q=The+Golden+Jet) | The Golden Jet is a nickname for the legendary hockey player Bobby Hull. He was known for his blazing speed and powerful slap shot, earning him the nickname "The Golden Jet." |
+| 42 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | N/A |
 | 43 | [Rhapsody](http://twitter.com/search?q=Rhapsody) | N/A |
-| 44 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 45 | [TwitchCon](http://twitter.com/search?q=TwitchCon) | N/A |
-| 46 | [Team Extreme](http://twitter.com/search?q=Team+Extreme) | N/A |
-| 47 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 44 | [The Conversation](http://twitter.com/search?q=The+Conversation) | N/A |
+| 45 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
+| 46 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 47 | [Android 18](http://twitter.com/search?q=Android+18) | N/A |
 
 
 

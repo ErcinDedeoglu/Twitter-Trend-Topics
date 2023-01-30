@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-01-30 19:15:16 UTC`
+📆 Last Updated: `2023-01-30 20:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [Chile](</Chile>)
 | 13 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
 | 14 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
 | 15 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 16 | [Moya](http://twitter.com/search?q=Moya) | N/A |
-| 17 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
-| 18 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 19 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 20 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
-| 21 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 23 | [Donoso](http://twitter.com/search?q=Donoso) | N/A |
-| 24 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 25 | [Facundo Jones Huala](http://twitter.com/search?q=Facundo+Jones+Huala) | N/A |
-| 26 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 27 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 28 | [ramiro gonzalez](http://twitter.com/search?q=ramiro+gonzalez) | N/A |
-| 29 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 30 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 31 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 32 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
-| 33 | [gastón salgado](http://twitter.com/search?q=gast%c3%b3n+salgado) | N/A |
+| 16 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
+| 17 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 18 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
+| 19 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 20 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
+| 21 | [Donoso](http://twitter.com/search?q=Donoso) | N/A |
+| 22 | [Sofía](http://twitter.com/search?q=Sof%c3%ada) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 25 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 26 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 27 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
+| 28 | [Facundo Jones Huala](http://twitter.com/search?q=Facundo+Jones+Huala) | N/A |
+| 29 | [Ramiro González](http://twitter.com/search?q=Ramiro+Gonz%c3%a1lez) | Ramiro González is a Spanish name. It is composed of two parts: Ramiro, which is a Spanish given name derived from the Germanic name Raginmar, meaning "famous judgment"; and González, which is a Spanish surname derived from the Latin word Gundisalvus, meaning "battle-ready". In English, the name would be translated as "Famous Judgment Battle-Ready". |
+| 30 | [gastón salgado](http://twitter.com/search?q=gast%c3%b3n+salgado) | N/A |
+| 31 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 32 | [Héctor Noguera](http://twitter.com/search?q=H%c3%a9ctor+Noguera) | N/A |
+| 33 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
 | 34 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 35 | [Amparo Noguera](http://twitter.com/search?q=Amparo+Noguera) | N/A |
-| 36 | [Sofía](http://twitter.com/search?q=Sof%c3%ada) | N/A |
+| 35 | [Moya](http://twitter.com/search?q=Moya) | N/A |
+| 36 | [Transbank](http://twitter.com/search?q=Transbank) | N/A |
 | 37 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
-| 38 | [tito noguera](http://twitter.com/search?q=tito+noguera) | N/A |
-| 39 | [Héctor Noguera](http://twitter.com/search?q=H%c3%a9ctor+Noguera) | N/A |
+| 38 | [Marie Kondo](http://twitter.com/search?q=Marie+Kondo) | N/A |
+| 39 | [Amparo Noguera](http://twitter.com/search?q=Amparo+Noguera) | N/A |
 | 40 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
 | 41 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 42 | [Marie Kondo](http://twitter.com/search?q=Marie+Kondo) | N/A |
-| 43 | [Transbank](http://twitter.com/search?q=Transbank) | N/A |
-| 44 | [Mon Laferte](http://twitter.com/search?q=Mon+Laferte) | Mon Laferte is the stage name of Chilean singer-songwriter and actress, María Luisa Landaeta. The name translates to "My Lighthouse" in English, which reflects her desire to be a beacon of hope for her fans. |
-| 45 | [Desinformación](http://twitter.com/search?q=Desinformaci%c3%b3n) | N/A |
-| 46 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 47 | [Jordhy](http://twitter.com/search?q=Jordhy) | N/A |
-| 48 | [carre](http://twitter.com/search?q=carre) | N/A |
-| 49 | [Pablo Zuñiga](http://twitter.com/search?q=Pablo+Zu%c3%b1iga) | Pablo Zuñiga is a Spanish surname. In English, it means "son of Zuñiga". |
-| 50 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 42 | [Mon Laferte](http://twitter.com/search?q=Mon+Laferte) | Mon Laferte is the stage name of Chilean singer-songwriter and actress, María Luisa Landaeta. The name translates to "My Lighthouse" in English, which reflects her desire to be a beacon of hope for her fans. |
+| 43 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 44 | [Jordhy](http://twitter.com/search?q=Jordhy) | N/A |
+| 45 | [Pablo Zuñiga](http://twitter.com/search?q=Pablo+Zu%c3%b1iga) | Pablo Zuñiga is a Spanish surname. In English, it means "son of Zuñiga". |
+| 46 | [Desinformación](http://twitter.com/search?q=Desinformaci%c3%b3n) | N/A |
+| 47 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 48 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 49 | [Mario Marcel](http://twitter.com/search?q=Mario+Marcel) | N/A |
+| 50 | [Plaza de Maipú](http://twitter.com/search?q=Plaza+de+Maip%c3%ba) | N/A |
 
 
 
