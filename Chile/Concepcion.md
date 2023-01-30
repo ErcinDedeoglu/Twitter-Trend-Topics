@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-01-30 08:16:11 UTC`
+📆 Last Updated: `2023-01-30 09:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,11 +24,11 @@ This is top 50 for [Chile](</Chile>)
 | 7 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
 | 8 | [#rrumblecl](http://twitter.com/search?q=%23rrumblecl) | N/A |
 | 9 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 10 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 11 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 10 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 11 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 12 | [Plaza Egaña](http://twitter.com/search?q=Plaza+Ega%c3%b1a) | N/A |
-| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 13 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 14 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 15 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
 | 16 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
 | 17 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
@@ -37,33 +37,33 @@ This is top 50 for [Chile](</Chile>)
 | 20 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 21 | [ramiro gonzalez](http://twitter.com/search?q=ramiro+gonzalez) | N/A |
 | 22 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 23 | [brito](http://twitter.com/search?q=brito) | N/A |
-| 24 | [Moya](http://twitter.com/search?q=Moya) | N/A |
-| 25 | [donoso](http://twitter.com/search?q=donoso) | N/A |
-| 26 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 27 | [pablo zuñiga](http://twitter.com/search?q=pablo+zu%c3%b1iga) | N/A |
-| 28 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 29 | [abajo el comunismo](http://twitter.com/search?q=abajo+el+comunismo) | N/A |
-| 30 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 31 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 32 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 33 | [Milad](http://twitter.com/search?q=Milad) | N/A |
-| 34 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 35 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
-| 36 | [Héctor Noguera](http://twitter.com/search?q=H%c3%a9ctor+Noguera) | N/A |
-| 37 | [ormazábal](http://twitter.com/search?q=ormaz%c3%a1bal) | N/A |
-| 38 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 39 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
-| 40 | [bolados](http://twitter.com/search?q=bolados) | N/A |
-| 41 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 42 | [Opazo](http://twitter.com/search?q=Opazo) | N/A |
-| 43 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 44 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 45 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
-| 46 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 47 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 48 | [Gastón Salgado](http://twitter.com/search?q=Gast%c3%b3n+Salgado) | N/A |
-| 49 | [Amparo Noguera](http://twitter.com/search?q=Amparo+Noguera) | N/A |
+| 23 | [Moya](http://twitter.com/search?q=Moya) | N/A |
+| 24 | [donoso](http://twitter.com/search?q=donoso) | N/A |
+| 25 | [pablo zuñiga](http://twitter.com/search?q=pablo+zu%c3%b1iga) | N/A |
+| 26 | [abajo el comunismo](http://twitter.com/search?q=abajo+el+comunismo) | N/A |
+| 27 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 28 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 29 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 30 | [pailita](http://twitter.com/search?q=pailita) | N/A |
+| 31 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 32 | [Milad](http://twitter.com/search?q=Milad) | N/A |
+| 33 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 34 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 35 | [Héctor Noguera](http://twitter.com/search?q=H%c3%a9ctor+Noguera) | N/A |
+| 36 | [ormazábal](http://twitter.com/search?q=ormaz%c3%a1bal) | N/A |
+| 37 | [bolados](http://twitter.com/search?q=bolados) | N/A |
+| 38 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
+| 39 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 40 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 41 | [opazo](http://twitter.com/search?q=opazo) | N/A |
+| 42 | [peluca](http://twitter.com/search?q=peluca) | N/A |
+| 43 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 44 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 45 | [LUCERO](http://twitter.com/search?q=LUCERO) | N/A |
+| 46 | [Gastón Salgado](http://twitter.com/search?q=Gast%c3%b3n+Salgado) | N/A |
+| 47 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 48 | [Amparo Noguera](http://twitter.com/search?q=Amparo+Noguera) | N/A |
+| 49 | [Tito Noguera](http://twitter.com/search?q=Tito+Noguera) | N/A |
 | 50 | [bruno gutiérrez](http://twitter.com/search?q=bruno+guti%c3%a9rrez) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-01-30 08:16:13 UTC`
+📆 Last Updated: `2023-01-30 09:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,40 +21,33 @@ This is top 50 for [Brazil](</Brazil>)
 | 4 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 5 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
 | 6 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 7 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 8 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 9 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 10 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 12 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
-| 13 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 14 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 15 | [O Bill](http://twitter.com/search?q=O+Bill) | N/A |
-| 16 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 17 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 18 | [Episódio](http://twitter.com/search?q=Epis%c3%b3dio) | N/A |
-| 19 | [Ep 3](http://twitter.com/search?q=Ep+3) | N/A |
-| 20 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 21 | [Neil Druckmann](http://twitter.com/search?q=Neil+Druckmann) | N/A |
-| 22 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 7 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 8 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
+| 9 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 10 | [Se o Gabriel](http://twitter.com/search?q=Se+o+Gabriel) | Se o Gabriel is a Portuguese phrase that translates to "If Gabriel". It is typically used as a rhetorical question to express surprise or disbelief. |
+| 11 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 12 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 13 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
+| 14 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 15 | [TCHAU GABRIEL](http://twitter.com/search?q=TCHAU+GABRIEL) | N/A |
+| 16 | [O Bill](http://twitter.com/search?q=O+Bill) | N/A |
+| 17 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
+| 18 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 19 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 20 | [Neil Druckmann](http://twitter.com/search?q=Neil+Druckmann) | N/A |
+| 21 | [Olodum](http://twitter.com/search?q=Olodum) | N/A |
+| 22 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
 | 23 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 24 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
-| 25 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
-| 26 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 27 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
-| 28 | [Olodum](http://twitter.com/search?q=Olodum) | N/A |
-| 29 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 30 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
-| 31 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 32 | [#Yanomami](http://twitter.com/search?q=%23Yanomami) | N/A |
-| 33 | [Cubriel](http://twitter.com/search?q=Cubriel) | N/A |
-| 34 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 36 | [Luísa Sonza](http://twitter.com/search?q=Lu%c3%adsa+Sonza) | N/A |
-| 37 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
-| 38 | [Dourado](http://twitter.com/search?q=Dourado) | N/A |
-| 39 | [#FestivalDeVerao](http://twitter.com/search?q=%23FestivalDeVerao) | N/A |
-| 40 | [#BolsonaroGenocida](http://twitter.com/search?q=%23BolsonaroGenocida) | N/A |
+| 24 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 25 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 26 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 27 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
+| 28 | [#FestivalDeVerao](http://twitter.com/search?q=%23FestivalDeVerao) | N/A |
+| 29 | [Cubriel](http://twitter.com/search?q=Cubriel) | N/A |
+| 30 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 31 | [Luísa Sonza](http://twitter.com/search?q=Lu%c3%adsa+Sonza) | N/A |
+| 32 | [Joe Burrow](http://twitter.com/search?q=Joe+Burrow) | Joe Burrow is an American football quarterback who currently plays for the Cincinnati Bengals of the National Football League (NFL). He played college football at Louisiana State University (LSU), where he won the Heisman Trophy, Maxwell Award, and Walter Camp Award in 2019. The name "Joe Burrow" is derived from his given name, Joseph Lee Burrow. |
+| 33 | [#BolsonaroGenocida](http://twitter.com/search?q=%23BolsonaroGenocida) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-01-30 08:16:48 UTC`
+📆 Last Updated: `2023-01-30 09:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,22 +23,20 @@ This is top 50 for Latvia
 | 6 | [#tonsilstones](http://twitter.com/search?q=%23tonsilstones) | N/A |
 | 7 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
 | 8 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
-| 9 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
-| 10 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 9 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 10 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
 | 11 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 12 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 13 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
-| 14 | [Ukrainai](http://twitter.com/search?q=Ukrainai) | N/A |
-| 15 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 16 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 17 | [bija](http://twitter.com/search?q=bija) | N/A |
-| 18 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
-| 19 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 13 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 14 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 15 | [bija](http://twitter.com/search?q=bija) | N/A |
+| 16 | [Ukrainā](http://twitter.com/search?q=Ukrain%c4%81) | N/A |
+| 17 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 18 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 19 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 20 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
-| 21 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 22 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 23 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 24 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
+| 21 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 22 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
 
 
 

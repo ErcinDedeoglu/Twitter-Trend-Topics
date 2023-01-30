@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-01-30 08:16:46 UTC`
+📆 Last Updated: `2023-01-30 09:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#ALaCalle15F](http://twitter.com/search?q=%23ALaCalle15F) | N/A |
+| 1 | [#ALaCalle15F](http://twitter.com/search?q=%23ALaCalle15F) | N/A |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 3 | [Leo Castro](http://twitter.com/search?q=Leo+Castro) | N/A |
-| 4 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 5 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 4 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
+| 5 | [millonarios](http://twitter.com/search?q=millonarios) | N/A |
 | 6 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 7 | [Vanegas](http://twitter.com/search?q=Vanegas) | N/A |
-| 8 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 9 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
-| 10 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 11 | [Fedegan](http://twitter.com/search?q=Fedegan) | N/A |
-| 12 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 13 | [Ever Valencia](http://twitter.com/search?q=Ever+Valencia) | N/A |
+| 7 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 8 | [Berdugo](http://twitter.com/search?q=Berdugo) | N/A |
+| 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 10 | [Fedegan](http://twitter.com/search?q=Fedegan) | N/A |
+| 11 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 12 | [ever valencia](http://twitter.com/search?q=ever+valencia) | N/A |
+| 13 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 14 | [Belizza Ruiz](http://twitter.com/search?q=Belizza+Ruiz) | N/A |
 | 15 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 16 | [Giraldo](http://twitter.com/search?q=Giraldo) | N/A |
+| 16 | [giraldo](http://twitter.com/search?q=giraldo) | N/A |
 | 17 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 | 18 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
 | 19 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 20 | [#temasdesalud](http://twitter.com/search?q=%23temasdesalud) | N/A |
 | 21 | [Millos](http://twitter.com/search?q=Millos) | N/A |
 | 22 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 23 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 24 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 25 | [#PetroGuerrillero](http://twitter.com/search?q=%23PetroGuerrillero) | N/A |
-| 26 | [goez](http://twitter.com/search?q=goez) | N/A |
-| 27 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 28 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
+| 23 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 24 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 25 | [goez](http://twitter.com/search?q=goez) | N/A |
+| 26 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 27 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 28 | [marmolejo](http://twitter.com/search?q=marmolejo) | N/A |
 | 29 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 30 | [Adolfo Pacheco](http://twitter.com/search?q=Adolfo+Pacheco) | Adolfo Pacheco is a Spanish name. It is derived from the Germanic elements adal, meaning “noble”, and fred, meaning “peace”. The name can be translated to mean “noble peace” in English. |
+| 30 | [adolfo pacheco](http://twitter.com/search?q=adolfo+pacheco) | N/A |
 | 31 | [plan cazador](http://twitter.com/search?q=plan+cazador) | N/A |
-| 32 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
-| 33 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
-| 34 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 32 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
+| 33 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
+| 34 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
 | 35 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
 | 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 37 | [Montero](http://twitter.com/search?q=Montero) | N/A |
 | 38 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 39 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 39 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
 | 40 | [VACAS](http://twitter.com/search?q=VACAS) | N/A |
-| 41 | [lencina](http://twitter.com/search?q=lencina) | N/A |
+| 41 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
 | 42 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 43 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 44 | [Yuber](http://twitter.com/search?q=Yuber) | N/A |
-| 45 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 43 | [lencina](http://twitter.com/search?q=lencina) | N/A |
+| 44 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 45 | [yuber](http://twitter.com/search?q=yuber) | N/A |
 | 46 | [Laura Mora](http://twitter.com/search?q=Laura+Mora) | N/A |
 | 47 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
-| 48 | [Berrío](http://twitter.com/search?q=Berr%c3%ado) | N/A |
-| 49 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 50 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
+| 48 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 49 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
+| 50 | [JAGGER](http://twitter.com/search?q=JAGGER) | N/A |
 
 
 
