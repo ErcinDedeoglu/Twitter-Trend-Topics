@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saint Petersburg
 
-📆 Last Updated: `2023-01-30 20:16:57 UTC`
+📆 Last Updated: `2023-01-30 21:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 2 | [Отношения](http://twitter.com/search?q=%d0%9e%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 3 | [Иран](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd) | N/A |
-| 4 | [pretty coooool](http://twitter.com/search?q=pretty+coooool) | N/A |
-| 5 | [Users](http://twitter.com/search?q=Users) | N/A |
-| 6 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 7 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 8 | [Чонгука](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 9 | [Подмосковье](http://twitter.com/search?q=%d0%9f%d0%be%d0%b4%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
-| 10 | [Спать](http://twitter.com/search?q=%d0%a1%d0%bf%d0%b0%d1%82%d1%8c) | N/A |
-| 11 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 12 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 13 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 14 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 15 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 1 | [Users](http://twitter.com/search?q=Users) | N/A |
+| 2 | [Employ](http://twitter.com/search?q=Employ) | N/A |
+| 3 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
+| 4 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 5 | [Отношения](http://twitter.com/search?q=%d0%9e%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 6 | [Иран](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd) | N/A |
+| 7 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
+| 8 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 9 | [Чонгука](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 10 | [Подмосковье](http://twitter.com/search?q=%d0%9f%d0%be%d0%b4%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
+| 11 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 12 | [Спать](http://twitter.com/search?q=%d0%a1%d0%bf%d0%b0%d1%82%d1%8c) | N/A |
+| 13 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 14 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 15 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 | 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Олега](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3%d0%b0) | N/A |
-| 18 | [Жириновский](http://twitter.com/search?q=%d0%96%d0%b8%d1%80%d0%b8%d0%bd%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
-| 19 | [Желаю](http://twitter.com/search?q=%d0%96%d0%b5%d0%bb%d0%b0%d1%8e) | N/A |
-| 20 | [#DimashQudaibergen](http://twitter.com/search?q=%23DimashQudaibergen) | N/A |
-| 21 | [Неправда](http://twitter.com/search?q=%d0%9d%d0%b5%d0%bf%d1%80%d0%b0%d0%b2%d0%b4%d0%b0) | N/A |
-| 22 | [Чехии](http://twitter.com/search?q=%d0%a7%d0%b5%d1%85%d0%b8%d0%b8) | N/A |
-| 23 | [Добрый](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d1%8b%d0%b9) | N/A |
-| 24 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
-| 25 | [Покажи](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
-| 26 | [Турция](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d1%8f) | N/A |
-| 27 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
-| 28 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
-| 29 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 17 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 18 | [Олега](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3%d0%b0) | N/A |
+| 19 | [Жириновский](http://twitter.com/search?q=%d0%96%d0%b8%d1%80%d0%b8%d0%bd%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
+| 20 | [Желаю](http://twitter.com/search?q=%d0%96%d0%b5%d0%bb%d0%b0%d1%8e) | N/A |
+| 21 | [#DimashQudaibergen](http://twitter.com/search?q=%23DimashQudaibergen) | N/A |
+| 22 | [Неправда](http://twitter.com/search?q=%d0%9d%d0%b5%d0%bf%d1%80%d0%b0%d0%b2%d0%b4%d0%b0) | N/A |
+| 23 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 24 | [Чехии](http://twitter.com/search?q=%d0%a7%d0%b5%d1%85%d0%b8%d0%b8) | N/A |
+| 25 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
+| 26 | [Покажи](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
+| 27 | [Турция](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d1%8f) | N/A |
+| 28 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 29 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 30 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
 | 31 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
-| 32 | [КНДР](http://twitter.com/search?q=%d0%9a%d0%9d%d0%94%d0%a0) | N/A |
+| 32 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
 | 33 | [Яндекс](http://twitter.com/search?q=%d0%af%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
 | 34 | [China](http://twitter.com/search?q=China) | N/A |
 | 35 | [казахстан](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd) | N/A |
-| 36 | [Представляю](http://twitter.com/search?q=%d0%9f%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 37 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 38 | [впервые](http://twitter.com/search?q=%d0%b2%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b5) | N/A |
-| 39 | [#Genshinlmpact](http://twitter.com/search?q=%23Genshinlmpact) | N/A |
-| 40 | [Бабченко](http://twitter.com/search?q=%d0%91%d0%b0%d0%b1%d1%87%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 41 | [альбедо](http://twitter.com/search?q=%d0%b0%d0%bb%d1%8c%d0%b1%d0%b5%d0%b4%d0%be) | N/A |
-| 42 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
-| 43 | [Алексей](http://twitter.com/search?q=%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9) | N/A |
-| 44 | [кавеха](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 45 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
-| 46 | [Пошли](http://twitter.com/search?q=%d0%9f%d0%be%d1%88%d0%bb%d0%b8) | N/A |
-| 47 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [Христа](http://twitter.com/search?q=%d0%a5%d1%80%d0%b8%d1%81%d1%82%d0%b0) | N/A |
+| 36 | [представляю](http://twitter.com/search?q=%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 37 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
+| 38 | [Доброй](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%be%d0%b9) | N/A |
+| 39 | [Лично](http://twitter.com/search?q=%d0%9b%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 40 | [впервые](http://twitter.com/search?q=%d0%b2%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b5) | N/A |
+| 41 | [#Genshinlmpact](http://twitter.com/search?q=%23Genshinlmpact) | N/A |
+| 42 | [Бабченко](http://twitter.com/search?q=%d0%91%d0%b0%d0%b1%d1%87%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 43 | [альбедо](http://twitter.com/search?q=%d0%b0%d0%bb%d1%8c%d0%b1%d0%b5%d0%b4%d0%be) | N/A |
+| 44 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
+| 45 | [Алексей](http://twitter.com/search?q=%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9) | N/A |
+| 46 | [кавеха](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 47 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
+| 48 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 49 | [Пошли](http://twitter.com/search?q=%d0%9f%d0%be%d1%88%d0%bb%d0%b8) | N/A |
 
 
 

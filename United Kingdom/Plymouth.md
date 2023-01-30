@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-01-30 20:16:23 UTC`
+📆 Last Updated: `2023-01-30 21:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [One Show](http://twitter.com/search?q=One+Show) | N/A |
-| 2 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
-| 3 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 4 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 5 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 6 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 7 | [Weston McKennie](http://twitter.com/search?q=Weston+McKennie) | N/A |
-| 8 | [Watmore](http://twitter.com/search?q=Watmore) | N/A |
-| 9 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 10 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 11 | [#Peshawarblast](http://twitter.com/search?q=%23Peshawarblast) | #Peshawarblast is a hashtag used on social media to refer to a suicide bombing that occurred in Peshawar, Pakistan in December 2016. The attack killed at least 25 people and injured over 50. The hashtag is used to spread awareness of the attack and to express solidarity with the victims and their families. |
-| 12 | [Lincolnshire](http://twitter.com/search?q=Lincolnshire) | N/A |
-| 13 | [Llorente](http://twitter.com/search?q=Llorente) | Llorente is a Spanish surname derived from the name of a place in Spain. It is derived from the Latin word Laurentius, which means "from Laurentum". In English, it can be translated to mean "from Laurentum". |
-| 14 | [#FACupDraw](http://twitter.com/search?q=%23FACupDraw) | N/A |
-| 15 | [#JDGiveaway](http://twitter.com/search?q=%23JDGiveaway) | N/A |
-| 16 | [Derby](http://twitter.com/search?q=Derby) | N/A |
-| 17 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 18 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 19 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 20 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
-| 21 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 22 | [Cech](http://twitter.com/search?q=Cech) | N/A |
-| 23 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 1 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 2 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 3 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
+| 4 | [Fleetwood](http://twitter.com/search?q=Fleetwood) | N/A |
+| 5 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 6 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 7 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 8 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 9 | [#gtfc](http://twitter.com/search?q=%23gtfc) | N/A |
+| 10 | [#Transfers](http://twitter.com/search?q=%23Transfers) | N/A |
+| 11 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
+| 12 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 13 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
+| 14 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 15 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 16 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 17 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 18 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 19 | [Fornals](http://twitter.com/search?q=Fornals) | Fornals is a Spanish word meaning "ovens". It is used to refer to the large ovens used for baking bread, cakes, and other baked goods. |
+| 20 | [Downes](http://twitter.com/search?q=Downes) | N/A |
+| 21 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 22 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 23 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
 | 24 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 25 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 28 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 29 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 30 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 31 | [Dinner](http://twitter.com/search?q=Dinner) | N/A |
-| 32 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
-| 33 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 34 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
-| 35 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 37 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 39 | [Sheffield](http://twitter.com/search?q=Sheffield) | N/A |
-| 40 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
-| 41 | [Breakfast](http://twitter.com/search?q=Breakfast) | N/A |
-| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 43 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 44 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 45 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 46 | [Loan](http://twitter.com/search?q=Loan) | N/A |
-| 47 | [British Army](http://twitter.com/search?q=British+Army) | N/A |
-| 48 | [Humphries](http://twitter.com/search?q=Humphries) | N/A |
-| 49 | [#DERWHU](http://twitter.com/search?q=%23DERWHU) | N/A |
+| 25 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 26 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
+| 27 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 28 | [Ballack](http://twitter.com/search?q=Ballack) | Ballack is a German surname derived from the word "ballen," which means "to dance." In English, it can be translated to mean "dancer." |
+| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 30 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 31 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 32 | [Weston McKennie](http://twitter.com/search?q=Weston+McKennie) | N/A |
+| 33 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 34 | [Grimsby](http://twitter.com/search?q=Grimsby) | N/A |
+| 35 | [Bill and Frank](http://twitter.com/search?q=Bill+and+Frank) | N/A |
+| 36 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | N/A |
+| 37 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 38 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 39 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 40 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 41 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
+| 42 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
+| 43 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 44 | [Dinner](http://twitter.com/search?q=Dinner) | N/A |
+| 45 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 46 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [Loan](http://twitter.com/search?q=Loan) | N/A |
+| 49 | [Breakfast](http://twitter.com/search?q=Breakfast) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-01-30 20:17:21 UTC`
+📆 Last Updated: `2023-01-30 21:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Vietnam
 | 8 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
 | 9 | [BTS ARMY FOREVER](http://twitter.com/search?q=BTS+ARMY+FOREVER) | BTS ARMY FOREVER is a slogan used by fans of the South Korean boy band BTS. It is a declaration of loyalty and support for the group, expressing that fans will always be part of the BTS ARMY (the name given to BTS fans). In English, it means that fans will always be devoted and loyal to BTS. |
 | 10 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 11 | [THANK YOU BTS](http://twitter.com/search?q=THANK+YOU+BTS) | N/A |
+| 11 | [thank you bts](http://twitter.com/search?q=thank+you+bts) | N/A |
 | 12 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
 | 13 | [bounprem](http://twitter.com/search?q=bounprem) | N/A |
 | 14 | [Aleo](http://twitter.com/search?q=Aleo) | N/A |
@@ -40,11 +40,11 @@ This is top 50 for Vietnam
 | 23 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
 | 24 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
 | 25 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 26 | [Discover Projects](http://twitter.com/search?q=Discover+Projects) | N/A |
-| 27 | [NewJeans](http://twitter.com/search?q=NewJeans) | NewJeans is a Japanese fashion brand that specializes in denim clothing. The brand is known for its high-quality, stylish jeans and other denim apparel. The name NewJeans is derived from the phrase "new jeans," which refers to the idea of creating something new and unique with denim. |
-| 28 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
-| 29 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 30 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 26 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 27 | [Discover Projects](http://twitter.com/search?q=Discover+Projects) | N/A |
+| 28 | [NewJeans](http://twitter.com/search?q=NewJeans) | NewJeans is a Japanese fashion brand that specializes in denim clothing. The brand is known for its high-quality, stylish jeans and other denim apparel. The name NewJeans is derived from the phrase "new jeans," which refers to the idea of creating something new and unique with denim. |
+| 29 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 30 | [gulf kanawut](http://twitter.com/search?q=gulf+kanawut) | N/A |
 | 31 | [vâng](http://twitter.com/search?q=v%c3%a2ng) | N/A |
 | 32 | [Western](http://twitter.com/search?q=Western) | N/A |
 | 33 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
@@ -53,9 +53,9 @@ This is top 50 for Vietnam
 | 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 37 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 38 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 39 | [Thời](http://twitter.com/search?q=Th%e1%bb%9di) | N/A |
+| 39 | [thời](http://twitter.com/search?q=th%e1%bb%9di) | N/A |
 | 40 | [MileApo](http://twitter.com/search?q=MileApo) | N/A |
-| 41 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 41 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
 | 42 | [Scam](http://twitter.com/search?q=Scam) | N/A |
 | 43 | [source link](http://twitter.com/search?q=source+link) | N/A |
 | 44 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |

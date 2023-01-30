@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-01-30 20:17:21 UTC`
+📆 Last Updated: `2023-01-30 21:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Venezuela
 | 2 | [#LasSancionesCastiganLaSalud](http://twitter.com/search?q=%23LasSancionesCastiganLaSalud) | N/A |
 | 3 | [#29Ene](http://twitter.com/search?q=%2329Ene) | N/A |
 | 4 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
+| 5 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
+| 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 7 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
-| 8 | [#ArreazaRegalaFreeBets](http://twitter.com/search?q=%23ArreazaRegalaFreeBets) | N/A |
+| 8 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
 | 9 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 10 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
-| 11 | [El Batazo de la Suerte](http://twitter.com/search?q=El+Batazo+de+la+Suerte) | N/A |
-| 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 13 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 14 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
-| 15 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
-| 16 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
-| 17 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
-| 18 | [SOY REBELDE TOUR EN VENEZUELA](http://twitter.com/search?q=SOY+REBELDE+TOUR+EN+VENEZUELA) | N/A |
-| 19 | [Juan Antonio Pérez Bonalde](http://twitter.com/search?q=Juan+Antonio+P%c3%a9rez+Bonalde) | N/A |
+| 10 | [#SancionesMatanSueldo](http://twitter.com/search?q=%23SancionesMatanSueldo) | N/A |
+| 11 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 12 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 13 | [El Batazo de la Suerte](http://twitter.com/search?q=El+Batazo+de+la+Suerte) | N/A |
+| 14 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
+| 15 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
+| 16 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
+| 17 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
+| 18 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
+| 19 | [Metras](http://twitter.com/search?q=Metras) | N/A |
 | 20 | [Inces](http://twitter.com/search?q=Inces) | N/A |
-| 21 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
-| 22 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 23 | [Movilnet](http://twitter.com/search?q=Movilnet) | N/A |
-| 24 | [Día del Trabajador Social](http://twitter.com/search?q=D%c3%ada+del+Trabajador+Social) | N/A |
-| 25 | [Metras](http://twitter.com/search?q=Metras) | N/A |
+| 21 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 22 | [Movilnet](http://twitter.com/search?q=Movilnet) | N/A |
+| 23 | [Juan Antonio Pérez Bonalde](http://twitter.com/search?q=Juan+Antonio+P%c3%a9rez+Bonalde) | N/A |
+| 24 | [SOY REBELDE TOUR EN VENEZUELA](http://twitter.com/search?q=SOY+REBELDE+TOUR+EN+VENEZUELA) | N/A |
+| 25 | [día del trabajador social](http://twitter.com/search?q=d%c3%ada+del+trabajador+social) | N/A |
 | 26 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 27 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
-| 28 | [El 30](http://twitter.com/search?q=El+30) | N/A |
-| 29 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
-| 30 | [Sociedad Venezolana](http://twitter.com/search?q=Sociedad+Venezolana) | N/A |
-| 31 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
-| 32 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
-| 33 | [Los Dioses](http://twitter.com/search?q=Los+Dioses) | N/A |
-| 34 | [Tío Rico](http://twitter.com/search?q=T%c3%ado+Rico) | N/A |
-| 35 | [Yoimer Camacho](http://twitter.com/search?q=Yoimer+Camacho) | N/A |
-| 36 | [Freddy Guevara](http://twitter.com/search?q=Freddy+Guevara) | N/A |
-| 37 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
-| 38 | [Foro de Diálogo Social](http://twitter.com/search?q=Foro+de+Di%c3%a1logo+Social) | N/A |
+| 27 | [Yoimer Camacho](http://twitter.com/search?q=Yoimer+Camacho) | N/A |
+| 28 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
+| 29 | [Freddy Guevara](http://twitter.com/search?q=Freddy+Guevara) | N/A |
+| 30 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
+| 31 | [Sociedad Venezolana](http://twitter.com/search?q=Sociedad+Venezolana) | N/A |
+| 32 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
+| 33 | [El 30](http://twitter.com/search?q=El+30) | N/A |
+| 34 | [Los Dioses](http://twitter.com/search?q=Los+Dioses) | N/A |
+| 35 | [Tío Rico](http://twitter.com/search?q=T%c3%ado+Rico) | N/A |
+| 36 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
+| 37 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 38 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
 | 39 | [HESED](http://twitter.com/search?q=HESED) | N/A |
-| 40 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 41 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 42 | [Día del Radio Aficionado](http://twitter.com/search?q=D%c3%ada+del+Radio+Aficionado) | N/A |
-| 43 | [Abelardo Raidi](http://twitter.com/search?q=Abelardo+Raidi) | N/A |
-| 44 | [Antonio José de Sucre](http://twitter.com/search?q=Antonio+Jos%c3%a9+de+Sucre) | N/A |
-| 45 | [Erick Leal](http://twitter.com/search?q=Erick+Leal) | Erick Leal is a Spanish name. It is derived from the Germanic name Eric, which means "ever ruler," and Leal, which means "loyal." In English, the name Erick Leal can be translated to mean "ever loyal ruler." |
-| 46 | [Nuevo Circo](http://twitter.com/search?q=Nuevo+Circo) | N/A |
-| 47 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 48 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 49 | [Franco De Vita](http://twitter.com/search?q=Franco+De+Vita) | N/A |
-| 50 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 40 | [Foro de Diálogo Social](http://twitter.com/search?q=Foro+de+Di%c3%a1logo+Social) | N/A |
+| 41 | [Primarias](http://twitter.com/search?q=Primarias) | N/A |
+| 42 | [Antonio José de Sucre](http://twitter.com/search?q=Antonio+Jos%c3%a9+de+Sucre) | N/A |
+| 43 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 44 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 45 | [Caracas FC](http://twitter.com/search?q=Caracas+FC) | N/A |
+| 46 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 47 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
+| 48 | [Día del Radio Aficionado](http://twitter.com/search?q=D%c3%ada+del+Radio+Aficionado) | N/A |
+| 49 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 50 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
 
 
 

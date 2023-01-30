@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-01-30 20:17:20 UTC`
+📆 Last Updated: `2023-01-30 21:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,7 +48,7 @@ This is top 50 for Singapore
 | 31 | [Andy](http://twitter.com/search?q=Andy) | N/A |
 | 32 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 33 | [Miratashi Whitelist](http://twitter.com/search?q=Miratashi+Whitelist) | N/A |
-| 34 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 34 | [Woozi](http://twitter.com/search?q=Woozi) | N/A |
 | 35 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
 | 36 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 37 | [Year of the Rabbit](http://twitter.com/search?q=Year+of+the+Rabbit) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Singapore
 | 39 | [Official Music Video](http://twitter.com/search?q=Official+Music+Video) | N/A |
 | 40 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
 | 41 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 42 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 43 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 44 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 45 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 46 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 47 | [Jatim](http://twitter.com/search?q=Jatim) | N/A |
-| 48 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 49 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
-| 50 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 44 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
+| 45 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 46 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 47 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 48 | [Jatim](http://twitter.com/search?q=Jatim) | N/A |
+| 49 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 50 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
 
 
 
