@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-01-30 15:15:45 UTC`
+📆 Last Updated: `2023-01-30 16:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 2 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 3 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
-| 4 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 5 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 6 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
 | 7 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 8 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 8 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 9 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
-| 10 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 11 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 12 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 13 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
-| 14 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 15 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 16 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 17 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 18 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 19 | [j'aime](http://twitter.com/search?q=j%27aime) | N/A |
-| 20 | [langnau](http://twitter.com/search?q=langnau) | N/A |
-| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 22 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 23 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 24 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 25 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 26 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 27 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 28 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
-| 29 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 10 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
+| 11 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 12 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 13 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 14 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 15 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 16 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 17 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 18 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 19 | [Langnau](http://twitter.com/search?q=Langnau) | N/A |
+| 20 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 21 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 22 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 23 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 24 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 25 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 26 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 27 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 28 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 29 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 30 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 31 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 32 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 33 | [China](http://twitter.com/search?q=China) | N/A |
-| 34 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
-| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 36 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 37 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 38 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 39 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
-| 40 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 31 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 32 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 33 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
+| 34 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
+| 35 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 36 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 37 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
+| 38 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 39 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 40 | [Russie](http://twitter.com/search?q=Russie) | N/A |
 | 41 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
 | 42 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
-| 43 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 44 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 43 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 45 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 47 | [Staaten](http://twitter.com/search?q=Staaten) | N/A |
+| 46 | [Staaten](http://twitter.com/search?q=Staaten) | N/A |
+| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 
 
 

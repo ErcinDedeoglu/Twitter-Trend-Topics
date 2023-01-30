@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-01-30 15:16:05 UTC`
+📆 Last Updated: `2023-01-30 16:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 3 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 6 | [#alayma](http://twitter.com/search?q=%23alayma) | N/A |
-| 7 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
-| 8 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 9 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 10 | [BJ Hill](http://twitter.com/search?q=BJ+Hill) | N/A |
-| 11 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | N/A |
-| 12 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 13 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | N/A |
-| 14 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | N/A |
-| 15 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
-| 16 | [Wordle 590 X](http://twitter.com/search?q=Wordle+590+X) | N/A |
-| 17 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | N/A |
-| 18 | [Daily Quordle 371](http://twitter.com/search?q=Daily+Quordle+371) | N/A |
-| 19 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
-| 20 | [Team Extreme](http://twitter.com/search?q=Team+Extreme) | N/A |
+| 5 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
+| 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 7 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 8 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
+| 9 | [BJ Hill](http://twitter.com/search?q=BJ+Hill) | N/A |
+| 10 | [#alayma](http://twitter.com/search?q=%23alayma) | N/A |
+| 11 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | N/A |
+| 12 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | N/A |
+| 13 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
+| 14 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
+| 15 | [Saffold](http://twitter.com/search?q=Saffold) | N/A |
+| 16 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 17 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
+| 18 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 19 | [Piccolo](http://twitter.com/search?q=Piccolo) | N/A |
+| 20 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
 | 21 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 22 | [Saffold](http://twitter.com/search?q=Saffold) | N/A |
-| 23 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 24 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
-| 25 | [The Addams Family](http://twitter.com/search?q=The+Addams+Family) | N/A |
-| 26 | [Barrett Strong](http://twitter.com/search?q=Barrett+Strong) | N/A |
-| 27 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 28 | [Wednesday Addams](http://twitter.com/search?q=Wednesday+Addams) | N/A |
-| 29 | [Dr. Kelly](http://twitter.com/search?q=Dr.+Kelly) | N/A |
-| 30 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 31 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 32 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 22 | [Wordle 590 X](http://twitter.com/search?q=Wordle+590+X) | N/A |
+| 23 | [Team Extreme](http://twitter.com/search?q=Team+Extreme) | N/A |
+| 24 | [The Cosmic Shake](http://twitter.com/search?q=The+Cosmic+Shake) | N/A |
+| 25 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
+| 26 | [Wednesday Addams](http://twitter.com/search?q=Wednesday+Addams) | N/A |
+| 27 | [Mach-E](http://twitter.com/search?q=Mach-E) | N/A |
+| 28 | [Daily Quordle 371](http://twitter.com/search?q=Daily+Quordle+371) | N/A |
+| 29 | [The Addams Family](http://twitter.com/search?q=The+Addams+Family) | N/A |
+| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 31 | [Dr. Kelly](http://twitter.com/search?q=Dr.+Kelly) | N/A |
+| 32 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | N/A |
 | 33 | [Baldy](http://twitter.com/search?q=Baldy) | N/A |
-| 34 | [Joe Staley](http://twitter.com/search?q=Joe+Staley) | N/A |
-| 35 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 36 | [Winter Storm Warning](http://twitter.com/search?q=Winter+Storm+Warning) | N/A |
-| 37 | [Pratt](http://twitter.com/search?q=Pratt) | N/A |
-| 38 | [Ay-Yo](http://twitter.com/search?q=Ay-Yo) | Ay-Yo is an expression used to express excitement or enthusiasm. It is similar to the phrase "Oh yeah!" and can be used to show agreement or excitement about something. In English, it can be translated as "Yeah!" or "Yay!". |
-| 39 | [Tyson Fury](http://twitter.com/search?q=Tyson+Fury) | N/A |
-| 40 | [Asake](http://twitter.com/search?q=Asake) | N/A |
-| 41 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | N/A |
-| 42 | [Megyn Kelly](http://twitter.com/search?q=Megyn+Kelly) | N/A |
-| 43 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 44 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 45 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 46 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 47 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 48 | [Empire State Building](http://twitter.com/search?q=Empire+State+Building) | The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. It was designed by Shreve, Lamb & Harmon and completed in 1931. Standing at 1,454 feet (443 m) tall, it was the world's tallest building until 1972. The Empire State Building is an iconic symbol of New York City and a popular tourist attraction. |
-| 49 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 50 | [Kayvon](http://twitter.com/search?q=Kayvon) | Kayvon is a Persian name meaning "king of kings". It is also used as a given name in some parts of the world. |
+| 34 | [Beast Gohan](http://twitter.com/search?q=Beast+Gohan) | N/A |
+| 35 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 36 | [Pratt](http://twitter.com/search?q=Pratt) | N/A |
+| 37 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 38 | [Barrett Strong](http://twitter.com/search?q=Barrett+Strong) | N/A |
+| 39 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 40 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 41 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 42 | [Joe Staley](http://twitter.com/search?q=Joe+Staley) | N/A |
+| 43 | [Winter Storm Warning](http://twitter.com/search?q=Winter+Storm+Warning) | N/A |
+| 44 | [Capone](http://twitter.com/search?q=Capone) | N/A |
+| 45 | [Yeti](http://twitter.com/search?q=Yeti) | N/A |
+| 46 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 47 | [French Connection](http://twitter.com/search?q=French+Connection) | N/A |
+| 48 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
+| 49 | [Dr. Jill Biden](http://twitter.com/search?q=Dr.+Jill+Biden) | N/A |
+| 50 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
 
 
 

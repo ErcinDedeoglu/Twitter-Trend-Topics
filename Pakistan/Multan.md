@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-01-30 15:15:59 UTC`
+📆 Last Updated: `2023-01-30 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#PetrolDieselPrice](http://twitter.com/search?q=%23PetrolDieselPrice) | #PetrolDieselPrice is a hashtag used on social media to discuss the current prices of petrol and diesel fuel. It is used to share information about fuel prices, ask questions about fuel prices, and discuss the impact of fuel prices on people's lives. |
 | 4 | [#شیطان_کی_مجلس_شوری](http://twitter.com/search?q=%23%d8%b4%db%8c%d8%b7%d8%a7%d9%86_%da%a9%db%8c_%d9%85%d8%ac%d9%84%d8%b3_%d8%b4%d9%88%d8%b1%db%8c) | N/A |
 | 5 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 6 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 7 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
+| 6 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
+| 7 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
 | 8 | [Welcome to Purana Pakistan](http://twitter.com/search?q=Welcome+to+Purana+Pakistan) | N/A |
-| 9 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 10 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
-| 11 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
-| 12 | [Mosque](http://twitter.com/search?q=Mosque) | N/A |
+| 9 | [Mosque](http://twitter.com/search?q=Mosque) | N/A |
+| 10 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 12 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
 | 13 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 14 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 15 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 16 | [masjid](http://twitter.com/search?q=masjid) | N/A |
-| 17 | [pakistan and uae](http://twitter.com/search?q=pakistan+and+uae) | N/A |
-| 18 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 19 | [UAE President](http://twitter.com/search?q=UAE+President) | N/A |
-| 20 | [KP Police](http://twitter.com/search?q=KP+Police) | N/A |
+| 14 | [Terrorism](http://twitter.com/search?q=Terrorism) | N/A |
+| 15 | [Masjid](http://twitter.com/search?q=Masjid) | N/A |
+| 16 | [pakistan and uae](http://twitter.com/search?q=pakistan+and+uae) | N/A |
+| 17 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
+| 18 | [UAE President](http://twitter.com/search?q=UAE+President) | N/A |
+| 19 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 20 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 21 | [1YR OF VIJAYI TEJASSWI](http://twitter.com/search?q=1YR+OF+VIJAYI+TEJASSWI) | 1YR OF VIJAYI TEJASSWI is a hashtag used to celebrate the one-year anniversary of the Indian television series, Vijayi Tejasswi. The English translation of this phrase would be "One Year of Vijayi Tejasswi". |
 | 22 | [Zuhr](http://twitter.com/search?q=Zuhr) | N/A |
-| 23 | [Lasbela](http://twitter.com/search?q=Lasbela) | N/A |
-| 24 | [uae and pakistan](http://twitter.com/search?q=uae+and+pakistan) | N/A |
-| 25 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
-| 26 | [35 pkr](http://twitter.com/search?q=35+pkr) | N/A |
-| 27 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 28 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
-| 29 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 30 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 31 | [FATA](http://twitter.com/search?q=FATA) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
-| 34 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 23 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 24 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 25 | [uae and pakistan](http://twitter.com/search?q=uae+and+pakistan) | N/A |
+| 26 | [KP Police](http://twitter.com/search?q=KP+Police) | N/A |
+| 27 | [Lasbela](http://twitter.com/search?q=Lasbela) | N/A |
+| 28 | [Isfahan](http://twitter.com/search?q=Isfahan) | N/A |
+| 29 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
+| 30 | [35 pkr](http://twitter.com/search?q=35+pkr) | N/A |
+| 31 | [Chitral](http://twitter.com/search?q=Chitral) | N/A |
+| 32 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
+| 33 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
+| 34 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
 | 35 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 36 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 37 | [May Almighty](http://twitter.com/search?q=May+Almighty) | N/A |
-| 38 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 39 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 40 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
-| 41 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 42 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
-| 43 | [Turkey](http://twitter.com/search?q=Turkey) | N/A |
-| 44 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 45 | [Humanity](http://twitter.com/search?q=Humanity) | N/A |
-| 46 | [Date of Birth](http://twitter.com/search?q=Date+of+Birth) | N/A |
-| 47 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 37 | [FATA](http://twitter.com/search?q=FATA) | N/A |
+| 38 | [Aameen](http://twitter.com/search?q=Aameen) | N/A |
+| 39 | [May Almighty](http://twitter.com/search?q=May+Almighty) | N/A |
+| 40 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
+| 41 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 42 | [Dollars](http://twitter.com/search?q=Dollars) | N/A |
+| 43 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Security](http://twitter.com/search?q=Security) | N/A |
+| 46 | [musharraf](http://twitter.com/search?q=musharraf) | N/A |
+| 47 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
 
 
 

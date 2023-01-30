@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-01-30 15:15:33 UTC`
+📆 Last Updated: `2023-01-30 16:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
 | 4 | [#KornoSigueSiendoEnero](http://twitter.com/search?q=%23KornoSigueSiendoEnero) | N/A |
 | 5 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 6 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
+| 6 | [#ViejoPoderoso](http://twitter.com/search?q=%23ViejoPoderoso) | N/A |
 | 7 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 8 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
 | 9 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 10 | [Dividir](http://twitter.com/search?q=Dividir) | N/A |
-| 11 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
-| 12 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 13 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 10 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 11 | [Dividir](http://twitter.com/search?q=Dividir) | N/A |
+| 12 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 13 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
 | 14 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 15 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 16 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
-| 17 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
-| 18 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | N/A |
-| 19 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 20 | [QUACKITY](http://twitter.com/search?q=QUACKITY) | N/A |
-| 21 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
-| 22 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 23 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 24 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 25 | [Lunes 30](http://twitter.com/search?q=Lunes+30) | N/A |
-| 26 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
-| 27 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 28 | [Báez](http://twitter.com/search?q=B%c3%a1ez) | N/A |
-| 29 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 30 | [Cincinnati](http://twitter.com/search?q=Cincinnati) | Cincinnati is a city in the U.S. state of Ohio, located on the Ohio River. It is the third-largest city in Ohio and the 65th-largest city in the United States. The name Cincinnati is derived from a Latinized version of a Native American word meaning "the town of the great chief." |
-| 31 | [dedsafio](http://twitter.com/search?q=dedsafio) | N/A |
-| 32 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 16 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 17 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
+| 18 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 19 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
+| 20 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 21 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 22 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
+| 23 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 24 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
+| 25 | [Báez](http://twitter.com/search?q=B%c3%a1ez) | N/A |
+| 26 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
+| 27 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 28 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
+| 29 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
+| 30 | [Dedsafio](http://twitter.com/search?q=Dedsafio) | N/A |
+| 31 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 32 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 33 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 34 | [Quitar](http://twitter.com/search?q=Quitar) | N/A |
-| 35 | [TERMINATOR IS BACK](http://twitter.com/search?q=TERMINATOR+IS+BACK) | N/A |
-| 36 | [LUZU](http://twitter.com/search?q=LUZU) | N/A |
+| 34 | [Cincinnati](http://twitter.com/search?q=Cincinnati) | Cincinnati is a city in the U.S. state of Ohio, located on the Ohio River. It is the third-largest city in Ohio and the 65th-largest city in the United States. The name Cincinnati is derived from a Latinized version of a Native American word meaning "the town of the great chief." |
+| 35 | [estación Jamaica](http://twitter.com/search?q=estaci%c3%b3n+Jamaica) | N/A |
+| 36 | [TERMINATOR IS BACK](http://twitter.com/search?q=TERMINATOR+IS+BACK) | N/A |
 | 37 | [Destruir](http://twitter.com/search?q=Destruir) | N/A |
-| 38 | [Jhayco](http://twitter.com/search?q=Jhayco) | Jhayco is a slang term used in the Philippines to refer to someone who is stylish or fashionable. It is derived from the Tagalog phrase "maganda ang ayos," which translates to "well-dressed." |
-| 39 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
-| 40 | [Juanpa](http://twitter.com/search?q=Juanpa) | N/A |
-| 41 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
-| 42 | [Valdo](http://twitter.com/search?q=Valdo) | N/A |
-| 43 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
-| 44 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 45 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 46 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 47 | [Línea 9](http://twitter.com/search?q=L%c3%adnea+9) | N/A |
-| 48 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 49 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
-| 50 | [Filadelfia](http://twitter.com/search?q=Filadelfia) | N/A |
+| 38 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 39 | [Jhayco](http://twitter.com/search?q=Jhayco) | Jhayco is a slang term used in the Philippines to refer to someone who is stylish or fashionable. It is derived from the Tagalog phrase "maganda ang ayos," which translates to "well-dressed." |
+| 40 | [Excelente Lunes](http://twitter.com/search?q=Excelente+Lunes) | N/A |
+| 41 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 42 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 43 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
+| 44 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 45 | [Polarizar](http://twitter.com/search?q=Polarizar) | N/A |
+| 46 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 47 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
+| 48 | [Lunes 30](http://twitter.com/search?q=Lunes+30) | N/A |
+| 49 | [Quitar](http://twitter.com/search?q=Quitar) | N/A |
+| 50 | [Juanpa](http://twitter.com/search?q=Juanpa) | N/A |
 
 
 

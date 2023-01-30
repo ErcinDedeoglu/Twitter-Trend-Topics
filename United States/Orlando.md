@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-01-30 15:16:08 UTC`
+📆 Last Updated: `2023-01-30 16:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 2 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 3 | [#alayma](http://twitter.com/search?q=%23alayma) | N/A |
-| 4 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
-| 5 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 2 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
+| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 4 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 5 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
 | 6 | [BJ Hill](http://twitter.com/search?q=BJ+Hill) | N/A |
-| 7 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | N/A |
-| 8 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 9 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | N/A |
-| 10 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | N/A |
-| 11 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
-| 12 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | N/A |
-| 13 | [Wordle 590 X](http://twitter.com/search?q=Wordle+590+X) | N/A |
-| 14 | [Daily Quordle 371](http://twitter.com/search?q=Daily+Quordle+371) | N/A |
-| 15 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
-| 16 | [team extreme](http://twitter.com/search?q=team+extreme) | N/A |
-| 17 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 18 | [Saffold](http://twitter.com/search?q=Saffold) | N/A |
-| 19 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 20 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
-| 21 | [The Addams Family](http://twitter.com/search?q=The+Addams+Family) | N/A |
-| 22 | [Barrett Strong](http://twitter.com/search?q=Barrett+Strong) | N/A |
+| 7 | [#alayma](http://twitter.com/search?q=%23alayma) | N/A |
+| 8 | [Gene Hackman](http://twitter.com/search?q=Gene+Hackman) | N/A |
+| 9 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | N/A |
+| 10 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
+| 11 | [Saffold](http://twitter.com/search?q=Saffold) | N/A |
+| 12 | [Victory Monday](http://twitter.com/search?q=Victory+Monday) | Victory Monday is a term used to describe the day after a team wins a major sporting event. It is usually celebrated with parties, parades, and other festivities. The phrase is often used to describe the day after a team wins the Super Bowl or other championship game. |
+| 13 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [The Golden Jet](http://twitter.com/search?q=The+Golden+Jet) | N/A |
+| 16 | [Piccolo](http://twitter.com/search?q=Piccolo) | N/A |
+| 17 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
+| 18 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 19 | [Wordle 590 X](http://twitter.com/search?q=Wordle+590+X) | N/A |
+| 20 | [Team Extreme](http://twitter.com/search?q=Team+Extreme) | N/A |
+| 21 | [The Cosmic Shake](http://twitter.com/search?q=The+Cosmic+Shake) | N/A |
+| 22 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
 | 23 | [Wednesday Addams](http://twitter.com/search?q=Wednesday+Addams) | N/A |
-| 24 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 25 | [Dr. Kelly](http://twitter.com/search?q=Dr.+Kelly) | N/A |
-| 26 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 27 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 28 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 29 | [Baldy](http://twitter.com/search?q=Baldy) | N/A |
-| 30 | [Joe Staley](http://twitter.com/search?q=Joe+Staley) | N/A |
-| 31 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 32 | [Winter Storm Warning](http://twitter.com/search?q=Winter+Storm+Warning) | N/A |
+| 24 | [Mach-E](http://twitter.com/search?q=Mach-E) | N/A |
+| 25 | [Daily Quordle 371](http://twitter.com/search?q=Daily+Quordle+371) | N/A |
+| 26 | [The Addams Family](http://twitter.com/search?q=The+Addams+Family) | N/A |
+| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 28 | [Dr. Kelly](http://twitter.com/search?q=Dr.+Kelly) | N/A |
+| 29 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | N/A |
+| 30 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 31 | [Baldy](http://twitter.com/search?q=Baldy) | N/A |
+| 32 | [Beast Gohan](http://twitter.com/search?q=Beast+Gohan) | N/A |
 | 33 | [Pratt](http://twitter.com/search?q=Pratt) | N/A |
-| 34 | [Ay-Yo](http://twitter.com/search?q=Ay-Yo) | Ay-Yo is an expression used to express excitement or enthusiasm. It is similar to the phrase "Oh yeah!" and can be used to show agreement or excitement about something. In English, it can be translated as "Yeah!" or "Yay!". |
-| 35 | [Tyson Fury](http://twitter.com/search?q=Tyson+Fury) | N/A |
-| 36 | [Asake](http://twitter.com/search?q=Asake) | N/A |
-| 37 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | N/A |
-| 38 | [Megyn Kelly](http://twitter.com/search?q=Megyn+Kelly) | N/A |
-| 39 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 40 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 41 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 42 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
-| 43 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 44 | [Empire State Building](http://twitter.com/search?q=Empire+State+Building) | The Empire State Building is a 102-story Art Deco skyscraper in Midtown Manhattan, New York City. It was designed by Shreve, Lamb & Harmon and completed in 1931. Standing at 1,454 feet (443 m) tall, it was the world's tallest building until 1972. The Empire State Building is an iconic symbol of New York City and a popular tourist attraction. |
-| 45 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 46 | [Kayvon](http://twitter.com/search?q=Kayvon) | Kayvon is a Persian name meaning "king of kings". It is also used as a given name in some parts of the world. |
-| 47 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 48 | [Wakanda](http://twitter.com/search?q=Wakanda) | N/A |
-| 49 | [Black History Month](http://twitter.com/search?q=Black+History+Month) | N/A |
+| 34 | [Barrett Strong](http://twitter.com/search?q=Barrett+Strong) | N/A |
+| 35 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 36 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 37 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 38 | [Yeti](http://twitter.com/search?q=Yeti) | N/A |
+| 39 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 40 | [Joe Staley](http://twitter.com/search?q=Joe+Staley) | N/A |
+| 41 | [Winter Storm Warning](http://twitter.com/search?q=Winter+Storm+Warning) | N/A |
+| 42 | [Capone](http://twitter.com/search?q=Capone) | N/A |
+| 43 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 44 | [French Connection](http://twitter.com/search?q=French+Connection) | N/A |
+| 45 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
+| 46 | [Dr. Jill Biden](http://twitter.com/search?q=Dr.+Jill+Biden) | N/A |
+| 47 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
+| 48 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 49 | [Ay-Yo](http://twitter.com/search?q=Ay-Yo) | Ay-Yo is an expression used to express excitement or enthusiasm. It is similar to the phrase "Oh yeah!" and can be used to show agreement or excitement about something. In English, it can be translated as "Yeah!" or "Yay!". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-01-30 15:16:00 UTC`
+📆 Last Updated: `2023-01-30 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [India](</India>)
 | 3 | [#Thalapathy67](http://twitter.com/search?q=%23Thalapathy67) | #Thalapathy67 is a hashtag used to promote the upcoming Tamil movie Thalapathy 67, starring actor Vijay. The number 67 refers to the fact that this is Vijay's 67th movie. The English translation of Thalapathy is "commander". |
 | 4 | [#Pathaan500CroreEvent](http://twitter.com/search?q=%23Pathaan500CroreEvent) | N/A |
 | 5 | [#LokeshKanakaraj](http://twitter.com/search?q=%23LokeshKanakaraj) | N/A |
-| 6 | [#DearIshqOnHotstar](http://twitter.com/search?q=%23DearIshqOnHotstar) | N/A |
-| 7 | [#KheloIndiaInMP](http://twitter.com/search?q=%23KheloIndiaInMP) | N/A |
+| 6 | [#Peshawarblast](http://twitter.com/search?q=%23Peshawarblast) | #Peshawarblast is a hashtag used on social media to refer to a suicide bombing that occurred in Peshawar, Pakistan in December 2016. The attack killed at least 25 people and injured over 50. The hashtag is used to spread awareness of the attack and to express solidarity with the victims and their families. |
+| 7 | [#27YearsOfSudeepism](http://twitter.com/search?q=%2327YearsOfSudeepism) | N/A |
 | 8 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 9 | [Pradeep Bhandari For Hindus](http://twitter.com/search?q=Pradeep+Bhandari+For+Hindus) | N/A |
-| 10 | [गोरखनाथ मंदिर](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%b0%e0%a4%96%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 11 | [60DAYS TO BHOLAA STORM](http://twitter.com/search?q=60DAYS+TO+BHOLAA+STORM) | N/A |
-| 12 | [Sushant Real Braveheart](http://twitter.com/search?q=Sushant+Real+Braveheart) | N/A |
-| 13 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 14 | [HE IS COMING](http://twitter.com/search?q=HE+IS+COMING) | N/A |
-| 15 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 16 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 9 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 10 | [Sushant Real Braveheart](http://twitter.com/search?q=Sushant+Real+Braveheart) | N/A |
+| 11 | [pradeep bhandari for hindus](http://twitter.com/search?q=pradeep+bhandari+for+hindus) | N/A |
+| 12 | [गोरखनाथ मंदिर](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%b0%e0%a4%96%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 13 | [60DAYS TO BHOLAA STORM](http://twitter.com/search?q=60DAYS+TO+BHOLAA+STORM) | N/A |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 17 | [He is Coming](http://twitter.com/search?q=He+is+Coming) | N/A |
+| 18 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 19 | [दोषी अहमद](http://twitter.com/search?q=%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 20 | [स्पेशल कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%b6%e0%a4%b2+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 21 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
-| 22 | [इंडिया यूथ गेम्स](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%af%e0%a5%82%e0%a4%a5+%e0%a4%97%e0%a5%87%e0%a4%ae%e0%a5%8d%e0%a4%b8) | N/A |
+| 20 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
+| 21 | [स्पेशल कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%b6%e0%a4%b2+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 22 | [Teju](http://twitter.com/search?q=Teju) | N/A |
 | 23 | [प्रथम स्थान](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
-| 24 | [Shia](http://twitter.com/search?q=Shia) | N/A |
-| 25 | [PATHAAN 500 CR IN 5 DAYS](http://twitter.com/search?q=PATHAAN+500+CR+IN+5+DAYS) | PATHAAN 500 CR IN 5 DAYS is a financial term used in India. It means that the company is expecting to generate 500 crore rupees (the Indian currency) in five days. |
+| 24 | [इंडिया यूथ गेम्स](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%af%e0%a5%82%e0%a4%a5+%e0%a4%97%e0%a5%87%e0%a4%ae%e0%a5%8d%e0%a4%b8) | N/A |
+| 25 | [Loki](http://twitter.com/search?q=Loki) | N/A |
 | 26 | [Realme 10 Pro](http://twitter.com/search?q=Realme+10+Pro) | N/A |
-| 27 | [Teju](http://twitter.com/search?q=Teju) | N/A |
-| 28 | [मुरली विजय](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af) | N/A |
-| 29 | [नाथूराम गोडसे](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a5%e0%a5%82%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%97%e0%a5%8b%e0%a4%a1%e0%a4%b8%e0%a5%87) | N/A |
-| 30 | [मोहम्मद सलीम](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6+%e0%a4%b8%e0%a4%b2%e0%a5%80%e0%a4%ae) | N/A |
-| 31 | [Announcement](http://twitter.com/search?q=Announcement) | N/A |
-| 32 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
-| 33 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 34 | [Natural Star](http://twitter.com/search?q=Natural+Star) | N/A |
-| 35 | [संध्या वंदन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 36 | [All Eyes On The Court](http://twitter.com/search?q=All+Eyes+On+The+Court) | "All Eyes On The Court" is a phrase used to describe the intense focus and attention that is given to a particular court case or legal proceeding. It implies that everyone involved in the case is paying close attention to the proceedings and that all eyes are on the court. |
-| 37 | [BHARAT MAANGE NYAY](http://twitter.com/search?q=BHARAT+MAANGE+NYAY) | BHARAT MAANGE NYAY is a slogan used by the Indian National Congress during the 2019 Indian general election. It translates to "India Demands Justice" in English. The slogan was used to emphasize the party's commitment to social justice and its desire to create a more equitable society. |
-| 38 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 27 | [Shia](http://twitter.com/search?q=Shia) | N/A |
+| 28 | [PATHAAN 500 CR IN 5 DAYS](http://twitter.com/search?q=PATHAAN+500+CR+IN+5+DAYS) | PATHAAN 500 CR IN 5 DAYS is a financial term used in India. It means that the company is expecting to generate 500 crore rupees (the Indian currency) in five days. |
+| 29 | [Enzo](http://twitter.com/search?q=Enzo) | N/A |
+| 30 | [नाथूराम गोडसे](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a5%e0%a5%82%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%97%e0%a5%8b%e0%a4%a1%e0%a4%b8%e0%a5%87) | N/A |
+| 31 | [Natural Star](http://twitter.com/search?q=Natural+Star) | N/A |
+| 32 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 33 | [Announcement](http://twitter.com/search?q=Announcement) | N/A |
+| 34 | [संध्या वंदन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 36 | [Godse](http://twitter.com/search?q=Godse) | N/A |
+| 37 | [All Eyes On The Court](http://twitter.com/search?q=All+Eyes+On+The+Court) | "All Eyes On The Court" is a phrase used to describe the intense focus and attention that is given to a particular court case or legal proceeding. It implies that everyone involved in the case is paying close attention to the proceedings and that all eyes are on the court. |
+| 38 | [BHARAT MAANGE NYAY](http://twitter.com/search?q=BHARAT+MAANGE+NYAY) | BHARAT MAANGE NYAY is a slogan used by the Indian National Congress during the 2019 Indian general election. It translates to "India Demands Justice" in English. The slogan was used to emphasize the party's commitment to social justice and its desire to create a more equitable society. |
 | 39 | [Anyay Kaa Ant Ho](http://twitter.com/search?q=Anyay+Kaa+Ant+Ho) | "Anyay Kaa Ant Ho" is a Hindi phrase that translates to "the end of injustice". It is often used as a rallying cry for social justice and equality. |
-| 40 | [Godse](http://twitter.com/search?q=Godse) | N/A |
-| 41 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
-| 42 | [केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 43 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 44 | [#Peshawar](http://twitter.com/search?q=%23Peshawar) | N/A |
-| 45 | [#DasaraTeaser](http://twitter.com/search?q=%23DasaraTeaser) | N/A |
-| 46 | [#27YearsOfSudeepism](http://twitter.com/search?q=%2327YearsOfSudeepism) | N/A |
-| 47 | [#KrantiSensationHits100Cr](http://twitter.com/search?q=%23KrantiSensationHits100Cr) | N/A |
-| 48 | [#DBossVictoryOverMedia](http://twitter.com/search?q=%23DBossVictoryOverMedia) | N/A |
+| 40 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 41 | [Halal](http://twitter.com/search?q=Halal) | N/A |
+| 42 | [Swami Prasad Maurya](http://twitter.com/search?q=Swami+Prasad+Maurya) | N/A |
+| 43 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
+| 44 | [केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 45 | [#DEPTH](http://twitter.com/search?q=%23DEPTH) | N/A |
+| 46 | [#KheloIndiaInMP](http://twitter.com/search?q=%23KheloIndiaInMP) | N/A |
+| 47 | [#AllNewHope](http://twitter.com/search?q=%23AllNewHope) | N/A |
+| 48 | [#DasaraTeaser](http://twitter.com/search?q=%23DasaraTeaser) | N/A |
 | 49 | [#BharatJodoYatraFinale](http://twitter.com/search?q=%23BharatJodoYatraFinale) | N/A |
-| 50 | [#DEPTH](http://twitter.com/search?q=%23DEPTH) | N/A |
+| 50 | [#KrantiSensationHits100Cr](http://twitter.com/search?q=%23KrantiSensationHits100Cr) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-01-30 15:15:44 UTC`
+📆 Last Updated: `2023-01-30 16:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#twefey](http://twitter.com/search?q=%23twefey) | N/A |
-| 2 | [#excaja](http://twitter.com/search?q=%23excaja) | N/A |
-| 3 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
-| 4 | [#VOLGRO](http://twitter.com/search?q=%23VOLGRO) | N/A |
+| 1 | [#excaja](http://twitter.com/search?q=%23excaja) | N/A |
+| 2 | [#twefey](http://twitter.com/search?q=%23twefey) | N/A |
+| 3 | [bijlow](http://twitter.com/search?q=bijlow) | N/A |
+| 4 | [#volgro](http://twitter.com/search?q=%23volgro) | N/A |
 | 5 | [#camfor](http://twitter.com/search?q=%23camfor) | N/A |
-| 6 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 7 | [#Buitenhof](http://twitter.com/search?q=%23Buitenhof) | N/A |
-| 8 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 9 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
-| 10 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 11 | [Philips](http://twitter.com/search?q=Philips) | N/A |
-| 12 | [Trefbal](http://twitter.com/search?q=Trefbal) | N/A |
-| 13 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
-| 14 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
-| 15 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
-| 16 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 17 | [Pröpper](http://twitter.com/search?q=Pr%c3%b6pper) | N/A |
-| 18 | [frans hoek](http://twitter.com/search?q=frans+hoek) | N/A |
-| 19 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 20 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
-| 21 | [manschot](http://twitter.com/search?q=manschot) | N/A |
-| 22 | [rensch](http://twitter.com/search?q=rensch) | N/A |
-| 23 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 24 | [Den Uyl](http://twitter.com/search?q=Den+Uyl) | N/A |
-| 25 | [wijndal](http://twitter.com/search?q=wijndal) | N/A |
-| 26 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 27 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
-| 28 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
-| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 30 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
-| 31 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 32 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 33 | [louise fresco](http://twitter.com/search?q=louise+fresco) | N/A |
-| 34 | [UMCG](http://twitter.com/search?q=UMCG) | N/A |
-| 35 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 36 | [Anish Giri](http://twitter.com/search?q=Anish+Giri) | N/A |
-| 37 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 39 | [striptease](http://twitter.com/search?q=striptease) | N/A |
-| 40 | [PABO](http://twitter.com/search?q=PABO) | N/A |
-| 41 | [zeist](http://twitter.com/search?q=zeist) | N/A |
-| 42 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 43 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 44 | [Ziggo Dome](http://twitter.com/search?q=Ziggo+Dome) | N/A |
-| 45 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 46 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 47 | [Luik](http://twitter.com/search?q=Luik) | N/A |
+| 6 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 7 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 8 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
+| 9 | [Philips](http://twitter.com/search?q=Philips) | N/A |
+| 10 | [trefbal](http://twitter.com/search?q=trefbal) | N/A |
+| 11 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 12 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
+| 13 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
+| 14 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
+| 15 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
+| 16 | [frans hoek](http://twitter.com/search?q=frans+hoek) | N/A |
+| 17 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 18 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 19 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
+| 20 | [Pröpper](http://twitter.com/search?q=Pr%c3%b6pper) | N/A |
+| 21 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 22 | [klaassen](http://twitter.com/search?q=klaassen) | N/A |
+| 23 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
+| 24 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 26 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 27 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
+| 28 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 29 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
+| 30 | [Louise Fresco](http://twitter.com/search?q=Louise+Fresco) | N/A |
+| 31 | [UMCG](http://twitter.com/search?q=UMCG) | N/A |
+| 32 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 33 | [Anish Giri](http://twitter.com/search?q=Anish+Giri) | N/A |
+| 34 | [Den Uyl](http://twitter.com/search?q=Den+Uyl) | N/A |
+| 35 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 36 | [Striptease](http://twitter.com/search?q=Striptease) | N/A |
+| 37 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 38 | [PABO](http://twitter.com/search?q=PABO) | N/A |
+| 39 | [zeist](http://twitter.com/search?q=zeist) | N/A |
+| 40 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 41 | [ziggo dome](http://twitter.com/search?q=ziggo+dome) | N/A |
+| 42 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 43 | [Luik](http://twitter.com/search?q=Luik) | N/A |
+| 44 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 45 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 46 | [Strijders](http://twitter.com/search?q=Strijders) | N/A |
+| 47 | [thomas erdbrink](http://twitter.com/search?q=thomas+erdbrink) | N/A |
 | 48 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 49 | [maarten](http://twitter.com/search?q=maarten) | N/A |
-| 50 | [thomas erdbrink](http://twitter.com/search?q=thomas+erdbrink) | N/A |
+| 49 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
 
 
 
