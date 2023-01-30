@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-01-30 05:16:02 UTC`
+📆 Last Updated: `2023-01-30 06:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MahatmaGandhi](http://twitter.com/search?q=%23MahatmaGandhi) | N/A |
+| 1 | [#MahatmaGandhi](http://twitter.com/search?q=%23MahatmaGandhi) | #MahatmaGandhi is a hashtag used to refer to Mohandas Karamchand Gandhi, an Indian lawyer, anti-colonial nationalist, and political ethicist who led India's struggle for independence from British rule. He is often referred to as Mahatma (meaning "great soul") in India. |
 | 2 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
 | 3 | [#MartyrsDay](http://twitter.com/search?q=%23MartyrsDay) | N/A |
 | 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#Release_AsharamBapu](http://twitter.com/search?q=%23Release_AsharamBapu) | N/A |
-| 6 | [#FireStormIsComing](http://twitter.com/search?q=%23FireStormIsComing) | N/A |
-| 7 | [Mere Allegations](http://twitter.com/search?q=Mere+Allegations) | N/A |
-| 8 | [Listen To Public](http://twitter.com/search?q=Listen+To+Public) | N/A |
-| 9 | [MainstreamMedia Tool InBWHands](http://twitter.com/search?q=MainstreamMedia+Tool+InBWHands) | N/A |
-| 10 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 11 | [Father of the Nation](http://twitter.com/search?q=Father+of+the+Nation) | N/A |
-| 12 | [नाथूराम गोडसे](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a5%e0%a5%82%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%97%e0%a5%8b%e0%a4%a1%e0%a4%b8%e0%a5%87) | N/A |
-| 13 | [राणा सांगा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 14 | [DEPTH](http://twitter.com/search?q=DEPTH) | N/A |
-| 15 | [जयशंकर प्रसाद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
-| 16 | [Idli](http://twitter.com/search?q=Idli) | N/A |
-| 17 | [Nationalism](http://twitter.com/search?q=Nationalism) | N/A |
-| 18 | [माखनलाल चतुर्वेदी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%96%e0%a4%a8%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%9a%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a5%80) | N/A |
-| 19 | [Nathuram Godse](http://twitter.com/search?q=Nathuram+Godse) | N/A |
-| 20 | [रूहानी धाम](http://twitter.com/search?q=%e0%a4%b0%e0%a5%82%e0%a4%b9%e0%a4%be%e0%a4%a8%e0%a5%80+%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
+| 5 | [#FireStormIsComing](http://twitter.com/search?q=%23FireStormIsComing) | N/A |
+| 6 | [#TheyCallHimOG](http://twitter.com/search?q=%23TheyCallHimOG) | N/A |
+| 7 | [नाथूराम गोडसे](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a5%e0%a5%82%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%97%e0%a5%8b%e0%a4%a1%e0%a4%b8%e0%a5%87) | N/A |
+| 8 | [Father of the Nation](http://twitter.com/search?q=Father+of+the+Nation) | N/A |
+| 9 | [राणा सांगा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 10 | [Mere Allegations](http://twitter.com/search?q=Mere+Allegations) | N/A |
+| 11 | [Listen To Public](http://twitter.com/search?q=Listen+To+Public) | N/A |
+| 12 | [MainstreamMedia Tool InBWHands](http://twitter.com/search?q=MainstreamMedia+Tool+InBWHands) | N/A |
+| 13 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 14 | [Nationalism](http://twitter.com/search?q=Nationalism) | N/A |
+| 15 | [महाराणा संग्राम सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 16 | [DEPTH](http://twitter.com/search?q=DEPTH) | N/A |
+| 17 | [Godse](http://twitter.com/search?q=Godse) | N/A |
+| 18 | [Idli](http://twitter.com/search?q=Idli) | N/A |
+| 19 | [माखनलाल चतुर्वेदी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%96%e0%a4%a8%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%9a%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a5%80) | N/A |
+| 20 | [जयशंकर प्रसाद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%af%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
 | 21 | [ऑनलाइन गुरुकुल](http://twitter.com/search?q=%e0%a4%91%e0%a4%a8%e0%a4%b2%e0%a4%be%e0%a4%87%e0%a4%a8+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81%e0%a4%95%e0%a5%81%e0%a4%b2) | N/A |
-| 22 | [अवतार माह](http://twitter.com/search?q=%e0%a4%85%e0%a4%b5%e0%a4%a4%e0%a4%be%e0%a4%b0+%e0%a4%ae%e0%a4%be%e0%a4%b9) | N/A |
-| 23 | [Poha](http://twitter.com/search?q=Poha) | N/A |
-| 24 | [शाह सतनाम](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%b8%e0%a4%a4%e0%a4%a8%e0%a4%be%e0%a4%ae) | N/A |
-| 25 | [The OG](http://twitter.com/search?q=The+OG) | N/A |
-| 26 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 27 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 28 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 29 | [विधान परिषद](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
-| 30 | [भारतीय महिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 31 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 32 | [हिन्दू धर्म](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 33 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 34 | [Tiranga](http://twitter.com/search?q=Tiranga) | N/A |
-| 35 | [भारतीय टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9f%e0%a5%80%e0%a4%ae) | N/A |
-| 36 | [T-20](http://twitter.com/search?q=T-20) | N/A |
-| 37 | [#TheyCallHimOG](http://twitter.com/search?q=%23TheyCallHimOG) | N/A |
-| 38 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
-| 39 | [#CelebrationAtSalabatpura](http://twitter.com/search?q=%23CelebrationAtSalabatpura) | N/A |
-| 40 | [#LICZindaHai](http://twitter.com/search?q=%23LICZindaHai) | N/A |
-| 41 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 42 | [#AdaniGroup](http://twitter.com/search?q=%23AdaniGroup) | Adani Group is an Indian multinational conglomerate company headquartered in Ahmedabad, Gujarat. It was founded by Gautam Adani in 1988 as a commodity trading business. The group operates in multiple sectors including energy, resources, logistics, agribusiness, real estate, financial services and defence. The group has a presence in over 20 countries across the world. |
-| 43 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 44 | [#HindenbergResearch](http://twitter.com/search?q=%23HindenbergResearch) | N/A |
-| 45 | [#ShaheedDiwas](http://twitter.com/search?q=%23ShaheedDiwas) | N/A |
-| 46 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 47 | [#MaharanaSanga](http://twitter.com/search?q=%23MaharanaSanga) | N/A |
-| 48 | [#राष्ट्रपिता](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%bf%e0%a4%a4%e0%a4%be) | N/A |
-| 49 | [#शहीद_दिवस](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 50 | [#WorldLeprosyDay](http://twitter.com/search?q=%23WorldLeprosyDay) | N/A |
+| 22 | [स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 23 | [भारतीय स्वतंत्रता आंदोलन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
+| 24 | [अवतार माह](http://twitter.com/search?q=%e0%a4%85%e0%a4%b5%e0%a4%a4%e0%a4%be%e0%a4%b0+%e0%a4%ae%e0%a4%be%e0%a4%b9) | N/A |
+| 25 | [Poha](http://twitter.com/search?q=Poha) | N/A |
+| 26 | [The OG](http://twitter.com/search?q=The+OG) | N/A |
+| 27 | [Samuel Johnson](http://twitter.com/search?q=Samuel+Johnson) | N/A |
+| 28 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
+| 29 | [Khalistani](http://twitter.com/search?q=Khalistani) | N/A |
+| 30 | [Patriotism](http://twitter.com/search?q=Patriotism) | N/A |
+| 31 | [शाह सतनाम](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%b8%e0%a4%a4%e0%a4%a8%e0%a4%be%e0%a4%ae) | N/A |
+| 32 | [विधान परिषद](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
+| 33 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 34 | [पूर्व केंद्रीय मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 35 | [भारतीय महिला](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 36 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 37 | [महिला क्रिकेट](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f) | N/A |
+| 38 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 39 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 40 | [Tiranga](http://twitter.com/search?q=Tiranga) | N/A |
+| 41 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
+| 42 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 43 | [#CelebrationAtSalabatpura](http://twitter.com/search?q=%23CelebrationAtSalabatpura) | N/A |
+| 44 | [#Release_AsharamBapu](http://twitter.com/search?q=%23Release_AsharamBapu) | N/A |
+| 45 | [#HindenbergResearch](http://twitter.com/search?q=%23HindenbergResearch) | N/A |
+| 46 | [#LICZindaHai](http://twitter.com/search?q=%23LICZindaHai) | N/A |
+| 47 | [#ShaheedDiwas](http://twitter.com/search?q=%23ShaheedDiwas) | N/A |
+| 48 | [#Adaniscam](http://twitter.com/search?q=%23Adaniscam) | N/A |
+| 49 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 50 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
 
 
 

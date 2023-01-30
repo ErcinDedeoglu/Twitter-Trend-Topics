@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-01-30 05:15:47 UTC`
+📆 Last Updated: `2023-01-30 06:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [Sion](http://twitter.com/search?q=Sion) | N/A |
 | 5 | [#hcap](http://twitter.com/search?q=%23hcap) | N/A |
 | 6 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 7 | [basel](http://twitter.com/search?q=basel) | N/A |
+| 7 | [Basel](http://twitter.com/search?q=Basel) | N/A |
 | 8 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
 | 9 | [Luft](http://twitter.com/search?q=Luft) | N/A |
 | 10 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 11 | [#nosvp](http://twitter.com/search?q=%23nosvp) | N/A |
-| 12 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
-| 13 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
-| 14 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 15 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
-| 16 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
-| 17 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 18 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 19 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 21 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 22 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 23 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 24 | [langnau](http://twitter.com/search?q=langnau) | N/A |
-| 25 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 26 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
-| 27 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 28 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
-| 29 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 30 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 31 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 32 | [turquie](http://twitter.com/search?q=turquie) | N/A |
-| 33 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 34 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 35 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
-| 36 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 37 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 38 | [risiko](http://twitter.com/search?q=risiko) | N/A |
-| 39 | [Linie](http://twitter.com/search?q=Linie) | N/A |
-| 40 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 41 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
-| 42 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
-| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 45 | [Afrique](http://twitter.com/search?q=Afrique) | N/A |
-| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 47 | [America](http://twitter.com/search?q=America) | N/A |
+| 11 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 12 | [#nosvp](http://twitter.com/search?q=%23nosvp) | N/A |
+| 13 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 14 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
+| 15 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 16 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 17 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
+| 18 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 19 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 20 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 22 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 23 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 24 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 25 | [langnau](http://twitter.com/search?q=langnau) | N/A |
+| 26 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 27 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
+| 28 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 29 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
+| 30 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 31 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 32 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 33 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 34 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
+| 35 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 36 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 37 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 38 | [Pre Order Live](http://twitter.com/search?q=Pre+Order+Live) | N/A |
+| 39 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 40 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 41 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 42 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 43 | [Linie](http://twitter.com/search?q=Linie) | N/A |
+| 44 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 45 | [marc germann](http://twitter.com/search?q=marc+germann) | N/A |
+| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 
 
 

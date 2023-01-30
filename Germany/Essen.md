@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-01-30 05:15:44 UTC`
+📆 Last Updated: `2023-01-30 06:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 2 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
-| 3 | [#s04koe](http://twitter.com/search?q=%23s04koe) | N/A |
+| 2 | [#s04koe](http://twitter.com/search?q=%23s04koe) | N/A |
+| 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
 | 4 | [#B04BVB](http://twitter.com/search?q=%23B04BVB) | N/A |
-| 5 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 7 | [#FCBSGE](http://twitter.com/search?q=%23FCBSGE) | N/A |
-| 8 | [#hsvebs](http://twitter.com/search?q=%23hsvebs) | N/A |
-| 9 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 10 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 11 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 12 | [versprecher](http://twitter.com/search?q=versprecher) | N/A |
+| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 7 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
+| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 9 | [#hsvebs](http://twitter.com/search?q=%23hsvebs) | N/A |
+| 10 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
+| 11 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 12 | [Finale](http://twitter.com/search?q=Finale) | N/A |
 | 13 | [krone](http://twitter.com/search?q=krone) | N/A |
-| 14 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 14 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
 | 15 | [dschungelkönig](http://twitter.com/search?q=dschungelk%c3%b6nig) | N/A |
 | 16 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 17 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 18 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 19 | [essensprüfung](http://twitter.com/search?q=essenspr%c3%bcfung) | N/A |
-| 20 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
-| 21 | [jolina](http://twitter.com/search?q=jolina) | N/A |
-| 22 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 23 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 24 | [saarbrücken](http://twitter.com/search?q=saarbr%c3%bccken) | N/A |
-| 25 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 26 | [Sonja](http://twitter.com/search?q=Sonja) | N/A |
+| 18 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 19 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 20 | [jolina](http://twitter.com/search?q=jolina) | N/A |
+| 21 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 22 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 23 | [Essensprüfung](http://twitter.com/search?q=Essenspr%c3%bcfung) | N/A |
+| 24 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 25 | [saarbrücken](http://twitter.com/search?q=saarbr%c3%bccken) | N/A |
+| 26 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
 | 27 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
 | 28 | [ralle](http://twitter.com/search?q=ralle) | N/A |
-| 29 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 30 | [Dr. Bob](http://twitter.com/search?q=Dr.+Bob) | N/A |
-| 31 | [u-boote](http://twitter.com/search?q=u-boote) | N/A |
-| 32 | [latza](http://twitter.com/search?q=latza) | N/A |
-| 33 | [außenministerin](http://twitter.com/search?q=au%c3%9fenministerin) | N/A |
-| 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 35 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 36 | [Herr Merz](http://twitter.com/search?q=Herr+Merz) | N/A |
-| 37 | [schnorchel](http://twitter.com/search?q=schnorchel) | N/A |
-| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 39 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 40 | [Maaßen](http://twitter.com/search?q=Maa%c3%9fen) | N/A |
+| 29 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 30 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 31 | [Dr. Bob](http://twitter.com/search?q=Dr.+Bob) | N/A |
+| 32 | [Sonja](http://twitter.com/search?q=Sonja) | N/A |
+| 33 | [u-boote](http://twitter.com/search?q=u-boote) | N/A |
+| 34 | [latza](http://twitter.com/search?q=latza) | N/A |
+| 35 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 36 | [Maaßen](http://twitter.com/search?q=Maa%c3%9fen) | N/A |
+| 37 | [Herr Merz](http://twitter.com/search?q=Herr+Merz) | N/A |
+| 38 | [schnorchel](http://twitter.com/search?q=schnorchel) | N/A |
+| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 40 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
 | 41 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
 | 42 | [kakerlaken](http://twitter.com/search?q=kakerlaken) | N/A |
 | 43 | [gegentor](http://twitter.com/search?q=gegentor) | N/A |
-| 44 | [Sterne](http://twitter.com/search?q=Sterne) | N/A |
-| 45 | [jenz](http://twitter.com/search?q=jenz) | N/A |
-| 46 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 47 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 44 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 45 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 46 | [jenz](http://twitter.com/search?q=jenz) | N/A |
+| 47 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
 | 48 | [abschied](http://twitter.com/search?q=abschied) | N/A |
 
 

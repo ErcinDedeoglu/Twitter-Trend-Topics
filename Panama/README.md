@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-01-30 05:16:16 UTC`
+📆 Last Updated: `2023-01-30 06:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,23 +16,23 @@ This is top 50 for Panama
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 3 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 4 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 5 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
-| 6 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 7 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 8 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 9 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 10 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
-| 11 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 12 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
-| 13 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 2 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 3 | [#RoyalRumble](http://twitter.com/search?q=%23RoyalRumble) | Royal Rumble is a professional wrestling event produced annually by the American professional wrestling promotion WWE. It is a pay-per-view event and is one of the "Big Four" events of the WWE, along with WrestleMania, SummerSlam, and Survivor Series. The Royal Rumble match is a battle royal in which 30 wrestlers enter the ring at timed intervals and attempt to eliminate each other by throwing them over the top rope until only one remains. The winner of the match earns a championship match at WrestleMania. |
+| 4 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 5 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
+| 6 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 7 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 8 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 9 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 10 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 11 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
+| 12 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 13 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 14 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
 | 15 | [#unminutoparadios](http://twitter.com/search?q=%23unminutoparadios) | N/A |
 | 16 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 18 | [Martín Torrijos](http://twitter.com/search?q=Mart%c3%adn+Torrijos) | N/A |
+| 18 | [martín torrijos](http://twitter.com/search?q=mart%c3%adn+torrijos) | N/A |
 | 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 20 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
 | 21 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for Panama
 | 28 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
 | 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 30 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 31 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 32 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 31 | [#SeguridadVial](http://twitter.com/search?q=%23SeguridadVial) | N/A |
+| 32 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
 | 33 | [Tyre Nichols](http://twitter.com/search?q=Tyre+Nichols) | Tyre Nichols is a name of African-American origin. It is derived from the French word "tirer," which means "to pull," and the English word "Nichols," which is a patronymic surname meaning "son of Nicholas." The name Tyre Nichols can be translated to mean "the son of Nicholas who pulls." |
 | 34 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 35 | [Felicitaciones](http://twitter.com/search?q=Felicitaciones) | N/A |
-| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 37 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
-| 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 39 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 40 | [José Martí](http://twitter.com/search?q=Jos%c3%a9+Mart%c3%ad) | N/A |
-| 41 | [El Madrid](http://twitter.com/search?q=El+Madrid) | El Madrid is a nickname for the Spanish football team Real Madrid. It is derived from the city of Madrid, where the team is based. In English, it translates to "The Madrid". |
-| 42 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 43 | [Buenaventura](http://twitter.com/search?q=Buenaventura) | N/A |
-| 44 | [Furia](http://twitter.com/search?q=Furia) | N/A |
-| 45 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 46 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 47 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 48 | [El Señor](http://twitter.com/search?q=El+Se%c3%b1or) | N/A |
-| 49 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
-| 50 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 35 | [Álvaro](http://twitter.com/search?q=%c3%81lvaro) | N/A |
+| 36 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 38 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 39 | [José Martí](http://twitter.com/search?q=Jos%c3%a9+Mart%c3%ad) | N/A |
+| 40 | [El Madrid](http://twitter.com/search?q=El+Madrid) | El Madrid is a nickname for the Spanish football team Real Madrid. It is derived from the city of Madrid, where the team is based. In English, it translates to "The Madrid". |
+| 41 | [Buenaventura](http://twitter.com/search?q=Buenaventura) | N/A |
+| 42 | [Furia](http://twitter.com/search?q=Furia) | N/A |
+| 43 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 44 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 46 | [El Señor](http://twitter.com/search?q=El+Se%c3%b1or) | N/A |
+| 47 | [Corrupto](http://twitter.com/search?q=Corrupto) | N/A |
+| 48 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 50 | [Miss Universo](http://twitter.com/search?q=Miss+Universo) | N/A |
 
 
 

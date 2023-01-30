@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-01-30 05:16:17 UTC`
+📆 Last Updated: `2023-01-30 06:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,15 +27,15 @@ This is top 50 for Sweden
 | 10 | [skogås](http://twitter.com/search?q=skog%c3%a5s) | N/A |
 | 11 | [ebba andersson](http://twitter.com/search?q=ebba+andersson) | N/A |
 | 12 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 14 | [reinfeldt](http://twitter.com/search?q=reinfeldt) | N/A |
-| 15 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 17 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 18 | [börja](http://twitter.com/search?q=b%c3%b6rja) | N/A |
+| 13 | [reinfeldt](http://twitter.com/search?q=reinfeldt) | N/A |
+| 14 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 15 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 17 | [börja](http://twitter.com/search?q=b%c3%b6rja) | N/A |
+| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 19 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 22 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 23 | [hela sverige](http://twitter.com/search?q=hela+sverige) | N/A |
 | 24 | [timbro](http://twitter.com/search?q=timbro) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for Sweden
 | 28 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 29 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
 | 30 | [#nflse](http://twitter.com/search?q=%23nflse) | N/A |
-| 31 | [botkyrka](http://twitter.com/search?q=botkyrka) | N/A |
-| 32 | [rögle](http://twitter.com/search?q=r%c3%b6gle) | N/A |
-| 33 | [spanien](http://twitter.com/search?q=spanien) | N/A |
-| 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 35 | [Burzum](http://twitter.com/search?q=Burzum) | N/A |
-| 36 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 37 | [Vincennes](http://twitter.com/search?q=Vincennes) | N/A |
-| 38 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 39 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 40 | [fa-cupen](http://twitter.com/search?q=fa-cupen) | N/A |
-| 41 | [västervik](http://twitter.com/search?q=v%c3%a4stervik) | N/A |
-| 42 | [Forsell](http://twitter.com/search?q=Forsell) | N/A |
-| 43 | [Prix](http://twitter.com/search?q=Prix) | N/A |
-| 44 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 31 | [rögle](http://twitter.com/search?q=r%c3%b6gle) | N/A |
+| 32 | [spanien](http://twitter.com/search?q=spanien) | N/A |
+| 33 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 34 | [Burzum](http://twitter.com/search?q=Burzum) | N/A |
+| 35 | [Vincennes](http://twitter.com/search?q=Vincennes) | N/A |
+| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 37 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
+| 38 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 39 | [fa-cupen](http://twitter.com/search?q=fa-cupen) | N/A |
+| 40 | [västervik](http://twitter.com/search?q=v%c3%a4stervik) | N/A |
+| 41 | [Forsell](http://twitter.com/search?q=Forsell) | N/A |
+| 42 | [prix](http://twitter.com/search?q=prix) | N/A |
+| 43 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 44 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
 | 45 | [don fanucci zet](http://twitter.com/search?q=don+fanucci+zet) | N/A |
 | 46 | [natoprocessen](http://twitter.com/search?q=natoprocessen) | N/A |
 | 47 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
-| 48 | [malmös](http://twitter.com/search?q=malm%c3%b6s) | N/A |
-| 49 | [alliansen](http://twitter.com/search?q=alliansen) | N/A |
-| 50 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 48 | [alliansen](http://twitter.com/search?q=alliansen) | N/A |
+| 49 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 50 | [Boden](http://twitter.com/search?q=Boden) | N/A |
 
 
 

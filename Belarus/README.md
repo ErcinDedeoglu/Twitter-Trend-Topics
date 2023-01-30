@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-01-30 05:16:12 UTC`
+📆 Last Updated: `2023-01-30 06:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,13 +29,13 @@ This is top 50 for Belarus
 | 12 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
 | 13 | [Foundation](http://twitter.com/search?q=Foundation) | N/A |
 | 14 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
-| 15 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 16 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 15 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 16 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
 | 17 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
-| 18 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
-| 19 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 20 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 21 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 18 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 19 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 20 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 21 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 
 
 
