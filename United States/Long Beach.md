@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-01-29 23:15:51 UTC`
+📆 Last Updated: `2023-01-30 00:25:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Defense](http://twitter.com/search?q=Defense) | Defense is the action of protecting something or someone from attack, harm, or damage. It is an act of guarding against or resisting attack, danger, or harm. In other words, it is a way of protecting oneself or one's property from harm. |
-| 2 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
-| 3 | [#RamsHouse](http://twitter.com/search?q=%23RamsHouse) | N/A |
-| 4 | [Juice](http://twitter.com/search?q=Juice) | N/A |
-| 5 | [No QB](http://twitter.com/search?q=No+QB) | N/A |
-| 6 | [Shanny](http://twitter.com/search?q=Shanny) | N/A |
-| 7 | [Injuries](http://twitter.com/search?q=Injuries) | N/A |
-| 8 | [#NFLTwitter](http://twitter.com/search?q=%23NFLTwitter) | N/A |
-| 9 | [Kaepernick](http://twitter.com/search?q=Kaepernick) | N/A |
-| 10 | [The NFL](http://twitter.com/search?q=The+NFL) | The NFL stands for the National Football League, which is the highest level of professional American football in the United States. It consists of 32 teams divided into two conferences, the National Football Conference (NFC) and the American Football Conference (AFC). |
-| 11 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 12 | [Mason](http://twitter.com/search?q=Mason) | N/A |
-| 13 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 14 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
-| 15 | [Trent Williams](http://twitter.com/search?q=Trent+Williams) | Trent Williams is an American football offensive tackle for the San Francisco 49ers of the National Football League (NFL). He was drafted by the Washington Redskins fourth overall in the 2010 NFL Draft. He has been selected to seven Pro Bowls and is considered one of the best offensive tackles in the NFL. |
-| 16 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 17 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 18 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
-| 19 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
-| 20 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 21 | [#NFCChampionship](http://twitter.com/search?q=%23NFCChampionship) | #NFCChampionship is a hashtag used on social media to refer to the National Football Conference (NFC) Championship Game, which is the annual championship game of the National Football Conference (NFC) in the NFL. The winner of this game advances to the Super Bowl. |
-| 22 | [San Fran](http://twitter.com/search?q=San+Fran) | San Fran is a nickname for the city of San Francisco, California. It is often used as a shorthand way of referring to the city. |
-| 23 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 24 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
-| 25 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 26 | [Deebo](http://twitter.com/search?q=Deebo) | Deebo is a slang term derived from the character Deebo in the 1995 movie Friday. It is used to refer to someone who is strong, intimidating, or aggressive. |
-| 27 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 28 | [#FTTB](http://twitter.com/search?q=%23FTTB) | #FTTB stands for "For The Team's Benefit" and is used to show support for a team or group effort. It is often used in sports, business, and other contexts to emphasize the importance of working together for the benefit of the entire team. |
-| 29 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
-| 30 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 31 | [Megyn](http://twitter.com/search?q=Megyn) | Megyn is a female given name of Irish origin, derived from the Gaelic word "Méigín", meaning "little pearl". |
-| 32 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
-| 33 | [Sanders](http://twitter.com/search?q=Sanders) | Sanders is a surname of English origin. It is derived from the personal name Sander, which is a form of Alexander. The name Sanders means "defender of men". |
-| 34 | [McCaffery](http://twitter.com/search?q=McCaffery) | McCaffery is a surname of Irish origin. It is derived from the Gaelic Mac Caffaraidh, meaning "son of Caffar". |
-| 35 | [Devonta Smith](http://twitter.com/search?q=Devonta+Smith) | Devonta Smith is a name of an American football wide receiver for the Philadelphia Eagles of the National Football League (NFL). The name Devonta is derived from the Latin word "devons" which means "to be devoted". |
-| 36 | [Greenlaw](http://twitter.com/search?q=Greenlaw) | N/A |
-| 37 | [4th QB](http://twitter.com/search?q=4th+QB) | 4th QB is a term used in American football to refer to the fourth-string quarterback on a team's roster. This player is usually the least experienced and least likely to play in a game, but may be called upon if the other three quarterbacks are injured or otherwise unable to play. |
-| 38 | [Nick Sirianni](http://twitter.com/search?q=Nick+Sirianni) | Nick Sirianni is the head coach of the Philadelphia Eagles of the National Football League (NFL). The name is derived from his Italian heritage, with "Sirianni" being an Italian surname. In English, it means "son of Sirianni". |
-| 39 | [Gronk](http://twitter.com/search?q=Gronk) | Gronk is a slang term used to describe someone who is strong, tough, and energetic. It can also be used to describe someone who is outgoing and fun-loving. |
-| 40 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 41 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | N/A |
-| 42 | [Fred Warner](http://twitter.com/search?q=Fred+Warner) | Fred Warner is a surname of English origin. It is derived from the Old English words "frið" meaning peace and "werner" meaning army or defense. The name is thought to have been given to someone who was a defender of peace. |
-| 43 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
-| 44 | [Boston Scott](http://twitter.com/search?q=Boston+Scott) | Boston Scott is a nickname given to American football running back Boston Scott of the Philadelphia Eagles. The name is a play on words, as it combines his first name with the city of Philadelphia, which is often referred to as "The City of Brotherly Love" or "The City of Brotherly Scott". |
-| 45 | [Gainwell](http://twitter.com/search?q=Gainwell) | Gainwell is a term used in the financial industry to refer to a company or individual that has achieved a significant increase in their net worth or assets. It is often used to describe someone who has made a large profit from an investment or business venture. In English, it can be translated as "profiting well". |
-| 46 | [AJ Brown](http://twitter.com/search?q=AJ+Brown) | AJ Brown is a slang term used to refer to someone who is attractive, stylish, and cool. It can also be used to describe someone who is confident and outgoing. |
-| 47 | [4 QBs](http://twitter.com/search?q=4+QBs) | N/A |
-| 48 | [NFC Champs](http://twitter.com/search?q=NFC+Champs) | N/A |
-| 49 | [Annie Wersching](http://twitter.com/search?q=Annie+Wersching) | Annie Wersching is an American actress. She is best known for her roles as FBI Special Agent Renee Walker on the Fox television series 24 and as Amelia Joffe on the ABC television series V. |
-| 50 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
+| 1 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
+| 2 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 3 | [Joe Burrow](http://twitter.com/search?q=Joe+Burrow) | Joe Burrow is an American football quarterback who currently plays for the Cincinnati Bengals of the National Football League (NFL). He played college football at Louisiana State University (LSU), where he won the Heisman Trophy, Maxwell Award, and Walter Camp Award in 2019. The name "Joe Burrow" is derived from his given name, Joseph Lee Burrow. |
+| 4 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 5 | [Kellen Moore](http://twitter.com/search?q=Kellen+Moore) | Kellen Moore is an American football quarterback who is currently a free agent. He played college football at Boise State University and was signed by the Detroit Lions as an undrafted free agent in 2012. He has also been a member of the Dallas Cowboys, Miami Dolphins, and Arizona Cardinals. |
+| 6 | [Defense](http://twitter.com/search?q=Defense) | Defense is the action of protecting something or someone from attack, harm, or damage. It is an act of guarding against or resisting attack, danger, or harm. In other words, it is a way of protecting oneself or one's property from harm. |
+| 7 | [3rd QB](http://twitter.com/search?q=3rd+QB) | N/A |
+| 8 | [Wallace](http://twitter.com/search?q=Wallace) | N/A |
+| 9 | [2 QBs](http://twitter.com/search?q=2+QBs) | N/A |
+| 10 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 11 | [No QB](http://twitter.com/search?q=No+QB) | N/A |
+| 12 | [Injuries](http://twitter.com/search?q=Injuries) | N/A |
+| 13 | [Goodfellas](http://twitter.com/search?q=Goodfellas) | N/A |
+| 14 | [Kaepernick](http://twitter.com/search?q=Kaepernick) | N/A |
+| 15 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 16 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 17 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
+| 18 | [Trent Williams](http://twitter.com/search?q=Trent+Williams) | Trent Williams is an American football offensive tackle for the San Francisco 49ers of the National Football League (NFL). He was drafted by the Washington Redskins fourth overall in the 2010 NFL Draft. He has been selected to seven Pro Bowls and is considered one of the best offensive tackles in the NFL. |
+| 19 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 20 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 21 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 22 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 23 | [Josh Johnson](http://twitter.com/search?q=Josh+Johnson) | Josh Johnson is a common English name. It is derived from the Hebrew name Joshua, which means "God is salvation". |
+| 24 | [#SFvsPHI](http://twitter.com/search?q=%23SFvsPHI) | #SFvsPHI is a hashtag used to refer to the San Francisco 49ers vs. Philadelphia Eagles football game. It is commonly used on social media platforms such as Twitter and Instagram to discuss the game or share related content. |
+| 25 | [#NFCChampionship](http://twitter.com/search?q=%23NFCChampionship) | #NFCChampionship is a hashtag used on social media to refer to the National Football Conference (NFC) Championship Game, which is the annual championship game of the National Football Conference (NFC) in the NFL. The winner of this game advances to the Super Bowl. |
+| 26 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 27 | [Sneed](http://twitter.com/search?q=Sneed) | Sneed is a slang term used to describe someone who is sneaky or untrustworthy. It can also be used to describe someone who is up to no good. |
+| 28 | [Tony Romo](http://twitter.com/search?q=Tony+Romo) | Tony Romo is an American football player who played for the Dallas Cowboys from 2003 to 2016. He is widely regarded as one of the best quarterbacks in NFL history, having been selected to four Pro Bowls and leading the Cowboys to six playoff appearances. The phrase "Tony Romo" has become synonymous with clutch performances and game-winning drives. |
+| 29 | [San Fran](http://twitter.com/search?q=San+Fran) | San Fran is a nickname for the city of San Francisco, California. It is often used as a shorthand way of referring to the city. |
+| 30 | [#NFLPlayoffs](http://twitter.com/search?q=%23NFLPlayoffs) | #NFLPlayoffs is a hashtag used on social media to refer to the National Football League (NFL) playoffs. It is used to discuss the teams, players, and games that are part of the NFL postseason. |
+| 31 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 32 | [Andy Reid](http://twitter.com/search?q=Andy+Reid) | Andy Reid is the head coach of the NFL's Kansas City Chiefs. He is known for his offensive coaching style and has been one of the most successful coaches in the league since taking over in 2013. He has led the Chiefs to six consecutive playoff appearances, four division titles, and a Super Bowl victory in 2020. |
+| 33 | [Shanahan](http://twitter.com/search?q=Shanahan) | Shanahan is an Irish surname derived from the Gaelic phrase "O'Seanachain," which means "descendant of Seanachan." It is most commonly found in Ireland and the United States. |
+| 34 | [Kelce](http://twitter.com/search?q=Kelce) | Kelce is a surname of German origin. It is derived from the Middle High German word "kelse", meaning "cabbage". |
+| 35 | [Megyn](http://twitter.com/search?q=Megyn) | Megyn is a female given name of Irish origin, derived from the Gaelic word "Méigín", meaning "little pearl". |
+| 36 | [#CINatKC](http://twitter.com/search?q=%23CINatKC) | N/A |
+| 37 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 38 | [#GoBirds](http://twitter.com/search?q=%23GoBirds) | N/A |
+| 39 | [Chris Jones](http://twitter.com/search?q=Chris+Jones) | Chris Jones is a phrase that is used to refer to someone who is very confident and self-assured. It can also be used to describe someone who is a risk-taker and has a strong sense of personal identity. |
+| 40 | [Deebo](http://twitter.com/search?q=Deebo) | Deebo is a slang term derived from the character Deebo in the 1995 movie Friday. It is used to refer to someone who is strong, intimidating, or aggressive. |
+| 41 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 42 | [Empire State Building](http://twitter.com/search?q=Empire+State+Building) | N/A |
+| 43 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
+| 44 | [Bosa](http://twitter.com/search?q=Bosa) | Bosa is a Spanish word meaning "kiss". It is often used as a term of endearment or affection. |
+| 45 | [Dr. Jill Biden](http://twitter.com/search?q=Dr.+Jill+Biden) | N/A |
+| 46 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 47 | [Frank Clark](http://twitter.com/search?q=Frank+Clark) | N/A |
+| 48 | [Dr. Biden](http://twitter.com/search?q=Dr.+Biden) | N/A |
+| 49 | [Terry Bradshaw](http://twitter.com/search?q=Terry+Bradshaw) | N/A |
+| 50 | [Greg Olsen](http://twitter.com/search?q=Greg+Olsen) | Greg Olsen is the name of an American football tight end who currently plays for the Seattle Seahawks. He is a three-time Pro Bowl selection and was named to the NFL's All-Decade Team of the 2010s. |
 
 
 

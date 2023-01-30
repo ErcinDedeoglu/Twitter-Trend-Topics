@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-01-29 23:15:30 UTC`
+📆 Last Updated: `2023-01-30 00:25:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,25 +37,25 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 20 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
 | 21 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
 | 22 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 23 | [Fledderus](http://twitter.com/search?q=Fledderus) | N/A |
-| 24 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
-| 25 | [Frans Hoek](http://twitter.com/search?q=Frans+Hoek) | N/A |
-| 26 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 23 | [frans hoek](http://twitter.com/search?q=frans+hoek) | N/A |
+| 24 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 25 | [Malieveld](http://twitter.com/search?q=Malieveld) | N/A |
+| 26 | [Fledderus](http://twitter.com/search?q=Fledderus) | N/A |
 | 27 | [Misidjan](http://twitter.com/search?q=Misidjan) | N/A |
-| 28 | [FC Volendam](http://twitter.com/search?q=FC+Volendam) | N/A |
+| 28 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
 | 29 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 30 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
+| 30 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 31 | [Januzaj](http://twitter.com/search?q=Januzaj) | N/A |
-| 32 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 33 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 34 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
-| 35 | [Joop](http://twitter.com/search?q=Joop) | N/A |
-| 36 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
+| 32 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 33 | [Ingeborg](http://twitter.com/search?q=Ingeborg) | N/A |
+| 34 | [Joop](http://twitter.com/search?q=Joop) | N/A |
+| 35 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
+| 36 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
 | 37 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 38 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 38 | [fc volendam](http://twitter.com/search?q=fc+volendam) | N/A |
 | 39 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 40 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 41 | [A12 in Den Haag](http://twitter.com/search?q=A12+in+Den+Haag) | N/A |
+| 40 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 41 | [a12 in den haag](http://twitter.com/search?q=a12+in+den+haag) | N/A |
 | 42 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
 | 43 | [Schippers](http://twitter.com/search?q=Schippers) | N/A |
 | 44 | [Amnesty](http://twitter.com/search?q=Amnesty) | N/A |

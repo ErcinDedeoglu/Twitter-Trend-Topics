@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-01-29 23:15:25 UTC`
+📆 Last Updated: `2023-01-30 00:25:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,20 +18,20 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
 | 2 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
 | 3 | [#LEGKOR](http://twitter.com/search?q=%23LEGKOR) | N/A |
-| 4 | [#PIAJAG](http://twitter.com/search?q=%23PIAJAG) | N/A |
+| 4 | [#piajag](http://twitter.com/search?q=%23piajag) | N/A |
 | 5 | [#StrefaStarcia](http://twitter.com/search?q=%23StrefaStarcia) | N/A |
 | 6 | [#LGDWPŁ](http://twitter.com/search?q=%23LGDWP%c5%81) | N/A |
-| 7 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
+| 7 | [#woronicza17](http://twitter.com/search?q=%23woronicza17) | N/A |
 | 8 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
 | 9 | [Korony](http://twitter.com/search?q=Korony) | N/A |
-| 10 | [Iranie](http://twitter.com/search?q=Iranie) | N/A |
-| 11 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 10 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 11 | [Iranie](http://twitter.com/search?q=Iranie) | N/A |
 | 12 | [Zybertowicz](http://twitter.com/search?q=Zybertowicz) | N/A |
-| 13 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 14 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 15 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
-| 16 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
-| 17 | [Yarde](http://twitter.com/search?q=Yarde) | Yarde is a French word meaning "yard" or "garden". It is used to refer to a small outdoor area, usually surrounded by a fence or wall, that is used for gardening, recreation, or other activities. |
+| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 14 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 15 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 16 | [Petr Pavel](http://twitter.com/search?q=Petr+Pavel) | Petr Pavel is a Czech name. In English, it translates to Peter Paul. |
+| 17 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | N/A |
 | 18 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 19 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
 | 20 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
@@ -43,28 +43,28 @@ This is top 50 for [Poland](</Poland>)
 | 26 | [Kneblewski](http://twitter.com/search?q=Kneblewski) | N/A |
 | 27 | [Muci](http://twitter.com/search?q=Muci) | N/A |
 | 28 | [kropiwnicki](http://twitter.com/search?q=kropiwnicki) | N/A |
-| 29 | [bad mitterndorf](http://twitter.com/search?q=bad+mitterndorf) | N/A |
-| 30 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
-| 31 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
-| 32 | [Ksiądz](http://twitter.com/search?q=Ksi%c4%85dz) | N/A |
-| 33 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
-| 34 | [Orkiestry](http://twitter.com/search?q=Orkiestry) | N/A |
+| 29 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
+| 30 | [Izrael](http://twitter.com/search?q=Izrael) | N/A |
+| 31 | [tudora](http://twitter.com/search?q=tudora) | N/A |
+| 32 | [Orkiestry](http://twitter.com/search?q=Orkiestry) | N/A |
+| 33 | [Ksiądz](http://twitter.com/search?q=Ksi%c4%85dz) | N/A |
+| 34 | [Polska Press](http://twitter.com/search?q=Polska+Press) | N/A |
 | 35 | [Widzewa](http://twitter.com/search?q=Widzewa) | N/A |
 | 36 | [siema](http://twitter.com/search?q=siema) | N/A |
-| 37 | [Gual](http://twitter.com/search?q=Gual) | N/A |
-| 38 | [tudora](http://twitter.com/search?q=tudora) | N/A |
-| 39 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
-| 40 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
-| 41 | [Niemieckiej](http://twitter.com/search?q=Niemieckiej) | N/A |
-| 42 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 37 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
+| 38 | [Gual](http://twitter.com/search?q=Gual) | N/A |
+| 39 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | N/A |
+| 40 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 41 | [Zieliński](http://twitter.com/search?q=Zieli%c5%84ski) | N/A |
+| 42 | [Niemieckiej](http://twitter.com/search?q=Niemieckiej) | N/A |
 | 43 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
-| 44 | [dubaju](http://twitter.com/search?q=dubaju) | N/A |
-| 45 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
-| 46 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 47 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 48 | [Neapolu](http://twitter.com/search?q=Neapolu) | N/A |
-| 49 | [Babis](http://twitter.com/search?q=Babis) | N/A |
-| 50 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 44 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 45 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 46 | [Babis](http://twitter.com/search?q=Babis) | N/A |
+| 47 | [piotr żyła](http://twitter.com/search?q=piotr+%c5%bcy%c5%82a) | N/A |
+| 48 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 49 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 50 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
 
 
 
