@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-01-30 17:15:47 UTC`
+📆 Last Updated: `2023-01-30 18:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
 | 3 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
 | 4 | [Anhangabaú](http://twitter.com/search?q=Anhangaba%c3%ba) | Anhangabaú is a neighborhood in the city of São Paulo, Brazil. The name Anhangabaú comes from the Tupi language and means "place of the anhangá (a type of bird)". In English, it can be translated as "Anhangá Place". |
-| 5 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 5 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
 | 6 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 7 | [#g4bandsports](http://twitter.com/search?q=%23g4bandsports) | N/A |
-| 8 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
-| 9 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 10 | [jorge ben](http://twitter.com/search?q=jorge+ben) | N/A |
-| 11 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 12 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
-| 13 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 14 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 15 | [Milly Lacombe](http://twitter.com/search?q=Milly+Lacombe) | N/A |
-| 16 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
-| 17 | [Flume](http://twitter.com/search?q=Flume) | Flume is a data streaming platform developed by Apache. It is used to collect, aggregate, and move large amounts of streaming data from various sources to a centralized data store. The term "flume" is derived from the concept of a water flume, which is used to transport water from one place to another. |
-| 18 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 20 | [Ministro de Lula](http://twitter.com/search?q=Ministro+de+Lula) | N/A |
-| 21 | [DAMARES NA CADEIA](http://twitter.com/search?q=DAMARES+NA+CADEIA) | N/A |
-| 22 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
-| 23 | [Duda Beat](http://twitter.com/search?q=Duda+Beat) | N/A |
-| 24 | [Pista Premium](http://twitter.com/search?q=Pista+Premium) | N/A |
-| 25 | [Mars Volta](http://twitter.com/search?q=Mars+Volta) | N/A |
-| 26 | [The Machine](http://twitter.com/search?q=The+Machine) | N/A |
-| 27 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 28 | [Scracho](http://twitter.com/search?q=Scracho) | N/A |
-| 29 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 30 | [Quadrinho Nacional](http://twitter.com/search?q=Quadrinho+Nacional) | N/A |
-| 31 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 7 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 8 | [#g4bandsports](http://twitter.com/search?q=%23g4bandsports) | N/A |
+| 9 | [Gracy](http://twitter.com/search?q=Gracy) | N/A |
+| 10 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 11 | [#PachecoNAO](http://twitter.com/search?q=%23PachecoNAO) | N/A |
+| 12 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 13 | [jorge ben](http://twitter.com/search?q=jorge+ben) | N/A |
+| 14 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 15 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 16 | [Milly Lacombe](http://twitter.com/search?q=Milly+Lacombe) | N/A |
+| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 18 | [DAMARES NA CADEIA](http://twitter.com/search?q=DAMARES+NA+CADEIA) | N/A |
+| 19 | [União Brasil](http://twitter.com/search?q=Uni%c3%a3o+Brasil) | N/A |
+| 20 | [Juninho Carioca](http://twitter.com/search?q=Juninho+Carioca) | N/A |
+| 21 | [mc carol](http://twitter.com/search?q=mc+carol) | N/A |
+| 22 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 23 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 24 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 25 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 26 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
+| 27 | [Duda Beat](http://twitter.com/search?q=Duda+Beat) | N/A |
+| 28 | [Flume](http://twitter.com/search?q=Flume) | Flume is a data streaming platform developed by Apache. It is used to collect, aggregate, and move large amounts of streaming data from various sources to a centralized data store. The term "flume" is derived from the concept of a water flume, which is used to transport water from one place to another. |
+| 29 | [Quadrinho Nacional](http://twitter.com/search?q=Quadrinho+Nacional) | N/A |
+| 30 | [Ministro de Lula](http://twitter.com/search?q=Ministro+de+Lula) | N/A |
+| 31 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
 | 32 | [Orçamento Secreto](http://twitter.com/search?q=Or%c3%a7amento+Secreto) | N/A |
-| 33 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 34 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 35 | [slipmami](http://twitter.com/search?q=slipmami) | N/A |
-| 36 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
-| 37 | [Death Note](http://twitter.com/search?q=Death+Note) | N/A |
-| 38 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 40 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 41 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
-| 42 | [Wolverhampton](http://twitter.com/search?q=Wolverhampton) | Wolverhampton is a city in the West Midlands region of England. It is the largest city in the county of Staffordshire and is located approximately 15 miles northwest of Birmingham. The name Wolverhampton comes from Anglo-Saxon words meaning "Wulfrun's homestead". |
-| 43 | [joongki](http://twitter.com/search?q=joongki) | N/A |
-| 44 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
-| 45 | [Fundo Amazônia](http://twitter.com/search?q=Fundo+Amaz%c3%b4nia) | N/A |
-| 46 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 47 | [#segundou](http://twitter.com/search?q=%23segundou) | N/A |
-| 48 | [Jennifer Aniston](http://twitter.com/search?q=Jennifer+Aniston) | Jennifer Aniston is an American actress, film producer, and businesswoman. She is best known for her role as Rachel Green on the television sitcom Friends (1994–2004). Aniston has also starred in films such as Bruce Almighty (2003), The Break-Up (2006), Marley & Me (2008), Just Go with It (2011), Horrible Bosses (2011) and We're the Millers (2013). |
-| 49 | [Mc Daniel](http://twitter.com/search?q=Mc+Daniel) | N/A |
-| 50 | [ufmg](http://twitter.com/search?q=ufmg) | N/A |
+| 33 | [Juscelino Filho](http://twitter.com/search?q=Juscelino+Filho) | N/A |
+| 34 | [Mars Volta](http://twitter.com/search?q=Mars+Volta) | N/A |
+| 35 | [Fundo Amazônia](http://twitter.com/search?q=Fundo+Amaz%c3%b4nia) | N/A |
+| 36 | [Scracho](http://twitter.com/search?q=Scracho) | N/A |
+| 37 | [Pista Premium](http://twitter.com/search?q=Pista+Premium) | N/A |
+| 38 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
+| 39 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 40 | [The Machine](http://twitter.com/search?q=The+Machine) | N/A |
+| 41 | [Death Note](http://twitter.com/search?q=Death+Note) | N/A |
+| 42 | [Comunicações](http://twitter.com/search?q=Comunica%c3%a7%c3%b5es) | N/A |
+| 43 | [slipmami](http://twitter.com/search?q=slipmami) | N/A |
+| 44 | [Wolverhampton](http://twitter.com/search?q=Wolverhampton) | Wolverhampton is a city in the West Midlands region of England. It is the largest city in the county of Staffordshire and is located approximately 15 miles northwest of Birmingham. The name Wolverhampton comes from Anglo-Saxon words meaning "Wulfrun's homestead". |
+| 45 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 46 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [Girão](http://twitter.com/search?q=Gir%c3%a3o) | N/A |
+| 49 | [#SongJoongKi](http://twitter.com/search?q=%23SongJoongKi) | N/A |
+| 50 | [Devolve](http://twitter.com/search?q=Devolve) | N/A |
 
 
 

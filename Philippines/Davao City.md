@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-01-30 17:16:02 UTC`
+📆 Last Updated: `2023-01-30 18:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,42 +26,43 @@ This is top 50 for [Philippines](</Philippines>)
 | 9 | [hye kyo](http://twitter.com/search?q=hye+kyo) | N/A |
 | 10 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
 | 11 | [BIGGER VENUE](http://twitter.com/search?q=BIGGER+VENUE) | N/A |
-| 12 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 13 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 14 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
-| 15 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 16 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
-| 17 | [SUPER JANELLA AT MEDIACON](http://twitter.com/search?q=SUPER+JANELLA+AT+MEDIACON) | N/A |
-| 18 | [JANEDELEON SHINES MEDIACON](http://twitter.com/search?q=JANEDELEON+SHINES+MEDIACON) | N/A |
-| 19 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
-| 20 | [gap world domination](http://twitter.com/search?q=gap+world+domination) | N/A |
-| 21 | [kdlex direkcathy in hk](http://twitter.com/search?q=kdlex+direkcathy+in+hk) | N/A |
-| 22 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
-| 23 | [jia you kayds](http://twitter.com/search?q=jia+you+kayds) | N/A |
-| 24 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
-| 25 | [Taeil](http://twitter.com/search?q=Taeil) | N/A |
-| 26 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 12 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 13 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 14 | [super janella at mediacon](http://twitter.com/search?q=super+janella+at+mediacon) | N/A |
+| 15 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
+| 16 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
+| 17 | [JANEDELEON SHINES MEDIACON](http://twitter.com/search?q=JANEDELEON+SHINES+MEDIACON) | N/A |
+| 18 | [gap world domination](http://twitter.com/search?q=gap+world+domination) | N/A |
+| 19 | [kdlex direkcathy in hk](http://twitter.com/search?q=kdlex+direkcathy+in+hk) | N/A |
+| 20 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
+| 21 | [jia you kayds](http://twitter.com/search?q=jia+you+kayds) | N/A |
+| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
+| 24 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 25 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 26 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
 | 27 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
 | 28 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 29 | [RAMYEONZ WITH SPAMZ](http://twitter.com/search?q=RAMYEONZ+WITH+SPAMZ) | N/A |
+| 29 | [somi](http://twitter.com/search?q=somi) | N/A |
 | 30 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 31 | [Boonana](http://twitter.com/search?q=Boonana) | N/A |
-| 32 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 33 | [PinakaCLASH NAMIN RALPHGAIL](http://twitter.com/search?q=PinakaCLASH+NAMIN+RALPHGAIL) | N/A |
-| 34 | [bini mojos everyday](http://twitter.com/search?q=bini+mojos+everyday) | N/A |
-| 35 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
-| 36 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
-| 37 | [PAUSE AND JAY MY HEART](http://twitter.com/search?q=PAUSE+AND+JAY+MY+HEART) | N/A |
-| 38 | [aljay pinaka malupet](http://twitter.com/search?q=aljay+pinaka+malupet) | N/A |
-| 39 | [youngji](http://twitter.com/search?q=youngji) | N/A |
-| 40 | [BGYO ACEstronger TWO YEARS](http://twitter.com/search?q=BGYO+ACEstronger+TWO+YEARS) | N/A |
-| 41 | [7TROPHIES MAKE IT HYPEN](http://twitter.com/search?q=7TROPHIES+MAKE+IT+HYPEN) | N/A |
-| 42 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
-| 43 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
-| 44 | [Happy Birthday Wooseok](http://twitter.com/search?q=Happy+Birthday+Wooseok) | N/A |
-| 45 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
-| 46 | [Rapper jaehyun](http://twitter.com/search?q=Rapper+jaehyun) | N/A |
-| 47 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
+| 31 | [bini mojos everyday](http://twitter.com/search?q=bini+mojos+everyday) | N/A |
+| 32 | [PinakaCLASH NAMIN RALPHGAIL](http://twitter.com/search?q=PinakaCLASH+NAMIN+RALPHGAIL) | N/A |
+| 33 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
+| 34 | [youngji](http://twitter.com/search?q=youngji) | N/A |
+| 35 | [BGYO ACEstronger TWO YEARS](http://twitter.com/search?q=BGYO+ACEstronger+TWO+YEARS) | N/A |
+| 36 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
+| 37 | [aljay pinaka malupet](http://twitter.com/search?q=aljay+pinaka+malupet) | N/A |
+| 38 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
+| 39 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
+| 40 | [BEST SCENERY V](http://twitter.com/search?q=BEST+SCENERY+V) | BEST SCENERY V is a Japanese term used to describe a beautiful landscape or view. It is often used to describe a particularly stunning or picturesque scene, such as a mountain range, lake, or sunset. In English, it could be translated as "the most beautiful scenery". |
+| 41 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
+| 42 | [Rapper jaehyun](http://twitter.com/search?q=Rapper+jaehyun) | N/A |
+| 43 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
+| 44 | [PAUSE AND JAY MY HEART](http://twitter.com/search?q=PAUSE+AND+JAY+MY+HEART) | N/A |
+| 45 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
+| 46 | [Boonana](http://twitter.com/search?q=Boonana) | N/A |
+| 47 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 48 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
 
 
 
