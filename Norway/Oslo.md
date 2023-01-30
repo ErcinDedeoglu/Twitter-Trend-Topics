@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-01-30 06:15:56 UTC`
+📆 Last Updated: `2023-01-30 07:15:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,22 +48,22 @@ This is top 50 for [Norway](</Norway>)
 | 31 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
 | 32 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
 | 33 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 34 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 35 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
-| 36 | [flott](http://twitter.com/search?q=flott) | N/A |
-| 37 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 38 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 39 | [vålerenga](http://twitter.com/search?q=v%c3%a5lerenga) | N/A |
-| 40 | [#Transfers](http://twitter.com/search?q=%23Transfers) | N/A |
-| 41 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
-| 42 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
-| 43 | [finnes](http://twitter.com/search?q=finnes) | N/A |
-| 44 | [mikkelsen](http://twitter.com/search?q=mikkelsen) | N/A |
-| 45 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 46 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 47 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
-| 48 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 49 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
+| 34 | [flott](http://twitter.com/search?q=flott) | N/A |
+| 35 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 36 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 37 | [vålerenga](http://twitter.com/search?q=v%c3%a5lerenga) | N/A |
+| 38 | [#Transfers](http://twitter.com/search?q=%23Transfers) | N/A |
+| 39 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
+| 40 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
+| 41 | [Finnes](http://twitter.com/search?q=Finnes) | N/A |
+| 42 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 43 | [Mikkelsen](http://twitter.com/search?q=Mikkelsen) | N/A |
+| 44 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 45 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 46 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 47 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 48 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
+| 49 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 
 
 

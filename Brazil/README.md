@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-01-30 06:16:21 UTC`
+📆 Last Updated: `2023-01-30 07:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,41 @@ This is top 50 for Brazil
 | 9 | [Se o Gabriel](http://twitter.com/search?q=Se+o+Gabriel) | Se o Gabriel is a Portuguese phrase that translates to "If Gabriel". It is typically used as a rhetorical question to express surprise or disbelief. |
 | 10 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
 | 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 12 | [#FestivalDeVeraoNaGlobo](http://twitter.com/search?q=%23FestivalDeVeraoNaGlobo) | N/A |
-| 13 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
-| 14 | [Tchau Gabriel](http://twitter.com/search?q=Tchau+Gabriel) | N/A |
-| 15 | [#NFLnaESPN](http://twitter.com/search?q=%23NFLnaESPN) | #NFLnaESPN is a hashtag used by ESPN Brazil to promote their coverage of the National Football League (NFL). It translates to "NFL on ESPN" in English. |
-| 16 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 17 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 18 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 19 | [Episódio](http://twitter.com/search?q=Epis%c3%b3dio) | N/A |
-| 20 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 12 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
+| 13 | [Tchau Gabriel](http://twitter.com/search?q=Tchau+Gabriel) | N/A |
+| 14 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 15 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
+| 16 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 17 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 18 | [Episódio](http://twitter.com/search?q=Epis%c3%b3dio) | N/A |
+| 19 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 20 | [Neil Druckmann](http://twitter.com/search?q=Neil+Druckmann) | N/A |
 | 21 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 22 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
-| 23 | [Vai Gabriel](http://twitter.com/search?q=Vai+Gabriel) | N/A |
-| 24 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 25 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
-| 26 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 27 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
-| 28 | [Neil Druckmann](http://twitter.com/search?q=Neil+Druckmann) | N/A |
-| 29 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 30 | [Cubriel](http://twitter.com/search?q=Cubriel) | N/A |
-| 31 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 32 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
-| 33 | [Joe Burrow](http://twitter.com/search?q=Joe+Burrow) | Joe Burrow is an American football quarterback who currently plays for the Cincinnati Bengals of the National Football League (NFL). He played college football at Louisiana State University (LSU), where he won the Heisman Trophy, Maxwell Award, and Walter Camp Award in 2019. The name "Joe Burrow" is derived from his given name, Joseph Lee Burrow. |
-| 34 | [Agora o Gabriel](http://twitter.com/search?q=Agora+o+Gabriel) | N/A |
-| 35 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 36 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
-| 37 | [Esse 3](http://twitter.com/search?q=Esse+3) | N/A |
-| 38 | [Expôs](http://twitter.com/search?q=Exp%c3%b4s) | N/A |
+| 23 | [#FestivalDeVeraoNoMultishow](http://twitter.com/search?q=%23FestivalDeVeraoNoMultishow) | N/A |
+| 24 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
+| 25 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 26 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
+| 27 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 28 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 29 | [Craig Mazin](http://twitter.com/search?q=Craig+Mazin) | N/A |
+| 30 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 31 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 32 | [Olodum](http://twitter.com/search?q=Olodum) | N/A |
+| 33 | [Esse 3](http://twitter.com/search?q=Esse+3) | N/A |
+| 34 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 35 | [Expôs](http://twitter.com/search?q=Exp%c3%b4s) | N/A |
+| 36 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
+| 37 | [Cubriel](http://twitter.com/search?q=Cubriel) | N/A |
+| 38 | [Esse EP](http://twitter.com/search?q=Esse+EP) | N/A |
 | 39 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
-| 40 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
-| 41 | [Esse EP](http://twitter.com/search?q=Esse+EP) | N/A |
-| 42 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 43 | [Luiza Sonza](http://twitter.com/search?q=Luiza+Sonza) | N/A |
-| 44 | [Ron Swanson](http://twitter.com/search?q=Ron+Swanson) | Ron Swanson is a fictional character from the American television show Parks and Recreation. He is a libertarian, anti-government bureaucrat who works as the director of the Parks and Recreation Department in Pawnee, Indiana. He is known for his stoic demeanor, deadpan humor, and strong opinions on government bureaucracy. |
-| 45 | [Olodum](http://twitter.com/search?q=Olodum) | N/A |
-| 46 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
-| 47 | [Dourado](http://twitter.com/search?q=Dourado) | N/A |
-| 48 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 49 | [#Yanomami](http://twitter.com/search?q=%23Yanomami) | N/A |
-| 50 | [#BolsonaroGenocida](http://twitter.com/search?q=%23BolsonaroGenocida) | N/A |
+| 40 | [Ron Swanson](http://twitter.com/search?q=Ron+Swanson) | Ron Swanson is a fictional character from the American television show Parks and Recreation. He is a libertarian, anti-government bureaucrat who works as the director of the Parks and Recreation Department in Pawnee, Indiana. He is known for his stoic demeanor, deadpan humor, and strong opinions on government bureaucracy. |
+| 41 | [Luísa Sonza](http://twitter.com/search?q=Lu%c3%adsa+Sonza) | N/A |
+| 42 | [Superbowl](http://twitter.com/search?q=Superbowl) | N/A |
+| 43 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
+| 44 | [Dourado](http://twitter.com/search?q=Dourado) | N/A |
+| 45 | [#Yanomami](http://twitter.com/search?q=%23Yanomami) | N/A |
+| 46 | [#BolsonaroGenocida](http://twitter.com/search?q=%23BolsonaroGenocida) | N/A |
 
 
 

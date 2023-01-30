@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-01-30 06:15:48 UTC`
+📆 Last Updated: `2023-01-30 07:15:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Peru](</Peru>)
 | ------- | ------------ | ------------ |
 | 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 2 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 3 | [#ElMuertoEsDeSigrid](http://twitter.com/search?q=%23ElMuertoEsDeSigrid) | N/A |
-| 4 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 3 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 4 | [#ElMuertoEsDeSigrid](http://twitter.com/search?q=%23ElMuertoEsDeSigrid) | N/A |
 | 5 | [#LoMatoLaPolicia](http://twitter.com/search?q=%23LoMatoLaPolicia) | N/A |
-| 6 | [EsSalud](http://twitter.com/search?q=EsSalud) | N/A |
+| 6 | [Essalud](http://twitter.com/search?q=Essalud) | N/A |
 | 7 | [#mensajealanacion](http://twitter.com/search?q=%23mensajealanacion) | N/A |
-| 8 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 9 | [Víctor Santisteban Yacsavilca](http://twitter.com/search?q=V%c3%adctor+Santisteban+Yacsavilca) | N/A |
+| 8 | [Víctor Santisteban Yacsavilca](http://twitter.com/search?q=V%c3%adctor+Santisteban+Yacsavilca) | N/A |
+| 9 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
 | 10 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
 | 11 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 12 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
-| 13 | [Asamblea Constituyente](http://twitter.com/search?q=Asamblea+Constituyente) | N/A |
-| 14 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 12 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 13 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 14 | [Asamblea Constituyente](http://twitter.com/search?q=Asamblea+Constituyente) | N/A |
 | 15 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
 | 16 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
 | 17 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
 | 18 | [Murió](http://twitter.com/search?q=Muri%c3%b3) | N/A |
 | 19 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 20 | [Mónica Delta](http://twitter.com/search?q=M%c3%b3nica+Delta) | N/A |
-| 21 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 22 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 23 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 24 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
-| 25 | [Wayka](http://twitter.com/search?q=Wayka) | N/A |
-| 26 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 27 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 28 | [Asesinado](http://twitter.com/search?q=Asesinado) | Asesinado is a Spanish word meaning "murdered" or "assassinated". It is used to describe someone who has been killed by another person. |
-| 29 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 30 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 31 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
-| 32 | [hospital grau](http://twitter.com/search?q=hospital+grau) | N/A |
-| 33 | [Redondos](http://twitter.com/search?q=Redondos) | N/A |
-| 34 | [almenara](http://twitter.com/search?q=almenara) | N/A |
-| 35 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 36 | [Canal N](http://twitter.com/search?q=Canal+N) | N/A |
-| 37 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 39 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
-| 40 | [Conflicto](http://twitter.com/search?q=Conflicto) | N/A |
-| 41 | [RBD X PERÚ](http://twitter.com/search?q=RBD+X+PER%c3%9a) | N/A |
-| 42 | [Disparo](http://twitter.com/search?q=Disparo) | N/A |
-| 43 | [Paren](http://twitter.com/search?q=Paren) | N/A |
-| 44 | [Richard Arce](http://twitter.com/search?q=Richard+Arce) | N/A |
+| 21 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 22 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 23 | [Wayka](http://twitter.com/search?q=Wayka) | N/A |
+| 24 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 25 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 26 | [Asesinado](http://twitter.com/search?q=Asesinado) | Asesinado is a Spanish word meaning "murdered" or "assassinated". It is used to describe someone who has been killed by another person. |
+| 27 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 28 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 29 | [hospital grau](http://twitter.com/search?q=hospital+grau) | N/A |
+| 30 | [Redondos](http://twitter.com/search?q=Redondos) | N/A |
+| 31 | [almenara](http://twitter.com/search?q=almenara) | N/A |
+| 32 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 33 | [Canal N](http://twitter.com/search?q=Canal+N) | N/A |
+| 34 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
+| 35 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 37 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
+| 38 | [Conflicto](http://twitter.com/search?q=Conflicto) | N/A |
+| 39 | [Disparo](http://twitter.com/search?q=Disparo) | N/A |
+| 40 | [RBD X PERÚ](http://twitter.com/search?q=RBD+X+PER%c3%9a) | N/A |
+| 41 | [Paren](http://twitter.com/search?q=Paren) | N/A |
+| 42 | [Richard Arce](http://twitter.com/search?q=Richard+Arce) | N/A |
+| 43 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
+| 44 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 45 | [APRA](http://twitter.com/search?q=APRA) | N/A |
 | 46 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 47 | [Barbarán](http://twitter.com/search?q=Barbar%c3%a1n) | N/A |
-| 48 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
-| 49 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
-| 50 | [Av. Abancay](http://twitter.com/search?q=Av.+Abancay) | N/A |
+| 47 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
+| 48 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
+| 49 | [Av. Abancay](http://twitter.com/search?q=Av.+Abancay) | N/A |
+| 50 | [Grefg](http://twitter.com/search?q=Grefg) | N/A |
 
 
 

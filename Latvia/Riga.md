@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-01-30 06:15:56 UTC`
+📆 Last Updated: `2023-01-30 07:15:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,14 +27,14 @@ This is top 50 for [Latvia](</Latvia>)
 | 10 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 11 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 12 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 13 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 14 | [viss](http://twitter.com/search?q=viss) | N/A |
-| 15 | [Bija](http://twitter.com/search?q=Bija) | N/A |
-| 16 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 17 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
-| 18 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 19 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 20 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 13 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
+| 14 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 15 | [Viss](http://twitter.com/search?q=Viss) | N/A |
+| 16 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 17 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 18 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
+| 19 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 20 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 21 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
 
 
