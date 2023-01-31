@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-01-31 21:15:48 UTC`
+📆 Last Updated: `2023-01-31 22:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COAC2023P11](http://twitter.com/search?q=%23COAC2023P11) | N/A |
-| 2 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | N/A |
-| 3 | [#FirstDates31E](http://twitter.com/search?q=%23FirstDates31E) | N/A |
-| 4 | [#MurgasSC2](http://twitter.com/search?q=%23MurgasSC2) | N/A |
-| 5 | [#PasapalabraCampeones](http://twitter.com/search?q=%23PasapalabraCampeones) | N/A |
-| 6 | [Chris Ramos](http://twitter.com/search?q=Chris+Ramos) | N/A |
-| 7 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 8 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 9 | [The Authority](http://twitter.com/search?q=The+Authority) | The Authority is a term used to refer to a governing body or organization that has the power to make decisions and enforce laws. It can also refer to an individual or group of people who are seen as having the right to make decisions and enforce rules. |
-| 10 | [Ayoze Pérez](http://twitter.com/search?q=Ayoze+P%c3%a9rez) | N/A |
-| 11 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 12 | [Fusa](http://twitter.com/search?q=Fusa) | N/A |
-| 13 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 14 | [Alice Wonder](http://twitter.com/search?q=Alice+Wonder) | N/A |
-| 15 | [Narro](http://twitter.com/search?q=Narro) | N/A |
-| 16 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 17 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 18 | [El SMI](http://twitter.com/search?q=El+SMI) | N/A |
-| 19 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
-| 20 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 22 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
-| 23 | [Aritz](http://twitter.com/search?q=Aritz) | N/A |
-| 24 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 25 | [Agoney](http://twitter.com/search?q=Agoney) | N/A |
-| 26 | [Damian](http://twitter.com/search?q=Damian) | Damian is a masculine given name of Greek origin meaning "to tame, subdue". It is derived from the Greek word “damánein”, which means “to tame” or “to subdue”. It is also related to the Latin word “dominus”, which means “lord” or “master”. |
-| 27 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
-| 28 | [Salario Mínimo](http://twitter.com/search?q=Salario+M%c3%adnimo) | N/A |
-| 29 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 30 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 31 | [Loren](http://twitter.com/search?q=Loren) | Loren is a unisex name of Latin origin, meaning "laurel". It is also a variant of the name Lawrence. |
-| 32 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 33 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 34 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 35 | [Megara](http://twitter.com/search?q=Megara) | N/A |
-| 36 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 37 | [Unión Berlín](http://twitter.com/search?q=Uni%c3%b3n+Berl%c3%adn) | N/A |
-| 38 | [Twin Melody](http://twitter.com/search?q=Twin+Melody) | N/A |
-| 39 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 40 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 41 | [TJUE](http://twitter.com/search?q=TJUE) | N/A |
-| 42 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 43 | [Chanel](http://twitter.com/search?q=Chanel) | N/A |
-| 44 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 45 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
-| 46 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 47 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
-| 48 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | #DCStudios is the hashtag used to refer to DC Entertainment, a subsidiary of Warner Bros. Entertainment. It is used to promote and discuss DC Comics-related content, such as movies, television shows, and comic books. The hashtag stands for "DC Entertainment Studios." |
-| 49 | [#PequenaGranComunidad](http://twitter.com/search?q=%23PequenaGranComunidad) | N/A |
-| 50 | [#ElGobiernoDeLaGente](http://twitter.com/search?q=%23ElGobiernoDeLaGente) | N/A |
+| 1 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
+| 2 | [Sharonne](http://twitter.com/search?q=Sharonne) | N/A |
+| 3 | [Mónica Naranjo](http://twitter.com/search?q=M%c3%b3nica+Naranjo) | Mónica Naranjo is a Spanish singer, songwriter, and television personality. She is known for her powerful voice and flamboyant stage presence. In English, her name translates to "Monica Orange". |
+| 4 | [#COAC2023P11](http://twitter.com/search?q=%23COAC2023P11) | N/A |
+| 5 | [#MurgasSC2](http://twitter.com/search?q=%23MurgasSC2) | N/A |
+| 6 | [Inés](http://twitter.com/search?q=In%c3%a9s) | N/A |
+| 7 | [#TentacionesDBT2](http://twitter.com/search?q=%23TentacionesDBT2) | N/A |
+| 8 | [#FirstDates31E](http://twitter.com/search?q=%23FirstDates31E) | N/A |
+| 9 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | N/A |
+| 10 | [Alice Wonder](http://twitter.com/search?q=Alice+Wonder) | N/A |
+| 11 | [Diva](http://twitter.com/search?q=Diva) | N/A |
+| 12 | [Soraya](http://twitter.com/search?q=Soraya) | N/A |
+| 13 | [Fusa Nocta](http://twitter.com/search?q=Fusa+Nocta) | Fusa Nocta is a Latin phrase meaning "night watch." It was originally used to refer to a night watchman or guard who would patrol an area at night to ensure safety and security. |
+| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 15 | [Aritz](http://twitter.com/search?q=Aritz) | N/A |
+| 16 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 17 | [Twin Melody](http://twitter.com/search?q=Twin+Melody) | N/A |
+| 18 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 19 | [Chris Ramos](http://twitter.com/search?q=Chris+Ramos) | N/A |
+| 20 | [Agoney](http://twitter.com/search?q=Agoney) | N/A |
+| 21 | [Matt Doherty](http://twitter.com/search?q=Matt+Doherty) | N/A |
+| 22 | [Charo](http://twitter.com/search?q=Charo) | Charo is a Spanish name derived from the Latin name Carolus, meaning "manly". It is also a nickname for people named Carlos or Carolina. In English, Charo can be used as a given name or as an affectionate nickname. |
+| 23 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 24 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 25 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
+| 26 | [José Gragera](http://twitter.com/search?q=Jos%c3%a9+Gragera) | N/A |
+| 27 | [Rota](http://twitter.com/search?q=Rota) | N/A |
+| 28 | [Palau](http://twitter.com/search?q=Palau) | N/A |
+| 29 | [The Authority](http://twitter.com/search?q=The+Authority) | The Authority is a term used to refer to a governing body or organization that has the power to make decisions and enforce laws. It can also refer to an individual or group of people who are seen as having the right to make decisions and enforce rules. |
+| 30 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 31 | [Ayoze Pérez](http://twitter.com/search?q=Ayoze+P%c3%a9rez) | N/A |
+| 32 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 33 | [Chanel](http://twitter.com/search?q=Chanel) | N/A |
+| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 35 | [Narro](http://twitter.com/search?q=Narro) | N/A |
+| 36 | [El SMI](http://twitter.com/search?q=El+SMI) | N/A |
+| 37 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
+| 38 | [Megara](http://twitter.com/search?q=Megara) | N/A |
+| 39 | [Djuka](http://twitter.com/search?q=Djuka) | N/A |
+| 40 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 41 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 42 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
+| 43 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 44 | [Sofía Martín](http://twitter.com/search?q=Sof%c3%ada+Mart%c3%adn) | N/A |
+| 45 | [Mouriño](http://twitter.com/search?q=Mouri%c3%b1o) | N/A |
+| 46 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 47 | [Unión Berlín](http://twitter.com/search?q=Uni%c3%b3n+Berl%c3%adn) | N/A |
+| 48 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 49 | [Loren](http://twitter.com/search?q=Loren) | Loren is a unisex name of Latin origin, meaning "laurel". It is also a variant of the name Lawrence. |
+| 50 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
 
 
 

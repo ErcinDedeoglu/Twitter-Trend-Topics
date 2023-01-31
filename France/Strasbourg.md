@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-01-31 21:15:14 UTC`
+📆 Last Updated: `2023-01-31 22:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,49 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#greve31janvier](http://twitter.com/search?q=%23greve31janvier) | N/A |
-| 2 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 3 | [#FaceABaba](http://twitter.com/search?q=%23FaceABaba) | N/A |
-| 4 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 5 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 6 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 7 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 8 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
-| 9 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 10 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 11 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
-| 12 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 13 | [Azmoun](http://twitter.com/search?q=Azmoun) | Azmoun is a Persian name that means "crown". It is often used as a given name for boys. |
-| 14 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 15 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 16 | [Pathé Ciss](http://twitter.com/search?q=Path%c3%a9+Ciss) | N/A |
-| 17 | [Occurence](http://twitter.com/search?q=Occurence) | N/A |
-| 18 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 19 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 20 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
-| 21 | [Veran](http://twitter.com/search?q=Veran) | N/A |
-| 22 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 23 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
-| 24 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 25 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 26 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 27 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 28 | [Grève du 31](http://twitter.com/search?q=Gr%c3%a8ve+du+31) | N/A |
-| 29 | [Joséphine Baker](http://twitter.com/search?q=Jos%c3%a9phine+Baker) | N/A |
-| 30 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 31 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 32 | [Zorgane](http://twitter.com/search?q=Zorgane) | N/A |
-| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 35 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 36 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 37 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
-| 38 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 39 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 40 | [Casimir](http://twitter.com/search?q=Casimir) | N/A |
-| 41 | [Amandine](http://twitter.com/search?q=Amandine) | N/A |
-| 42 | [Photon](http://twitter.com/search?q=Photon) | N/A |
-| 43 | [Rada](http://twitter.com/search?q=Rada) | N/A |
-| 44 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
-| 45 | [Longoria](http://twitter.com/search?q=Longoria) | N/A |
-| 46 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 47 | [Ckay](http://twitter.com/search?q=Ckay) | N/A |
-| 48 | [Yanissa](http://twitter.com/search?q=Yanissa) | N/A |
-| 49 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 2 | [#FaceABaba](http://twitter.com/search?q=%23FaceABaba) | N/A |
+| 3 | [#FCGBHAC](http://twitter.com/search?q=%23FCGBHAC) | N/A |
+| 4 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 5 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
+| 6 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
+| 7 | [Battles](http://twitter.com/search?q=Battles) | N/A |
+| 8 | [Veran](http://twitter.com/search?q=Veran) | N/A |
+| 9 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 10 | [Badji](http://twitter.com/search?q=Badji) | N/A |
+| 11 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 12 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
+| 13 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
+| 14 | [Merci Pablo](http://twitter.com/search?q=Merci+Pablo) | N/A |
+| 15 | [Occurence](http://twitter.com/search?q=Occurence) | N/A |
+| 16 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
+| 17 | [Ligue 2](http://twitter.com/search?q=Ligue+2) | N/A |
+| 18 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 19 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 20 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 21 | [Amiens](http://twitter.com/search?q=Amiens) | N/A |
+| 22 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 23 | [Zorgane](http://twitter.com/search?q=Zorgane) | N/A |
+| 24 | [Mercato](http://twitter.com/search?q=Mercato) | N/A |
+| 25 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 26 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 29 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 30 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
+| 31 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
+| 32 | [#SCBASSE](http://twitter.com/search?q=%23SCBASSE) | N/A |
+| 33 | [#RoyalRumbleAB](http://twitter.com/search?q=%23RoyalRumbleAB) | N/A |
+| 34 | [#FCASMC](http://twitter.com/search?q=%23FCASMC) | N/A |
+| 35 | [#FCMRAF](http://twitter.com/search?q=%23FCMRAF) | N/A |
+| 36 | [#EAGNO](http://twitter.com/search?q=%23EAGNO) | N/A |
+| 37 | [#CNFCASC](http://twitter.com/search?q=%23CNFCASC) | N/A |
+| 38 | [#pelissard](http://twitter.com/search?q=%23pelissard) | N/A |
+| 39 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
+| 40 | [#NonALaReformeDesRetraites](http://twitter.com/search?q=%23NonALaReformeDesRetraites) | N/A |
+| 41 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | #DCStudios is the hashtag used to refer to DC Entertainment, a subsidiary of Warner Bros. Entertainment. It is used to promote and discuss DC Comics-related content, such as movies, television shows, and comic books. The hashtag stands for "DC Entertainment Studios." |
+| 42 | [#Vitinha](http://twitter.com/search?q=%23Vitinha) | N/A |
+| 43 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 44 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
 
 
 
