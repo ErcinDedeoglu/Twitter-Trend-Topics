@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-01-31 14:16:31 UTC`
+📆 Last Updated: `2023-01-31 15:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 3 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
-| 4 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 5 | [Mitch Daniels](http://twitter.com/search?q=Mitch+Daniels) | N/A |
-| 6 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | N/A |
-| 7 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
-| 8 | [#NationalHotChocolateDay](http://twitter.com/search?q=%23NationalHotChocolateDay) | N/A |
-| 9 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 10 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 11 | [Wordle 591 X](http://twitter.com/search?q=Wordle+591+X) | N/A |
-| 12 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
-| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 14 | [I LOVE GOD](http://twitter.com/search?q=I+LOVE+GOD) | N/A |
+| 2 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
+| 3 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | Tyler Huntley is a name. It does not have a specific meaning in English. |
+| 4 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 5 | [#XMenVote](http://twitter.com/search?q=%23XMenVote) | N/A |
+| 6 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 7 | [#FebruaryStarJihyoDay](http://twitter.com/search?q=%23FebruaryStarJihyoDay) | #FebruaryStarJihyoDay is a hashtag used by fans of the South Korean singer and actress Jihyo, who is a member of the K-pop girl group TWICE. The hashtag is used to celebrate Jihyo's birthday, which falls on February 1st. Fans use the hashtag to share photos, videos, and messages of support for Jihyo on her special day. |
+| 8 | [Frenzy](http://twitter.com/search?q=Frenzy) | N/A |
+| 9 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 10 | [Mitch Daniels](http://twitter.com/search?q=Mitch+Daniels) | N/A |
+| 11 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 12 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
+| 13 | [I Love God](http://twitter.com/search?q=I+Love+God) | N/A |
+| 14 | [Dazzler](http://twitter.com/search?q=Dazzler) | N/A |
 | 15 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 16 | [St. John Bosco](http://twitter.com/search?q=St.+John+Bosco) | N/A |
-| 17 | [Jim Banks](http://twitter.com/search?q=Jim+Banks) | N/A |
-| 18 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 19 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 20 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
-| 21 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 23 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 24 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
-| 25 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 26 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 27 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 28 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 29 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 30 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 31 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 32 | [Laverne](http://twitter.com/search?q=Laverne) | Laverne is a French name meaning "the alder tree". It is also a unisex name, often given to both boys and girls. |
-| 33 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 34 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 35 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 36 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 37 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 38 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 39 | [NIMBY](http://twitter.com/search?q=NIMBY) | N/A |
-| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 41 | [Sambi](http://twitter.com/search?q=Sambi) | Sambi is a Japanese term that refers to the practice of showing respect and appreciation for others. It is often used in the context of thanking someone for their help or kindness. In English, it can be translated as "gratitude" or "appreciation". |
-| 42 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
-| 43 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
-| 44 | [Piccolo](http://twitter.com/search?q=Piccolo) | Piccolo is an Italian word meaning "small" or "little". It is often used to describe a small musical instrument, such as a flute or a trumpet. It can also be used to describe something that is small in size or amount. |
-| 45 | [Fahrenheit](http://twitter.com/search?q=Fahrenheit) | N/A |
-| 46 | [AriZona Iced Tea](http://twitter.com/search?q=AriZona+Iced+Tea) | N/A |
-| 47 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 48 | [Senior Bowl](http://twitter.com/search?q=Senior+Bowl) | N/A |
-| 49 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
+| 16 | [Juggernaut](http://twitter.com/search?q=Juggernaut) | N/A |
+| 17 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 18 | [Jubilee](http://twitter.com/search?q=Jubilee) | N/A |
+| 19 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 20 | [Wordle 591 X](http://twitter.com/search?q=Wordle+591+X) | N/A |
+| 21 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
+| 22 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 23 | [St. John Bosco](http://twitter.com/search?q=St.+John+Bosco) | N/A |
+| 24 | [Jacoby Brissett](http://twitter.com/search?q=Jacoby+Brissett) | N/A |
+| 25 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
+| 26 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 27 | [Jim Banks](http://twitter.com/search?q=Jim+Banks) | N/A |
+| 28 | [Luis Redondo](http://twitter.com/search?q=Luis+Redondo) | N/A |
+| 29 | [Prodigy](http://twitter.com/search?q=Prodigy) | N/A |
+| 30 | [Myocarditis](http://twitter.com/search?q=Myocarditis) | N/A |
+| 31 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 32 | [Thunder Sleet](http://twitter.com/search?q=Thunder+Sleet) | N/A |
+| 33 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
+| 34 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 35 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 36 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 37 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 38 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 39 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 40 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 41 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 42 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 43 | [Showering](http://twitter.com/search?q=Showering) | N/A |
+| 44 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 45 | [Ankh](http://twitter.com/search?q=Ankh) | N/A |
+| 46 | [NIMBY](http://twitter.com/search?q=NIMBY) | N/A |
+| 47 | [Laverne](http://twitter.com/search?q=Laverne) | Laverne is a French name meaning "the alder tree". It is also a unisex name, often given to both boys and girls. |
+| 48 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 49 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
 
 
 

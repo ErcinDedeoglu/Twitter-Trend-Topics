@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-01-31 14:16:19 UTC`
+📆 Last Updated: `2023-01-31 15:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Egypt](</Egypt>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#الهجمه_المرتده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%ac%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%af%d9%87) | N/A |
-| 2 | [ابراهيم فايق](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | N/A |
-| 3 | [#اهلي_المونديال_جاهز_للتحدي](http://twitter.com/search?q=%23%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84_%d8%ac%d8%a7%d9%87%d8%b2_%d9%84%d9%84%d8%aa%d8%ad%d8%af%d9%8a) | N/A |
-| 4 | [محمد النني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%86%d9%86%d9%8a) | N/A |
-| 5 | [#الشناوي_قايد_الوفاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a_%d9%82%d8%a7%d9%8a%d8%af_%d8%a7%d9%84%d9%88%d9%81%d8%a7%d8%a1) | N/A |
-| 6 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 7 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
-| 8 | [#رساله_لقلبك](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d9%84%d9%82%d9%84%d8%a8%d9%83) | #رساله_لقلبك is a hashtag used on social media in Arabic to express love and appreciation for someone. It translates to "A Message for Your Heart". |
-| 9 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 10 | [إمام عاشور](http://twitter.com/search?q=%d8%a5%d9%85%d8%a7%d9%85+%d8%b9%d8%a7%d8%b4%d9%88%d8%b1) | N/A |
-| 11 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 12 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 13 | [أرسنال](http://twitter.com/search?q=%d8%a3%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
-| 14 | [شاي العروسه](http://twitter.com/search?q=%d8%b4%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b3%d9%87) | N/A |
-| 15 | [وزير الخارجيه الامريكي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 16 | [فوز الاهلي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 17 | [سامح شكري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%ad+%d8%b4%d9%83%d8%b1%d9%8a) | N/A |
-| 18 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 1 | [ابراهيم فايق](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | N/A |
+| 2 | [#اهلي_المونديال_جاهز_للتحدي](http://twitter.com/search?q=%23%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84_%d8%ac%d8%a7%d9%87%d8%b2_%d9%84%d9%84%d8%aa%d8%ad%d8%af%d9%8a) | N/A |
+| 3 | [#الشناوي_قايد_الوفاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a_%d9%82%d8%a7%d9%8a%d8%af_%d8%a7%d9%84%d9%88%d9%81%d8%a7%d8%a1) | N/A |
+| 4 | [#رساله_لقلبك](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d9%84%d9%82%d9%84%d8%a8%d9%83) | #رساله_لقلبك is a hashtag used on social media in Arabic to express love and appreciation for someone. It translates to "A Message for Your Heart". |
+| 5 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
+| 6 | [#الهجمه_المرتده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%ac%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%af%d9%87) | N/A |
+| 7 | [محمد النني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%86%d9%86%d9%8a) | N/A |
+| 8 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 9 | [إمام عاشور](http://twitter.com/search?q=%d8%a5%d9%85%d8%a7%d9%85+%d8%b9%d8%a7%d8%b4%d9%88%d8%b1) | N/A |
+| 10 | [وزير الخارجيه الامريكي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 11 | [سامح شكري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%ad+%d8%b4%d9%83%d8%b1%d9%8a) | N/A |
+| 12 | [فوز الاهلي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 13 | [شاي العروسه](http://twitter.com/search?q=%d8%b4%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d8%b3%d9%87) | N/A |
+| 14 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 15 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 16 | [كاتل شاي](http://twitter.com/search?q=%d9%83%d8%a7%d8%aa%d9%84+%d8%b4%d8%a7%d9%8a) | N/A |
+| 17 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 18 | [محمد رمضان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 19 | [ميندي](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a) | ميندي (Mendy) is an Arabic name meaning "enlightened" or "illuminated". It is also a popular given name in the Middle East and North Africa. |
-| 20 | [31 يناير 2023](http://twitter.com/search?q=31+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 21 | [نوه الكرم](http://twitter.com/search?q=%d9%86%d9%88%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%85) | N/A |
-| 22 | [بنك القاهره](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d9%87) | N/A |
+| 20 | [نوه الكرم](http://twitter.com/search?q=%d9%86%d9%88%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%85) | N/A |
+| 21 | [31 يناير 2023](http://twitter.com/search?q=31+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 22 | [ابو وديع](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%88%d8%af%d9%8a%d8%b9) | N/A |
 | 23 | [جورج وسوف](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d9%88%d8%b3%d9%88%d9%81) | N/A |
-| 24 | [هاني شاكر](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d8%b4%d8%a7%d9%83%d8%b1) | N/A |
-| 25 | [ابو وديع](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%88%d8%af%d9%8a%d8%b9) | N/A |
-| 26 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 27 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 28 | [سافيو](http://twitter.com/search?q=%d8%b3%d8%a7%d9%81%d9%8a%d9%88) | N/A |
-| 29 | [اوكلاند سيتي](http://twitter.com/search?q=%d8%a7%d9%88%d9%83%d9%84%d8%a7%d9%86%d8%af+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 30 | [ويليان](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%86) | ويليان (pronounced "Villian") is an Arabic name meaning "strong-willed". It is often used as a given name for boys. |
-| 31 | [كانسيلو](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%b3%d9%8a%d9%84%d9%88) | N/A |
-| 32 | [مصطفي محمد](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 33 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
-| 34 | [ريد فلاج](http://twitter.com/search?q=%d8%b1%d9%8a%d8%af+%d9%81%d9%84%d8%a7%d8%ac) | N/A |
-| 35 | [احمد بلحاج](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%84%d8%ad%d8%a7%d8%ac) | N/A |
-| 36 | [الفيس](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b3) | N/A |
+| 24 | [سيف الجزيري](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%8a) | سيف الجزيري (Sayf al-Jazīrī) is an Arabic phrase meaning "Sword of the Peninsula". It is a term used to refer to the traditional weapon of the Arabian Peninsula, which was a curved sword with a single-edged blade. |
+| 25 | [اوكلاند سيتي](http://twitter.com/search?q=%d8%a7%d9%88%d9%83%d9%84%d8%a7%d9%86%d8%af+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 26 | [كانسيلو](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%b3%d9%8a%d9%84%d9%88) | N/A |
+| 27 | [احمد بلحاج](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%84%d8%ad%d8%a7%d8%ac) | N/A |
+| 28 | [هاني شاكر](http://twitter.com/search?q=%d9%87%d8%a7%d9%86%d9%8a+%d8%b4%d8%a7%d9%83%d8%b1) | N/A |
+| 29 | [سافيو](http://twitter.com/search?q=%d8%b3%d8%a7%d9%81%d9%8a%d9%88) | N/A |
+| 30 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 31 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
+| 32 | [ريد فلاج](http://twitter.com/search?q=%d8%b1%d9%8a%d8%af+%d9%81%d9%84%d8%a7%d8%ac) | N/A |
+| 33 | [مصطفي محمد](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 34 | [الفيس](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b3) | N/A |
+| 35 | [اليوم الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
+| 36 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
 | 37 | [الحلقه التالته](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d8%aa%d9%87) | N/A |
-| 38 | [اليوم الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
-| 39 | [فيورنتينا](http://twitter.com/search?q=%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7) | N/A |
-| 40 | [محمد فخري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%81%d8%ae%d8%b1%d9%8a) | N/A |
+| 38 | [محمد فخري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%81%d8%ae%d8%b1%d9%8a) | N/A |
+| 39 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 40 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
 | 41 | [علي سبيل الاعاره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b3%d8%a8%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d8%b1%d9%87) | N/A |
-| 42 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 43 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 44 | [متولي](http://twitter.com/search?q=%d9%85%d8%aa%d9%88%d9%84%d9%8a) | N/A |
-| 45 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
-| 46 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
-| 47 | [قايد الوفاء](http://twitter.com/search?q=%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d9%81%d8%a7%d8%a1) | N/A |
-| 48 | [صلاح محسن](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad+%d9%85%d8%ad%d8%b3%d9%86) | N/A |
-| 49 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 42 | [عمرو أديب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a3%d8%af%d9%8a%d8%a8) | N/A |
+| 43 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 44 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 45 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 46 | [صلاح محسن](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad+%d9%85%d8%ad%d8%b3%d9%86) | N/A |
+| 47 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
+| 48 | [علي فيوتشر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%81%d9%8a%d9%88%d8%aa%d8%b4%d8%b1) | N/A |
+| 49 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 
 
 

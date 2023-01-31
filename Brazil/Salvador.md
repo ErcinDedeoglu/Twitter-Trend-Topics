@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-01-31 14:16:02 UTC`
+📆 Last Updated: `2023-01-31 15:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 2 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 1 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 2 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
 | 3 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 4 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 5 | [Fred Nicacio](http://twitter.com/search?q=Fred+Nicacio) | Fred Nicacio is a Spanish name, derived from the Latin name Fredericus. It is a combination of the words "fred" (peace) and "nicacio" (victory). In English, it can be translated to mean "victory of peace". |
-| 6 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 7 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 9 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 10 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 11 | [LUDMILLA SOU MA](http://twitter.com/search?q=LUDMILLA+SOU+MA) | LUDMILLA SOU MA is a phrase in Portuguese which translates to "I am Ludmilla". It is a statement of identity, used to introduce oneself. |
-| 12 | [MARINHO NÃO](http://twitter.com/search?q=MARINHO+N%c3%83O) | MARINHO NÃO is a Portuguese phrase that translates to "No, Marinho" in English. It is typically used as a response to someone asking a question or making a request of Marinho. |
-| 13 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 14 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 15 | [#RecomposiçãoJá](http://twitter.com/search?q=%23Recomposi%c3%a7%c3%a3oJ%c3%a1) | N/A |
-| 16 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 17 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 18 | [Wallace](http://twitter.com/search?q=Wallace) | N/A |
-| 19 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
-| 20 | [dido](http://twitter.com/search?q=dido) | N/A |
-| 21 | [grimes](http://twitter.com/search?q=grimes) | N/A |
-| 22 | [#PachecoNÃO](http://twitter.com/search?q=%23PachecoN%c3%83O) | N/A |
-| 23 | [Obina](http://twitter.com/search?q=Obina) | N/A |
-| 24 | [MENAS](http://twitter.com/search?q=MENAS) | N/A |
-| 25 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 26 | [São João Bosco](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+Bosco) | N/A |
-| 27 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 28 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | N/A |
-| 29 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 30 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 4 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 5 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 6 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 7 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 8 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 9 | [MARINHO NÃO](http://twitter.com/search?q=MARINHO+N%c3%83O) | MARINHO NÃO is a Portuguese phrase that translates to "No, Marinho" in English. It is typically used as a response to someone asking a question or making a request of Marinho. |
+| 10 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 11 | [Wallace](http://twitter.com/search?q=Wallace) | N/A |
+| 12 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 13 | [#FebruaryStarJihyoDay](http://twitter.com/search?q=%23FebruaryStarJihyoDay) | #FebruaryStarJihyoDay is a hashtag used by fans of the South Korean singer and actress Jihyo, who is a member of the K-pop girl group TWICE. The hashtag is used to celebrate Jihyo's birthday, which falls on February 1st. Fans use the hashtag to share photos, videos, and messages of support for Jihyo on her special day. |
+| 14 | [#RecomposiçãoJá](http://twitter.com/search?q=%23Recomposi%c3%a7%c3%a3oJ%c3%a1) | N/A |
+| 15 | [#따끈따끈_도영빵_생일이_왔옹](http://twitter.com/search?q=%23%eb%94%b0%eb%81%88%eb%94%b0%eb%81%88_%eb%8f%84%ec%98%81%eb%b9%b5_%ec%83%9d%ec%9d%bc%ec%9d%b4_%ec%99%94%ec%98%b9) | "#따끈따끈_도영빵_생일이_왔옹" is a hashtag used to celebrate the birthday of Do Young Bang, a South Korean singer and member of the boy band TXT. In English, it translates to "It's Do Young Bang's Birthday - Let's Celebrate!" |
+| 16 | [#BunnyPrinceDoyoungDay](http://twitter.com/search?q=%23BunnyPrinceDoyoungDay) | #BunnyPrinceDoyoungDay is a hashtag used by fans of the South Korean singer and actor Doyoung, who is a member of the K-pop group NCT. The hashtag is used to celebrate his birthday, which falls on August 1st. |
+| 17 | [tove](http://twitter.com/search?q=tove) | N/A |
+| 18 | [Sada](http://twitter.com/search?q=Sada) | N/A |
+| 19 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 20 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 21 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
+| 22 | [grimes](http://twitter.com/search?q=grimes) | N/A |
+| 23 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 24 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 25 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 26 | [MENAS](http://twitter.com/search?q=MENAS) | N/A |
+| 27 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 28 | [Louro José](http://twitter.com/search?q=Louro+Jos%c3%a9) | N/A |
+| 29 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 30 | [Obina](http://twitter.com/search?q=Obina) | N/A |
 | 31 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 32 | [Executivo](http://twitter.com/search?q=Executivo) | N/A |
-| 33 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 34 | [Dia 31](http://twitter.com/search?q=Dia+31) | N/A |
-| 35 | [CPI da Covid](http://twitter.com/search?q=CPI+da+Covid) | N/A |
-| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 37 | [Sônia Bridi](http://twitter.com/search?q=S%c3%b4nia+Bridi) | N/A |
-| 38 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 39 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 40 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 41 | [PSDB](http://twitter.com/search?q=PSDB) | N/A |
-| 42 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 43 | [James Gunn](http://twitter.com/search?q=James+Gunn) | N/A |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [Livros](http://twitter.com/search?q=Livros) | N/A |
-| 46 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
-| 47 | [Sarney](http://twitter.com/search?q=Sarney) | N/A |
-| 48 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 49 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 50 | [Regina Duarte](http://twitter.com/search?q=Regina+Duarte) | Regina Duarte is a Brazilian actress, singer, and politician. In English, her name means "Queen of the Gift". |
+| 32 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 33 | [DCEU](http://twitter.com/search?q=DCEU) | N/A |
+| 34 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 35 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [James Gunn](http://twitter.com/search?q=James+Gunn) | N/A |
+| 37 | [CPI da Covid](http://twitter.com/search?q=CPI+da+Covid) | N/A |
+| 38 | [São João Bosco](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+Bosco) | N/A |
+| 39 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 40 | [Ana Maria Braga](http://twitter.com/search?q=Ana+Maria+Braga) | N/A |
+| 41 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 42 | [Dia 31](http://twitter.com/search?q=Dia+31) | N/A |
+| 43 | [Executivo](http://twitter.com/search?q=Executivo) | N/A |
+| 44 | [Dom Bosco](http://twitter.com/search?q=Dom+Bosco) | N/A |
+| 45 | [PSDB](http://twitter.com/search?q=PSDB) | N/A |
+| 46 | [BR-277](http://twitter.com/search?q=BR-277) | N/A |
+| 47 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 48 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 49 | [patrícia poeta](http://twitter.com/search?q=patr%c3%adcia+poeta) | N/A |
 
 
 

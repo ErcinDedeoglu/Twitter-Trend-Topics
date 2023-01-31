@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-01-31 14:16:08 UTC`
+📆 Last Updated: `2023-01-31 15:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#twefey](http://twitter.com/search?q=%23twefey) | N/A |
-| 2 | [#vragenuurtje](http://twitter.com/search?q=%23vragenuurtje) | N/A |
-| 3 | [#camfor](http://twitter.com/search?q=%23camfor) | N/A |
-| 4 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
-| 5 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 2 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 3 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 4 | [Efteling](http://twitter.com/search?q=Efteling) | N/A |
+| 5 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
 | 6 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 7 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
-| 8 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 9 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 7 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 8 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 9 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
 | 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 11 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 12 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 12 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 13 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 14 | [Prinses Beatrix](http://twitter.com/search?q=Prinses+Beatrix) | N/A |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
-| 17 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 18 | [willem ii](http://twitter.com/search?q=willem+ii) | N/A |
-| 19 | [Rood](http://twitter.com/search?q=Rood) | N/A |
-| 20 | [Joop](http://twitter.com/search?q=Joop) | N/A |
-| 21 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 22 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
-| 23 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
-| 24 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 25 | [Efteling](http://twitter.com/search?q=Efteling) | N/A |
-| 26 | [Philips](http://twitter.com/search?q=Philips) | N/A |
-| 27 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Heddy Lester](http://twitter.com/search?q=Heddy+Lester) | N/A |
-| 30 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
-| 31 | [trefbal](http://twitter.com/search?q=trefbal) | N/A |
-| 32 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 33 | [Troela](http://twitter.com/search?q=Troela) | N/A |
-| 34 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
-| 35 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 36 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 37 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
-| 38 | [Streuer](http://twitter.com/search?q=Streuer) | N/A |
-| 39 | [pvda](http://twitter.com/search?q=pvda) | N/A |
-| 40 | [Gefeliciteerd Sjoerd](http://twitter.com/search?q=Gefeliciteerd+Sjoerd) | N/A |
-| 41 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 42 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 43 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 44 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 45 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 14 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
+| 15 | [prinses beatrix](http://twitter.com/search?q=prinses+beatrix) | N/A |
+| 16 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 17 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
+| 18 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 20 | [Rood](http://twitter.com/search?q=Rood) | N/A |
+| 21 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 22 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 23 | [bijlow](http://twitter.com/search?q=bijlow) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
+| 26 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
+| 27 | [Streuer](http://twitter.com/search?q=Streuer) | N/A |
+| 28 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
+| 29 | [Joop](http://twitter.com/search?q=Joop) | N/A |
+| 30 | [Heddy Lester](http://twitter.com/search?q=Heddy+Lester) | N/A |
+| 31 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 32 | [Philips](http://twitter.com/search?q=Philips) | N/A |
+| 33 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 34 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
+| 35 | [Troela](http://twitter.com/search?q=Troela) | N/A |
+| 36 | [gefeliciteerd sjoerd](http://twitter.com/search?q=gefeliciteerd+sjoerd) | N/A |
+| 37 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 38 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 39 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
+| 40 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 41 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
+| 42 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
+| 43 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 44 | [Tilburg](http://twitter.com/search?q=Tilburg) | N/A |
+| 45 | [Sony](http://twitter.com/search?q=Sony) | N/A |
 | 46 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 47 | [De Telegraaf](http://twitter.com/search?q=De+Telegraaf) | N/A |
-| 48 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
+| 47 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 48 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
 
 
 

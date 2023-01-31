@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-01-31 14:15:57 UTC`
+📆 Last Updated: `2023-01-31 15:15:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 2 | [#KornoGuamazo](http://twitter.com/search?q=%23KornoGuamazo) | N/A |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 5 | [#BiuTheShowStar](http://twitter.com/search?q=%23BiuTheShowStar) | N/A |
-| 6 | [Edgar Báez](http://twitter.com/search?q=Edgar+B%c3%a1ez) | N/A |
-| 7 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 8 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 9 | [El Lobo](http://twitter.com/search?q=El+Lobo) | N/A |
-| 10 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 11 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 12 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 13 | [Martes 31](http://twitter.com/search?q=Martes+31) | N/A |
-| 14 | [Kenia Os](http://twitter.com/search?q=Kenia+Os) | N/A |
-| 15 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 16 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
-| 17 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
-| 18 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
-| 19 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
-| 20 | [REGRESEN A LILIANA](http://twitter.com/search?q=REGRESEN+A+LILIANA) | N/A |
-| 21 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 22 | [Dividir](http://twitter.com/search?q=Dividir) | N/A |
-| 23 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 24 | [Jurassic Park](http://twitter.com/search?q=Jurassic+Park) | N/A |
-| 25 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 26 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 27 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 28 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 29 | [Federico Gutiérrez](http://twitter.com/search?q=Federico+Guti%c3%a9rrez) | N/A |
-| 30 | [NASCAR](http://twitter.com/search?q=NASCAR) | N/A |
-| 31 | [Clonazepam](http://twitter.com/search?q=Clonazepam) | N/A |
-| 32 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
-| 33 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
-| 34 | [orgullosos de quackity](http://twitter.com/search?q=orgullosos+de+quackity) | N/A |
-| 35 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
-| 36 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 37 | [proud of quackity](http://twitter.com/search?q=proud+of+quackity) | N/A |
+| 3 | [Edgar Báez](http://twitter.com/search?q=Edgar+B%c3%a1ez) | N/A |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 6 | [Cuauhtémoc Cárdenas](http://twitter.com/search?q=Cuauht%c3%a9moc+C%c3%a1rdenas) | N/A |
+| 7 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 8 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 9 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 10 | [Martes 31](http://twitter.com/search?q=Martes+31) | N/A |
+| 11 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
+| 12 | [El Lobo](http://twitter.com/search?q=El+Lobo) | N/A |
+| 13 | [El 31](http://twitter.com/search?q=El+31) | N/A |
+| 14 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 15 | [PIB de México](http://twitter.com/search?q=PIB+de+M%c3%a9xico) | N/A |
+| 16 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
+| 17 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 18 | [Cuestionan a SEP](http://twitter.com/search?q=Cuestionan+a+SEP) | N/A |
+| 19 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
+| 20 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
+| 21 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
+| 22 | [Kenia Os](http://twitter.com/search?q=Kenia+Os) | N/A |
+| 23 | [Florian Thauvin](http://twitter.com/search?q=Florian+Thauvin) | N/A |
+| 24 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
+| 25 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 26 | [Dividir](http://twitter.com/search?q=Dividir) | N/A |
+| 27 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 28 | [Clonazepam](http://twitter.com/search?q=Clonazepam) | N/A |
+| 29 | [Comonfort](http://twitter.com/search?q=Comonfort) | N/A |
+| 30 | [Jurassic Park](http://twitter.com/search?q=Jurassic+Park) | N/A |
+| 31 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 32 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 33 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 34 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 35 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
+| 36 | [Llamada](http://twitter.com/search?q=Llamada) | N/A |
+| 37 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
 | 38 | [Jesús Aguilar Padilla](http://twitter.com/search?q=Jes%c3%bas+Aguilar+Padilla) | N/A |
-| 39 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 40 | [Cuauhtémoc Cárdenas](http://twitter.com/search?q=Cuauht%c3%a9moc+C%c3%a1rdenas) | N/A |
-| 41 | [Llamada](http://twitter.com/search?q=Llamada) | N/A |
-| 42 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 43 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 44 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 45 | [Adele](http://twitter.com/search?q=Adele) | N/A |
-| 46 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
-| 47 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 48 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
-| 49 | [kiana](http://twitter.com/search?q=kiana) | N/A |
+| 39 | [NASCAR](http://twitter.com/search?q=NASCAR) | N/A |
+| 40 | [Francisco Labastida](http://twitter.com/search?q=Francisco+Labastida) | N/A |
+| 41 | [Enero 31](http://twitter.com/search?q=Enero+31) | N/A |
+| 42 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 43 | [proud of quackity](http://twitter.com/search?q=proud+of+quackity) | N/A |
+| 44 | [REGRESEN A LILIANA](http://twitter.com/search?q=REGRESEN+A+LILIANA) | N/A |
+| 45 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
+| 46 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 47 | [Federico Gutiérrez](http://twitter.com/search?q=Federico+Guti%c3%a9rrez) | N/A |
+| 48 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 49 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
 
 
 

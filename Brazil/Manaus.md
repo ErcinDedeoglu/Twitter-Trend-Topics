@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-01-31 14:16:02 UTC`
+📆 Last Updated: `2023-01-31 15:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 3 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
 | 4 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
 | 5 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 6 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 7 | [MARINHO NÃO](http://twitter.com/search?q=MARINHO+N%c3%83O) | MARINHO NÃO is a Portuguese phrase that translates to "No, Marinho" in English. It is typically used as a response to someone asking a question or making a request of Marinho. |
-| 8 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 9 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 10 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 6 | [MARINHO NÃO](http://twitter.com/search?q=MARINHO+N%c3%83O) | MARINHO NÃO is a Portuguese phrase that translates to "No, Marinho" in English. It is typically used as a response to someone asking a question or making a request of Marinho. |
+| 7 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 8 | [Wallace](http://twitter.com/search?q=Wallace) | N/A |
+| 9 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 10 | [#FebruaryStarJihyoDay](http://twitter.com/search?q=%23FebruaryStarJihyoDay) | #FebruaryStarJihyoDay is a hashtag used by fans of the South Korean singer and actress Jihyo, who is a member of the K-pop girl group TWICE. The hashtag is used to celebrate Jihyo's birthday, which falls on February 1st. Fans use the hashtag to share photos, videos, and messages of support for Jihyo on her special day. |
 | 11 | [#RecomposiçãoJá](http://twitter.com/search?q=%23Recomposi%c3%a7%c3%a3oJ%c3%a1) | N/A |
-| 12 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 13 | [Wallace](http://twitter.com/search?q=Wallace) | N/A |
-| 14 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
-| 15 | [dido](http://twitter.com/search?q=dido) | N/A |
-| 16 | [grimes](http://twitter.com/search?q=grimes) | N/A |
-| 17 | [#PachecoNÃO](http://twitter.com/search?q=%23PachecoN%c3%83O) | N/A |
-| 18 | [Obina](http://twitter.com/search?q=Obina) | N/A |
-| 19 | [MENAS](http://twitter.com/search?q=MENAS) | N/A |
-| 20 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 21 | [São João Bosco](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+Bosco) | N/A |
-| 22 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 23 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 24 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | N/A |
-| 25 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 26 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 27 | [Executivo](http://twitter.com/search?q=Executivo) | N/A |
-| 28 | [#ForaGabrielFop](http://twitter.com/search?q=%23ForaGabrielFop) | N/A |
-| 29 | [Dia 31](http://twitter.com/search?q=Dia+31) | N/A |
-| 30 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [CPI da Covid](http://twitter.com/search?q=CPI+da+Covid) | N/A |
-| 33 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 34 | [Sônia Bridi](http://twitter.com/search?q=S%c3%b4nia+Bridi) | N/A |
-| 35 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 36 | [PSDB](http://twitter.com/search?q=PSDB) | N/A |
+| 12 | [#따끈따끈_도영빵_생일이_왔옹](http://twitter.com/search?q=%23%eb%94%b0%eb%81%88%eb%94%b0%eb%81%88_%eb%8f%84%ec%98%81%eb%b9%b5_%ec%83%9d%ec%9d%bc%ec%9d%b4_%ec%99%94%ec%98%b9) | "#따끈따끈_도영빵_생일이_왔옹" is a hashtag used to celebrate the birthday of Do Young Bang, a South Korean singer and member of the boy band TXT. In English, it translates to "It's Do Young Bang's Birthday - Let's Celebrate!" |
+| 13 | [#BunnyPrinceDoyoungDay](http://twitter.com/search?q=%23BunnyPrinceDoyoungDay) | #BunnyPrinceDoyoungDay is a hashtag used by fans of the South Korean singer and actor Doyoung, who is a member of the K-pop group NCT. The hashtag is used to celebrate his birthday, which falls on August 1st. |
+| 14 | [tove](http://twitter.com/search?q=tove) | N/A |
+| 15 | [Sada](http://twitter.com/search?q=Sada) | N/A |
+| 16 | [#NeverLetMeGoSeriesEP8](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP8) | N/A |
+| 17 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 18 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 19 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
+| 20 | [grimes](http://twitter.com/search?q=grimes) | N/A |
+| 21 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 22 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 23 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 24 | [MENAS](http://twitter.com/search?q=MENAS) | N/A |
+| 25 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 26 | [Louro José](http://twitter.com/search?q=Louro+Jos%c3%a9) | N/A |
+| 27 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 28 | [Obina](http://twitter.com/search?q=Obina) | N/A |
+| 29 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 30 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 31 | [DCEU](http://twitter.com/search?q=DCEU) | N/A |
+| 32 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [James Gunn](http://twitter.com/search?q=James+Gunn) | N/A |
+| 35 | [CPI da Covid](http://twitter.com/search?q=CPI+da+Covid) | N/A |
+| 36 | [São João Bosco](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+Bosco) | N/A |
 | 37 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 38 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 39 | [James Gunn](http://twitter.com/search?q=James+Gunn) | N/A |
-| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 41 | [Livros](http://twitter.com/search?q=Livros) | N/A |
-| 42 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
-| 43 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 44 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 45 | [Sarney](http://twitter.com/search?q=Sarney) | N/A |
-| 46 | [Regina Duarte](http://twitter.com/search?q=Regina+Duarte) | Regina Duarte is a Brazilian actress, singer, and politician. In English, her name means "Queen of the Gift". |
-| 47 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 48 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
-| 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 50 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 38 | [Ana Maria Braga](http://twitter.com/search?q=Ana+Maria+Braga) | N/A |
+| 39 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 40 | [Dia 31](http://twitter.com/search?q=Dia+31) | N/A |
+| 41 | [Executivo](http://twitter.com/search?q=Executivo) | N/A |
+| 42 | [Dom Bosco](http://twitter.com/search?q=Dom+Bosco) | N/A |
+| 43 | [PSDB](http://twitter.com/search?q=PSDB) | N/A |
+| 44 | [BR-277](http://twitter.com/search?q=BR-277) | N/A |
+| 45 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 46 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 47 | [patrícia poeta](http://twitter.com/search?q=patr%c3%adcia+poeta) | N/A |
+| 48 | [Sônia Bridi](http://twitter.com/search?q=S%c3%b4nia+Bridi) | N/A |
+| 49 | [Lira](http://twitter.com/search?q=Lira) | N/A |
 
 
 

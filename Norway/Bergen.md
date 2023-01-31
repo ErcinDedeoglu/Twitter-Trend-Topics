@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-01-31 14:16:10 UTC`
+📆 Last Updated: `2023-01-31 15:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 2 | [Karlsbakk](http://twitter.com/search?q=Karlsbakk) | N/A |
+| 1 | [Karlsbakk](http://twitter.com/search?q=Karlsbakk) | N/A |
+| 2 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 3 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
 | 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 6 | [Bryne](http://twitter.com/search?q=Bryne) | N/A |
 | 7 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 8 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 9 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 10 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 11 | [Osame](http://twitter.com/search?q=Osame) | N/A |
-| 12 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 13 | [Flyr](http://twitter.com/search?q=Flyr) | N/A |
+| 9 | [#AF2023](http://twitter.com/search?q=%23AF2023) | N/A |
+| 10 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 11 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Osame](http://twitter.com/search?q=Osame) | N/A |
 | 14 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 16 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
-| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 20 | [Kommer](http://twitter.com/search?q=Kommer) | N/A |
-| 21 | [slåttavik](http://twitter.com/search?q=sl%c3%a5ttavik) | N/A |
-| 22 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 23 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
-| 24 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 25 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
-| 26 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 27 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 28 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 29 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 30 | [Zafeiris](http://twitter.com/search?q=Zafeiris) | N/A |
-| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 32 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 16 | [flyr](http://twitter.com/search?q=flyr) | N/A |
+| 17 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 18 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 19 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 20 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 21 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
+| 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 23 | [kommer](http://twitter.com/search?q=kommer) | N/A |
+| 24 | [slåttavik](http://twitter.com/search?q=sl%c3%a5ttavik) | N/A |
+| 25 | [America](http://twitter.com/search?q=America) | N/A |
+| 26 | [putins](http://twitter.com/search?q=putins) | N/A |
+| 27 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 28 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 29 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
+| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 31 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 32 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
 | 33 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 34 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
-| 35 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
-| 36 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 37 | [tipper](http://twitter.com/search?q=tipper) | N/A |
-| 38 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 39 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
-| 40 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 41 | [America](http://twitter.com/search?q=America) | N/A |
-| 42 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
-| 43 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 44 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 45 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 46 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 47 | [#Xbox](http://twitter.com/search?q=%23Xbox) | N/A |
-| 48 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 34 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
+| 35 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 36 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 37 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
+| 38 | [Sveits](http://twitter.com/search?q=Sveits) | N/A |
+| 39 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 40 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 41 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 42 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
+| 43 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 44 | [#Xbox](http://twitter.com/search?q=%23Xbox) | N/A |
+| 45 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
+| 46 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 48 | [Viking](http://twitter.com/search?q=Viking) | N/A |
 
 
 
