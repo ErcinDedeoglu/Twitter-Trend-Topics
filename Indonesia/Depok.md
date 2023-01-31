@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-01-31 18:18:08 UTC`
+📆 Last Updated: `2023-01-31 19:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [#BunnyPrinceDoyoungDay](http://twitter.com/search?q=%23BunnyPrinceDoyoungDay) | #BunnyPrinceDoyoungDay is a hashtag used by fans of the South Korean singer and actor Doyoung, who is a member of the K-pop group NCT. The hashtag is used to celebrate his birthday, which falls on August 1st. |
-| 3 | [#따끈따끈_도영빵_생일이_왔옹](http://twitter.com/search?q=%23%eb%94%b0%eb%81%88%eb%94%b0%eb%81%88_%eb%8f%84%ec%98%81%eb%b9%b5_%ec%83%9d%ec%9d%bc%ec%9d%b4_%ec%99%94%ec%98%b9) | "#따끈따끈_도영빵_생일이_왔옹" is a hashtag used to celebrate the birthday of Do Young Bang, a South Korean singer and member of the boy band TXT. In English, it translates to "It's Do Young Bang's Birthday - Let's Celebrate!" |
-| 4 | [#NeverLetMeGoSeriesEP8](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP8) | #NeverLetMeGoSeriesEP8 is a hashtag used to promote the eighth episode of the Netflix series Never Let Me Go. The hashtag encourages viewers to watch the episode and not miss out on any of the show's content. |
-| 5 | [#FebruaryStarJihyoDay](http://twitter.com/search?q=%23FebruaryStarJihyoDay) | #FebruaryStarJihyoDay is a hashtag used by fans of the South Korean singer and actress Jihyo, who is a member of the K-pop girl group TWICE. The hashtag is used to celebrate Jihyo's birthday, which falls on February 1st. Fans use the hashtag to share photos, videos, and messages of support for Jihyo on her special day. |
-| 6 | [Februari](http://twitter.com/search?q=Februari) | N/A |
-| 7 | [Januari](http://twitter.com/search?q=Januari) | N/A |
-| 8 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 9 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 10 | [Kim Heechul](http://twitter.com/search?q=Kim+Heechul) | N/A |
-| 11 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
-| 12 | [BSS ALBUM TRACKLIST](http://twitter.com/search?q=BSS+ALBUM+TRACKLIST) | BSS ALBUM TRACKLIST is a list of songs on an album by the Canadian band, Broken Social Scene. The tracklist includes the titles of each song on the album, as well as the length of each track. |
-| 13 | [Gus Muhaimin Iskandar](http://twitter.com/search?q=Gus+Muhaimin+Iskandar) | Gus Muhaimin Iskandar is an Indonesian politician who served as the Minister of Education and Culture from 2014 to 2019. The name is derived from the Arabic name Muhaimin, which means "protector" or "guardian", and Iskandar, which is a variant of Alexander, meaning "defender of mankind". In English, the name can be translated to mean "Protector of Mankind, Defender of Alexander". |
-| 14 | [Yuli Sumpil](http://twitter.com/search?q=Yuli+Sumpil) | N/A |
-| 15 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | N/A |
-| 16 | [Indomilk](http://twitter.com/search?q=Indomilk) | N/A |
-| 17 | [Kabhi](http://twitter.com/search?q=Kabhi) | N/A |
-| 18 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 1 | [#BunnyPrinceDoyoungDay](http://twitter.com/search?q=%23BunnyPrinceDoyoungDay) | #BunnyPrinceDoyoungDay is a hashtag used by fans of the South Korean singer and actor Doyoung, who is a member of the K-pop group NCT. The hashtag is used to celebrate his birthday, which falls on August 1st. |
+| 2 | [#따끈따끈_도영빵_생일이_왔옹](http://twitter.com/search?q=%23%eb%94%b0%eb%81%88%eb%94%b0%eb%81%88_%eb%8f%84%ec%98%81%eb%b9%b5_%ec%83%9d%ec%9d%bc%ec%9d%b4_%ec%99%94%ec%98%b9) | "#따끈따끈_도영빵_생일이_왔옹" is a hashtag used to celebrate the birthday of Do Young Bang, a South Korean singer and member of the boy band TXT. In English, it translates to "It's Do Young Bang's Birthday - Let's Celebrate!" |
+| 3 | [#VELENCExASTROSTUFFS](http://twitter.com/search?q=%23VELENCExASTROSTUFFS) | N/A |
+| 4 | [#ENDLESSJOURNEY](http://twitter.com/search?q=%23ENDLESSJOURNEY) | #ENDLESSJOURNEY is a hashtag used to describe a journey that has no end or destination. It is often used to express the idea of an ongoing journey of self-discovery, growth, and exploration. |
+| 5 | [Januari](http://twitter.com/search?q=Januari) | N/A |
+| 6 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
+| 7 | [#NeverLetMeGoSeriesEP8](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP8) | #NeverLetMeGoSeriesEP8 is a hashtag used to promote the eighth episode of the Netflix series Never Let Me Go. The hashtag encourages viewers to watch the episode and not miss out on any of the show's content. |
+| 8 | [indonesia terus maju](http://twitter.com/search?q=indonesia+terus+maju) | N/A |
+| 9 | [mending prabowo](http://twitter.com/search?q=mending+prabowo) | N/A |
+| 10 | [Gus Muhaimin Iskandar](http://twitter.com/search?q=Gus+Muhaimin+Iskandar) | Gus Muhaimin Iskandar is an Indonesian politician who served as the Minister of Education and Culture from 2014 to 2019. The name is derived from the Arabic name Muhaimin, which means "protector" or "guardian", and Iskandar, which is a variant of Alexander, meaning "defender of mankind". In English, the name can be translated to mean "Protector of Mankind, Defender of Alexander". |
+| 11 | [Februari](http://twitter.com/search?q=Februari) | N/A |
+| 12 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 13 | [Hanya di Lazada](http://twitter.com/search?q=Hanya+di+Lazada) | N/A |
+| 14 | [Guru](http://twitter.com/search?q=Guru) | N/A |
+| 15 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
+| 16 | [Shafaa](http://twitter.com/search?q=Shafaa) | N/A |
+| 17 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 18 | [Witan](http://twitter.com/search?q=Witan) | N/A |
 | 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 20 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 21 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 22 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
-| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 26 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
-| 27 | [Yadi](http://twitter.com/search?q=Yadi) | N/A |
-| 28 | [Bayu](http://twitter.com/search?q=Bayu) | N/A |
-| 29 | [#SECONDWIND_Tracklist](http://twitter.com/search?q=%23SECONDWIND_Tracklist) | N/A |
-| 30 | [#SECONDWIND_D5](http://twitter.com/search?q=%23SECONDWIND_D5) | N/A |
-| 31 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 32 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 33 | [#Dobbyniversary](http://twitter.com/search?q=%23Dobbyniversary) | N/A |
-| 34 | [#MileApoInHK](http://twitter.com/search?q=%23MileApoInHK) | #MileApoInHK is a hashtag used by people in Hong Kong to express their support for the ongoing pro-democracy protests in the city. The phrase "Mile Apo" is a Cantonese expression meaning "never give up". |
-| 35 | [#BiuTheShowStar](http://twitter.com/search?q=%23BiuTheShowStar) | N/A |
-| 36 | [#VELENCExASTROSTUFFS](http://twitter.com/search?q=%23VELENCExASTROSTUFFS) | N/A |
-| 37 | [#ENDLESSJOURNEY](http://twitter.com/search?q=%23ENDLESSJOURNEY) | #ENDLESSJOURNEY is a hashtag used to describe a journey that has no end or destination. It is often used to express the idea of an ongoing journey of self-discovery, growth, and exploration. |
-| 38 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 39 | [#UsutTuntasTragediKanjuruhan](http://twitter.com/search?q=%23UsutTuntasTragediKanjuruhan) | N/A |
-| 40 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
-| 41 | [#KPWorldTourHONGKONG](http://twitter.com/search?q=%23KPWorldTourHONGKONG) | N/A |
-| 42 | [#MissingTheOtherSide2Ep14](http://twitter.com/search?q=%23MissingTheOtherSide2Ep14) | N/A |
-| 43 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
-| 44 | [#bsumone](http://twitter.com/search?q=%23bsumone) | N/A |
-| 45 | [#PKByaNU](http://twitter.com/search?q=%23PKByaNU) | N/A |
-| 46 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
+| 20 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
+| 21 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
+| 22 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
+| 23 | [fullsun shines again](http://twitter.com/search?q=fullsun+shines+again) | N/A |
+| 24 | [Yuli Sumpil](http://twitter.com/search?q=Yuli+Sumpil) | N/A |
+| 25 | [PKB Ya NU](http://twitter.com/search?q=PKB+Ya+NU) | N/A |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 28 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
+| 29 | [VIVIZ PULL UP OUT NOW](http://twitter.com/search?q=VIVIZ+PULL+UP+OUT+NOW) | VIVIZ PULL UP OUT NOW is a phrase used to encourage someone to take action and get something done. It is often used as a call to action, urging someone to take the initiative and do something. In English, it could be translated as "Take action now!" |
+| 30 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 31 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 32 | [we love you jaemin](http://twitter.com/search?q=we+love+you+jaemin) | N/A |
+| 33 | [arsjad rasjid](http://twitter.com/search?q=arsjad+rasjid) | N/A |
+| 34 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 35 | [kim heechul](http://twitter.com/search?q=kim+heechul) | N/A |
+| 36 | [BSS ALBUM TRACKLIST](http://twitter.com/search?q=BSS+ALBUM+TRACKLIST) | BSS ALBUM TRACKLIST is a list of songs on an album by the Canadian band, Broken Social Scene. The tracklist includes the titles of each song on the album, as well as the length of each track. |
+| 37 | [3RACHA FULL MEMBERS OF KOMCA](http://twitter.com/search?q=3RACHA+FULL+MEMBERS+OF+KOMCA) | 3RACHA is a South Korean hip-hop group composed of three members: Bang Chan, Changbin, and Han. They are all full members of the Korea Music Copyright Association (KOMCA), which is an organization that protects the rights of music creators and producers in South Korea. The acronym "3RACHA FULL MEMBERS OF KOMCA" is used to refer to the trio's membership in KOMCA. |
+| 38 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 39 | [huang renjun thank you](http://twitter.com/search?q=huang+renjun+thank+you) | N/A |
+| 40 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 41 | [Kompas TV](http://twitter.com/search?q=Kompas+TV) | N/A |
+| 42 | [Bunuh](http://twitter.com/search?q=Bunuh) | N/A |
+| 43 | [jd id](http://twitter.com/search?q=jd+id) | N/A |
+| 44 | [Indomilk](http://twitter.com/search?q=Indomilk) | N/A |
+| 45 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
+| 46 | [tambah kehidupmu](http://twitter.com/search?q=tambah+kehidupmu) | N/A |
+| 47 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
+| 48 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 49 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | N/A |
 
 
 

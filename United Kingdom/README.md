@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-01-31 18:18:46 UTC`
+📆 Last Updated: `2023-01-31 19:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 2 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 3 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 4 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | #DCStudios is the hashtag used to refer to DC Entertainment, a subsidiary of Warner Bros. Entertainment. It is used to promote and discuss DC Comics-related content, such as movies, television shows, and comic books. The hashtag stands for "DC Entertainment Studios." |
+| 1 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
+| 2 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 3 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | #DCStudios is the hashtag used to refer to DC Entertainment, a subsidiary of Warner Bros. Entertainment. It is used to promote and discuss DC Comics-related content, such as movies, television shows, and comic books. The hashtag stands for "DC Entertainment Studios." |
+| 4 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
 | 5 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 6 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 7 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 8 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 9 | [Superman](http://twitter.com/search?q=Superman) | N/A |
-| 10 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
-| 11 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
-| 12 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [Djed](http://twitter.com/search?q=Djed) | N/A |
-| 15 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 16 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
-| 17 | [Paul Merson](http://twitter.com/search?q=Paul+Merson) | N/A |
-| 18 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 19 | [Oldham Coliseum](http://twitter.com/search?q=Oldham+Coliseum) | N/A |
-| 20 | [Damian](http://twitter.com/search?q=Damian) | N/A |
-| 21 | [Aaron Ramsey](http://twitter.com/search?q=Aaron+Ramsey) | N/A |
-| 22 | [Green Lantern](http://twitter.com/search?q=Green+Lantern) | Green Lantern is a superhero from DC Comics. He is a member of the intergalactic police force known as the Green Lantern Corps, and is granted a power ring that gives him the ability to create solid constructs out of green energy. The phrase "Green Lantern" has come to mean someone who is brave and stands up for justice. |
-| 23 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
-| 24 | [Finch Farm](http://twitter.com/search?q=Finch+Farm) | N/A |
-| 25 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 26 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 27 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
-| 28 | [#SackTheBoard](http://twitter.com/search?q=%23SackTheBoard) | N/A |
-| 29 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 30 | [Paperchase](http://twitter.com/search?q=Paperchase) | N/A |
-| 31 | [Heinz](http://twitter.com/search?q=Heinz) | N/A |
-| 32 | [Salted](http://twitter.com/search?q=Salted) | N/A |
-| 33 | [Sky Sports News](http://twitter.com/search?q=Sky+Sports+News) | N/A |
-| 34 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 35 | [Tech Nation](http://twitter.com/search?q=Tech+Nation) | N/A |
-| 36 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 37 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 38 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 39 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
-| 40 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 41 | [Thelwell](http://twitter.com/search?q=Thelwell) | N/A |
-| 42 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 43 | [Vaccine](http://twitter.com/search?q=Vaccine) | N/A |
-| 44 | [Glen](http://twitter.com/search?q=Glen) | N/A |
-| 45 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
-| 46 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
-| 47 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 7 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 8 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 9 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 10 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
+| 11 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 12 | [Booster Gold](http://twitter.com/search?q=Booster+Gold) | Booster Gold is a fictional superhero appearing in American comic books published by DC Comics. He is initially depicted as a glory-seeking showboat from the future, using knowledge of historical events and futuristic technology to stage high-publicity heroics. The character has appeared in both comic books and other media adaptations, such as animated television series and video games. |
+| 13 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [Merson](http://twitter.com/search?q=Merson) | N/A |
+| 16 | [Djed](http://twitter.com/search?q=Djed) | N/A |
+| 17 | [#PRIMExUFC](http://twitter.com/search?q=%23PRIMExUFC) | N/A |
+| 18 | [Finch Farm](http://twitter.com/search?q=Finch+Farm) | N/A |
+| 19 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 20 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 21 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 22 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
+| 23 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
+| 24 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
+| 25 | [Hector](http://twitter.com/search?q=Hector) | N/A |
+| 26 | [Oldham Coliseum](http://twitter.com/search?q=Oldham+Coliseum) | N/A |
+| 27 | [Damian](http://twitter.com/search?q=Damian) | Damian is a masculine given name of Greek origin meaning "to tame, subdue". It is derived from the Greek word “damánein”, which means “to tame” or “to subdue”. It is also related to the Latin word “dominus”, which means “lord” or “master”. |
+| 28 | [#NEWSOU](http://twitter.com/search?q=%23NEWSOU) | N/A |
+| 29 | [Green Lantern](http://twitter.com/search?q=Green+Lantern) | Green Lantern is a superhero from DC Comics. He is a member of the intergalactic police force known as the Green Lantern Corps, and is granted a power ring that gives him the ability to create solid constructs out of green energy. The phrase "Green Lantern" has come to mean someone who is brave and stands up for justice. |
+| 30 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | N/A |
+| 31 | [Aaron Ramsey](http://twitter.com/search?q=Aaron+Ramsey) | N/A |
+| 32 | [Heinz](http://twitter.com/search?q=Heinz) | N/A |
+| 33 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 34 | [Salted](http://twitter.com/search?q=Salted) | N/A |
+| 35 | [Ross County](http://twitter.com/search?q=Ross+County) | N/A |
+| 36 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 37 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 38 | [Sky Sports News](http://twitter.com/search?q=Sky+Sports+News) | N/A |
+| 39 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 40 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 41 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 42 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 43 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
+| 44 | [Paperchase](http://twitter.com/search?q=Paperchase) | N/A |
+| 45 | [St James](http://twitter.com/search?q=St+James) | N/A |
+| 46 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 47 | [Loan](http://twitter.com/search?q=Loan) | N/A |
 | 48 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 49 | [Princess of Wales](http://twitter.com/search?q=Princess+of+Wales) | N/A |
-| 50 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 49 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
+| 50 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
 
 
 

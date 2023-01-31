@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-01-31 18:17:50 UTC`
+📆 Last Updated: `2023-01-31 19:15:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
-| 2 | [#SackTheBoard](http://twitter.com/search?q=%23SackTheBoard) | N/A |
+| 1 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 2 | [Merson](http://twitter.com/search?q=Merson) | N/A |
 | 3 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 4 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 5 | [Deluded](http://twitter.com/search?q=Deluded) | N/A |
-| 6 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 7 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 8 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 9 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 10 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 11 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 12 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 13 | [Superman](http://twitter.com/search?q=Superman) | N/A |
-| 14 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
-| 15 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
+| 4 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 5 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 6 | [#NationalStorytellingWeek](http://twitter.com/search?q=%23NationalStorytellingWeek) | N/A |
+| 7 | [St James](http://twitter.com/search?q=St+James) | N/A |
+| 8 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
+| 9 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 10 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
+| 11 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 12 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 13 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 14 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 15 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
 | 16 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 17 | [Djed](http://twitter.com/search?q=Djed) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 20 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
-| 21 | [Paul Merson](http://twitter.com/search?q=Paul+Merson) | N/A |
-| 22 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 23 | [Aaron Ramsey](http://twitter.com/search?q=Aaron+Ramsey) | N/A |
-| 24 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 25 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 17 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
+| 18 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
+| 19 | [Djed](http://twitter.com/search?q=Djed) | N/A |
+| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 21 | [Booster Gold](http://twitter.com/search?q=Booster+Gold) | Booster Gold is a fictional superhero appearing in American comic books published by DC Comics. He is initially depicted as a glory-seeking showboat from the future, using knowledge of historical events and futuristic technology to stage high-publicity heroics. The character has appeared in both comic books and other media adaptations, such as animated television series and video games. |
+| 22 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 23 | [Finch Farm](http://twitter.com/search?q=Finch+Farm) | N/A |
+| 24 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 25 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
 | 26 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
-| 27 | [Paperchase](http://twitter.com/search?q=Paperchase) | N/A |
-| 28 | [Heinz](http://twitter.com/search?q=Heinz) | N/A |
-| 29 | [Salted](http://twitter.com/search?q=Salted) | N/A |
-| 30 | [Sky Sports News](http://twitter.com/search?q=Sky+Sports+News) | N/A |
-| 31 | [Tech Nation](http://twitter.com/search?q=Tech+Nation) | N/A |
-| 32 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 33 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 34 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 35 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
-| 36 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 37 | [Thelwell](http://twitter.com/search?q=Thelwell) | N/A |
-| 38 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 39 | [Vaccine](http://twitter.com/search?q=Vaccine) | N/A |
-| 40 | [Glen](http://twitter.com/search?q=Glen) | N/A |
-| 41 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
-| 42 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 43 | [Princess of Wales](http://twitter.com/search?q=Princess+of+Wales) | N/A |
-| 44 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 45 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
-| 46 | [Jorginho to Arsenal](http://twitter.com/search?q=Jorginho+to+Arsenal) | Jorginho to Arsenal is a phrase used to refer to the potential transfer of Italian midfielder Jorginho from Chelsea Football Club to Arsenal Football Club. It is a phrase used by fans and media outlets to speculate on the possibility of the transfer. |
-| 47 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 48 | [Nat Phillips](http://twitter.com/search?q=Nat+Phillips) | Nat Phillips is a British professional footballer who plays as a centre back for Liverpool. He is known for his strong defensive abilities and has been praised for his leadership qualities. The name Nat Phillips is derived from the initials of his full name, Nathanial Phillips. |
+| 27 | [Lord Frost](http://twitter.com/search?q=Lord+Frost) | N/A |
+| 28 | [Oldham Coliseum](http://twitter.com/search?q=Oldham+Coliseum) | N/A |
+| 29 | [Damian](http://twitter.com/search?q=Damian) | Damian is a masculine given name of Greek origin meaning "to tame, subdue". It is derived from the Greek word “damánein”, which means “to tame” or “to subdue”. It is also related to the Latin word “dominus”, which means “lord” or “master”. |
+| 30 | [Green Lantern](http://twitter.com/search?q=Green+Lantern) | Green Lantern is a superhero from DC Comics. He is a member of the intergalactic police force known as the Green Lantern Corps, and is granted a power ring that gives him the ability to create solid constructs out of green energy. The phrase "Green Lantern" has come to mean someone who is brave and stands up for justice. |
+| 31 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | N/A |
+| 32 | [Aaron Ramsey](http://twitter.com/search?q=Aaron+Ramsey) | N/A |
+| 33 | [Heinz](http://twitter.com/search?q=Heinz) | N/A |
+| 34 | [Salted](http://twitter.com/search?q=Salted) | N/A |
+| 35 | [Ross County](http://twitter.com/search?q=Ross+County) | N/A |
+| 36 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 37 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 38 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 39 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 40 | [Sky Sports News](http://twitter.com/search?q=Sky+Sports+News) | N/A |
+| 41 | [Paperchase](http://twitter.com/search?q=Paperchase) | N/A |
+| 42 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 43 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 44 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
+| 45 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 46 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 47 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 48 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
 
 
 
