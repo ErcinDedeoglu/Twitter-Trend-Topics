@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-01-31 05:15:26 UTC`
+📆 Last Updated: `2023-01-31 06:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Spain](</Spain>)
 | 10 | [Voro](http://twitter.com/search?q=Voro) | Voro is a Finnish word meaning “to make” or “to do.” It is often used in the context of creating something, such as a craft or a piece of art. It can also be used to describe the act of doing something, such as cooking or cleaning. |
 | 11 | [Alexis Ravelo](http://twitter.com/search?q=Alexis+Ravelo) | N/A |
 | 12 | [Gattuso](http://twitter.com/search?q=Gattuso) | Gattuso is a nickname for the Italian football player Gennaro Gattuso. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "Little Gennaro". |
-| 13 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 14 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 15 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 16 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 17 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 13 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 14 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 15 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 16 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 17 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
 | 18 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 19 | [Jhayco](http://twitter.com/search?q=Jhayco) | Jhayco is a slang term used in the Philippines to refer to someone who is stylish or fashionable. It is derived from the Tagalog phrase "maganda ang ayos," which translates to "well-dressed." |
-| 20 | [Almodóvar](http://twitter.com/search?q=Almod%c3%b3var) | N/A |
-| 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 22 | [Feroz](http://twitter.com/search?q=Feroz) | N/A |
-| 23 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 20 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 21 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 22 | [Almodóvar](http://twitter.com/search?q=Almod%c3%b3var) | N/A |
+| 23 | [Feroz](http://twitter.com/search?q=Feroz) | N/A |
 | 24 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 25 | [meriton](http://twitter.com/search?q=meriton) | N/A |
-| 26 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 27 | [odón elorza](http://twitter.com/search?q=od%c3%b3n+elorza) | N/A |
-| 28 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 29 | [Camello](http://twitter.com/search?q=Camello) | N/A |
-| 30 | [Peter Lim](http://twitter.com/search?q=Peter+Lim) | N/A |
-| 31 | [Marie Kondo](http://twitter.com/search?q=Marie+Kondo) | N/A |
-| 32 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
-| 33 | [lola indigo](http://twitter.com/search?q=lola+indigo) | N/A |
-| 34 | [jedet](http://twitter.com/search?q=jedet) | N/A |
-| 35 | [Iraola](http://twitter.com/search?q=Iraola) | N/A |
-| 36 | [Bryan Gil](http://twitter.com/search?q=Bryan+Gil) | Bryan Gil is a Spanish professional footballer who plays as a winger for Real Madrid. He is known for his speed, dribbling ability, and crossing. His name is often used as a slang term in Spanish to describe someone who is fast and skillful. |
-| 37 | [la cerámica](http://twitter.com/search?q=la+cer%c3%a1mica) | N/A |
-| 38 | [felicidades majestad](http://twitter.com/search?q=felicidades+majestad) | N/A |
-| 39 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
-| 40 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
-| 41 | [Jorgensen](http://twitter.com/search?q=Jorgensen) | N/A |
-| 42 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 43 | [Fellini](http://twitter.com/search?q=Fellini) | N/A |
-| 44 | [ruber](http://twitter.com/search?q=ruber) | N/A |
-| 45 | [bob pop](http://twitter.com/search?q=bob+pop) | N/A |
-| 46 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 47 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 48 | [Illojuan](http://twitter.com/search?q=Illojuan) | N/A |
-| 49 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
-| 50 | [David](http://twitter.com/search?q=David) | N/A |
+| 25 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 26 | [Remiro](http://twitter.com/search?q=Remiro) | Remiro is a Spanish word meaning "to remember". It is often used as a reminder to remember something important. |
+| 27 | [Marie Kondo](http://twitter.com/search?q=Marie+Kondo) | N/A |
+| 28 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 29 | [lola indigo](http://twitter.com/search?q=lola+indigo) | N/A |
+| 30 | [Meriton](http://twitter.com/search?q=Meriton) | N/A |
+| 31 | [Sergio Camello](http://twitter.com/search?q=Sergio+Camello) | Sergio Camello is a Spanish phrase that translates to "Sergio the Camel". It is used as a nickname for someone who is stubborn or difficult to deal with. |
+| 32 | [Peter Lim](http://twitter.com/search?q=Peter+Lim) | N/A |
+| 33 | [iraola](http://twitter.com/search?q=iraola) | N/A |
+| 34 | [Odón Elorza](http://twitter.com/search?q=Od%c3%b3n+Elorza) | N/A |
+| 35 | [Bryan Gil](http://twitter.com/search?q=Bryan+Gil) | Bryan Gil is a Spanish professional footballer who plays as a winger for Real Madrid. He is known for his speed, dribbling ability, and crossing. His name is often used as a slang term in Spanish to describe someone who is fast and skillful. |
+| 36 | [Máximo Huerta](http://twitter.com/search?q=M%c3%a1ximo+Huerta) | N/A |
+| 37 | [felicidades majestad](http://twitter.com/search?q=felicidades+majestad) | N/A |
+| 38 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
+| 39 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
+| 40 | [Jorgensen](http://twitter.com/search?q=Jorgensen) | N/A |
+| 41 | [Jedet](http://twitter.com/search?q=Jedet) | N/A |
+| 42 | [Fellini](http://twitter.com/search?q=Fellini) | N/A |
+| 43 | [ruber](http://twitter.com/search?q=ruber) | N/A |
+| 44 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 45 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 46 | [Karchez](http://twitter.com/search?q=Karchez) | Karchez is a term used in the Indian subcontinent to refer to a person who is considered to be of low social status. It is derived from the Hindi word "karz" which means "debt". In English, it can be translated as "lowly" or "humble". |
+| 47 | [La Cerámica](http://twitter.com/search?q=La+Cer%c3%a1mica) | La Cerámica is a type of pottery or ceramic art that originated in Spain. It is characterized by its bright colors, intricate designs, and unique shapes. The term "La Cerámica" literally translates to "the ceramic" in English. |
+| 48 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 49 | [Indecente](http://twitter.com/search?q=Indecente) | N/A |
+| 50 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 
 
 

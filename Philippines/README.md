@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-01-31 05:15:56 UTC`
+📆 Last Updated: `2023-01-31 06:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for Philippines
 | 4 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
 | 5 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
 | 6 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 7 | [#TWICE_BBWomenInMusic](http://twitter.com/search?q=%23TWICE_BBWomenInMusic) | N/A |
+| 7 | [#ShowtimeJANkaMasaya](http://twitter.com/search?q=%23ShowtimeJANkaMasaya) | N/A |
 | 8 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
 | 9 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 10 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 11 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
-| 12 | [kodrea tcextras ang pinaka](http://twitter.com/search?q=kodrea+tcextras+ang+pinaka) | N/A |
-| 13 | [joongki](http://twitter.com/search?q=joongki) | N/A |
-| 14 | [Jay Park](http://twitter.com/search?q=Jay+Park) | N/A |
-| 15 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 16 | [Bigger Venue](http://twitter.com/search?q=Bigger+Venue) | N/A |
-| 17 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 18 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 19 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 20 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
-| 21 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 22 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 23 | [bini mojos everyday](http://twitter.com/search?q=bini+mojos+everyday) | N/A |
-| 24 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
-| 25 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 26 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
-| 27 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 28 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 29 | [aljay pinaka malupet](http://twitter.com/search?q=aljay+pinaka+malupet) | N/A |
-| 30 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
-| 31 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
-| 32 | [DSWD](http://twitter.com/search?q=DSWD) | N/A |
+| 10 | [D-3 COMPLEX EP RELEASE](http://twitter.com/search?q=D-3+COMPLEX+EP+RELEASE) | N/A |
+| 11 | [joongki](http://twitter.com/search?q=joongki) | N/A |
+| 12 | [Jay Park](http://twitter.com/search?q=Jay+Park) | N/A |
+| 13 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
+| 14 | [Bigger Venue](http://twitter.com/search?q=Bigger+Venue) | N/A |
+| 15 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 16 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 17 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 18 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
+| 19 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
+| 20 | [bini mojos everyday](http://twitter.com/search?q=bini+mojos+everyday) | N/A |
+| 21 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
+| 22 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
+| 23 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 24 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
+| 25 | [aljay pinaka malupet](http://twitter.com/search?q=aljay+pinaka+malupet) | N/A |
+| 26 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
+| 27 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
+| 28 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
+| 29 | [DSWD](http://twitter.com/search?q=DSWD) | N/A |
+| 30 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 31 | [pause and jay my heart](http://twitter.com/search?q=pause+and+jay+my+heart) | N/A |
+| 32 | [Derek](http://twitter.com/search?q=Derek) | N/A |
 | 33 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
-| 34 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
-| 35 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
-| 36 | [pause and jay my heart](http://twitter.com/search?q=pause+and+jay+my+heart) | N/A |
-| 37 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 38 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
-| 39 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
-| 40 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 42 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
-| 43 | [Kwangsoo](http://twitter.com/search?q=Kwangsoo) | N/A |
-| 44 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 45 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 46 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 47 | [Quezon City](http://twitter.com/search?q=Quezon+City) | N/A |
-| 48 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 49 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
+| 34 | [Kwangsoo](http://twitter.com/search?q=Kwangsoo) | N/A |
+| 35 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
+| 36 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
+| 37 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
+| 38 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
+| 39 | [Jaehyuk](http://twitter.com/search?q=Jaehyuk) | N/A |
+| 40 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 41 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 42 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 43 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
+| 44 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
+| 45 | [Taeil](http://twitter.com/search?q=Taeil) | N/A |
+| 46 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
+| 47 | [Somi](http://twitter.com/search?q=Somi) | N/A |
+| 48 | [Circle 3](http://twitter.com/search?q=Circle+3) | N/A |
+| 49 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
 | 50 | [PROBLEM CHILD MV RELEASE](http://twitter.com/search?q=PROBLEM+CHILD+MV+RELEASE) | N/A |
 
 

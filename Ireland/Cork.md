@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-01-31 05:15:22 UTC`
+📆 Last Updated: `2023-01-31 06:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,20 +24,20 @@ This is top 50 for [Ireland](</Ireland>)
 | 7 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 9 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 10 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 11 | [lismore](http://twitter.com/search?q=lismore) | N/A |
 | 12 | [#DPWorldTour](http://twitter.com/search?q=%23DPWorldTour) | N/A |
 | 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 14 | [kitty holland](http://twitter.com/search?q=kitty+holland) | N/A |
-| 15 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 16 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 17 | [Bill and Frank](http://twitter.com/search?q=Bill+and+Frank) | N/A |
-| 18 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 19 | [Ashtown](http://twitter.com/search?q=Ashtown) | N/A |
-| 20 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 21 | [Rory McIlroy](http://twitter.com/search?q=Rory+McIlroy) | N/A |
-| 22 | [Princess Zoe](http://twitter.com/search?q=Princess+Zoe) | N/A |
-| 23 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [Bill and Frank](http://twitter.com/search?q=Bill+and+Frank) | N/A |
+| 16 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 17 | [Ashtown](http://twitter.com/search?q=Ashtown) | N/A |
+| 18 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 19 | [Rory McIlroy](http://twitter.com/search?q=Rory+McIlroy) | N/A |
+| 20 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 21 | [Princess Zoe](http://twitter.com/search?q=Princess+Zoe) | N/A |
+| 22 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 23 | [Kitty Holland](http://twitter.com/search?q=Kitty+Holland) | N/A |
 | 24 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
 | 25 | [Niners](http://twitter.com/search?q=Niners) | Niners is a slang term for the San Francisco 49ers, an American football team based in the San Francisco Bay Area. The term is derived from the team's name, which includes the number "49" in it. |
 | 26 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
@@ -50,16 +50,16 @@ This is top 50 for [Ireland](</Ireland>)
 | 33 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
 | 34 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
 | 35 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 36 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 38 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 39 | [Leo Varadkar](http://twitter.com/search?q=Leo+Varadkar) | N/A |
-| 40 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 41 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 42 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 43 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 44 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 45 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
+| 39 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 40 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 41 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 42 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 43 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 44 | [varadkar](http://twitter.com/search?q=varadkar) | N/A |
+| 45 | [finglas](http://twitter.com/search?q=finglas) | N/A |
 | 46 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
 | 47 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
 | 48 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |

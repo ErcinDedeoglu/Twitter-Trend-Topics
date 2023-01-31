@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-01-31 05:15:19 UTC`
+📆 Last Updated: `2023-01-31 06:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,25 +21,22 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 4 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
 | 5 | [Tiburones de La Guaira](http://twitter.com/search?q=Tiburones+de+La+Guaira) | Tiburones de La Guaira is a professional baseball team based in La Guaira, Venezuela. The team plays in the Venezuelan Professional Baseball League and is one of the most successful teams in the league, having won six championships since its founding in 1962. The name "Tiburones de La Guaira" translates to "Sharks of La Guaira" in English. |
 | 6 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 7 | [Título 21](http://twitter.com/search?q=T%c3%adtulo+21) | N/A |
-| 8 | [Son 21](http://twitter.com/search?q=Son+21) | N/A |
-| 9 | [El 21](http://twitter.com/search?q=El+21) | N/A |
-| 10 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 11 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 12 | [Alcides Escobar](http://twitter.com/search?q=Alcides+Escobar) | N/A |
-| 13 | [Danry](http://twitter.com/search?q=Danry) | N/A |
-| 14 | [#IVCLVBP](http://twitter.com/search?q=%23IVCLVBP) | N/A |
-| 15 | [#31Ene](http://twitter.com/search?q=%2331Ene) | N/A |
-| 16 | [Niko](http://twitter.com/search?q=Niko) | N/A |
-| 17 | [Tejeda](http://twitter.com/search?q=Tejeda) | N/A |
-| 18 | [Ali Castillo](http://twitter.com/search?q=Ali+Castillo) | N/A |
+| 7 | [Son 21](http://twitter.com/search?q=Son+21) | N/A |
+| 8 | [Título 21](http://twitter.com/search?q=T%c3%adtulo+21) | N/A |
+| 9 | [Danry](http://twitter.com/search?q=Danry) | N/A |
+| 10 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 11 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 12 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 13 | [#31Ene](http://twitter.com/search?q=%2331Ene) | N/A |
+| 14 | [Alcides Escobar](http://twitter.com/search?q=Alcides+Escobar) | N/A |
+| 15 | [#IVCLVBP](http://twitter.com/search?q=%23IVCLVBP) | N/A |
+| 16 | [Tejeda](http://twitter.com/search?q=Tejeda) | N/A |
+| 17 | [Ali Castillo](http://twitter.com/search?q=Ali+Castillo) | N/A |
+| 18 | [Estadio Universitario](http://twitter.com/search?q=Estadio+Universitario) | N/A |
 | 19 | [#GranFinalLVBP](http://twitter.com/search?q=%23GranFinalLVBP) | N/A |
-| 20 | [Estadio Universitario](http://twitter.com/search?q=Estadio+Universitario) | N/A |
-| 21 | [Adrianza](http://twitter.com/search?q=Adrianza) | N/A |
-| 22 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
-| 23 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 24 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 25 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 20 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
+| 21 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 22 | [Torres](http://twitter.com/search?q=Torres) | N/A |
 
 
 

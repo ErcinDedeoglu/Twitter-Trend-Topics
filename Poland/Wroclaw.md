@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-01-31 05:15:22 UTC`
+📆 Last Updated: `2023-01-31 06:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,39 +31,39 @@ This is top 50 for [Poland](</Poland>)
 | 14 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
 | 15 | [nitrasa](http://twitter.com/search?q=nitrasa) | N/A |
 | 16 | [gual](http://twitter.com/search?q=gual) | N/A |
-| 17 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 18 | [iranie](http://twitter.com/search?q=iranie) | N/A |
-| 19 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 20 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 21 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
-| 22 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
-| 23 | [zielińskiego](http://twitter.com/search?q=zieli%c5%84skiego) | N/A |
-| 24 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 25 | [dasz](http://twitter.com/search?q=dasz) | N/A |
-| 26 | [Wika](http://twitter.com/search?q=Wika) | N/A |
-| 27 | [wiki](http://twitter.com/search?q=wiki) | N/A |
-| 28 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
-| 29 | [japierdole](http://twitter.com/search?q=japierdole) | N/A |
-| 30 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
-| 31 | [obajtek](http://twitter.com/search?q=obajtek) | N/A |
-| 32 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
-| 33 | [Juras](http://twitter.com/search?q=Juras) | N/A |
-| 34 | [O 13](http://twitter.com/search?q=O+13) | N/A |
-| 35 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
-| 36 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
-| 37 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
-| 38 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
-| 39 | [magda linette](http://twitter.com/search?q=magda+linette) | N/A |
-| 40 | [belka](http://twitter.com/search?q=belka) | N/A |
-| 41 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
-| 42 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 43 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 44 | [polska press](http://twitter.com/search?q=polska+press) | N/A |
-| 45 | [nobla](http://twitter.com/search?q=nobla) | N/A |
-| 46 | [cracovia](http://twitter.com/search?q=cracovia) | N/A |
-| 47 | [muci](http://twitter.com/search?q=muci) | N/A |
-| 48 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
-| 49 | [balcerowicz](http://twitter.com/search?q=balcerowicz) | N/A |
+| 17 | [iranie](http://twitter.com/search?q=iranie) | N/A |
+| 18 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 19 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 20 | [zielińskiego](http://twitter.com/search?q=zieli%c5%84skiego) | N/A |
+| 21 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 22 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 23 | [dasz](http://twitter.com/search?q=dasz) | N/A |
+| 24 | [Wika](http://twitter.com/search?q=Wika) | N/A |
+| 25 | [wiki](http://twitter.com/search?q=wiki) | N/A |
+| 26 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 27 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
+| 28 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
+| 29 | [Juras](http://twitter.com/search?q=Juras) | N/A |
+| 30 | [o 13](http://twitter.com/search?q=o+13) | N/A |
+| 31 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
+| 32 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
+| 33 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
+| 34 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
+| 35 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
+| 36 | [magda linette](http://twitter.com/search?q=magda+linette) | N/A |
+| 37 | [belka](http://twitter.com/search?q=belka) | N/A |
+| 38 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
+| 39 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
+| 40 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 41 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 42 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 43 | [polska press](http://twitter.com/search?q=polska+press) | N/A |
+| 44 | [nobla](http://twitter.com/search?q=nobla) | N/A |
+| 45 | [cracovia](http://twitter.com/search?q=cracovia) | N/A |
+| 46 | [muci](http://twitter.com/search?q=muci) | N/A |
+| 47 | [balcerowicz](http://twitter.com/search?q=balcerowicz) | N/A |
+| 48 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 49 | [pcimia](http://twitter.com/search?q=pcimia) | N/A |
 
 
 
