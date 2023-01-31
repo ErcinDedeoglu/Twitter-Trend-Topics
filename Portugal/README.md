@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-01-31 07:17:27 UTC`
+📆 Last Updated: `2023-01-31 08:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for Portugal
 | 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 4 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 5 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 6 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 7 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
-| 8 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 5 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
+| 6 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
+| 7 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 8 | [Porro](http://twitter.com/search?q=Porro) | N/A |
 | 9 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 10 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 11 | [pizzi](http://twitter.com/search?q=pizzi) | N/A |
@@ -33,8 +33,8 @@ This is top 50 for Portugal
 | 16 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
 | 17 | [Mafra](http://twitter.com/search?q=Mafra) | N/A |
 | 18 | [Vitória](http://twitter.com/search?q=Vit%c3%b3ria) | N/A |
-| 19 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 20 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 19 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 20 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 21 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 23 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
@@ -49,22 +49,22 @@ This is top 50 for Portugal
 | 32 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 33 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
 | 34 | [Varandas](http://twitter.com/search?q=Varandas) | N/A |
-| 35 | [London](http://twitter.com/search?q=London) | N/A |
-| 36 | [enfermeiros](http://twitter.com/search?q=enfermeiros) | N/A |
-| 37 | [Celta](http://twitter.com/search?q=Celta) | N/A |
-| 38 | [Bjork](http://twitter.com/search?q=Bjork) | Bjork is the stage name of Icelandic singer-songwriter and actress Björk Guðmundsdóttir. She is known for her avant-garde musical style, which incorporates elements of electronic, experimental, classical, trip hop, and alternative rock. The name Bjork is derived from the Old Norse word björk, meaning birch tree. |
-| 39 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 40 | [#iwanttheepic](http://twitter.com/search?q=%23iwanttheepic) | N/A |
-| 41 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 42 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 43 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 44 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 45 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 46 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 47 | [o costa](http://twitter.com/search?q=o+costa) | N/A |
-| 48 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
-| 49 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 35 | [enfermeiros](http://twitter.com/search?q=enfermeiros) | N/A |
+| 36 | [Celta](http://twitter.com/search?q=Celta) | N/A |
+| 37 | [Bjork](http://twitter.com/search?q=Bjork) | Bjork is the stage name of Icelandic singer-songwriter and actress Björk Guðmundsdóttir. She is known for her avant-garde musical style, which incorporates elements of electronic, experimental, classical, trip hop, and alternative rock. The name Bjork is derived from the Old Norse word björk, meaning birch tree. |
+| 38 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
+| 39 | [#iwanttheepic](http://twitter.com/search?q=%23iwanttheepic) | N/A |
+| 40 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 41 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 42 | [keyla brasil](http://twitter.com/search?q=keyla+brasil) | N/A |
+| 43 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 44 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 45 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 46 | [o costa](http://twitter.com/search?q=o+costa) | N/A |
+| 47 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 48 | [Yanomami](http://twitter.com/search?q=Yanomami) | Yanomami is the name of an indigenous people living in the Amazon rainforest in South America. The word Yanomami is derived from the language of the Yanomami people and means “human being” or “person”. |
+| 49 | [Diomandé](http://twitter.com/search?q=Diomand%c3%a9) | N/A |
+| 50 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 
 
 

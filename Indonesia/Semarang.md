@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-01-31 07:17:00 UTC`
+📆 Last Updated: `2023-01-31 08:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [motor listrik militer](http://twitter.com/search?q=motor+listrik+militer) | N/A |
-| 2 | [siap mengaspal](http://twitter.com/search?q=siap+mengaspal) | N/A |
-| 3 | [e-tactical sergap](http://twitter.com/search?q=e-tactical+sergap) | N/A |
-| 4 | [Guru](http://twitter.com/search?q=Guru) | N/A |
-| 5 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
-| 6 | [#3RACHA_KOMCAFullMembers](http://twitter.com/search?q=%233RACHA_KOMCAFullMembers) | N/A |
-| 7 | [#Congratulations3RACHA](http://twitter.com/search?q=%23Congratulations3RACHA) | N/A |
-| 8 | [#VELENCExASTROSTUFFS](http://twitter.com/search?q=%23VELENCExASTROSTUFFS) | N/A |
-| 9 | [tambah kehidupmu](http://twitter.com/search?q=tambah+kehidupmu) | N/A |
-| 10 | [3RACHA FULL MEMBERS OF KOMCA](http://twitter.com/search?q=3RACHA+FULL+MEMBERS+OF+KOMCA) | 3RACHA is a South Korean hip-hop group composed of three members: Bang Chan, Changbin, and Han. They are all full members of the Korea Music Copyright Association (KOMCA), which is an organization that protects the rights of music creators and producers in South Korea. The acronym "3RACHA FULL MEMBERS OF KOMCA" is used to refer to the trio's membership in KOMCA. |
-| 11 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
-| 12 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
-| 13 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
-| 14 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
-| 15 | [Witan](http://twitter.com/search?q=Witan) | N/A |
-| 16 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 17 | [vibing with bts](http://twitter.com/search?q=vibing+with+bts) | N/A |
-| 18 | [Premium](http://twitter.com/search?q=Premium) | N/A |
-| 19 | [Satu Abad NU](http://twitter.com/search?q=Satu+Abad+NU) | Satu Abad NU is an Indonesian phrase that translates to "One Century Now". It is a slogan used to promote the idea of a new century of progress and development in Indonesia. |
-| 20 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
-| 21 | [Shafaa](http://twitter.com/search?q=Shafaa) | N/A |
-| 22 | [hitz jingle lazada](http://twitter.com/search?q=hitz+jingle+lazada) | N/A |
-| 23 | [Nmax](http://twitter.com/search?q=Nmax) | N/A |
-| 24 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
-| 25 | [WE LOVE YOU JAEMIN](http://twitter.com/search?q=WE+LOVE+YOU+JAEMIN) | N/A |
-| 26 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 27 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 28 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
-| 29 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
+| 1 | [#PengirimanCepat](http://twitter.com/search?q=%23PengirimanCepat) | N/A |
+| 2 | [#GratisOngkir](http://twitter.com/search?q=%23GratisOngkir) | N/A |
+| 3 | [Hanya Di Lazada](http://twitter.com/search?q=Hanya+Di+Lazada) | Hanya Di Lazada is a popular Indonesian phrase that translates to "Only at Lazada". It is used to refer to products or services that are only available on the Lazada online shopping platform. |
+| 4 | [motor listrik militer](http://twitter.com/search?q=motor+listrik+militer) | N/A |
+| 5 | [siap mengaspal](http://twitter.com/search?q=siap+mengaspal) | N/A |
+| 6 | [e-tactical sergap](http://twitter.com/search?q=e-tactical+sergap) | N/A |
+| 7 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
+| 8 | [#Congratulations3RACHA](http://twitter.com/search?q=%23Congratulations3RACHA) | #Congratulations3RACHA is a hashtag used to congratulate the South Korean hip-hop group 3RACHA (also known as CB97) on their accomplishments. The group consists of three members, Bang Chan, Changbin, and Han. The hashtag is used to show support for the group and their music. |
+| 9 | [Guru](http://twitter.com/search?q=Guru) | N/A |
+| 10 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
+| 11 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
+| 12 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
+| 13 | [Witan](http://twitter.com/search?q=Witan) | N/A |
+| 14 | [vibing with bts](http://twitter.com/search?q=vibing+with+bts) | N/A |
+| 15 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 16 | [Shafaa](http://twitter.com/search?q=Shafaa) | N/A |
+| 17 | [Satu Abad NU](http://twitter.com/search?q=Satu+Abad+NU) | Satu Abad NU is an Indonesian phrase that translates to "One Century Now". It is a slogan used to promote the idea of a new century of progress and development in Indonesia. |
+| 18 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
+| 19 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
+| 20 | [Premium](http://twitter.com/search?q=Premium) | N/A |
+| 21 | [Nmax](http://twitter.com/search?q=Nmax) | N/A |
+| 22 | [WE LOVE YOU JAEMIN](http://twitter.com/search?q=WE+LOVE+YOU+JAEMIN) | N/A |
+| 23 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 24 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 25 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
+| 26 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 27 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
+| 28 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
+| 29 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
 | 30 | [Nangka](http://twitter.com/search?q=Nangka) | N/A |
-| 31 | [Bunuh](http://twitter.com/search?q=Bunuh) | N/A |
-| 32 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 33 | [Song Hye Kyo](http://twitter.com/search?q=Song+Hye+Kyo) | N/A |
-| 34 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 31 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 32 | [Bunuh](http://twitter.com/search?q=Bunuh) | N/A |
+| 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 34 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
+| 35 | [Song Hye Kyo](http://twitter.com/search?q=Song+Hye+Kyo) | N/A |
 | 36 | [shin tae yong](http://twitter.com/search?q=shin+tae+yong) | N/A |
-| 37 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
-| 38 | [revolusi pssi](http://twitter.com/search?q=revolusi+pssi) | N/A |
-| 39 | [Siang](http://twitter.com/search?q=Siang) | N/A |
-| 40 | [Orient](http://twitter.com/search?q=Orient) | N/A |
+| 37 | [Orient](http://twitter.com/search?q=Orient) | N/A |
+| 38 | [Januari](http://twitter.com/search?q=Januari) | N/A |
+| 39 | [Duit](http://twitter.com/search?q=Duit) | N/A |
+| 40 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
 | 41 | [JD ID](http://twitter.com/search?q=JD+ID) | N/A |
-| 42 | [Duit](http://twitter.com/search?q=Duit) | N/A |
-| 43 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
-| 44 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 45 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 46 | [ARMY APOLOGIZE TO NCT](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+NCT) | N/A |
-| 47 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
-| 48 | [Januari](http://twitter.com/search?q=Januari) | N/A |
-| 49 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 42 | [ARMY APOLOGIZE TO NCT](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+NCT) | N/A |
+| 43 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
+| 44 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 45 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 46 | [Physical](http://twitter.com/search?q=Physical) | N/A |
+| 47 | [Fairy](http://twitter.com/search?q=Fairy) | N/A |
+| 48 | [balitbang kemhan](http://twitter.com/search?q=balitbang+kemhan) | N/A |
+| 49 | [Tambah Kehidupmu](http://twitter.com/search?q=Tambah+Kehidupmu) | Tambah Kehidupmu is an Indonesian phrase that translates to "Enhance Your Life" in English. It is a phrase used to encourage someone to make positive changes in their life and strive for personal growth. |
 
 
 

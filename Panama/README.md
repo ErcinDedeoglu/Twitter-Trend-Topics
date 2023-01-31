@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-01-31 07:17:27 UTC`
+📆 Last Updated: `2023-01-31 08:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,19 +15,19 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 4 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 5 | [el chorrillo](http://twitter.com/search?q=el+chorrillo) | N/A |
-| 6 | [feliz lunes](http://twitter.com/search?q=feliz+lunes) | N/A |
-| 7 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 8 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 9 | [cape kortia](http://twitter.com/search?q=cape+kortia) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 11 | [martín torrijos](http://twitter.com/search?q=mart%c3%adn+torrijos) | N/A |
-| 12 | [Canal de Panamá](http://twitter.com/search?q=Canal+de+Panam%c3%a1) | N/A |
-| 13 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 3 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 4 | [el chorrillo](http://twitter.com/search?q=el+chorrillo) | N/A |
+| 5 | [feliz lunes](http://twitter.com/search?q=feliz+lunes) | N/A |
+| 6 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 7 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 8 | [cape kortia](http://twitter.com/search?q=cape+kortia) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
+| 10 | [martín torrijos](http://twitter.com/search?q=mart%c3%adn+torrijos) | N/A |
+| 11 | [Canal de Panamá](http://twitter.com/search?q=Canal+de+Panam%c3%a1) | N/A |
+| 12 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 13 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
 | 14 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 15 | [taboga](http://twitter.com/search?q=taboga) | N/A |
 | 16 | [albrook](http://twitter.com/search?q=albrook) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for Panama
 | 29 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
 | 30 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
 | 31 | [panameño](http://twitter.com/search?q=paname%c3%b1o) | N/A |
-| 32 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 32 | [pineda](http://twitter.com/search?q=pineda) | N/A |
 | 33 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
 | 34 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
 | 35 | [Abierto de Australia](http://twitter.com/search?q=Abierto+de+Australia) | N/A |

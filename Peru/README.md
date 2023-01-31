@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-01-31 07:17:26 UTC`
+📆 Last Updated: `2023-01-31 08:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,13 +22,13 @@ This is top 50 for Peru
 | 5 | [Víctor Santisteban](http://twitter.com/search?q=V%c3%adctor+Santisteban) | N/A |
 | 6 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
 | 7 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 8 | [#mensajealanacion](http://twitter.com/search?q=%23mensajealanacion) | N/A |
+| 8 | [#MensajeALaNacion](http://twitter.com/search?q=%23MensajeALaNacion) | N/A |
 | 9 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
 | 10 | [#LoMatoLaPolicia](http://twitter.com/search?q=%23LoMatoLaPolicia) | N/A |
 | 11 | [Asamblea Constituyente](http://twitter.com/search?q=Asamblea+Constituyente) | N/A |
 | 12 | [Sol Carreño](http://twitter.com/search?q=Sol+Carre%c3%b1o) | N/A |
-| 13 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
-| 14 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 13 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 14 | [Cavero](http://twitter.com/search?q=Cavero) | N/A |
 | 15 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 16 | [huaycán](http://twitter.com/search?q=huayc%c3%a1n) | N/A |
 | 17 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
@@ -51,9 +51,9 @@ This is top 50 for Peru
 | 34 | [Richard Arce](http://twitter.com/search?q=Richard+Arce) | N/A |
 | 35 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 36 | [Gahela](http://twitter.com/search?q=Gahela) | N/A |
-| 37 | [Canal N](http://twitter.com/search?q=Canal+N) | N/A |
-| 38 | [Mónica Delta](http://twitter.com/search?q=M%c3%b3nica+Delta) | N/A |
-| 39 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 37 | [Mónica Delta](http://twitter.com/search?q=M%c3%b3nica+Delta) | N/A |
+| 38 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 39 | [Canal N](http://twitter.com/search?q=Canal+N) | N/A |
 | 40 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
 | 41 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
 | 42 | [Casa Andina](http://twitter.com/search?q=Casa+Andina) | N/A |

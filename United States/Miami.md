@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-01-31 07:17:19 UTC`
+📆 Last Updated: `2023-01-31 08:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [United States](</United States>)
 | 4 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
 | 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 6 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
-| 7 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 8 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
-| 9 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
-| 10 | [#PrayForSchaffrillas](http://twitter.com/search?q=%23PrayForSchaffrillas) | N/A |
-| 11 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 12 | [#WreckEm](http://twitter.com/search?q=%23WreckEm) | N/A |
-| 13 | [Bogi](http://twitter.com/search?q=Bogi) | N/A |
-| 14 | [AriZona Iced Tea](http://twitter.com/search?q=AriZona+Iced+Tea) | N/A |
-| 15 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 16 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 17 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 18 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 19 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | N/A |
-| 20 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 21 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
-| 22 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 23 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
-| 24 | [Lipsey](http://twitter.com/search?q=Lipsey) | N/A |
-| 25 | [Cutie Honey](http://twitter.com/search?q=Cutie+Honey) | N/A |
+| 7 | [#PrayForSchaffrillas](http://twitter.com/search?q=%23PrayForSchaffrillas) | N/A |
+| 8 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
+| 9 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 10 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 11 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
+| 12 | [#Wordle591](http://twitter.com/search?q=%23Wordle591) | N/A |
+| 13 | [AriZona Iced Tea](http://twitter.com/search?q=AriZona+Iced+Tea) | N/A |
+| 14 | [Bogi](http://twitter.com/search?q=Bogi) | N/A |
+| 15 | [#WreckEm](http://twitter.com/search?q=%23WreckEm) | N/A |
+| 16 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 17 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 18 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 19 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 20 | [Cutie Honey](http://twitter.com/search?q=Cutie+Honey) | N/A |
+| 21 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 22 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
+| 23 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
+| 24 | [Leones del Caracas](http://twitter.com/search?q=Leones+del+Caracas) | N/A |
+| 25 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
 | 26 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 27 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 28 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
-| 29 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 30 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
-| 31 | [Grill](http://twitter.com/search?q=Grill) | N/A |
-| 32 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 33 | [Donald Sutherland](http://twitter.com/search?q=Donald+Sutherland) | N/A |
-| 34 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 35 | [Goodbye Yellow Brick Road](http://twitter.com/search?q=Goodbye+Yellow+Brick+Road) | N/A |
-| 36 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 37 | [Rick Boogs](http://twitter.com/search?q=Rick+Boogs) | Rick Boogs is a slang term used to describe someone who is acting recklessly or foolishly. It can also be used to describe someone who is being overly dramatic or making a scene. |
-| 38 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 27 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 28 | [Goodbye Yellow Brick Road](http://twitter.com/search?q=Goodbye+Yellow+Brick+Road) | N/A |
+| 29 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 30 | [Donald Sutherland](http://twitter.com/search?q=Donald+Sutherland) | N/A |
+| 31 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 32 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 33 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 34 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 35 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
+| 36 | [Rick Boogs](http://twitter.com/search?q=Rick+Boogs) | Rick Boogs is a slang term used to describe someone who is acting recklessly or foolishly. It can also be used to describe someone who is being overly dramatic or making a scene. |
+| 37 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 38 | [Nurkic](http://twitter.com/search?q=Nurkic) | N/A |
 | 39 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 40 | [Nurkic](http://twitter.com/search?q=Nurkic) | N/A |
-| 41 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 42 | [Red Raiders](http://twitter.com/search?q=Red+Raiders) | N/A |
-| 43 | [Mark Adams](http://twitter.com/search?q=Mark+Adams) | N/A |
-| 44 | [Trey Lyles](http://twitter.com/search?q=Trey+Lyles) | Trey Lyles is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). His name is derived from his given name, Trey, and his middle name, Lyles. The name Trey Lyles can be translated to mean "third son of Lyles". |
-| 45 | [Lubbock](http://twitter.com/search?q=Lubbock) | N/A |
-| 46 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
-| 47 | [American Graffiti](http://twitter.com/search?q=American+Graffiti) | American Graffiti is a 1973 American coming-of-age comedy film directed and co-written by George Lucas. Set in 1962 Modesto, California, the film is a study of the cruising and rock and roll cultures popular among the post–World War II baby boom generation. The film's meaning in English is that it is a nostalgic look at teenage life in the early 1960s. |
+| 40 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
+| 41 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 42 | [Trey Lyles](http://twitter.com/search?q=Trey+Lyles) | Trey Lyles is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). His name is derived from his given name, Trey, and his middle name, Lyles. The name Trey Lyles can be translated to mean "third son of Lyles". |
+| 43 | [Red Raiders](http://twitter.com/search?q=Red+Raiders) | N/A |
+| 44 | [Reboot](http://twitter.com/search?q=Reboot) | N/A |
+| 45 | [American Graffiti](http://twitter.com/search?q=American+Graffiti) | American Graffiti is a 1973 American coming-of-age comedy film directed and co-written by George Lucas. Set in 1962 Modesto, California, the film is a study of the cruising and rock and roll cultures popular among the post–World War II baby boom generation. The film's meaning in English is that it is a nostalgic look at teenage life in the early 1960s. |
+| 46 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 47 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
 | 48 | [Discotek](http://twitter.com/search?q=Discotek) | N/A |
 
 

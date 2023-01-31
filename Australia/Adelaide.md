@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-01-31 07:17:00 UTC`
+📆 Last Updated: `2023-01-31 08:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 2 | [Opus](http://twitter.com/search?q=Opus) | N/A |
-| 3 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 4 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 1 | [Opus](http://twitter.com/search?q=Opus) | N/A |
+| 2 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 3 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 4 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
 | 5 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 6 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 7 | [Hank Jongen](http://twitter.com/search?q=Hank+Jongen) | N/A |
-| 8 | [Rachelle Miller](http://twitter.com/search?q=Rachelle+Miller) | N/A |
+| 6 | [Rachelle Miller](http://twitter.com/search?q=Rachelle+Miller) | N/A |
+| 7 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
+| 8 | [Hank Jongen](http://twitter.com/search?q=Hank+Jongen) | N/A |
 | 9 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
-| 10 | [Simon Benson](http://twitter.com/search?q=Simon+Benson) | N/A |
-| 11 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 12 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 13 | [Josh Landis](http://twitter.com/search?q=Josh+Landis) | N/A |
-| 14 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 10 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 11 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
+| 12 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 13 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 14 | [Josh Landis](http://twitter.com/search?q=Josh+Landis) | N/A |
 | 15 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
 | 16 | [ClubsNSW](http://twitter.com/search?q=ClubsNSW) | N/A |
 | 17 | [Sally Rugg](http://twitter.com/search?q=Sally+Rugg) | N/A |
-| 18 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
-| 19 | [Laverne](http://twitter.com/search?q=Laverne) | Laverne is a French name meaning "the alder tree". It is also a unisex name, often given to both boys and girls. |
-| 20 | [Will Steffen](http://twitter.com/search?q=Will+Steffen) | N/A |
+| 18 | [Will Steffen](http://twitter.com/search?q=Will+Steffen) | N/A |
+| 19 | [Simon Benson](http://twitter.com/search?q=Simon+Benson) | N/A |
+| 20 | [Laverne](http://twitter.com/search?q=Laverne) | Laverne is a French name meaning "the alder tree". It is also a unisex name, often given to both boys and girls. |
 | 21 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 22 | [Louise](http://twitter.com/search?q=Louise) | N/A |
+| 22 | [Bevan Hannan](http://twitter.com/search?q=Bevan+Hannan) | N/A |
 | 23 | [Craig Foster](http://twitter.com/search?q=Craig+Foster) | N/A |
-| 24 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 24 | [AFLW](http://twitter.com/search?q=AFLW) | N/A |
 | 25 | [Bridget McKenzie](http://twitter.com/search?q=Bridget+McKenzie) | N/A |
-| 26 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 26 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
 | 27 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
 | 28 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 29 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
-| 30 | [Rogue](http://twitter.com/search?q=Rogue) | N/A |
-| 31 | [Veronica Nelson](http://twitter.com/search?q=Veronica+Nelson) | N/A |
-| 32 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 33 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
+| 29 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
+| 30 | [Veronica Nelson](http://twitter.com/search?q=Veronica+Nelson) | N/A |
+| 31 | [Louise](http://twitter.com/search?q=Louise) | N/A |
+| 32 | [Rogue](http://twitter.com/search?q=Rogue) | N/A |
+| 33 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
 | 34 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 35 | [Black Friday](http://twitter.com/search?q=Black+Friday) | N/A |
-| 36 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 37 | [Arts](http://twitter.com/search?q=Arts) | N/A |
-| 38 | [Australia and France](http://twitter.com/search?q=Australia+and+France) | N/A |
-| 39 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 40 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
-| 41 | [The Commissioner](http://twitter.com/search?q=The+Commissioner) | N/A |
-| 42 | [Bonza](http://twitter.com/search?q=Bonza) | N/A |
-| 43 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 44 | [Stony Creek](http://twitter.com/search?q=Stony+Creek) | N/A |
-| 45 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
-| 46 | [Happy Birthday Mike](http://twitter.com/search?q=Happy+Birthday+Mike) | N/A |
-| 47 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 48 | [Anjali](http://twitter.com/search?q=Anjali) | N/A |
+| 35 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 36 | [Australia and France](http://twitter.com/search?q=Australia+and+France) | N/A |
+| 37 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 38 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
+| 39 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
+| 40 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 41 | [Arts](http://twitter.com/search?q=Arts) | N/A |
+| 42 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 43 | [Bonza](http://twitter.com/search?q=Bonza) | N/A |
+| 44 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 45 | [Black Friday](http://twitter.com/search?q=Black+Friday) | N/A |
+| 46 | [Stony Creek](http://twitter.com/search?q=Stony+Creek) | N/A |
+| 47 | [Anjali](http://twitter.com/search?q=Anjali) | N/A |
+| 48 | [Guru](http://twitter.com/search?q=Guru) | N/A |
 
 
 

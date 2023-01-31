@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-01-31 07:16:51 UTC`
+📆 Last Updated: `2023-01-31 08:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 2 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
-| 3 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
-| 4 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 5 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 3 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
+| 4 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 5 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
 | 6 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
 | 7 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
 | 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
@@ -28,37 +28,28 @@ This is top 50 for [Brazil](</Brazil>)
 | 11 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
 | 12 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
 | 13 | [Dummy](http://twitter.com/search?q=Dummy) | Dummy is a slang term used to describe someone who is foolish or gullible. It can also be used to describe someone who is not very intelligent or knowledgeable. |
-| 14 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
-| 15 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 16 | [Esse Gustavo](http://twitter.com/search?q=Esse+Gustavo) | N/A |
-| 17 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 14 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 15 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 16 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 17 | [tortada](http://twitter.com/search?q=tortada) | Tortada is a Spanish word that refers to a type of flatbread or cake. It is usually made with wheat flour, eggs, and sugar, and can be either sweet or savory. In English, it is sometimes referred to as a "torta" or "tortilla cake". |
 | 18 | [LUDMILLA SOU MA](http://twitter.com/search?q=LUDMILLA+SOU+MA) | LUDMILLA SOU MA is a phrase in Portuguese which translates to "I am Ludmilla". It is a statement of identity, used to introduce oneself. |
 | 19 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
-| 20 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 21 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 22 | [Macetado](http://twitter.com/search?q=Macetado) | N/A |
-| 23 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
-| 24 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 25 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 26 | [Viny](http://twitter.com/search?q=Viny) | N/A |
-| 27 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
-| 28 | [#askdirectioners](http://twitter.com/search?q=%23askdirectioners) | N/A |
-| 29 | [Fred Boco Roso](http://twitter.com/search?q=Fred+Boco+Roso) | N/A |
-| 30 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 31 | [Repassa](http://twitter.com/search?q=Repassa) | N/A |
-| 32 | [César](http://twitter.com/search?q=C%c3%a9sar) | N/A |
-| 33 | [Planta](http://twitter.com/search?q=Planta) | N/A |
-| 34 | [Nathalia](http://twitter.com/search?q=Nathalia) | N/A |
-| 35 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
-| 36 | [Regina Duarte](http://twitter.com/search?q=Regina+Duarte) | Regina Duarte is a Brazilian actress, singer, and politician. In English, her name means "Queen of the Gift". |
-| 37 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 38 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 39 | [matue](http://twitter.com/search?q=matue) | N/A |
-| 40 | [30praum](http://twitter.com/search?q=30praum) | 30praum is a Japanese lifestyle brand that focuses on creating products that are both stylish and functional. The name "30praum" is derived from the German words "30" (dreißig) and "Raum" (room), which together mean "30 rooms". This refers to the idea of creating a space where people can relax and enjoy life. |
-| 41 | [Flow Espacial](http://twitter.com/search?q=Flow+Espacial) | N/A |
-| 42 | [O Boninho](http://twitter.com/search?q=O+Boninho) | N/A |
-| 43 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
-| 44 | [#PachecoSIM](http://twitter.com/search?q=%23PachecoSIM) | N/A |
+| 20 | [Abravanel](http://twitter.com/search?q=Abravanel) | N/A |
+| 21 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 22 | [Macetando](http://twitter.com/search?q=Macetando) | N/A |
+| 23 | [Natália](http://twitter.com/search?q=Nat%c3%a1lia) | Natália is a female given name of Latin origin, derived from the word “natalis”, meaning “birthday”. In English, it is often translated as Natalie. |
+| 24 | [Viny](http://twitter.com/search?q=Viny) | N/A |
+| 25 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
+| 26 | [Fred Boco Roso](http://twitter.com/search?q=Fred+Boco+Roso) | N/A |
+| 27 | [Repassa](http://twitter.com/search?q=Repassa) | N/A |
+| 28 | [Planta](http://twitter.com/search?q=Planta) | N/A |
+| 29 | [O Dr](http://twitter.com/search?q=O+Dr) | N/A |
+| 30 | [Cézar](http://twitter.com/search?q=C%c3%a9zar) | N/A |
+| 31 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 32 | [matue](http://twitter.com/search?q=matue) | N/A |
+| 33 | [#PachecoSIM](http://twitter.com/search?q=%23PachecoSIM) | N/A |
+| 34 | [30praum](http://twitter.com/search?q=30praum) | 30praum is a Japanese lifestyle brand that focuses on creating products that are both stylish and functional. The name "30praum" is derived from the German words "30" (dreißig) and "Raum" (room), which together mean "30 rooms". This refers to the idea of creating a space where people can relax and enjoy life. |
+| 35 | [O Boninho](http://twitter.com/search?q=O+Boninho) | N/A |
 
 
 

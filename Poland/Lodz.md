@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-01-31 07:16:53 UTC`
+📆 Last Updated: `2023-01-31 08:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [Poland](</Poland>)
 | 5 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
 | 6 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 7 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 8 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 9 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 10 | [Billa](http://twitter.com/search?q=Billa) | N/A |
-| 11 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 12 | [patryk](http://twitter.com/search?q=patryk) | N/A |
-| 13 | [poncyliusz](http://twitter.com/search?q=poncyliusz) | N/A |
-| 14 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
-| 15 | [gual](http://twitter.com/search?q=gual) | N/A |
-| 16 | [iranie](http://twitter.com/search?q=iranie) | N/A |
-| 17 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 18 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
-| 19 | [zalewski](http://twitter.com/search?q=zalewski) | N/A |
-| 20 | [zielińskiego](http://twitter.com/search?q=zieli%c5%84skiego) | N/A |
+| 8 | [Billa](http://twitter.com/search?q=Billa) | N/A |
+| 9 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 10 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
+| 11 | [poncyliusz](http://twitter.com/search?q=poncyliusz) | N/A |
+| 12 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
+| 13 | [gual](http://twitter.com/search?q=gual) | N/A |
+| 14 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 15 | [iranie](http://twitter.com/search?q=iranie) | N/A |
+| 16 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 17 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 18 | [zalewski](http://twitter.com/search?q=zalewski) | N/A |
+| 19 | [zielińskiego](http://twitter.com/search?q=zieli%c5%84skiego) | N/A |
+| 20 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
 | 21 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 22 | [jurka](http://twitter.com/search?q=jurka) | N/A |
+| 22 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
 | 23 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 24 | [Wika](http://twitter.com/search?q=Wika) | N/A |
+| 24 | [wika](http://twitter.com/search?q=wika) | N/A |
 | 25 | [wiki](http://twitter.com/search?q=wiki) | N/A |
-| 26 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
-| 27 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
-| 28 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
-| 29 | [Juras](http://twitter.com/search?q=Juras) | N/A |
+| 26 | [Zjednoczonej Prawicy](http://twitter.com/search?q=Zjednoczonej+Prawicy) | N/A |
+| 27 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 28 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
+| 29 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
 | 30 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
 | 31 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
-| 32 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
-| 33 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
-| 34 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
-| 35 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
-| 36 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
-| 37 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 38 | [magda linette](http://twitter.com/search?q=magda+linette) | N/A |
-| 39 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
-| 40 | [belka](http://twitter.com/search?q=belka) | N/A |
-| 41 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 42 | [O 13](http://twitter.com/search?q=O+13) | N/A |
-| 43 | [nobla](http://twitter.com/search?q=nobla) | N/A |
-| 44 | [muci](http://twitter.com/search?q=muci) | N/A |
-| 45 | [balcerowicz](http://twitter.com/search?q=balcerowicz) | N/A |
+| 32 | [Juras](http://twitter.com/search?q=Juras) | N/A |
+| 33 | [O 13](http://twitter.com/search?q=O+13) | N/A |
+| 34 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
+| 35 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
+| 36 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
+| 37 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
+| 38 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
+| 39 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 40 | [magda linette](http://twitter.com/search?q=magda+linette) | N/A |
+| 41 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
+| 42 | [belka](http://twitter.com/search?q=belka) | N/A |
+| 43 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 44 | [nobla](http://twitter.com/search?q=nobla) | N/A |
+| 45 | [muci](http://twitter.com/search?q=muci) | N/A |
 | 46 | [pcimia](http://twitter.com/search?q=pcimia) | N/A |
-| 47 | [bad mitterndorf](http://twitter.com/search?q=bad+mitterndorf) | N/A |
-| 48 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 47 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 48 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 
 
 
