@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Krasnodar
 
-📆 Last Updated: `2023-01-31 19:15:49 UTC`
+📆 Last Updated: `2023-01-31 20:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Russia](</Russia>)
 | ------- | ------------ | ------------ |
 | 1 | [pretty coooool](http://twitter.com/search?q=pretty+coooool) | N/A |
 | 2 | [Users](http://twitter.com/search?q=Users) | N/A |
-| 3 | [Песков](http://twitter.com/search?q=%d0%9f%d0%b5%d1%81%d0%ba%d0%be%d0%b2) | N/A |
-| 4 | [Employ](http://twitter.com/search?q=Employ) | N/A |
-| 5 | [Сталинград](http://twitter.com/search?q=%d0%a1%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
+| 3 | [Сталинград](http://twitter.com/search?q=%d0%a1%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
+| 4 | [Песков](http://twitter.com/search?q=%d0%9f%d0%b5%d1%81%d0%ba%d0%be%d0%b2) | N/A |
+| 5 | [Employ](http://twitter.com/search?q=Employ) | N/A |
 | 6 | [Иране](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd%d0%b5) | N/A |
-| 7 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 8 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 9 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 10 | [Отношения](http://twitter.com/search?q=%d0%9e%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 11 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 12 | [The Last](http://twitter.com/search?q=The+Last) | N/A |
-| 13 | [Волгоград](http://twitter.com/search?q=%d0%92%d0%be%d0%bb%d0%b3%d0%be%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
+| 7 | [Абрамович](http://twitter.com/search?q=%d0%90%d0%b1%d1%80%d0%b0%d0%bc%d0%be%d0%b2%d0%b8%d1%87) | N/A |
+| 8 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 9 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 10 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 11 | [#вампирысреднейполосы](http://twitter.com/search?q=%23%d0%b2%d0%b0%d0%bc%d0%bf%d0%b8%d1%80%d1%8b%d1%81%d1%80%d0%b5%d0%b4%d0%bd%d0%b5%d0%b9%d0%bf%d0%be%d0%bb%d0%be%d1%81%d1%8b) | N/A |
+| 12 | [Отношения](http://twitter.com/search?q=%d0%9e%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 13 | [The Last](http://twitter.com/search?q=The+Last) | N/A |
 | 14 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 15 | [парни](http://twitter.com/search?q=%d0%bf%d0%b0%d1%80%d0%bd%d0%b8) | N/A |
-| 16 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 17 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
-| 18 | [КПСС](http://twitter.com/search?q=%d0%9a%d0%9f%d0%a1%d0%a1) | N/A |
-| 19 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 20 | [калининград](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bb%d0%b8%d0%bd%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
-| 21 | [хороша](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b0) | N/A |
-| 22 | [Осталось](http://twitter.com/search?q=%d0%9e%d1%81%d1%82%d0%b0%d0%bb%d0%be%d1%81%d1%8c) | N/A |
-| 23 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 24 | [#deficarpets](http://twitter.com/search?q=%23deficarpets) | N/A |
-| 25 | [#nftpolygon](http://twitter.com/search?q=%23nftpolygon) | N/A |
-| 26 | [#rarenft](http://twitter.com/search?q=%23rarenft) | N/A |
-| 27 | [#BestMusicVideo](http://twitter.com/search?q=%23BestMusicVideo) | #BestMusicVideo is a hashtag used on social media to highlight the best music videos. It is used to draw attention to music videos that are particularly creative, entertaining, or well-made. |
-| 28 | [желаю](http://twitter.com/search?q=%d0%b6%d0%b5%d0%bb%d0%b0%d1%8e) | N/A |
+| 15 | [Волгоград](http://twitter.com/search?q=%d0%92%d0%be%d0%bb%d0%b3%d0%be%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
+| 16 | [парни](http://twitter.com/search?q=%d0%bf%d0%b0%d1%80%d0%bd%d0%b8) | N/A |
+| 17 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 18 | [Чонгука](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 19 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
+| 20 | [КПСС](http://twitter.com/search?q=%d0%9a%d0%9f%d0%a1%d0%a1) | N/A |
+| 21 | [#deficarpets](http://twitter.com/search?q=%23deficarpets) | N/A |
+| 22 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 23 | [калининград](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bb%d0%b8%d0%bd%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
+| 24 | [хороша](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b0) | N/A |
+| 25 | [осталось](http://twitter.com/search?q=%d0%be%d1%81%d1%82%d0%b0%d0%bb%d0%be%d1%81%d1%8c) | N/A |
+| 26 | [#OpenSeaNFT](http://twitter.com/search?q=%23OpenSeaNFT) | N/A |
+| 27 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 28 | [#nftpolygon](http://twitter.com/search?q=%23nftpolygon) | N/A |
 | 29 | [немцы](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bc%d1%86%d1%8b) | N/A |
-| 30 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 31 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
-| 32 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 33 | [Очередной](http://twitter.com/search?q=%d0%9e%d1%87%d0%b5%d1%80%d0%b5%d0%b4%d0%bd%d0%be%d0%b9) | N/A |
-| 34 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 35 | [Олега](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3%d0%b0) | N/A |
-| 36 | [Причём](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%87%d1%91%d0%bc) | N/A |
-| 37 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 38 | [Марс](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d1%81) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [жириновского](http://twitter.com/search?q=%d0%b6%d0%b8%d1%80%d0%b8%d0%bd%d0%be%d0%b2%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 41 | [Предлагаю](http://twitter.com/search?q=%d0%9f%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0%d1%8e) | N/A |
-| 42 | [Подмосковье](http://twitter.com/search?q=%d0%9f%d0%be%d0%b4%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
-| 43 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 44 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 30 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 31 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 32 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 33 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
+| 34 | [Олега](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3%d0%b0) | N/A |
+| 35 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 36 | [Очередной](http://twitter.com/search?q=%d0%9e%d1%87%d0%b5%d1%80%d0%b5%d0%b4%d0%bd%d0%be%d0%b9) | N/A |
+| 37 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 38 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
+| 39 | [Причём](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%87%d1%91%d0%bc) | N/A |
+| 40 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 41 | [Марс](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d1%81) | N/A |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [Предлагаю](http://twitter.com/search?q=%d0%9f%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0%d1%8e) | N/A |
+| 44 | [Подмосковье](http://twitter.com/search?q=%d0%9f%d0%be%d0%b4%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
+| 45 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 47 | [Прошу](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%88%d1%83) | N/A |
 | 48 | [Киеве](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
-| 49 | [ЛГБТ](http://twitter.com/search?q=%d0%9b%d0%93%d0%91%d0%a2) | N/A |
-| 50 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
+| 49 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
+| 50 | [Пхах](http://twitter.com/search?q=%d0%9f%d1%85%d0%b0%d1%85) | N/A |
 
 
 

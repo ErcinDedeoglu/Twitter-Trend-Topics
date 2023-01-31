@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-01-31 19:15:47 UTC`
+📆 Last Updated: `2023-01-31 20:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EveryoneNeedsAHeadStart](http://twitter.com/search?q=%23EveryoneNeedsAHeadStart) | N/A |
-| 2 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 3 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
-| 4 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 5 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 6 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 7 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 2 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 3 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
+| 4 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 5 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 6 | [#LiveBetterWithCapitec](http://twitter.com/search?q=%23LiveBetterWithCapitec) | N/A |
+| 7 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
 | 8 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 9 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
 | 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 11 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
 | 12 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 13 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
+| 13 | [Block 13](http://twitter.com/search?q=Block+13) | N/A |
 | 14 | [Kapinga](http://twitter.com/search?q=Kapinga) | N/A |
 | 15 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 16 | [DJ Fresh](http://twitter.com/search?q=DJ+Fresh) | N/A |
-| 17 | [Dintle](http://twitter.com/search?q=Dintle) | N/A |
+| 16 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
+| 17 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 18 | [Makhaula](http://twitter.com/search?q=Makhaula) | N/A |
-| 19 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 19 | [DJ Fresh](http://twitter.com/search?q=DJ+Fresh) | N/A |
 | 20 | [Eva Nga](http://twitter.com/search?q=Eva+Nga) | N/A |
 | 21 | [Eulon Redcliffe](http://twitter.com/search?q=Eulon+Redcliffe) | N/A |
-| 22 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 23 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
+| 23 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 24 | [Timm](http://twitter.com/search?q=Timm) | N/A |
 | 25 | [Rutendo](http://twitter.com/search?q=Rutendo) | N/A |
-| 26 | [Timm](http://twitter.com/search?q=Timm) | N/A |
-| 27 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
-| 28 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 29 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
-| 30 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 31 | [JayKay](http://twitter.com/search?q=JayKay) | N/A |
-| 32 | [Koen](http://twitter.com/search?q=Koen) | N/A |
-| 33 | [the eskom files](http://twitter.com/search?q=the+eskom+files) | N/A |
-| 34 | [January Photo Dump](http://twitter.com/search?q=January+Photo+Dump) | N/A |
+| 26 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
+| 27 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 29 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 30 | [Koen](http://twitter.com/search?q=Koen) | N/A |
+| 31 | [January Photo Dump](http://twitter.com/search?q=January+Photo+Dump) | N/A |
+| 32 | [Dintle](http://twitter.com/search?q=Dintle) | N/A |
+| 33 | [Jaykay](http://twitter.com/search?q=Jaykay) | N/A |
+| 34 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
 | 35 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 36 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 37 | [Energetic](http://twitter.com/search?q=Energetic) | N/A |
-| 38 | [Hashim Amla](http://twitter.com/search?q=Hashim+Amla) | N/A |
-| 39 | [eWallet](http://twitter.com/search?q=eWallet) | N/A |
-| 40 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
-| 41 | [Grade 1](http://twitter.com/search?q=Grade+1) | N/A |
-| 42 | [Namibia](http://twitter.com/search?q=Namibia) | N/A |
+| 36 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 37 | [hashim amla](http://twitter.com/search?q=hashim+amla) | N/A |
+| 38 | [Grade 1](http://twitter.com/search?q=Grade+1) | N/A |
+| 39 | [zano](http://twitter.com/search?q=zano) | N/A |
+| 40 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | N/A |
+| 41 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
+| 42 | [Luzuko](http://twitter.com/search?q=Luzuko) | N/A |
 | 43 | [Hitachi](http://twitter.com/search?q=Hitachi) | N/A |
-| 44 | [zano](http://twitter.com/search?q=zano) | N/A |
-| 45 | [Success](http://twitter.com/search?q=Success) | N/A |
-| 46 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
-| 47 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 48 | [Solomons](http://twitter.com/search?q=Solomons) | N/A |
-| 49 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 50 | [Johannesburg CBD](http://twitter.com/search?q=Johannesburg+CBD) | N/A |
+| 44 | [Solomons](http://twitter.com/search?q=Solomons) | N/A |
+| 45 | [Energetic](http://twitter.com/search?q=Energetic) | N/A |
+| 46 | [Makaringe](http://twitter.com/search?q=Makaringe) | N/A |
+| 47 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
+| 48 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
+| 49 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 50 | [Mosele](http://twitter.com/search?q=Mosele) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-01-31 19:15:48 UTC`
+📆 Last Updated: `2023-01-31 20:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#الراجحي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 2 | [#شاي_واو](http://twitter.com/search?q=%23%d8%b4%d8%a7%d9%8a_%d9%88%d8%a7%d9%88) | N/A |
-| 3 | [#رساله_لقلبك](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d9%84%d9%82%d9%84%d8%a8%d9%83) | #رساله_لقلبك is a hashtag used on social media in Arabic to express love and appreciation for someone. It translates to "A Message for Your Heart". |
-| 4 | [#البزنس56](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b356) | N/A |
-| 5 | [#الهلال_الوداد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | N/A |
-| 6 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 7 | [الكفاءه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%81%d8%a7%d8%a1%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 8 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 9 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 10 | [الالتزامات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 1 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 2 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
+| 3 | [#الراجحي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | #الراجحي is an Arabic hashtag that translates to "Rajhi" in English. It is the name of a Saudi Arabian bank, Bank Al Rajhi. |
+| 4 | [#تزوج_الثانيه](http://twitter.com/search?q=%23%d8%aa%d8%b2%d9%88%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 5 | [#زد_رصيدك8](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%838) | N/A |
+| 6 | [#شاي_واو](http://twitter.com/search?q=%23%d8%b4%d8%a7%d9%8a_%d9%88%d8%a7%d9%88) | N/A |
+| 7 | [ابل باي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%84+%d8%a8%d8%a7%d9%8a) | N/A |
+| 8 | [الشعر العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 9 | [الكفاءه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%81%d8%a7%d8%a1%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 10 | [نقاط البيع](http://twitter.com/search?q=%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b9) | N/A |
 | 11 | [سوزا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b2%d8%a7) | N/A |
-| 12 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
-| 13 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 14 | [23 فبراير](http://twitter.com/search?q=23+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 15 | [روي كوستا](http://twitter.com/search?q=%d8%b1%d9%88%d9%8a+%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | N/A |
-| 16 | [الحلقه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 17 | [الفتره الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 18 | [سالم الاحمدي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af%d9%8a) | N/A |
-| 19 | [الجهاز الطبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a) | الجهاز الطبي is a medical device in Arabic. In English, it means medical equipment or medical instrument. |
-| 20 | [الخلف الاصل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%81+%d8%a7%d9%84%d8%a7%d8%b5%d9%84) | N/A |
-| 21 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 22 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
-| 23 | [الدفعات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 24 | [كاس السوبر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | كاس السوبر (Kass al-Souper) is an Arabic phrase that translates to "Super Cup" in English. It is a term used to refer to a cup or trophy awarded to the winner of a football tournament or championship. |
-| 25 | [اللايحه التنفيذيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d9%8a%d8%ad%d9%87+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a%d9%87) | N/A |
-| 26 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
-| 27 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 28 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 29 | [البيت السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 30 | [ابل باي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%84+%d8%a8%d8%a7%d9%8a) | N/A |
-| 31 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 32 | [توفر تحدي](http://twitter.com/search?q=%d8%aa%d9%88%d9%81%d8%b1+%d8%aa%d8%ad%d8%af%d9%8a) | N/A |
-| 33 | [ابو لارا](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d8%a7%d8%b1%d8%a7) | N/A |
-| 34 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 35 | [معين عبدالملك](http://twitter.com/search?q=%d9%85%d8%b9%d9%8a%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 36 | [رييس الاتحاد الدولي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 37 | [المهارات الثقافيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a%d9%87) | N/A |
-| 38 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 39 | [وليد البحيح](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%a7%d9%84%d8%a8%d8%ad%d9%8a%d8%ad) | N/A |
-| 40 | [ابو ثوب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ab%d9%88%d8%a8) | N/A |
-| 41 | [الانديه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 42 | [بدر خلف](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%ae%d9%84%d9%81) | N/A |
-| 43 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 44 | [ديون الاتحاد](http://twitter.com/search?q=%d8%af%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 45 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 46 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 47 | [محمد عجب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%ac%d8%a8) | N/A |
-| 48 | [ويليان](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%86) | ويليان (pronounced "Villian") is an Arabic name meaning "strong-willed". It is often used as a given name for boys. |
-| 49 | [خيار الشراء](http://twitter.com/search?q=%d8%ae%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1) | N/A |
-| 50 | [الثوب النسخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%a8+%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d9%87) | N/A |
+| 12 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 13 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 14 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
+| 15 | [سالم الاحمدي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af%d9%8a) | N/A |
+| 16 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 17 | [بن طلال](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
+| 18 | [روي كوستا](http://twitter.com/search?q=%d8%b1%d9%88%d9%8a+%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | N/A |
+| 19 | [صوت الارض](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 20 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 21 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 22 | [الاتحاد الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | الاتحاد الاسيوي (ASEAN) is the Association of Southeast Asian Nations, an intergovernmental organization made up of 10 countries in Southeast Asia. Its purpose is to promote economic growth, social progress, and cultural development among its members. In English, it means "Association of Southeast Asian Nations". |
+| 23 | [#البزنس56](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b356) | N/A |
+| 24 | [#عام_الشعر_العربي](http://twitter.com/search?q=%23%d8%b9%d8%a7%d9%85_%d8%a7%d9%84%d8%b4%d8%b9%d8%b1_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 25 | [#الهلال_الوداد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | N/A |
+| 26 | [#برنامج_طله_الغيث](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%b7%d9%84%d9%87_%d8%a7%d9%84%d8%ba%d9%8a%d8%ab) | N/A |
+| 27 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 28 | [#ابشرو_بها](http://twitter.com/search?q=%23%d8%a7%d8%a8%d8%b4%d8%b1%d9%88_%d8%a8%d9%87%d8%a7) | N/A |
+| 29 | [#مجلس_الوزراء](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 30 | [#الهلال_في_كاس_العالم](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 31 | [#نقاط_الفتح_يا_نصر](http://twitter.com/search?q=%23%d9%86%d9%82%d8%a7%d8%b7_%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d9%8a%d8%a7_%d9%86%d8%b5%d8%b1) | N/A |
+| 32 | [#ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 33 | [#الفتح_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 34 | [#الشباب_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%b6%d9%85%d9%83) | N/A |
+| 35 | [#توقع_مع_كملنا](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%82%d8%b9_%d9%85%d8%b9_%d9%83%d9%85%d9%84%d9%86%d8%a7) | N/A |
+| 36 | [#الناس_والليل23](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%a7%d8%b3_%d9%88%d8%a7%d9%84%d9%84%d9%8a%d9%8423) | N/A |
+| 37 | [#ابها_الخليج](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%87%d8%a7_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 38 | [#ريال_مدريد_فالنسيا](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af_%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | N/A |
+| 39 | [#مسلسل_لغز_بابل15](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%84%d8%ba%d8%b2_%d8%a8%d8%a7%d8%a8%d9%8415) | N/A |
+| 40 | [#الباطن_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
+| 41 | [#اقاله_معين_مطلب_شعبي](http://twitter.com/search?q=%23%d8%a7%d9%82%d8%a7%d9%84%d9%87_%d9%85%d8%b9%d9%8a%d9%86_%d9%85%d8%b7%d9%84%d8%a8_%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
+| 42 | [#ساره_الودعاني](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
+| 43 | [#الاتفاق_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 44 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 45 | [#الرسايل_الخاصه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
+| 46 | [#واقعيتنا_علي_الواقع_جميله](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%82%d8%b9%d9%8a%d8%aa%d9%86%d8%a7_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9_%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
+| 47 | [#الاهلي_الاخدود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%a7%d8%ae%d8%af%d9%88%d8%af) | N/A |
+| 48 | [#حرق_كونان](http://twitter.com/search?q=%23%d8%ad%d8%b1%d9%82_%d9%83%d9%88%d9%86%d8%a7%d9%86) | N/A |
+| 49 | [#طلال_مداح](http://twitter.com/search?q=%23%d8%b7%d9%84%d8%a7%d9%84_%d9%85%d8%af%d8%a7%d8%ad) | N/A |
+| 50 | [#الدكتوره_فاطمه_نصيف](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1%d9%87_%d9%81%d8%a7%d8%b7%d9%85%d9%87_%d9%86%d8%b5%d9%8a%d9%81) | N/A |
 
 
 

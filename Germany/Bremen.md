@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-01-31 19:15:33 UTC`
+📆 Last Updated: `2023-01-31 20:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,42 +27,42 @@ This is top 50 for [Germany](</Germany>)
 | 10 | [Soli](http://twitter.com/search?q=Soli) | N/A |
 | 11 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
 | 12 | [Gerichte](http://twitter.com/search?q=Gerichte) | N/A |
-| 13 | [Gil Dias](http://twitter.com/search?q=Gil+Dias) | Gil Dias is a Portuguese name that means "Son of the Day". It is derived from the Latin words "gill" (son) and "dies" (day). |
+| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 14 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 15 | [Paderborn](http://twitter.com/search?q=Paderborn) | N/A |
-| 16 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 17 | [Maaßen](http://twitter.com/search?q=Maa%c3%9fen) | N/A |
+| 15 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 16 | [schulschließungen](http://twitter.com/search?q=schulschlie%c3%9fungen) | N/A |
+| 17 | [Gil Dias](http://twitter.com/search?q=Gil+Dias) | Gil Dias is a Portuguese name that means "Son of the Day". It is derived from the Latin words "gill" (son) and "dies" (day). |
 | 18 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 20 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
-| 21 | [Drosten](http://twitter.com/search?q=Drosten) | N/A |
-| 22 | [Medizincheck](http://twitter.com/search?q=Medizincheck) | N/A |
-| 23 | [wiedersehen](http://twitter.com/search?q=wiedersehen) | N/A |
-| 24 | [konfro](http://twitter.com/search?q=konfro) | N/A |
-| 25 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 26 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 27 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
-| 28 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 29 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 30 | [Vegetarier](http://twitter.com/search?q=Vegetarier) | N/A |
+| 19 | [Drosten](http://twitter.com/search?q=Drosten) | N/A |
+| 20 | [Medizincheck](http://twitter.com/search?q=Medizincheck) | N/A |
+| 21 | [Maaßen](http://twitter.com/search?q=Maa%c3%9fen) | N/A |
+| 22 | [Wiedersehen](http://twitter.com/search?q=Wiedersehen) | N/A |
+| 23 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 24 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
+| 25 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 26 | [Paderborn](http://twitter.com/search?q=Paderborn) | N/A |
+| 27 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 28 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
+| 29 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 30 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 31 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 32 | [Cosimo](http://twitter.com/search?q=Cosimo) | Cosimo is an Italian name derived from the Latin name Cosmas, which means "order" or "ornament". It is also a variant of the Greek name Kosmas, which means "orderly". In English, Cosimo can be translated to mean "orderly one". |
-| 33 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 32 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 33 | [Vegetarier](http://twitter.com/search?q=Vegetarier) | N/A |
 | 34 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 35 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 36 | [Baalen](http://twitter.com/search?q=Baalen) | N/A |
-| 37 | [Kaufoption](http://twitter.com/search?q=Kaufoption) | N/A |
-| 38 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 39 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Frist](http://twitter.com/search?q=Frist) | N/A |
-| 42 | [BVerfG](http://twitter.com/search?q=BVerfG) | N/A |
-| 43 | [Knust](http://twitter.com/search?q=Knust) | N/A |
-| 44 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 45 | [Steuerberater](http://twitter.com/search?q=Steuerberater) | N/A |
-| 46 | [Brasilien](http://twitter.com/search?q=Brasilien) | N/A |
-| 47 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 48 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 35 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 36 | [baalen](http://twitter.com/search?q=baalen) | N/A |
+| 37 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 38 | [Kaufoption](http://twitter.com/search?q=Kaufoption) | N/A |
+| 39 | [Frist](http://twitter.com/search?q=Frist) | N/A |
+| 40 | [bverfg](http://twitter.com/search?q=bverfg) | N/A |
+| 41 | [Spott und Häme](http://twitter.com/search?q=Spott+und+H%c3%a4me) | N/A |
+| 42 | [Knust](http://twitter.com/search?q=Knust) | N/A |
+| 43 | [Steuerberater](http://twitter.com/search?q=Steuerberater) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 46 | [lobbyismus](http://twitter.com/search?q=lobbyismus) | N/A |
+| 47 | [Brasilien](http://twitter.com/search?q=Brasilien) | N/A |
+| 48 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
 
 
 
