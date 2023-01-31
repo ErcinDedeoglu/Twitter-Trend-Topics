@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-01-31 11:16:22 UTC`
+📆 Last Updated: `2023-01-31 12:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | N/A |
-| 2 | [Brexit](http://twitter.com/search?q=Brexit) | N/A |
-| 3 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Brexit](http://twitter.com/search?q=Brexit) | N/A |
+| 2 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 5 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 | 6 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 7 | [Matt Doherty](http://twitter.com/search?q=Matt+Doherty) | N/A |
-| 8 | [Salted](http://twitter.com/search?q=Salted) | N/A |
-| 9 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 10 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 11 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
+| 7 | [Nat Phillips](http://twitter.com/search?q=Nat+Phillips) | Nat Phillips is a British professional footballer who plays as a centre back for Liverpool. He is known for his strong defensive abilities and has been praised for his leadership qualities. The name Nat Phillips is derived from the initials of his full name, Nathanial Phillips. |
+| 8 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 9 | [Salted](http://twitter.com/search?q=Salted) | N/A |
+| 10 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
+| 11 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
 | 12 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
-| 13 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 13 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
 | 14 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [Jorginho to Arsenal](http://twitter.com/search?q=Jorginho+to+Arsenal) | Jorginho to Arsenal is a phrase used to refer to the potential transfer of Italian midfielder Jorginho from Chelsea Football Club to Arsenal Football Club. It is a phrase used by fans and media outlets to speculate on the possibility of the transfer. |
-| 17 | [Atletico Madrid](http://twitter.com/search?q=Atletico+Madrid) | N/A |
-| 18 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 19 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
-| 20 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 21 | [Sambi](http://twitter.com/search?q=Sambi) | Sambi is a Japanese term that refers to the practice of showing respect and appreciation for others. It is often used in the context of thanking someone for their help or kindness. In English, it can be translated as "gratitude" or "appreciation". |
-| 22 | [Mikel](http://twitter.com/search?q=Mikel) | N/A |
-| 23 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 24 | [#EduOut](http://twitter.com/search?q=%23EduOut) | N/A |
-| 25 | [Harrison Ashby](http://twitter.com/search?q=Harrison+Ashby) | N/A |
-| 26 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 27 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 28 | [Wordle 591 X](http://twitter.com/search?q=Wordle+591+X) | N/A |
-| 29 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
-| 30 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 31 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 32 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
-| 33 | [2023 - IMF](http://twitter.com/search?q=2023+-+IMF) | N/A |
-| 34 | [Hannan](http://twitter.com/search?q=Hannan) | N/A |
-| 35 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 36 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 37 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
-| 38 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 39 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
-| 40 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 41 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
-| 42 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 15 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 16 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
+| 17 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 18 | [Sambi](http://twitter.com/search?q=Sambi) | Sambi is a Japanese term that refers to the practice of showing respect and appreciation for others. It is often used in the context of thanking someone for their help or kindness. In English, it can be translated as "gratitude" or "appreciation". |
+| 19 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 21 | [Jorginho to Arsenal](http://twitter.com/search?q=Jorginho+to+Arsenal) | Jorginho to Arsenal is a phrase used to refer to the potential transfer of Italian midfielder Jorginho from Chelsea Football Club to Arsenal Football Club. It is a phrase used by fans and media outlets to speculate on the possibility of the transfer. |
+| 22 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 23 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 24 | [Atletico Madrid](http://twitter.com/search?q=Atletico+Madrid) | N/A |
+| 25 | [#EduOut](http://twitter.com/search?q=%23EduOut) | N/A |
+| 26 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 27 | [Mikel](http://twitter.com/search?q=Mikel) | N/A |
+| 28 | [#NationalHotChocolateDay](http://twitter.com/search?q=%23NationalHotChocolateDay) | N/A |
+| 29 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 30 | [#ShapingUs](http://twitter.com/search?q=%23ShapingUs) | N/A |
+| 31 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
+| 32 | [Joao Cancelo](http://twitter.com/search?q=Joao+Cancelo) | N/A |
+| 33 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 34 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 35 | [Harrison Ashby](http://twitter.com/search?q=Harrison+Ashby) | N/A |
+| 36 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 37 | [Rees-Mogg](http://twitter.com/search?q=Rees-Mogg) | N/A |
+| 38 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 39 | [2023 - IMF](http://twitter.com/search?q=2023+-+IMF) | N/A |
+| 40 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 41 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 42 | [Hannan](http://twitter.com/search?q=Hannan) | N/A |
 | 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 44 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 45 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 46 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 47 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 48 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 49 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 50 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 44 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 45 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 46 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 47 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 48 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
+| 49 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
 
 
 

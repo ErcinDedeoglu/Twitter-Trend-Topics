@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-01-31 11:16:43 UTC`
+📆 Last Updated: `2023-01-31 12:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SmartPowersDonBelle](http://twitter.com/search?q=%23SmartPowersDonBelle) | N/A |
-| 2 | [#KathNielForTNT](http://twitter.com/search?q=%23KathNielForTNT) | N/A |
-| 3 | [#TNTDobleGigaPlus](http://twitter.com/search?q=%23TNTDobleGigaPlus) | N/A |
-| 4 | [ONE TWO CONNECT](http://twitter.com/search?q=ONE+TWO+CONNECT) | ONE TWO CONNECT is a Japanese phrase that means "connecting people together". It is often used to refer to the idea of connecting people through communication, collaboration, and mutual understanding. |
-| 5 | [#PolaroidLoveWithAcer](http://twitter.com/search?q=%23PolaroidLoveWithAcer) | N/A |
+| 1 | [ONE TWO CONNECT](http://twitter.com/search?q=ONE+TWO+CONNECT) | ONE TWO CONNECT is a Japanese phrase that means "connecting people together". It is often used to refer to the idea of connecting people through communication, collaboration, and mutual understanding. |
+| 2 | [#PolaroidLoveWithAcer](http://twitter.com/search?q=%23PolaroidLoveWithAcer) | N/A |
+| 3 | [#SmartPowersDonBelle](http://twitter.com/search?q=%23SmartPowersDonBelle) | N/A |
+| 4 | [#KathNielForTNT](http://twitter.com/search?q=%23KathNielForTNT) | N/A |
+| 5 | [#TNTDobleGigaPlus](http://twitter.com/search?q=%23TNTDobleGigaPlus) | N/A |
 | 6 | [JANENELLA is THE Movement](http://twitter.com/search?q=JANENELLA+is+THE+Movement) | N/A |
-| 7 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 8 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
-| 9 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 10 | [PROBLEM CHILD MV RELEASE](http://twitter.com/search?q=PROBLEM+CHILD+MV+RELEASE) | N/A |
+| 7 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
+| 8 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 9 | [problem child mv release](http://twitter.com/search?q=problem+child+mv+release) | N/A |
+| 10 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
 | 11 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
-| 12 | [Alex Gonzaga](http://twitter.com/search?q=Alex+Gonzaga) | Alex Gonzaga is a Filipino actress, television host, singer, and YouTube vlogger. She is the daughter of Pinty Gonzaga and sister of Toni Gonzaga. In English, Alex Gonzaga means a celebrity who is known for her acting, hosting, singing, and vlogging. |
-| 13 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 12 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 13 | [Alex Gonzaga](http://twitter.com/search?q=Alex+Gonzaga) | Alex Gonzaga is a Filipino actress, television host, singer, and YouTube vlogger. She is the daughter of Pinty Gonzaga and sister of Toni Gonzaga. In English, Alex Gonzaga means a celebrity who is known for her acting, hosting, singing, and vlogging. |
 | 14 | [D-3 COMPLEX EP RELEASE](http://twitter.com/search?q=D-3+COMPLEX+EP+RELEASE) | N/A |
 | 15 | [super janella at mediacon](http://twitter.com/search?q=super+janella+at+mediacon) | N/A |
 | 16 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
-| 17 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 18 | [janedeleon shines mediacon](http://twitter.com/search?q=janedeleon+shines+mediacon) | N/A |
-| 19 | [DSWD](http://twitter.com/search?q=DSWD) | N/A |
+| 17 | [janedeleon shines mediacon](http://twitter.com/search?q=janedeleon+shines+mediacon) | N/A |
+| 18 | [DSWD](http://twitter.com/search?q=DSWD) | N/A |
+| 19 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 | 20 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
-| 21 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
-| 22 | [joongki](http://twitter.com/search?q=joongki) | N/A |
+| 21 | [joongki](http://twitter.com/search?q=joongki) | N/A |
+| 22 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
 | 23 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 24 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
-| 25 | [Blue Clue](http://twitter.com/search?q=Blue+Clue) | N/A |
-| 26 | [worst job](http://twitter.com/search?q=worst+job) | N/A |
-| 27 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
-| 28 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 29 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
-| 30 | [Kwangsoo](http://twitter.com/search?q=Kwangsoo) | N/A |
-| 31 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
-| 32 | [Chinoys](http://twitter.com/search?q=Chinoys) | N/A |
-| 33 | [pause and jay my heart](http://twitter.com/search?q=pause+and+jay+my+heart) | N/A |
-| 34 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
-| 35 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
-| 36 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
-| 37 | [CAPTIVATING iKON YUNHYEONG](http://twitter.com/search?q=CAPTIVATING+iKON+YUNHYEONG) | N/A |
-| 38 | [Bigger Venue](http://twitter.com/search?q=Bigger+Venue) | N/A |
-| 39 | [Circle 3](http://twitter.com/search?q=Circle+3) | N/A |
-| 40 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 41 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
-| 42 | [kodrea tcextras ang pinaka](http://twitter.com/search?q=kodrea+tcextras+ang+pinaka) | N/A |
-| 43 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 44 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 45 | [CONGRATS PSY AND SUGA](http://twitter.com/search?q=CONGRATS+PSY+AND+SUGA) | N/A |
-| 46 | [Songsong](http://twitter.com/search?q=Songsong) | N/A |
-| 47 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
-| 48 | [Hope and More](http://twitter.com/search?q=Hope+and+More) | N/A |
-| 49 | [sinb](http://twitter.com/search?q=sinb) | N/A |
+| 24 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
+| 25 | [Dina Bonnevie](http://twitter.com/search?q=Dina+Bonnevie) | N/A |
+| 26 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
+| 27 | [Blue Clue](http://twitter.com/search?q=Blue+Clue) | N/A |
+| 28 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 29 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
+| 30 | [Circle 1](http://twitter.com/search?q=Circle+1) | N/A |
+| 31 | [aljay pinaka malupet](http://twitter.com/search?q=aljay+pinaka+malupet) | N/A |
+| 32 | [Kwangsoo](http://twitter.com/search?q=Kwangsoo) | N/A |
+| 33 | [Chinoys](http://twitter.com/search?q=Chinoys) | N/A |
+| 34 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 35 | [pause and jay my heart](http://twitter.com/search?q=pause+and+jay+my+heart) | N/A |
+| 36 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
+| 37 | [Battle](http://twitter.com/search?q=Battle) | N/A |
+| 38 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 39 | [Bigger Venue](http://twitter.com/search?q=Bigger+Venue) | N/A |
+| 40 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
+| 41 | [Hope and More](http://twitter.com/search?q=Hope+and+More) | N/A |
+| 42 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
+| 43 | [CONGRATS PSY AND SUGA](http://twitter.com/search?q=CONGRATS+PSY+AND+SUGA) | N/A |
+| 44 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 45 | [kodrea tcextras ang pinaka](http://twitter.com/search?q=kodrea+tcextras+ang+pinaka) | N/A |
+| 46 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
+| 47 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 48 | [Songsong](http://twitter.com/search?q=Songsong) | N/A |
+| 49 | [Miss D](http://twitter.com/search?q=Miss+D) | N/A |
 
 
 

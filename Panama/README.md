@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-01-31 11:17:05 UTC`
+📆 Last Updated: `2023-01-31 12:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Panama
 | 15 | [taboga](http://twitter.com/search?q=taboga) | N/A |
 | 16 | [albrook](http://twitter.com/search?q=albrook) | N/A |
 | 17 | [Chiriquí](http://twitter.com/search?q=Chiriqu%c3%ad) | N/A |
-| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 19 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 20 | [#ChiefsKingdom](http://twitter.com/search?q=%23ChiefsKingdom) | #ChiefsKingdom is a hashtag used by fans of the Kansas City Chiefs, an American football team. It is used to show support for the team and to express enthusiasm for their success. The phrase "Chiefs Kingdom" is a metaphor for the passionate fan base of the Chiefs, and it implies that they are all united in their love and support for the team. |
-| 21 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 22 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 23 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 24 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 25 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 26 | [Rosita](http://twitter.com/search?q=Rosita) | N/A |
-| 27 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
-| 28 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 29 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 30 | [panameño](http://twitter.com/search?q=paname%c3%b1o) | N/A |
+| 18 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
+| 19 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 20 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 21 | [#ChiefsKingdom](http://twitter.com/search?q=%23ChiefsKingdom) | #ChiefsKingdom is a hashtag used by fans of the Kansas City Chiefs, an American football team. It is used to show support for the team and to express enthusiasm for their success. The phrase "Chiefs Kingdom" is a metaphor for the passionate fan base of the Chiefs, and it implies that they are all united in their love and support for the team. |
+| 22 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
+| 23 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 24 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 25 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 26 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 27 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 28 | [Rosita](http://twitter.com/search?q=Rosita) | N/A |
+| 29 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
+| 30 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
 | 31 | [Novak Djokovic](http://twitter.com/search?q=Novak+Djokovic) | Novak Djokovic is a Serbian professional tennis player. He is currently ranked world No. 1 in men's singles tennis by the Association of Tennis Professionals (ATP). He has won 17 Grand Slam singles titles, the third-most in history for a male player, and held the No. 1 spot in the ATP rankings for a total of 311 weeks. |
-| 32 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 33 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 34 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 35 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
-| 36 | [Abierto de Australia](http://twitter.com/search?q=Abierto+de+Australia) | N/A |
+| 32 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 33 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
+| 34 | [Abierto de Australia](http://twitter.com/search?q=Abierto+de+Australia) | N/A |
+| 35 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
+| 36 | [#NoticiasTVN](http://twitter.com/search?q=%23NoticiasTVN) | N/A |
 | 37 | [Dile](http://twitter.com/search?q=Dile) | N/A |
-| 38 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 39 | [#NoticiasTVN](http://twitter.com/search?q=%23NoticiasTVN) | N/A |
-| 40 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
-| 41 | [America](http://twitter.com/search?q=America) | N/A |
+| 38 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 39 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 40 | [America](http://twitter.com/search?q=America) | N/A |
+| 41 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
 | 42 | [Foco](http://twitter.com/search?q=Foco) | N/A |
-| 43 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
-| 44 | [Betania](http://twitter.com/search?q=Betania) | N/A |
-| 45 | [Nadia Ferreira](http://twitter.com/search?q=Nadia+Ferreira) | N/A |
-| 46 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 47 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
-| 48 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 49 | [Jehová](http://twitter.com/search?q=Jehov%c3%a1) | N/A |
-| 50 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 43 | [Jehová](http://twitter.com/search?q=Jehov%c3%a1) | N/A |
+| 44 | [Los Andes](http://twitter.com/search?q=Los+Andes) | N/A |
+| 45 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
+| 46 | [Betania](http://twitter.com/search?q=Betania) | N/A |
+| 47 | [MISCELÁNEA POPULAR](http://twitter.com/search?q=MISCEL%c3%81NEA+POPULAR) | N/A |
+| 48 | [Nadia Ferreira](http://twitter.com/search?q=Nadia+Ferreira) | N/A |
+| 49 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 50 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 
 
 
