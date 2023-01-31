@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-01-31 00:29:00 UTC`
+📆 Last Updated: `2023-01-31 01:44:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Lebanon
 | 1 | [#حكي_صادق](http://twitter.com/search?q=%23%d8%ad%d9%83%d9%8a_%d8%b5%d8%a7%d8%af%d9%82) | N/A |
 | 2 | [#بدنا_الحقيقه](http://twitter.com/search?q=%23%d8%a8%d8%af%d9%86%d8%a7_%d8%a7%d9%84%d8%ad%d9%82%d9%8a%d9%82%d9%87) | N/A |
 | 3 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
-| 4 | [#لوحدنا_حمير](http://twitter.com/search?q=%23%d9%84%d9%88%d8%ad%d8%af%d9%86%d8%a7_%d8%ad%d9%85%d9%8a%d8%b1) | N/A |
+| 4 | [#لوحدنا](http://twitter.com/search?q=%23%d9%84%d9%88%d8%ad%d8%af%d9%86%d8%a7) | N/A |
 | 5 | [#عشرين_30](http://twitter.com/search?q=%23%d8%b9%d8%b4%d8%b1%d9%8a%d9%86_30) | N/A |
 | 6 | [عقل هاشم](http://twitter.com/search?q=%d8%b9%d9%82%d9%84+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
 | 7 | [علي العمله الوطنيه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
@@ -37,14 +37,14 @@ This is top 50 for Lebanon
 | 20 | [جبل محسن](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d9%85%d8%ad%d8%b3%d9%86) | N/A |
 | 21 | [المقاومه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
 | 22 | [الرسول الاعظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%b9%d8%b8%d9%85) | N/A |
-| 23 | [ديما صادق](http://twitter.com/search?q=%d8%af%d9%8a%d9%85%d8%a7+%d8%b5%d8%a7%d8%af%d9%82) | N/A |
-| 24 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 25 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 26 | [بناء الدوله](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 27 | [ميا خليفه](http://twitter.com/search?q=%d9%85%d9%8a%d8%a7+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
-| 30 | [مار شربل](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d8%b4%d8%b1%d8%a8%d9%84) | N/A |
+| 23 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 24 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 25 | [بناء الدوله](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 26 | [ميا خليفه](http://twitter.com/search?q=%d9%85%d9%8a%d8%a7+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 29 | [مار شربل](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d8%b4%d8%b1%d8%a8%d9%84) | N/A |
+| 30 | [ديما صادق](http://twitter.com/search?q=%d8%af%d9%8a%d9%85%d8%a7+%d8%b5%d8%a7%d8%af%d9%82) | N/A |
 | 31 | [١٤ شباط](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
 | 32 | [المصرف المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
 | 33 | [المكان المناسبين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d9%8a%d9%86) | N/A |

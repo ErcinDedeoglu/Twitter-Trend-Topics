@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-01-31 00:29:02 UTC`
+📆 Last Updated: `2023-01-31 01:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for Sweden
 | 10 | [Lindbom](http://twitter.com/search?q=Lindbom) | N/A |
 | 11 | [Kvartal](http://twitter.com/search?q=Kvartal) | N/A |
 | 12 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 13 | [Tommy Samuelsson](http://twitter.com/search?q=Tommy+Samuelsson) | N/A |
+| 13 | [tommy samuelsson](http://twitter.com/search?q=tommy+samuelsson) | N/A |
 | 14 | [nubben](http://twitter.com/search?q=nubben) | N/A |
 | 15 | [krister](http://twitter.com/search?q=krister) | N/A |
 | 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
@@ -54,9 +54,9 @@ This is top 50 for Sweden
 | 37 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
 | 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 39 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 40 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 41 | [Peking](http://twitter.com/search?q=Peking) | N/A |
-| 42 | [Krya](http://twitter.com/search?q=Krya) | N/A |
+| 40 | [Krya](http://twitter.com/search?q=Krya) | N/A |
+| 41 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 42 | [Peking](http://twitter.com/search?q=Peking) | N/A |
 | 43 | [solna](http://twitter.com/search?q=solna) | N/A |
 | 44 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
 | 45 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |

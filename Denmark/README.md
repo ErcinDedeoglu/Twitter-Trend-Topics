@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-01-31 00:28:58 UTC`
+📆 Last Updated: `2023-01-31 01:44:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,15 +27,15 @@ This is top 50 for Denmark
 | 10 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
 | 11 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 12 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 13 | [#KSDH](http://twitter.com/search?q=%23KSDH) | N/A |
-| 14 | [jordan larsson](http://twitter.com/search?q=jordan+larsson) | N/A |
-| 15 | [diks](http://twitter.com/search?q=diks) | N/A |
-| 16 | [Folk](http://twitter.com/search?q=Folk) | N/A |
-| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 19 | [Jeps](http://twitter.com/search?q=Jeps) | N/A |
+| 13 | [#ksdh](http://twitter.com/search?q=%23ksdh) | N/A |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [jordan larsson](http://twitter.com/search?q=jordan+larsson) | N/A |
+| 16 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 17 | [diks](http://twitter.com/search?q=diks) | N/A |
+| 18 | [Folk](http://twitter.com/search?q=Folk) | N/A |
+| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 21 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 21 | [Jeps](http://twitter.com/search?q=Jeps) | N/A |
 | 22 | [duelund](http://twitter.com/search?q=duelund) | N/A |
 | 23 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
@@ -51,7 +51,7 @@ This is top 50 for Denmark
 | 34 | [America](http://twitter.com/search?q=America) | N/A |
 | 35 | [vestegnen](http://twitter.com/search?q=vestegnen) | N/A |
 | 36 | [Troede](http://twitter.com/search?q=Troede) | N/A |
-| 37 | [Enhedslisten](http://twitter.com/search?q=Enhedslisten) | N/A |
+| 37 | [enhedslisten](http://twitter.com/search?q=enhedslisten) | N/A |
 | 38 | [Klart](http://twitter.com/search?q=Klart) | N/A |
 | 39 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
@@ -62,9 +62,9 @@ This is top 50 for Denmark
 | 45 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 47 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 48 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 49 | [Rigtig](http://twitter.com/search?q=Rigtig) | N/A |
-| 50 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 48 | [rigtig](http://twitter.com/search?q=rigtig) | N/A |
+| 49 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 50 | [Mads](http://twitter.com/search?q=Mads) | N/A |
 
 
 

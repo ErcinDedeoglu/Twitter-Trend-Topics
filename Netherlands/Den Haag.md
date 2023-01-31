@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-01-31 00:28:32 UTC`
+📆 Last Updated: `2023-01-31 01:43:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TweFEY](http://twitter.com/search?q=%23TweFEY) | N/A |
+| 1 | [#twefey](http://twitter.com/search?q=%23twefey) | N/A |
 | 2 | [#rodpec](http://twitter.com/search?q=%23rodpec) | N/A |
 | 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 4 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
@@ -27,9 +27,9 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 10 | [Philips](http://twitter.com/search?q=Philips) | N/A |
 | 11 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
 | 12 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
-| 13 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
-| 14 | [Roda JC](http://twitter.com/search?q=Roda+JC) | N/A |
-| 15 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 13 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
+| 14 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 15 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
 | 16 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
 | 17 | [Troela](http://twitter.com/search?q=Troela) | N/A |
 | 18 | [Belt](http://twitter.com/search?q=Belt) | N/A |
@@ -44,25 +44,25 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 27 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
 | 28 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 29 | [gorinchem](http://twitter.com/search?q=gorinchem) | N/A |
-| 30 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 31 | [Raad van State](http://twitter.com/search?q=Raad+van+State) | N/A |
-| 32 | [ook nederland](http://twitter.com/search?q=ook+nederland) | N/A |
-| 33 | [Den Uyl](http://twitter.com/search?q=Den+Uyl) | N/A |
-| 34 | [Joep](http://twitter.com/search?q=Joep) | N/A |
-| 35 | [Rood](http://twitter.com/search?q=Rood) | N/A |
+| 30 | [Raad van State](http://twitter.com/search?q=Raad+van+State) | N/A |
+| 31 | [ook nederland](http://twitter.com/search?q=ook+nederland) | N/A |
+| 32 | [Den Uyl](http://twitter.com/search?q=Den+Uyl) | N/A |
+| 33 | [joep](http://twitter.com/search?q=joep) | N/A |
+| 34 | [Rood](http://twitter.com/search?q=Rood) | N/A |
+| 35 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
 | 36 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
 | 37 | [Luik](http://twitter.com/search?q=Luik) | N/A |
-| 38 | [Pröpper](http://twitter.com/search?q=Pr%c3%b6pper) | N/A |
+| 38 | [pröpper](http://twitter.com/search?q=pr%c3%b6pper) | N/A |
 | 39 | [Brenet](http://twitter.com/search?q=Brenet) | N/A |
 | 40 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 41 | [Trefbal](http://twitter.com/search?q=Trefbal) | N/A |
 | 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 43 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 44 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
-| 45 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
-| 46 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
-| 47 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 48 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 44 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
+| 45 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 46 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 47 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 48 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
 
 
 

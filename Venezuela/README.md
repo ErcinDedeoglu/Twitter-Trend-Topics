@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-01-31 00:29:03 UTC`
+📆 Last Updated: `2023-01-31 01:44:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Venezuela
 | ------- | ------------ | ------------ |
 | 1 | [#30Ene](http://twitter.com/search?q=%2330Ene) | N/A |
 | 2 | [#LasSancionesCastiganLaSalud](http://twitter.com/search?q=%23LasSancionesCastiganLaSalud) | N/A |
-| 3 | [#BEISBOLxTELEVEN](http://twitter.com/search?q=%23BEISBOLxTELEVEN) | N/A |
-| 4 | [#IVCLVBP](http://twitter.com/search?q=%23IVCLVBP) | N/A |
-| 5 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 7 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 8 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
-| 9 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 10 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
-| 11 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
-| 12 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 13 | [Inces](http://twitter.com/search?q=Inces) | N/A |
-| 14 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
-| 15 | [Metras](http://twitter.com/search?q=Metras) | N/A |
-| 16 | [Yoimer Camacho](http://twitter.com/search?q=Yoimer+Camacho) | N/A |
-| 17 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
-| 18 | [El Batazo de la Suerte](http://twitter.com/search?q=El+Batazo+de+la+Suerte) | N/A |
-| 19 | [Movilnet](http://twitter.com/search?q=Movilnet) | N/A |
-| 20 | [Gudiño](http://twitter.com/search?q=Gudi%c3%b1o) | N/A |
-| 21 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 22 | [Juan Antonio Pérez Bonalde](http://twitter.com/search?q=Juan+Antonio+P%c3%a9rez+Bonalde) | N/A |
-| 23 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
-| 24 | [Caracas FC](http://twitter.com/search?q=Caracas+FC) | N/A |
-| 25 | [SOY REBELDE TOUR EN VENEZUELA](http://twitter.com/search?q=SOY+REBELDE+TOUR+EN+VENEZUELA) | N/A |
-| 26 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
-| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 28 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 29 | [día del trabajador social](http://twitter.com/search?q=d%c3%ada+del+trabajador+social) | N/A |
-| 30 | [Freddy Guevara](http://twitter.com/search?q=Freddy+Guevara) | N/A |
+| 3 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 4 | [Alcides Escobar](http://twitter.com/search?q=Alcides+Escobar) | N/A |
+| 5 | [#IVCLVBP](http://twitter.com/search?q=%23IVCLVBP) | N/A |
+| 6 | [Alfred Gutiérrez](http://twitter.com/search?q=Alfred+Guti%c3%a9rrez) | N/A |
+| 7 | [José Rondón](http://twitter.com/search?q=Jos%c3%a9+Rond%c3%b3n) | N/A |
+| 8 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 9 | [Henry Blanco](http://twitter.com/search?q=Henry+Blanco) | N/A |
+| 10 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 11 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
+| 12 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
+| 13 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
+| 14 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
+| 15 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 16 | [Gudiño](http://twitter.com/search?q=Gudi%c3%b1o) | N/A |
+| 17 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 18 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
+| 19 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 20 | [Metras](http://twitter.com/search?q=Metras) | N/A |
+| 21 | [El Batazo de la Suerte](http://twitter.com/search?q=El+Batazo+de+la+Suerte) | N/A |
+| 22 | [Movilnet](http://twitter.com/search?q=Movilnet) | N/A |
+| 23 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 24 | [Yoimer Camacho](http://twitter.com/search?q=Yoimer+Camacho) | N/A |
+| 25 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
+| 26 | [SOY REBELDE TOUR EN VENEZUELA](http://twitter.com/search?q=SOY+REBELDE+TOUR+EN+VENEZUELA) | N/A |
+| 27 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
+| 28 | [Freddy Guevara](http://twitter.com/search?q=Freddy+Guevara) | N/A |
+| 29 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
+| 30 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
 | 31 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
 | 32 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
 | 33 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 34 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
-| 35 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
+| 34 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
+| 35 | [Carlos Hernández](http://twitter.com/search?q=Carlos+Hern%c3%a1ndez) | N/A |
 | 36 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 37 | [El 30](http://twitter.com/search?q=El+30) | N/A |
-| 38 | [Maikel](http://twitter.com/search?q=Maikel) | N/A |
-| 39 | [hesed](http://twitter.com/search?q=hesed) | N/A |
-| 40 | [Primarias](http://twitter.com/search?q=Primarias) | N/A |
-| 41 | [Los Dioses](http://twitter.com/search?q=Los+Dioses) | N/A |
-| 42 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 43 | [Ramos Allup](http://twitter.com/search?q=Ramos+Allup) | N/A |
-| 44 | [Esland](http://twitter.com/search?q=Esland) | Esland is a Dutch word meaning "island". It is used to refer to an island or a small piece of land surrounded by water. |
-| 45 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 46 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 47 | [Tío Rico](http://twitter.com/search?q=T%c3%ado+Rico) | N/A |
-| 48 | [Sociedad Venezolana](http://twitter.com/search?q=Sociedad+Venezolana) | N/A |
-| 49 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 50 | [Foro de Diálogo Social](http://twitter.com/search?q=Foro+de+Di%c3%a1logo+Social) | N/A |
+| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 38 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 39 | [Juan Antonio Pérez Bonalde](http://twitter.com/search?q=Juan+Antonio+P%c3%a9rez+Bonalde) | N/A |
+| 40 | [Balbino](http://twitter.com/search?q=Balbino) | N/A |
+| 41 | [Tejeda](http://twitter.com/search?q=Tejeda) | N/A |
+| 42 | [Ramos Allup](http://twitter.com/search?q=Ramos+Allup) | N/A |
+| 43 | [Delsa](http://twitter.com/search?q=Delsa) | N/A |
+| 44 | [hesed](http://twitter.com/search?q=hesed) | N/A |
+| 45 | [Pete Rose](http://twitter.com/search?q=Pete+Rose) | N/A |
+| 46 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 47 | [Jornada 1](http://twitter.com/search?q=Jornada+1) | N/A |
+| 48 | [Primarias](http://twitter.com/search?q=Primarias) | N/A |
+| 49 | [Los Dioses](http://twitter.com/search?q=Los+Dioses) | N/A |
+| 50 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
 
 
 

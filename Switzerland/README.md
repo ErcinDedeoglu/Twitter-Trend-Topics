@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-01-31 00:29:03 UTC`
+📆 Last Updated: `2023-01-31 01:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,16 +27,16 @@ This is top 50 for Switzerland
 | 10 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
 | 11 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
 | 12 | [Typen](http://twitter.com/search?q=Typen) | N/A |
-| 13 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 14 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 15 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 16 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 17 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 18 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 19 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 20 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 21 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 22 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 13 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 14 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 15 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 16 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 17 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 18 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 19 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 20 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 21 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 22 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
 | 23 | [Lage](http://twitter.com/search?q=Lage) | N/A |
 | 24 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
@@ -44,27 +44,27 @@ This is top 50 for Switzerland
 | 27 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
 | 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 29 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 31 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
-| 32 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 33 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 34 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 35 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 30 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
+| 31 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 32 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 33 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 34 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 35 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
 | 36 | [Regel](http://twitter.com/search?q=Regel) | N/A |
 | 37 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 38 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 38 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 39 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 41 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 42 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 45 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
-| 46 | [Alain Berset](http://twitter.com/search?q=Alain+Berset) | N/A |
-| 47 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 48 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 49 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
-| 50 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 46 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 47 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
+| 48 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 49 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 50 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
 
 
 

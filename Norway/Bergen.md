@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-01-31 00:28:33 UTC`
+📆 Last Updated: `2023-01-31 01:43:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,11 +29,11 @@ This is top 50 for [Norway](</Norway>)
 | 12 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 | 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 15 | [Sæter](http://twitter.com/search?q=S%c3%a6ter) | N/A |
+| 15 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
 | 16 | [Holy](http://twitter.com/search?q=Holy) | N/A |
 | 17 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 18 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 19 | [Virker](http://twitter.com/search?q=Virker) | N/A |
+| 19 | [virker](http://twitter.com/search?q=virker) | N/A |
 | 20 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 21 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 22 | [Slåttavik](http://twitter.com/search?q=Sl%c3%a5ttavik) | N/A |
@@ -41,28 +41,28 @@ This is top 50 for [Norway](</Norway>)
 | 24 | [America](http://twitter.com/search?q=America) | N/A |
 | 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 26 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 27 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
+| 27 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
 | 28 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
-| 29 | [Zafeiris](http://twitter.com/search?q=Zafeiris) | N/A |
+| 29 | [zafeiris](http://twitter.com/search?q=zafeiris) | N/A |
 | 30 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 31 | [jordal](http://twitter.com/search?q=jordal) | N/A |
 | 32 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 33 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
-| 34 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 35 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
-| 36 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 37 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
-| 38 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 39 | [#Xbox](http://twitter.com/search?q=%23Xbox) | N/A |
-| 40 | [West](http://twitter.com/search?q=West) | N/A |
-| 41 | [Flott](http://twitter.com/search?q=Flott) | N/A |
-| 42 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
-| 43 | [China](http://twitter.com/search?q=China) | N/A |
-| 44 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 45 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 46 | [Aner](http://twitter.com/search?q=Aner) | N/A |
-| 47 | [E134 Haukelifjell](http://twitter.com/search?q=E134+Haukelifjell) | N/A |
-| 48 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 33 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 34 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
+| 35 | [Viking](http://twitter.com/search?q=Viking) | N/A |
+| 36 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
+| 37 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 38 | [#Xbox](http://twitter.com/search?q=%23Xbox) | N/A |
+| 39 | [West](http://twitter.com/search?q=West) | N/A |
+| 40 | [flott](http://twitter.com/search?q=flott) | N/A |
+| 41 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
+| 42 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 44 | [Aner](http://twitter.com/search?q=Aner) | N/A |
+| 45 | [E134 Haukelifjell](http://twitter.com/search?q=E134+Haukelifjell) | N/A |
+| 46 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 47 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
+| 48 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 
 
 

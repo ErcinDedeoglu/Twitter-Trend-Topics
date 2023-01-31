@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-01-31 00:28:27 UTC`
+📆 Last Updated: `2023-01-31 01:43:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,51 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
 | 2 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 3 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
-| 4 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 5 | [LUDMILLA SOU MA](http://twitter.com/search?q=LUDMILLA+SOU+MA) | LUDMILLA SOU MA is a phrase in Portuguese which translates to "I am Ludmilla". It is a statement of identity, used to introduce oneself. |
-| 6 | [Zé Gabriel](http://twitter.com/search?q=Z%c3%a9+Gabriel) | Zé Gabriel is a Brazilian expression that is used to refer to someone who is very generous and kind. It literally translates to "Mr. Gabriel" in English. |
-| 7 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 8 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 9 | [Robson Bambu](http://twitter.com/search?q=Robson+Bambu) | Robson Bambu is a Brazilian footballer who currently plays for Botafogo. His name is derived from the Portuguese words for "Robson" (a given name) and "Bamboo" (a type of grass). In English, his name translates to "Robson Bamboo". |
-| 10 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 11 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | N/A |
-| 12 | [30praum](http://twitter.com/search?q=30praum) | 30praum is a Japanese lifestyle brand that focuses on creating products that are both stylish and functional. The name "30praum" is derived from the German words "30" (dreißig) and "Raum" (room), which together mean "30 rooms". This refers to the idea of creating a space where people can relax and enjoy life. |
-| 13 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 14 | [Regina Duarte](http://twitter.com/search?q=Regina+Duarte) | Regina Duarte is a Brazilian actress, singer, and politician. In English, her name means "Queen of the Gift". |
-| 15 | [#GlóriaNosDêSteloisa](http://twitter.com/search?q=%23Gl%c3%b3riaNosD%c3%aaSteloisa) | N/A |
-| 16 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
-| 17 | [Tasha](http://twitter.com/search?q=Tasha) | N/A |
-| 18 | [#PachecoNÃO](http://twitter.com/search?q=%23PachecoN%c3%83O) | N/A |
-| 19 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
-| 20 | [#TRAPstreetBOYZ](http://twitter.com/search?q=%23TRAPstreetBOYZ) | N/A |
-| 21 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
-| 22 | [Kleber Andrade](http://twitter.com/search?q=Kleber+Andrade) | N/A |
-| 23 | [#TresVezesAna001](http://twitter.com/search?q=%23TresVezesAna001) | N/A |
-| 24 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 3 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 4 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 6 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 7 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 8 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
+| 9 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 10 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 11 | [LUDMILLA SOU MA](http://twitter.com/search?q=LUDMILLA+SOU+MA) | LUDMILLA SOU MA is a phrase in Portuguese which translates to "I am Ludmilla". It is a statement of identity, used to introduce oneself. |
+| 12 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 13 | [Zé Gabriel](http://twitter.com/search?q=Z%c3%a9+Gabriel) | Zé Gabriel is a Brazilian expression that is used to refer to someone who is very generous and kind. It literally translates to "Mr. Gabriel" in English. |
+| 14 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
+| 15 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 16 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
+| 17 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 18 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 19 | [30praum](http://twitter.com/search?q=30praum) | 30praum is a Japanese lifestyle brand that focuses on creating products that are both stylish and functional. The name "30praum" is derived from the German words "30" (dreißig) and "Raum" (room), which together mean "30 rooms". This refers to the idea of creating a space where people can relax and enjoy life. |
+| 20 | [Lionel Pec](http://twitter.com/search?q=Lionel+Pec) | Lionel Pec is a French expression meaning "to be completely exhausted". It is derived from the phrase "être à bout de souffle", which literally translates to "to be out of breath". |
+| 21 | [Regina Duarte](http://twitter.com/search?q=Regina+Duarte) | Regina Duarte is a Brazilian actress, singer, and politician. In English, her name means "Queen of the Gift". |
+| 22 | [Robson Bambu](http://twitter.com/search?q=Robson+Bambu) | Robson Bambu is a Brazilian footballer who currently plays for Botafogo. His name is derived from the Portuguese words for "Robson" (a given name) and "Bamboo" (a type of grass). In English, his name translates to "Robson Bamboo". |
+| 23 | [#EstreiaVidasEmJogo](http://twitter.com/search?q=%23EstreiaVidasEmJogo) | N/A |
+| 24 | [Raniel](http://twitter.com/search?q=Raniel) | N/A |
 | 25 | [Cariacica](http://twitter.com/search?q=Cariacica) | N/A |
-| 26 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 27 | [matue](http://twitter.com/search?q=matue) | N/A |
-| 28 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 29 | [100 MI BOMBONZINHO](http://twitter.com/search?q=100+MI+BOMBONZINHO) | N/A |
-| 30 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 31 | [Limite](http://twitter.com/search?q=Limite) | N/A |
-| 32 | [Vascão](http://twitter.com/search?q=Vasc%c3%a3o) | N/A |
-| 33 | [Flow Espacial](http://twitter.com/search?q=Flow+Espacial) | N/A |
-| 34 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
-| 35 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 36 | [UFRGS](http://twitter.com/search?q=UFRGS) | UFRGS stands for Universidade Federal do Rio Grande do Sul, which is a public university located in the Brazilian state of Rio Grande do Sul. In English, this translates to Federal University of Rio Grande do Sul. |
-| 37 | [Serginho](http://twitter.com/search?q=Serginho) | N/A |
-| 38 | [Zé Delivery](http://twitter.com/search?q=Z%c3%a9+Delivery) | N/A |
-| 39 | [Milly Lacombe](http://twitter.com/search?q=Milly+Lacombe) | N/A |
-| 40 | [Sadi](http://twitter.com/search?q=Sadi) | N/A |
-| 41 | [Gracy](http://twitter.com/search?q=Gracy) | N/A |
-| 42 | [Sarney](http://twitter.com/search?q=Sarney) | N/A |
-| 43 | [Thiago Mendes](http://twitter.com/search?q=Thiago+Mendes) | N/A |
-| 44 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 45 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
-| 46 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 47 | [O PSDB](http://twitter.com/search?q=O+PSDB) | N/A |
-| 48 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
+| 26 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
+| 27 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 28 | [Galarza](http://twitter.com/search?q=Galarza) | Galarza is a Spanish surname. It is derived from the word "galarza", which means "hawk" in English. |
+| 29 | [Matue](http://twitter.com/search?q=Matue) | N/A |
+| 30 | [Kleber Andrade](http://twitter.com/search?q=Kleber+Andrade) | N/A |
+| 31 | [#GlóriaNosDêSteloisa](http://twitter.com/search?q=%23Gl%c3%b3riaNosD%c3%aaSteloisa) | N/A |
+| 32 | [Flow Espacial](http://twitter.com/search?q=Flow+Espacial) | N/A |
+| 33 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
+| 34 | [Vascão](http://twitter.com/search?q=Vasc%c3%a3o) | N/A |
+| 35 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
+| 36 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 37 | [Tasha](http://twitter.com/search?q=Tasha) | N/A |
+| 38 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 39 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 40 | [#LinhaDePasse](http://twitter.com/search?q=%23LinhaDePasse) | N/A |
+| 41 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 42 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 43 | [Limite](http://twitter.com/search?q=Limite) | N/A |
+| 44 | [Monteiro](http://twitter.com/search?q=Monteiro) | N/A |
+| 45 | [Sadi](http://twitter.com/search?q=Sadi) | N/A |
+| 46 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 47 | [100 MI BOMBONZINHO](http://twitter.com/search?q=100+MI+BOMBONZINHO) | N/A |
 
 
 

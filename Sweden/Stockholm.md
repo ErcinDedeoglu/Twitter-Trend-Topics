@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-01-31 00:28:34 UTC`
+📆 Last Updated: `2023-01-31 01:43:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,9 +25,9 @@ This is top 50 for [Sweden](</Sweden>)
 | 8 | [Sonos](http://twitter.com/search?q=Sonos) | N/A |
 | 9 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 10 | [Lindbom](http://twitter.com/search?q=Lindbom) | N/A |
-| 11 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 12 | [Kvartal](http://twitter.com/search?q=Kvartal) | N/A |
-| 13 | [Tommy Samuelsson](http://twitter.com/search?q=Tommy+Samuelsson) | N/A |
+| 11 | [Kvartal](http://twitter.com/search?q=Kvartal) | N/A |
+| 12 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 13 | [tommy samuelsson](http://twitter.com/search?q=tommy+samuelsson) | N/A |
 | 14 | [nubben](http://twitter.com/search?q=nubben) | N/A |
 | 15 | [krister](http://twitter.com/search?q=krister) | N/A |
 | 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
@@ -43,18 +43,18 @@ This is top 50 for [Sweden](</Sweden>)
 | 26 | [Porro](http://twitter.com/search?q=Porro) | N/A |
 | 27 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
 | 28 | [Yasin Ayari](http://twitter.com/search?q=Yasin+Ayari) | N/A |
-| 29 | [Krya](http://twitter.com/search?q=Krya) | N/A |
-| 30 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 31 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
-| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 33 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 34 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 35 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 36 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 37 | [reinfeldt](http://twitter.com/search?q=reinfeldt) | N/A |
-| 38 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
-| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 40 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 29 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
+| 30 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 33 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 34 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 35 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 36 | [reinfeldt](http://twitter.com/search?q=reinfeldt) | N/A |
+| 37 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 39 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 40 | [Krya](http://twitter.com/search?q=Krya) | N/A |
 | 41 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
 | 42 | [Peking](http://twitter.com/search?q=Peking) | N/A |
 | 43 | [solna](http://twitter.com/search?q=solna) | N/A |

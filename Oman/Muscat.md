@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-01-31 00:28:47 UTC`
+📆 Last Updated: `2023-01-31 01:43:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Oman](</Oman>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#منع_المعلايه](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b9_%d8%a7%d9%84%d9%85%d8%b9%d9%84%d8%a7%d9%8a%d9%87) | N/A |
-| 2 | [#salamair](http://twitter.com/search?q=%23salamair) | N/A |
-| 3 | [#البزنس55](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b355) | N/A |
-| 4 | [#السيده_الجليله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87_%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d9%87) | N/A |
+| 2 | [#البزنس55](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b355) | N/A |
+| 3 | [#السيده_الجليله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87_%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d9%87) | N/A |
+| 4 | [#SalamAir](http://twitter.com/search?q=%23SalamAir) | N/A |
 | 5 | [#زد_رصيدك7](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%837) | N/A |
 | 6 | [مال الباطنه](http://twitter.com/search?q=%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86%d9%87) | N/A |
 | 7 | [حيدر اباد](http://twitter.com/search?q=%d8%ad%d9%8a%d8%af%d8%b1+%d8%a7%d8%a8%d8%a7%d8%af) | N/A |
@@ -27,9 +27,9 @@ This is top 50 for [Oman](</Oman>)
 | 10 | [الغاز الطبيعي المسال](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%b2+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%84) | N/A |
 | 11 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
 | 12 | [المنتدي العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%af%d9%8a+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 13 | [كيلو جرام](http://twitter.com/search?q=%d9%83%d9%8a%d9%84%d9%88+%d8%ac%d8%b1%d8%a7%d9%85) | N/A |
-| 14 | [الانستا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
-| 15 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
+| 13 | [الانستا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
+| 14 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
+| 15 | [كيلو جرام](http://twitter.com/search?q=%d9%83%d9%8a%d9%84%d9%88+%d8%ac%d8%b1%d8%a7%d9%85) | N/A |
 | 16 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 17 | [ذهاب دور](http://twitter.com/search?q=%d8%b0%d9%87%d8%a7%d8%a8+%d8%af%d9%88%d8%b1) | N/A |
 | 18 | [بورصة](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%b5%d8%a9) | N/A |
@@ -45,8 +45,8 @@ This is top 50 for [Oman](</Oman>)
 | 28 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
 | 29 | [الشركه العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 30 | [29 يناير](http://twitter.com/search?q=29+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1) | N/A |
-| 31 | [علي الرابط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7) | N/A |
-| 32 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
+| 31 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
+| 32 | [علي الرابط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7) | N/A |
 | 33 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
 | 34 | [ذوي الاعاقه التابع](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%a8%d8%b9) | N/A |
 | 35 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Oman](</Oman>)
 | 43 | [أحمد بن حمد الخليلي](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
 | 44 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
 | 45 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 46 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 47 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
-| 48 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 49 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 50 | [الاشخاص الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%ae%d8%a7%d8%b5+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
+| 46 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
+| 47 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 48 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 49 | [الاشخاص الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%ae%d8%a7%d8%b5+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
+| 50 | [التنميه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 
 
 
