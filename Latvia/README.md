@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-01-31 20:16:29 UTC`
+📆 Last Updated: `2023-01-31 21:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,27 +31,31 @@ This is top 50 for Latvia
 | 14 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
 | 15 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
 | 16 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 17 | [#wfcq2023](http://twitter.com/search?q=%23wfcq2023) | N/A |
-| 18 | [#valmierasnovads](http://twitter.com/search?q=%23valmierasnovads) | N/A |
-| 19 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 20 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
-| 21 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 22 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
-| 23 | [Biju](http://twitter.com/search?q=Biju) | N/A |
-| 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 25 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 26 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
-| 27 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 28 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 29 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 30 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
-| 31 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
-| 32 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
-| 33 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 34 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | N/A |
-| 35 | [#eBay](http://twitter.com/search?q=%23eBay) | N/A |
-| 36 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 37 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 17 | [#valmierasnovads](http://twitter.com/search?q=%23valmierasnovads) | N/A |
+| 18 | [#wfcq2023](http://twitter.com/search?q=%23wfcq2023) | N/A |
+| 19 | [#kocēni](http://twitter.com/search?q=%23koc%c4%93ni) | N/A |
+| 20 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
+| 21 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
+| 22 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
+| 23 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 24 | [Biju](http://twitter.com/search?q=Biju) | N/A |
+| 25 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
+| 26 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 27 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 28 | [Ļoti](http://twitter.com/search?q=%c4%bboti) | N/A |
+| 29 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 30 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
+| 31 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 32 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 33 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 34 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 35 | [Protams](http://twitter.com/search?q=Protams) | N/A |
+| 36 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 37 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
+| 38 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 39 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | N/A |
+| 40 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 41 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 
 
 

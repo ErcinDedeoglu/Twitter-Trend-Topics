@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-01-31 20:16:27 UTC`
+📆 Last Updated: `2023-01-31 21:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Indonesia
 | 10 | [Gus Muhaimin Iskandar](http://twitter.com/search?q=Gus+Muhaimin+Iskandar) | Gus Muhaimin Iskandar is an Indonesian politician who served as the Minister of Education and Culture from 2014 to 2019. The name is derived from the Arabic name Muhaimin, which means "protector" or "guardian", and Iskandar, which is a variant of Alexander, meaning "defender of mankind". In English, the name can be translated to mean "Protector of Mankind, Defender of Alexander". |
 | 11 | [Februari](http://twitter.com/search?q=Februari) | N/A |
 | 12 | [Hanya di Lazada](http://twitter.com/search?q=Hanya+di+Lazada) | N/A |
-| 13 | [Guru](http://twitter.com/search?q=Guru) | N/A |
-| 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 15 | [Shafaa](http://twitter.com/search?q=Shafaa) | N/A |
+| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 14 | [Guru](http://twitter.com/search?q=Guru) | N/A |
+| 15 | [shafaa](http://twitter.com/search?q=shafaa) | N/A |
 | 16 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
 | 17 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 18 | [Witan](http://twitter.com/search?q=Witan) | N/A |
-| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 20 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
-| 21 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
+| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 19 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
+| 20 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
+| 21 | [Witan](http://twitter.com/search?q=Witan) | N/A |
 | 22 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
-| 23 | [fullsun shines again](http://twitter.com/search?q=fullsun+shines+again) | N/A |
-| 24 | [Yuli Sumpil](http://twitter.com/search?q=Yuli+Sumpil) | N/A |
-| 25 | [PKB Ya NU](http://twitter.com/search?q=PKB+Ya+NU) | N/A |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [VIVIZ PULL UP OUT NOW](http://twitter.com/search?q=VIVIZ+PULL+UP+OUT+NOW) | VIVIZ PULL UP OUT NOW is a phrase used to encourage someone to take action and get something done. It is often used as a call to action, urging someone to take the initiative and do something. In English, it could be translated as "Take action now!" |
-| 28 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
-| 29 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 30 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 31 | [we love you jaemin](http://twitter.com/search?q=we+love+you+jaemin) | N/A |
-| 32 | [arsjad rasjid](http://twitter.com/search?q=arsjad+rasjid) | N/A |
-| 33 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 34 | [BSS ALBUM TRACKLIST](http://twitter.com/search?q=BSS+ALBUM+TRACKLIST) | BSS ALBUM TRACKLIST is a list of songs on an album by the Canadian band, Broken Social Scene. The tracklist includes the titles of each song on the album, as well as the length of each track. |
-| 35 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 23 | [Yuli Sumpil](http://twitter.com/search?q=Yuli+Sumpil) | N/A |
+| 24 | [fullsun shines again](http://twitter.com/search?q=fullsun+shines+again) | N/A |
+| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 26 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 27 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
+| 28 | [VIVIZ PULL UP OUT NOW](http://twitter.com/search?q=VIVIZ+PULL+UP+OUT+NOW) | VIVIZ PULL UP OUT NOW is a phrase used to encourage someone to take action and get something done. It is often used as a call to action, urging someone to take the initiative and do something. In English, it could be translated as "Take action now!" |
+| 29 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 30 | [PKB Ya NU](http://twitter.com/search?q=PKB+Ya+NU) | N/A |
+| 31 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 32 | [we love you jaemin](http://twitter.com/search?q=we+love+you+jaemin) | N/A |
+| 33 | [arsjad rasjid](http://twitter.com/search?q=arsjad+rasjid) | N/A |
+| 34 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 35 | [BSS ALBUM TRACKLIST](http://twitter.com/search?q=BSS+ALBUM+TRACKLIST) | BSS ALBUM TRACKLIST is a list of songs on an album by the Canadian band, Broken Social Scene. The tracklist includes the titles of each song on the album, as well as the length of each track. |
 | 36 | [huang renjun thank you](http://twitter.com/search?q=huang+renjun+thank+you) | N/A |
-| 37 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 38 | [3RACHA FULL MEMBERS OF KOMCA](http://twitter.com/search?q=3RACHA+FULL+MEMBERS+OF+KOMCA) | 3RACHA is a South Korean hip-hop group composed of three members: Bang Chan, Changbin, and Han. They are all full members of the Korea Music Copyright Association (KOMCA), which is an organization that protects the rights of music creators and producers in South Korea. The acronym "3RACHA FULL MEMBERS OF KOMCA" is used to refer to the trio's membership in KOMCA. |
-| 39 | [jd id](http://twitter.com/search?q=jd+id) | N/A |
-| 40 | [Bunuh](http://twitter.com/search?q=Bunuh) | N/A |
-| 41 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 42 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | N/A |
+| 37 | [3RACHA FULL MEMBERS OF KOMCA](http://twitter.com/search?q=3RACHA+FULL+MEMBERS+OF+KOMCA) | 3RACHA is a South Korean hip-hop group composed of three members: Bang Chan, Changbin, and Han. They are all full members of the Korea Music Copyright Association (KOMCA), which is an organization that protects the rights of music creators and producers in South Korea. The acronym "3RACHA FULL MEMBERS OF KOMCA" is used to refer to the trio's membership in KOMCA. |
+| 38 | [kompas tv](http://twitter.com/search?q=kompas+tv) | N/A |
+| 39 | [Bunuh](http://twitter.com/search?q=Bunuh) | N/A |
+| 40 | [jd id](http://twitter.com/search?q=jd+id) | N/A |
+| 41 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | N/A |
+| 42 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
 | 43 | [Indomilk](http://twitter.com/search?q=Indomilk) | N/A |
-| 44 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
-| 45 | [Kompas TV](http://twitter.com/search?q=Kompas+TV) | N/A |
-| 46 | [tambah kehidupmu](http://twitter.com/search?q=tambah+kehidupmu) | N/A |
+| 44 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 45 | [tambah kehidupmu](http://twitter.com/search?q=tambah+kehidupmu) | N/A |
+| 46 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
 | 47 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 48 | [PKB ADALAH NU](http://twitter.com/search?q=PKB+ADALAH+NU) | N/A |
-| 49 | [Physical](http://twitter.com/search?q=Physical) | N/A |
-| 50 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 48 | [pkb adalah nu](http://twitter.com/search?q=pkb+adalah+nu) | N/A |
+| 49 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 50 | [Physical](http://twitter.com/search?q=Physical) | N/A |
 
 
 

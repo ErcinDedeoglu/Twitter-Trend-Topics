@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-01-31 20:15:51 UTC`
+📆 Last Updated: `2023-01-31 21:15:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#twefey](http://twitter.com/search?q=%23twefey) | N/A |
-| 2 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 3 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 4 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 5 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 1 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
+| 2 | [#twefey](http://twitter.com/search?q=%23twefey) | N/A |
+| 3 | [#deslimstemens](http://twitter.com/search?q=%23deslimstemens) | N/A |
+| 4 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 5 | [Elvis Manu](http://twitter.com/search?q=Elvis+Manu) | N/A |
 | 6 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
 | 7 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 8 | [Efteling](http://twitter.com/search?q=Efteling) | N/A |
-| 9 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 10 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 8 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 9 | [Efteling](http://twitter.com/search?q=Efteling) | N/A |
+| 10 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
 | 11 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 12 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 13 | [Lelystad Airport](http://twitter.com/search?q=Lelystad+Airport) | N/A |
+| 12 | [Lelystad Airport](http://twitter.com/search?q=Lelystad+Airport) | N/A |
+| 13 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
 | 14 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 15 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
-| 16 | [Ginkel](http://twitter.com/search?q=Ginkel) | N/A |
-| 17 | [Beatrix](http://twitter.com/search?q=Beatrix) | N/A |
-| 18 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 15 | [Ginkel](http://twitter.com/search?q=Ginkel) | N/A |
+| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 17 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 18 | [Beatrix](http://twitter.com/search?q=Beatrix) | N/A |
 | 19 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 20 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
 | 21 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 22 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
-| 23 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 24 | [Streuer](http://twitter.com/search?q=Streuer) | N/A |
-| 25 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
-| 28 | [bijlow](http://twitter.com/search?q=bijlow) | N/A |
-| 29 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
-| 30 | [Rechten van de Mens](http://twitter.com/search?q=Rechten+van+de+Mens) | N/A |
-| 31 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 32 | [Joop](http://twitter.com/search?q=Joop) | N/A |
-| 33 | [Walemark](http://twitter.com/search?q=Walemark) | N/A |
-| 34 | [Rood](http://twitter.com/search?q=Rood) | N/A |
-| 35 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 36 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 37 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 38 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
-| 39 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 40 | [Heddy Lester](http://twitter.com/search?q=Heddy+Lester) | N/A |
-| 41 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 42 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 43 | [hongarije](http://twitter.com/search?q=hongarije) | N/A |
-| 44 | [talpa](http://twitter.com/search?q=talpa) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 47 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 48 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 49 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 22 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
+| 23 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
+| 24 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
+| 25 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 26 | [Martijn](http://twitter.com/search?q=Martijn) | N/A |
+| 27 | [Streuer](http://twitter.com/search?q=Streuer) | N/A |
+| 28 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 29 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 30 | [Roda JC](http://twitter.com/search?q=Roda+JC) | N/A |
+| 31 | [Rechten van de Mens](http://twitter.com/search?q=Rechten+van+de+Mens) | N/A |
+| 32 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 33 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 34 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 35 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
+| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 37 | [Joop](http://twitter.com/search?q=Joop) | N/A |
+| 38 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 39 | [Rood](http://twitter.com/search?q=Rood) | N/A |
+| 40 | [Walemark](http://twitter.com/search?q=Walemark) | N/A |
+| 41 | [Heddy Lester](http://twitter.com/search?q=Heddy+Lester) | N/A |
+| 42 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 43 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 44 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 45 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 46 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 47 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 48 | [El Ghazi](http://twitter.com/search?q=El+Ghazi) | N/A |
+| 49 | [Paul Jansen](http://twitter.com/search?q=Paul+Jansen) | N/A |
 
 
 

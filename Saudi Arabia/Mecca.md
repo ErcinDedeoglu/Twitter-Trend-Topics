@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-01-31 20:16:06 UTC`
+📆 Last Updated: `2023-01-31 21:15:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 2 | [#الراجحي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | #الراجحي is an Arabic hashtag that translates to "Rajhi" in English. It is the name of a Saudi Arabian bank, Bank Al Rajhi. |
+| 1 | [#الراجحي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | #الراجحي is an Arabic hashtag that translates to "Rajhi" in English. It is the name of a Saudi Arabian bank, Bank Al Rajhi. |
+| 2 | [#هبه_نور](http://twitter.com/search?q=%23%d9%87%d8%a8%d9%87_%d9%86%d9%88%d8%b1) | N/A |
 | 3 | [#تزوج_الثانيه](http://twitter.com/search?q=%23%d8%aa%d8%b2%d9%88%d8%ac_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 4 | [#زد_رصيدك8](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%838) | N/A |
-| 5 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 6 | [ابل باي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%84+%d8%a8%d8%a7%d9%8a) | N/A |
-| 7 | [الشعر العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 8 | [الكفاءه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%81%d8%a7%d8%a1%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 9 | [نقاط البيع](http://twitter.com/search?q=%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b9) | N/A |
-| 10 | [سوزا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b2%d8%a7) | N/A |
-| 11 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 4 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 5 | [#زد_رصيدك8](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%838) | N/A |
+| 6 | [الشعر العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 7 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
+| 8 | [ابل باي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%84+%d8%a8%d8%a7%d9%8a) | N/A |
+| 9 | [الكفاءه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%81%d8%a7%d8%a1%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 10 | [نقاط البيع](http://twitter.com/search?q=%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b9) | N/A |
+| 11 | [بنك الانماء](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1) | N/A |
 | 12 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 13 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
-| 14 | [سالم الاحمدي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af%d9%8a) | N/A |
-| 15 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 16 | [روي كوستا](http://twitter.com/search?q=%d8%b1%d9%88%d9%8a+%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | N/A |
-| 17 | [بن طلال](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
-| 18 | [صوت الارض](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 19 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 13 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 14 | [بنك الرياض](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 15 | [صوت الارض](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 16 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
+| 17 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 18 | [1 فبراير](http://twitter.com/search?q=1+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 19 | [بن طلال](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
 | 20 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 21 | [الاتحاد الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | الاتحاد الاسيوي (ASEAN) is the Association of Southeast Asian Nations, an intergovernmental organization made up of 10 countries in Southeast Asia. Its purpose is to promote economic growth, social progress, and cultural development among its members. In English, it means "Association of Southeast Asian Nations". |
-| 22 | [#شاي_واو](http://twitter.com/search?q=%23%d8%b4%d8%a7%d9%8a_%d9%88%d8%a7%d9%88) | N/A |
-| 23 | [#البزنس56](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b356) | N/A |
-| 24 | [#عام_الشعر_العربي](http://twitter.com/search?q=%23%d8%b9%d8%a7%d9%85_%d8%a7%d9%84%d8%b4%d8%b9%d8%b1_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 25 | [#الهلال_الوداد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | N/A |
-| 26 | [#برنامج_طله_الغيث](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%b7%d9%84%d9%87_%d8%a7%d9%84%d8%ba%d9%8a%d8%ab) | N/A |
-| 27 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 28 | [#ابشرو_بها](http://twitter.com/search?q=%23%d8%a7%d8%a8%d8%b4%d8%b1%d9%88_%d8%a8%d9%87%d8%a7) | N/A |
-| 29 | [#مجلس_الوزراء](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 21 | [روي كوستا](http://twitter.com/search?q=%d8%b1%d9%88%d9%8a+%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | N/A |
+| 22 | [الاتحاد الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | الاتحاد الاسيوي (ASEAN) is the Association of Southeast Asian Nations, an intergovernmental organization made up of 10 countries in Southeast Asia. Its purpose is to promote economic growth, social progress, and cultural development among its members. In English, it means "Association of Southeast Asian Nations". |
+| 23 | [#الهلال_يرحب_بمسي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%8a%d8%b1%d8%ad%d8%a8_%d8%a8%d9%85%d8%b3%d9%8a) | N/A |
+| 24 | [#عام_الشعر_العربي_2023](http://twitter.com/search?q=%23%d8%b9%d8%a7%d9%85_%d8%a7%d9%84%d8%b4%d8%b9%d8%b1_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a_2023) | N/A |
+| 25 | [#البزنس56](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b356) | N/A |
+| 26 | [#شاي_واو](http://twitter.com/search?q=%23%d8%b4%d8%a7%d9%8a_%d9%88%d8%a7%d9%88) | N/A |
+| 27 | [#الهلال_الوداد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | N/A |
+| 28 | [#برنامج_طله_الغيث](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%b7%d9%84%d9%87_%d8%a7%d9%84%d8%ba%d9%8a%d8%ab) | N/A |
+| 29 | [#ابشرو_بها](http://twitter.com/search?q=%23%d8%a7%d8%a8%d8%b4%d8%b1%d9%88_%d8%a8%d9%87%d8%a7) | N/A |
 | 30 | [#الهلال_في_كاس_العالم](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 31 | [#نقاط_الفتح_يا_نصر](http://twitter.com/search?q=%23%d9%86%d9%82%d8%a7%d8%b7_%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d9%8a%d8%a7_%d9%86%d8%b5%d8%b1) | N/A |
-| 32 | [#ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 33 | [#الفتح_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 34 | [#الشباب_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%b6%d9%85%d9%83) | N/A |
-| 35 | [#توقع_مع_كملنا](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%82%d8%b9_%d9%85%d8%b9_%d9%83%d9%85%d9%84%d9%86%d8%a7) | N/A |
+| 31 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 32 | [#مجلس_الوزراء](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 33 | [#ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 34 | [#توقع_مع_كملنا](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%82%d8%b9_%d9%85%d8%b9_%d9%83%d9%85%d9%84%d9%86%d8%a7) | N/A |
+| 35 | [#الفتح_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
 | 36 | [#الناس_والليل23](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%a7%d8%b3_%d9%88%d8%a7%d9%84%d9%84%d9%8a%d9%8423) | N/A |
 | 37 | [#ابها_الخليج](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%87%d8%a7_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 38 | [#ريال_مدريد_فالنسيا](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af_%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | N/A |
-| 39 | [#مسلسل_لغز_بابل15](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%84%d8%ba%d8%b2_%d8%a8%d8%a7%d8%a8%d9%8415) | N/A |
+| 38 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 39 | [#الشباب_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%b6%d9%85%d9%83) | N/A |
 | 40 | [#الباطن_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
-| 41 | [#اقاله_معين_مطلب_شعبي](http://twitter.com/search?q=%23%d8%a7%d9%82%d8%a7%d9%84%d9%87_%d9%85%d8%b9%d9%8a%d9%86_%d9%85%d8%b7%d9%84%d8%a8_%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
-| 42 | [#ساره_الودعاني](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
-| 43 | [#الاتفاق_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
-| 44 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
-| 45 | [#الرسايل_الخاصه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 46 | [#واقعيتنا_علي_الواقع_جميله](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%82%d8%b9%d9%8a%d8%aa%d9%86%d8%a7_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9_%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
-| 47 | [#الاهلي_الاخدود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%a7%d8%ae%d8%af%d9%88%d8%af) | N/A |
-| 48 | [#حرق_كونان](http://twitter.com/search?q=%23%d8%ad%d8%b1%d9%82_%d9%83%d9%88%d9%86%d8%a7%d9%86) | N/A |
-| 49 | [#طلال_مداح](http://twitter.com/search?q=%23%d8%b7%d9%84%d8%a7%d9%84_%d9%85%d8%af%d8%a7%d8%ad) | N/A |
+| 41 | [#نقاط_الفتح_يا_نصر](http://twitter.com/search?q=%23%d9%86%d9%82%d8%a7%d8%b7_%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d9%8a%d8%a7_%d9%86%d8%b5%d8%b1) | N/A |
+| 42 | [#ريال_مدريد_فالنسيا](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af_%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | N/A |
+| 43 | [#مسلسل_لغز_بابل15](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%84%d8%ba%d8%b2_%d8%a8%d8%a7%d8%a8%d9%8415) | N/A |
+| 44 | [#ساره_الودعاني](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
+| 45 | [#اقاله_معين_مطلب_شعبي](http://twitter.com/search?q=%23%d8%a7%d9%82%d8%a7%d9%84%d9%87_%d9%85%d8%b9%d9%8a%d9%86_%d9%85%d8%b7%d9%84%d8%a8_%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
+| 46 | [#الاتفاق_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 47 | [#الرسايل_الخاصه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
+| 48 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 49 | [#الاهلي_الاخدود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%a7%d8%ae%d8%af%d9%88%d8%af) | N/A |
 
 
 

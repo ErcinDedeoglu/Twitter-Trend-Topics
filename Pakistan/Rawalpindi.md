@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-01-31 20:16:10 UTC`
+📆 Last Updated: `2023-01-31 21:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 9 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 10 | [Bab Ul Hawaij](http://twitter.com/search?q=Bab+Ul+Hawaij) | N/A |
 | 11 | [Ali Asghar](http://twitter.com/search?q=Ali+Asghar) | N/A |
-| 12 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 13 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
-| 14 | [Shah e Tabassum](http://twitter.com/search?q=Shah+e+Tabassum) | N/A |
-| 15 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 16 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 17 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 18 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 19 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
-| 20 | [Inspector Nasir](http://twitter.com/search?q=Inspector+Nasir) | N/A |
-| 21 | [Khanewal](http://twitter.com/search?q=Khanewal) | N/A |
-| 22 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 23 | [Static](http://twitter.com/search?q=Static) | N/A |
-| 24 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
-| 25 | [National Action Plan](http://twitter.com/search?q=National+Action+Plan) | N/A |
-| 26 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 27 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 28 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
+| 12 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
+| 13 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
+| 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 15 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 16 | [Shah e Tabassum](http://twitter.com/search?q=Shah+e+Tabassum) | N/A |
+| 17 | [Inspector Nasir](http://twitter.com/search?q=Inspector+Nasir) | N/A |
+| 18 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
+| 19 | [Khanewal](http://twitter.com/search?q=Khanewal) | N/A |
+| 20 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 21 | [Static](http://twitter.com/search?q=Static) | N/A |
+| 22 | [national action plan](http://twitter.com/search?q=national+action+plan) | N/A |
+| 23 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
+| 24 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 25 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
+| 26 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 27 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
+| 28 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 29 | [Rescue 1122](http://twitter.com/search?q=Rescue+1122) | N/A |
-| 30 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
-| 31 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 32 | [Masjid](http://twitter.com/search?q=Masjid) | N/A |
-| 33 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
-| 34 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 35 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
-| 36 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 37 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [Theek](http://twitter.com/search?q=Theek) | N/A |
-| 40 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 41 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 42 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 43 | [Sleeping](http://twitter.com/search?q=Sleeping) | N/A |
-| 44 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 45 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
-| 46 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 47 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 48 | [Upwork](http://twitter.com/search?q=Upwork) | N/A |
-| 49 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 50 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 30 | [Masjid](http://twitter.com/search?q=Masjid) | N/A |
+| 31 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 32 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 33 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 34 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 35 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 36 | [Avoid](http://twitter.com/search?q=Avoid) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [Sleeping](http://twitter.com/search?q=Sleeping) | N/A |
+| 39 | [Ufff](http://twitter.com/search?q=Ufff) | N/A |
+| 40 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 42 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 43 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
+| 44 | [Upwork](http://twitter.com/search?q=Upwork) | N/A |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 47 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 48 | [Source](http://twitter.com/search?q=Source) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Yess](http://twitter.com/search?q=Yess) | N/A |
 
 
 
