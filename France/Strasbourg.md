@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-01-31 02:39:43 UTC`
+📆 Last Updated: `2023-01-31 03:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,29 +29,29 @@ This is top 50 for [France](</France>)
 | 12 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 13 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 14 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 15 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 17 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
 | 18 | [Mission Cléopâtre](http://twitter.com/search?q=Mission+Cl%c3%a9op%c3%a2tre) | N/A |
 | 19 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 20 | [Monica Bellucci](http://twitter.com/search?q=Monica+Bellucci) | N/A |
 | 21 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
 | 22 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 23 | [grève du 31](http://twitter.com/search?q=gr%c3%a8ve+du+31) | N/A |
-| 24 | [Mitroglou](http://twitter.com/search?q=Mitroglou) | N/A |
-| 25 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 26 | [VERRATTI](http://twitter.com/search?q=VERRATTI) | N/A |
-| 27 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 28 | [danois](http://twitter.com/search?q=danois) | N/A |
-| 29 | [Mistral](http://twitter.com/search?q=Mistral) | N/A |
-| 30 | [Chabat](http://twitter.com/search?q=Chabat) | N/A |
-| 31 | [Photon](http://twitter.com/search?q=Photon) | N/A |
-| 32 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 33 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 34 | [Payet](http://twitter.com/search?q=Payet) | N/A |
-| 35 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 36 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
-| 37 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
+| 23 | [Mitroglou](http://twitter.com/search?q=Mitroglou) | N/A |
+| 24 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 25 | [VERRATTI](http://twitter.com/search?q=VERRATTI) | N/A |
+| 26 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 27 | [danois](http://twitter.com/search?q=danois) | N/A |
+| 28 | [Mistral](http://twitter.com/search?q=Mistral) | N/A |
+| 29 | [Chabat](http://twitter.com/search?q=Chabat) | N/A |
+| 30 | [photon](http://twitter.com/search?q=photon) | N/A |
+| 31 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 32 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 33 | [Payet](http://twitter.com/search?q=Payet) | N/A |
+| 34 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 35 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
+| 36 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
+| 37 | [Grève du 31](http://twitter.com/search?q=Gr%c3%a8ve+du+31) | N/A |
 | 38 | [Canet](http://twitter.com/search?q=Canet) | N/A |
 | 39 | [Didi](http://twitter.com/search?q=Didi) | N/A |
 | 40 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
@@ -59,11 +59,11 @@ This is top 50 for [France](</France>)
 | 42 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
 | 43 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
 | 44 | [Vercoutre](http://twitter.com/search?q=Vercoutre) | N/A |
-| 45 | [Spencer](http://twitter.com/search?q=Spencer) | N/A |
-| 46 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 47 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
-| 48 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 49 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 45 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 46 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
+| 47 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 48 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 49 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
 
 
 

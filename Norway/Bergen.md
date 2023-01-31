@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-01-31 02:39:47 UTC`
+📆 Last Updated: `2023-01-31 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Norway](</Norway>)
 | 5 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 6 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 7 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 8 | [Flyr](http://twitter.com/search?q=Flyr) | N/A |
+| 8 | [flyr](http://twitter.com/search?q=flyr) | N/A |
 | 9 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 10 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 11 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for [Norway](</Norway>)
 | 19 | [virker](http://twitter.com/search?q=virker) | N/A |
 | 20 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 21 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 22 | [Slåttavik](http://twitter.com/search?q=Sl%c3%a5ttavik) | N/A |
+| 22 | [slåttavik](http://twitter.com/search?q=sl%c3%a5ttavik) | N/A |
 | 23 | [Porro](http://twitter.com/search?q=Porro) | N/A |
 | 24 | [America](http://twitter.com/search?q=America) | N/A |
 | 25 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
@@ -52,18 +52,18 @@ This is top 50 for [Norway](</Norway>)
 | 35 | [jordal](http://twitter.com/search?q=jordal) | N/A |
 | 36 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 37 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 38 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 38 | [#nufc](http://twitter.com/search?q=%23nufc) | N/A |
 | 39 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 40 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
+| 40 | [tipper](http://twitter.com/search?q=tipper) | N/A |
 | 41 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 42 | [#Xbox](http://twitter.com/search?q=%23Xbox) | N/A |
 | 43 | [West](http://twitter.com/search?q=West) | N/A |
 | 44 | [flott](http://twitter.com/search?q=flott) | N/A |
 | 45 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
 | 46 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 47 | [China](http://twitter.com/search?q=China) | N/A |
-| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 49 | [aner](http://twitter.com/search?q=aner) | N/A |
+| 47 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 48 | [aner](http://twitter.com/search?q=aner) | N/A |
+| 49 | [e134 haukelifjell](http://twitter.com/search?q=e134+haukelifjell) | N/A |
 
 
 

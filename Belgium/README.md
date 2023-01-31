@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-01-31 02:40:13 UTC`
+📆 Last Updated: `2023-01-31 03:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,26 +42,26 @@ This is top 50 for Belgium
 | 25 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
 | 26 | [Links](http://twitter.com/search?q=Links) | N/A |
 | 27 | [zulte waregem](http://twitter.com/search?q=zulte+waregem) | N/A |
-| 28 | [laten](http://twitter.com/search?q=laten) | N/A |
-| 29 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 31 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 32 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
-| 33 | [Komt](http://twitter.com/search?q=Komt) | N/A |
-| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 35 | [Letterlijk](http://twitter.com/search?q=Letterlijk) | N/A |
-| 36 | [groot vleeshuis](http://twitter.com/search?q=groot+vleeshuis) | N/A |
-| 37 | [de laet](http://twitter.com/search?q=de+laet) | N/A |
-| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 39 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 40 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 41 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
-| 42 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
-| 43 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 44 | [grondwet](http://twitter.com/search?q=grondwet) | N/A |
-| 45 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 46 | [groenen](http://twitter.com/search?q=groenen) | N/A |
-| 47 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 28 | [Laten](http://twitter.com/search?q=Laten) | N/A |
+| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 31 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
+| 32 | [Komt](http://twitter.com/search?q=Komt) | N/A |
+| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 34 | [Letterlijk](http://twitter.com/search?q=Letterlijk) | N/A |
+| 35 | [groot vleeshuis](http://twitter.com/search?q=groot+vleeshuis) | N/A |
+| 36 | [de laet](http://twitter.com/search?q=de+laet) | N/A |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 39 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
+| 40 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 41 | [Source](http://twitter.com/search?q=Source) | N/A |
+| 42 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 43 | [grondwet](http://twitter.com/search?q=grondwet) | N/A |
+| 44 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 45 | [groenen](http://twitter.com/search?q=groenen) | N/A |
+| 46 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 47 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 48 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 49 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
 | 50 | [dankje](http://twitter.com/search?q=dankje) | N/A |

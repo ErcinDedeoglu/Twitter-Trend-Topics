@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-01-31 02:40:19 UTC`
+📆 Last Updated: `2023-01-31 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,33 +38,33 @@ This is top 50 for Sweden
 | 21 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
 | 22 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
 | 23 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 24 | [#nflse](http://twitter.com/search?q=%23nflse) | N/A |
-| 25 | [Vårbynätverket](http://twitter.com/search?q=V%c3%a5rbyn%c3%a4tverket) | N/A |
-| 26 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 27 | [Yasin Ayari](http://twitter.com/search?q=Yasin+Ayari) | N/A |
-| 28 | [timbro](http://twitter.com/search?q=timbro) | N/A |
-| 29 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 32 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
-| 33 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 34 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 35 | [reinfeldt](http://twitter.com/search?q=reinfeldt) | N/A |
-| 36 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
-| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 38 | [Krya](http://twitter.com/search?q=Krya) | N/A |
-| 39 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 40 | [Peking](http://twitter.com/search?q=Peking) | N/A |
-| 41 | [solna](http://twitter.com/search?q=solna) | N/A |
-| 42 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
-| 43 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 44 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 45 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 46 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 47 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 24 | [vårbynätverket](http://twitter.com/search?q=v%c3%a5rbyn%c3%a4tverket) | N/A |
+| 25 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 26 | [Yasin Ayari](http://twitter.com/search?q=Yasin+Ayari) | N/A |
+| 27 | [timbro](http://twitter.com/search?q=timbro) | N/A |
+| 28 | [systembolaget](http://twitter.com/search?q=systembolaget) | N/A |
+| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 30 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 31 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 32 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 33 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 34 | [reinfeldt](http://twitter.com/search?q=reinfeldt) | N/A |
+| 35 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
+| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 37 | [Krya](http://twitter.com/search?q=Krya) | N/A |
+| 38 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 39 | [Peking](http://twitter.com/search?q=Peking) | N/A |
+| 40 | [solna](http://twitter.com/search?q=solna) | N/A |
+| 41 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 42 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 43 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 44 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 45 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 46 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 47 | [Demokrati](http://twitter.com/search?q=Demokrati) | N/A |
 | 48 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
 | 49 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 50 | [Demokrati](http://twitter.com/search?q=Demokrati) | N/A |
+| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 
 
 

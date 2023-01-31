@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-01-31 02:40:05 UTC`
+📆 Last Updated: `2023-01-31 03:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,8 +30,8 @@ This is top 50 for [Turkey](</Turkey>)
 | 13 | [meclissağlık yönetiminiduy](http://twitter.com/search?q=meclissa%c4%9fl%c4%b1k+y%c3%b6netiminiduy) | N/A |
 | 14 | [Kayyum](http://twitter.com/search?q=Kayyum) | Kayyum is a Turkish word that means "trustee" or "guardian". It is used to refer to someone who is appointed to oversee the management of an organization or property. |
 | 15 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
-| 16 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
-| 17 | [Melek Subaşı](http://twitter.com/search?q=Melek+Suba%c5%9f%c4%b1) | N/A |
+| 16 | [Melek Subaşı](http://twitter.com/search?q=Melek+Suba%c5%9f%c4%b1) | N/A |
+| 17 | [Emine Ülker Tarhan](http://twitter.com/search?q=Emine+%c3%9clker+Tarhan) | N/A |
 | 18 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
 | 19 | [Bilecik](http://twitter.com/search?q=Bilecik) | N/A |
 | 20 | [İmrda Barış](http://twitter.com/search?q=%c4%b0mrda+Bar%c4%b1%c5%9f) | İmrda Barış is a Turkish phrase that translates to "Peace Now." It is a call for an immediate end to conflict and violence, and for the establishment of peace. |
@@ -49,10 +49,10 @@ This is top 50 for [Turkey](</Turkey>)
 | 32 | [Şeyda](http://twitter.com/search?q=%c5%9eeyda) | N/A |
 | 33 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
 | 34 | [Bitti](http://twitter.com/search?q=Bitti) | N/A |
-| 35 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 36 | [oyalamadan afmeclise](http://twitter.com/search?q=oyalamadan+afmeclise) | N/A |
+| 35 | [oyalamadan afmeclise](http://twitter.com/search?q=oyalamadan+afmeclise) | N/A |
+| 36 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 37 | [Azgın](http://twitter.com/search?q=Azg%c4%b1n) | N/A |
-| 38 | [Çankaya Köşkü'ne](http://twitter.com/search?q=%c3%87ankaya+K%c3%b6%c5%9fk%c3%bc%27ne) | N/A |
+| 38 | [çankaya köşkü'ne](http://twitter.com/search?q=%c3%a7ankaya+k%c3%b6%c5%9fk%c3%bc%27ne) | N/A |
 | 39 | [Ali Palabıyık](http://twitter.com/search?q=Ali+Palab%c4%b1y%c4%b1k) | N/A |
 | 40 | [13 şubat](http://twitter.com/search?q=13+%c5%9fubat) | N/A |
 | 41 | [ORTAK İHANET METNİ](http://twitter.com/search?q=ORTAK+%c4%b0HANET+METN%c4%b0) | N/A |
@@ -60,9 +60,9 @@ This is top 50 for [Turkey](</Turkey>)
 | 43 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
 | 44 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
 | 45 | [Tarikatlar](http://twitter.com/search?q=Tarikatlar) | N/A |
-| 46 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
+| 46 | [Sevgilim](http://twitter.com/search?q=Sevgilim) | N/A |
 | 47 | [Ersan](http://twitter.com/search?q=Ersan) | Ersan is a Turkish name derived from the Arabic word “Irsan”, which means “guardian” or “protector”. It is also used as a surname in some parts of Turkey. |
-| 48 | [İcardi](http://twitter.com/search?q=%c4%b0cardi) | N/A |
+| 48 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
 
 
 

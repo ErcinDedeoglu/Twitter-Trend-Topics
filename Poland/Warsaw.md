@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-01-31 02:39:42 UTC`
+📆 Last Updated: `2023-01-31 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,27 +44,27 @@ This is top 50 for [Poland](</Poland>)
 | 27 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
 | 28 | [juras](http://twitter.com/search?q=juras) | N/A |
 | 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 30 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 31 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 32 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
-| 33 | [Wika](http://twitter.com/search?q=Wika) | N/A |
-| 34 | [wiki](http://twitter.com/search?q=wiki) | N/A |
-| 35 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 36 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 37 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
-| 38 | [O 13](http://twitter.com/search?q=O+13) | N/A |
-| 39 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
-| 40 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
-| 41 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
-| 42 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
-| 43 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
-| 44 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
-| 45 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
-| 46 | [Belka](http://twitter.com/search?q=Belka) | N/A |
-| 47 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 48 | [tatrach](http://twitter.com/search?q=tatrach) | N/A |
-| 49 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 50 | [polska press](http://twitter.com/search?q=polska+press) | N/A |
+| 30 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 31 | [dasz](http://twitter.com/search?q=dasz) | N/A |
+| 32 | [Wika](http://twitter.com/search?q=Wika) | N/A |
+| 33 | [wiki](http://twitter.com/search?q=wiki) | N/A |
+| 34 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 35 | [japierdole](http://twitter.com/search?q=japierdole) | N/A |
+| 36 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
+| 37 | [O 13](http://twitter.com/search?q=O+13) | N/A |
+| 38 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
+| 39 | [juszczenko](http://twitter.com/search?q=juszczenko) | N/A |
+| 40 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
+| 41 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
+| 42 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
+| 43 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
+| 44 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
+| 45 | [belka](http://twitter.com/search?q=belka) | N/A |
+| 46 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 47 | [Tatrach](http://twitter.com/search?q=Tatrach) | N/A |
+| 48 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 49 | [polska press](http://twitter.com/search?q=polska+press) | N/A |
+| 50 | [nobla](http://twitter.com/search?q=nobla) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-01-31 02:40:16 UTC`
+📆 Last Updated: `2023-01-31 03:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Latvia
 | 9 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 | 10 | [Mans](http://twitter.com/search?q=Mans) | N/A |
 | 11 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 12 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
+| 12 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
 | 13 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
 | 14 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 15 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
@@ -43,8 +43,9 @@ This is top 50 for Latvia
 | 26 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 27 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 28 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 29 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
-| 30 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
+| 29 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 30 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
+| 31 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
 
 
 

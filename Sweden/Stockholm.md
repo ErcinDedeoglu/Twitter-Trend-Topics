@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-01-31 02:39:48 UTC`
+📆 Last Updated: `2023-01-31 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,7 +42,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 25 | [Vårbynätverket](http://twitter.com/search?q=V%c3%a5rbyn%c3%a4tverket) | N/A |
 | 26 | [Porro](http://twitter.com/search?q=Porro) | N/A |
 | 27 | [Yasin Ayari](http://twitter.com/search?q=Yasin+Ayari) | N/A |
-| 28 | [Timbro](http://twitter.com/search?q=Timbro) | N/A |
+| 28 | [timbro](http://twitter.com/search?q=timbro) | N/A |
 | 29 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
 | 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 31 | [Italien](http://twitter.com/search?q=Italien) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Sweden](</Sweden>)
 | 45 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 46 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 47 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 48 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
-| 49 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 50 | [Demokrati](http://twitter.com/search?q=Demokrati) | N/A |
+| 48 | [Demokrati](http://twitter.com/search?q=Demokrati) | N/A |
+| 49 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
+| 50 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 
 
 

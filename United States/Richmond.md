@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-01-31 02:40:11 UTC`
+📆 Last Updated: `2023-01-31 03:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [United States](</United States>)
 | 5 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
 | 6 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
 | 7 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 8 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
-| 9 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 10 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 11 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
-| 12 | [American Graffiti](http://twitter.com/search?q=American+Graffiti) | American Graffiti is a 1973 American coming-of-age comedy film directed and co-written by George Lucas. Set in 1962 Modesto, California, the film is a study of the cruising and rock and roll cultures popular among the post–World War II baby boom generation. The film's meaning in English is that it is a nostalgic look at teenage life in the early 1960s. |
-| 13 | [Gable](http://twitter.com/search?q=Gable) | Gable is a triangular section of wall at the end of a pitched roof. It is the area between the edges of the two sloping sides of a roof. In English, it is also used to refer to the entire end wall of a building, which includes both the gable and any other parts below it. |
-| 14 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
-| 15 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 16 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
-| 17 | [Raty](http://twitter.com/search?q=Raty) | Raty is a Finnish online payment system that allows customers to pay for goods and services in installments. It is similar to a layaway plan, allowing customers to pay for items over time rather than all at once. The word Raty is derived from the Finnish word "ratkaista," which means "to solve." |
+| 8 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 9 | [Brianna](http://twitter.com/search?q=Brianna) | Brianna is a feminine given name of Irish and Gaelic origin. It is derived from the Irish name Brígh, which means "strength" or "power". |
+| 10 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 11 | [Rick Boogs](http://twitter.com/search?q=Rick+Boogs) | Rick Boogs is a slang term used to describe someone who is acting recklessly or foolishly. It can also be used to describe someone who is being overly dramatic or making a scene. |
+| 12 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
+| 13 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 14 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 15 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 16 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 17 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
 | 18 | [#PrayForSchaffrillas](http://twitter.com/search?q=%23PrayForSchaffrillas) | N/A |
-| 19 | [Mo Wagner](http://twitter.com/search?q=Mo+Wagner) | N/A |
-| 20 | [Dallas Zoo](http://twitter.com/search?q=Dallas+Zoo) | Dallas Zoo is a zoological park located in Dallas, Texas. It is home to over 2,000 animals representing 406 species. The zoo is divided into several sections, including the Wilds of Africa, the Giants of the Savanna, and the Children's Zoo. Visitors can explore these areas and learn about the animals that inhabit them. |
-| 21 | [#AGTAllStars](http://twitter.com/search?q=%23AGTAllStars) | N/A |
-| 22 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 23 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
-| 24 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 25 | [AriZona Iced Tea](http://twitter.com/search?q=AriZona+Iced+Tea) | N/A |
-| 26 | [Tahzjuan](http://twitter.com/search?q=Tahzjuan) | N/A |
-| 27 | [Woodward](http://twitter.com/search?q=Woodward) | N/A |
-| 28 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 29 | [Candice](http://twitter.com/search?q=Candice) | N/A |
-| 30 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | N/A |
-| 31 | [Chris and Patrick](http://twitter.com/search?q=Chris+and+Patrick) | Chris and Patrick is a phrase that is used to refer to two people who are close friends. It can also be used to describe a situation in which two people are working together on something. |
-| 32 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 33 | [Penny Marshall](http://twitter.com/search?q=Penny+Marshall) | N/A |
-| 34 | [Latto](http://twitter.com/search?q=Latto) | N/A |
-| 35 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 36 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 37 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 38 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 39 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
-| 40 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
+| 19 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 20 | [American Graffiti](http://twitter.com/search?q=American+Graffiti) | American Graffiti is a 1973 American coming-of-age comedy film directed and co-written by George Lucas. Set in 1962 Modesto, California, the film is a study of the cruising and rock and roll cultures popular among the post–World War II baby boom generation. The film's meaning in English is that it is a nostalgic look at teenage life in the early 1960s. |
+| 21 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 22 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
+| 23 | [Gable](http://twitter.com/search?q=Gable) | Gable is a triangular section of wall at the end of a pitched roof. It is the area between the edges of the two sloping sides of a roof. In English, it is also used to refer to the entire end wall of a building, which includes both the gable and any other parts below it. |
+| 24 | [Woodward](http://twitter.com/search?q=Woodward) | N/A |
+| 25 | [Dallas Zoo](http://twitter.com/search?q=Dallas+Zoo) | Dallas Zoo is a zoological park located in Dallas, Texas. It is home to over 2,000 animals representing 406 species. The zoo is divided into several sections, including the Wilds of Africa, the Giants of the Savanna, and the Children's Zoo. Visitors can explore these areas and learn about the animals that inhabit them. |
+| 26 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 27 | [AriZona Iced Tea](http://twitter.com/search?q=AriZona+Iced+Tea) | N/A |
+| 28 | [Mo Wagner](http://twitter.com/search?q=Mo+Wagner) | N/A |
+| 29 | [Raty](http://twitter.com/search?q=Raty) | Raty is a Finnish online payment system that allows customers to pay for goods and services in installments. It is similar to a layaway plan, allowing customers to pay for items over time rather than all at once. The word Raty is derived from the Finnish word "ratkaista," which means "to solve." |
+| 30 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 31 | [Patty Mills](http://twitter.com/search?q=Patty+Mills) | N/A |
+| 32 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 33 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 34 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 35 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 36 | [Tahzjuan](http://twitter.com/search?q=Tahzjuan) | N/A |
+| 37 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 38 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 39 | [Candice](http://twitter.com/search?q=Candice) | N/A |
+| 40 | [Mikal](http://twitter.com/search?q=Mikal) | N/A |
 | 41 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
-| 42 | [Judgement Day](http://twitter.com/search?q=Judgement+Day) | N/A |
-| 43 | [Michael McKean](http://twitter.com/search?q=Michael+McKean) | N/A |
-| 44 | [Happy Days](http://twitter.com/search?q=Happy+Days) | N/A |
-| 45 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
-| 46 | [Patty Mills](http://twitter.com/search?q=Patty+Mills) | N/A |
-| 47 | [The Daily Dump](http://twitter.com/search?q=The+Daily+Dump) | N/A |
-| 48 | [The Conversation](http://twitter.com/search?q=The+Conversation) | N/A |
-| 49 | [Baron Corbin](http://twitter.com/search?q=Baron+Corbin) | Baron Corbin is a professional wrestler currently signed to WWE. His ring name is derived from his real name, Thomas Pestock. The term "Baron" is a title of nobility, while "Corbin" is an old French word meaning "raven". |
+| 42 | [Chris and Patrick](http://twitter.com/search?q=Chris+and+Patrick) | Chris and Patrick is a phrase that is used to refer to two people who are close friends. It can also be used to describe a situation in which two people are working together on something. |
+| 43 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 44 | [Penny Marshall](http://twitter.com/search?q=Penny+Marshall) | N/A |
+| 45 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 46 | [Latto](http://twitter.com/search?q=Latto) | N/A |
+| 47 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
+| 48 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 49 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
 
 
 

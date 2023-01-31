@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-01-31 02:40:16 UTC`
+📆 Last Updated: `2023-01-31 03:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,21 +18,21 @@ This is top 50 for Kuwait
 | 1 | [#تدليس_المعارضه_الوهميه](http://twitter.com/search?q=%23%d8%aa%d8%af%d9%84%d9%8a%d8%b3_%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d8%b6%d9%87_%d8%a7%d9%84%d9%88%d9%87%d9%85%d9%8a%d9%87) | #تدليس_المعارضه_الوهميه is an Arabic hashtag that translates to "exposing false opposition". It is used to call attention to instances of people or groups who are pretending to oppose something, but in reality are not taking any meaningful action. |
 | 2 | [#صبي_حرامي_الناقلات](http://twitter.com/search?q=%23%d8%b5%d8%a8%d9%8a_%d8%ad%d8%b1%d8%a7%d9%85%d9%8a_%d8%a7%d9%84%d9%86%d8%a7%d9%82%d9%84%d8%a7%d8%aa) | N/A |
 | 3 | [#مقلوبه_اني_وداني](http://twitter.com/search?q=%23%d9%85%d9%82%d9%84%d9%88%d8%a8%d9%87_%d8%a7%d9%86%d9%8a_%d9%88%d8%af%d8%a7%d9%86%d9%8a) | #مقلوبه_اني_وداني is an Arabic phrase that translates to "I'm broken and I know it". It is often used to express feelings of sadness or despair. |
-| 4 | [عدي الصيفي](http://twitter.com/search?q=%d8%b9%d8%af%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
-| 5 | [#شعيب_المويزري](http://twitter.com/search?q=%23%d8%b4%d8%b9%d9%8a%d8%a8_%d8%a7%d9%84%d9%85%d9%88%d9%8a%d8%b2%d8%b1%d9%8a) | N/A |
-| 6 | [#اربح_مع_بوبيان](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a8%d8%ad_%d9%85%d8%b9_%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86) | N/A |
-| 7 | [فرع الرابيه](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
+| 4 | [#شعيب_المويزري](http://twitter.com/search?q=%23%d8%b4%d8%b9%d9%8a%d8%a8_%d8%a7%d9%84%d9%85%d9%88%d9%8a%d8%b2%d8%b1%d9%8a) | N/A |
+| 5 | [#اربح_مع_بوبيان](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a8%d8%ad_%d9%85%d8%b9_%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86) | N/A |
+| 6 | [فرع الرابيه](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
+| 7 | [عدي الصيفي](http://twitter.com/search?q=%d8%b9%d8%af%d9%8a+%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
 | 8 | [يابو عيد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%8a%d8%af) | N/A |
 | 9 | [العماله المنزليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%85%d9%86%d8%b2%d9%84%d9%8a%d9%87) | N/A |
 | 10 | [علي المفيدي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%81%d9%8a%d8%af%d9%8a) | N/A |
-| 11 | [عاليه الخالد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 12 | [ثامر السويط](http://twitter.com/search?q=%d8%ab%d8%a7%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b7) | N/A |
-| 13 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 11 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 12 | [عاليه الخالد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 13 | [ثامر السويط](http://twitter.com/search?q=%d8%ab%d8%a7%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b7) | N/A |
 | 14 | [نادي القادسيه](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d9%87) | N/A |
-| 15 | [ماي غريب](http://twitter.com/search?q=%d9%85%d8%a7%d9%8a+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
-| 16 | [ابو عبدالله](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 17 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 18 | [الدوري الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
+| 15 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 16 | [ماي غريب](http://twitter.com/search?q=%d9%85%d8%a7%d9%8a+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
+| 17 | [ابو عبدالله](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 18 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 19 | [خليل](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84) | N/A |
 | 20 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 21 | [عبدالمجيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Kuwait
 | 45 | [الاجيال القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
 | 46 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
 | 47 | [الشعب الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
-| 48 | [العيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 49 | [المواطن الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
-| 50 | [علي الاقل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
+| 48 | [علي الاقل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
+| 49 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 50 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
 
 
 

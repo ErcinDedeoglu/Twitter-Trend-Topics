@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-01-31 02:39:42 UTC`
+📆 Last Updated: `2023-01-31 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
+| 1 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
+| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 3 | [#NFLPlayoffs](http://twitter.com/search?q=%23NFLPlayoffs) | #NFLPlayoffs is a hashtag used on social media to refer to the National Football League (NFL) playoffs. It is used to discuss the teams, players, and games that are part of the NFL postseason. |
 | 4 | [Reed](http://twitter.com/search?q=Reed) | N/A |
 | 5 | [#crimecall](http://twitter.com/search?q=%23crimecall) | N/A |
@@ -28,7 +28,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 11 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 12 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
 | 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 14 | [Kitty Holland](http://twitter.com/search?q=Kitty+Holland) | N/A |
+| 14 | [kitty holland](http://twitter.com/search?q=kitty+holland) | N/A |
 | 15 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
 | 16 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 | 17 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 26 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
 | 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 28 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 29 | [Gript](http://twitter.com/search?q=Gript) | N/A |
+| 29 | [gript](http://twitter.com/search?q=gript) | N/A |
 | 30 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
 | 31 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 32 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
@@ -57,12 +57,12 @@ This is top 50 for [Ireland](</Ireland>)
 | 40 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
 | 41 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
 | 42 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 43 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
-| 44 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
-| 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 46 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
-| 47 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 48 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 43 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 44 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
+| 45 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 46 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 47 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
+| 48 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 49 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
 
 

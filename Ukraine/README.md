@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-01-31 02:40:19 UTC`
+📆 Last Updated: `2023-01-31 03:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for Ukraine
 | 10 | [#RussiaIsANaziState](http://twitter.com/search?q=%23RussiaIsANaziState) | N/A |
 | 11 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 12 | [харьков](http://twitter.com/search?q=%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2) | N/A |
-| 13 | [#DemocracyUnderAttack](http://twitter.com/search?q=%23DemocracyUnderAttack) | N/A |
+| 13 | [#democracyunderattack](http://twitter.com/search?q=%23democracyunderattack) | N/A |
 | 14 | [бпла](http://twitter.com/search?q=%d0%b1%d0%bf%d0%bb%d0%b0) | N/A |
 | 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 16 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
@@ -50,11 +50,11 @@ This is top 50 for Ukraine
 | 33 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
 | 34 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
 | 35 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 36 | [Русские](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b5) | N/A |
+| 36 | [русские](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d0%b5) | N/A |
 | 37 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
 | 38 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 39 | [Гарно](http://twitter.com/search?q=%d0%93%d0%b0%d1%80%d0%bd%d0%be) | N/A |
-| 40 | [Слава Украине](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0+%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 39 | [гарно](http://twitter.com/search?q=%d0%b3%d0%b0%d1%80%d0%bd%d0%be) | N/A |
+| 40 | [слава украине](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 41 | [Фейк](http://twitter.com/search?q=%d0%a4%d0%b5%d0%b9%d0%ba) | N/A |
 | 42 | [Самая](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%b0%d1%8f) | N/A |
 | 43 | [порох](http://twitter.com/search?q=%d0%bf%d0%be%d1%80%d0%be%d1%85) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Ukraine
 | 47 | [Challenger 2](http://twitter.com/search?q=Challenger+2) | N/A |
 | 48 | [запад](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
 | 49 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 50 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 50 | [согласен](http://twitter.com/search?q=%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
 
 
 

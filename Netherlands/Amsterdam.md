@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-01-31 02:39:46 UTC`
+📆 Last Updated: `2023-01-31 03:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 10 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 11 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
 | 12 | [Philips](http://twitter.com/search?q=Philips) | N/A |
-| 13 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
-| 14 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
+| 13 | [willem ii](http://twitter.com/search?q=willem+ii) | N/A |
+| 14 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
 | 15 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
 | 16 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
 | 17 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 19 | [Troela](http://twitter.com/search?q=Troela) | N/A |
 | 20 | [Belt](http://twitter.com/search?q=Belt) | N/A |
 | 21 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
-| 22 | [Joop](http://twitter.com/search?q=Joop) | N/A |
+| 22 | [joop](http://twitter.com/search?q=joop) | N/A |
 | 23 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
 | 24 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
 | 25 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 31 | [gorinchem](http://twitter.com/search?q=gorinchem) | N/A |
 | 32 | [raad van state](http://twitter.com/search?q=raad+van+state) | N/A |
 | 33 | [ook nederland](http://twitter.com/search?q=ook+nederland) | N/A |
-| 34 | [Den Uyl](http://twitter.com/search?q=Den+Uyl) | N/A |
+| 34 | [den uyl](http://twitter.com/search?q=den+uyl) | N/A |
 | 35 | [joep](http://twitter.com/search?q=joep) | N/A |
 | 36 | [Rood](http://twitter.com/search?q=Rood) | N/A |
-| 37 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
-| 38 | [pröpper](http://twitter.com/search?q=pr%c3%b6pper) | N/A |
-| 39 | [Brenet](http://twitter.com/search?q=Brenet) | N/A |
-| 40 | [luik](http://twitter.com/search?q=luik) | N/A |
-| 41 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 42 | [trefbal](http://twitter.com/search?q=trefbal) | N/A |
-| 43 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 44 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 45 | [welterusten](http://twitter.com/search?q=welterusten) | N/A |
-| 46 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 47 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 48 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 49 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
-| 50 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
+| 37 | [pröpper](http://twitter.com/search?q=pr%c3%b6pper) | N/A |
+| 38 | [Brenet](http://twitter.com/search?q=Brenet) | N/A |
+| 39 | [luik](http://twitter.com/search?q=luik) | N/A |
+| 40 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 41 | [trefbal](http://twitter.com/search?q=trefbal) | N/A |
+| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 43 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 44 | [welterusten](http://twitter.com/search?q=welterusten) | N/A |
+| 45 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 46 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 47 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 48 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
+| 49 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
+| 50 | [hongarije](http://twitter.com/search?q=hongarije) | N/A |
 
 
 

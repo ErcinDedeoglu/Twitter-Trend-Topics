@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-01-31 02:39:47 UTC`
+📆 Last Updated: `2023-01-31 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 11 | [Typen](http://twitter.com/search?q=Typen) | N/A |
 | 12 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
 | 13 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 14 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 14 | [servette](http://twitter.com/search?q=servette) | N/A |
 | 15 | [Basel](http://twitter.com/search?q=Basel) | N/A |
 | 16 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
 | 17 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
@@ -45,23 +45,23 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 29 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
 | 30 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 31 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
-| 32 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 33 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
-| 34 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 35 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 36 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 37 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 38 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
-| 41 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 42 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
-| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 44 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
-| 47 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 31 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 32 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 33 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 34 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 35 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 36 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 37 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 39 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 40 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
+| 41 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 42 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 43 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
+| 46 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 47 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
 
 
 

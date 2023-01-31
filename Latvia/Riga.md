@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-01-31 02:39:47 UTC`
+📆 Last Updated: `2023-01-31 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 9 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 | 10 | [Mans](http://twitter.com/search?q=Mans) | N/A |
 | 11 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 12 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
+| 12 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
 | 13 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
-| 14 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
+| 14 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 15 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 | 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 17 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
@@ -43,8 +43,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 26 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 27 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 28 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 29 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
-| 30 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
+| 29 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 30 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
+| 31 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
 
 
 
