@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-01-31 04:16:34 UTC`
+📆 Last Updated: `2023-01-31 05:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for Algeria
 | 1 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
 | 2 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 3 | [جمال الدين](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 4 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
-| 5 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
-| 6 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 4 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
+| 5 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 6 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
 | 7 | [30 جانفي 2023](http://twitter.com/search?q=30+%d8%ac%d8%a7%d9%86%d9%81%d9%8a+2023) | N/A |
-| 8 | [عبد المجيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 9 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 8 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 9 | [عبد المجيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
 | 10 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
 | 11 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 12 | [الدرك الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d9%83+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
@@ -38,14 +38,14 @@ This is top 50 for Algeria
 | 21 | [الشعب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 22 | [#نجوي_كرم](http://twitter.com/search?q=%23%d9%86%d8%ac%d9%88%d9%8a_%d9%83%d8%b1%d9%85) | N/A |
 | 23 | [علي الاقل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
-| 24 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
+| 24 | [#Yargı](http://twitter.com/search?q=%23Yarg%c4%b1) | Yargı is a Turkish word meaning "judgment" or "verdict". It is used to refer to the decision of a court or other legal authority. |
 | 25 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 26 | [التعاون الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
 | 27 | [#الرييس_تبون](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3_%d8%aa%d8%a8%d9%88%d9%86) | N/A |
 | 28 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
 | 29 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
 | 30 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 31 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 31 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 32 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
 | 33 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
 | 34 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
@@ -55,8 +55,8 @@ This is top 50 for Algeria
 | 38 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
 | 39 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
 | 40 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 41 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 42 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 41 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 42 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 43 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
 | 44 | [علي اليوتيوب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
 | 45 | [الدول العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |

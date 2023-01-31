@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-01-31 04:16:17 UTC`
+📆 Last Updated: `2023-01-31 05:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,8 +36,8 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 19 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
 | 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 21 | [tomorrow is monday](http://twitter.com/search?q=tomorrow+is+monday) | N/A |
-| 22 | [Rinu](http://twitter.com/search?q=Rinu) | N/A |
-| 23 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 22 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 23 | [Rinu](http://twitter.com/search?q=Rinu) | N/A |
 | 24 | [Mr Bones](http://twitter.com/search?q=Mr+Bones) | N/A |
 | 25 | [buy phyna merch](http://twitter.com/search?q=buy+phyna+merch) | N/A |
 | 26 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
@@ -52,19 +52,19 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 35 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
 | 36 | [still for sheggz](http://twitter.com/search?q=still+for+sheggz) | N/A |
 | 37 | [blaqleng](http://twitter.com/search?q=blaqleng) | N/A |
-| 38 | [Ganduje](http://twitter.com/search?q=Ganduje) | N/A |
-| 39 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 38 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 39 | [Ganduje](http://twitter.com/search?q=Ganduje) | N/A |
 | 40 | [shop phyna merch](http://twitter.com/search?q=shop+phyna+merch) | N/A |
 | 41 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
 | 42 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
 | 43 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
 | 44 | [Loftus](http://twitter.com/search?q=Loftus) | N/A |
-| 45 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 46 | [Ballack](http://twitter.com/search?q=Ballack) | Ballack is a German surname derived from the word "ballen," which means "to dance." In English, it can be translated to mean "dancer." |
-| 47 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 48 | [Mr Money](http://twitter.com/search?q=Mr+Money) | N/A |
-| 49 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 50 | [world phyna day](http://twitter.com/search?q=world+phyna+day) | N/A |
+| 45 | [Ballack](http://twitter.com/search?q=Ballack) | Ballack is a German surname derived from the word "ballen," which means "to dance." In English, it can be translated to mean "dancer." |
+| 46 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 47 | [Mr Money](http://twitter.com/search?q=Mr+Money) | N/A |
+| 48 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 49 | [Sanwo Olu](http://twitter.com/search?q=Sanwo+Olu) | N/A |
+| 50 | [Sell](http://twitter.com/search?q=Sell) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-01-31 04:16:03 UTC`
+📆 Last Updated: `2023-01-31 05:15:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Poland](</Poland>)
 | 7 | [#cragór](http://twitter.com/search?q=%23crag%c3%b3r) | N/A |
 | 8 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
 | 9 | [#legkor](http://twitter.com/search?q=%23legkor) | N/A |
-| 10 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 11 | [Billa](http://twitter.com/search?q=Billa) | N/A |
+| 10 | [Billa](http://twitter.com/search?q=Billa) | N/A |
+| 11 | [F-16](http://twitter.com/search?q=F-16) | N/A |
 | 12 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 13 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
+| 13 | [patryk](http://twitter.com/search?q=patryk) | N/A |
 | 14 | [poncyliusz](http://twitter.com/search?q=poncyliusz) | N/A |
 | 15 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
 | 16 | [nitrasa](http://twitter.com/search?q=nitrasa) | N/A |
 | 17 | [gual](http://twitter.com/search?q=gual) | N/A |
-| 18 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 19 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 20 | [iranie](http://twitter.com/search?q=iranie) | N/A |
-| 21 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 22 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 23 | [lechii](http://twitter.com/search?q=lechii) | N/A |
-| 24 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
-| 25 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
-| 26 | [zielińskiego](http://twitter.com/search?q=zieli%c5%84skiego) | N/A |
-| 27 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
-| 28 | [juras](http://twitter.com/search?q=juras) | N/A |
-| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 30 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 31 | [dasz](http://twitter.com/search?q=dasz) | N/A |
-| 32 | [Wika](http://twitter.com/search?q=Wika) | N/A |
-| 33 | [wiki](http://twitter.com/search?q=wiki) | N/A |
-| 34 | [japierdole](http://twitter.com/search?q=japierdole) | N/A |
-| 35 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
-| 36 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 37 | [O 13](http://twitter.com/search?q=O+13) | N/A |
-| 38 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
-| 39 | [juszczenko](http://twitter.com/search?q=juszczenko) | N/A |
-| 40 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
-| 41 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
-| 42 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
-| 43 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
-| 44 | [belka](http://twitter.com/search?q=belka) | N/A |
-| 45 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
-| 46 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 47 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 48 | [polska press](http://twitter.com/search?q=polska+press) | N/A |
-| 49 | [nobla](http://twitter.com/search?q=nobla) | N/A |
-| 50 | [cracovia](http://twitter.com/search?q=cracovia) | N/A |
+| 18 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 19 | [iranie](http://twitter.com/search?q=iranie) | N/A |
+| 20 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 21 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 22 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 23 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
+| 24 | [zielińskiego](http://twitter.com/search?q=zieli%c5%84skiego) | N/A |
+| 25 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 26 | [dasz](http://twitter.com/search?q=dasz) | N/A |
+| 27 | [Wika](http://twitter.com/search?q=Wika) | N/A |
+| 28 | [wiki](http://twitter.com/search?q=wiki) | N/A |
+| 29 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 30 | [japierdole](http://twitter.com/search?q=japierdole) | N/A |
+| 31 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
+| 32 | [obajtek](http://twitter.com/search?q=obajtek) | N/A |
+| 33 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
+| 34 | [Juras](http://twitter.com/search?q=Juras) | N/A |
+| 35 | [O 13](http://twitter.com/search?q=O+13) | N/A |
+| 36 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
+| 37 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
+| 38 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
+| 39 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
+| 40 | [magda linette](http://twitter.com/search?q=magda+linette) | N/A |
+| 41 | [belka](http://twitter.com/search?q=belka) | N/A |
+| 42 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
+| 43 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 44 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 45 | [polska press](http://twitter.com/search?q=polska+press) | N/A |
+| 46 | [nobla](http://twitter.com/search?q=nobla) | N/A |
+| 47 | [cracovia](http://twitter.com/search?q=cracovia) | N/A |
+| 48 | [muci](http://twitter.com/search?q=muci) | N/A |
+| 49 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
+| 50 | [balcerowicz](http://twitter.com/search?q=balcerowicz) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-01-31 04:16:34 UTC`
+📆 Last Updated: `2023-01-31 05:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,14 +26,14 @@ This is top 50 for Belgium
 | 9 | [Raman](http://twitter.com/search?q=Raman) | N/A |
 | 10 | [luik](http://twitter.com/search?q=luik) | N/A |
 | 11 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 12 | [bart de wever](http://twitter.com/search?q=bart+de+wever) | N/A |
-| 13 | [alsof](http://twitter.com/search?q=alsof) | N/A |
-| 14 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
-| 15 | [cercle](http://twitter.com/search?q=cercle) | N/A |
-| 16 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 17 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 18 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 19 | [walen](http://twitter.com/search?q=walen) | N/A |
+| 12 | [alsof](http://twitter.com/search?q=alsof) | N/A |
+| 13 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 14 | [cercle](http://twitter.com/search?q=cercle) | N/A |
+| 15 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 16 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 17 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 18 | [walen](http://twitter.com/search?q=walen) | N/A |
+| 19 | [Bart De Wever](http://twitter.com/search?q=Bart+De+Wever) | N/A |
 | 20 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
 | 21 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
 | 22 | [Engels](http://twitter.com/search?q=Engels) | N/A |

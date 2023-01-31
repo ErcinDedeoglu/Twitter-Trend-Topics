@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saint Petersburg
 
-📆 Last Updated: `2023-01-31 04:16:22 UTC`
+📆 Last Updated: `2023-01-31 05:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Russia](</Russia>)
 | 2 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
 | 3 | [Отношения](http://twitter.com/search?q=%d0%9e%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
 | 4 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 5 | [Иран](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd) | N/A |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [Иран](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd) | N/A |
 | 7 | [Employ](http://twitter.com/search?q=Employ) | N/A |
 | 8 | [Boss](http://twitter.com/search?q=Boss) | N/A |
 | 9 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
 | 10 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 11 | [подмосковье](http://twitter.com/search?q=%d0%bf%d0%be%d0%b4%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
-| 12 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 13 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
-| 14 | [спать](http://twitter.com/search?q=%d1%81%d0%bf%d0%b0%d1%82%d1%8c) | N/A |
-| 15 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 16 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 17 | [Чонгука](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 18 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 20 | [турция](http://twitter.com/search?q=%d1%82%d1%83%d1%80%d1%86%d0%b8%d1%8f) | N/A |
-| 21 | [желаю](http://twitter.com/search?q=%d0%b6%d0%b5%d0%bb%d0%b0%d1%8e) | N/A |
-| 22 | [#DimashQudaibergen](http://twitter.com/search?q=%23DimashQudaibergen) | N/A |
-| 23 | [чехии](http://twitter.com/search?q=%d1%87%d0%b5%d1%85%d0%b8%d0%b8) | N/A |
-| 24 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 11 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 12 | [подмосковье](http://twitter.com/search?q=%d0%bf%d0%be%d0%b4%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
+| 13 | [спать](http://twitter.com/search?q=%d1%81%d0%bf%d0%b0%d1%82%d1%8c) | N/A |
+| 14 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 15 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 16 | [Чонгука](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 17 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [турция](http://twitter.com/search?q=%d1%82%d1%83%d1%80%d1%86%d0%b8%d1%8f) | N/A |
+| 20 | [желаю](http://twitter.com/search?q=%d0%b6%d0%b5%d0%bb%d0%b0%d1%8e) | N/A |
+| 21 | [#DimashQudaibergen](http://twitter.com/search?q=%23DimashQudaibergen) | N/A |
+| 22 | [чехии](http://twitter.com/search?q=%d1%87%d0%b5%d1%85%d0%b8%d0%b8) | N/A |
+| 23 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 24 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
 | 25 | [покажи](http://twitter.com/search?q=%d0%bf%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
 | 26 | [доброй](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be%d0%b9) | N/A |
 | 27 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
 | 28 | [Жириновский](http://twitter.com/search?q=%d0%96%d0%b8%d1%80%d0%b8%d0%bd%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
 | 29 | [China](http://twitter.com/search?q=China) | N/A |
-| 30 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
-| 31 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 30 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 31 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
 | 32 | [естественно](http://twitter.com/search?q=%d0%b5%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
 | 33 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
 | 34 | [Казахстан](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b7%d0%b0%d1%85%d1%81%d1%82%d0%b0%d0%bd) | N/A |
 | 35 | [гитлера](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
 | 36 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 37 | [бабченко](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b1%d1%87%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 38 | [альбедо](http://twitter.com/search?q=%d0%b0%d0%bb%d1%8c%d0%b1%d0%b5%d0%b4%d0%be) | N/A |
-| 39 | [олега](http://twitter.com/search?q=%d0%be%d0%bb%d0%b5%d0%b3%d0%b0) | N/A |
-| 40 | [алексей](http://twitter.com/search?q=%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9) | N/A |
-| 41 | [кавеха](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 42 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [#Genshinlmpact](http://twitter.com/search?q=%23Genshinlmpact) | N/A |
-| 45 | [Христа](http://twitter.com/search?q=%d0%a5%d1%80%d0%b8%d1%81%d1%82%d0%b0) | N/A |
-| 46 | [гарри](http://twitter.com/search?q=%d0%b3%d0%b0%d1%80%d1%80%d0%b8) | N/A |
-| 47 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
-| 48 | [ютубе](http://twitter.com/search?q=%d1%8e%d1%82%d1%83%d0%b1%d0%b5) | N/A |
+| 37 | [Яндекс](http://twitter.com/search?q=%d0%af%d0%bd%d0%b4%d0%b5%d0%ba%d1%81) | N/A |
+| 38 | [бабченко](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b1%d1%87%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 39 | [альбедо](http://twitter.com/search?q=%d0%b0%d0%bb%d1%8c%d0%b1%d0%b5%d0%b4%d0%be) | N/A |
+| 40 | [олега](http://twitter.com/search?q=%d0%be%d0%bb%d0%b5%d0%b3%d0%b0) | N/A |
+| 41 | [алексей](http://twitter.com/search?q=%d0%b0%d0%bb%d0%b5%d0%ba%d1%81%d0%b5%d0%b9) | N/A |
+| 42 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 43 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [#Genshinlmpact](http://twitter.com/search?q=%23Genshinlmpact) | N/A |
+| 46 | [Христа](http://twitter.com/search?q=%d0%a5%d1%80%d0%b8%d1%81%d1%82%d0%b0) | N/A |
+| 47 | [гарри](http://twitter.com/search?q=%d0%b3%d0%b0%d1%80%d1%80%d0%b8) | N/A |
+| 48 | [дима](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%b0) | N/A |
 
 
 

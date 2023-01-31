@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-01-31 04:16:09 UTC`
+📆 Last Updated: `2023-01-31 05:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [botkyrka](http://twitter.com/search?q=botkyrka) | N/A |
+| 1 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
 | 2 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 3 | [ebba östlin](http://twitter.com/search?q=ebba+%c3%b6stlin) | N/A |
 | 4 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
@@ -23,11 +23,11 @@ This is top 50 for [Sweden](</Sweden>)
 | 6 | [frycklund](http://twitter.com/search?q=frycklund) | N/A |
 | 7 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 8 | [Sonos](http://twitter.com/search?q=Sonos) | N/A |
-| 9 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 10 | [lindbom](http://twitter.com/search?q=lindbom) | N/A |
-| 11 | [Kvartal](http://twitter.com/search?q=Kvartal) | N/A |
-| 12 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 13 | [tommy samuelsson](http://twitter.com/search?q=tommy+samuelsson) | N/A |
+| 9 | [lindbom](http://twitter.com/search?q=lindbom) | N/A |
+| 10 | [kvartal](http://twitter.com/search?q=kvartal) | N/A |
+| 11 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 12 | [tommy samuelsson](http://twitter.com/search?q=tommy+samuelsson) | N/A |
+| 13 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 14 | [nubben](http://twitter.com/search?q=nubben) | N/A |
 | 15 | [krister](http://twitter.com/search?q=krister) | N/A |
 | 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
@@ -51,7 +51,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 34 | [reinfeldt](http://twitter.com/search?q=reinfeldt) | N/A |
 | 35 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
 | 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [Krya](http://twitter.com/search?q=Krya) | N/A |
+| 37 | [krya](http://twitter.com/search?q=krya) | N/A |
 | 38 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
 | 39 | [Peking](http://twitter.com/search?q=Peking) | N/A |
 | 40 | [Norway](http://twitter.com/search?q=Norway) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 46 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 47 | [Demokrati](http://twitter.com/search?q=Demokrati) | N/A |
 | 48 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
-| 49 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 49 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 50 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 
 
 

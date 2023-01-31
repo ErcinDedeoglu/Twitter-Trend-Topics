@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-01-31 04:16:07 UTC`
+📆 Last Updated: `2023-01-31 05:15:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,31 +26,31 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 10 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 11 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
-| 12 | [Philips](http://twitter.com/search?q=Philips) | N/A |
-| 13 | [willem ii](http://twitter.com/search?q=willem+ii) | N/A |
-| 14 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
-| 15 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
-| 16 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 12 | [willem ii](http://twitter.com/search?q=willem+ii) | N/A |
+| 13 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
+| 14 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
+| 15 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 16 | [Philips](http://twitter.com/search?q=Philips) | N/A |
 | 17 | [roda jc](http://twitter.com/search?q=roda+jc) | N/A |
 | 18 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
 | 19 | [Troela](http://twitter.com/search?q=Troela) | N/A |
 | 20 | [Belt](http://twitter.com/search?q=Belt) | N/A |
 | 21 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
-| 22 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
-| 23 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 24 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 26 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 27 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 28 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 29 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 30 | [gorinchem](http://twitter.com/search?q=gorinchem) | N/A |
-| 31 | [Joop](http://twitter.com/search?q=Joop) | N/A |
-| 32 | [raad van state](http://twitter.com/search?q=raad+van+state) | N/A |
-| 33 | [ook nederland](http://twitter.com/search?q=ook+nederland) | N/A |
-| 34 | [den uyl](http://twitter.com/search?q=den+uyl) | N/A |
-| 35 | [joep](http://twitter.com/search?q=joep) | N/A |
-| 36 | [Rood](http://twitter.com/search?q=Rood) | N/A |
+| 22 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 25 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 26 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 27 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 28 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 29 | [gorinchem](http://twitter.com/search?q=gorinchem) | N/A |
+| 30 | [Joop](http://twitter.com/search?q=Joop) | N/A |
+| 31 | [raad van state](http://twitter.com/search?q=raad+van+state) | N/A |
+| 32 | [ook nederland](http://twitter.com/search?q=ook+nederland) | N/A |
+| 33 | [den uyl](http://twitter.com/search?q=den+uyl) | N/A |
+| 34 | [joep](http://twitter.com/search?q=joep) | N/A |
+| 35 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
+| 36 | [rood](http://twitter.com/search?q=rood) | N/A |
 | 37 | [luik](http://twitter.com/search?q=luik) | N/A |
 | 38 | [pröpper](http://twitter.com/search?q=pr%c3%b6pper) | N/A |
 | 39 | [brenet](http://twitter.com/search?q=brenet) | N/A |

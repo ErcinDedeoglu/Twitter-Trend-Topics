@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-01-31 04:16:39 UTC`
+📆 Last Updated: `2023-01-31 05:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,20 +15,20 @@ This is top 50 for Sweden
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [botkyrka](http://twitter.com/search?q=botkyrka) | N/A |
+| 1 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
 | 2 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 3 | [ebba östlin](http://twitter.com/search?q=ebba+%c3%b6stlin) | N/A |
 | 4 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 5 | [Bobby Hull](http://twitter.com/search?q=Bobby+Hull) | Bobby Hull is the name of a Canadian former professional ice hockey player. He played for the Chicago Blackhawks, Winnipeg Jets, and Hartford Whalers in the National Hockey League (NHL). He was one of the most prolific scorers in NHL history and was inducted into the Hockey Hall of Fame in 1983. |
 | 6 | [frycklund](http://twitter.com/search?q=frycklund) | N/A |
-| 7 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 8 | [Sonos](http://twitter.com/search?q=Sonos) | N/A |
-| 9 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 10 | [lindbom](http://twitter.com/search?q=lindbom) | N/A |
-| 11 | [Kvartal](http://twitter.com/search?q=Kvartal) | N/A |
-| 12 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 13 | [tommy samuelsson](http://twitter.com/search?q=tommy+samuelsson) | N/A |
-| 14 | [nubben](http://twitter.com/search?q=nubben) | N/A |
+| 7 | [Sonos](http://twitter.com/search?q=Sonos) | N/A |
+| 8 | [lindbom](http://twitter.com/search?q=lindbom) | N/A |
+| 9 | [kvartal](http://twitter.com/search?q=kvartal) | N/A |
+| 10 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 11 | [tommy samuelsson](http://twitter.com/search?q=tommy+samuelsson) | N/A |
+| 12 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 13 | [nubben](http://twitter.com/search?q=nubben) | N/A |
+| 14 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 15 | [krister](http://twitter.com/search?q=krister) | N/A |
 | 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 17 | [postnord](http://twitter.com/search?q=postnord) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Sweden
 | 30 | [italien](http://twitter.com/search?q=italien) | N/A |
 | 31 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
 | 32 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 33 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 34 | [reinfeldt](http://twitter.com/search?q=reinfeldt) | N/A |
-| 35 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
-| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [Krya](http://twitter.com/search?q=Krya) | N/A |
-| 38 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 39 | [Peking](http://twitter.com/search?q=Peking) | N/A |
-| 40 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 41 | [solna](http://twitter.com/search?q=solna) | N/A |
-| 42 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
-| 43 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 44 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 45 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 46 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 47 | [Demokrati](http://twitter.com/search?q=Demokrati) | N/A |
-| 48 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
-| 49 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 33 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 34 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 35 | [reinfeldt](http://twitter.com/search?q=reinfeldt) | N/A |
+| 36 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
+| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 38 | [krya](http://twitter.com/search?q=krya) | N/A |
+| 39 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 40 | [Peking](http://twitter.com/search?q=Peking) | N/A |
+| 41 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 42 | [solna](http://twitter.com/search?q=solna) | N/A |
+| 43 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 44 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 45 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 46 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 47 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 48 | [Demokrati](http://twitter.com/search?q=Demokrati) | N/A |
+| 49 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
+| 50 | [F-16](http://twitter.com/search?q=F-16) | N/A |
 
 
 

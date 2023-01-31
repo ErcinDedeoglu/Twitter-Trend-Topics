@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-01-31 04:16:03 UTC`
+📆 Last Updated: `2023-01-31 05:15:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,14 +18,14 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
 | 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 3 | [Reed](http://twitter.com/search?q=Reed) | N/A |
-| 4 | [#crimecall](http://twitter.com/search?q=%23crimecall) | N/A |
+| 4 | [#CrimeCall](http://twitter.com/search?q=%23CrimeCall) | N/A |
 | 5 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 6 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 7 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 | 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 9 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 10 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 11 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
+| 10 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 11 | [lismore](http://twitter.com/search?q=lismore) | N/A |
 | 12 | [#DPWorldTour](http://twitter.com/search?q=%23DPWorldTour) | N/A |
 | 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 14 | [kitty holland](http://twitter.com/search?q=kitty+holland) | N/A |
