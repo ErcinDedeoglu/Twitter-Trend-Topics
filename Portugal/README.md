@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-01-31 10:17:20 UTC`
+📆 Last Updated: `2023-01-31 11:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Portugal
 | 4 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
 | 5 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 | 6 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 7 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 7 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
 | 8 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 9 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 10 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
+| 10 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 11 | [pizzi](http://twitter.com/search?q=pizzi) | N/A |
-| 12 | [#valetudo](http://twitter.com/search?q=%23valetudo) | N/A |
+| 12 | [#ValeTudo](http://twitter.com/search?q=%23ValeTudo) | N/A |
 | 13 | [Girão](http://twitter.com/search?q=Gir%c3%a3o) | N/A |
-| 14 | [Mafra](http://twitter.com/search?q=Mafra) | N/A |
+| 14 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 17 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 18 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 19 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 20 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 21 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | N/A |
-| 22 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 16 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
+| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 18 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 19 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | N/A |
+| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 21 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 22 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 23 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
 | 24 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 25 | [Adan](http://twitter.com/search?q=Adan) | N/A |
-| 26 | [gil dias](http://twitter.com/search?q=gil+dias) | N/A |
-| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 28 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 29 | [Vitória](http://twitter.com/search?q=Vit%c3%b3ria) | N/A |
-| 30 | [varandas](http://twitter.com/search?q=varandas) | N/A |
-| 31 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 32 | [Bruma](http://twitter.com/search?q=Bruma) | Bruma is a Portuguese word meaning "dawn" or "dusk". It is often used to refer to the period of time just before sunrise or just after sunset. |
-| 33 | [Celta](http://twitter.com/search?q=Celta) | N/A |
+| 25 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 27 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 28 | [gil dias](http://twitter.com/search?q=gil+dias) | N/A |
+| 29 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 30 | [Mafra](http://twitter.com/search?q=Mafra) | N/A |
+| 31 | [Varandas](http://twitter.com/search?q=Varandas) | N/A |
+| 32 | [Vitória](http://twitter.com/search?q=Vit%c3%b3ria) | N/A |
+| 33 | [Bruma](http://twitter.com/search?q=Bruma) | Bruma is a Portuguese word meaning "dawn" or "dusk". It is often used to refer to the period of time just before sunrise or just after sunset. |
 | 34 | [Bjork](http://twitter.com/search?q=Bjork) | Bjork is the stage name of Icelandic singer-songwriter and actress Björk Guðmundsdóttir. She is known for her avant-garde musical style, which incorporates elements of electronic, experimental, classical, trip hop, and alternative rock. The name Bjork is derived from the Old Norse word björk, meaning birch tree. |
-| 35 | [otávio](http://twitter.com/search?q=ot%c3%a1vio) | N/A |
-| 36 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 35 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 36 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
 | 37 | [keyla brasil](http://twitter.com/search?q=keyla+brasil) | N/A |
 | 38 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 39 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 41 | [#nfleleven](http://twitter.com/search?q=%23nfleleven) | N/A |
-| 42 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 43 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
-| 44 | [Yanomami](http://twitter.com/search?q=Yanomami) | Yanomami is the name of an indigenous people living in the Amazon rainforest in South America. The word Yanomami is derived from the language of the Yanomami people and means “human being” or “person”. |
-| 45 | [Diomandé](http://twitter.com/search?q=Diomand%c3%a9) | N/A |
-| 46 | [Enfermeiros](http://twitter.com/search?q=Enfermeiros) | N/A |
-| 47 | [Rui Moreira](http://twitter.com/search?q=Rui+Moreira) | N/A |
-| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 49 | [Gil Vicente](http://twitter.com/search?q=Gil+Vicente) | N/A |
-| 50 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 39 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 40 | [#nfleleven](http://twitter.com/search?q=%23nfleleven) | N/A |
+| 41 | [Enfermeiros](http://twitter.com/search?q=Enfermeiros) | N/A |
+| 42 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 43 | [Diomandé](http://twitter.com/search?q=Diomand%c3%a9) | N/A |
+| 44 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 45 | [Rui Moreira](http://twitter.com/search?q=Rui+Moreira) | N/A |
+| 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 47 | [O TC](http://twitter.com/search?q=O+TC) | N/A |
+| 48 | [Gil Vicente](http://twitter.com/search?q=Gil+Vicente) | N/A |
+| 49 | [London](http://twitter.com/search?q=London) | N/A |
+| 50 | [Arouca](http://twitter.com/search?q=Arouca) | Arouca is a municipality in Portugal. It is located in the district of Aveiro and has a population of approximately 30,000 people. The name Arouca comes from the Latin word "aruca" which means "rocky place". In English, Arouca can be translated to mean "rocky place". |
 
 
 

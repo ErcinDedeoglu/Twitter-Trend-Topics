@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-01-31 10:17:14 UTC`
+📆 Last Updated: `2023-01-31 11:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 2 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 3 | [#Wordle591](http://twitter.com/search?q=%23Wordle591) | N/A |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [#PrayForSchaffrillas](http://twitter.com/search?q=%23PrayForSchaffrillas) | N/A |
-| 6 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
-| 7 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 8 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 9 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 10 | [AriZona Iced Tea](http://twitter.com/search?q=AriZona+Iced+Tea) | N/A |
-| 11 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 12 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
-| 13 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 14 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
-| 15 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 16 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
-| 17 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 19 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 20 | [Cutie Honey](http://twitter.com/search?q=Cutie+Honey) | N/A |
-| 21 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 22 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 23 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 24 | [Donald Sutherland](http://twitter.com/search?q=Donald+Sutherland) | N/A |
-| 25 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 26 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 27 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 28 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 29 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 30 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 31 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 1 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 2 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 3 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 4 | [#Wordle591](http://twitter.com/search?q=%23Wordle591) | N/A |
+| 5 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 6 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
+| 7 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 8 | [Jorginho to Arsenal](http://twitter.com/search?q=Jorginho+to+Arsenal) | Jorginho to Arsenal is a phrase used to refer to the potential transfer of Italian midfielder Jorginho from Chelsea Football Club to Arsenal Football Club. It is a phrase used by fans and media outlets to speculate on the possibility of the transfer. |
+| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 11 | [#PrayForSchaffrillas](http://twitter.com/search?q=%23PrayForSchaffrillas) | N/A |
+| 12 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
+| 13 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
+| 14 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 15 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 16 | [arizona iced tea](http://twitter.com/search?q=arizona+iced+tea) | N/A |
+| 17 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 18 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
+| 19 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
+| 20 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
+| 21 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
+| 22 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 23 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
+| 24 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 25 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 26 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 27 | [Piccolo](http://twitter.com/search?q=Piccolo) | Piccolo is an Italian word meaning "small" or "little". It is often used to describe a small musical instrument, such as a flute or a trumpet. It can also be used to describe something that is small in size or amount. |
+| 28 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
+| 29 | [Donald Sutherland](http://twitter.com/search?q=Donald+Sutherland) | N/A |
+| 30 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 31 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
 | 32 | [Mordecai](http://twitter.com/search?q=Mordecai) | N/A |
-| 33 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 34 | [Rigby](http://twitter.com/search?q=Rigby) | N/A |
-| 35 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
-| 36 | [Reboot](http://twitter.com/search?q=Reboot) | N/A |
-| 37 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 38 | [Rick Boogs](http://twitter.com/search?q=Rick+Boogs) | Rick Boogs is a slang term used to describe someone who is acting recklessly or foolishly. It can also be used to describe someone who is being overly dramatic or making a scene. |
-| 39 | [Atrioc](http://twitter.com/search?q=Atrioc) | Atrioc is a term used in the gaming community to refer to a player who is highly skilled and experienced in a particular game. It is derived from the Latin word "atrios" which means "skilled". |
-| 40 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 41 | [Piccolo](http://twitter.com/search?q=Piccolo) | Piccolo is an Italian word meaning "small" or "little". It is often used to describe a small musical instrument, such as a flute or a trumpet. It can also be used to describe something that is small in size or amount. |
-| 42 | [Gunn](http://twitter.com/search?q=Gunn) | N/A |
-| 43 | [Episode 3 of The Last of Us](http://twitter.com/search?q=Episode+3+of+The+Last+of+Us) | N/A |
-| 44 | [American Graffiti](http://twitter.com/search?q=American+Graffiti) | American Graffiti is a 1973 American coming-of-age comedy film directed and co-written by George Lucas. Set in 1962 Modesto, California, the film is a study of the cruising and rock and roll cultures popular among the post–World War II baby boom generation. The film's meaning in English is that it is a nostalgic look at teenage life in the early 1960s. |
-| 45 | [Mikal Bridges](http://twitter.com/search?q=Mikal+Bridges) | N/A |
-| 46 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
+| 33 | [Rigby](http://twitter.com/search?q=Rigby) | N/A |
+| 34 | [Atrioc](http://twitter.com/search?q=Atrioc) | Atrioc is a term used in the gaming community to refer to a player who is highly skilled and experienced in a particular game. It is derived from the Latin word "atrios" which means "skilled". |
+| 35 | [CARMELLA](http://twitter.com/search?q=CARMELLA) | N/A |
+| 36 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 37 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 38 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
+| 39 | [Episode 3 of The Last of Us](http://twitter.com/search?q=Episode+3+of+The+Last+of+Us) | N/A |
+| 40 | [American Graffiti](http://twitter.com/search?q=American+Graffiti) | American Graffiti is a 1973 American coming-of-age comedy film directed and co-written by George Lucas. Set in 1962 Modesto, California, the film is a study of the cruising and rock and roll cultures popular among the post–World War II baby boom generation. The film's meaning in English is that it is a nostalgic look at teenage life in the early 1960s. |
+| 41 | [Lubbock](http://twitter.com/search?q=Lubbock) | N/A |
+| 42 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 43 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | N/A |
+| 44 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 45 | [#WreckEm](http://twitter.com/search?q=%23WreckEm) | N/A |
+| 46 | [#CovidIsNotOver](http://twitter.com/search?q=%23CovidIsNotOver) | N/A |
 
 
 

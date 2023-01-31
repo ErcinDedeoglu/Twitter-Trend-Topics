@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-01-31 10:17:18 UTC`
+📆 Last Updated: `2023-01-31 11:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,39 +15,38 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
-| 2 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 3 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
-| 4 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
-| 5 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
+| 1 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 2 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
+| 3 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 4 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
+| 5 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
 | 6 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
 | 7 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
-| 8 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 9 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
-| 10 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
-| 11 | [vajag](http://twitter.com/search?q=vajag) | N/A |
-| 12 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 13 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 14 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
-| 15 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
-| 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 17 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 18 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 19 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
-| 20 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 21 | [biju](http://twitter.com/search?q=biju) | N/A |
-| 22 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 23 | [Krieviju](http://twitter.com/search?q=Krieviju) | N/A |
-| 24 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 8 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
+| 9 | [vajag](http://twitter.com/search?q=vajag) | N/A |
+| 10 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 11 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 12 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 13 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 14 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 15 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 16 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 17 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
+| 18 | [biju](http://twitter.com/search?q=biju) | N/A |
+| 19 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 20 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 21 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 22 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 23 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 24 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 25 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
-| 26 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 27 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
-| 28 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
-| 29 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 30 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 31 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 32 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 33 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
+| 26 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
+| 27 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 28 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
+| 29 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
+| 30 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
+| 31 | [#hockey](http://twitter.com/search?q=%23hockey) | N/A |
+| 32 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-01-31 10:17:15 UTC`
+📆 Last Updated: `2023-01-31 11:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Austria
 | 2 | [#Hergovich](http://twitter.com/search?q=%23Hergovich) | N/A |
 | 3 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
 | 4 | [schnabl](http://twitter.com/search?q=schnabl) | N/A |
-| 5 | [#ltwnoe](http://twitter.com/search?q=%23ltwnoe) | N/A |
-| 6 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 7 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 8 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 9 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 11 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 12 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
-| 13 | [traiskirchen](http://twitter.com/search?q=traiskirchen) | N/A |
-| 14 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
-| 15 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 16 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 17 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
-| 18 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
-| 19 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 20 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 21 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 22 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 23 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
-| 24 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
-| 25 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
-| 26 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 27 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 28 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 29 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
-| 30 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
-| 31 | [Aufgaben](http://twitter.com/search?q=Aufgaben) | N/A |
-| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 33 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 36 | [Wählerinnen](http://twitter.com/search?q=W%c3%a4hlerinnen) | N/A |
-| 37 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 38 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 39 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 40 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 41 | [Graz](http://twitter.com/search?q=Graz) | N/A |
-| 42 | [Mikl-Leitner](http://twitter.com/search?q=Mikl-Leitner) | N/A |
-| 43 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 44 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 45 | [leut](http://twitter.com/search?q=leut) | N/A |
-| 46 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 47 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 48 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
-| 49 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 50 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 5 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 6 | [Babler](http://twitter.com/search?q=Babler) | N/A |
+| 7 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
+| 8 | [#spoe](http://twitter.com/search?q=%23spoe) | N/A |
+| 9 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 10 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 11 | [traiskirchen](http://twitter.com/search?q=traiskirchen) | N/A |
+| 12 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 13 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 14 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 15 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 16 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 17 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
+| 18 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 19 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
+| 20 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 21 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 22 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
+| 23 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
+| 24 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 25 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 26 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 27 | [Vorzugsstimmen](http://twitter.com/search?q=Vorzugsstimmen) | N/A |
+| 28 | [Aufgaben](http://twitter.com/search?q=Aufgaben) | N/A |
+| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 30 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 32 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 33 | [Wählerinnen](http://twitter.com/search?q=W%c3%a4hlerinnen) | N/A |
+| 34 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 35 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 36 | [Gratuliere](http://twitter.com/search?q=Gratuliere) | N/A |
+| 37 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 38 | [auswahl](http://twitter.com/search?q=auswahl) | N/A |
+| 39 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 40 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
+| 41 | [leut](http://twitter.com/search?q=leut) | N/A |
+| 42 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 43 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 44 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 45 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
+| 46 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 47 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 48 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
+| 49 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 50 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
 
 
 

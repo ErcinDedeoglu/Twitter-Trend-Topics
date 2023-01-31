@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-01-31 10:16:43 UTC`
+📆 Last Updated: `2023-01-31 11:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
 | 2 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
 | 3 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 4 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 6 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 7 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 8 | [LUDMILLA SOU MA](http://twitter.com/search?q=LUDMILLA+SOU+MA) | LUDMILLA SOU MA is a phrase in Portuguese which translates to "I am Ludmilla". It is a statement of identity, used to introduce oneself. |
-| 9 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 8 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 9 | [LUDMILLA SOU MA](http://twitter.com/search?q=LUDMILLA+SOU+MA) | LUDMILLA SOU MA is a phrase in Portuguese which translates to "I am Ludmilla". It is a statement of identity, used to introduce oneself. |
 | 10 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
 | 11 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 12 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
-| 13 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 14 | [#PachecoNAO](http://twitter.com/search?q=%23PachecoNAO) | N/A |
-| 15 | [Dummy](http://twitter.com/search?q=Dummy) | Dummy is a slang term used to describe someone who is foolish or gullible. It can also be used to describe someone who is not very intelligent or knowledgeable. |
-| 16 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 17 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 18 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 20 | [bruno gaga](http://twitter.com/search?q=bruno+gaga) | N/A |
-| 21 | [dr fred](http://twitter.com/search?q=dr+fred) | "Dr Fred" is a nickname for Dr. Frederick Banting, a Canadian medical scientist who was the co-discoverer of insulin. He is credited with saving the lives of millions of people with diabetes. The nickname "Dr Fred" is used to refer to him in a friendly and informal way. |
-| 22 | [Regina Duarte](http://twitter.com/search?q=Regina+Duarte) | Regina Duarte is a Brazilian actress, singer, and politician. In English, her name means "Queen of the Gift". |
-| 23 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 24 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 12 | [Mita](http://twitter.com/search?q=Mita) | N/A |
+| 13 | [MARINHO NÃO](http://twitter.com/search?q=MARINHO+N%c3%83O) | N/A |
+| 14 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 15 | [#PachecoNAO](http://twitter.com/search?q=%23PachecoNAO) | N/A |
+| 16 | [Dummy](http://twitter.com/search?q=Dummy) | Dummy is a slang term used to describe someone who is foolish or gullible. It can also be used to describe someone who is not very intelligent or knowledgeable. |
+| 17 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 18 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 19 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 20 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 21 | [Regina Duarte](http://twitter.com/search?q=Regina+Duarte) | Regina Duarte is a Brazilian actress, singer, and politician. In English, her name means "Queen of the Gift". |
+| 22 | [bruno gaga](http://twitter.com/search?q=bruno+gaga) | N/A |
+| 23 | [DR FRED](http://twitter.com/search?q=DR+FRED) | N/A |
+| 24 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
 | 25 | [tortada](http://twitter.com/search?q=tortada) | Tortada is a Spanish word that refers to a type of flatbread or cake. It is usually made with wheat flour, eggs, and sugar, and can be either sweet or savory. In English, it is sometimes referred to as a "torta" or "tortilla cake". |
-| 26 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 27 | [HAIM](http://twitter.com/search?q=HAIM) | HAIM is an American pop rock band from Los Angeles, California. The band consists of three sisters: Este, Danielle, and Alana Haim. The name HAIM is derived from the sisters' surnames. In English, HAIM means "life" or "living". |
-| 28 | [Anhangabaú](http://twitter.com/search?q=Anhangaba%c3%ba) | Anhangabaú is a neighborhood in the city of São Paulo, Brazil. The name Anhangabaú comes from the Tupi language and means "place of the anhangá (a type of bird)". In English, it can be translated as "Anhangá Place". |
-| 29 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 30 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 31 | [calegari](http://twitter.com/search?q=calegari) | N/A |
+| 26 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 27 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 28 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 29 | [Haim](http://twitter.com/search?q=Haim) | N/A |
+| 30 | [Anhangabaú](http://twitter.com/search?q=Anhangaba%c3%ba) | Anhangabaú is a neighborhood in the city of São Paulo, Brazil. The name Anhangabaú comes from the Tupi language and means "place of the anhangá (a type of bird)". In English, it can be translated as "Anhangá Place". |
+| 31 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
 | 32 | [Estácio](http://twitter.com/search?q=Est%c3%a1cio) | Estácio is a Brazilian university network. It is the largest private higher education institution in Brazil, with more than 300,000 students enrolled in over 100 campuses across the country. The name Estácio comes from the Latin word "stacio", which means "to stand". In English, Estácio can be translated as "standing place". |
-| 33 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 33 | [Calegari](http://twitter.com/search?q=Calegari) | Calegari is an Italian surname derived from the Latin word caligarius, meaning "soldier in boots". It is most commonly found in northern Italy, particularly in the regions of Lombardy and Piedmont. In English, the name can be translated to mean "booted soldier". |
 | 34 | [Orejuela](http://twitter.com/search?q=Orejuela) | Orejuela is a Spanish word that literally translates to "little ear". It is used to describe something small or insignificant. |
 | 35 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 36 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
-| 37 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 38 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 36 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 37 | [São João Bosco](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+Bosco) | N/A |
+| 38 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
 | 39 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 40 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 41 | [30praum](http://twitter.com/search?q=30praum) | 30praum is a Japanese lifestyle brand that focuses on creating products that are both stylish and functional. The name "30praum" is derived from the German words "30" (dreißig) and "Raum" (room), which together mean "30 rooms". This refers to the idea of creating a space where people can relax and enjoy life. |
+| 40 | [30praum](http://twitter.com/search?q=30praum) | 30praum is a Japanese lifestyle brand that focuses on creating products that are both stylish and functional. The name "30praum" is derived from the German words "30" (dreißig) and "Raum" (room), which together mean "30 rooms". This refers to the idea of creating a space where people can relax and enjoy life. |
+| 41 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
 | 42 | [O Vasco](http://twitter.com/search?q=O+Vasco) | O Vasco is a popular chant sung by supporters of the Brazilian football club Club de Regatas Vasco da Gama. The chant translates to "Oh Vasco" and is used to show support for the team. |
-| 43 | [yago felipe](http://twitter.com/search?q=yago+felipe) | N/A |
-| 44 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 45 | [lionel pec](http://twitter.com/search?q=lionel+pec) | N/A |
-| 46 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 47 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 48 | [Milly Lacombe](http://twitter.com/search?q=Milly+Lacombe) | N/A |
+| 43 | [lionel pec](http://twitter.com/search?q=lionel+pec) | N/A |
+| 44 | [Milly Lacombe](http://twitter.com/search?q=Milly+Lacombe) | N/A |
+| 45 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 46 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
+| 47 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
+| 48 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
 | 49 | [Dummies](http://twitter.com/search?q=Dummies) | N/A |
 | 50 | [adson](http://twitter.com/search?q=adson) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-01-31 10:16:53 UTC`
+📆 Last Updated: `2023-01-31 11:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 2 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 3 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 1 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 3 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 | 4 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 5 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 6 | [Opus](http://twitter.com/search?q=Opus) | N/A |
-| 7 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 5 | [Opus](http://twitter.com/search?q=Opus) | N/A |
+| 6 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 7 | [Claire](http://twitter.com/search?q=Claire) | N/A |
 | 8 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 9 | [#4Corners](http://twitter.com/search?q=%234Corners) | N/A |
-| 10 | [Rachelle Miller](http://twitter.com/search?q=Rachelle+Miller) | N/A |
+| 9 | [Rachelle Miller](http://twitter.com/search?q=Rachelle+Miller) | N/A |
+| 10 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 11 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
-| 12 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
-| 13 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 14 | [Josh Landis](http://twitter.com/search?q=Josh+Landis) | N/A |
-| 15 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 16 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 17 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
-| 18 | [Sally Rugg](http://twitter.com/search?q=Sally+Rugg) | N/A |
-| 19 | [ClubsNSW](http://twitter.com/search?q=ClubsNSW) | N/A |
-| 20 | [Laverne](http://twitter.com/search?q=Laverne) | Laverne is a French name meaning "the alder tree". It is also a unisex name, often given to both boys and girls. |
-| 21 | [Harry Souttar](http://twitter.com/search?q=Harry+Souttar) | N/A |
-| 22 | [Will Steffen](http://twitter.com/search?q=Will+Steffen) | N/A |
-| 23 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 26 | [AFLW](http://twitter.com/search?q=AFLW) | N/A |
-| 27 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
-| 28 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 29 | [Hank Jongen](http://twitter.com/search?q=Hank+Jongen) | N/A |
-| 30 | [Louise](http://twitter.com/search?q=Louise) | N/A |
-| 31 | [Rogue](http://twitter.com/search?q=Rogue) | N/A |
-| 32 | [Villains](http://twitter.com/search?q=Villains) | N/A |
-| 33 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 34 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 35 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
-| 36 | [Simon Benson](http://twitter.com/search?q=Simon+Benson) | N/A |
-| 37 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 38 | [Bridget McKenzie](http://twitter.com/search?q=Bridget+McKenzie) | N/A |
-| 39 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 40 | [Craig Foster](http://twitter.com/search?q=Craig+Foster) | N/A |
-| 41 | [Veronica Nelson](http://twitter.com/search?q=Veronica+Nelson) | N/A |
-| 42 | [australia and france](http://twitter.com/search?q=australia+and+france) | N/A |
-| 43 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 44 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
-| 45 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
-| 46 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 47 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 48 | [Bonza](http://twitter.com/search?q=Bonza) | N/A |
+| 12 | [The Castle](http://twitter.com/search?q=The+Castle) | N/A |
+| 13 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 18 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 19 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 20 | [Harry Souttar](http://twitter.com/search?q=Harry+Souttar) | N/A |
+| 21 | [Josh Landis](http://twitter.com/search?q=Josh+Landis) | N/A |
+| 22 | [Sally Rugg](http://twitter.com/search?q=Sally+Rugg) | N/A |
+| 23 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
+| 24 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 25 | [Will Steffen](http://twitter.com/search?q=Will+Steffen) | N/A |
+| 26 | [ClubsNSW](http://twitter.com/search?q=ClubsNSW) | N/A |
+| 27 | [Laverne](http://twitter.com/search?q=Laverne) | Laverne is a French name meaning "the alder tree". It is also a unisex name, often given to both boys and girls. |
+| 28 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 29 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 30 | [AFLW](http://twitter.com/search?q=AFLW) | N/A |
+| 31 | [Simon Benson](http://twitter.com/search?q=Simon+Benson) | N/A |
+| 32 | [Stevie](http://twitter.com/search?q=Stevie) | N/A |
+| 33 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 34 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 35 | [Musolino](http://twitter.com/search?q=Musolino) | N/A |
+| 36 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 37 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 38 | [Hank Jongen](http://twitter.com/search?q=Hank+Jongen) | N/A |
+| 39 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 40 | [Louise](http://twitter.com/search?q=Louise) | N/A |
+| 41 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 42 | [Rogue](http://twitter.com/search?q=Rogue) | N/A |
+| 43 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 44 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
+| 45 | [Bridget McKenzie](http://twitter.com/search?q=Bridget+McKenzie) | N/A |
+| 46 | [Villains](http://twitter.com/search?q=Villains) | N/A |
+| 47 | [Veronica Nelson](http://twitter.com/search?q=Veronica+Nelson) | N/A |
+| 48 | [australia and france](http://twitter.com/search?q=australia+and+france) | N/A |
 
 
 

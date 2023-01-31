@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-01-31 10:17:15 UTC`
+📆 Last Updated: `2023-01-31 11:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#கடலில்பேனா_வேண்டாம்](http://twitter.com/search?q=%23%e0%ae%95%e0%ae%9f%e0%ae%b2%e0%ae%bf%e0%ae%b2%e0%af%8d%e0%ae%aa%e0%af%87%e0%ae%a9%e0%ae%be_%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%be%e0%ae%ae%e0%af%8d) | N/A |
-| 2 | [#realmeXcocacola](http://twitter.com/search?q=%23realmeXcocacola) | N/A |
-| 3 | [#EconomicSurvey](http://twitter.com/search?q=%23EconomicSurvey) | N/A |
-| 4 | [PATHAAN 600 CRORES WORLDWIDE](http://twitter.com/search?q=PATHAAN+600+CRORES+WORLDWIDE) | PATHAAN 600 CRORES WORLDWIDE is a phrase used to describe the success of the Indian film Pathan, which has earned 600 crores (6 billion rupees) worldwide. The phrase is used to indicate the film's success in terms of box office collections. |
+| 1 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 2 | [#கடலில்பேனா_வேண்டாம்](http://twitter.com/search?q=%23%e0%ae%95%e0%ae%9f%e0%ae%b2%e0%ae%bf%e0%ae%b2%e0%af%8d%e0%ae%aa%e0%af%87%e0%ae%a9%e0%ae%be_%e0%ae%b5%e0%af%87%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%ae%be%e0%ae%ae%e0%af%8d) | N/A |
+| 3 | [#realmeXcocacola](http://twitter.com/search?q=%23realmeXcocacola) | N/A |
+| 4 | [#OnePlus115GOnAmazonSpecials](http://twitter.com/search?q=%23OnePlus115GOnAmazonSpecials) | N/A |
 | 5 | [#SanjayDutt](http://twitter.com/search?q=%23SanjayDutt) | N/A |
-| 6 | [#HBDSunilYdvSS](http://twitter.com/search?q=%23HBDSunilYdvSS) | #HBDSunilYdvSS is an acronym for "Happy Birthday Sunil Yadav". It is a hashtag used to wish someone named Sunil Yadav a happy birthday. |
-| 7 | [Adani FPO](http://twitter.com/search?q=Adani+FPO) | N/A |
-| 8 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 9 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 10 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 11 | [आर्थिक सर्वेक्षण](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3) | N/A |
-| 12 | [खीर भवानी मंदिर](http://twitter.com/search?q=%e0%a4%96%e0%a5%80%e0%a4%b0+%e0%a4%ad%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a5%80+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 13 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
-| 14 | [India's GDP](http://twitter.com/search?q=India%27s+GDP) | N/A |
-| 15 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 16 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
-| 17 | [Ruturaj Gaikwad](http://twitter.com/search?q=Ruturaj+Gaikwad) | N/A |
-| 18 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 19 | [Conspiracy Writ Large InSSRcs](http://twitter.com/search?q=Conspiracy+Writ+Large+InSSRcs) | N/A |
-| 20 | [वित्त मंत्री निर्मला](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b2%e0%a4%be) | N/A |
-| 21 | [मेजर सोमनाथ शर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a5%8b%e0%a4%ae%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 22 | [आधुनिक बिहार](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0) | N/A |
-| 23 | [पाक युद्ध](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
-| 24 | [प्रथम मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 25 | [राष्ट्रपति मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
-| 26 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 27 | [बिहार केसरी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
-| 28 | [परमवीर चक्र](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0) | N/A |
-| 29 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | N/A |
-| 30 | [Hind City](http://twitter.com/search?q=Hind+City) | N/A |
-| 31 | [पाकिस्तान युद्ध](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
-| 32 | [Haath Kangan Ko Aarsi Kya](http://twitter.com/search?q=Haath+Kangan+Ko+Aarsi+Kya) | N/A |
-| 33 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 34 | [Intellectuals Say Innocent](http://twitter.com/search?q=Intellectuals+Say+Innocent) | N/A |
-| 35 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 36 | [उपेंद्र कुशवाहा](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%95%e0%a5%81%e0%a4%b6%e0%a4%b5%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
-| 37 | [Dalits](http://twitter.com/search?q=Dalits) | N/A |
-| 38 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
-| 39 | [#dQnA](http://twitter.com/search?q=%23dQnA) | #dQnA is an abbreviation for “digital question and answer”. It is used to refer to online forums or websites where people can ask and answer questions about a variety of topics. |
-| 40 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | N/A |
-| 41 | [#Visakhapatnam](http://twitter.com/search?q=%23Visakhapatnam) | N/A |
-| 42 | [#हर_घर_जल_75_लाख_नल](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%b0_%e0%a4%98%e0%a4%b0_%e0%a4%9c%e0%a4%b2_75_%e0%a4%b2%e0%a4%be%e0%a4%96_%e0%a4%a8%e0%a4%b2) | N/A |
+| 6 | [#EconomicSurvey](http://twitter.com/search?q=%23EconomicSurvey) | N/A |
+| 7 | [PATHAAN 600 CRORES WORLDWIDE](http://twitter.com/search?q=PATHAAN+600+CRORES+WORLDWIDE) | PATHAAN 600 CRORES WORLDWIDE is a phrase used to describe the success of the Indian film Pathan, which has earned 600 crores (6 billion rupees) worldwide. The phrase is used to indicate the film's success in terms of box office collections. |
+| 8 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
+| 9 | [गांधीनगर कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80%e0%a4%a8%e0%a4%97%e0%a4%b0+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 10 | [Adani FPO](http://twitter.com/search?q=Adani+FPO) | N/A |
+| 11 | [Locked Promotions Digital](http://twitter.com/search?q=Locked+Promotions+Digital) | N/A |
+| 12 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 14 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [On Board](http://twitter.com/search?q=On+Board) | N/A |
+| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 18 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 19 | [आर्थिक सर्वेक्षण](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3) | N/A |
+| 20 | [खीर भवानी मंदिर](http://twitter.com/search?q=%e0%a4%96%e0%a5%80%e0%a4%b0+%e0%a4%ad%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a5%80+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 21 | [Amaravati](http://twitter.com/search?q=Amaravati) | N/A |
+| 22 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 23 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 24 | [India's GDP](http://twitter.com/search?q=India%27s+GDP) | N/A |
+| 25 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 26 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
+| 27 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 28 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
+| 29 | [Ruturaj Gaikwad](http://twitter.com/search?q=Ruturaj+Gaikwad) | N/A |
+| 30 | [आधुनिक बिहार](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0) | N/A |
+| 31 | [प्रथम मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 32 | [Conspiracy Writ Large InSSRcs](http://twitter.com/search?q=Conspiracy+Writ+Large+InSSRcs) | N/A |
+| 33 | [बिजली बिल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%9c%e0%a4%b2%e0%a5%80+%e0%a4%ac%e0%a4%bf%e0%a4%b2) | N/A |
+| 34 | [राष्ट्रपति मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
+| 35 | [बिहार केसरी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
+| 36 | [मेजर सोमनाथ शर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a5%8b%e0%a4%ae%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 37 | [पाक युद्ध](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
+| 38 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | N/A |
+| 39 | [वित्त मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 40 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 41 | [परमवीर चक्र](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0) | N/A |
+| 42 | [Hind City](http://twitter.com/search?q=Hind+City) | N/A |
 | 43 | [#Thalapathy67Cast](http://twitter.com/search?q=%23Thalapathy67Cast) | N/A |
-| 44 | [#AndhraPradesh](http://twitter.com/search?q=%23AndhraPradesh) | N/A |
-| 45 | [#LockedPromotions](http://twitter.com/search?q=%23LockedPromotions) | N/A |
-| 46 | [#MorbiBridgeCollapse](http://twitter.com/search?q=%23MorbiBridgeCollapse) | N/A |
-| 47 | [#Vizag](http://twitter.com/search?q=%23Vizag) | N/A |
-| 48 | [#AdaniEnterprises](http://twitter.com/search?q=%23AdaniEnterprises) | N/A |
-| 49 | [#NirmalaSitharaman](http://twitter.com/search?q=%23NirmalaSitharaman) | N/A |
-| 50 | [#1Feb_GodKabir_NirvanaDiwas](http://twitter.com/search?q=%231Feb_GodKabir_NirvanaDiwas) | #1Feb_GodKabir_NirvanaDiwas is a hashtag used to commemorate the day of Nirvana of the 15th-century Indian mystic and poet, Kabir. The day is celebrated on February 1st each year. The word "Nirvana" refers to a state of enlightenment or liberation from the cycle of birth and death. |
+| 44 | [#Visakhapatnam](http://twitter.com/search?q=%23Visakhapatnam) | N/A |
+| 45 | [#HBDSunilYdvSS](http://twitter.com/search?q=%23HBDSunilYdvSS) | #HBDSunilYdvSS is an acronym for "Happy Birthday Sunil Yadav". It is a hashtag used to wish someone named Sunil Yadav a happy birthday. |
+| 46 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | N/A |
+| 47 | [#AsaramBapu](http://twitter.com/search?q=%23AsaramBapu) | N/A |
+| 48 | [#PriyaAnand](http://twitter.com/search?q=%23PriyaAnand) | N/A |
+| 49 | [#APGIS2023](http://twitter.com/search?q=%23APGIS2023) | N/A |
+| 50 | [#AndhraPradesh](http://twitter.com/search?q=%23AndhraPradesh) | N/A |
 
 
 

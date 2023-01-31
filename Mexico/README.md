@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-01-31 10:17:19 UTC`
+📆 Last Updated: `2023-01-31 11:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,24 +27,24 @@ This is top 50 for Mexico
 | 10 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 11 | [Kenia Os](http://twitter.com/search?q=Kenia+Os) | N/A |
 | 12 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
-| 13 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 14 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 13 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 14 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
 | 15 | [3RACHA FULL MEMBERS OF KOMCA](http://twitter.com/search?q=3RACHA+FULL+MEMBERS+OF+KOMCA) | 3RACHA is a South Korean hip-hop group composed of three members: Bang Chan, Changbin, and Han. They are all full members of the Korea Music Copyright Association (KOMCA), which is an organization that protects the rights of music creators and producers in South Korea. The acronym "3RACHA FULL MEMBERS OF KOMCA" is used to refer to the trio's membership in KOMCA. |
 | 16 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 17 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
 | 18 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
 | 19 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
-| 20 | [Dividir](http://twitter.com/search?q=Dividir) | N/A |
-| 21 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
-| 22 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 23 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 24 | [REGRESEN A LILIANA](http://twitter.com/search?q=REGRESEN+A+LILIANA) | N/A |
+| 20 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
+| 21 | [Dividir](http://twitter.com/search?q=Dividir) | N/A |
+| 22 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 23 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 24 | [regresen a liliana](http://twitter.com/search?q=regresen+a+liliana) | N/A |
 | 25 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
 | 26 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 27 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 28 | [NASCAR](http://twitter.com/search?q=NASCAR) | N/A |
+| 27 | [NASCAR](http://twitter.com/search?q=NASCAR) | N/A |
+| 28 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
 | 29 | [Clonazepam](http://twitter.com/search?q=Clonazepam) | N/A |
-| 30 | [Jesús Aguilar Padilla](http://twitter.com/search?q=Jes%c3%bas+Aguilar+Padilla) | N/A |
+| 30 | [jesús aguilar padilla](http://twitter.com/search?q=jes%c3%bas+aguilar+padilla) | N/A |
 | 31 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
 | 32 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 33 | [Federico Gutiérrez](http://twitter.com/search?q=Federico+Guti%c3%a9rrez) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for Mexico
 | 41 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
 | 42 | [Llamada](http://twitter.com/search?q=Llamada) | N/A |
 | 43 | [óscar nava valencia](http://twitter.com/search?q=%c3%b3scar+nava+valencia) | N/A |
-| 44 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 45 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
-| 46 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 47 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 48 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 49 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
-| 50 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 44 | [Burrow](http://twitter.com/search?q=Burrow) | Burrow is a hole or tunnel dug into the ground by an animal, usually for shelter or protection. It can also refer to a place of refuge or safety. In English, the word burrow is often used figuratively to describe a place where someone can hide away from the world. |
+| 45 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 46 | [Loret](http://twitter.com/search?q=Loret) | N/A |
+| 47 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
+| 48 | [chichén itzá](http://twitter.com/search?q=chich%c3%a9n+itz%c3%a1) | N/A |
+| 49 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 50 | [Adele](http://twitter.com/search?q=Adele) | N/A |
 
 
 

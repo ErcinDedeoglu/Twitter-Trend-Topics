@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-01-31 10:16:45 UTC`
+📆 Last Updated: `2023-01-31 11:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 1 | [#mastercardgrazwosp](http://twitter.com/search?q=%23mastercardgrazwosp) | N/A |
 | 2 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
 | 3 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 4 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
-| 5 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
-| 6 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 4 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
+| 5 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 6 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 7 | [Billa](http://twitter.com/search?q=Billa) | N/A |
-| 8 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 9 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 10 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 11 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
-| 12 | [poncyliusz](http://twitter.com/search?q=poncyliusz) | N/A |
-| 13 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
-| 14 | [gual](http://twitter.com/search?q=gual) | N/A |
-| 15 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 16 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 8 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 9 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 10 | [poncyliusz](http://twitter.com/search?q=poncyliusz) | N/A |
+| 11 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [patryka](http://twitter.com/search?q=patryka) | N/A |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 16 | [F-35](http://twitter.com/search?q=F-35) | N/A |
 | 17 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
-| 18 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 19 | [wika](http://twitter.com/search?q=wika) | N/A |
-| 20 | [zalewskiego](http://twitter.com/search?q=zalewskiego) | N/A |
-| 21 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 18 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 19 | [Wika](http://twitter.com/search?q=Wika) | N/A |
+| 20 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 21 | [Artety](http://twitter.com/search?q=Artety) | N/A |
 | 22 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 23 | [lechii](http://twitter.com/search?q=lechii) | N/A |
-| 24 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
-| 25 | [Juras](http://twitter.com/search?q=Juras) | N/A |
-| 26 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 27 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 28 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 29 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
-| 30 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
-| 31 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
-| 32 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
-| 33 | [O 13](http://twitter.com/search?q=O+13) | N/A |
-| 34 | [W Niemczech](http://twitter.com/search?q=W+Niemczech) | N/A |
-| 35 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
-| 36 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
-| 37 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
-| 38 | [Miziołek](http://twitter.com/search?q=Mizio%c5%82ek) | N/A |
-| 39 | [górnik zabrze](http://twitter.com/search?q=g%c3%b3rnik+zabrze) | N/A |
-| 40 | [Żoliborzu](http://twitter.com/search?q=%c5%bboliborzu) | N/A |
-| 41 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 42 | [nobla](http://twitter.com/search?q=nobla) | N/A |
-| 43 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 44 | [Lublina](http://twitter.com/search?q=Lublina) | N/A |
-| 45 | [wiki](http://twitter.com/search?q=wiki) | N/A |
-| 46 | [Mk 5](http://twitter.com/search?q=Mk+5) | N/A |
-| 47 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 48 | [horały](http://twitter.com/search?q=hora%c5%82y) | N/A |
+| 23 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 24 | [lechii](http://twitter.com/search?q=lechii) | N/A |
+| 25 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
+| 26 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 28 | [Parteya](http://twitter.com/search?q=Parteya) | N/A |
+| 29 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 30 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 31 | [Juras](http://twitter.com/search?q=Juras) | N/A |
+| 32 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
+| 33 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
+| 34 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
+| 35 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 36 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
+| 37 | [O 13](http://twitter.com/search?q=O+13) | N/A |
+| 38 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
+| 39 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
+| 40 | [Miziołek](http://twitter.com/search?q=Mizio%c5%82ek) | N/A |
+| 41 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
+| 42 | [guala](http://twitter.com/search?q=guala) | N/A |
+| 43 | [Żoliborzu](http://twitter.com/search?q=%c5%bboliborzu) | N/A |
+| 44 | [nobla](http://twitter.com/search?q=nobla) | N/A |
+| 45 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 46 | [Lublina](http://twitter.com/search?q=Lublina) | N/A |
+| 47 | [Marian](http://twitter.com/search?q=Marian) | N/A |
+| 48 | [Mk 5](http://twitter.com/search?q=Mk+5) | N/A |
 
 
 

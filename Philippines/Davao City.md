@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-01-31 10:16:58 UTC`
+📆 Last Updated: `2023-01-31 11:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KathNielForTNT](http://twitter.com/search?q=%23KathNielForTNT) | N/A |
-| 2 | [#TNTDobleGigaPlus](http://twitter.com/search?q=%23TNTDobleGigaPlus) | N/A |
-| 3 | [ONE TWO CONNECT](http://twitter.com/search?q=ONE+TWO+CONNECT) | ONE TWO CONNECT is a Japanese phrase that means "connecting people together". It is often used to refer to the idea of connecting people through communication, collaboration, and mutual understanding. |
-| 4 | [#PolaroidLoveWithAcer](http://twitter.com/search?q=%23PolaroidLoveWithAcer) | N/A |
-| 5 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 6 | [#비비지_풀업_들어줘_그냥](http://twitter.com/search?q=%23%eb%b9%84%eb%b9%84%ec%a7%80_%ed%92%80%ec%97%85_%eb%93%a4%ec%96%b4%ec%a4%98_%ea%b7%b8%eb%83%a5) | "#비비지_풀업_들어줘_그냥" is a hashtag used on social media in South Korea. It is used to express the desire for someone to give a hug or embrace. In English, it translates to "Give me a hug, just like that". |
-| 7 | [VIVIZ PULL UP OUT NOW](http://twitter.com/search?q=VIVIZ+PULL+UP+OUT+NOW) | VIVIZ PULL UP OUT NOW is a phrase used to encourage someone to take action and get something done. It is often used as a call to action, urging someone to take the initiative and do something. In English, it could be translated as "Take action now!" |
-| 8 | [JANENELLA is THE Movement](http://twitter.com/search?q=JANENELLA+is+THE+Movement) | N/A |
+| 1 | [#SmartPowersDonBelle](http://twitter.com/search?q=%23SmartPowersDonBelle) | N/A |
+| 2 | [#KathNielForTNT](http://twitter.com/search?q=%23KathNielForTNT) | N/A |
+| 3 | [#TNTDobleGigaPlus](http://twitter.com/search?q=%23TNTDobleGigaPlus) | N/A |
+| 4 | [ONE TWO CONNECT](http://twitter.com/search?q=ONE+TWO+CONNECT) | ONE TWO CONNECT is a Japanese phrase that means "connecting people together". It is often used to refer to the idea of connecting people through communication, collaboration, and mutual understanding. |
+| 5 | [#PolaroidLoveWithAcer](http://twitter.com/search?q=%23PolaroidLoveWithAcer) | N/A |
+| 6 | [JANENELLA is THE Movement](http://twitter.com/search?q=JANENELLA+is+THE+Movement) | N/A |
+| 7 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 8 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
 | 9 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 10 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
-| 11 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
-| 12 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
+| 10 | [PROBLEM CHILD MV RELEASE](http://twitter.com/search?q=PROBLEM+CHILD+MV+RELEASE) | N/A |
+| 11 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
+| 12 | [Alex Gonzaga](http://twitter.com/search?q=Alex+Gonzaga) | Alex Gonzaga is a Filipino actress, television host, singer, and YouTube vlogger. She is the daughter of Pinty Gonzaga and sister of Toni Gonzaga. In English, Alex Gonzaga means a celebrity who is known for her acting, hosting, singing, and vlogging. |
 | 13 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 | 14 | [D-3 COMPLEX EP RELEASE](http://twitter.com/search?q=D-3+COMPLEX+EP+RELEASE) | N/A |
 | 15 | [super janella at mediacon](http://twitter.com/search?q=super+janella+at+mediacon) | N/A |
-| 16 | [janedeleon shines mediacon](http://twitter.com/search?q=janedeleon+shines+mediacon) | N/A |
-| 17 | [hye kyo](http://twitter.com/search?q=hye+kyo) | N/A |
-| 18 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 19 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 20 | [jay cse](http://twitter.com/search?q=jay+cse) | N/A |
-| 21 | [joongki](http://twitter.com/search?q=joongki) | N/A |
-| 22 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 23 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
-| 24 | [PROBLEM CHILD MV RELEASE](http://twitter.com/search?q=PROBLEM+CHILD+MV+RELEASE) | N/A |
-| 25 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
-| 26 | [kwangsoo](http://twitter.com/search?q=kwangsoo) | N/A |
-| 27 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
-| 28 | [DSWD](http://twitter.com/search?q=DSWD) | N/A |
-| 29 | [aljay pinaka malupet](http://twitter.com/search?q=aljay+pinaka+malupet) | N/A |
-| 30 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
-| 31 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 16 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
+| 17 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 18 | [janedeleon shines mediacon](http://twitter.com/search?q=janedeleon+shines+mediacon) | N/A |
+| 19 | [DSWD](http://twitter.com/search?q=DSWD) | N/A |
+| 20 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
+| 21 | [Yuna](http://twitter.com/search?q=Yuna) | N/A |
+| 22 | [joongki](http://twitter.com/search?q=joongki) | N/A |
+| 23 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 24 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
+| 25 | [Blue Clue](http://twitter.com/search?q=Blue+Clue) | N/A |
+| 26 | [worst job](http://twitter.com/search?q=worst+job) | N/A |
+| 27 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
+| 28 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 29 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 30 | [Kwangsoo](http://twitter.com/search?q=Kwangsoo) | N/A |
+| 31 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
 | 32 | [Chinoys](http://twitter.com/search?q=Chinoys) | N/A |
-| 33 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
-| 34 | [pause and jay my heart](http://twitter.com/search?q=pause+and+jay+my+heart) | N/A |
-| 35 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
-| 36 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
-| 37 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 38 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
-| 39 | [Bigger Venue](http://twitter.com/search?q=Bigger+Venue) | N/A |
-| 40 | [Hope and More](http://twitter.com/search?q=Hope+and+More) | N/A |
-| 41 | [SinB](http://twitter.com/search?q=SinB) | N/A |
-| 42 | [Circle 3](http://twitter.com/search?q=Circle+3) | N/A |
-| 43 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 44 | [Eunha](http://twitter.com/search?q=Eunha) | N/A |
-| 45 | [avatrice bed scene script](http://twitter.com/search?q=avatrice+bed+scene+script) | N/A |
-| 46 | [KODREA TCEXTRAS ANG PINAKA](http://twitter.com/search?q=KODREA+TCEXTRAS+ANG+PINAKA) | N/A |
-| 47 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
+| 33 | [pause and jay my heart](http://twitter.com/search?q=pause+and+jay+my+heart) | N/A |
+| 34 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
+| 35 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
+| 36 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 37 | [CAPTIVATING iKON YUNHYEONG](http://twitter.com/search?q=CAPTIVATING+iKON+YUNHYEONG) | N/A |
+| 38 | [Bigger Venue](http://twitter.com/search?q=Bigger+Venue) | N/A |
+| 39 | [Circle 3](http://twitter.com/search?q=Circle+3) | N/A |
+| 40 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 41 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
+| 42 | [kodrea tcextras ang pinaka](http://twitter.com/search?q=kodrea+tcextras+ang+pinaka) | N/A |
+| 43 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
+| 44 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
+| 45 | [CONGRATS PSY AND SUGA](http://twitter.com/search?q=CONGRATS+PSY+AND+SUGA) | N/A |
+| 46 | [Songsong](http://twitter.com/search?q=Songsong) | N/A |
+| 47 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
+| 48 | [Hope and More](http://twitter.com/search?q=Hope+and+More) | N/A |
 
 
 
