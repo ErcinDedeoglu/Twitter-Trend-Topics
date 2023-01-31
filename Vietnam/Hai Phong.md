@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-01-31 09:16:26 UTC`
+📆 Last Updated: `2023-01-31 10:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 1 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
 | 2 | [#SafeflightHKxBible](http://twitter.com/search?q=%23SafeflightHKxBible) | #SafeflightHKxBible is a hashtag used to promote a collaboration between the Hong Kong-based airline, Safeflight HK, and the Bible App. The hashtag is used to promote the partnership between the two companies and encourage people to use the Bible App while flying with Safeflight HK. |
 | 3 | [#방탄소년단알엠](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%95%8c%ec%97%a0) | N/A |
-| 4 | [#btsrm](http://twitter.com/search?q=%23btsrm) | N/A |
+| 4 | [#BTSRM](http://twitter.com/search?q=%23BTSRM) | N/A |
 | 5 | [#huobiama](http://twitter.com/search?q=%23huobiama) | N/A |
 | 6 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
 | 7 | [bts army forever](http://twitter.com/search?q=bts+army+forever) | N/A |
@@ -27,44 +27,44 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 10 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
 | 11 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
 | 12 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 13 | [Aleo](http://twitter.com/search?q=Aleo) | N/A |
+| 13 | [Release Date](http://twitter.com/search?q=Release+Date) | N/A |
 | 14 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 15 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 16 | [ALWAYS WITH BUILD](http://twitter.com/search?q=ALWAYS+WITH+BUILD) | "ALWAYS WITH BUILD" is a phrase used to describe the process of continuously building and testing software in order to ensure that it is always up-to-date and functioning properly. It is a key part of the software development process, as it helps to identify any potential issues before they become major problems. |
-| 17 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
-| 18 | [chịch](http://twitter.com/search?q=ch%e1%bb%8bch) | N/A |
-| 19 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 20 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 21 | [Những](http://twitter.com/search?q=Nh%e1%bb%afng) | N/A |
-| 22 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 23 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
-| 24 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 25 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 26 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 27 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
-| 28 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 30 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 31 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 32 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 33 | [Vâng](http://twitter.com/search?q=V%c3%a2ng) | N/A |
+| 15 | [Aleo](http://twitter.com/search?q=Aleo) | N/A |
+| 16 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 17 | [ALWAYS WITH BUILD](http://twitter.com/search?q=ALWAYS+WITH+BUILD) | "ALWAYS WITH BUILD" is a phrase used to describe the process of continuously building and testing software in order to ensure that it is always up-to-date and functioning properly. It is a key part of the software development process, as it helps to identify any potential issues before they become major problems. |
+| 18 | [Discord](http://twitter.com/search?q=Discord) | N/A |
+| 19 | [chịch](http://twitter.com/search?q=ch%e1%bb%8bch) | N/A |
+| 20 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 21 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 22 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 23 | [Những](http://twitter.com/search?q=Nh%e1%bb%afng) | N/A |
+| 24 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 25 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 26 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
+| 27 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 28 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 29 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 30 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 31 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 32 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
+| 33 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
 | 34 | [Join Maki Army](http://twitter.com/search?q=Join+Maki+Army) | N/A |
 | 35 | [$MAKI](http://twitter.com/search?q=%24MAKI) | N/A |
-| 36 | [Thầy](http://twitter.com/search?q=Th%e1%ba%a7y) | N/A |
-| 37 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 38 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
-| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 40 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 41 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 42 | [Nhiều](http://twitter.com/search?q=Nhi%e1%bb%81u) | N/A |
-| 43 | [Công](http://twitter.com/search?q=C%c3%b4ng) | N/A |
-| 44 | [Discord](http://twitter.com/search?q=Discord) | N/A |
-| 45 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 46 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 47 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 36 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 37 | [Chấm](http://twitter.com/search?q=Ch%e1%ba%a5m) | N/A |
+| 38 | [Vâng](http://twitter.com/search?q=V%c3%a2ng) | N/A |
+| 39 | [Thầy](http://twitter.com/search?q=Th%e1%ba%a7y) | N/A |
+| 40 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 41 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 42 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 43 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
+| 44 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 45 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 46 | [Nhiều](http://twitter.com/search?q=Nhi%e1%bb%81u) | N/A |
+| 47 | [Công](http://twitter.com/search?q=C%c3%b4ng) | N/A |
 | 48 | [$SUI](http://twitter.com/search?q=%24SUI) | N/A |
-| 49 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
-| 50 | [China](http://twitter.com/search?q=China) | N/A |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 50 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
 
 
 

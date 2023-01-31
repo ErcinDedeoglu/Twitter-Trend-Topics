@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-01-31 09:16:43 UTC`
+📆 Last Updated: `2023-01-31 10:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Belgium
 | 4 | [#AGRIFISH](http://twitter.com/search?q=%23AGRIFISH) | N/A |
 | 5 | [#7dag](http://twitter.com/search?q=%237dag) | N/A |
 | 6 | [#cergnt](http://twitter.com/search?q=%23cergnt) | N/A |
-| 7 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 8 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 9 | [Succes](http://twitter.com/search?q=Succes) | N/A |
-| 10 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 11 | [Tihange 2](http://twitter.com/search?q=Tihange+2) | N/A |
-| 12 | [Bart De Wever](http://twitter.com/search?q=Bart+De+Wever) | N/A |
+| 7 | [Succes](http://twitter.com/search?q=Succes) | N/A |
+| 8 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 9 | [Tihange 2](http://twitter.com/search?q=Tihange+2) | N/A |
+| 10 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 11 | [Bart De Wever](http://twitter.com/search?q=Bart+De+Wever) | N/A |
+| 12 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 13 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 14 | [Raman](http://twitter.com/search?q=Raman) | N/A |
 | 15 | [Alsof](http://twitter.com/search?q=Alsof) | N/A |
-| 16 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 17 | [Engels](http://twitter.com/search?q=Engels) | N/A |
-| 18 | [Luik](http://twitter.com/search?q=Luik) | N/A |
-| 19 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 20 | [Stengs](http://twitter.com/search?q=Stengs) | N/A |
+| 16 | [Brexit](http://twitter.com/search?q=Brexit) | N/A |
+| 17 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 18 | [Stengs](http://twitter.com/search?q=Stengs) | N/A |
+| 19 | [Engels](http://twitter.com/search?q=Engels) | N/A |
+| 20 | [Walen](http://twitter.com/search?q=Walen) | N/A |
 | 21 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 22 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 23 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 24 | [Zulte Waregem](http://twitter.com/search?q=Zulte+Waregem) | N/A |
-| 25 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
-| 26 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 27 | [Vleeshuis](http://twitter.com/search?q=Vleeshuis) | N/A |
-| 28 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
-| 29 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 30 | [Komt](http://twitter.com/search?q=Komt) | N/A |
-| 31 | [letterlijk](http://twitter.com/search?q=letterlijk) | N/A |
-| 32 | [Walen](http://twitter.com/search?q=Walen) | N/A |
-| 33 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 34 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 35 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 36 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 37 | [de laet](http://twitter.com/search?q=de+laet) | N/A |
+| 22 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 23 | [Luik](http://twitter.com/search?q=Luik) | N/A |
+| 24 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 25 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 26 | [Zulte Waregem](http://twitter.com/search?q=Zulte+Waregem) | N/A |
+| 27 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
+| 28 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 29 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 30 | [Vleeshuis](http://twitter.com/search?q=Vleeshuis) | N/A |
+| 31 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
+| 32 | [Komt](http://twitter.com/search?q=Komt) | N/A |
+| 33 | [letterlijk](http://twitter.com/search?q=letterlijk) | N/A |
+| 34 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
+| 35 | [Source](http://twitter.com/search?q=Source) | N/A |
+| 36 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 37 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
 | 38 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 39 | [Laten](http://twitter.com/search?q=Laten) | N/A |
-| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 41 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 42 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
-| 43 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 39 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 40 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 41 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
+| 42 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 43 | [Laten](http://twitter.com/search?q=Laten) | N/A |
 | 44 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 45 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 45 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 46 | [Geert](http://twitter.com/search?q=Geert) | N/A |
-| 47 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 48 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
-| 49 | [België](http://twitter.com/search?q=Belgi%c3%ab) | N/A |
-| 50 | [Dankje](http://twitter.com/search?q=Dankje) | N/A |
+| 47 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
+| 48 | [Dankje](http://twitter.com/search?q=Dankje) | N/A |
+| 49 | [red lions](http://twitter.com/search?q=red+lions) | N/A |
+| 50 | [Gent](http://twitter.com/search?q=Gent) | N/A |
 
 
 

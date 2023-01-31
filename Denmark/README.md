@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-01-31 09:16:44 UTC`
+📆 Last Updated: `2023-01-31 10:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,22 +15,22 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [rådhuspladsen](http://twitter.com/search?q=r%c3%a5dhuspladsen) | N/A |
-| 2 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
-| 3 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 4 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
-| 5 | [Bitz](http://twitter.com/search?q=Bitz) | N/A |
-| 6 | [#håndbold](http://twitter.com/search?q=%23h%c3%a5ndbold) | N/A |
-| 7 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
-| 8 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
-| 9 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
-| 10 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 11 | [#ksdh](http://twitter.com/search?q=%23ksdh) | N/A |
-| 12 | [Loki](http://twitter.com/search?q=Loki) | N/A |
-| 13 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 1 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 2 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 3 | [rådhuspladsen](http://twitter.com/search?q=r%c3%a5dhuspladsen) | N/A |
+| 4 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
+| 5 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 6 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
+| 7 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Bitz](http://twitter.com/search?q=Bitz) | N/A |
+| 10 | [#håndbold](http://twitter.com/search?q=%23h%c3%a5ndbold) | N/A |
+| 11 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 14 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 17 | [Jeps](http://twitter.com/search?q=Jeps) | N/A |
 | 18 | [duelund](http://twitter.com/search?q=duelund) | N/A |
 | 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
@@ -41,30 +41,30 @@ This is top 50 for Denmark
 | 24 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
 | 25 | [sjovt](http://twitter.com/search?q=sjovt) | N/A |
 | 26 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 27 | [America](http://twitter.com/search?q=America) | N/A |
-| 28 | [Vestegnen](http://twitter.com/search?q=Vestegnen) | N/A |
-| 29 | [troede](http://twitter.com/search?q=troede) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [enhedslisten](http://twitter.com/search?q=enhedslisten) | N/A |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [German](http://twitter.com/search?q=German) | N/A |
-| 34 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
-| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 37 | [Aarhus](http://twitter.com/search?q=Aarhus) | N/A |
-| 38 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
-| 39 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 40 | [Jordan Larsson](http://twitter.com/search?q=Jordan+Larsson) | N/A |
-| 41 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 43 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 44 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 45 | [Klart](http://twitter.com/search?q=Klart) | N/A |
+| 27 | [Fantastisk](http://twitter.com/search?q=Fantastisk) | N/A |
+| 28 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 30 | [enhedslisten](http://twitter.com/search?q=enhedslisten) | N/A |
+| 31 | [German](http://twitter.com/search?q=German) | N/A |
+| 32 | [Klart](http://twitter.com/search?q=Klart) | N/A |
+| 33 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
+| 34 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 36 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
+| 37 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 38 | [Jordan Larsson](http://twitter.com/search?q=Jordan+Larsson) | N/A |
+| 39 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 41 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 42 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 43 | [Troede](http://twitter.com/search?q=Troede) | N/A |
+| 44 | [America](http://twitter.com/search?q=America) | N/A |
+| 45 | [European](http://twitter.com/search?q=European) | N/A |
 | 46 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 47 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 50 | [Rosted](http://twitter.com/search?q=Rosted) | N/A |
+| 48 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 49 | [Rosted](http://twitter.com/search?q=Rosted) | N/A |
+| 50 | [Mads](http://twitter.com/search?q=Mads) | N/A |
 
 
 

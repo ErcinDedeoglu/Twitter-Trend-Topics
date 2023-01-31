@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-01-31 09:16:20 UTC`
+📆 Last Updated: `2023-01-31 10:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PengirimanCepat](http://twitter.com/search?q=%23PengirimanCepat) | N/A |
-| 2 | [#GratisOngkir](http://twitter.com/search?q=%23GratisOngkir) | N/A |
-| 3 | [Hanya Di Lazada](http://twitter.com/search?q=Hanya+Di+Lazada) | Hanya Di Lazada is a popular Indonesian phrase that translates to "Only at Lazada". It is used to refer to products or services that are only available on the Lazada online shopping platform. |
-| 4 | [#비비지_풀업_들어줘_그냥](http://twitter.com/search?q=%23%eb%b9%84%eb%b9%84%ec%a7%80_%ed%92%80%ec%97%85_%eb%93%a4%ec%96%b4%ec%a4%98_%ea%b7%b8%eb%83%a5) | "#비비지_풀업_들어줘_그냥" is a hashtag used on social media in South Korea. It is used to express the desire for someone to give a hug or embrace. In English, it translates to "Give me a hug, just like that". |
-| 5 | [#VarioUS_DDAY](http://twitter.com/search?q=%23VarioUS_DDAY) | #VarioUS_DDAY is a hashtag used by the VarioUS organization to promote their annual Day of Giving. The hashtag stands for "VarioUS Day of Giving" and is used to encourage people to donate to the organization's charitable causes. |
-| 6 | [#PULLUP_MVRelease](http://twitter.com/search?q=%23PULLUP_MVRelease) | N/A |
-| 7 | [VIVIZ PULL UP OUT NOW](http://twitter.com/search?q=VIVIZ+PULL+UP+OUT+NOW) | VIVIZ PULL UP OUT NOW is a phrase used to encourage someone to take action and get something done. It is often used as a call to action, urging someone to take the initiative and do something. In English, it could be translated as "Take action now!" |
-| 8 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
-| 9 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
-| 10 | [I SAY AY-YO OUT NOW](http://twitter.com/search?q=I+SAY+AY-YO+OUT+NOW) | "I SAY AY-YO OUT NOW" is a phrase used to express excitement or enthusiasm. It is often used as a way to encourage someone to take action or to celebrate an accomplishment. In English, it could be translated as "Let's go!" or "Let's get it!" |
-| 11 | [Guru](http://twitter.com/search?q=Guru) | N/A |
-| 12 | [Witan](http://twitter.com/search?q=Witan) | N/A |
-| 13 | [vibing with bts](http://twitter.com/search?q=vibing+with+bts) | N/A |
-| 14 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 15 | [Shafaa](http://twitter.com/search?q=Shafaa) | N/A |
+| 1 | [#INDONESIAASEANBAC](http://twitter.com/search?q=%23INDONESIAASEANBAC) | N/A |
+| 2 | [#PengirimanCepat](http://twitter.com/search?q=%23PengirimanCepat) | N/A |
+| 3 | [#GratisOngkir](http://twitter.com/search?q=%23GratisOngkir) | N/A |
+| 4 | [Hanya Di Lazada](http://twitter.com/search?q=Hanya+Di+Lazada) | Hanya Di Lazada is a popular Indonesian phrase that translates to "Only at Lazada". It is used to refer to products or services that are only available on the Lazada online shopping platform. |
+| 5 | [#PULLUP_MVRelease](http://twitter.com/search?q=%23PULLUP_MVRelease) | N/A |
+| 6 | [#비비지_풀업_들어줘_그냥](http://twitter.com/search?q=%23%eb%b9%84%eb%b9%84%ec%a7%80_%ed%92%80%ec%97%85_%eb%93%a4%ec%96%b4%ec%a4%98_%ea%b7%b8%eb%83%a5) | "#비비지_풀업_들어줘_그냥" is a hashtag used on social media in South Korea. It is used to express the desire for someone to give a hug or embrace. In English, it translates to "Give me a hug, just like that". |
+| 7 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
+| 8 | [VIVIZ PULL UP OUT NOW](http://twitter.com/search?q=VIVIZ+PULL+UP+OUT+NOW) | VIVIZ PULL UP OUT NOW is a phrase used to encourage someone to take action and get something done. It is often used as a call to action, urging someone to take the initiative and do something. In English, it could be translated as "Take action now!" |
+| 9 | [Arsjad Rasjid](http://twitter.com/search?q=Arsjad+Rasjid) | N/A |
+| 10 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 11 | [3RACHA FULL MEMBERS OF KOMCA](http://twitter.com/search?q=3RACHA+FULL+MEMBERS+OF+KOMCA) | 3RACHA is a South Korean hip-hop group composed of three members: Bang Chan, Changbin, and Han. They are all full members of the Korea Music Copyright Association (KOMCA), which is an organization that protects the rights of music creators and producers in South Korea. The acronym "3RACHA FULL MEMBERS OF KOMCA" is used to refer to the trio's membership in KOMCA. |
+| 12 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 13 | [Guru](http://twitter.com/search?q=Guru) | N/A |
+| 14 | [Nmax](http://twitter.com/search?q=Nmax) | N/A |
+| 15 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 16 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
-| 17 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
-| 18 | [Satu Abad NU](http://twitter.com/search?q=Satu+Abad+NU) | Satu Abad NU is an Indonesian phrase that translates to "One Century Now". It is a slogan used to promote the idea of a new century of progress and development in Indonesia. |
-| 19 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
-| 20 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
-| 21 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
-| 22 | [Nmax](http://twitter.com/search?q=Nmax) | N/A |
-| 23 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 24 | [WE LOVE YOU JAEMIN](http://twitter.com/search?q=WE+LOVE+YOU+JAEMIN) | N/A |
-| 25 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
-| 26 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
-| 27 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 28 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
-| 29 | [Premium](http://twitter.com/search?q=Premium) | N/A |
-| 30 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
-| 31 | [Nangka](http://twitter.com/search?q=Nangka) | N/A |
-| 32 | [Bunuh](http://twitter.com/search?q=Bunuh) | N/A |
-| 33 | [Song Hye Kyo](http://twitter.com/search?q=Song+Hye+Kyo) | N/A |
-| 34 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 35 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 36 | [shin tae yong](http://twitter.com/search?q=shin+tae+yong) | N/A |
-| 37 | [Januari](http://twitter.com/search?q=Januari) | N/A |
-| 38 | [Physical](http://twitter.com/search?q=Physical) | N/A |
-| 39 | [Bayu](http://twitter.com/search?q=Bayu) | N/A |
-| 40 | [108MP OIS](http://twitter.com/search?q=108MP+OIS) | N/A |
-| 41 | [Duit](http://twitter.com/search?q=Duit) | N/A |
-| 42 | [Orient](http://twitter.com/search?q=Orient) | N/A |
-| 43 | [JD ID](http://twitter.com/search?q=JD+ID) | N/A |
-| 44 | [ARMY APOLOGIZE TO NCT](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+NCT) | N/A |
-| 45 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 46 | [ARMY APOLOGIZE TO JAEMIN](http://twitter.com/search?q=ARMY+APOLOGIZE+TO+JAEMIN) | N/A |
-| 47 | [Tambah Kehidupmu](http://twitter.com/search?q=Tambah+Kehidupmu) | Tambah Kehidupmu is an Indonesian phrase that translates to "Enhance Your Life" in English. It is a phrase used to encourage someone to make positive changes in their life and strive for personal growth. |
-| 48 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 49 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 17 | [Bayu](http://twitter.com/search?q=Bayu) | N/A |
+| 18 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 19 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
+| 20 | [Premium](http://twitter.com/search?q=Premium) | N/A |
+| 21 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 22 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 23 | [BRIN](http://twitter.com/search?q=BRIN) | N/A |
+| 24 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 25 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 26 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
+| 27 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
+| 28 | [Jabar](http://twitter.com/search?q=Jabar) | N/A |
+| 29 | [Shafaa](http://twitter.com/search?q=Shafaa) | N/A |
+| 30 | [Witan](http://twitter.com/search?q=Witan) | N/A |
+| 31 | [Bersih](http://twitter.com/search?q=Bersih) | N/A |
+| 32 | [Physical](http://twitter.com/search?q=Physical) | N/A |
+| 33 | [Perubahan](http://twitter.com/search?q=Perubahan) | N/A |
+| 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 35 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
+| 36 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
+| 37 | [#VarioUS_DDAY](http://twitter.com/search?q=%23VarioUS_DDAY) | #VarioUS_DDAY is a hashtag used by the VarioUS organization to promote their annual Day of Giving. The hashtag stands for "VarioUS Day of Giving" and is used to encourage people to donate to the organization's charitable causes. |
+| 38 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
+| 39 | [#3RACHA_KOMCAFullMembers](http://twitter.com/search?q=%233RACHA_KOMCAFullMembers) | #3RACHA_KOMCAFullMembers is a hashtag used by fans of the South Korean hip-hop group 3RACHA (also known as 3RACHA KOMCA). The hashtag is used to refer to the three members of the group: Bang Chan, Changbin, and Han. The acronym KOMCA stands for Korea Music Copyright Association, which is an organization that protects the rights of music creators in South Korea. |
+| 40 | [#Congratulations3RACHA](http://twitter.com/search?q=%23Congratulations3RACHA) | #Congratulations3RACHA is a hashtag used to congratulate the South Korean hip-hop group 3RACHA (also known as CB97) on their accomplishments. The group consists of three members, Bang Chan, Changbin, and Han. The hashtag is used to show support for the group and their music. |
+| 41 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 42 | [#iyankasian](http://twitter.com/search?q=%23iyankasian) | N/A |
+| 43 | [#UsutTuntasTragediKanjuruhan](http://twitter.com/search?q=%23UsutTuntasTragediKanjuruhan) | N/A |
+| 44 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 45 | [#SKINLIFECHANGER](http://twitter.com/search?q=%23SKINLIFECHANGER) | N/A |
+| 46 | [#LaRochePosayID](http://twitter.com/search?q=%23LaRochePosayID) | N/A |
+| 47 | [#VELENCExASTROSTUFFS](http://twitter.com/search?q=%23VELENCExASTROSTUFFS) | N/A |
+| 48 | [#SongJoongKi](http://twitter.com/search?q=%23SongJoongKi) | N/A |
 
 
 

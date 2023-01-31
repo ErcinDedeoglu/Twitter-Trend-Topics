@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-01-31 09:16:43 UTC`
+📆 Last Updated: `2023-01-31 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Austria
 | 14 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
 | 15 | [Energie](http://twitter.com/search?q=Energie) | N/A |
 | 16 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 17 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 18 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
-| 19 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
-| 20 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 21 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 22 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 23 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 24 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 25 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
-| 26 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
-| 27 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
+| 17 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 18 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
+| 19 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 20 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 21 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
+| 22 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 23 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 24 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
+| 25 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
+| 26 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 27 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
 | 28 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 29 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
-| 30 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 31 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
-| 32 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
-| 33 | [Aufgaben](http://twitter.com/search?q=Aufgaben) | N/A |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 37 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 38 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 39 | [Wählerinnen](http://twitter.com/search?q=W%c3%a4hlerinnen) | N/A |
-| 40 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
-| 41 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 42 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 43 | [graz](http://twitter.com/search?q=graz) | N/A |
-| 44 | [Mikl-Leitner](http://twitter.com/search?q=Mikl-Leitner) | N/A |
-| 45 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 46 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 47 | [leut](http://twitter.com/search?q=leut) | N/A |
-| 48 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
-| 49 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 50 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 29 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 30 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
+| 31 | [Aufgaben](http://twitter.com/search?q=Aufgaben) | N/A |
+| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 33 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 35 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 36 | [Wählerinnen](http://twitter.com/search?q=W%c3%a4hlerinnen) | N/A |
+| 37 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 38 | [Djamila](http://twitter.com/search?q=Djamila) | N/A |
+| 39 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 40 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
+| 41 | [Graz](http://twitter.com/search?q=Graz) | N/A |
+| 42 | [Mikl-Leitner](http://twitter.com/search?q=Mikl-Leitner) | N/A |
+| 43 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 44 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
+| 45 | [leut](http://twitter.com/search?q=leut) | N/A |
+| 46 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 47 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 48 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
+| 49 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 50 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
 
 
 

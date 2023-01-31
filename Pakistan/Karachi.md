@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-01-31 09:16:32 UTC`
+📆 Last Updated: `2023-01-31 10:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 8 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
 | 9 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
 | 10 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 11 | [Terrorism](http://twitter.com/search?q=Terrorism) | N/A |
-| 12 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 13 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 14 | [UAE President](http://twitter.com/search?q=UAE+President) | N/A |
-| 15 | [1YR OF VIJAYI TEJASSWI](http://twitter.com/search?q=1YR+OF+VIJAYI+TEJASSWI) | 1YR OF VIJAYI TEJASSWI is a hashtag used to celebrate the one-year anniversary of the Indian television series, Vijayi Tejasswi. The English translation of this phrase would be "One Year of Vijayi Tejasswi". |
-| 16 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 17 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 18 | [taimoor khan](http://twitter.com/search?q=taimoor+khan) | N/A |
-| 19 | [Rescue 1122](http://twitter.com/search?q=Rescue+1122) | N/A |
-| 20 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 22 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
-| 23 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
+| 11 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
+| 12 | [Terrorism](http://twitter.com/search?q=Terrorism) | N/A |
+| 13 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 14 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 15 | [UAE President](http://twitter.com/search?q=UAE+President) | N/A |
+| 16 | [1yr of vijayi tejasswi](http://twitter.com/search?q=1yr+of+vijayi+tejasswi) | N/A |
+| 17 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
+| 18 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 19 | [taimoor khan](http://twitter.com/search?q=taimoor+khan) | N/A |
+| 20 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
+| 21 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
+| 22 | [Masjid](http://twitter.com/search?q=Masjid) | N/A |
+| 23 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
 | 24 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
-| 25 | [National Action Plan](http://twitter.com/search?q=National+Action+Plan) | N/A |
-| 26 | [Masjid](http://twitter.com/search?q=Masjid) | N/A |
-| 27 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
-| 28 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
-| 29 | [Rehan](http://twitter.com/search?q=Rehan) | N/A |
-| 30 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
-| 31 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 32 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 33 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 34 | [Faiz Hameed](http://twitter.com/search?q=Faiz+Hameed) | N/A |
-| 35 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 36 | [NRO 2](http://twitter.com/search?q=NRO+2) | N/A |
-| 37 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 38 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 39 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
-| 40 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 41 | [Chief](http://twitter.com/search?q=Chief) | N/A |
+| 25 | [Rescue 1122](http://twitter.com/search?q=Rescue+1122) | N/A |
+| 26 | [National Action Plan](http://twitter.com/search?q=National+Action+Plan) | N/A |
+| 27 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 28 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 29 | [Pashtoon](http://twitter.com/search?q=Pashtoon) | N/A |
+| 30 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 31 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 32 | [Rehan](http://twitter.com/search?q=Rehan) | N/A |
+| 33 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 34 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 35 | [NRO 2](http://twitter.com/search?q=NRO+2) | N/A |
+| 36 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [ISPR](http://twitter.com/search?q=ISPR) | N/A |
+| 39 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 40 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
+| 41 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
 | 42 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 43 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
-| 44 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
-| 45 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 46 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 47 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 48 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 49 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 50 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 43 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 44 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 45 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
+| 46 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
+| 47 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 48 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
+| 49 | [Reality](http://twitter.com/search?q=Reality) | N/A |
+| 50 | [Shahbaz](http://twitter.com/search?q=Shahbaz) | N/A |
 
 
 
