@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-01-31 16:16:49 UTC`
+📆 Last Updated: `2023-01-31 17:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [McFred](http://twitter.com/search?q=McFred) | McFred is a slang term used to describe someone who is very wealthy and powerful. It is derived from the term "McMansion," which is used to describe a large, luxurious home. The term McFred implies that the person has so much money and power that they can do whatever they want. |
-| 2 | [#NationalHotChocolateDay](http://twitter.com/search?q=%23NationalHotChocolateDay) | N/A |
+| 1 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
+| 2 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
 | 3 | [Thelwell](http://twitter.com/search?q=Thelwell) | N/A |
-| 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 5 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 6 | [Jorginho to Arsenal](http://twitter.com/search?q=Jorginho+to+Arsenal) | Jorginho to Arsenal is a phrase used to refer to the potential transfer of Italian midfielder Jorginho from Chelsea Football Club to Arsenal Football Club. It is a phrase used by fans and media outlets to speculate on the possibility of the transfer. |
-| 7 | [Mainoo](http://twitter.com/search?q=Mainoo) | Mainoo is a term used in the Indian state of Gujarat to refer to a person who is generous and kind-hearted. It is derived from the Gujarati word "manu", which means "generous". In English, it can be translated as "generous" or "kind-hearted". |
-| 8 | [#NationalStorytellingWeek](http://twitter.com/search?q=%23NationalStorytellingWeek) | N/A |
-| 9 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 10 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 11 | [Mint](http://twitter.com/search?q=Mint) | N/A |
-| 12 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 13 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
-| 14 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 15 | [#EduOut](http://twitter.com/search?q=%23EduOut) | N/A |
-| 16 | [madeley](http://twitter.com/search?q=madeley) | N/A |
-| 17 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 18 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 19 | [Mikel](http://twitter.com/search?q=Mikel) | N/A |
-| 20 | [Joao Cancelo](http://twitter.com/search?q=Joao+Cancelo) | N/A |
-| 21 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 22 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 23 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Merson](http://twitter.com/search?q=Merson) | N/A |
-| 26 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 27 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 28 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 29 | [Paperchase](http://twitter.com/search?q=Paperchase) | N/A |
-| 30 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 31 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 32 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
-| 33 | [Salted](http://twitter.com/search?q=Salted) | N/A |
-| 34 | [Tech Nation](http://twitter.com/search?q=Tech+Nation) | N/A |
-| 35 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 36 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
-| 37 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
-| 38 | [Vaccine](http://twitter.com/search?q=Vaccine) | N/A |
-| 39 | [Goshen](http://twitter.com/search?q=Goshen) | N/A |
-| 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 41 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 42 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 43 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 44 | [Tshimanga](http://twitter.com/search?q=Tshimanga) | N/A |
-| 45 | [Nat Phillips](http://twitter.com/search?q=Nat+Phillips) | Nat Phillips is a British professional footballer who plays as a centre back for Liverpool. He is known for his strong defensive abilities and has been praised for his leadership qualities. The name Nat Phillips is derived from the initials of his full name, Nathanial Phillips. |
-| 46 | [Glen](http://twitter.com/search?q=Glen) | N/A |
-| 47 | [Princess of Wales](http://twitter.com/search?q=Princess+of+Wales) | N/A |
-| 48 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
-| 49 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 4 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 5 | [#NationalHotChocolateDay](http://twitter.com/search?q=%23NationalHotChocolateDay) | N/A |
+| 6 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 7 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 8 | [Jorginho to Arsenal](http://twitter.com/search?q=Jorginho+to+Arsenal) | Jorginho to Arsenal is a phrase used to refer to the potential transfer of Italian midfielder Jorginho from Chelsea Football Club to Arsenal Football Club. It is a phrase used by fans and media outlets to speculate on the possibility of the transfer. |
+| 9 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 10 | [Deluded](http://twitter.com/search?q=Deluded) | N/A |
+| 11 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 14 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 15 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 17 | [Merson](http://twitter.com/search?q=Merson) | N/A |
+| 18 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 19 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 20 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 21 | [Paperchase](http://twitter.com/search?q=Paperchase) | N/A |
+| 22 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
+| 23 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 24 | [Salted](http://twitter.com/search?q=Salted) | N/A |
+| 25 | [Traore](http://twitter.com/search?q=Traore) | Traore is a surname of West African origin. It is derived from the Mande language and means "great one". |
+| 26 | [Tech Nation](http://twitter.com/search?q=Tech+Nation) | N/A |
+| 27 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 28 | [Sky Sports News](http://twitter.com/search?q=Sky+Sports+News) | N/A |
+| 29 | [McFred](http://twitter.com/search?q=McFred) | McFred is a slang term used to describe someone who is very wealthy and powerful. It is derived from the term "McMansion," which is used to describe a large, luxurious home. The term McFred implies that the person has so much money and power that they can do whatever they want. |
+| 30 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 31 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 32 | [Goshen](http://twitter.com/search?q=Goshen) | N/A |
+| 33 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 34 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 35 | [Vaccine](http://twitter.com/search?q=Vaccine) | N/A |
+| 36 | [Princess of Wales](http://twitter.com/search?q=Princess+of+Wales) | N/A |
+| 37 | [Sure Start](http://twitter.com/search?q=Sure+Start) | N/A |
+| 38 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
+| 39 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 40 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 41 | [Sambi](http://twitter.com/search?q=Sambi) | Sambi is a Japanese term that refers to the practice of showing respect and appreciation for others. It is often used in the context of thanking someone for their help or kindness. In English, it can be translated as "gratitude" or "appreciation". |
+| 42 | [Nat Phillips](http://twitter.com/search?q=Nat+Phillips) | Nat Phillips is a British professional footballer who plays as a centre back for Liverpool. He is known for his strong defensive abilities and has been praised for his leadership qualities. The name Nat Phillips is derived from the initials of his full name, Nathanial Phillips. |
+| 43 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 44 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 45 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
+| 46 | [Loan](http://twitter.com/search?q=Loan) | N/A |
+| 47 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
+| 48 | [Mint](http://twitter.com/search?q=Mint) | N/A |
+| 49 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-01-31 16:17:22 UTC`
+📆 Last Updated: `2023-01-31 17:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SuVerimliliği](http://twitter.com/search?q=%23SuVerimlili%c4%9fi) | N/A |
-| 2 | [#babaeski](http://twitter.com/search?q=%23babaeski) | N/A |
+| 1 | [#babaeski](http://twitter.com/search?q=%23babaeski) | N/A |
+| 2 | [#xu100](http://twitter.com/search?q=%23xu100) | N/A |
 | 3 | [#aliaga](http://twitter.com/search?q=%23aliaga) | N/A |
-| 4 | [#ısparta](http://twitter.com/search?q=%23%c4%b1sparta) | N/A |
-| 5 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 6 | [#xu100](http://twitter.com/search?q=%23xu100) | N/A |
+| 4 | [#Bornova](http://twitter.com/search?q=%23Bornova) | N/A |
+| 5 | [#ısparta](http://twitter.com/search?q=%23%c4%b1sparta) | N/A |
+| 6 | [Mary](http://twitter.com/search?q=Mary) | N/A |
 | 7 | [Haris Seferovic](http://twitter.com/search?q=Haris+Seferovic) | N/A |
-| 8 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
-| 9 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
-| 10 | [Futbola Siyaset Bulaştı](http://twitter.com/search?q=Futbola+Siyaset+Bula%c5%9ft%c4%b1) | Futbola Siyaset Bulaştı is a Turkish phrase that translates to "Politics has infiltrated football". It is used to describe the situation when politics becomes involved in the sport of football. |
-| 11 | [Ali Mahir Başarır](http://twitter.com/search?q=Ali+Mahir+Ba%c5%9far%c4%b1r) | N/A |
-| 12 | [Yatabare](http://twitter.com/search?q=Yatabare) | N/A |
-| 13 | [Farioli](http://twitter.com/search?q=Farioli) | N/A |
-| 14 | [Lütfü Türkkan](http://twitter.com/search?q=L%c3%bctf%c3%bc+T%c3%bcrkkan) | N/A |
-| 15 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 16 | [Mert Aydın](http://twitter.com/search?q=Mert+Ayd%c4%b1n) | N/A |
-| 17 | [TBMM Hazırlık Komisyonu](http://twitter.com/search?q=TBMM+Haz%c4%b1rl%c4%b1k+Komisyonu) | N/A |
-| 18 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 19 | [GarnierinYildizi AfraSaraçoğlu](http://twitter.com/search?q=GarnierinYildizi+AfraSara%c3%a7o%c4%9flu) | N/A |
-| 20 | [Aferin](http://twitter.com/search?q=Aferin) | N/A |
-| 21 | [Yedili Masa](http://twitter.com/search?q=Yedili+Masa) | Yedili Masa is a traditional Turkish game that is similar to checkers. It is played on a board with 64 squares, and each player has 12 pieces. The goal of the game is to capture all of the opponent's pieces. The name Yedili Masa translates to "Seven Table" in English, referring to the seven-by-seven grid of the board. |
-| 22 | [Bışar](http://twitter.com/search?q=B%c4%b1%c5%9far) | N/A |
-| 23 | [Avrupa'dan](http://twitter.com/search?q=Avrupa%27dan) | N/A |
-| 24 | [TolgaKandemir](http://twitter.com/search?q=TolgaKandemir) | N/A |
-| 25 | [Hayko](http://twitter.com/search?q=Hayko) | N/A |
-| 26 | [AyTol](http://twitter.com/search?q=AyTol) | N/A |
-| 27 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
-| 28 | [Muammer Aksoy](http://twitter.com/search?q=Muammer+Aksoy) | N/A |
-| 29 | [6 Şubat](http://twitter.com/search?q=6+%c5%9eubat) | N/A |
-| 30 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
-| 31 | [Liderimiz Sayın Devlet Bahçeli](http://twitter.com/search?q=Liderimiz+Say%c4%b1n+Devlet+Bah%c3%a7eli) | N/A |
-| 32 | [AybükeÇangal](http://twitter.com/search?q=Ayb%c3%bcke%c3%87angal) | N/A |
-| 33 | [1 Şubat Çarşamba](http://twitter.com/search?q=1+%c5%9eubat+%c3%87ar%c5%9famba) | N/A |
-| 34 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 35 | [AdilKapsamlı EhliyetAffı](http://twitter.com/search?q=AdilKapsaml%c4%b1+EhliyetAff%c4%b1) | N/A |
-| 36 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 37 | [Utanç](http://twitter.com/search?q=Utan%c3%a7) | N/A |
-| 38 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
-| 39 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 41 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
-| 42 | [#foca](http://twitter.com/search?q=%23foca) | N/A |
-| 43 | [#lüleburgaz](http://twitter.com/search?q=%23l%c3%bcleburgaz) | N/A |
-| 44 | [#KademeliPrimeHayır](http://twitter.com/search?q=%23KademeliPrimeHay%c4%b1r) | N/A |
-| 45 | [#söylenasıl](http://twitter.com/search?q=%23s%c3%b6ylenas%c4%b1l) | N/A |
-| 46 | [#spormerkezi](http://twitter.com/search?q=%23spormerkezi) | N/A |
-| 47 | [#yüzdeyüz](http://twitter.com/search?q=%23y%c3%bczdey%c3%bcz) | N/A |
-| 48 | [#BorsaIstanbul](http://twitter.com/search?q=%23BorsaIstanbul) | N/A |
-| 49 | [#GeliyorGelmekteOlan](http://twitter.com/search?q=%23GeliyorGelmekteOlan) | N/A |
-| 50 | [#SadeceStajKaldı](http://twitter.com/search?q=%23SadeceStajKald%c4%b1) | N/A |
+| 8 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
+| 9 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
+| 10 | [KamuEczacılarına TabanTeşvik](http://twitter.com/search?q=KamuEczac%c4%b1lar%c4%b1na+TabanTe%c5%9fvik) | KamuEczacılarına TabanTeşvik is a Turkish phrase that translates to "Base Encouragement for Public Pharmacists". It is a program in Turkey that provides financial incentives to public pharmacists in order to encourage them to provide better services. |
+| 11 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
+| 12 | [ASHB Bekletme](http://twitter.com/search?q=ASHB+Bekletme) | N/A |
+| 13 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
+| 14 | [Başarılar Beşiktaş'ım](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
+| 15 | [Futbola Siyaset Bulaştı](http://twitter.com/search?q=Futbola+Siyaset+Bula%c5%9ft%c4%b1) | Futbola Siyaset Bulaştı is a Turkish phrase that translates to "Politics has infiltrated football". It is used to describe the situation when politics becomes involved in the sport of football. |
+| 16 | [Ali Mahir Başarır](http://twitter.com/search?q=Ali+Mahir+Ba%c5%9far%c4%b1r) | N/A |
+| 17 | [Gülben](http://twitter.com/search?q=G%c3%bclben) | N/A |
+| 18 | [Yatabare](http://twitter.com/search?q=Yatabare) | N/A |
+| 19 | [Lütfü Türkkan](http://twitter.com/search?q=L%c3%bctf%c3%bc+T%c3%bcrkkan) | N/A |
+| 20 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 21 | [Farioli](http://twitter.com/search?q=Farioli) | N/A |
+| 22 | [Fatih Karagümrük](http://twitter.com/search?q=Fatih+Karag%c3%bcmr%c3%bck) | N/A |
+| 23 | [Mert Aydın](http://twitter.com/search?q=Mert+Ayd%c4%b1n) | N/A |
+| 24 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 25 | [Bay Kemal](http://twitter.com/search?q=Bay+Kemal) | N/A |
+| 26 | [Bışar](http://twitter.com/search?q=B%c4%b1%c5%9far) | N/A |
+| 27 | [Bereket](http://twitter.com/search?q=Bereket) | N/A |
+| 28 | [Aferin](http://twitter.com/search?q=Aferin) | N/A |
+| 29 | [TBMM Hazırlık Komisyonu](http://twitter.com/search?q=TBMM+Haz%c4%b1rl%c4%b1k+Komisyonu) | N/A |
+| 30 | [Avrupa'dan](http://twitter.com/search?q=Avrupa%27dan) | N/A |
+| 31 | [Yedili Masa](http://twitter.com/search?q=Yedili+Masa) | Yedili Masa is a traditional Turkish game that is similar to checkers. It is played on a board with 64 squares, and each player has 12 pieces. The goal of the game is to capture all of the opponent's pieces. The name Yedili Masa translates to "Seven Table" in English, referring to the seven-by-seven grid of the board. |
+| 32 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
+| 33 | [GarnierinYildizi AfraSaraçoğlu](http://twitter.com/search?q=GarnierinYildizi+AfraSara%c3%a7o%c4%9flu) | N/A |
+| 34 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
+| 35 | [Hayko](http://twitter.com/search?q=Hayko) | N/A |
+| 36 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
+| 37 | [Endeks](http://twitter.com/search?q=Endeks) | N/A |
+| 38 | [Simge](http://twitter.com/search?q=Simge) | N/A |
+| 39 | [Muammer Aksoy](http://twitter.com/search?q=Muammer+Aksoy) | N/A |
+| 40 | [6 Şubat](http://twitter.com/search?q=6+%c5%9eubat) | N/A |
+| 41 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 42 | [1 Şubat Çarşamba](http://twitter.com/search?q=1+%c5%9eubat+%c3%87ar%c5%9famba) | N/A |
+| 43 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 44 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
+| 45 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 46 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 47 | [#Çiğli](http://twitter.com/search?q=%23%c3%87i%c4%9fli) | N/A |
+| 48 | [#foca](http://twitter.com/search?q=%23foca) | N/A |
+| 49 | [#lüleburgaz](http://twitter.com/search?q=%23l%c3%bcleburgaz) | N/A |
+| 50 | [#söylenasıl](http://twitter.com/search?q=%23s%c3%b6ylenas%c4%b1l) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-01-31 16:17:15 UTC`
+📆 Last Updated: `2023-01-31 17:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
-| 2 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
-| 3 | [#البزنس56](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b356) | N/A |
-| 4 | [#الهلال_الوداد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | N/A |
-| 5 | [#توقع_مع_كملنا](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%82%d8%b9_%d9%85%d8%b9_%d9%83%d9%85%d9%84%d9%86%d8%a7) | N/A |
-| 6 | [#ساره_الودعاني](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
-| 7 | [سالم الاحمدي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af%d9%8a) | N/A |
-| 8 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
-| 9 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 10 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 11 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 12 | [صوت الارض](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 1 | [#رساله_لقلبك](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d9%84%d9%82%d9%84%d8%a8%d9%83) | #رساله_لقلبك is a hashtag used on social media in Arabic to express love and appreciation for someone. It translates to "A Message for Your Heart". |
+| 2 | [#البزنس56](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b356) | N/A |
+| 3 | [#الهلال_الوداد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | N/A |
+| 4 | [#اوقفو_قناه_الواقع](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%82%d9%81%d9%88_%d9%82%d9%86%d8%a7%d9%87_%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9) | N/A |
+| 5 | [#الدكتوره_فاطمه_نصيف](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1%d9%87_%d9%81%d8%a7%d8%b7%d9%85%d9%87_%d9%86%d8%b5%d9%8a%d9%81) | N/A |
+| 6 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 7 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 8 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 9 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
+| 10 | [ابو لارا](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d8%a7%d8%b1%d8%a7) | N/A |
+| 11 | [الحلقه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 12 | [سالم الاحمدي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af%d9%8a) | N/A |
 | 13 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 14 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 15 | [السومة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d8%a9) | N/A |
-| 16 | [روي كوستا](http://twitter.com/search?q=%d8%b1%d9%88%d9%8a+%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | N/A |
-| 17 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 18 | [ماهر](http://twitter.com/search?q=%d9%85%d8%a7%d9%87%d8%b1) | N/A |
-| 19 | [عبدالله الفيصل](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 20 | [#زد_رصيدك8](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%838) | N/A |
-| 21 | [#اقاله_معين_مطلب_شعبي](http://twitter.com/search?q=%23%d8%a7%d9%82%d8%a7%d9%84%d9%87_%d9%85%d8%b9%d9%8a%d9%86_%d9%85%d8%b7%d9%84%d8%a8_%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
-| 22 | [#ابها_الخليج](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%87%d8%a7_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 23 | [#ريال_مدريد_فالنسيا](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af_%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | N/A |
-| 24 | [#الدكتوره_فاطمه_نصيف](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1%d9%87_%d9%81%d8%a7%d8%b7%d9%85%d9%87_%d9%86%d8%b5%d9%8a%d9%81) | N/A |
-| 25 | [#الباطن_التعاون](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
-| 26 | [#الفتح_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%aa%d8%ad_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 27 | [#واقعيتنا_علي_الواقع_جميله](http://twitter.com/search?q=%23%d9%88%d8%a7%d9%82%d8%b9%d9%8a%d8%aa%d9%86%d8%a7_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9_%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
-| 28 | [#الاتفاق_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
-| 29 | [#الشباب_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%b6%d9%85%d9%83) | N/A |
-| 30 | [#FebruaryStarJihyoDay](http://twitter.com/search?q=%23FebruaryStarJihyoDay) | #FebruaryStarJihyoDay is a hashtag used by fans of the South Korean singer and actress Jihyo, who is a member of the K-pop girl group TWICE. The hashtag is used to celebrate Jihyo's birthday, which falls on February 1st. Fans use the hashtag to share photos, videos, and messages of support for Jihyo on her special day. |
-| 31 | [#الهلال_في_كاس_العالم](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 32 | [#سلطان_الهميلي_في_قطر](http://twitter.com/search?q=%23%d8%b3%d9%84%d8%b7%d8%a7%d9%86_%d8%a7%d9%84%d9%87%d9%85%d9%8a%d9%84%d9%8a_%d9%81%d9%8a_%d9%82%d8%b7%d8%b1) | N/A |
-| 33 | [#معلم_يكفر_المسلمين](http://twitter.com/search?q=%23%d9%85%d8%b9%d9%84%d9%85_%d9%8a%d9%83%d9%81%d8%b1_%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 34 | [#الاهلي_الاخدود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%a7%d8%ae%d8%af%d9%88%d8%af) | N/A |
-| 35 | [#حرق_كونان](http://twitter.com/search?q=%23%d8%ad%d8%b1%d9%82_%d9%83%d9%88%d9%86%d8%a7%d9%86) | N/A |
-| 36 | [#ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 37 | [#الرسايل_الخاصه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%b3%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 38 | [#اوقفو_قناه_الواقع](http://twitter.com/search?q=%23%d8%a7%d9%88%d9%82%d9%81%d9%88_%d9%82%d9%86%d8%a7%d9%87_%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9) | N/A |
-| 39 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 40 | [#KSAU_Hackathon](http://twitter.com/search?q=%23KSAU_Hackathon) | N/A |
-| 41 | [#القريات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%b1%d9%8a%d8%a7%d8%aa) | N/A |
-| 42 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
-| 43 | [#فواز_الزهراني_وريو](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2_%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d9%86%d9%8a_%d9%88%d8%b1%d9%8a%d9%88) | N/A |
-| 44 | [#انس_المطيري_نحبك](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b3_%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1%d9%8a_%d9%86%d8%ad%d8%a8%d9%83) | N/A |
-| 45 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 46 | [#تعليم_الرياض](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 14 | [الجهاز الطبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a) | الجهاز الطبي is a medical device in Arabic. In English, it means medical equipment or medical instrument. |
+| 15 | [روي كوستا](http://twitter.com/search?q=%d8%b1%d9%88%d9%8a+%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | N/A |
+| 16 | [معين عبدالملك](http://twitter.com/search?q=%d9%85%d8%b9%d9%8a%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 17 | [الدفعات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 18 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 19 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
+| 20 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 21 | [الخلف الاصل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%81+%d8%a7%d9%84%d8%a7%d8%b5%d9%84) | N/A |
+| 22 | [كاس السوبر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | كاس السوبر (Kass al-Souper) is an Arabic phrase that translates to "Super Cup" in English. It is a term used to refer to a cup or trophy awarded to the winner of a football tournament or championship. |
+| 23 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
+| 24 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 25 | [نيكولاس ميليسي](http://twitter.com/search?q=%d9%86%d9%8a%d9%83%d9%88%d9%84%d8%a7%d8%b3+%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | N/A |
+| 26 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 27 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 28 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 29 | [الثوب النسخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%a8+%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d9%87) | N/A |
+| 30 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 31 | [الحزم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b2%d9%85) | N/A |
+| 32 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 33 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 34 | [ابو ثوب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ab%d9%88%d8%a8) | N/A |
+| 35 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 36 | [وليد البحيح](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%a7%d9%84%d8%a8%d8%ad%d9%8a%d8%ad) | N/A |
+| 37 | [السومة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d8%a9) | N/A |
+| 38 | [المهارات الثقافيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a%d9%87) | N/A |
+| 39 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 40 | [The Last of Us - S01](http://twitter.com/search?q=The+Last+of+Us+-+S01) | N/A |
+| 41 | [ويليان](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d9%8a%d8%a7%d9%86) | ويليان (pronounced "Villian") is an Arabic name meaning "strong-willed". It is often used as a given name for boys. |
+| 42 | [الفحص الطبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%ad%d8%b5+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a) | N/A |
+| 43 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 44 | [بدر خلف](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%ae%d9%84%d9%81) | N/A |
+| 45 | [المطالبات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 46 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
+| 47 | [ايسكو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b3%d9%83%d9%88) | N/A |
+| 48 | [النشاط الطلابي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b4%d8%a7%d8%b7+%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8%d9%8a) | N/A |
+| 49 | [جامعه تبوك](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%aa%d8%a8%d9%88%d9%83) | N/A |
+| 50 | [الالعاب الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
 
 
 

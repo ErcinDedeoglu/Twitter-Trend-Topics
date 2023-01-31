@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-01-31 16:17:23 UTC`
+📆 Last Updated: `2023-01-31 17:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 2 | [Fort](http://twitter.com/search?q=Fort) | N/A |
-| 3 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
-| 4 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | Tyler Huntley is a name. It does not have a specific meaning in English. |
-| 5 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | N/A |
-| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 7 | [#XMenVote](http://twitter.com/search?q=%23XMenVote) | N/A |
-| 8 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 9 | [#chainsawman119](http://twitter.com/search?q=%23chainsawman119) | N/A |
-| 10 | [Dexter Fowler](http://twitter.com/search?q=Dexter+Fowler) | N/A |
-| 11 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 12 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 13 | [#NationalHotChocolateDay](http://twitter.com/search?q=%23NationalHotChocolateDay) | N/A |
-| 14 | [Frenzy](http://twitter.com/search?q=Frenzy) | N/A |
-| 15 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 16 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 17 | [Mitch Daniels](http://twitter.com/search?q=Mitch+Daniels) | N/A |
-| 18 | [Dazzler](http://twitter.com/search?q=Dazzler) | N/A |
-| 19 | [Jubilee](http://twitter.com/search?q=Jubilee) | N/A |
-| 20 | [I EXPECT](http://twitter.com/search?q=I+EXPECT) | N/A |
-| 21 | [Juggernaut](http://twitter.com/search?q=Juggernaut) | N/A |
-| 22 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
-| 23 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 24 | [Fillmore](http://twitter.com/search?q=Fillmore) | N/A |
-| 25 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 26 | [Karon Blake](http://twitter.com/search?q=Karon+Blake) | N/A |
-| 27 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 28 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
-| 29 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
+| 2 | [#Dallas](http://twitter.com/search?q=%23Dallas) | N/A |
+| 3 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 4 | [Fort](http://twitter.com/search?q=Fort) | N/A |
+| 5 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
+| 6 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | N/A |
+| 7 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | N/A |
+| 8 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | Tyler Huntley is a name. It does not have a specific meaning in English. |
+| 9 | [#3YearsOfMissAmericana](http://twitter.com/search?q=%233YearsOfMissAmericana) | N/A |
+| 10 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 12 | [#XMenVote](http://twitter.com/search?q=%23XMenVote) | N/A |
+| 13 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 14 | [Dexter Fowler](http://twitter.com/search?q=Dexter+Fowler) | N/A |
+| 15 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
+| 16 | [Fillmore](http://twitter.com/search?q=Fillmore) | N/A |
+| 17 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 18 | [The Brave and the Bold](http://twitter.com/search?q=The+Brave+and+the+Bold) | N/A |
+| 19 | [Booster Gold](http://twitter.com/search?q=Booster+Gold) | N/A |
+| 20 | [Frenzy](http://twitter.com/search?q=Frenzy) | N/A |
+| 21 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 22 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | N/A |
+| 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 24 | [The Authority](http://twitter.com/search?q=The+Authority) | N/A |
+| 25 | [Dazzler](http://twitter.com/search?q=Dazzler) | N/A |
+| 26 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 27 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 28 | [I EXPECT](http://twitter.com/search?q=I+EXPECT) | N/A |
+| 29 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
 | 30 | [Bristol Bay](http://twitter.com/search?q=Bristol+Bay) | N/A |
-| 31 | [I LOVE GOD](http://twitter.com/search?q=I+LOVE+GOD) | N/A |
-| 32 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 33 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 34 | [Prodigy](http://twitter.com/search?q=Prodigy) | N/A |
-| 35 | [Jacoby Brissett](http://twitter.com/search?q=Jacoby+Brissett) | N/A |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 38 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
-| 39 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
-| 40 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
-| 41 | [St. John Bosco](http://twitter.com/search?q=St.+John+Bosco) | N/A |
-| 42 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 43 | [Yoru](http://twitter.com/search?q=Yoru) | N/A |
-| 44 | [Thunder Sleet](http://twitter.com/search?q=Thunder+Sleet) | N/A |
-| 45 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 46 | [James Gunn](http://twitter.com/search?q=James+Gunn) | N/A |
-| 47 | [Wordle 591 X](http://twitter.com/search?q=Wordle+591+X) | N/A |
-| 48 | [Myocarditis](http://twitter.com/search?q=Myocarditis) | N/A |
-| 49 | [Luis Redondo](http://twitter.com/search?q=Luis+Redondo) | N/A |
-| 50 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
+| 31 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 32 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 33 | [I LOVE GOD](http://twitter.com/search?q=I+LOVE+GOD) | N/A |
+| 34 | [Karon Blake](http://twitter.com/search?q=Karon+Blake) | N/A |
+| 35 | [Mitch Daniels](http://twitter.com/search?q=Mitch+Daniels) | N/A |
+| 36 | [Jubilee](http://twitter.com/search?q=Jubilee) | N/A |
+| 37 | [$MSGM](http://twitter.com/search?q=%24MSGM) | N/A |
+| 38 | [Weezy](http://twitter.com/search?q=Weezy) | N/A |
+| 39 | [Yoru](http://twitter.com/search?q=Yoru) | N/A |
+| 40 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
+| 41 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
+| 42 | [Juggernaut](http://twitter.com/search?q=Juggernaut) | N/A |
+| 43 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 44 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 45 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 46 | [Jacoby](http://twitter.com/search?q=Jacoby) | N/A |
+| 47 | [Prodigy](http://twitter.com/search?q=Prodigy) | N/A |
+| 48 | [Concealed](http://twitter.com/search?q=Concealed) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
 
 
 
