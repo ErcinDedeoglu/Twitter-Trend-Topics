@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-01-31 01:43:34 UTC`
+📆 Last Updated: `2023-01-31 02:39:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [e-tactical sergap](http://twitter.com/search?q=e-tactical+sergap) | N/A |
+| 1 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
 | 2 | [motor listrik militer](http://twitter.com/search?q=motor+listrik+militer) | N/A |
 | 3 | [siap mengaspal](http://twitter.com/search?q=siap+mengaspal) | N/A |
-| 4 | [#NCT127_Say_AyYo](http://twitter.com/search?q=%23NCT127_Say_AyYo) | #NCT127_Say_AyYo is a hashtag used by fans of the South Korean boy band NCT 127. It is used to show support for the group and to encourage them to keep making music. The phrase "AyYo" is a combination of the words "Ah" and "Yo", which can be used as an expression of excitement or enthusiasm. |
-| 5 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 6 | [#NgabalinNgibul](http://twitter.com/search?q=%23NgabalinNgibul) | N/A |
+| 4 | [e-tactical sergap](http://twitter.com/search?q=e-tactical+sergap) | N/A |
+| 5 | [Witan](http://twitter.com/search?q=Witan) | N/A |
+| 6 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
 | 7 | [#belanjasuperhemat](http://twitter.com/search?q=%23belanjasuperhemat) | N/A |
-| 8 | [Mari Bela Islam](http://twitter.com/search?q=Mari+Bela+Islam) | N/A |
-| 9 | [tambah kehidupmu](http://twitter.com/search?q=tambah+kehidupmu) | N/A |
-| 10 | [Khilafah Adalah Junnah](http://twitter.com/search?q=Khilafah+Adalah+Junnah) | N/A |
-| 11 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 12 | [Satu Abad NU](http://twitter.com/search?q=Satu+Abad+NU) | Satu Abad NU is an Indonesian phrase that translates to "One Century Now". It is a slogan used to promote the idea of a new century of progress and development in Indonesia. |
-| 13 | [Witan](http://twitter.com/search?q=Witan) | N/A |
-| 14 | [rokok bukan untuk anak](http://twitter.com/search?q=rokok+bukan+untuk+anak) | N/A |
+| 8 | [#jinglehitslazada](http://twitter.com/search?q=%23jinglehitslazada) | N/A |
+| 9 | [Mari Bela Islam](http://twitter.com/search?q=Mari+Bela+Islam) | N/A |
+| 10 | [tambah kehidupmu](http://twitter.com/search?q=tambah+kehidupmu) | N/A |
+| 11 | [Shafaa](http://twitter.com/search?q=Shafaa) | N/A |
+| 12 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 13 | [Satu Abad NU](http://twitter.com/search?q=Satu+Abad+NU) | Satu Abad NU is an Indonesian phrase that translates to "One Century Now". It is a slogan used to promote the idea of a new century of progress and development in Indonesia. |
+| 14 | [Baby Shark](http://twitter.com/search?q=Baby+Shark) | N/A |
 | 15 | [vibing with bts](http://twitter.com/search?q=vibing+with+bts) | N/A |
-| 16 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 17 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
-| 18 | [WE LOVE YOU JAEMIN](http://twitter.com/search?q=WE+LOVE+YOU+JAEMIN) | N/A |
-| 19 | [kerja wamenhan m herindra](http://twitter.com/search?q=kerja+wamenhan+m+herindra) | N/A |
-| 20 | [loyal - beri terbaik](http://twitter.com/search?q=loyal+-+beri+terbaik) | N/A |
-| 21 | [hitz jingle lazada](http://twitter.com/search?q=hitz+jingle+lazada) | N/A |
-| 22 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
-| 23 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 24 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
-| 25 | [balitbang kemhan](http://twitter.com/search?q=balitbang+kemhan) | N/A |
-| 26 | [Diri](http://twitter.com/search?q=Diri) | N/A |
-| 27 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
-| 28 | [JD ID](http://twitter.com/search?q=JD+ID) | N/A |
+| 16 | [rokok bukan untuk anak](http://twitter.com/search?q=rokok+bukan+untuk+anak) | N/A |
+| 17 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
+| 18 | [Aljazair](http://twitter.com/search?q=Aljazair) | N/A |
+| 19 | [WE LOVE YOU JAEMIN](http://twitter.com/search?q=WE+LOVE+YOU+JAEMIN) | N/A |
+| 20 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 21 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
+| 22 | [Khilafah Adalah Junnah](http://twitter.com/search?q=Khilafah+Adalah+Junnah) | N/A |
+| 23 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
+| 24 | [hitz jingle lazada](http://twitter.com/search?q=hitz+jingle+lazada) | N/A |
+| 25 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 26 | [THANK YOU FANADDS](http://twitter.com/search?q=THANK+YOU+FANADDS) | N/A |
+| 27 | [Pernah](http://twitter.com/search?q=Pernah) | N/A |
+| 28 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
 | 29 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 30 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 31 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 32 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 33 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
-| 34 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 35 | [defend id](http://twitter.com/search?q=defend+id) | N/A |
-| 36 | [Orient](http://twitter.com/search?q=Orient) | N/A |
-| 37 | [Song Joongki](http://twitter.com/search?q=Song+Joongki) | N/A |
-| 38 | [Song Hye Kyo](http://twitter.com/search?q=Song+Hye+Kyo) | N/A |
-| 39 | [Nangka](http://twitter.com/search?q=Nangka) | N/A |
+| 30 | [Song Hye Kyo](http://twitter.com/search?q=Song+Hye+Kyo) | N/A |
+| 31 | [JD ID](http://twitter.com/search?q=JD+ID) | N/A |
+| 32 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 33 | [Orient](http://twitter.com/search?q=Orient) | N/A |
+| 34 | [Diri](http://twitter.com/search?q=Diri) | N/A |
+| 35 | [Nangka](http://twitter.com/search?q=Nangka) | N/A |
+| 36 | [Cha Eun Sang](http://twitter.com/search?q=Cha+Eun+Sang) | N/A |
+| 37 | [shin tae yong](http://twitter.com/search?q=shin+tae+yong) | N/A |
+| 38 | [revolusi pssi](http://twitter.com/search?q=revolusi+pssi) | N/A |
+| 39 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 | 40 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 41 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 41 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
 | 42 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 43 | [Tiap](http://twitter.com/search?q=Tiap) | N/A |
-| 44 | [shin tae yong](http://twitter.com/search?q=shin+tae+yong) | N/A |
-| 45 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 46 | [revolusi pssi](http://twitter.com/search?q=revolusi+pssi) | N/A |
-| 47 | [Persija](http://twitter.com/search?q=Persija) | Persija is a football club based in Jakarta, Indonesia. The name is derived from the Sanskrit word for 'victory', and it is also the nickname of the team's supporters. In English, Persija translates to 'Victorious'. |
-| 48 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
+| 43 | [Bunuh](http://twitter.com/search?q=Bunuh) | N/A |
+| 44 | [Putus](http://twitter.com/search?q=Putus) | N/A |
+| 45 | [Fairy](http://twitter.com/search?q=Fairy) | N/A |
+| 46 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 47 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
+| 48 | [Song Joongki](http://twitter.com/search?q=Song+Joongki) | N/A |
 
 
 

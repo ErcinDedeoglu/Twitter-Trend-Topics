@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-01-31 01:43:33 UTC`
+📆 Last Updated: `2023-01-31 02:39:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,10 +27,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 10 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
 | 11 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
 | 12 | [Typen](http://twitter.com/search?q=Typen) | N/A |
-| 13 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 14 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 15 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 16 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 13 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 14 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 15 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 16 | [Basel](http://twitter.com/search?q=Basel) | N/A |
 | 17 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
 | 18 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
 | 19 | [Sion](http://twitter.com/search?q=Sion) | N/A |
@@ -38,15 +38,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 21 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 22 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
 | 23 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 24 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 24 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 25 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 26 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 27 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 29 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 30 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
-| 31 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 32 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 27 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 28 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
+| 29 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 30 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 31 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 32 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
 | 33 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
 | 34 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
 | 35 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
@@ -55,12 +55,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 38 | [Energie](http://twitter.com/search?q=Energie) | N/A |
 | 39 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
 | 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 41 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 41 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 42 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 43 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
 | 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 45 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
-| 46 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 45 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 47 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
 
 

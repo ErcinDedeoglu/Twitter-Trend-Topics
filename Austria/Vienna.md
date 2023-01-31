@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-01-31 01:43:27 UTC`
+📆 Last Updated: `2023-01-31 02:39:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,34 +23,34 @@ This is top 50 for [Austria](</Austria>)
 | 6 | [#spoe](http://twitter.com/search?q=%23spoe) | N/A |
 | 7 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 8 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 9 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 10 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 11 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 12 | [fleckerlteppich](http://twitter.com/search?q=fleckerlteppich) | N/A |
-| 13 | [Wählerinnen](http://twitter.com/search?q=W%c3%a4hlerinnen) | N/A |
-| 14 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
-| 15 | [traiskirchen](http://twitter.com/search?q=traiskirchen) | N/A |
-| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 17 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 18 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 19 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
-| 20 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 21 | [Vorzugsstimmen](http://twitter.com/search?q=Vorzugsstimmen) | N/A |
-| 22 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
-| 23 | [mikl-leitner](http://twitter.com/search?q=mikl-leitner) | N/A |
-| 24 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
-| 25 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 26 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 27 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 28 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 29 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 30 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
+| 9 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 10 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 11 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 12 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 13 | [fleckerlteppich](http://twitter.com/search?q=fleckerlteppich) | N/A |
+| 14 | [wählerinnen](http://twitter.com/search?q=w%c3%a4hlerinnen) | N/A |
+| 15 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 16 | [traiskirchen](http://twitter.com/search?q=traiskirchen) | N/A |
+| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 18 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 19 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 20 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 21 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 22 | [Vorzugsstimmen](http://twitter.com/search?q=Vorzugsstimmen) | N/A |
+| 23 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
+| 24 | [mikl-leitner](http://twitter.com/search?q=mikl-leitner) | N/A |
+| 25 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
+| 26 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 27 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 28 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 29 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 30 | [roten](http://twitter.com/search?q=roten) | N/A |
 | 31 | [Grün](http://twitter.com/search?q=Gr%c3%bcn) | N/A |
-| 32 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 32 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
 | 33 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 34 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 35 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
-| 36 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
+| 34 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 35 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
+| 36 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
 | 37 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
 | 38 | [Aufgaben](http://twitter.com/search?q=Aufgaben) | N/A |
 | 39 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Austria](</Austria>)
 | 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 47 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
 | 48 | [Möglichkeiten](http://twitter.com/search?q=M%c3%b6glichkeiten) | N/A |
-| 49 | [Leut](http://twitter.com/search?q=Leut) | N/A |
-| 50 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 49 | [leut](http://twitter.com/search?q=leut) | N/A |
+| 50 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
 
 
 

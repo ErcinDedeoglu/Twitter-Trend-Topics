@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-01-31 01:43:28 UTC`
+📆 Last Updated: `2023-01-31 02:39:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,31 +37,31 @@ This is top 50 for [France](</France>)
 | 20 | [Monica Bellucci](http://twitter.com/search?q=Monica+Bellucci) | N/A |
 | 21 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
 | 22 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 23 | [Mitroglou](http://twitter.com/search?q=Mitroglou) | N/A |
-| 24 | [Grève du 31](http://twitter.com/search?q=Gr%c3%a8ve+du+31) | N/A |
-| 25 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 26 | [Chabat](http://twitter.com/search?q=Chabat) | N/A |
-| 27 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 23 | [grève du 31](http://twitter.com/search?q=gr%c3%a8ve+du+31) | N/A |
+| 24 | [Mitroglou](http://twitter.com/search?q=Mitroglou) | N/A |
+| 25 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 26 | [VERRATTI](http://twitter.com/search?q=VERRATTI) | N/A |
+| 27 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
 | 28 | [danois](http://twitter.com/search?q=danois) | N/A |
 | 29 | [Mistral](http://twitter.com/search?q=Mistral) | N/A |
-| 30 | [VERRATTI](http://twitter.com/search?q=VERRATTI) | N/A |
-| 31 | [Payet](http://twitter.com/search?q=Payet) | N/A |
-| 32 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 33 | [Photon](http://twitter.com/search?q=Photon) | N/A |
-| 34 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 35 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
-| 36 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 37 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
-| 38 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 39 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 40 | [Canet](http://twitter.com/search?q=Canet) | N/A |
-| 41 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 42 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 43 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 44 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 45 | [Vercoutre](http://twitter.com/search?q=Vercoutre) | N/A |
+| 30 | [Chabat](http://twitter.com/search?q=Chabat) | N/A |
+| 31 | [Photon](http://twitter.com/search?q=Photon) | N/A |
+| 32 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 33 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 34 | [Payet](http://twitter.com/search?q=Payet) | N/A |
+| 35 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 36 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
+| 37 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
+| 38 | [Canet](http://twitter.com/search?q=Canet) | N/A |
+| 39 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 40 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 41 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 42 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 43 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 44 | [Vercoutre](http://twitter.com/search?q=Vercoutre) | N/A |
+| 45 | [Spencer](http://twitter.com/search?q=Spencer) | N/A |
 | 46 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 47 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 47 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-01-31 01:43:27 UTC`
+📆 Last Updated: `2023-01-31 02:39:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
 | 2 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
 | 3 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
-| 4 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 5 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
+| 4 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
+| 5 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
 | 6 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 7 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
 | 8 | [F-16](http://twitter.com/search?q=F-16) | N/A |
 | 9 | [Billa](http://twitter.com/search?q=Billa) | N/A |
 | 10 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 11 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
-| 12 | [Poncyliusz](http://twitter.com/search?q=Poncyliusz) | N/A |
+| 12 | [poncyliusz](http://twitter.com/search?q=poncyliusz) | N/A |
 | 13 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
 | 14 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
 | 15 | [Gual](http://twitter.com/search?q=Gual) | N/A |
@@ -35,33 +35,33 @@ This is top 50 for [Poland](</Poland>)
 | 18 | [iranie](http://twitter.com/search?q=iranie) | N/A |
 | 19 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 20 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 21 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
+| 21 | [lechii](http://twitter.com/search?q=lechii) | N/A |
 | 22 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
 | 23 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
 | 24 | [zielińskiego](http://twitter.com/search?q=zieli%c5%84skiego) | N/A |
-| 25 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
-| 26 | [Juras](http://twitter.com/search?q=Juras) | N/A |
-| 27 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 28 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 25 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
+| 26 | [juras](http://twitter.com/search?q=juras) | N/A |
+| 27 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
 | 30 | [F-35](http://twitter.com/search?q=F-35) | N/A |
 | 31 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
 | 32 | [Wika](http://twitter.com/search?q=Wika) | N/A |
 | 33 | [wiki](http://twitter.com/search?q=wiki) | N/A |
-| 34 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
-| 35 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
-| 36 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 34 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 35 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 36 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
 | 37 | [O 13](http://twitter.com/search?q=O+13) | N/A |
 | 38 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
 | 39 | [Juszczenko](http://twitter.com/search?q=Juszczenko) | N/A |
-| 40 | [DOSLOWNIE](http://twitter.com/search?q=DOSLOWNIE) | N/A |
+| 40 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
 | 41 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
 | 42 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
 | 43 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
-| 44 | [Belka](http://twitter.com/search?q=Belka) | N/A |
-| 45 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
+| 44 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
+| 45 | [Belka](http://twitter.com/search?q=Belka) | N/A |
 | 46 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 47 | [Tatrach](http://twitter.com/search?q=Tatrach) | N/A |
+| 47 | [tatrach](http://twitter.com/search?q=tatrach) | N/A |
 | 48 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 
 

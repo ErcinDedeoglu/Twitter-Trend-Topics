@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-01-31 01:43:54 UTC`
+📆 Last Updated: `2023-01-31 02:40:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 2 | [Trey](http://twitter.com/search?q=Trey) | N/A |
-| 3 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 4 | [Palm Springs](http://twitter.com/search?q=Palm+Springs) | N/A |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 7 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
-| 8 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 9 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 10 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 11 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 13 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
-| 14 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 15 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
-| 16 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
-| 17 | [Gable](http://twitter.com/search?q=Gable) | N/A |
-| 18 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 19 | [Raty](http://twitter.com/search?q=Raty) | Raty is a Finnish online payment system that allows customers to pay for goods and services in installments. It is similar to a layaway plan, allowing customers to pay for items over time rather than all at once. The word Raty is derived from the Finnish word "ratkaista," which means "to solve." |
-| 20 | [American Graffiti](http://twitter.com/search?q=American+Graffiti) | American Graffiti is a 1973 American coming-of-age comedy film directed and co-written by George Lucas. Set in 1962 Modesto, California, the film is a study of the cruising and rock and roll cultures popular among the post–World War II baby boom generation. The film's meaning in English is that it is a nostalgic look at teenage life in the early 1960s. |
-| 21 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 22 | [Dallas Zoo](http://twitter.com/search?q=Dallas+Zoo) | Dallas Zoo is a zoological park located in Dallas, Texas. It is home to over 2,000 animals representing 406 species. The zoo is divided into several sections, including the Wilds of Africa, the Giants of the Savanna, and the Children's Zoo. Visitors can explore these areas and learn about the animals that inhabit them. |
-| 23 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
-| 24 | [#WhatYoullNeverSeeInMyHouse](http://twitter.com/search?q=%23WhatYoullNeverSeeInMyHouse) | N/A |
-| 25 | [Chris and Patrick](http://twitter.com/search?q=Chris+and+Patrick) | Chris and Patrick is a phrase that is used to refer to two people who are close friends. It can also be used to describe a situation in which two people are working together on something. |
-| 26 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 27 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
-| 28 | [Tahzjuan](http://twitter.com/search?q=Tahzjuan) | N/A |
-| 29 | [Schaffrillas](http://twitter.com/search?q=Schaffrillas) | Schaffrillas is a slang term used to describe someone who is stylish and fashionable. It is derived from the words "sharp" and "thriller," and it can be used to describe someone who always looks their best. |
-| 30 | [Penny Marshall](http://twitter.com/search?q=Penny+Marshall) | N/A |
-| 31 | [Woodward](http://twitter.com/search?q=Woodward) | N/A |
-| 32 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 33 | [Latto](http://twitter.com/search?q=Latto) | N/A |
-| 34 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 35 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 36 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 37 | [Beau](http://twitter.com/search?q=Beau) | N/A |
-| 38 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 39 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 40 | [Tommy John](http://twitter.com/search?q=Tommy+John) | Tommy John is a surgical procedure in which a tendon from another part of the body is used to replace an injured elbow ligament in the arm. It is named after former Major League Baseball pitcher Tommy John, who was the first athlete to undergo the procedure. The surgery has become increasingly common among professional athletes, and has helped many pitchers extend their careers. |
-| 41 | [Pinstripes](http://twitter.com/search?q=Pinstripes) | N/A |
-| 42 | [Hasenpfeffer Incorporated](http://twitter.com/search?q=Hasenpfeffer+Incorporated) | N/A |
-| 43 | [Judgement Day](http://twitter.com/search?q=Judgement+Day) | N/A |
-| 44 | [Happy Days](http://twitter.com/search?q=Happy+Days) | N/A |
-| 45 | [Casablanca](http://twitter.com/search?q=Casablanca) | N/A |
+| 1 | [Trey](http://twitter.com/search?q=Trey) | N/A |
+| 2 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 3 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
+| 4 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
+| 5 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 6 | [Palm Springs](http://twitter.com/search?q=Palm+Springs) | N/A |
+| 7 | [#VtuberUprsing](http://twitter.com/search?q=%23VtuberUprsing) | N/A |
+| 8 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 9 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 10 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 11 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 12 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 13 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 14 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 15 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 16 | [Shirley](http://twitter.com/search?q=Shirley) | Shirley is a female given name of English origin. It is derived from the Old English words scir (bright) and leah (meadow, clearing). The name Shirley means "bright meadow" or "bright clearing". |
+| 17 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
+| 18 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 19 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 20 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 21 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 22 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 23 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
+| 24 | [American Graffiti](http://twitter.com/search?q=American+Graffiti) | American Graffiti is a 1973 American coming-of-age comedy film directed and co-written by George Lucas. Set in 1962 Modesto, California, the film is a study of the cruising and rock and roll cultures popular among the post–World War II baby boom generation. The film's meaning in English is that it is a nostalgic look at teenage life in the early 1960s. |
+| 25 | [Gable](http://twitter.com/search?q=Gable) | Gable is a triangular section of wall at the end of a pitched roof. It is the area between the edges of the two sloping sides of a roof. In English, it is also used to refer to the entire end wall of a building, which includes both the gable and any other parts below it. |
+| 26 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
+| 27 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 28 | [Raty](http://twitter.com/search?q=Raty) | Raty is a Finnish online payment system that allows customers to pay for goods and services in installments. It is similar to a layaway plan, allowing customers to pay for items over time rather than all at once. The word Raty is derived from the Finnish word "ratkaista," which means "to solve." |
+| 29 | [Mo Wagner](http://twitter.com/search?q=Mo+Wagner) | N/A |
+| 30 | [#PrayForSchaffrillas](http://twitter.com/search?q=%23PrayForSchaffrillas) | N/A |
+| 31 | [Dallas Zoo](http://twitter.com/search?q=Dallas+Zoo) | Dallas Zoo is a zoological park located in Dallas, Texas. It is home to over 2,000 animals representing 406 species. The zoo is divided into several sections, including the Wilds of Africa, the Giants of the Savanna, and the Children's Zoo. Visitors can explore these areas and learn about the animals that inhabit them. |
+| 32 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 33 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 34 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 35 | [Tahzjuan](http://twitter.com/search?q=Tahzjuan) | N/A |
+| 36 | [AriZona Iced Tea](http://twitter.com/search?q=AriZona+Iced+Tea) | N/A |
+| 37 | [Candice](http://twitter.com/search?q=Candice) | N/A |
+| 38 | [Caleb Grill](http://twitter.com/search?q=Caleb+Grill) | N/A |
+| 39 | [Woodward](http://twitter.com/search?q=Woodward) | N/A |
+| 40 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 41 | [Chris and Patrick](http://twitter.com/search?q=Chris+and+Patrick) | Chris and Patrick is a phrase that is used to refer to two people who are close friends. It can also be used to describe a situation in which two people are working together on something. |
+| 42 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 43 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | N/A |
+| 44 | [Penny Marshall](http://twitter.com/search?q=Penny+Marshall) | N/A |
+| 45 | [Latto](http://twitter.com/search?q=Latto) | N/A |
 
 
 

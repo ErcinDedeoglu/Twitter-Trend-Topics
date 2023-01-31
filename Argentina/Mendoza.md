@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-01-31 01:43:22 UTC`
+📆 Last Updated: `2023-01-31 02:39:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
-| 2 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
-| 3 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 4 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | N/A |
-| 5 | [Alfa y Ariel](http://twitter.com/search?q=Alfa+y+Ariel) | N/A |
-| 6 | [Comba](http://twitter.com/search?q=Comba) | N/A |
-| 7 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 8 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 9 | [Janson](http://twitter.com/search?q=Janson) | N/A |
-| 10 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 11 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
-| 12 | [#BlancosONegros](http://twitter.com/search?q=%23BlancosONegros) | N/A |
-| 13 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
-| 14 | [#Banfield](http://twitter.com/search?q=%23Banfield) | N/A |
-| 15 | [Miramon](http://twitter.com/search?q=Miramon) | N/A |
-| 16 | [Alfa al 9009](http://twitter.com/search?q=Alfa+al+9009) | N/A |
-| 17 | [Velez](http://twitter.com/search?q=Velez) | N/A |
-| 18 | [Big Ari](http://twitter.com/search?q=Big+Ari) | N/A |
-| 19 | [Colazo](http://twitter.com/search?q=Colazo) | N/A |
-| 20 | [Durso](http://twitter.com/search?q=Durso) | N/A |
-| 21 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 22 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
-| 23 | [Marabel](http://twitter.com/search?q=Marabel) | N/A |
-| 24 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 25 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
-| 26 | [Mi 2023](http://twitter.com/search?q=Mi+2023) | Mi 2023 is a Chinese term that refers to the year 2023. It literally translates to "the year of 2023" in English. |
-| 27 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
-| 28 | [milky dolly](http://twitter.com/search?q=milky+dolly) | N/A |
-| 29 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 30 | [Wado](http://twitter.com/search?q=Wado) | N/A |
-| 31 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 32 | [Liniers](http://twitter.com/search?q=Liniers) | N/A |
-| 33 | [Jones Huala](http://twitter.com/search?q=Jones+Huala) | Jones Huala is a phrase from the Hawaiian language meaning "to be strong and brave". It is often used as a mantra to encourage and motivate people to stay strong and brave in the face of adversity. |
-| 34 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 35 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 36 | [Pepín](http://twitter.com/search?q=Pep%c3%adn) | N/A |
-| 37 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 38 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 39 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 40 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
-| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 42 | [Sagitario](http://twitter.com/search?q=Sagitario) | N/A |
-| 43 | [Ruggeri](http://twitter.com/search?q=Ruggeri) | N/A |
-| 44 | [Lago Escondido](http://twitter.com/search?q=Lago+Escondido) | N/A |
-| 45 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
-| 46 | [Río Negro](http://twitter.com/search?q=R%c3%ado+Negro) | N/A |
-| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 48 | [Mapuche](http://twitter.com/search?q=Mapuche) | N/A |
-| 49 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 50 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
+| 1 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
+| 2 | [Rial](http://twitter.com/search?q=Rial) | Rial is the official currency of Iran. It is divided into 100 dinar and is denoted by the symbol "﷼". In English, it is sometimes referred to as the Iranian Rial or Persian Rial. |
+| 3 | [Alfa y Ariel](http://twitter.com/search?q=Alfa+y+Ariel) | Alfa y Ariel is a Spanish phrase that translates to Alpha and Ariel. It is often used as a way to refer to two people who are close friends or partners. |
+| 4 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
+| 5 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | N/A |
+| 6 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
+| 7 | [Big Ari](http://twitter.com/search?q=Big+Ari) | N/A |
+| 8 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
+| 9 | [#GranHermanoArgentina2022](http://twitter.com/search?q=%23GranHermanoArgentina2022) | N/A |
+| 10 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 11 | [La Virginia](http://twitter.com/search?q=La+Virginia) | N/A |
+| 12 | [Alfa al 9009](http://twitter.com/search?q=Alfa+al+9009) | N/A |
+| 13 | [Sol Pérez](http://twitter.com/search?q=Sol+P%c3%a9rez) | N/A |
+| 14 | [Magui Olave](http://twitter.com/search?q=Magui+Olave) | N/A |
+| 15 | [Comba](http://twitter.com/search?q=Comba) | N/A |
+| 16 | [Janson](http://twitter.com/search?q=Janson) | N/A |
+| 17 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 18 | [#Banfield](http://twitter.com/search?q=%23Banfield) | N/A |
+| 19 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
+| 20 | [Chirola](http://twitter.com/search?q=Chirola) | N/A |
+| 21 | [milky dolly](http://twitter.com/search?q=milky+dolly) | N/A |
+| 22 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
+| 23 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 24 | [Velez](http://twitter.com/search?q=Velez) | N/A |
+| 25 | [Si Ariel](http://twitter.com/search?q=Si+Ariel) | N/A |
+| 26 | [Durso](http://twitter.com/search?q=Durso) | N/A |
+| 27 | [Miramon](http://twitter.com/search?q=Miramon) | N/A |
+| 28 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 29 | [Colazo](http://twitter.com/search?q=Colazo) | N/A |
+| 30 | [Mele](http://twitter.com/search?q=Mele) | N/A |
+| 31 | [Cosquín](http://twitter.com/search?q=Cosqu%c3%adn) | N/A |
+| 32 | [Marcos Ginocchio](http://twitter.com/search?q=Marcos+Ginocchio) | N/A |
+| 33 | [kiara acosta](http://twitter.com/search?q=kiara+acosta) | N/A |
+| 34 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
+| 35 | [Insua](http://twitter.com/search?q=Insua) | N/A |
+| 36 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 37 | [Géminis](http://twitter.com/search?q=G%c3%a9minis) | Géminis is the Spanish word for Gemini, which is the third astrological sign in the zodiac. It is represented by the twins Castor and Pollux, and its symbol is the twins. In English, Géminis means Gemini. |
+| 38 | [Wado](http://twitter.com/search?q=Wado) | N/A |
+| 39 | [Marabel](http://twitter.com/search?q=Marabel) | N/A |
+| 40 | [Mi 2023](http://twitter.com/search?q=Mi+2023) | Mi 2023 is a Chinese term that refers to the year 2023. It literally translates to "the year of 2023" in English. |
+| 41 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 43 | [Jones Huala](http://twitter.com/search?q=Jones+Huala) | Jones Huala is a phrase from the Hawaiian language meaning "to be strong and brave". It is often used as a mantra to encourage and motivate people to stay strong and brave in the face of adversity. |
+| 44 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
+| 45 | [Liniers](http://twitter.com/search?q=Liniers) | N/A |
+| 46 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 47 | [Escorpio](http://twitter.com/search?q=Escorpio) | N/A |
+| 48 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
+| 49 | [Pepín](http://twitter.com/search?q=Pep%c3%adn) | N/A |
+| 50 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
 
 
 
