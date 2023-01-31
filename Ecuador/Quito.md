@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-01-31 15:15:36 UTC`
+📆 Last Updated: `2023-01-31 16:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cura](http://twitter.com/search?q=Cura) | N/A |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [Guayakill](http://twitter.com/search?q=Guayakill) | N/A |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [Moisés Caicedo](http://twitter.com/search?q=Mois%c3%a9s+Caicedo) | N/A |
-| 6 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | N/A |
-| 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 8 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 9 | [#BiuTheShowStar](http://twitter.com/search?q=%23BiuTheShowStar) | N/A |
-| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 11 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
-| 12 | [Enner](http://twitter.com/search?q=Enner) | N/A |
-| 13 | [Maldita](http://twitter.com/search?q=Maldita) | N/A |
-| 14 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
-| 15 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 16 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
-| 17 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 18 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 2 | [Guayakill](http://twitter.com/search?q=Guayakill) | N/A |
+| 3 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | N/A |
+| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 5 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
+| 6 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 7 | [Moisés Caicedo](http://twitter.com/search?q=Mois%c3%a9s+Caicedo) | N/A |
+| 8 | [Maldita](http://twitter.com/search?q=Maldita) | N/A |
+| 9 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 10 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
+| 11 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 12 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 14 | [#BiuTheShowStar](http://twitter.com/search?q=%23BiuTheShowStar) | N/A |
+| 15 | [#8VecesNOaLaConsultaDeLasso](http://twitter.com/search?q=%238VecesNOaLaConsultaDeLasso) | N/A |
+| 16 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 17 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 18 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 19 | [narcisa de jesús](http://twitter.com/search?q=narcisa+de+jes%c3%bas) | N/A |
-| 20 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 21 | [Ambato](http://twitter.com/search?q=Ambato) | N/A |
-| 22 | [zubeldia](http://twitter.com/search?q=zubeldia) | N/A |
-| 23 | ["DESGRACIADA"](http://twitter.com/search?q=%22DESGRACIADA%22) | N/A |
-| 24 | [INFELIZ](http://twitter.com/search?q=INFELIZ) | N/A |
-| 25 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 26 | [Jhon Jairo Cifuente](http://twitter.com/search?q=Jhon+Jairo+Cifuente) | N/A |
-| 27 | [Siguiendo](http://twitter.com/search?q=Siguiendo) | N/A |
-| 28 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
-| 29 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 30 | [El Niño](http://twitter.com/search?q=El+Ni%c3%b1o) | N/A |
-| 31 | [lunes 30](http://twitter.com/search?q=lunes+30) | N/A |
-| 32 | [guamaní](http://twitter.com/search?q=guaman%c3%ad) | N/A |
+| 20 | [La Gasca](http://twitter.com/search?q=La+Gasca) | N/A |
+| 21 | [Infeliz](http://twitter.com/search?q=Infeliz) | N/A |
+| 22 | ["DESGRACIADA"](http://twitter.com/search?q=%22DESGRACIADA%22) | N/A |
+| 23 | [Mikaella](http://twitter.com/search?q=Mikaella) | N/A |
+| 24 | [Jhon Jairo Cifuente](http://twitter.com/search?q=Jhon+Jairo+Cifuente) | N/A |
+| 25 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
+| 26 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
+| 27 | [El Niño](http://twitter.com/search?q=El+Ni%c3%b1o) | N/A |
+| 28 | [Ronny Aleaga](http://twitter.com/search?q=Ronny+Aleaga) | N/A |
+| 29 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 30 | [lunes 30](http://twitter.com/search?q=lunes+30) | N/A |
+| 31 | [guamaní](http://twitter.com/search?q=guaman%c3%ad) | N/A |
+| 32 | [Paján](http://twitter.com/search?q=Paj%c3%a1n) | N/A |
 | 33 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
 | 34 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 35 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 36 | [esteban paz](http://twitter.com/search?q=esteban+paz) | N/A |
-| 37 | [Martes 31](http://twitter.com/search?q=Martes+31) | N/A |
-| 38 | [cuniburo](http://twitter.com/search?q=cuniburo) | N/A |
-| 39 | [Ronny Aleaga](http://twitter.com/search?q=Ronny+Aleaga) | N/A |
+| 35 | [esteban paz](http://twitter.com/search?q=esteban+paz) | N/A |
+| 36 | [Carolina Jaume](http://twitter.com/search?q=Carolina+Jaume) | N/A |
+| 37 | [Paez](http://twitter.com/search?q=Paez) | N/A |
+| 38 | [Martes 31](http://twitter.com/search?q=Martes+31) | N/A |
+| 39 | [cuniburo](http://twitter.com/search?q=cuniburo) | N/A |
 | 40 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 41 | [carolina jaume](http://twitter.com/search?q=carolina+jaume) | N/A |
-| 42 | [Gonzalo Plata](http://twitter.com/search?q=Gonzalo+Plata) | N/A |
+| 41 | [Gonzalo Plata](http://twitter.com/search?q=Gonzalo+Plata) | N/A |
+| 42 | [Joker](http://twitter.com/search?q=Joker) | N/A |
 | 43 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
 | 44 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 | 45 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 46 | [Mikaella](http://twitter.com/search?q=Mikaella) | N/A |
+| 46 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
 | 47 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 48 | [Hello Kitty](http://twitter.com/search?q=Hello+Kitty) | N/A |
-| 49 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 50 | [Sargento](http://twitter.com/search?q=Sargento) | N/A |
+| 48 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 49 | [Sargento](http://twitter.com/search?q=Sargento) | N/A |
+| 50 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
 
 
 

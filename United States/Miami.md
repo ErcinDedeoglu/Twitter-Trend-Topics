@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-01-31 15:16:08 UTC`
+📆 Last Updated: `2023-01-31 16:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 2 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
-| 3 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 4 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
-| 5 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | Tyler Huntley is a name. It does not have a specific meaning in English. |
-| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 7 | [#XMenVote](http://twitter.com/search?q=%23XMenVote) | N/A |
-| 8 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 9 | [#FebruaryStarJihyoDay](http://twitter.com/search?q=%23FebruaryStarJihyoDay) | #FebruaryStarJihyoDay is a hashtag used by fans of the South Korean singer and actress Jihyo, who is a member of the K-pop girl group TWICE. The hashtag is used to celebrate Jihyo's birthday, which falls on February 1st. Fans use the hashtag to share photos, videos, and messages of support for Jihyo on her special day. |
-| 10 | [Frenzy](http://twitter.com/search?q=Frenzy) | N/A |
-| 11 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 12 | [Mitch Daniels](http://twitter.com/search?q=Mitch+Daniels) | N/A |
-| 13 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 14 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
-| 15 | [Dazzler](http://twitter.com/search?q=Dazzler) | N/A |
-| 16 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 17 | [I Love God](http://twitter.com/search?q=I+Love+God) | N/A |
-| 18 | [Juggernaut](http://twitter.com/search?q=Juggernaut) | N/A |
-| 19 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 1 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 2 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 3 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 4 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
+| 5 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
+| 6 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | Tyler Huntley is a name. It does not have a specific meaning in English. |
+| 7 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | N/A |
+| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 9 | [#XMenVote](http://twitter.com/search?q=%23XMenVote) | N/A |
+| 10 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 11 | [#chainsawman119](http://twitter.com/search?q=%23chainsawman119) | N/A |
+| 12 | [Dexter Fowler](http://twitter.com/search?q=Dexter+Fowler) | N/A |
+| 13 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 15 | [Frenzy](http://twitter.com/search?q=Frenzy) | N/A |
+| 16 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 17 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 18 | [Mitch Daniels](http://twitter.com/search?q=Mitch+Daniels) | N/A |
+| 19 | [Dazzler](http://twitter.com/search?q=Dazzler) | N/A |
 | 20 | [Jubilee](http://twitter.com/search?q=Jubilee) | N/A |
-| 21 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 22 | [Wordle 591 X](http://twitter.com/search?q=Wordle+591+X) | N/A |
-| 23 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
-| 24 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 25 | [St. John Bosco](http://twitter.com/search?q=St.+John+Bosco) | N/A |
-| 26 | [Jacoby Brissett](http://twitter.com/search?q=Jacoby+Brissett) | N/A |
-| 27 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 28 | [Jim Banks](http://twitter.com/search?q=Jim+Banks) | N/A |
-| 29 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
-| 30 | [Luis Redondo](http://twitter.com/search?q=Luis+Redondo) | N/A |
-| 31 | [Prodigy](http://twitter.com/search?q=Prodigy) | N/A |
-| 32 | [Myocarditis](http://twitter.com/search?q=Myocarditis) | N/A |
-| 33 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 34 | [Thunder Sleet](http://twitter.com/search?q=Thunder+Sleet) | N/A |
-| 35 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 36 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 37 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 38 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 39 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 40 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 41 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 42 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 43 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 44 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 45 | [Showering](http://twitter.com/search?q=Showering) | N/A |
-| 46 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 47 | [Ankh](http://twitter.com/search?q=Ankh) | N/A |
-| 48 | [NIMBY](http://twitter.com/search?q=NIMBY) | N/A |
+| 21 | [I EXPECT](http://twitter.com/search?q=I+EXPECT) | N/A |
+| 22 | [Juggernaut](http://twitter.com/search?q=Juggernaut) | N/A |
+| 23 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 24 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 25 | [Fillmore](http://twitter.com/search?q=Fillmore) | N/A |
+| 26 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 27 | [Karon Blake](http://twitter.com/search?q=Karon+Blake) | N/A |
+| 28 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 29 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
+| 30 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
+| 31 | [Bristol Bay](http://twitter.com/search?q=Bristol+Bay) | N/A |
+| 32 | [I LOVE GOD](http://twitter.com/search?q=I+LOVE+GOD) | N/A |
+| 33 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 34 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 35 | [Prodigy](http://twitter.com/search?q=Prodigy) | N/A |
+| 36 | [Jacoby Brissett](http://twitter.com/search?q=Jacoby+Brissett) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 39 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
+| 40 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
+| 41 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
+| 42 | [St. John Bosco](http://twitter.com/search?q=St.+John+Bosco) | N/A |
+| 43 | [Yoru](http://twitter.com/search?q=Yoru) | N/A |
+| 44 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 45 | [Thunder Sleet](http://twitter.com/search?q=Thunder+Sleet) | N/A |
+| 46 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 47 | [James Gunn](http://twitter.com/search?q=James+Gunn) | N/A |
+| 48 | [Wordle 591 X](http://twitter.com/search?q=Wordle+591+X) | N/A |
 
 
 

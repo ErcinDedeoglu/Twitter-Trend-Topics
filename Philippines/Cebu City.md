@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-01-31 15:15:53 UTC`
+📆 Last Updated: `2023-01-31 16:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 5 | [#SECONDWIND_Tracklist](http://twitter.com/search?q=%23SECONDWIND_Tracklist) | N/A |
 | 6 | [BSS ALBUM TRACKLIST](http://twitter.com/search?q=BSS+ALBUM+TRACKLIST) | BSS ALBUM TRACKLIST is a list of songs on an album by the Canadian band, Broken Social Scene. The tracklist includes the titles of each song on the album, as well as the length of each track. |
 | 7 | [youngji](http://twitter.com/search?q=youngji) | N/A |
-| 8 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 8 | [HAPPY BIRTHDAY DOIE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DOIE) | N/A |
 | 9 | [Mi Goreng](http://twitter.com/search?q=Mi+Goreng) | N/A |
-| 10 | [Happy 18M](http://twitter.com/search?q=Happy+18M) | N/A |
-| 11 | [scoups](http://twitter.com/search?q=scoups) | N/A |
-| 12 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 13 | [Anji Salvacion](http://twitter.com/search?q=Anji+Salvacion) | N/A |
+| 10 | [scoups](http://twitter.com/search?q=scoups) | N/A |
+| 11 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 12 | [Happy 18M](http://twitter.com/search?q=Happy+18M) | N/A |
+| 13 | [ONE TWO CONNECT](http://twitter.com/search?q=ONE+TWO+CONNECT) | ONE TWO CONNECT is a Japanese phrase that means "connecting people together". It is often used to refer to the idea of connecting people through communication, collaboration, and mutual understanding. |
 | 14 | [JANENELLA is THE Movement](http://twitter.com/search?q=JANENELLA+is+THE+Movement) | N/A |
-| 15 | [ONE TWO CONNECT](http://twitter.com/search?q=ONE+TWO+CONNECT) | ONE TWO CONNECT is a Japanese phrase that means "connecting people together". It is often used to refer to the idea of connecting people through communication, collaboration, and mutual understanding. |
-| 16 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
-| 17 | [KATHNIEL LOVES TNT](http://twitter.com/search?q=KATHNIEL+LOVES+TNT) | KATHNIEL LOVES TNT is a phrase used to express the love and support of fans for the Filipino celebrity couple Kathryn Bernardo and Daniel Padilla, also known as KathNiel. The acronym TNT stands for "Team Real Love" which is the official fan club of the couple. |
-| 18 | [Circle 1](http://twitter.com/search?q=Circle+1) | N/A |
-| 19 | [Dina Bonnevie](http://twitter.com/search?q=Dina+Bonnevie) | N/A |
-| 20 | [PROBLEM CHILD MV RELEASE](http://twitter.com/search?q=PROBLEM+CHILD+MV+RELEASE) | N/A |
-| 21 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 23 | [Winwin](http://twitter.com/search?q=Winwin) | N/A |
-| 24 | [DSWD](http://twitter.com/search?q=DSWD) | N/A |
-| 25 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 26 | [#SECONDWIND_D5](http://twitter.com/search?q=%23SECONDWIND_D5) | N/A |
-| 27 | [#경_아기두목생일_축](http://twitter.com/search?q=%23%ea%b2%bd_%ec%95%84%ea%b8%b0%eb%91%90%eb%aa%a9%ec%83%9d%ec%9d%bc_%ec%b6%95) | N/A |
-| 28 | [#MCIBaporTabo](http://twitter.com/search?q=%23MCIBaporTabo) | N/A |
-| 29 | [#SB19WhatMV18MViews](http://twitter.com/search?q=%23SB19WhatMV18MViews) | N/A |
-| 30 | [#NeverLetMeGoSeriesEP8](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP8) | N/A |
-| 31 | [#LuvIsIcedTea](http://twitter.com/search?q=%23LuvIsIcedTea) | N/A |
-| 32 | [#KPWorldTourHONGKONG](http://twitter.com/search?q=%23KPWorldTourHONGKONG) | N/A |
-| 33 | [#BiuTheShowStar](http://twitter.com/search?q=%23BiuTheShowStar) | N/A |
-| 34 | [#SmartPowersDonBelle](http://twitter.com/search?q=%23SmartPowersDonBelle) | N/A |
-| 35 | [#KathNielForTNT](http://twitter.com/search?q=%23KathNielForTNT) | N/A |
-| 36 | [#DarnaSuperLeague](http://twitter.com/search?q=%23DarnaSuperLeague) | N/A |
-| 37 | [#TNTDobleGigaPlus](http://twitter.com/search?q=%23TNTDobleGigaPlus) | N/A |
-| 38 | [#PolaroidLoveWithAcer](http://twitter.com/search?q=%23PolaroidLoveWithAcer) | N/A |
-| 39 | [#Darlentina](http://twitter.com/search?q=%23Darlentina) | N/A |
+| 15 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 16 | [Anji Salvacion](http://twitter.com/search?q=Anji+Salvacion) | N/A |
+| 17 | [Heechul](http://twitter.com/search?q=Heechul) | N/A |
+| 18 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 19 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
+| 20 | [KATHNIEL LOVES TNT](http://twitter.com/search?q=KATHNIEL+LOVES+TNT) | KATHNIEL LOVES TNT is a phrase used to express the love and support of fans for the Filipino celebrity couple Kathryn Bernardo and Daniel Padilla, also known as KathNiel. The acronym TNT stands for "Team Real Love" which is the official fan club of the couple. |
+| 21 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 22 | [Dina Bonnevie](http://twitter.com/search?q=Dina+Bonnevie) | N/A |
+| 23 | [Circle 1](http://twitter.com/search?q=Circle+1) | N/A |
+| 24 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 25 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 26 | [PROBLEM CHILD MV RELEASE](http://twitter.com/search?q=PROBLEM+CHILD+MV+RELEASE) | N/A |
+| 27 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 28 | [DSWD](http://twitter.com/search?q=DSWD) | N/A |
+| 29 | [#JonaxxACTYAKab40](http://twitter.com/search?q=%23JonaxxACTYAKab40) | N/A |
+| 30 | [#경_아기두목생일_축](http://twitter.com/search?q=%23%ea%b2%bd_%ec%95%84%ea%b8%b0%eb%91%90%eb%aa%a9%ec%83%9d%ec%9d%bc_%ec%b6%95) | N/A |
+| 31 | [#SB19WhatMV18MViews](http://twitter.com/search?q=%23SB19WhatMV18MViews) | N/A |
+| 32 | [#NeverLetMeGoSeriesEP8](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP8) | #NeverLetMeGoSeriesEP8 is a hashtag used to promote the eighth episode of the Netflix series Never Let Me Go. The hashtag encourages viewers to watch the episode and not miss out on any of the show's content. |
+| 33 | [#MCIBaporTabo](http://twitter.com/search?q=%23MCIBaporTabo) | N/A |
+| 34 | [#BiuTheShowStar](http://twitter.com/search?q=%23BiuTheShowStar) | N/A |
+| 35 | [#KPWorldTourHONGKONG](http://twitter.com/search?q=%23KPWorldTourHONGKONG) | N/A |
+| 36 | [#PolariodLoveWithAcer](http://twitter.com/search?q=%23PolariodLoveWithAcer) | N/A |
+| 37 | [#kathnielfortnt](http://twitter.com/search?q=%23kathnielfortnt) | N/A |
+| 38 | [#smartpowersdonbelle](http://twitter.com/search?q=%23smartpowersdonbelle) | N/A |
+| 39 | [#TNTDobleGigaPlus](http://twitter.com/search?q=%23TNTDobleGigaPlus) | N/A |
 | 40 | [#WWIW13](http://twitter.com/search?q=%23WWIW13) | N/A |
-| 41 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
-| 42 | [#Physical100](http://twitter.com/search?q=%23Physical100) | N/A |
-| 43 | [#1stOneisCOMING](http://twitter.com/search?q=%231stOneisCOMING) | N/A |
-| 44 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
-| 45 | [#sethfedelin](http://twitter.com/search?q=%23sethfedelin) | N/A |
-| 46 | [#PinkVenom](http://twitter.com/search?q=%23PinkVenom) | N/A |
-| 47 | [#VELENCExASTROSTUFFS](http://twitter.com/search?q=%23VELENCExASTROSTUFFS) | N/A |
-| 48 | [#ENDLESSJOURNEY](http://twitter.com/search?q=%23ENDLESSJOURNEY) | #ENDLESSJOURNEY is a hashtag used to describe a journey that has no end or destination. It is often used to express the idea of an ongoing journey of self-discovery, growth, and exploration. |
-| 49 | [#1stOnePROBLEMCHILD](http://twitter.com/search?q=%231stOnePROBLEMCHILD) | N/A |
-| 50 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 41 | [#Physical100](http://twitter.com/search?q=%23Physical100) | N/A |
+| 42 | [#PinkVenom](http://twitter.com/search?q=%23PinkVenom) | N/A |
+| 43 | [#ManiacTourinManila](http://twitter.com/search?q=%23ManiacTourinManila) | N/A |
+| 44 | [#Darlentina](http://twitter.com/search?q=%23Darlentina) | N/A |
+| 45 | [#barcodetin](http://twitter.com/search?q=%23barcodetin) | N/A |
+| 46 | [#BibleWichapas](http://twitter.com/search?q=%23BibleWichapas) | N/A |
+| 47 | [#sethfedelin](http://twitter.com/search?q=%23sethfedelin) | N/A |
+| 48 | [#VELENCExASTROSTUFFS](http://twitter.com/search?q=%23VELENCExASTROSTUFFS) | N/A |
+| 49 | [#ENDLESSJOURNEY](http://twitter.com/search?q=%23ENDLESSJOURNEY) | #ENDLESSJOURNEY is a hashtag used to describe a journey that has no end or destination. It is often used to express the idea of an ongoing journey of self-discovery, growth, and exploration. |
+| 50 | [#1stOnePROBLEMCHILD](http://twitter.com/search?q=%231stOnePROBLEMCHILD) | N/A |
 
 
 

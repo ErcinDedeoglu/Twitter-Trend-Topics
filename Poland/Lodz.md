@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-01-31 15:15:40 UTC`
+📆 Last Updated: `2023-01-31 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mastercardgrazwosp](http://twitter.com/search?q=%23mastercardgrazwosp) | N/A |
+| 1 | [#mastercardgrazwośp](http://twitter.com/search?q=%23mastercardgrazwo%c5%9bp) | N/A |
 | 2 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
 | 3 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
 | 4 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 5 | [Weszło](http://twitter.com/search?q=Wesz%c5%82o) | N/A |
 | 6 | [Haasa](http://twitter.com/search?q=Haasa) | N/A |
-| 7 | [Billa](http://twitter.com/search?q=Billa) | N/A |
-| 8 | [Roki](http://twitter.com/search?q=Roki) | N/A |
-| 9 | [owsiaka](http://twitter.com/search?q=owsiaka) | N/A |
-| 10 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 11 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 12 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
-| 13 | [poncyliusz](http://twitter.com/search?q=poncyliusz) | N/A |
-| 14 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 15 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 16 | [Maryla](http://twitter.com/search?q=Maryla) | N/A |
-| 17 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 18 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 19 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
-| 20 | [Anna Czerwińska](http://twitter.com/search?q=Anna+Czerwi%c5%84ska) | N/A |
-| 21 | [Bayernie](http://twitter.com/search?q=Bayernie) | N/A |
-| 22 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 23 | [Żoliborzu](http://twitter.com/search?q=%c5%bboliborzu) | N/A |
-| 24 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 25 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 26 | [patryk](http://twitter.com/search?q=patryk) | N/A |
-| 27 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
-| 28 | [artety](http://twitter.com/search?q=artety) | N/A |
-| 29 | [Deadline Day](http://twitter.com/search?q=Deadline+Day) | N/A |
-| 30 | [Jana Bosko](http://twitter.com/search?q=Jana+Bosko) | N/A |
-| 31 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 34 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 35 | [juras](http://twitter.com/search?q=juras) | N/A |
-| 36 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 37 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
-| 38 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 39 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 40 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
-| 41 | [Unia Europejska](http://twitter.com/search?q=Unia+Europejska) | N/A |
-| 42 | [O 13](http://twitter.com/search?q=O+13) | N/A |
-| 43 | [nicola zalewski](http://twitter.com/search?q=nicola+zalewski) | N/A |
-| 44 | [Marian](http://twitter.com/search?q=Marian) | N/A |
-| 45 | [mejza](http://twitter.com/search?q=mejza) | N/A |
-| 46 | [Mk 5](http://twitter.com/search?q=Mk+5) | N/A |
-| 47 | [Miziołek](http://twitter.com/search?q=Mizio%c5%82ek) | N/A |
-| 48 | [wiki](http://twitter.com/search?q=wiki) | N/A |
+| 7 | [Roki](http://twitter.com/search?q=Roki) | N/A |
+| 8 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
+| 9 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 10 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 11 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 12 | [poncyliusz](http://twitter.com/search?q=poncyliusz) | N/A |
+| 13 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 14 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 15 | [Maryla](http://twitter.com/search?q=Maryla) | N/A |
+| 16 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 17 | [Anna Czerwińska](http://twitter.com/search?q=Anna+Czerwi%c5%84ska) | N/A |
+| 18 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
+| 19 | [Bayernie](http://twitter.com/search?q=Bayernie) | N/A |
+| 20 | [Żoliborzu](http://twitter.com/search?q=%c5%bboliborzu) | N/A |
+| 21 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 22 | [patryk](http://twitter.com/search?q=patryk) | N/A |
+| 23 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 24 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
+| 25 | [Jana Bosko](http://twitter.com/search?q=Jana+Bosko) | N/A |
+| 26 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 27 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 28 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 31 | [Nowym Świecie](http://twitter.com/search?q=Nowym+%c5%9awiecie) | N/A |
+| 32 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 33 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 34 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
+| 35 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 36 | [Artety](http://twitter.com/search?q=Artety) | N/A |
+| 37 | [MEJZA](http://twitter.com/search?q=MEJZA) | N/A |
+| 38 | [Unia Europejska](http://twitter.com/search?q=Unia+Europejska) | N/A |
+| 39 | [O 13](http://twitter.com/search?q=O+13) | N/A |
+| 40 | [nicola zalewski](http://twitter.com/search?q=nicola+zalewski) | N/A |
+| 41 | [Marian](http://twitter.com/search?q=Marian) | N/A |
+| 42 | [Mk 5](http://twitter.com/search?q=Mk+5) | N/A |
+| 43 | [Miziołek](http://twitter.com/search?q=Mizio%c5%82ek) | N/A |
+| 44 | [wiki](http://twitter.com/search?q=wiki) | N/A |
+| 45 | [tatrach](http://twitter.com/search?q=tatrach) | N/A |
+| 46 | [Japierdole](http://twitter.com/search?q=Japierdole) | N/A |
+| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 48 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
 
 
 

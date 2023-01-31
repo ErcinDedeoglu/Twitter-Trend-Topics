@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-01-31 15:16:16 UTC`
+📆 Last Updated: `2023-01-31 16:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,7 +37,7 @@ This is top 50 for New Zealand
 | 20 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 | 21 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 22 | [jan tinetti](http://twitter.com/search?q=jan+tinetti) | N/A |
-| 23 | [Southland](http://twitter.com/search?q=Southland) | N/A |
+| 23 | [southland](http://twitter.com/search?q=southland) | N/A |
 | 24 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
 | 25 | [ayesha verrall](http://twitter.com/search?q=ayesha+verrall) | N/A |
 | 26 | [Tova](http://twitter.com/search?q=Tova) | N/A |
