@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-01-31 12:17:38 UTC`
+📆 Last Updated: `2023-01-31 13:21:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 2 | [#Buca](http://twitter.com/search?q=%23Buca) | N/A |
-| 3 | [Yedili Masa](http://twitter.com/search?q=Yedili+Masa) | Yedili Masa is a traditional Turkish game that is similar to checkers. It is played on a board with 64 squares, and each player has 12 pieces. The goal of the game is to capture all of the opponent's pieces. The name Yedili Masa translates to "Seven Table" in English, referring to the seven-by-seven grid of the board. |
-| 4 | [Ümit Özlale](http://twitter.com/search?q=%c3%9cmit+%c3%96zlale) | Ümit Özlale is a Turkish name, composed of two words: "Ümit" and "Özlale". "Ümit" means "hope" in Turkish, while "Özlale" is a combination of the words "öz" (meaning "self") and "lale" (meaning "tulip"). Therefore, the literal translation of Ümit Özlale is "Hope Tulip". |
-| 5 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
+| 2 | [#Bornova](http://twitter.com/search?q=%23Bornova) | N/A |
+| 3 | [#aliaga](http://twitter.com/search?q=%23aliaga) | N/A |
+| 4 | [#Buca](http://twitter.com/search?q=%23Buca) | N/A |
+| 5 | [#foca](http://twitter.com/search?q=%23foca) | N/A |
 | 6 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
 | 7 | [Futbola Siyaset Bulaştı](http://twitter.com/search?q=Futbola+Siyaset+Bula%c5%9ft%c4%b1) | Futbola Siyaset Bulaştı is a Turkish phrase that translates to "Politics has infiltrated football". It is used to describe the situation when politics becomes involved in the sport of football. |
 | 8 | [#KademeliPrimeHayır](http://twitter.com/search?q=%23KademeliPrimeHay%c4%b1r) | N/A |
-| 9 | [#yüzdeyüz](http://twitter.com/search?q=%23y%c3%bczdey%c3%bcz) | N/A |
-| 10 | [#KılıçdaroğluNeSöyledi](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9fluNeS%c3%b6yledi) | N/A |
-| 11 | [#piktesekadrohaktır](http://twitter.com/search?q=%23piktesekadrohakt%c4%b1r) | N/A |
+| 9 | [Yedili Masa](http://twitter.com/search?q=Yedili+Masa) | Yedili Masa is a traditional Turkish game that is similar to checkers. It is played on a board with 64 squares, and each player has 12 pieces. The goal of the game is to capture all of the opponent's pieces. The name Yedili Masa translates to "Seven Table" in English, referring to the seven-by-seven grid of the board. |
+| 10 | [GarnierinYildizi AfraSaraçoğlu](http://twitter.com/search?q=GarnierinYildizi+AfraSara%c3%a7o%c4%9flu) | N/A |
+| 11 | [Mert Aydın](http://twitter.com/search?q=Mert+Ayd%c4%b1n) | N/A |
 | 12 | [Aferin](http://twitter.com/search?q=Aferin) | N/A |
-| 13 | [Avrupa'dan](http://twitter.com/search?q=Avrupa%27dan) | N/A |
-| 14 | [AdilKapsamlı EhliyetAffı](http://twitter.com/search?q=AdilKapsaml%c4%b1+EhliyetAff%c4%b1) | N/A |
-| 15 | [Ünal Çetin](http://twitter.com/search?q=%c3%9cnal+%c3%87etin) | N/A |
-| 16 | [Liderimiz Sayın Devlet Bahçeli](http://twitter.com/search?q=Liderimiz+Say%c4%b1n+Devlet+Bah%c3%a7eli) | N/A |
-| 17 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 18 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
-| 19 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
-| 20 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
-| 21 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
-| 22 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
-| 23 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
+| 13 | [Bışar](http://twitter.com/search?q=B%c4%b1%c5%9far) | N/A |
+| 14 | [Ümit Özlale](http://twitter.com/search?q=%c3%9cmit+%c3%96zlale) | Ümit Özlale is a Turkish name, composed of two words: "Ümit" and "Özlale". "Ümit" means "hope" in Turkish, while "Özlale" is a combination of the words "öz" (meaning "self") and "lale" (meaning "tulip"). Therefore, the literal translation of Ümit Özlale is "Hope Tulip". |
+| 15 | [Tolga Ciğerci](http://twitter.com/search?q=Tolga+Ci%c4%9ferci) | N/A |
+| 16 | [Avrupa'dan](http://twitter.com/search?q=Avrupa%27dan) | N/A |
+| 17 | [AdilKapsamlı EhliyetAffı](http://twitter.com/search?q=AdilKapsaml%c4%b1+EhliyetAff%c4%b1) | N/A |
+| 18 | [Liderimiz Sayın Devlet Bahçeli](http://twitter.com/search?q=Liderimiz+Say%c4%b1n+Devlet+Bah%c3%a7eli) | N/A |
+| 19 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
+| 20 | [Muammer Aksoy](http://twitter.com/search?q=Muammer+Aksoy) | N/A |
+| 21 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 22 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
+| 23 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
 | 24 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 25 | [Fetö](http://twitter.com/search?q=Fet%c3%b6) | N/A |
-| 26 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
-| 27 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 28 | [1 Şubat Çarşamba](http://twitter.com/search?q=1+%c5%9eubat+%c3%87ar%c5%9famba) | N/A |
-| 29 | [Yıkım](http://twitter.com/search?q=Y%c4%b1k%c4%b1m) | N/A |
-| 30 | [KPSS](http://twitter.com/search?q=KPSS) | N/A |
-| 31 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
-| 32 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
-| 33 | [Mücahit](http://twitter.com/search?q=M%c3%bccahit) | N/A |
-| 34 | [Eski Türkiye](http://twitter.com/search?q=Eski+T%c3%bcrkiye) | N/A |
-| 35 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
-| 36 | [Mutabakat](http://twitter.com/search?q=Mutabakat) | N/A |
-| 37 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 38 | [Vizyon](http://twitter.com/search?q=Vizyon) | N/A |
-| 39 | [Tarikat](http://twitter.com/search?q=Tarikat) | N/A |
-| 40 | [#tiktokkapatılsın](http://twitter.com/search?q=%23tiktokkapat%c4%b1ls%c4%b1n) | N/A |
-| 41 | [#mRNAyaDava](http://twitter.com/search?q=%23mRNAyaDava) | N/A |
-| 42 | [#SadeceStajKaldı](http://twitter.com/search?q=%23SadeceStajKald%c4%b1) | N/A |
-| 43 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
-| 44 | [#2000SonrasıSeçimiBelirler](http://twitter.com/search?q=%232000Sonras%c4%b1Se%c3%a7imiBelirler) | N/A |
-| 45 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 46 | [#KöpekTerörü](http://twitter.com/search?q=%23K%c3%b6pekTer%c3%b6r%c3%bc) | N/A |
-| 47 | [#10MilyonAfİçinMecliste](http://twitter.com/search?q=%2310MilyonAf%c4%b0%c3%a7inMecliste) | N/A |
-| 48 | [#BagkurKomisyona](http://twitter.com/search?q=%23BagkurKomisyona) | N/A |
-| 49 | [#TarimaHak15BinZiraat](http://twitter.com/search?q=%23TarimaHak15BinZiraat) | N/A |
-| 50 | [#MuammerAksoy](http://twitter.com/search?q=%23MuammerAksoy) | N/A |
+| 25 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 26 | [Sınır](http://twitter.com/search?q=S%c4%b1n%c4%b1r) | N/A |
+| 27 | [1 Şubat Çarşamba](http://twitter.com/search?q=1+%c5%9eubat+%c3%87ar%c5%9famba) | N/A |
+| 28 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
+| 29 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
+| 30 | [Cumhur İttifakı](http://twitter.com/search?q=Cumhur+%c4%b0ttifak%c4%b1) | N/A |
+| 31 | [Yıkım](http://twitter.com/search?q=Y%c4%b1k%c4%b1m) | N/A |
+| 32 | [Mücahit](http://twitter.com/search?q=M%c3%bccahit) | N/A |
+| 33 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
+| 34 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
+| 35 | [KPSS](http://twitter.com/search?q=KPSS) | N/A |
+| 36 | [Eski Türkiye](http://twitter.com/search?q=Eski+T%c3%bcrkiye) | N/A |
+| 37 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | N/A |
+| 38 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
+| 39 | [Mutabakat](http://twitter.com/search?q=Mutabakat) | N/A |
+| 40 | [#yüzdeyüz](http://twitter.com/search?q=%23y%c3%bczdey%c3%bcz) | N/A |
+| 41 | [#KılıçdaroğluNeSöyledi](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9fluNeS%c3%b6yledi) | N/A |
+| 42 | [#tiktokkapatılsın](http://twitter.com/search?q=%23tiktokkapat%c4%b1ls%c4%b1n) | N/A |
+| 43 | [#piktesekadrohaktır](http://twitter.com/search?q=%23piktesekadrohakt%c4%b1r) | N/A |
+| 44 | [#SuVerimliliği](http://twitter.com/search?q=%23SuVerimlili%c4%9fi) | N/A |
+| 45 | [#mRNAyaDava](http://twitter.com/search?q=%23mRNAyaDava) | N/A |
+| 46 | [#SadeceStajKaldı](http://twitter.com/search?q=%23SadeceStajKald%c4%b1) | N/A |
+| 47 | [#BagkurKomisyona](http://twitter.com/search?q=%23BagkurKomisyona) | N/A |
+| 48 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
+| 49 | [#2000SonrasıSeçimiBelirler](http://twitter.com/search?q=%232000Sonras%c4%b1Se%c3%a7imiBelirler) | N/A |
+| 50 | [#GeliyorGelmekteOlan](http://twitter.com/search?q=%23GeliyorGelmekteOlan) | N/A |
 
 
 

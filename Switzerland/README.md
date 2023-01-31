@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-01-31 12:17:50 UTC`
+📆 Last Updated: `2023-01-31 13:21:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Switzerland
 | 3 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
 | 4 | [Russen](http://twitter.com/search?q=Russen) | N/A |
 | 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 6 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
-| 7 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 8 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
-| 9 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 10 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 6 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
+| 7 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 8 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 9 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 10 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
 | 11 | [Servette](http://twitter.com/search?q=Servette) | N/A |
 | 12 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [Satz](http://twitter.com/search?q=Satz) | N/A |
-| 15 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 16 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 17 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 14 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 15 | [Satz](http://twitter.com/search?q=Satz) | N/A |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 19 | [Basel](http://twitter.com/search?q=Basel) | N/A |
 | 20 | [Typen](http://twitter.com/search?q=Typen) | N/A |
 | 21 | [Energie](http://twitter.com/search?q=Energie) | N/A |
 | 22 | [Erde](http://twitter.com/search?q=Erde) | N/A |
 | 23 | [Dienst](http://twitter.com/search?q=Dienst) | N/A |
-| 24 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 25 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 26 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 27 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 28 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 29 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 30 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 31 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 32 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 33 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
+| 24 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
+| 25 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 26 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 27 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 28 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 29 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 30 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 31 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 32 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
+| 33 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
 | 34 | [Lage](http://twitter.com/search?q=Lage) | N/A |
 | 35 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
 | 36 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 37 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
-| 38 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 39 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 37 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 38 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 39 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 | 40 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
 | 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 42 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 43 | [steuern](http://twitter.com/search?q=steuern) | N/A |
+| 42 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 43 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
 | 44 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
 | 45 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 46 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 47 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 48 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 49 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
-| 50 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 46 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
+| 47 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 48 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 49 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 50 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
 
 
 

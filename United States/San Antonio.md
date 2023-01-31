@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-01-31 12:17:44 UTC`
+📆 Last Updated: `2023-01-31 13:21:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 3 | [#MileApoInHK](http://twitter.com/search?q=%23MileApoInHK) | #MileApoInHK is a hashtag used by people in Hong Kong to express their support for the ongoing pro-democracy protests in the city. The phrase "Mile Apo" is a Cantonese expression meaning "never give up". |
-| 4 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 2 | [#txwx](http://twitter.com/search?q=%23txwx) | N/A |
+| 3 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 4 | [#MileApoInHK](http://twitter.com/search?q=%23MileApoInHK) | #MileApoInHK is a hashtag used by people in Hong Kong to express their support for the ongoing pro-democracy protests in the city. The phrase "Mile Apo" is a Cantonese expression meaning "never give up". |
+| 5 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
 | 6 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 7 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
-| 8 | [#Wordle591](http://twitter.com/search?q=%23Wordle591) | N/A |
-| 9 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 10 | [Laverne](http://twitter.com/search?q=Laverne) | Laverne is a French name meaning "the alder tree". It is also a unisex name, often given to both boys and girls. |
-| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 12 | [Jorginho to Arsenal](http://twitter.com/search?q=Jorginho+to+Arsenal) | Jorginho to Arsenal is a phrase used to refer to the potential transfer of Italian midfielder Jorginho from Chelsea Football Club to Arsenal Football Club. It is a phrase used by fans and media outlets to speculate on the possibility of the transfer. |
-| 13 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 14 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 15 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
-| 16 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 17 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
-| 18 | [NOT OC](http://twitter.com/search?q=NOT+OC) | N/A |
-| 19 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 20 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
-| 21 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 22 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 23 | [AriZona Iced Tea](http://twitter.com/search?q=AriZona+Iced+Tea) | N/A |
-| 24 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 25 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
-| 26 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 27 | [Piccolo](http://twitter.com/search?q=Piccolo) | Piccolo is an Italian word meaning "small" or "little". It is often used to describe a small musical instrument, such as a flute or a trumpet. It can also be used to describe something that is small in size or amount. |
-| 28 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
-| 29 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
-| 30 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
-| 31 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 32 | [Atrioc](http://twitter.com/search?q=Atrioc) | Atrioc is a term used in the gaming community to refer to a player who is highly skilled and experienced in a particular game. It is derived from the Latin word "atrios" which means "skilled". |
-| 33 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 34 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
-| 35 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | N/A |
-| 36 | [#kywx](http://twitter.com/search?q=%23kywx) | N/A |
-| 37 | [#PrayForSchaffrillas](http://twitter.com/search?q=%23PrayForSchaffrillas) | N/A |
-| 38 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
-| 39 | [#CovidIsNotOver](http://twitter.com/search?q=%23CovidIsNotOver) | N/A |
-| 40 | [#WreckEm](http://twitter.com/search?q=%23WreckEm) | N/A |
-| 41 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 8 | [Wordle 591 X](http://twitter.com/search?q=Wordle+591+X) | N/A |
+| 9 | [I LOVE GOD](http://twitter.com/search?q=I+LOVE+GOD) | N/A |
+| 10 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 11 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 12 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 13 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 14 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 15 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 16 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 17 | [Bob Woodward](http://twitter.com/search?q=Bob+Woodward) | N/A |
+| 18 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 19 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 20 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
+| 21 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 22 | [Laverne](http://twitter.com/search?q=Laverne) | Laverne is a French name meaning "the alder tree". It is also a unisex name, often given to both boys and girls. |
+| 23 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 24 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
+| 25 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
+| 26 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 27 | [Sambi](http://twitter.com/search?q=Sambi) | Sambi is a Japanese term that refers to the practice of showing respect and appreciation for others. It is often used in the context of thanking someone for their help or kindness. In English, it can be translated as "gratitude" or "appreciation". |
+| 28 | [Cindy Williams](http://twitter.com/search?q=Cindy+Williams) | Cindy Williams is an American actress best known for her role as Shirley Feeney in the television sitcom Laverne & Shirley. She has also appeared in films such as American Graffiti and The Conversation. |
+| 29 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 30 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 31 | [not oc](http://twitter.com/search?q=not+oc) | N/A |
+| 32 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 33 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 34 | [Leones del Caracas](http://twitter.com/search?q=Leones+del+Caracas) | N/A |
+| 35 | [Piccolo](http://twitter.com/search?q=Piccolo) | Piccolo is an Italian word meaning "small" or "little". It is often used to describe a small musical instrument, such as a flute or a trumpet. It can also be used to describe something that is small in size or amount. |
+| 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 37 | [NIMBY](http://twitter.com/search?q=NIMBY) | N/A |
+| 38 | [AriZona Iced Tea](http://twitter.com/search?q=AriZona+Iced+Tea) | N/A |
+| 39 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
+| 40 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
+| 41 | [Morgan Wallen](http://twitter.com/search?q=Morgan+Wallen) | N/A |
+| 42 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 43 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 44 | [#NationalHotChocolateDay](http://twitter.com/search?q=%23NationalHotChocolateDay) | N/A |
+| 45 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 46 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 47 | [#31Ene](http://twitter.com/search?q=%2331Ene) | N/A |
+| 48 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | N/A |
+| 49 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
 
 
 

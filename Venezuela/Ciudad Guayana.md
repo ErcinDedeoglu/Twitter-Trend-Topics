@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-01-31 12:17:13 UTC`
+📆 Last Updated: `2023-01-31 13:20:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#31Ene](http://twitter.com/search?q=%2331Ene) | N/A |
 | 2 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 3 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
-| 4 | [#LasSancionesCastiganLaSalud](http://twitter.com/search?q=%23LasSancionesCastiganLaSalud) | N/A |
-| 5 | [#BastaDePersecuciónEconómica](http://twitter.com/search?q=%23BastaDePersecuci%c3%b3nEcon%c3%b3mica) | N/A |
+| 3 | [#BastaDePersecuciónEconómica](http://twitter.com/search?q=%23BastaDePersecuci%c3%b3nEcon%c3%b3mica) | N/A |
+| 4 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 5 | [#LasSancionesCastiganLaSalud](http://twitter.com/search?q=%23LasSancionesCastiganLaSalud) | N/A |
 | 6 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
 | 7 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 8 | [alcides escobar](http://twitter.com/search?q=alcides+escobar) | N/A |
-| 9 | [Alma Llanera](http://twitter.com/search?q=Alma+Llanera) | N/A |
-| 10 | [Silvino Bracho](http://twitter.com/search?q=Silvino+Bracho) | N/A |
-| 11 | [Henry Blanco](http://twitter.com/search?q=Henry+Blanco) | Henry Blanco is a Spanish surname. It is derived from the word "blanco," which means "white" in English. |
-| 12 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 13 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
-| 14 | [Metras](http://twitter.com/search?q=Metras) | N/A |
-| 15 | [meteoro](http://twitter.com/search?q=meteoro) | N/A |
-| 16 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
-| 17 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 18 | [Ali castillo](http://twitter.com/search?q=Ali+castillo) | N/A |
-| 19 | [Son 21](http://twitter.com/search?q=Son+21) | N/A |
-| 20 | [Inces](http://twitter.com/search?q=Inces) | N/A |
-| 21 | [Leal](http://twitter.com/search?q=Leal) | N/A |
-| 22 | [título 21](http://twitter.com/search?q=t%c3%adtulo+21) | N/A |
-| 23 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 8 | [Batalla de La Victoria](http://twitter.com/search?q=Batalla+de+La+Victoria) | N/A |
+| 9 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
+| 10 | [Rafael Bolívar Coronado](http://twitter.com/search?q=Rafael+Bol%c3%advar+Coronado) | N/A |
+| 11 | [Alma Llanera](http://twitter.com/search?q=Alma+Llanera) | N/A |
+| 12 | [Henry Blanco](http://twitter.com/search?q=Henry+Blanco) | Henry Blanco is a Spanish surname. It is derived from the word "blanco," which means "white" in English. |
+| 13 | [Alcides Escobar](http://twitter.com/search?q=Alcides+Escobar) | N/A |
+| 14 | [Silvino Bracho](http://twitter.com/search?q=Silvino+Bracho) | N/A |
+| 15 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
+| 16 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
+| 17 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
+| 18 | [Metras](http://twitter.com/search?q=Metras) | N/A |
+| 19 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
+| 20 | [Tiburones de La Guaira](http://twitter.com/search?q=Tiburones+de+La+Guaira) | Tiburones de La Guaira is a professional baseball team based in La Guaira, Venezuela. The team plays in the Venezuelan Professional Baseball League and is one of the most successful teams in the league, having won six championships since its founding in 1962. The name "Tiburones de La Guaira" translates to "Sharks of La Guaira" in English. |
+| 21 | [Hidrocapital](http://twitter.com/search?q=Hidrocapital) | N/A |
+| 22 | [Son 21](http://twitter.com/search?q=Son+21) | N/A |
+| 23 | [Ali castillo](http://twitter.com/search?q=Ali+castillo) | N/A |
 | 24 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 25 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
-| 26 | [Tiburones de La Guaira](http://twitter.com/search?q=Tiburones+de+La+Guaira) | Tiburones de La Guaira is a professional baseball team based in La Guaira, Venezuela. The team plays in the Venezuelan Professional Baseball League and is one of the most successful teams in the league, having won six championships since its founding in 1962. The name "Tiburones de La Guaira" translates to "Sharks of La Guaira" in English. |
-| 27 | [Estadio Universitario](http://twitter.com/search?q=Estadio+Universitario) | N/A |
-| 28 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 29 | [alfred gutiérrez](http://twitter.com/search?q=alfred+guti%c3%a9rrez) | N/A |
-| 30 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 31 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
-| 32 | [Infante](http://twitter.com/search?q=Infante) | N/A |
-| 33 | [Danry](http://twitter.com/search?q=Danry) | N/A |
-| 34 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 35 | [El Batazo de la Suerte](http://twitter.com/search?q=El+Batazo+de+la+Suerte) | N/A |
-| 36 | [Felicitaciones](http://twitter.com/search?q=Felicitaciones) | N/A |
-| 37 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 38 | [Niko](http://twitter.com/search?q=Niko) | N/A |
-| 39 | [Movilnet](http://twitter.com/search?q=Movilnet) | N/A |
+| 25 | [Felicitaciones](http://twitter.com/search?q=Felicitaciones) | N/A |
+| 26 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 27 | [Título 21](http://twitter.com/search?q=T%c3%adtulo+21) | N/A |
+| 28 | [Caguaripano](http://twitter.com/search?q=Caguaripano) | N/A |
+| 29 | [Leal](http://twitter.com/search?q=Leal) | N/A |
+| 30 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
+| 31 | [Danry](http://twitter.com/search?q=Danry) | N/A |
+| 32 | [alfred gutiérrez](http://twitter.com/search?q=alfred+guti%c3%a9rrez) | N/A |
+| 33 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 34 | [Caraquistas](http://twitter.com/search?q=Caraquistas) | N/A |
+| 35 | [Estadio Universitario](http://twitter.com/search?q=Estadio+Universitario) | N/A |
+| 36 | [Infante](http://twitter.com/search?q=Infante) | N/A |
+| 37 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
+| 38 | [El Batazo de la Suerte](http://twitter.com/search?q=El+Batazo+de+la+Suerte) | N/A |
+| 39 | [EL 21](http://twitter.com/search?q=EL+21) | N/A |
 | 40 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 41 | [Hidrocapital](http://twitter.com/search?q=Hidrocapital) | N/A |
-| 42 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 43 | [yoimer camacho](http://twitter.com/search?q=yoimer+camacho) | N/A |
-| 44 | [Bill y Frank](http://twitter.com/search?q=Bill+y+Frank) | N/A |
-| 45 | [Francisco Arcia](http://twitter.com/search?q=Francisco+Arcia) | N/A |
-| 46 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 47 | [Freddy Guevara](http://twitter.com/search?q=Freddy+Guevara) | N/A |
+| 41 | [Niko](http://twitter.com/search?q=Niko) | N/A |
+| 42 | [Movilnet](http://twitter.com/search?q=Movilnet) | N/A |
+| 43 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 44 | [yoimer camacho](http://twitter.com/search?q=yoimer+camacho) | N/A |
+| 45 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
+| 46 | [Freddy Guevara](http://twitter.com/search?q=Freddy+Guevara) | N/A |
+| 47 | [Francisco Arcia](http://twitter.com/search?q=Francisco+Arcia) | N/A |
 
 
 
