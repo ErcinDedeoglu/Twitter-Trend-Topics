@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-01-31 13:21:26 UTC`
+📆 Last Updated: `2023-01-31 14:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 2 | [#Hergovich](http://twitter.com/search?q=%23Hergovich) | N/A |
-| 3 | [schnabl](http://twitter.com/search?q=schnabl) | N/A |
-| 4 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
+| 3 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
+| 4 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 5 | [Babler](http://twitter.com/search?q=Babler) | N/A |
 | 6 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 7 | [#spoe](http://twitter.com/search?q=%23spoe) | N/A |
-| 8 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 9 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 10 | [traiskirchen](http://twitter.com/search?q=traiskirchen) | N/A |
-| 11 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 7 | [#OeNR](http://twitter.com/search?q=%23OeNR) | N/A |
+| 8 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 9 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 10 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 11 | [Austria](http://twitter.com/search?q=Austria) | N/A |
 | 12 | [Vorzugsstimmen](http://twitter.com/search?q=Vorzugsstimmen) | N/A |
-| 13 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 13 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
 | 14 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 15 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 16 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 17 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 18 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
-| 19 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
-| 20 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 21 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
-| 22 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
-| 23 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
-| 24 | [mandat](http://twitter.com/search?q=mandat) | N/A |
-| 25 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 26 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 27 | [Aufgaben](http://twitter.com/search?q=Aufgaben) | N/A |
-| 28 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 29 | [wählerinnen](http://twitter.com/search?q=w%c3%a4hlerinnen) | N/A |
+| 15 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 16 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 17 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
+| 18 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 19 | [Strategie](http://twitter.com/search?q=Strategie) | N/A |
+| 20 | [Wahlergebnis](http://twitter.com/search?q=Wahlergebnis) | N/A |
+| 21 | [Spitze](http://twitter.com/search?q=Spitze) | N/A |
+| 22 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 23 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 24 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 25 | [Chancen](http://twitter.com/search?q=Chancen) | N/A |
+| 26 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 27 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 28 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 29 | [Aufgaben](http://twitter.com/search?q=Aufgaben) | N/A |
 | 30 | [Gratuliere](http://twitter.com/search?q=Gratuliere) | N/A |
-| 31 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 31 | [WählerInnen](http://twitter.com/search?q=W%c3%a4hlerInnen) | N/A |
 | 32 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
 | 33 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
-| 36 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 37 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
-| 38 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 39 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 40 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 41 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
-| 42 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 43 | [Fällen](http://twitter.com/search?q=F%c3%a4llen) | N/A |
-| 44 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 45 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 46 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 49 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 50 | [Haltung](http://twitter.com/search?q=Haltung) | N/A |
+| 34 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
+| 35 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 36 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
+| 37 | [Landtag](http://twitter.com/search?q=Landtag) | N/A |
+| 38 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 39 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
+| 40 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 41 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 42 | [Blut](http://twitter.com/search?q=Blut) | N/A |
+| 43 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 44 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
+| 45 | [Fällen](http://twitter.com/search?q=F%c3%a4llen) | N/A |
+| 46 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 47 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 49 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 50 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
 
 
 

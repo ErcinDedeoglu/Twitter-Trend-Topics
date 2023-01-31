@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-01-31 13:21:02 UTC`
+📆 Last Updated: `2023-01-31 14:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JelangPemilu2024](http://twitter.com/search?q=%23JelangPemilu2024) | N/A |
-| 2 | [#TitikPandang](http://twitter.com/search?q=%23TitikPandang) | N/A |
-| 3 | [Gus Muhaimin Iskandar](http://twitter.com/search?q=Gus+Muhaimin+Iskandar) | Gus Muhaimin Iskandar is an Indonesian politician who served as the Minister of Education and Culture from 2014 to 2019. The name is derived from the Arabic name Muhaimin, which means "protector" or "guardian", and Iskandar, which is a variant of Alexander, meaning "defender of mankind". In English, the name can be translated to mean "Protector of Mankind, Defender of Alexander". |
-| 4 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 5 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
-| 6 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 7 | [Kompas TV](http://twitter.com/search?q=Kompas+TV) | N/A |
-| 8 | [PKB Ya NU](http://twitter.com/search?q=PKB+Ya+NU) | N/A |
-| 9 | [Franciscus Welirang](http://twitter.com/search?q=Franciscus+Welirang) | N/A |
-| 10 | [Yuli Sumpil](http://twitter.com/search?q=Yuli+Sumpil) | N/A |
-| 11 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 12 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 13 | [PKB Adalah NU](http://twitter.com/search?q=PKB+Adalah+NU) | N/A |
-| 14 | [arsjad rasjid](http://twitter.com/search?q=arsjad+rasjid) | N/A |
-| 15 | [NU Adalah PKB](http://twitter.com/search?q=NU+Adalah+PKB) | N/A |
-| 16 | [Januari](http://twitter.com/search?q=Januari) | N/A |
-| 17 | [Yadi](http://twitter.com/search?q=Yadi) | N/A |
-| 18 | [Bule](http://twitter.com/search?q=Bule) | N/A |
-| 19 | [Luis Milla](http://twitter.com/search?q=Luis+Milla) | N/A |
-| 20 | [Shafa](http://twitter.com/search?q=Shafa) | N/A |
+| 1 | [#BunnyPrinceDoyoungDay](http://twitter.com/search?q=%23BunnyPrinceDoyoungDay) | N/A |
+| 2 | [#따끈따끈_도영빵_생일이_왔옹](http://twitter.com/search?q=%23%eb%94%b0%eb%81%88%eb%94%b0%eb%81%88_%eb%8f%84%ec%98%81%eb%b9%b5_%ec%83%9d%ec%9d%bc%ec%9d%b4_%ec%99%94%ec%98%b9) | N/A |
+| 3 | [#titikpandang](http://twitter.com/search?q=%23titikpandang) | N/A |
+| 4 | [#JelangPemilu2024](http://twitter.com/search?q=%23JelangPemilu2024) | N/A |
+| 5 | [Gus Muhaimin Iskandar](http://twitter.com/search?q=Gus+Muhaimin+Iskandar) | Gus Muhaimin Iskandar is an Indonesian politician who served as the Minister of Education and Culture from 2014 to 2019. The name is derived from the Arabic name Muhaimin, which means "protector" or "guardian", and Iskandar, which is a variant of Alexander, meaning "defender of mankind". In English, the name can be translated to mean "Protector of Mankind, Defender of Alexander". |
+| 6 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
+| 7 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 8 | [Januari](http://twitter.com/search?q=Januari) | N/A |
+| 9 | [PKB Ya NU](http://twitter.com/search?q=PKB+Ya+NU) | N/A |
+| 10 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 11 | [Kompas TV](http://twitter.com/search?q=Kompas+TV) | N/A |
+| 12 | [Kabhi](http://twitter.com/search?q=Kabhi) | N/A |
+| 13 | [Franciscus Welirang](http://twitter.com/search?q=Franciscus+Welirang) | N/A |
+| 14 | [Yuli Sumpil](http://twitter.com/search?q=Yuli+Sumpil) | N/A |
+| 15 | [PKB Adalah NU](http://twitter.com/search?q=PKB+Adalah+NU) | N/A |
+| 16 | [arsjad rasjid](http://twitter.com/search?q=arsjad+rasjid) | N/A |
+| 17 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 18 | [NU Adalah PKB](http://twitter.com/search?q=NU+Adalah+PKB) | N/A |
+| 19 | [Yadi](http://twitter.com/search?q=Yadi) | N/A |
+| 20 | [Bule](http://twitter.com/search?q=Bule) | N/A |
 | 21 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 22 | [Rezaldi](http://twitter.com/search?q=Rezaldi) | N/A |
-| 23 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 24 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 25 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
-| 28 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 29 | [Guru](http://twitter.com/search?q=Guru) | N/A |
-| 30 | [108MP OIS](http://twitter.com/search?q=108MP+OIS) | N/A |
-| 31 | [PSIS](http://twitter.com/search?q=PSIS) | N/A |
-| 32 | [Februari](http://twitter.com/search?q=Februari) | N/A |
-| 33 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 34 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 35 | [BRIN](http://twitter.com/search?q=BRIN) | N/A |
-| 36 | [Nmax](http://twitter.com/search?q=Nmax) | N/A |
-| 37 | [Matematika](http://twitter.com/search?q=Matematika) | N/A |
-| 38 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 39 | [Mona](http://twitter.com/search?q=Mona) | N/A |
-| 40 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 41 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
-| 42 | [Perubahan](http://twitter.com/search?q=Perubahan) | N/A |
-| 43 | [Bersih](http://twitter.com/search?q=Bersih) | N/A |
-| 44 | [Alphard](http://twitter.com/search?q=Alphard) | N/A |
-| 45 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 46 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
-| 47 | [Bayu](http://twitter.com/search?q=Bayu) | N/A |
-| 48 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [Februari](http://twitter.com/search?q=Februari) | N/A |
+| 24 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 25 | [Shafa](http://twitter.com/search?q=Shafa) | N/A |
+| 26 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 28 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 29 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
+| 30 | [VIVIZ](http://twitter.com/search?q=VIVIZ) | N/A |
+| 31 | [Luis Milla](http://twitter.com/search?q=Luis+Milla) | N/A |
+| 32 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 33 | [Rezaldi](http://twitter.com/search?q=Rezaldi) | N/A |
+| 34 | [Guru](http://twitter.com/search?q=Guru) | N/A |
+| 35 | [108MP OIS](http://twitter.com/search?q=108MP+OIS) | N/A |
+| 36 | [PSIS](http://twitter.com/search?q=PSIS) | N/A |
+| 37 | [Koalisi](http://twitter.com/search?q=Koalisi) | N/A |
+| 38 | [brin](http://twitter.com/search?q=brin) | N/A |
+| 39 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 40 | [Matematika](http://twitter.com/search?q=Matematika) | N/A |
+| 41 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
+| 42 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 43 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
+| 44 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
+| 45 | [Mona](http://twitter.com/search?q=Mona) | N/A |
+| 46 | [Alphard](http://twitter.com/search?q=Alphard) | N/A |
+| 47 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 48 | [Perubahan](http://twitter.com/search?q=Perubahan) | N/A |
+| 49 | [3RACHA FULL MEMBERS OF KOMCA](http://twitter.com/search?q=3RACHA+FULL+MEMBERS+OF+KOMCA) | 3RACHA is a South Korean hip-hop group composed of three members: Bang Chan, Changbin, and Han. They are all full members of the Korea Music Copyright Association (KOMCA), which is an organization that protects the rights of music creators and producers in South Korea. The acronym "3RACHA FULL MEMBERS OF KOMCA" is used to refer to the trio's membership in KOMCA. |
 
 
 
