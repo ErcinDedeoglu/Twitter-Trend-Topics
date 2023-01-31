@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-01-31 22:16:02 UTC`
+📆 Last Updated: `2023-01-31 23:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,14 +25,14 @@ This is top 50 for Austria
 | 8 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
 | 9 | [Schnabl](http://twitter.com/search?q=Schnabl) | N/A |
 | 10 | [#noewahl](http://twitter.com/search?q=%23noewahl) | N/A |
-| 11 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 12 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 13 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
-| 14 | [Gratuliere](http://twitter.com/search?q=Gratuliere) | N/A |
-| 15 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 16 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 17 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 18 | [Lebens](http://twitter.com/search?q=Lebens) | N/A |
+| 11 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 12 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
+| 13 | [Gratuliere](http://twitter.com/search?q=Gratuliere) | N/A |
+| 14 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 15 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 16 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 17 | [Lebens](http://twitter.com/search?q=Lebens) | N/A |
+| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 19 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
 | 20 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
 | 21 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Austria
 | 39 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
 | 40 | [Roten](http://twitter.com/search?q=Roten) | N/A |
 | 41 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
-| 42 | [Blut](http://twitter.com/search?q=Blut) | N/A |
-| 43 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 42 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 43 | [Runde](http://twitter.com/search?q=Runde) | N/A |
 | 44 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 45 | [Runde](http://twitter.com/search?q=Runde) | N/A |
-| 46 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 47 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 48 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 49 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
-| 50 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 45 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 46 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 47 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 48 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
+| 49 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 50 | [Natur](http://twitter.com/search?q=Natur) | N/A |
 
 
 

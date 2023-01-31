@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-01-31 22:15:36 UTC`
+📆 Last Updated: `2023-01-31 23:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,49 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
-| 2 | [aromat](http://twitter.com/search?q=aromat) | N/A |
-| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 4 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 5 | [#Vaud](http://twitter.com/search?q=%23Vaud) | N/A |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
-| 9 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 10 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 11 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 12 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 13 | [Satz](http://twitter.com/search?q=Satz) | N/A |
-| 14 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 15 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 16 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
-| 17 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 18 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 19 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
-| 20 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 24 | [Effectivement](http://twitter.com/search?q=Effectivement) | N/A |
-| 25 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 26 | [Bern](http://twitter.com/search?q=Bern) | N/A |
-| 27 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 28 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 29 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
-| 30 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 31 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 32 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 1 | [#eb152](http://twitter.com/search?q=%23eb152) | N/A |
+| 2 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Aromat](http://twitter.com/search?q=Aromat) | N/A |
+| 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 6 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 7 | [#Vaud](http://twitter.com/search?q=%23Vaud) | N/A |
+| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 9 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 10 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 11 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 12 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
+| 13 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 14 | [Satz](http://twitter.com/search?q=Satz) | N/A |
+| 15 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 16 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 17 | [Kanton](http://twitter.com/search?q=Kanton) | N/A |
+| 18 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 19 | [Masken](http://twitter.com/search?q=Masken) | N/A |
+| 20 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
+| 21 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 22 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 25 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 26 | [Effectivement](http://twitter.com/search?q=Effectivement) | N/A |
+| 27 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 28 | [Bern](http://twitter.com/search?q=Bern) | N/A |
+| 29 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
+| 30 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
+| 31 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 32 | [Werte](http://twitter.com/search?q=Werte) | N/A |
 | 33 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 34 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 35 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 36 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 37 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 38 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
-| 39 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 40 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 41 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 42 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 43 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 34 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 35 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 36 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 37 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 38 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 39 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
+| 40 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 41 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 42 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 43 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
 | 44 | [Typen](http://twitter.com/search?q=Typen) | N/A |
 | 45 | [Katze](http://twitter.com/search?q=Katze) | N/A |
 | 46 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |

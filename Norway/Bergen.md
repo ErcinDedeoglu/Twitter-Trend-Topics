@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-01-31 22:15:36 UTC`
+📆 Last Updated: `2023-01-31 23:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 2 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 3 | [Flyr](http://twitter.com/search?q=Flyr) | N/A |
-| 4 | [Karlsbakk](http://twitter.com/search?q=Karlsbakk) | N/A |
-| 5 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 6 | [Karlsbakk](http://twitter.com/search?q=Karlsbakk) | N/A |
+| 7 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
 | 8 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 9 | [Mvuka](http://twitter.com/search?q=Mvuka) | N/A |
 | 10 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
@@ -31,38 +31,38 @@ This is top 50 for [Norway](</Norway>)
 | 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 15 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 16 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 17 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 17 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
 | 18 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 19 | [Osame](http://twitter.com/search?q=Osame) | N/A |
-| 20 | [America](http://twitter.com/search?q=America) | N/A |
-| 21 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
-| 22 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
-| 23 | [#movingnorth](http://twitter.com/search?q=%23movingnorth) | N/A |
-| 24 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
-| 25 | [slåttavik](http://twitter.com/search?q=sl%c3%a5ttavik) | N/A |
-| 26 | [Godset](http://twitter.com/search?q=Godset) | N/A |
-| 27 | [Kommer](http://twitter.com/search?q=Kommer) | N/A |
-| 28 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 29 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 30 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 32 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 33 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 34 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 35 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 36 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 37 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 40 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 41 | [tipper](http://twitter.com/search?q=tipper) | N/A |
-| 42 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 43 | [sveits](http://twitter.com/search?q=sveits) | N/A |
-| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 45 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 46 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 47 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
-| 48 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 19 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 20 | [Osame](http://twitter.com/search?q=Osame) | N/A |
+| 21 | [America](http://twitter.com/search?q=America) | N/A |
+| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 23 | [Sander Berge](http://twitter.com/search?q=Sander+Berge) | N/A |
+| 24 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
+| 25 | [#movingnorth](http://twitter.com/search?q=%23movingnorth) | N/A |
+| 26 | [Kommer](http://twitter.com/search?q=Kommer) | N/A |
+| 27 | [Vålerenga](http://twitter.com/search?q=V%c3%a5lerenga) | N/A |
+| 28 | [slåttavik](http://twitter.com/search?q=sl%c3%a5ttavik) | N/A |
+| 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 30 | [godset](http://twitter.com/search?q=godset) | N/A |
+| 31 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 32 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 33 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 34 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 35 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 36 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 37 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 38 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 41 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 42 | [tipper](http://twitter.com/search?q=tipper) | N/A |
+| 43 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 44 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 45 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 46 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 47 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 48 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-01-31 22:15:21 UTC`
+📆 Last Updated: `2023-01-31 23:15:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | N/A |
-| 2 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 3 | [#NEWSOU](http://twitter.com/search?q=%23NEWSOU) | N/A |
-| 4 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 5 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 6 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 7 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 8 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 10 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
-| 11 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
+| 1 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 2 | [#loveisland](http://twitter.com/search?q=%23loveisland) | N/A |
+| 3 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 4 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 5 | [#NEWSOU](http://twitter.com/search?q=%23NEWSOU) | N/A |
+| 6 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 7 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 9 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
 | 12 | [#CarabaoCup](http://twitter.com/search?q=%23CarabaoCup) | #CarabaoCup is the official hashtag for the English Football League Cup, a knockout competition for teams in the top four tiers of English football. The competition is sponsored by Carabao, an energy drink company. |
-| 13 | [Che Adams](http://twitter.com/search?q=Che+Adams) | Che Adams is a professional footballer who plays as a forward for Southampton in the Premier League. He began his career with Ilkeston Town before joining Sheffield United in 2014. He has also played for Birmingham City and Leeds United. The name Che Adams is derived from his middle name, Cheikhou, which means "God's gift" in the Wolof language of Senegal. |
-| 14 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
-| 15 | [Bruno Guimaraes](http://twitter.com/search?q=Bruno+Guimaraes) | Bruno Guimaraes is a Brazilian footballer who currently plays for Athletico Paranaense. His name is derived from the Portuguese word "guimarães", which means "brave". |
-| 16 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 17 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 18 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 19 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 20 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
-| 21 | [Andre Ayew](http://twitter.com/search?q=Andre+Ayew) | N/A |
-| 22 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
-| 23 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 24 | [Lyanco](http://twitter.com/search?q=Lyanco) | Lyanco is a Portuguese name derived from the Latin name "Livianus", which means "belonging to the Roman family of Livius". In English, it can be translated to mean "belonging to the Livius family". |
-| 25 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 27 | [Bree](http://twitter.com/search?q=Bree) | N/A |
-| 28 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 29 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 30 | [St James](http://twitter.com/search?q=St+James) | N/A |
-| 31 | [Grant](http://twitter.com/search?q=Grant) | N/A |
-| 32 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 33 | [Welcome to the Arsenal](http://twitter.com/search?q=Welcome+to+the+Arsenal) | "Welcome to the Arsenal" is a phrase used to welcome someone to the Arsenal Football Club, an English professional football club based in North London. It is often used as a greeting for new players, staff, and supporters of the club. The phrase can also be used more generally to welcome someone to any team or organization. |
-| 34 | [Hutchinson](http://twitter.com/search?q=Hutchinson) | Hutchinson is a surname of English origin. It is derived from the Old English personal name "Huchun", which means "son of Huchun". The name was first recorded in the 12th century and has been found in various forms throughout England and Scotland. |
-| 35 | [O'Connell](http://twitter.com/search?q=O%27Connell) | N/A |
-| 36 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 37 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 38 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 39 | [Kenwright](http://twitter.com/search?q=Kenwright) | N/A |
-| 40 | [Harvey White](http://twitter.com/search?q=Harvey+White) | N/A |
-| 41 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 42 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
-| 43 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
-| 44 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 45 | [Simpson](http://twitter.com/search?q=Simpson) | N/A |
-| 46 | [Finch Farm](http://twitter.com/search?q=Finch+Farm) | N/A |
-| 47 | [McKirdy](http://twitter.com/search?q=McKirdy) | N/A |
-| 48 | [Hector](http://twitter.com/search?q=Hector) | N/A |
-| 49 | [The Authority](http://twitter.com/search?q=The+Authority) | The Authority is a term used to refer to a governing body or organization that has the power to make decisions and enforce laws. It can also refer to an individual or group of people who are seen as having the right to make decisions and enforce rules. |
-| 50 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 13 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
+| 14 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 16 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 17 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
+| 18 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 19 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
+| 20 | [Rich Tea](http://twitter.com/search?q=Rich+Tea) | N/A |
+| 21 | [Jonjo](http://twitter.com/search?q=Jonjo) | N/A |
+| 22 | [Bruno Guimaraes](http://twitter.com/search?q=Bruno+Guimaraes) | Bruno Guimaraes is a Brazilian footballer who currently plays for Athletico Paranaense. His name is derived from the Portuguese word "guimarães", which means "brave". |
+| 23 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 24 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
+| 25 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 26 | [Grant](http://twitter.com/search?q=Grant) | N/A |
+| 27 | [Che Adams](http://twitter.com/search?q=Che+Adams) | Che Adams is a professional footballer who plays as a forward for Southampton in the Premier League. He began his career with Ilkeston Town before joining Sheffield United in 2014. He has also played for Birmingham City and Leeds United. The name Che Adams is derived from his middle name, Cheikhou, which means "God's gift" in the Wolof language of Senegal. |
+| 28 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 29 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 30 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 31 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | Todd Boehly is the name of an American businessman and investor. He is the founder, chairman, and CEO of Eldridge Industries, a private investment firm. He is also the former co-owner and vice chairman of the Los Angeles Dodgers baseball team. |
+| 32 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 33 | [Lyanco](http://twitter.com/search?q=Lyanco) | Lyanco is a Portuguese name derived from the Latin name "Livianus", which means "belonging to the Roman family of Livius". In English, it can be translated to mean "belonging to the Livius family". |
+| 34 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | N/A |
+| 35 | [Bree](http://twitter.com/search?q=Bree) | N/A |
+| 36 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
+| 37 | [Moshiri](http://twitter.com/search?q=Moshiri) | Moshiri is a Japanese word that means “to strive” or “to make an effort.” It is often used to describe someone who is working hard to achieve their goals. |
+| 38 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 39 | [St James](http://twitter.com/search?q=St+James) | N/A |
+| 40 | [Kenwright](http://twitter.com/search?q=Kenwright) | N/A |
+| 41 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 42 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 43 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 44 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
+| 45 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
+| 46 | [Welcome to the Arsenal](http://twitter.com/search?q=Welcome+to+the+Arsenal) | "Welcome to the Arsenal" is a phrase used to welcome someone to the Arsenal Football Club, an English professional football club based in North London. It is often used as a greeting for new players, staff, and supporters of the club. The phrase can also be used more generally to welcome someone to any team or organization. |
+| 47 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
+| 48 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
+| 49 | [Hutchinson](http://twitter.com/search?q=Hutchinson) | Hutchinson is a surname of English origin. It is derived from the Old English personal name "Huchun", which means "son of Huchun". The name was first recorded in the 12th century and has been found in various forms throughout England and Scotland. |
+| 50 | [O'Connell](http://twitter.com/search?q=O%27Connell) | N/A |
 
 
 
