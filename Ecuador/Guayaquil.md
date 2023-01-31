@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-01-31 08:16:37 UTC`
+📆 Last Updated: `2023-01-31 09:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,16 +18,16 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 1 | [Guayakill](http://twitter.com/search?q=Guayakill) | N/A |
 | 2 | [Cura](http://twitter.com/search?q=Cura) | N/A |
 | 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
-| 5 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 6 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | N/A |
-| 7 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 8 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 9 | [#puntosdelencuentro](http://twitter.com/search?q=%23puntosdelencuentro) | N/A |
-| 10 | [#ambato](http://twitter.com/search?q=%23ambato) | N/A |
-| 11 | [Infeliz](http://twitter.com/search?q=Infeliz) | N/A |
-| 12 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
-| 13 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
+| 4 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 5 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | N/A |
+| 6 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 7 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 8 | [#puntosdelencuentro](http://twitter.com/search?q=%23puntosdelencuentro) | N/A |
+| 9 | [#ambato](http://twitter.com/search?q=%23ambato) | N/A |
+| 10 | [Infeliz](http://twitter.com/search?q=Infeliz) | N/A |
+| 11 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
+| 12 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
+| 13 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 14 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
 | 15 | [Maldita](http://twitter.com/search?q=Maldita) | N/A |
 | 16 | [liga de quito](http://twitter.com/search?q=liga+de+quito) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 22 | [narcisa de jesús](http://twitter.com/search?q=narcisa+de+jes%c3%bas) | N/A |
 | 23 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 24 | [corte constitucional](http://twitter.com/search?q=corte+constitucional) | N/A |
-| 25 | [desgraciada](http://twitter.com/search?q=desgraciada) | N/A |
+| 25 | [Desgraciada](http://twitter.com/search?q=Desgraciada) | N/A |
 | 26 | [paján](http://twitter.com/search?q=paj%c3%a1n) | N/A |
 | 27 | [Siguiendo](http://twitter.com/search?q=Siguiendo) | N/A |
 | 28 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 45 | [Carolina Jaume](http://twitter.com/search?q=Carolina+Jaume) | N/A |
 | 46 | [Cynthia](http://twitter.com/search?q=Cynthia) | N/A |
-| 47 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 48 | [Gonzalo Plata](http://twitter.com/search?q=Gonzalo+Plata) | N/A |
-| 49 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 50 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
+| 47 | [Gonzalo Plata](http://twitter.com/search?q=Gonzalo+Plata) | N/A |
+| 48 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
+| 49 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 50 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 
 
 

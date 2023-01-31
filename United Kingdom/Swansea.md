@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-01-31 08:16:33 UTC`
+📆 Last Updated: `2023-01-31 09:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | N/A |
-| 2 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 3 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | N/A |
-| 4 | [Brexit](http://twitter.com/search?q=Brexit) | N/A |
-| 5 | [#loveisland](http://twitter.com/search?q=%23loveisland) | N/A |
-| 6 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 7 | [2023 - IMF](http://twitter.com/search?q=2023+-+IMF) | N/A |
-| 8 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 1 | [Brexit](http://twitter.com/search?q=Brexit) | N/A |
+| 2 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 5 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 6 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 7 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 8 | [#loveisland](http://twitter.com/search?q=%23loveisland) | N/A |
 | 9 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
 | 10 | [#bhaliv](http://twitter.com/search?q=%23bhaliv) | N/A |
 | 11 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 13 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 14 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
-| 15 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 16 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 19 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 21 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
-| 22 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
-| 23 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 13 | [2023 - IMF](http://twitter.com/search?q=2023+-+IMF) | N/A |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 16 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 18 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 19 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
+| 20 | [HELP THOSE WHO TEACH](http://twitter.com/search?q=HELP+THOSE+WHO+TEACH) | N/A |
+| 21 | [Villiers](http://twitter.com/search?q=Villiers) | N/A |
+| 22 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 24 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Bill and Frank](http://twitter.com/search?q=Bill+and+Frank) | N/A |
-| 27 | [humphries](http://twitter.com/search?q=humphries) | N/A |
-| 28 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 29 | [samie](http://twitter.com/search?q=samie) | N/A |
-| 30 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 31 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 32 | [Wordle 591 X](http://twitter.com/search?q=Wordle+591+X) | N/A |
-| 33 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 34 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 35 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
-| 36 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 25 | [Bill and Frank](http://twitter.com/search?q=Bill+and+Frank) | N/A |
+| 26 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 27 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 28 | [Salted](http://twitter.com/search?q=Salted) | N/A |
+| 29 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 30 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 31 | [samie](http://twitter.com/search?q=samie) | N/A |
+| 32 | [Nick Offerman](http://twitter.com/search?q=Nick+Offerman) | Nick Offerman is an American actor, writer, and comedian. He is best known for his role as Ron Swanson in the NBC sitcom Parks and Recreation. He is also known for his deadpan delivery and his love of woodworking. |
+| 33 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 34 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 35 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 36 | [Hannan](http://twitter.com/search?q=Hannan) | N/A |
 | 37 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 38 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 39 | [BBC News - UK](http://twitter.com/search?q=BBC+News+-+UK) | N/A |
-| 40 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 41 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 42 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 43 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
-| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 46 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 47 | [Noppert](http://twitter.com/search?q=Noppert) | N/A |
-| 48 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 38 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 39 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 40 | [Humphries](http://twitter.com/search?q=Humphries) | N/A |
+| 41 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 42 | [Murray Bartlett](http://twitter.com/search?q=Murray+Bartlett) | Murray Bartlett is an Australian actor, best known for his roles as Dom Basaluzzo in the HBO series Looking and as Caleb Haas in the ABC drama series Brothers & Sisters. The name Murray Bartlett is derived from the Scottish surname "Bartlett," which means "son of Bartholomew." |
+| 43 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 44 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 45 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 47 | [Wordle 591 X](http://twitter.com/search?q=Wordle+591+X) | N/A |
+| 48 | [The UK](http://twitter.com/search?q=The+UK) | N/A |
+| 49 | [Noppert](http://twitter.com/search?q=Noppert) | N/A |
 
 
 
