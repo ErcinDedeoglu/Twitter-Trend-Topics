@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-01-30 23:15:33 UTC`
+📆 Last Updated: `2023-01-31 00:28:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,30 +18,30 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#TheDebutanteMNL](http://twitter.com/search?q=%23TheDebutanteMNL) | N/A |
 | 2 | [#MCIPaghahanap](http://twitter.com/search?q=%23MCIPaghahanap) | N/A |
 | 3 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 4 | [BBWOMENinMUSIC WITH TWICE](http://twitter.com/search?q=BBWOMENinMUSIC+WITH+TWICE) | BBWOMENinMUSIC WITH TWICE is a hashtag used to promote female artists in the music industry, particularly those associated with the K-pop group Twice. The hashtag is used to encourage fans to support and celebrate female musicians and their achievements. |
-| 5 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 6 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
-| 7 | [joongki](http://twitter.com/search?q=joongki) | N/A |
-| 8 | [Bigger Venue](http://twitter.com/search?q=Bigger+Venue) | N/A |
-| 9 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
-| 10 | [super janella at mediacon](http://twitter.com/search?q=super+janella+at+mediacon) | N/A |
-| 11 | [kodrea tcextras ang pinaka](http://twitter.com/search?q=kodrea+tcextras+ang+pinaka) | N/A |
-| 12 | [GAP WORLD DOMINATION](http://twitter.com/search?q=GAP+WORLD+DOMINATION) | GAP World Domination is a term used to describe the ambition of the clothing company GAP to become a global leader in the fashion industry. The phrase is often used to refer to GAP's aggressive expansion strategy, which has seen them open stores in many countries around the world. |
-| 13 | [kdlex direkcathy in hk](http://twitter.com/search?q=kdlex+direkcathy+in+hk) | N/A |
-| 14 | [songsong](http://twitter.com/search?q=songsong) | N/A |
-| 15 | [jia you kayds](http://twitter.com/search?q=jia+you+kayds) | N/A |
-| 16 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
-| 17 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 18 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 19 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 20 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
-| 21 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 22 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
-| 23 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
-| 24 | [bini mojos everyday](http://twitter.com/search?q=bini+mojos+everyday) | N/A |
-| 25 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
-| 26 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 27 | [bgyo acestronger two years](http://twitter.com/search?q=bgyo+acestronger+two+years) | N/A |
+| 4 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 5 | [Hye Kyo](http://twitter.com/search?q=Hye+Kyo) | Hye Kyo is a Korean name, and it means "wise and bright". |
+| 6 | [joongki](http://twitter.com/search?q=joongki) | N/A |
+| 7 | [FULLSUN SHINES AGAIN](http://twitter.com/search?q=FULLSUN+SHINES+AGAIN) | "FULLSUN SHINES AGAIN" is a phrase that is used to express hope and optimism. It suggests that even after a difficult time, the sun will shine again and bring light and joy. |
+| 8 | [super janella at mediacon](http://twitter.com/search?q=super+janella+at+mediacon) | N/A |
+| 9 | [kodrea tcextras ang pinaka](http://twitter.com/search?q=kodrea+tcextras+ang+pinaka) | N/A |
+| 10 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 11 | [Bigger Venue](http://twitter.com/search?q=Bigger+Venue) | N/A |
+| 12 | [gap world domination](http://twitter.com/search?q=gap+world+domination) | N/A |
+| 13 | [jia you kayds](http://twitter.com/search?q=jia+you+kayds) | N/A |
+| 14 | [AVATRICE BED SCENE SCRIPT](http://twitter.com/search?q=AVATRICE+BED+SCENE+SCRIPT) | N/A |
+| 15 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 16 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 17 | [SongSong](http://twitter.com/search?q=SongSong) | N/A |
+| 18 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
+| 19 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
+| 20 | [Philosophy](http://twitter.com/search?q=Philosophy) | N/A |
+| 21 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 22 | [4 YEARS WITH CHAERYEONG](http://twitter.com/search?q=4+YEARS+WITH+CHAERYEONG) | N/A |
+| 23 | [bini mojos everyday](http://twitter.com/search?q=bini+mojos+everyday) | N/A |
+| 24 | [pinakaclash namin ralphgail](http://twitter.com/search?q=pinakaclash+namin+ralphgail) | N/A |
+| 25 | [chungha](http://twitter.com/search?q=chungha) | N/A |
+| 26 | [bgyo acestronger two years](http://twitter.com/search?q=bgyo+acestronger+two+years) | N/A |
+| 27 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
 | 28 | [aljay pinaka malupet](http://twitter.com/search?q=aljay+pinaka+malupet) | N/A |
 | 29 | [somi](http://twitter.com/search?q=somi) | N/A |
 | 30 | [Bondee](http://twitter.com/search?q=Bondee) | N/A |
@@ -49,19 +49,19 @@ This is top 50 for [Philippines](</Philippines>)
 | 32 | [rapper jaehyun](http://twitter.com/search?q=rapper+jaehyun) | N/A |
 | 33 | [pause and jay my heart](http://twitter.com/search?q=pause+and+jay+my+heart) | N/A |
 | 34 | [DOTS](http://twitter.com/search?q=DOTS) | N/A |
-| 35 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
-| 36 | [Enrile](http://twitter.com/search?q=Enrile) | N/A |
-| 37 | [moremomentswith moat21](http://twitter.com/search?q=moremomentswith+moat21) | N/A |
-| 38 | [problem child the premiere](http://twitter.com/search?q=problem+child+the+premiere) | N/A |
-| 39 | [Patrick](http://twitter.com/search?q=Patrick) | N/A |
-| 40 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
-| 41 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
-| 42 | [konbat](http://twitter.com/search?q=konbat) | N/A |
-| 43 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
-| 44 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
-| 45 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
-| 46 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
-| 47 | [youngji](http://twitter.com/search?q=youngji) | N/A |
+| 35 | [moremomentswith moat21](http://twitter.com/search?q=moremomentswith+moat21) | N/A |
+| 36 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
+| 37 | [problem child the premiere](http://twitter.com/search?q=problem+child+the+premiere) | N/A |
+| 38 | [Bamboo](http://twitter.com/search?q=Bamboo) | N/A |
+| 39 | [Current Job](http://twitter.com/search?q=Current+Job) | N/A |
+| 40 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
+| 41 | [konbat](http://twitter.com/search?q=konbat) | N/A |
+| 42 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
+| 43 | [Katy Louise Saunders](http://twitter.com/search?q=Katy+Louise+Saunders) | Katy Louise Saunders is a name of English origin. It is a combination of the names Katy, which is derived from Katherine, meaning "pure" or "clear," and Louise, which is derived from the Germanic name Ludwig, meaning "famous warrior." |
+| 44 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
+| 45 | [Youngji](http://twitter.com/search?q=Youngji) | N/A |
+| 46 | [vxon annivcon dday](http://twitter.com/search?q=vxon+annivcon+dday) | N/A |
+| 47 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
 
 
 
