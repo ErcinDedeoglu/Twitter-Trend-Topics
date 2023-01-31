@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-01-31 03:17:07 UTC`
+📆 Last Updated: `2023-01-31 04:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 7 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 8 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 9 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
+| 9 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
 | 10 | [Philips](http://twitter.com/search?q=Philips) | N/A |
 | 11 | [willem ii](http://twitter.com/search?q=willem+ii) | N/A |
 | 12 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
@@ -33,25 +33,25 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 16 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
 | 17 | [Troela](http://twitter.com/search?q=Troela) | N/A |
 | 18 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 19 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
-| 20 | [joop](http://twitter.com/search?q=joop) | N/A |
-| 21 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
-| 22 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 23 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 24 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 25 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 27 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 28 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 29 | [gorinchem](http://twitter.com/search?q=gorinchem) | N/A |
+| 19 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
+| 20 | [Amalia](http://twitter.com/search?q=Amalia) | N/A |
+| 21 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 22 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 25 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 26 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 27 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 28 | [gorinchem](http://twitter.com/search?q=gorinchem) | N/A |
+| 29 | [Joop](http://twitter.com/search?q=Joop) | N/A |
 | 30 | [raad van state](http://twitter.com/search?q=raad+van+state) | N/A |
 | 31 | [ook nederland](http://twitter.com/search?q=ook+nederland) | N/A |
 | 32 | [den uyl](http://twitter.com/search?q=den+uyl) | N/A |
 | 33 | [joep](http://twitter.com/search?q=joep) | N/A |
 | 34 | [Rood](http://twitter.com/search?q=Rood) | N/A |
-| 35 | [pröpper](http://twitter.com/search?q=pr%c3%b6pper) | N/A |
-| 36 | [Brenet](http://twitter.com/search?q=Brenet) | N/A |
-| 37 | [luik](http://twitter.com/search?q=luik) | N/A |
+| 35 | [luik](http://twitter.com/search?q=luik) | N/A |
+| 36 | [pröpper](http://twitter.com/search?q=pr%c3%b6pper) | N/A |
+| 37 | [brenet](http://twitter.com/search?q=brenet) | N/A |
 | 38 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 39 | [trefbal](http://twitter.com/search?q=trefbal) | N/A |
 | 40 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
@@ -61,7 +61,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 44 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 45 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 | 46 | [Bergh](http://twitter.com/search?q=Bergh) | Bergh is a Dutch word meaning mountain or hill. |
-| 47 | [Jezus Leeft](http://twitter.com/search?q=Jezus+Leeft) | N/A |
+| 47 | [jezus leeft](http://twitter.com/search?q=jezus+leeft) | N/A |
 | 48 | [hongarije](http://twitter.com/search?q=hongarije) | N/A |
 
 

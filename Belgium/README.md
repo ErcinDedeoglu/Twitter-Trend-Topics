@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-01-31 03:17:34 UTC`
+📆 Last Updated: `2023-01-31 04:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,16 +27,16 @@ This is top 50 for Belgium
 | 10 | [luik](http://twitter.com/search?q=luik) | N/A |
 | 11 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 12 | [bart de wever](http://twitter.com/search?q=bart+de+wever) | N/A |
-| 13 | [Alsof](http://twitter.com/search?q=Alsof) | N/A |
+| 13 | [alsof](http://twitter.com/search?q=alsof) | N/A |
 | 14 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
-| 15 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
+| 15 | [cercle](http://twitter.com/search?q=cercle) | N/A |
 | 16 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
 | 17 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
 | 18 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
 | 19 | [walen](http://twitter.com/search?q=walen) | N/A |
 | 20 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 21 | [Engels](http://twitter.com/search?q=Engels) | N/A |
-| 22 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 21 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 22 | [Engels](http://twitter.com/search?q=Engels) | N/A |
 | 23 | [stengs](http://twitter.com/search?q=stengs) | N/A |
 | 24 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
 | 25 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
@@ -48,16 +48,16 @@ This is top 50 for Belgium
 | 31 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
 | 32 | [Komt](http://twitter.com/search?q=Komt) | N/A |
 | 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 34 | [Letterlijk](http://twitter.com/search?q=Letterlijk) | N/A |
+| 34 | [letterlijk](http://twitter.com/search?q=letterlijk) | N/A |
 | 35 | [groot vleeshuis](http://twitter.com/search?q=groot+vleeshuis) | N/A |
 | 36 | [de laet](http://twitter.com/search?q=de+laet) | N/A |
 | 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 38 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
 | 39 | [ashimeru](http://twitter.com/search?q=ashimeru) | N/A |
-| 40 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
-| 41 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 42 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 43 | [grondwet](http://twitter.com/search?q=grondwet) | N/A |
+| 40 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 41 | [grondwet](http://twitter.com/search?q=grondwet) | N/A |
+| 42 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 43 | [Source](http://twitter.com/search?q=Source) | N/A |
 | 44 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 45 | [groenen](http://twitter.com/search?q=groenen) | N/A |
 | 46 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |

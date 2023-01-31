@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-01-31 03:17:38 UTC`
+📆 Last Updated: `2023-01-31 04:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Karlsbakk](http://twitter.com/search?q=Karlsbakk) | N/A |
+| 1 | [karlsbakk](http://twitter.com/search?q=karlsbakk) | N/A |
 | 2 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 3 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 4 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for Norway
 | 22 | [slåttavik](http://twitter.com/search?q=sl%c3%a5ttavik) | N/A |
 | 23 | [Porro](http://twitter.com/search?q=Porro) | N/A |
 | 24 | [America](http://twitter.com/search?q=America) | N/A |
-| 25 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
-| 26 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 27 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
+| 25 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 26 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 28 | [vålerenga](http://twitter.com/search?q=v%c3%a5lerenga) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [zafeiris](http://twitter.com/search?q=zafeiris) | N/A |
-| 32 | [#norge](http://twitter.com/search?q=%23norge) | N/A |
-| 33 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 34 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 35 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 36 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 37 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 38 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 39 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 40 | [tipper](http://twitter.com/search?q=tipper) | N/A |
-| 41 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 42 | [#Xbox](http://twitter.com/search?q=%23Xbox) | N/A |
-| 43 | [West](http://twitter.com/search?q=West) | N/A |
-| 44 | [flott](http://twitter.com/search?q=flott) | N/A |
-| 45 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
-| 46 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 47 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 48 | [aner](http://twitter.com/search?q=aner) | N/A |
-| 49 | [e134 haukelifjell](http://twitter.com/search?q=e134+haukelifjell) | N/A |
-| 50 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
+| 29 | [zafeiris](http://twitter.com/search?q=zafeiris) | N/A |
+| 30 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 31 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 32 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 33 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 34 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
+| 35 | [Viking](http://twitter.com/search?q=Viking) | N/A |
+| 36 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
+| 37 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 38 | [#Xbox](http://twitter.com/search?q=%23Xbox) | N/A |
+| 39 | [West](http://twitter.com/search?q=West) | N/A |
+| 40 | [flott](http://twitter.com/search?q=flott) | N/A |
+| 41 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
+| 42 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 44 | [aner](http://twitter.com/search?q=aner) | N/A |
+| 45 | [e134 haukelifjell](http://twitter.com/search?q=e134+haukelifjell) | N/A |
+| 46 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 47 | [Frisk](http://twitter.com/search?q=Frisk) | N/A |
+| 48 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 49 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 50 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
 
 
 

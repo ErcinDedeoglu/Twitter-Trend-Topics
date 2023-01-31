@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-01-31 03:17:38 UTC`
+📆 Last Updated: `2023-01-31 04:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Poland
 | 1 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
 | 2 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
 | 3 | [#genzie](http://twitter.com/search?q=%23genzie) | N/A |
-| 4 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
-| 5 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
+| 4 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
+| 5 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
 | 6 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 7 | [#cragór](http://twitter.com/search?q=%23crag%c3%b3r) | N/A |
 | 8 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for Poland
 | 13 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
 | 14 | [poncyliusz](http://twitter.com/search?q=poncyliusz) | N/A |
 | 15 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
-| 16 | [Nitrasa](http://twitter.com/search?q=Nitrasa) | N/A |
-| 17 | [Gual](http://twitter.com/search?q=Gual) | N/A |
-| 18 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 19 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 20 | [iranie](http://twitter.com/search?q=iranie) | N/A |
-| 21 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 22 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 23 | [lechii](http://twitter.com/search?q=lechii) | N/A |
-| 24 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
-| 25 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
-| 26 | [zielińskiego](http://twitter.com/search?q=zieli%c5%84skiego) | N/A |
-| 27 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
-| 28 | [juras](http://twitter.com/search?q=juras) | N/A |
-| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 30 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 31 | [dasz](http://twitter.com/search?q=dasz) | N/A |
-| 32 | [Wika](http://twitter.com/search?q=Wika) | N/A |
-| 33 | [wiki](http://twitter.com/search?q=wiki) | N/A |
-| 34 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 35 | [japierdole](http://twitter.com/search?q=japierdole) | N/A |
-| 36 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
-| 37 | [O 13](http://twitter.com/search?q=O+13) | N/A |
-| 38 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
-| 39 | [juszczenko](http://twitter.com/search?q=juszczenko) | N/A |
-| 40 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
-| 41 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
-| 42 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
-| 43 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
+| 16 | [nitrasa](http://twitter.com/search?q=nitrasa) | N/A |
+| 17 | [gual](http://twitter.com/search?q=gual) | N/A |
+| 18 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 19 | [iranie](http://twitter.com/search?q=iranie) | N/A |
+| 20 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 21 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 22 | [lechii](http://twitter.com/search?q=lechii) | N/A |
+| 23 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 24 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
+| 25 | [zielińskiego](http://twitter.com/search?q=zieli%c5%84skiego) | N/A |
+| 26 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
+| 27 | [juras](http://twitter.com/search?q=juras) | N/A |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 30 | [dasz](http://twitter.com/search?q=dasz) | N/A |
+| 31 | [Wika](http://twitter.com/search?q=Wika) | N/A |
+| 32 | [wiki](http://twitter.com/search?q=wiki) | N/A |
+| 33 | [japierdole](http://twitter.com/search?q=japierdole) | N/A |
+| 34 | [pavarda](http://twitter.com/search?q=pavarda) | N/A |
+| 35 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 36 | [O 13](http://twitter.com/search?q=O+13) | N/A |
+| 37 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
+| 38 | [juszczenko](http://twitter.com/search?q=juszczenko) | N/A |
+| 39 | [doslownie](http://twitter.com/search?q=doslownie) | N/A |
+| 40 | [augustyniak](http://twitter.com/search?q=augustyniak) | N/A |
+| 41 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
+| 42 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
+| 43 | [belka](http://twitter.com/search?q=belka) | N/A |
 | 44 | [zybertowicz](http://twitter.com/search?q=zybertowicz) | N/A |
-| 45 | [belka](http://twitter.com/search?q=belka) | N/A |
-| 46 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 47 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 48 | [polska press](http://twitter.com/search?q=polska+press) | N/A |
-| 49 | [nobla](http://twitter.com/search?q=nobla) | N/A |
-| 50 | [cracovia](http://twitter.com/search?q=cracovia) | N/A |
+| 45 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 46 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 47 | [polska press](http://twitter.com/search?q=polska+press) | N/A |
+| 48 | [nobla](http://twitter.com/search?q=nobla) | N/A |
+| 49 | [cracovia](http://twitter.com/search?q=cracovia) | N/A |
+| 50 | [muci](http://twitter.com/search?q=muci) | N/A |
 
 
 

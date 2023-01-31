@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-01-31 03:17:09 UTC`
+📆 Last Updated: `2023-01-31 04:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,12 +38,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 21 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 22 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
 | 23 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 24 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 25 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 24 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 26 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 27 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 28 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 29 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 27 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
+| 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 29 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 30 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
 | 31 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
 | 32 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 37 | [Energie](http://twitter.com/search?q=Energie) | N/A |
 | 38 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
 | 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 40 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 41 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
-| 42 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
-| 43 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 44 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
-| 47 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 48 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 49 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
-| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 40 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
+| 41 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 42 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 43 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 46 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
+| 47 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
+| 48 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
+| 49 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 50 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
 
 
 

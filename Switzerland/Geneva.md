@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-01-31 03:17:09 UTC`
+📆 Last Updated: `2023-01-31 04:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,12 +37,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 20 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 21 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
 | 22 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 23 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 24 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 23 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 24 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 25 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 26 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 27 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 26 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
+| 27 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 28 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 29 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
 | 30 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
 | 31 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
@@ -53,15 +53,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 36 | [Energie](http://twitter.com/search?q=Energie) | N/A |
 | 37 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
 | 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 40 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
-| 41 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
-| 42 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 43 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
-| 46 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 47 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 39 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
+| 40 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 41 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 42 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [Blödsinn](http://twitter.com/search?q=Bl%c3%b6dsinn) | N/A |
+| 45 | [Australian Open](http://twitter.com/search?q=Australian+Open) | N/A |
+| 46 | [alain berset](http://twitter.com/search?q=alain+berset) | N/A |
+| 47 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
 
 
 
