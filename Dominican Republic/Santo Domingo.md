@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-01-31 06:16:08 UTC`
+📆 Last Updated: `2023-01-31 07:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,20 +16,20 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ana Gabriel](http://twitter.com/search?q=Ana+Gabriel) | N/A |
-| 2 | [#YoCaminoPorLaPatria](http://twitter.com/search?q=%23YoCaminoPorLaPatria) | N/A |
+| 2 | [#yocaminoporlapatria](http://twitter.com/search?q=%23yocaminoporlapatria) | N/A |
 | 3 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
 | 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 5 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 6 | [#RBDENRD](http://twitter.com/search?q=%23RBDENRD) | N/A |
+| 6 | [#rbdenrd](http://twitter.com/search?q=%23rbdenrd) | N/A |
 | 7 | [#FuerzaDelPueblo](http://twitter.com/search?q=%23FuerzaDelPueblo) | N/A |
-| 8 | [#SoyRebeldeRD](http://twitter.com/search?q=%23SoyRebeldeRD) | N/A |
-| 9 | [Audo Vicente](http://twitter.com/search?q=Audo+Vicente) | N/A |
+| 8 | [#soyrebelderd](http://twitter.com/search?q=%23soyrebelderd) | N/A |
+| 9 | [audo vicente](http://twitter.com/search?q=audo+vicente) | N/A |
 | 10 | [Faride](http://twitter.com/search?q=Faride) | N/A |
 | 11 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
-| 12 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 13 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 14 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 15 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 12 | [Nadia Ferreira](http://twitter.com/search?q=Nadia+Ferreira) | N/A |
+| 13 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 14 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 15 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 16 | [Tigres del Licey](http://twitter.com/search?q=Tigres+del+Licey) | N/A |
 | 17 | [San Isidro](http://twitter.com/search?q=San+Isidro) | N/A |
 | 18 | [El Conde](http://twitter.com/search?q=El+Conde) | N/A |
@@ -38,10 +38,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 21 | [fuerza joven del pueblo](http://twitter.com/search?q=fuerza+joven+del+pueblo) | N/A |
 | 22 | [Juventud](http://twitter.com/search?q=Juventud) | N/A |
 | 23 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 24 | [Yadira](http://twitter.com/search?q=Yadira) | N/A |
+| 24 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
 | 25 | [maimón](http://twitter.com/search?q=maim%c3%b3n) | N/A |
-| 26 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 27 | [Ver Tu Horóscopo COMPLETO](http://twitter.com/search?q=Ver+Tu+Hor%c3%b3scopo+COMPLETO) | N/A |
+| 26 | [Ver Tu Horóscopo COMPLETO](http://twitter.com/search?q=Ver+Tu+Hor%c3%b3scopo+COMPLETO) | N/A |
+| 27 | [Yadira](http://twitter.com/search?q=Yadira) | N/A |
 | 28 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
 | 29 | [arenoso](http://twitter.com/search?q=arenoso) | N/A |
 | 30 | [Leonel Fernández](http://twitter.com/search?q=Leonel+Fern%c3%a1ndez) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 40 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 41 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
 | 42 | [Omar](http://twitter.com/search?q=Omar) | N/A |
-| 43 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 44 | [Constanza](http://twitter.com/search?q=Constanza) | Constanza is a female given name of Latin origin, derived from the Latin word "constantia" meaning "constancy". It is also the name of a city in the Dominican Republic. |
+| 43 | [Constanza](http://twitter.com/search?q=Constanza) | Constanza is a female given name of Latin origin, derived from the Latin word "constantia" meaning "constancy". It is also the name of a city in the Dominican Republic. |
+| 44 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
 | 45 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 46 | [dirección ejecutiva](http://twitter.com/search?q=direcci%c3%b3n+ejecutiva) | N/A |
-| 47 | [Romana](http://twitter.com/search?q=Romana) | N/A |
+| 46 | [Romana](http://twitter.com/search?q=Romana) | N/A |
+| 47 | [dirección ejecutiva](http://twitter.com/search?q=direcci%c3%b3n+ejecutiva) | N/A |
 | 48 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 49 | [monte plata](http://twitter.com/search?q=monte+plata) | N/A |
-| 50 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 50 | [monte plata](http://twitter.com/search?q=monte+plata) | N/A |
 
 
 

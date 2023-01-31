@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-01-31 06:16:58 UTC`
+📆 Last Updated: `2023-01-31 07:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Mexico
 | 3 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 4 | [#esland2023](http://twitter.com/search?q=%23esland2023) | #esland2023 is a hashtag used to promote the 2023 European Soccer Championship, which will be held in 13 different countries across Europe. The hashtag is used to promote the event and encourage people to get involved. |
 | 5 | [#SuperBowlLVII](http://twitter.com/search?q=%23SuperBowlLVII) | N/A |
-| 6 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 7 | [#felizdomingo](http://twitter.com/search?q=%23felizdomingo) | N/A |
-| 8 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
+| 6 | [#felizdomingo](http://twitter.com/search?q=%23felizdomingo) | N/A |
+| 7 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 8 | [Báez](http://twitter.com/search?q=B%c3%a1ez) | N/A |
 | 9 | [El Lobo](http://twitter.com/search?q=El+Lobo) | N/A |
-| 10 | [Báez](http://twitter.com/search?q=B%c3%a1ez) | N/A |
-| 11 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 12 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
-| 13 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
+| 10 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
+| 11 | [3RACHA FULL MEMBERS OF KOMCA](http://twitter.com/search?q=3RACHA+FULL+MEMBERS+OF+KOMCA) | 3RACHA is a South Korean hip-hop group composed of three members: Bang Chan, Changbin, and Han. They are all full members of the Korea Music Copyright Association (KOMCA), which is an organization that protects the rights of music creators and producers in South Korea. The acronym "3RACHA FULL MEMBERS OF KOMCA" is used to refer to the trio's membership in KOMCA. |
+| 12 | [Kenia Os](http://twitter.com/search?q=Kenia+Os) | N/A |
+| 13 | [Humberto](http://twitter.com/search?q=Humberto) | N/A |
 | 14 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 15 | [Llamada](http://twitter.com/search?q=Llamada) | N/A |
-| 16 | [Kenia Os](http://twitter.com/search?q=Kenia+Os) | N/A |
-| 17 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
-| 18 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 19 | [Dividir](http://twitter.com/search?q=Dividir) | N/A |
-| 20 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 21 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 22 | [REGRESEN A LILIANA](http://twitter.com/search?q=REGRESEN+A+LILIANA) | N/A |
-| 23 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 24 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
-| 25 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
-| 26 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 15 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
+| 16 | [Bengals](http://twitter.com/search?q=Bengals) | Bengals is a term used to refer to the Bengal tiger, a large, striped wild cat native to India and Bangladesh. The Bengal tiger is the national animal of both countries and is an endangered species. |
+| 17 | [Dividir](http://twitter.com/search?q=Dividir) | N/A |
+| 18 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
+| 19 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 20 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 21 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 22 | [Bravas](http://twitter.com/search?q=Bravas) | N/A |
+| 23 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
+| 24 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
+| 25 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 26 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 | 27 | [Federico Gutiérrez](http://twitter.com/search?q=Federico+Guti%c3%a9rrez) | N/A |
 | 28 | [NASCAR](http://twitter.com/search?q=NASCAR) | N/A |
-| 29 | [Chivas Femenil](http://twitter.com/search?q=Chivas+Femenil) | N/A |
-| 30 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
-| 31 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
-| 32 | [Clonazepam](http://twitter.com/search?q=Clonazepam) | N/A |
-| 33 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 29 | [Llamada](http://twitter.com/search?q=Llamada) | N/A |
+| 30 | [REGRESEN A LILIANA](http://twitter.com/search?q=REGRESEN+A+LILIANA) | N/A |
+| 31 | [Ossai](http://twitter.com/search?q=Ossai) | Ossai is a Japanese word that means “great” or “excellent.” It is often used to express admiration or approval for something. |
+| 32 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 33 | [Clonazepam](http://twitter.com/search?q=Clonazepam) | N/A |
 | 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 35 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 36 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 37 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 38 | [Jesús Aguilar Padilla](http://twitter.com/search?q=Jes%c3%bas+Aguilar+Padilla) | N/A |
-| 39 | [Boyi](http://twitter.com/search?q=Boyi) | N/A |
+| 35 | [Jesús Aguilar Padilla](http://twitter.com/search?q=Jes%c3%bas+Aguilar+Padilla) | N/A |
+| 36 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
+| 37 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 38 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 39 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 40 | [Blanca Félix](http://twitter.com/search?q=Blanca+F%c3%a9lix) | N/A |
-| 41 | [Chichén Itzá](http://twitter.com/search?q=Chich%c3%a9n+Itz%c3%a1) | N/A |
-| 42 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
-| 43 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 44 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 45 | [orgullosos de quackity](http://twitter.com/search?q=orgullosos+de+quackity) | N/A |
-| 46 | [proud of quackity](http://twitter.com/search?q=proud+of+quackity) | N/A |
-| 47 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
-| 48 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 49 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 50 | [LUCERO ACTRIZ REGRESA](http://twitter.com/search?q=LUCERO+ACTRIZ+REGRESA) | N/A |
+| 41 | [Boyi](http://twitter.com/search?q=Boyi) | N/A |
+| 42 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 43 | [orgullosos de quackity](http://twitter.com/search?q=orgullosos+de+quackity) | N/A |
+| 44 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
+| 45 | [proud of quackity](http://twitter.com/search?q=proud+of+quackity) | N/A |
+| 46 | [Jagger](http://twitter.com/search?q=Jagger) | Jagger is a slang term used to describe someone who is stylish and fashionable. It can also be used to describe someone who is confident and cool. |
+| 47 | [LUCERO ACTRIZ REGRESA](http://twitter.com/search?q=LUCERO+ACTRIZ+REGRESA) | N/A |
+| 48 | [Óscar Nava Valencia](http://twitter.com/search?q=%c3%93scar+Nava+Valencia) | N/A |
+| 49 | [49ers](http://twitter.com/search?q=49ers) | The 49ers are a professional American football team based in San Francisco, California. The team competes in the National Football League (NFL) as a member of the NFC West division. The name "49ers" comes from the prospectors who arrived in Northern California during the 1849 Gold Rush. |
+| 50 | [Chivas Femenil](http://twitter.com/search?q=Chivas+Femenil) | N/A |
 
 
 
