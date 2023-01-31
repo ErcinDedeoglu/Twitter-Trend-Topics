@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-01-31 17:18:00 UTC`
+📆 Last Updated: `2023-01-31 18:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#NadeemAnjumMustResign](http://twitter.com/search?q=%23NadeemAnjumMustResign) | N/A |
 | 3 | [#انصاف_کرو_پاکستان_بچاؤ](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b5%d8%a7%d9%81_%da%a9%d8%b1%d9%88_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%a8%da%86%d8%a7%d8%a4) | N/A |
 | 4 | [#پرانےشکاری_نیاجال](http://twitter.com/search?q=%23%d9%be%d8%b1%d8%a7%d9%86%db%92%d8%b4%da%a9%d8%a7%d8%b1%db%8c_%d9%86%db%8c%d8%a7%d8%ac%d8%a7%d9%84) | N/A |
-| 5 | [#مراد_نے_کہا_تھا](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%af_%d9%86%db%92_%da%a9%db%81%d8%a7_%d8%aa%da%be%d8%a7) | N/A |
-| 6 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 7 | [Khanewal](http://twitter.com/search?q=Khanewal) | N/A |
-| 8 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 9 | [Inspector Nasir](http://twitter.com/search?q=Inspector+Nasir) | N/A |
-| 10 | [Ali Asghar](http://twitter.com/search?q=Ali+Asghar) | N/A |
-| 11 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
-| 12 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 13 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 14 | [zayed al nahyan](http://twitter.com/search?q=zayed+al+nahyan) | N/A |
-| 15 | [Bab Ul Hawaij](http://twitter.com/search?q=Bab+Ul+Hawaij) | N/A |
-| 16 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 17 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
-| 18 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 20 | [lady reading hospital](http://twitter.com/search?q=lady+reading+hospital) | N/A |
-| 21 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 22 | [Terrorism](http://twitter.com/search?q=Terrorism) | N/A |
+| 5 | [#پشاور](http://twitter.com/search?q=%23%d9%be%d8%b4%d8%a7%d9%88%d8%b1) | N/A |
+| 6 | [Mianwali](http://twitter.com/search?q=Mianwali) | N/A |
+| 7 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 8 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 9 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 10 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
+| 11 | [Bab Ul Hawaij](http://twitter.com/search?q=Bab+Ul+Hawaij) | N/A |
+| 12 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 13 | [Inspector Nasir](http://twitter.com/search?q=Inspector+Nasir) | N/A |
+| 14 | [Ali Asghar](http://twitter.com/search?q=Ali+Asghar) | N/A |
+| 15 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
+| 16 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
+| 17 | [Lady Reading Hospital](http://twitter.com/search?q=Lady+Reading+Hospital) | N/A |
+| 18 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 19 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 20 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 21 | [Shah e Tabassum](http://twitter.com/search?q=Shah+e+Tabassum) | N/A |
+| 22 | [Khanewal](http://twitter.com/search?q=Khanewal) | N/A |
 | 23 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
-| 24 | [Shah e Tabassum](http://twitter.com/search?q=Shah+e+Tabassum) | N/A |
-| 25 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 26 | [Static](http://twitter.com/search?q=Static) | N/A |
-| 27 | [Rescue 1122](http://twitter.com/search?q=Rescue+1122) | N/A |
-| 28 | [Starc](http://twitter.com/search?q=Starc) | N/A |
-| 29 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
-| 30 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
-| 31 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 24 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 25 | [Static](http://twitter.com/search?q=Static) | N/A |
+| 26 | [National Action Plan](http://twitter.com/search?q=National+Action+Plan) | N/A |
+| 27 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
+| 28 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 29 | [Starc](http://twitter.com/search?q=Starc) | N/A |
+| 30 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
+| 31 | [Rescue 1122](http://twitter.com/search?q=Rescue+1122) | N/A |
 | 32 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
 | 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 34 | [Martyrs](http://twitter.com/search?q=Martyrs) | N/A |
-| 35 | [$SNFTS](http://twitter.com/search?q=%24SNFTS) | N/A |
-| 36 | [Wasim Akram](http://twitter.com/search?q=Wasim+Akram) | N/A |
-| 37 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
-| 38 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 39 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
-| 40 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 41 | [Sum Ameen](http://twitter.com/search?q=Sum+Ameen) | N/A |
-| 42 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 43 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
-| 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 45 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
-| 46 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 47 | [Sleeping](http://twitter.com/search?q=Sleeping) | N/A |
-| 48 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 49 | [Imported](http://twitter.com/search?q=Imported) | N/A |
-| 50 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 35 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 36 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 37 | [Sum Ameen](http://twitter.com/search?q=Sum+Ameen) | N/A |
+| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 39 | [Tanda Dam](http://twitter.com/search?q=Tanda+Dam) | N/A |
+| 40 | [South Asia](http://twitter.com/search?q=South+Asia) | N/A |
+| 41 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 42 | [Sleeping](http://twitter.com/search?q=Sleeping) | N/A |
+| 43 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
+| 44 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 45 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 46 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 47 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
+| 48 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 49 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 50 | [Yayy](http://twitter.com/search?q=Yayy) | N/A |
 
 
 

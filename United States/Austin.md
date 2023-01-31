@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-01-31 17:18:05 UTC`
+📆 Last Updated: `2023-01-31 18:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 2 | [#Dallas](http://twitter.com/search?q=%23Dallas) | N/A |
-| 3 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 4 | [Fort](http://twitter.com/search?q=Fort) | N/A |
-| 5 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
-| 6 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | N/A |
-| 7 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | N/A |
-| 8 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | Tyler Huntley is a name. It does not have a specific meaning in English. |
-| 9 | [#3YearsOfMissAmericana](http://twitter.com/search?q=%233YearsOfMissAmericana) | N/A |
-| 10 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 11 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 12 | [#XMenVote](http://twitter.com/search?q=%23XMenVote) | N/A |
-| 13 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 14 | [Dexter Fowler](http://twitter.com/search?q=Dexter+Fowler) | N/A |
-| 15 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
-| 16 | [Fillmore](http://twitter.com/search?q=Fillmore) | N/A |
-| 17 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 18 | [The Brave and the Bold](http://twitter.com/search?q=The+Brave+and+the+Bold) | N/A |
-| 19 | [Booster Gold](http://twitter.com/search?q=Booster+Gold) | N/A |
-| 20 | [Frenzy](http://twitter.com/search?q=Frenzy) | N/A |
-| 21 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 22 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | N/A |
-| 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 24 | [The Authority](http://twitter.com/search?q=The+Authority) | N/A |
-| 25 | [Dazzler](http://twitter.com/search?q=Dazzler) | N/A |
-| 26 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
-| 27 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 28 | [I EXPECT](http://twitter.com/search?q=I+EXPECT) | N/A |
-| 29 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
-| 30 | [Bristol Bay](http://twitter.com/search?q=Bristol+Bay) | N/A |
-| 31 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 32 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
-| 33 | [I LOVE GOD](http://twitter.com/search?q=I+LOVE+GOD) | N/A |
-| 34 | [Karon Blake](http://twitter.com/search?q=Karon+Blake) | N/A |
-| 35 | [Mitch Daniels](http://twitter.com/search?q=Mitch+Daniels) | N/A |
-| 36 | [Jubilee](http://twitter.com/search?q=Jubilee) | N/A |
-| 37 | [$MSGM](http://twitter.com/search?q=%24MSGM) | N/A |
-| 38 | [Weezy](http://twitter.com/search?q=Weezy) | N/A |
-| 39 | [Yoru](http://twitter.com/search?q=Yoru) | N/A |
-| 40 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
-| 41 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
-| 42 | [Juggernaut](http://twitter.com/search?q=Juggernaut) | N/A |
-| 43 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 44 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 45 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 46 | [Jacoby](http://twitter.com/search?q=Jacoby) | N/A |
-| 47 | [Prodigy](http://twitter.com/search?q=Prodigy) | N/A |
-| 48 | [Concealed](http://twitter.com/search?q=Concealed) | N/A |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 50 | [Daily Quordle 372](http://twitter.com/search?q=Daily+Quordle+372) | N/A |
+| 1 | [#WinterStorm](http://twitter.com/search?q=%23WinterStorm) | #WinterStorm is a hashtag used on social media to refer to a severe winter storm. It is typically used to share information about the storm, such as its location, intensity, and potential impacts. |
+| 2 | [#snowday](http://twitter.com/search?q=%23snowday) | N/A |
+| 3 | [#texasweather](http://twitter.com/search?q=%23texasweather) | N/A |
+| 4 | [#icestorm](http://twitter.com/search?q=%23icestorm) | N/A |
+| 5 | [Thunder Sleet](http://twitter.com/search?q=Thunder+Sleet) | N/A |
+| 6 | [#Dallas](http://twitter.com/search?q=%23Dallas) | N/A |
+| 7 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 8 | [Fort](http://twitter.com/search?q=Fort) | N/A |
+| 9 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 10 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 11 | [Booster Gold](http://twitter.com/search?q=Booster+Gold) | Booster Gold is a fictional superhero appearing in American comic books published by DC Comics. He is initially depicted as a glory-seeking showboat from the future, using knowledge of historical events and futuristic technology to stage high-publicity heroics. The character has appeared in both comic books and other media adaptations, such as animated television series and video games. |
+| 12 | [The Authority](http://twitter.com/search?q=The+Authority) | The Authority is a term used to refer to a governing body or organization that has the power to make decisions and enforce laws. It can also refer to an individual or group of people who are seen as having the right to make decisions and enforce rules. |
+| 13 | [Pro Bowl](http://twitter.com/search?q=Pro+Bowl) | The Pro Bowl is an annual all-star game featuring the best players from the National Football League (NFL). It is played between teams composed of players from the American Football Conference (AFC) and the National Football Conference (NFC). The Pro Bowl is typically held at the end of the NFL season, and its purpose is to recognize and honor the league's top players. |
+| 14 | [Damian Wayne](http://twitter.com/search?q=Damian+Wayne) | Damian Wayne is the son of Batman and Talia al Ghul in the DC Comics universe. He is a skilled fighter and has taken on the mantle of Robin, Batman's sidekick. The name Damian Wayne is a combination of two characters from Greek mythology: Damian, meaning "to tame" or "to subdue," and Wayne, meaning "wagon driver." |
+| 15 | [Superman](http://twitter.com/search?q=Superman) | N/A |
+| 16 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 17 | [Creature Commandos](http://twitter.com/search?q=Creature+Commandos) | Creature Commandos is a comic book series created by DC Comics. It follows a team of monsters, aliens, and robots who are recruited by the US military to fight in World War II. The team is made up of Frankenstein's Monster, a werewolf, a vampire, an intelligent gorilla, and an android. The title "Creature Commandos" refers to the team's mission to command creatures in battle. |
+| 18 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | Tyler Huntley is a name. It does not have a specific meaning in English. |
+| 19 | [The Brave and the Bold](http://twitter.com/search?q=The+Brave+and+the+Bold) | The Brave and the Bold is a phrase that is used to describe people who are courageous and daring. It is often used to refer to those who take risks or stand up for what they believe in, even when it may be difficult or dangerous. |
+| 20 | [Supergirl](http://twitter.com/search?q=Supergirl) | Supergirl is a fictional superheroine appearing in American comic books published by DC Comics. The character was created by writer Otto Binder and designed by artist Al Plastino. Supergirl is the biological cousin of DC Comics' iconic superhero Superman, created by writer Jerome Siegel and artist Joseph Shuster. The character's origin story relates that she is the daughter of Superman's uncle Zor-El and his wife Alura. Like her cousin, she also possesses superhuman powers derived from Earth's yellow sun, including flight, super-strength, invulnerability, and X-ray vision. |
+| 21 | [Woman of Tomorrow](http://twitter.com/search?q=Woman+of+Tomorrow) | Woman of Tomorrow is a phrase used to refer to a woman who is seen as having the potential to become a leader in her field or community. It is often used to describe women who are making an impact in their respective fields and inspiring others to do the same. The phrase can also be used to refer to women who are working towards a better future for themselves and for other women. |
+| 22 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 23 | [Paradise Lost](http://twitter.com/search?q=Paradise+Lost) | Paradise Lost is an epic poem written by the English poet John Milton in 1667. It tells the story of the fall of man from a state of innocence and grace to a state of sin and corruption. The poem's title is derived from the biblical story of Adam and Eve's expulsion from the Garden of Eden, which is referred to as Paradise. The poem's main theme is that of human disobedience and its consequences, as well as the struggle between good and evil. |
+| 24 | [DCEU](http://twitter.com/search?q=DCEU) | DCEU stands for the DC Extended Universe, which is a shared universe of films based on characters from DC Comics. It includes films such as Man of Steel, Batman v Superman: Dawn of Justice, Suicide Squad, Wonder Woman, Aquaman, and Shazam!. |
+| 25 | [Green Lantern](http://twitter.com/search?q=Green+Lantern) | Green Lantern is a superhero from DC Comics. He is a member of the intergalactic police force known as the Green Lantern Corps, and is granted a power ring that gives him the ability to create solid constructs out of green energy. The phrase "Green Lantern" has come to mean someone who is brave and stands up for justice. |
+| 26 | [Elseworlds](http://twitter.com/search?q=Elseworlds) | Elseworlds is a DC Comics imprint that tells stories outside of the mainstream continuity. It allows writers and artists to explore alternate versions of characters and settings, often with drastic changes from the original. The term "Elseworlds" is derived from the phrase "What if...?" and is used to describe stories that take place in alternate realities or timelines. |
+| 27 | [Bad Boys 4](http://twitter.com/search?q=Bad+Boys+4) | N/A |
+| 28 | [Amanda Waller](http://twitter.com/search?q=Amanda+Waller) | Amanda Waller is a fictional character appearing in comic books published by DC Comics. She is an anti-heroine and government agent who runs the Suicide Squad, a team of incarcerated supervillains who carry out high-risk missions for the U.S. government in exchange for commuted sentences. She is known for her no-nonsense attitude and willingness to do whatever it takes to get the job done. |
+| 29 | [Midnighter](http://twitter.com/search?q=Midnighter) | Midnighter is a comic book superhero created by writer Warren Ellis and artist Bryan Hitch. He is a member of the superhero team The Authority, and is known for his acrobatic fighting style and his use of advanced technology. In English, Midnighter means a person who fights crime at night. |
+| 30 | [The Flash](http://twitter.com/search?q=The+Flash) | The Flash is a superhero from DC Comics. He is a crime-fighting speedster who can run and move at superhuman speeds, as well as use superhuman reflexes to dodge bullets and other projectiles. His powers are derived from the Speed Force, an energy field that allows him to travel faster than the speed of light. The Flash is one of the most iconic superheroes in comic book history and has been featured in numerous television shows, movies, and video games. |
+| 31 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
+| 32 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 33 | [Nightwing](http://twitter.com/search?q=Nightwing) | N/A |
+| 34 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 35 | [Gods and Monsters](http://twitter.com/search?q=Gods+and+Monsters) | Gods and Monsters is a 1998 film directed by Bill Condon. The title is a reference to the phrase "gods and monsters," which is used to describe the complex relationship between two powerful, often opposing forces. The film follows the story of an aging horror movie director, James Whale, as he struggles with his own mortality and sexuality. The phrase "gods and monsters" can also be used more generally to refer to any situation in which two powerful forces are in conflict. |
+| 36 | [Dick Grayson](http://twitter.com/search?q=Dick+Grayson) | N/A |
+| 37 | [Henry Cavill](http://twitter.com/search?q=Henry+Cavill) | N/A |
+| 38 | [Fillmore](http://twitter.com/search?q=Fillmore) | N/A |
+| 39 | [Bat Family](http://twitter.com/search?q=Bat+Family) | N/A |
+| 40 | [Peacemaker](http://twitter.com/search?q=Peacemaker) | N/A |
+| 41 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 42 | [Tom King](http://twitter.com/search?q=Tom+King) | N/A |
+| 43 | [Wonder Woman](http://twitter.com/search?q=Wonder+Woman) | N/A |
+| 44 | [True Detective](http://twitter.com/search?q=True+Detective) | N/A |
+| 45 | [Rep. George Santos](http://twitter.com/search?q=Rep.+George+Santos) | N/A |
+| 46 | [John Stewart](http://twitter.com/search?q=John+Stewart) | N/A |
+| 47 | [Dexter Fowler](http://twitter.com/search?q=Dexter+Fowler) | N/A |
+| 48 | [Safran](http://twitter.com/search?q=Safran) | N/A |
+| 49 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 
 
 

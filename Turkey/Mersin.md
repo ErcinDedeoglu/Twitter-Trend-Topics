@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-01-31 17:18:03 UTC`
+📆 Last Updated: `2023-01-31 18:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#söylenasıl](http://twitter.com/search?q=%23s%c3%b6ylenas%c4%b1l) | N/A |
-| 2 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
+| 1 | [#UnutursanYetimKalır](http://twitter.com/search?q=%23UnutursanYetimKal%c4%b1r) | N/A |
+| 2 | [#FKGvBJK](http://twitter.com/search?q=%23FKGvBJK) | #FKGvBJK is a hashtag used to refer to a football match between FK Gomel and BATE Borisov in the Belarusian Premier League. The hashtag stands for "FK Gomel vs BATE Borisov". |
 | 3 | [KamuEczacılarına TabanTeşvik](http://twitter.com/search?q=KamuEczac%c4%b1lar%c4%b1na+TabanTe%c5%9fvik) | KamuEczacılarına TabanTeşvik is a Turkish phrase that translates to "Base Encouragement for Public Pharmacists". It is a program in Turkey that provides financial incentives to public pharmacists in order to encourage them to provide better services. |
-| 4 | [#SuVerimliliği](http://twitter.com/search?q=%23SuVerimlili%c4%9fi) | N/A |
-| 5 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
-| 6 | [#HerAileyeOkulaBirSHU](http://twitter.com/search?q=%23HerAileyeOkulaBirSHU) | N/A |
-| 7 | [#GaripMemurYHS](http://twitter.com/search?q=%23GaripMemurYHS) | N/A |
-| 8 | [ASHB Bekletme](http://twitter.com/search?q=ASHB+Bekletme) | N/A |
-| 9 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
-| 10 | [Başarılar Beşiktaş'ım](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
-| 11 | [Futbola Siyaset Bulaştı](http://twitter.com/search?q=Futbola+Siyaset+Bula%c5%9ft%c4%b1) | Futbola Siyaset Bulaştı is a Turkish phrase that translates to "Politics has infiltrated football". It is used to describe the situation when politics becomes involved in the sport of football. |
-| 12 | [Ali Mahir Başarır](http://twitter.com/search?q=Ali+Mahir+Ba%c5%9far%c4%b1r) | N/A |
-| 13 | [Gülben](http://twitter.com/search?q=G%c3%bclben) | N/A |
-| 14 | [Yatabare](http://twitter.com/search?q=Yatabare) | N/A |
-| 15 | [Lütfü Türkkan](http://twitter.com/search?q=L%c3%bctf%c3%bc+T%c3%bcrkkan) | N/A |
-| 16 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 17 | [Farioli](http://twitter.com/search?q=Farioli) | N/A |
-| 18 | [Fatih Karagümrük](http://twitter.com/search?q=Fatih+Karag%c3%bcmr%c3%bck) | N/A |
-| 19 | [Mert Aydın](http://twitter.com/search?q=Mert+Ayd%c4%b1n) | N/A |
-| 20 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 21 | [Bay Kemal](http://twitter.com/search?q=Bay+Kemal) | N/A |
-| 22 | [Bışar](http://twitter.com/search?q=B%c4%b1%c5%9far) | N/A |
-| 23 | [Bereket](http://twitter.com/search?q=Bereket) | N/A |
-| 24 | [Aferin](http://twitter.com/search?q=Aferin) | N/A |
-| 25 | [TBMM Hazırlık Komisyonu](http://twitter.com/search?q=TBMM+Haz%c4%b1rl%c4%b1k+Komisyonu) | N/A |
-| 26 | [Avrupa'dan](http://twitter.com/search?q=Avrupa%27dan) | N/A |
-| 27 | [Yedili Masa](http://twitter.com/search?q=Yedili+Masa) | Yedili Masa is a traditional Turkish game that is similar to checkers. It is played on a board with 64 squares, and each player has 12 pieces. The goal of the game is to capture all of the opponent's pieces. The name Yedili Masa translates to "Seven Table" in English, referring to the seven-by-seven grid of the board. |
-| 28 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
-| 29 | [Haris Seferovic](http://twitter.com/search?q=Haris+Seferovic) | N/A |
-| 30 | [GarnierinYildizi AfraSaraçoğlu](http://twitter.com/search?q=GarnierinYildizi+AfraSara%c3%a7o%c4%9flu) | N/A |
-| 31 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
-| 32 | [Hayko](http://twitter.com/search?q=Hayko) | N/A |
-| 33 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
-| 34 | [Mary](http://twitter.com/search?q=Mary) | N/A |
-| 35 | [Endeks](http://twitter.com/search?q=Endeks) | N/A |
-| 36 | [Simge](http://twitter.com/search?q=Simge) | N/A |
-| 37 | [Muammer Aksoy](http://twitter.com/search?q=Muammer+Aksoy) | N/A |
-| 38 | [6 Şubat](http://twitter.com/search?q=6+%c5%9eubat) | N/A |
-| 39 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 40 | [1 Şubat Çarşamba](http://twitter.com/search?q=1+%c5%9eubat+%c3%87ar%c5%9famba) | N/A |
-| 41 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 42 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
-| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 44 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 45 | [#KademeliPrimeHayır](http://twitter.com/search?q=%23KademeliPrimeHay%c4%b1r) | N/A |
-| 46 | [#FKGvBJK](http://twitter.com/search?q=%23FKGvBJK) | N/A |
-| 47 | [#Astsubaylarıntazminathakkı](http://twitter.com/search?q=%23Astsubaylar%c4%b1ntazminathakk%c4%b1) | N/A |
-| 48 | [#spormerkezi](http://twitter.com/search?q=%23spormerkezi) | N/A |
-| 49 | [#yüzdeyüz](http://twitter.com/search?q=%23y%c3%bczdey%c3%bcz) | N/A |
+| 4 | [#50BinTLKışlasızCezasız](http://twitter.com/search?q=%2350BinTLK%c4%b1%c5%9flas%c4%b1zCezas%c4%b1z) | N/A |
+| 5 | [HepSeninle ElifNurYel](http://twitter.com/search?q=HepSeninle+ElifNurYel) | HepSeninle ElifNurYel is a Turkish phrase that translates to "Be with you, Elif and Nur". It is an expression of good wishes and support for someone. |
+| 6 | [#sarayneolsun](http://twitter.com/search?q=%23sarayneolsun) | N/A |
+| 7 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
+| 8 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
+| 9 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
+| 10 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
+| 11 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 12 | [Cenk Tosun](http://twitter.com/search?q=Cenk+Tosun) | Cenk Tosun is a Turkish professional footballer who plays as a striker for Premier League club Everton and the Turkey national team. His name translates to "Full of Courage" in English. |
+| 13 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
+| 14 | [Colin Kazım](http://twitter.com/search?q=Colin+Kaz%c4%b1m) | N/A |
+| 15 | [Tayfur](http://twitter.com/search?q=Tayfur) | Tayfur is a Turkish name derived from the Arabic name Tayfoor, which means “one who is blessed”. In English, it can be translated to mean “blessed one”. |
+| 16 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
+| 17 | [İNGİLİZ ONAYLI MUTABAKAT](http://twitter.com/search?q=%c4%b0NG%c4%b0L%c4%b0Z+ONAYLI+MUTABAKAT) | N/A |
+| 18 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
+| 19 | [ASHB Bekletme](http://twitter.com/search?q=ASHB+Bekletme) | N/A |
+| 20 | [Tosun Paşa](http://twitter.com/search?q=Tosun+Pa%c5%9fa) | N/A |
+| 21 | [Ali İhsan Destici](http://twitter.com/search?q=Ali+%c4%b0hsan+Destici) | N/A |
+| 22 | [Welinton](http://twitter.com/search?q=Welinton) | N/A |
+| 23 | [Başarılar Beşiktaş'ım](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
+| 24 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 25 | [Konda](http://twitter.com/search?q=Konda) | N/A |
+| 26 | [TGRT](http://twitter.com/search?q=TGRT) | N/A |
+| 27 | [Futbola Siyaset Bulaştı](http://twitter.com/search?q=Futbola+Siyaset+Bula%c5%9ft%c4%b1) | Futbola Siyaset Bulaştı is a Turkish phrase that translates to "Politics has infiltrated football". It is used to describe the situation when politics becomes involved in the sport of football. |
+| 28 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 29 | [Yatabare](http://twitter.com/search?q=Yatabare) | N/A |
+| 30 | [Bereket](http://twitter.com/search?q=Bereket) | N/A |
+| 31 | [Farioli](http://twitter.com/search?q=Farioli) | N/A |
+| 32 | [Gülben](http://twitter.com/search?q=G%c3%bclben) | N/A |
+| 33 | [Lütfü Türkkan](http://twitter.com/search?q=L%c3%bctf%c3%bc+T%c3%bcrkkan) | N/A |
+| 34 | [Bay Kemal](http://twitter.com/search?q=Bay+Kemal) | N/A |
+| 35 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 36 | [Ali Mahir Başarır](http://twitter.com/search?q=Ali+Mahir+Ba%c5%9far%c4%b1r) | N/A |
+| 37 | [Bışar](http://twitter.com/search?q=B%c4%b1%c5%9far) | N/A |
+| 38 | [Mert Aydın](http://twitter.com/search?q=Mert+Ayd%c4%b1n) | N/A |
+| 39 | [TBMM Hazırlık Komisyonu](http://twitter.com/search?q=TBMM+Haz%c4%b1rl%c4%b1k+Komisyonu) | N/A |
+| 40 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 41 | [Aferin](http://twitter.com/search?q=Aferin) | N/A |
+| 42 | [Avrupa'dan](http://twitter.com/search?q=Avrupa%27dan) | N/A |
+| 43 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
+| 44 | [GarnierinYildizi AfraSaraçoğlu](http://twitter.com/search?q=GarnierinYildizi+AfraSara%c3%a7o%c4%9flu) | N/A |
+| 45 | [Simge](http://twitter.com/search?q=Simge) | N/A |
+| 46 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 47 | [Babanın](http://twitter.com/search?q=Baban%c4%b1n) | N/A |
+| 48 | [Endeks](http://twitter.com/search?q=Endeks) | N/A |
+| 49 | [1 Şubat Çarşamba](http://twitter.com/search?q=1+%c5%9eubat+%c3%87ar%c5%9famba) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-01-31 17:17:34 UTC`
+📆 Last Updated: `2023-01-31 18:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SBPlayDoit](http://twitter.com/search?q=%23SBPlayDoit) | N/A |
-| 2 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
-| 3 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [Edgar Báez](http://twitter.com/search?q=Edgar+B%c3%a1ez) | Edgar Báez is a Spanish surname. In English, it means "son of Báez". |
-| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 6 | [#PoderosoChulo](http://twitter.com/search?q=%23PoderosoChulo) | N/A |
-| 7 | [Cuauhtémoc Cárdenas](http://twitter.com/search?q=Cuauht%c3%a9moc+C%c3%a1rdenas) | N/A |
-| 8 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 9 | [El Lobo](http://twitter.com/search?q=El+Lobo) | N/A |
-| 10 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
-| 11 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
-| 12 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
-| 13 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 14 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 15 | [Florian Thauvin](http://twitter.com/search?q=Florian+Thauvin) | N/A |
-| 16 | [Canicas](http://twitter.com/search?q=Canicas) | N/A |
-| 17 | [INCALCULABLE](http://twitter.com/search?q=INCALCULABLE) | N/A |
-| 18 | [Martes 31](http://twitter.com/search?q=Martes+31) | N/A |
-| 19 | [Kenia Os](http://twitter.com/search?q=Kenia+Os) | N/A |
-| 20 | [Llamada](http://twitter.com/search?q=Llamada) | N/A |
-| 21 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 22 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 23 | [Clonazepam](http://twitter.com/search?q=Clonazepam) | N/A |
-| 24 | [Joana Sanz](http://twitter.com/search?q=Joana+Sanz) | N/A |
-| 25 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
-| 26 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 27 | [El 31](http://twitter.com/search?q=El+31) | N/A |
-| 28 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
-| 29 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 30 | [Cuestionan a SEP](http://twitter.com/search?q=Cuestionan+a+SEP) | N/A |
-| 31 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 32 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 33 | [Jurassic Park](http://twitter.com/search?q=Jurassic+Park) | N/A |
-| 34 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
-| 35 | [Dividir](http://twitter.com/search?q=Dividir) | N/A |
-| 36 | [Lisa Loring](http://twitter.com/search?q=Lisa+Loring) | Lisa Loring is an American actress best known for her role as Wednesday Addams on the 1960s television series The Addams Family. In English, Lisa Loring is a name. |
-| 37 | [Jesús Aguilar Padilla](http://twitter.com/search?q=Jes%c3%bas+Aguilar+Padilla) | N/A |
-| 38 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 39 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 40 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 41 | [REGRESEN A LILIANA](http://twitter.com/search?q=REGRESEN+A+LILIANA) | N/A |
-| 42 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
-| 43 | [NASCAR](http://twitter.com/search?q=NASCAR) | N/A |
-| 44 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 45 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 46 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 47 | [Federico Gutiérrez](http://twitter.com/search?q=Federico+Guti%c3%a9rrez) | N/A |
-| 48 | [3RACHA FULL MEMBERS OF KOMCA](http://twitter.com/search?q=3RACHA+FULL+MEMBERS+OF+KOMCA) | 3RACHA is a South Korean hip-hop group composed of three members: Bang Chan, Changbin, and Han. They are all full members of the Korea Music Copyright Association (KOMCA), which is an organization that protects the rights of music creators and producers in South Korea. The acronym "3RACHA FULL MEMBERS OF KOMCA" is used to refer to the trio's membership in KOMCA. |
-| 49 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 1 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
+| 2 | [#SBPlayDoit](http://twitter.com/search?q=%23SBPlayDoit) | N/A |
+| 3 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
+| 4 | [#DCStudios](http://twitter.com/search?q=%23DCStudios) | #DCStudios is the hashtag used to refer to DC Entertainment, a subsidiary of Warner Bros. Entertainment. It is used to promote and discuss DC Comics-related content, such as movies, television shows, and comic books. The hashtag stands for "DC Entertainment Studios." |
+| 5 | [Mikel Arriola](http://twitter.com/search?q=Mikel+Arriola) | N/A |
+| 6 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 7 | [Edgar Báez](http://twitter.com/search?q=Edgar+B%c3%a1ez) | Edgar Báez is a Spanish surname. In English, it means "son of Báez". |
+| 8 | [Yon de Luisa](http://twitter.com/search?q=Yon+de+Luisa) | N/A |
+| 9 | [Liga MX](http://twitter.com/search?q=Liga+MX) | N/A |
+| 10 | [Cuauhtémoc Cárdenas](http://twitter.com/search?q=Cuauht%c3%a9moc+C%c3%a1rdenas) | N/A |
+| 11 | [Repechaje](http://twitter.com/search?q=Repechaje) | N/A |
+| 12 | [The Authority](http://twitter.com/search?q=The+Authority) | The Authority is a term used to refer to a governing body or organization that has the power to make decisions and enforce laws. It can also refer to an individual or group of people who are seen as having the right to make decisions and enforce rules. |
+| 13 | [Booster Gold](http://twitter.com/search?q=Booster+Gold) | Booster Gold is a fictional superhero appearing in American comic books published by DC Comics. He is initially depicted as a glory-seeking showboat from the future, using knowledge of historical events and futuristic technology to stage high-publicity heroics. The character has appeared in both comic books and other media adaptations, such as animated television series and video games. |
+| 14 | [The Brave and the Bold](http://twitter.com/search?q=The+Brave+and+the+Bold) | The Brave and the Bold is a phrase that is used to describe people who are courageous and daring. It is often used to refer to those who take risks or stand up for what they believe in, even when it may be difficult or dangerous. |
+| 15 | [Superman](http://twitter.com/search?q=Superman) | N/A |
+| 16 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 17 | [Abierto](http://twitter.com/search?q=Abierto) | N/A |
+| 18 | [Rodrigo Ares de Parga](http://twitter.com/search?q=Rodrigo+Ares+de+Parga) | N/A |
+| 19 | [Ascenso](http://twitter.com/search?q=Ascenso) | N/A |
+| 20 | [The Batman](http://twitter.com/search?q=The+Batman) | The Batman is a superhero comic book series created by Bob Kane and Bill Finger. It follows the adventures of Bruce Wayne, a billionaire playboy who moonlights as the vigilante known as Batman. The character has been featured in numerous films, television shows, and video games since his debut in 1939. The Batman is known for his use of gadgets, detective skills, and martial arts to fight crime in Gotham City. |
+| 21 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
+| 22 | [Ganador](http://twitter.com/search?q=Ganador) | N/A |
+| 23 | [Henry Cavill](http://twitter.com/search?q=Henry+Cavill) | N/A |
+| 24 | [Green Lantern](http://twitter.com/search?q=Green+Lantern) | Green Lantern is a superhero from DC Comics. He is a member of the intergalactic police force known as the Green Lantern Corps, and is granted a power ring that gives him the ability to create solid constructs out of green energy. The phrase "Green Lantern" has come to mean someone who is brave and stands up for justice. |
+| 25 | [Damian](http://twitter.com/search?q=Damian) | N/A |
+| 26 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
+| 27 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 28 | [Udinese](http://twitter.com/search?q=Udinese) | N/A |
+| 29 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
+| 30 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 31 | [Jurassic Park](http://twitter.com/search?q=Jurassic+Park) | N/A |
+| 32 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
+| 33 | [Robin](http://twitter.com/search?q=Robin) | N/A |
+| 34 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 35 | [Martes 31](http://twitter.com/search?q=Martes+31) | N/A |
+| 36 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 37 | [Llamada](http://twitter.com/search?q=Llamada) | N/A |
+| 38 | [Bartlett](http://twitter.com/search?q=Bartlett) | N/A |
+| 39 | [Pancho](http://twitter.com/search?q=Pancho) | N/A |
+| 40 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 41 | [#PoderosoChulo](http://twitter.com/search?q=%23PoderosoChulo) | N/A |
+| 42 | [#BunnyPrinceDoyoungDay](http://twitter.com/search?q=%23BunnyPrinceDoyoungDay) | #BunnyPrinceDoyoungDay is a hashtag used by fans of the South Korean singer and actor Doyoung, who is a member of the K-pop group NCT. The hashtag is used to celebrate his birthday, which falls on August 1st. |
+| 43 | [#따끈따끈_도영빵_생일이_왔옹](http://twitter.com/search?q=%23%eb%94%b0%eb%81%88%eb%94%b0%eb%81%88_%eb%8f%84%ec%98%81%eb%b9%b5_%ec%83%9d%ec%9d%bc%ec%9d%b4_%ec%99%94%ec%98%b9) | "#따끈따끈_도영빵_생일이_왔옹" is a hashtag used to celebrate the birthday of Do Young Bang, a South Korean singer and member of the boy band TXT. In English, it translates to "It's Do Young Bang's Birthday - Let's Celebrate!" |
+| 44 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
+| 45 | [#FebruaryStarJihyoDay](http://twitter.com/search?q=%23FebruaryStarJihyoDay) | #FebruaryStarJihyoDay is a hashtag used by fans of the South Korean singer and actress Jihyo, who is a member of the K-pop girl group TWICE. The hashtag is used to celebrate Jihyo's birthday, which falls on February 1st. Fans use the hashtag to share photos, videos, and messages of support for Jihyo on her special day. |
+| 46 | [#12AñosAlAire](http://twitter.com/search?q=%2312A%c3%b1osAlAire) | N/A |
+| 47 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 48 | [#VF23](http://twitter.com/search?q=%23VF23) | N/A |
 
 
 
