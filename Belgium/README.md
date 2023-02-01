@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-01 01:45:39 UTC`
+📆 Last Updated: `2023-02-01 02:45:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rsca](http://twitter.com/search?q=%23rsca) | N/A |
-| 2 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
-| 3 | [tihange 2](http://twitter.com/search?q=tihange+2) | N/A |
-| 4 | [#greve31janvier](http://twitter.com/search?q=%23greve31janvier) | N/A |
-| 5 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
-| 6 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 7 | [Fredberg](http://twitter.com/search?q=Fredberg) | N/A |
-| 8 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Domenico Tedesco](http://twitter.com/search?q=Domenico+Tedesco) | N/A |
-| 11 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 1 | [tihange 2](http://twitter.com/search?q=tihange+2) | N/A |
+| 2 | [#greve31janvier](http://twitter.com/search?q=%23greve31janvier) | N/A |
+| 3 | [#deafspraak](http://twitter.com/search?q=%23deafspraak) | N/A |
+| 4 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 5 | [Fredberg](http://twitter.com/search?q=Fredberg) | N/A |
+| 6 | [#rsca](http://twitter.com/search?q=%23rsca) | N/A |
+| 7 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Domenico Tedesco](http://twitter.com/search?q=Domenico+Tedesco) | N/A |
+| 10 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 11 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
 | 12 | [schuman](http://twitter.com/search?q=schuman) | N/A |
 | 13 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
 | 14 | [Commission](http://twitter.com/search?q=Commission) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Belgium
 | 33 | [Walen](http://twitter.com/search?q=Walen) | N/A |
 | 34 | [open vld](http://twitter.com/search?q=open+vld) | N/A |
 | 35 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 36 | [Rode Duivels](http://twitter.com/search?q=Rode+Duivels) | N/A |
+| 36 | [rode duivels](http://twitter.com/search?q=rode+duivels) | N/A |
 | 37 | [Wallonië](http://twitter.com/search?q=Walloni%c3%ab) | N/A |
 | 38 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
 | 39 | [Genk](http://twitter.com/search?q=Genk) | N/A |

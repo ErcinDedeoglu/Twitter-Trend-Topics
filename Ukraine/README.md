@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-01 01:45:45 UTC`
+📆 Last Updated: `2023-02-01 02:45:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,30 +37,30 @@ This is top 50 for Ukraine
 | 20 | [заздрю](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b7%d0%b4%d1%80%d1%8e) | N/A |
 | 21 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
 | 22 | [гугл](http://twitter.com/search?q=%d0%b3%d1%83%d0%b3%d0%bb) | N/A |
-| 23 | [каким](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%b8%d0%bc) | N/A |
-| 24 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 25 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 27 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 28 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 29 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 30 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 31 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 32 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
-| 33 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 34 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
-| 35 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 36 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 23 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 24 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 26 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 27 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 28 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 29 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 30 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 31 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 32 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 33 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 34 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 35 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 36 | [Каким](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%bc) | N/A |
 | 37 | [Украиной](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | N/A |
 | 38 | [ирану](http://twitter.com/search?q=%d0%b8%d1%80%d0%b0%d0%bd%d1%83) | N/A |
 | 39 | [коли](http://twitter.com/search?q=%d0%ba%d0%be%d0%bb%d0%b8) | N/A |
 | 40 | [Никак](http://twitter.com/search?q=%d0%9d%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
-| 41 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
+| 41 | [честно](http://twitter.com/search?q=%d1%87%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
 | 42 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
 | 43 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
 | 44 | [ипсо](http://twitter.com/search?q=%d0%b8%d0%bf%d1%81%d0%be) | N/A |
 | 45 | [ВОНИ](http://twitter.com/search?q=%d0%92%d0%9e%d0%9d%d0%98) | N/A |
-| 46 | [Польшу](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
+| 46 | [польшу](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
 | 47 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
 | 48 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
 | 49 | [Challenger 2](http://twitter.com/search?q=Challenger+2) | N/A |

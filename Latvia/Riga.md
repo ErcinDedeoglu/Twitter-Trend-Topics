@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-01 01:45:11 UTC`
+📆 Last Updated: `2023-02-01 02:44:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,7 +43,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 26 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 27 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
 | 28 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
-| 29 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 29 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
 | 30 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
 | 31 | [saeimas](http://twitter.com/search?q=saeimas) | N/A |
 | 32 | [Protams](http://twitter.com/search?q=Protams) | N/A |

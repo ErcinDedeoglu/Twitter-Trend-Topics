@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-01 01:45:44 UTC`
+📆 Last Updated: `2023-02-01 02:45:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,16 +28,16 @@ This is top 50 for Sweden
 | 11 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 12 | [randers](http://twitter.com/search?q=randers) | N/A |
 | 13 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 14 | [Vårbynätverket](http://twitter.com/search?q=V%c3%a5rbyn%c3%a4tverket) | N/A |
+| 14 | [vårbynätverket](http://twitter.com/search?q=v%c3%a5rbyn%c3%a4tverket) | N/A |
 | 15 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 16 | [nobels](http://twitter.com/search?q=nobels) | N/A |
-| 17 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
+| 17 | [ebba östlin](http://twitter.com/search?q=ebba+%c3%b6stlin) | N/A |
 | 18 | [ifk göteborg](http://twitter.com/search?q=ifk+g%c3%b6teborg) | N/A |
 | 19 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
 | 20 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
 | 21 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 23 | [Tre Kronor](http://twitter.com/search?q=Tre+Kronor) | N/A |
+| 23 | [tre kronor](http://twitter.com/search?q=tre+kronor) | N/A |
 | 24 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
 | 25 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
 | 26 | [adam carlén](http://twitter.com/search?q=adam+carl%c3%a9n) | N/A |
@@ -53,14 +53,14 @@ This is top 50 for Sweden
 | 36 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 37 | [#svmed](http://twitter.com/search?q=%23svmed) | N/A |
 | 38 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 39 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
+| 39 | [oskarshamn](http://twitter.com/search?q=oskarshamn) | N/A |
 | 40 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 | 41 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 42 | [Jonna Sima](http://twitter.com/search?q=Jonna+Sima) | N/A |
+| 42 | [jonna sima](http://twitter.com/search?q=jonna+sima) | N/A |
 | 43 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
 | 44 | [nubben](http://twitter.com/search?q=nubben) | N/A |
 | 45 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 46 | [Hausner](http://twitter.com/search?q=Hausner) | N/A |
+| 46 | [hausner](http://twitter.com/search?q=hausner) | N/A |
 | 47 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
 | 48 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 49 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |

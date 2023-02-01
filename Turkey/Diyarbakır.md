@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-01 01:45:30 UTC`
+📆 Last Updated: `2023-02-01 02:45:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | N/A |
-| 2 | [#tiktokkapatılsın](http://twitter.com/search?q=%23tiktokkapat%c4%b1ls%c4%b1n) | N/A |
-| 3 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 4 | [#SeninSürenDolduAhmet](http://twitter.com/search?q=%23SeninS%c3%bcrenDolduAhmet) | N/A |
+| 1 | [#FKGvBJK](http://twitter.com/search?q=%23FKGvBJK) | #FKGvBJK is a hashtag used to refer to a football match between FK Gomel and BATE Borisov in the Belarusian Premier League. The hashtag stands for "FK Gomel vs BATE Borisov". |
+| 2 | [#KademeliPrimeHayır](http://twitter.com/search?q=%23KademeliPrimeHay%c4%b1r) | N/A |
+| 3 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
+| 4 | [futbola siyaset bulaştı](http://twitter.com/search?q=futbola+siyaset+bula%c5%9ft%c4%b1) | N/A |
 | 5 | [YÖNETİM İSTİFA](http://twitter.com/search?q=Y%c3%96NET%c4%b0M+%c4%b0ST%c4%b0FA) | YÖNETİM İSTİFA is a Turkish phrase meaning "resignation of management". It is used to refer to the act of a manager or executive resigning from their position. |
-| 6 | [YÖNETİM İSTİFA](http://twitter.com/search?q=Y%c3%96NET%c4%b0M+%c4%b0ST%c4%b0FA) | YÖNETİM İSTİFA is a Turkish phrase meaning "resignation of management". It is used to refer to the act of a manager or executive resigning from their position. |
-| 7 | [Sevgili Şubat](http://twitter.com/search?q=Sevgili+%c5%9eubat) | N/A |
-| 8 | [Elma](http://twitter.com/search?q=Elma) | N/A |
-| 9 | [Şenol](http://twitter.com/search?q=%c5%9eenol) | Şenol is a Turkish given name, derived from the Arabic name Shanul. It is a unisex name, and it means "happy" or "cheerful". |
-| 10 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 11 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
-| 12 | [Meryem](http://twitter.com/search?q=Meryem) | N/A |
-| 13 | [Muleka](http://twitter.com/search?q=Muleka) | Muleka is a Swahili word that means "child" or "offspring". It is often used as a term of endearment for a young person. |
-| 14 | [Özledim](http://twitter.com/search?q=%c3%96zledim) | N/A |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Beşiktaşın](http://twitter.com/search?q=Be%c5%9fikta%c5%9f%c4%b1n) | N/A |
-| 17 | [Ali İhsan Destici](http://twitter.com/search?q=Ali+%c4%b0hsan+Destici) | N/A |
-| 18 | [Allah Rahmet](http://twitter.com/search?q=Allah+Rahmet) | N/A |
-| 19 | [HepSeninle ElifNurYel](http://twitter.com/search?q=HepSeninle+ElifNurYel) | HepSeninle ElifNurYel is a Turkish phrase that translates to "Be with you, Elif and Nur". It is an expression of good wishes and support for someone. |
-| 20 | [Mekanı Cennet](http://twitter.com/search?q=Mekan%c4%b1+Cennet) | N/A |
-| 21 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 22 | [Sergen](http://twitter.com/search?q=Sergen) | N/A |
-| 23 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
-| 24 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 25 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
-| 26 | [İlkokul](http://twitter.com/search?q=%c4%b0lkokul) | N/A |
-| 27 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 28 | [#BarışManço](http://twitter.com/search?q=%23Bar%c4%b1%c5%9fMan%c3%a7o) | N/A |
-| 29 | [#EmniyetAdaletBekliyor](http://twitter.com/search?q=%23EmniyetAdaletBekliyor) | N/A |
-| 30 | [#StajaAdalet](http://twitter.com/search?q=%23StajaAdalet) | N/A |
-| 31 | [#BoriniFenere](http://twitter.com/search?q=%23BoriniFenere) | N/A |
-| 32 | [#FKGvBJK](http://twitter.com/search?q=%23FKGvBJK) | #FKGvBJK is a hashtag used to refer to a football match between FK Gomel and BATE Borisov in the Belarusian Premier League. The hashtag stands for "FK Gomel vs BATE Borisov". |
-| 33 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
-| 34 | [#NefretÇağrısıYapmayın](http://twitter.com/search?q=%23Nefret%c3%87a%c4%9fr%c4%b1s%c4%b1Yapmay%c4%b1n) | N/A |
-| 35 | [#GSvÜMR](http://twitter.com/search?q=%23GSv%c3%9cMR) | N/A |
-| 36 | [#2000SonrasiSecimiBelirler](http://twitter.com/search?q=%232000SonrasiSecimiBelirler) | N/A |
-| 37 | [#sarayneolsun](http://twitter.com/search?q=%23sarayneolsun) | N/A |
-| 38 | [#AmpulePüfDeTürkiye](http://twitter.com/search?q=%23AmpuleP%c3%bcfDeT%c3%bcrkiye) | N/A |
-| 39 | [#foca](http://twitter.com/search?q=%23foca) | N/A |
-| 40 | [#KademeliPrimeHayir](http://twitter.com/search?q=%23KademeliPrimeHayir) | N/A |
-| 41 | [#aliaga](http://twitter.com/search?q=%23aliaga) | N/A |
-| 42 | [#MadeİnEngland](http://twitter.com/search?q=%23Made%c4%b0nEngland) | N/A |
-| 43 | [#BenKemalGeliyorum](http://twitter.com/search?q=%23BenKemalGeliyorum) | N/A |
-| 44 | [#HerAileyeOkulaBirSHU](http://twitter.com/search?q=%23HerAileyeOkulaBirSHU) | N/A |
-| 45 | [#infazkorumaBEKLİYOR](http://twitter.com/search?q=%23infazkorumaBEKL%c4%b0YOR) | N/A |
-| 46 | [#KoepekleriUyutun](http://twitter.com/search?q=%23KoepekleriUyutun) | N/A |
-| 47 | [#GaripMemurYHS](http://twitter.com/search?q=%23GaripMemurYHS) | N/A |
+| 6 | [kamueczacılarına tabanteşvik](http://twitter.com/search?q=kamueczac%c4%b1lar%c4%b1na+tabante%c5%9fvik) | N/A |
+| 7 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
+| 8 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
+| 9 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | N/A |
+| 10 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
+| 11 | [HepSeninle ElifNurYel](http://twitter.com/search?q=HepSeninle+ElifNurYel) | HepSeninle ElifNurYel is a Turkish phrase that translates to "Be with you, Elif and Nur". It is an expression of good wishes and support for someone. |
+| 12 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 13 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 14 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
+| 15 | [yedili masa](http://twitter.com/search?q=yedili+masa) | N/A |
+| 16 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
+| 17 | [Sevgili Şubat](http://twitter.com/search?q=Sevgili+%c5%9eubat) | N/A |
+| 18 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
+| 19 | [Aferin](http://twitter.com/search?q=Aferin) | N/A |
+| 20 | [İNGİLİZ ONAYLI MUTABAKAT](http://twitter.com/search?q=%c4%b0NG%c4%b0L%c4%b0Z+ONAYLI+MUTABAKAT) | N/A |
+| 21 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
+| 22 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
+| 23 | [ali şansalan](http://twitter.com/search?q=ali+%c5%9fansalan) | N/A |
+| 24 | [5 GB](http://twitter.com/search?q=5+GB) | 5 GB stands for 5 Gigabytes, which is a unit of digital storage. It is equivalent to 5,000 Megabytes and is commonly used to measure the size of files, such as photos, videos, and music. |
+| 25 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
+| 26 | [Şenol](http://twitter.com/search?q=%c5%9eenol) | Şenol is a Turkish given name, derived from the Arabic name Shanul. It is a unisex name, and it means "happy" or "cheerful". |
+| 27 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 28 | [Mert Aydın](http://twitter.com/search?q=Mert+Ayd%c4%b1n) | N/A |
+| 29 | [Ali İhsan Destici](http://twitter.com/search?q=Ali+%c4%b0hsan+Destici) | N/A |
+| 30 | [Bışar](http://twitter.com/search?q=B%c4%b1%c5%9far) | N/A |
+| 31 | [garnierinyildizi afrasaraçoğlu](http://twitter.com/search?q=garnierinyildizi+afrasara%c3%a7o%c4%9flu) | N/A |
+| 32 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 33 | [Avrupa'dan](http://twitter.com/search?q=Avrupa%27dan) | N/A |
+| 34 | [Kerem Atakan](http://twitter.com/search?q=Kerem+Atakan) | N/A |
+| 35 | [ADAM SEÇİLECEK](http://twitter.com/search?q=ADAM+SE%c3%87%c4%b0LECEK) | ADAM SEÇİLECEK is a Turkish phrase that translates to "A Person Will Be Chosen". It is typically used in the context of selecting someone for a job or other position. |
+| 36 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
+| 37 | [ali mahir başarır](http://twitter.com/search?q=ali+mahir+ba%c5%9far%c4%b1r) | N/A |
+| 38 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
+| 39 | [Bitti](http://twitter.com/search?q=Bitti) | N/A |
+| 40 | [lütfü türkkan](http://twitter.com/search?q=l%c3%bctf%c3%bc+t%c3%bcrkkan) | N/A |
+| 41 | [tekbaşrol elsed](http://twitter.com/search?q=tekba%c5%9frol+elsed) | N/A |
+| 42 | [Konda](http://twitter.com/search?q=Konda) | N/A |
+| 43 | [Colin Kazım](http://twitter.com/search?q=Colin+Kaz%c4%b1m) | N/A |
+| 44 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 45 | [Saat 4](http://twitter.com/search?q=Saat+4) | N/A |
+| 46 | [Meryem](http://twitter.com/search?q=Meryem) | N/A |
+| 47 | [Elma](http://twitter.com/search?q=Elma) | N/A |
 
 
 

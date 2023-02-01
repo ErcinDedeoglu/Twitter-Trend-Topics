@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-02-01 01:45:28 UTC`
+📆 Last Updated: `2023-02-01 02:45:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#505th_GodKabir_NirvanaDiwas](http://twitter.com/search?q=%23505th_GodKabir_NirvanaDiwas) | N/A |
-| 2 | [#MahaRehmokarmMonth](http://twitter.com/search?q=%23MahaRehmokarmMonth) | N/A |
-| 3 | [#Thalapathy67](http://twitter.com/search?q=%23Thalapathy67) | #Thalapathy67 is a hashtag used to promote the upcoming Tamil movie Thalapathy 67, starring actor Vijay. The number 67 refers to the fact that this is Vijay's 67th movie. The English translation of Thalapathy is "commander". |
-| 4 | [#BudgetSession](http://twitter.com/search?q=%23BudgetSession) | N/A |
-| 5 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 6 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | N/A |
-| 7 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 8 | [1yr of vijayi tejasswi](http://twitter.com/search?q=1yr+of+vijayi+tejasswi) | N/A |
-| 9 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 10 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 11 | [PATHAAN 600 CRORES WORLDWIDE](http://twitter.com/search?q=PATHAAN+600+CRORES+WORLDWIDE) | PATHAAN 600 CRORES WORLDWIDE is a phrase used to describe the success of the Indian film Pathan, which has earned 600 crores (6 billion rupees) worldwide. The phrase is used to indicate the film's success in terms of box office collections. |
-| 12 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 13 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
-| 14 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
-| 15 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
-| 16 | [आर्थिक सर्वेक्षण](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3) | N/A |
-| 17 | [गांधीनगर कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80%e0%a4%a8%e0%a4%97%e0%a4%b0+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
-| 18 | [conspiracy writ large inssrcs](http://twitter.com/search?q=conspiracy+writ+large+inssrcs) | N/A |
-| 19 | [आशीर्वाद टावर](http://twitter.com/search?q=%e0%a4%86%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%a6+%e0%a4%9f%e0%a4%be%e0%a4%b5%e0%a4%b0) | N/A |
-| 20 | [मेजर सोमनाथ शर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a5%8b%e0%a4%ae%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 21 | [श्री मनोज तिवारी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%9c+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 22 | [Impeccable SushantSingh Rajput](http://twitter.com/search?q=Impeccable+SushantSingh+Rajput) | N/A |
-| 23 | [Action King](http://twitter.com/search?q=Action+King) | N/A |
-| 24 | [NDTV](http://twitter.com/search?q=NDTV) | NDTV stands for New Delhi Television, which is an Indian news channel. It was founded in 1988 and is one of the most popular news channels in India. |
-| 25 | [प्रथम मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 26 | [Nidhi](http://twitter.com/search?q=Nidhi) | N/A |
-| 27 | [आधुनिक बिहार](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0) | N/A |
-| 28 | [Disha Patani](http://twitter.com/search?q=Disha+Patani) | N/A |
-| 29 | [Hare Krishna](http://twitter.com/search?q=Hare+Krishna) | N/A |
-| 30 | [बिहार केसरी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
-| 31 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 32 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 33 | [Nadiya](http://twitter.com/search?q=Nadiya) | N/A |
-| 34 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 35 | [पाक युद्ध](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
-| 36 | [haath kangan ko aarsi kya](http://twitter.com/search?q=haath+kangan+ko+aarsi+kya) | N/A |
-| 37 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 38 | [स्वामी प्रसाद मौर्य](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 39 | [अखिलेश यादव](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 40 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 41 | [Ganesh](http://twitter.com/search?q=Ganesh) | N/A |
-| 42 | [नाथूराम गोडसे](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a5%e0%a5%82%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%97%e0%a5%8b%e0%a4%a1%e0%a4%b8%e0%a5%87) | N/A |
-| 43 | [गोरखनाथ मंदिर](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%b0%e0%a4%96%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 44 | [Shah Satnam Ji Maharaj](http://twitter.com/search?q=Shah+Satnam+Ji+Maharaj) | N/A |
-| 45 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 46 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 47 | [वित्त मंत्री निर्मला](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b2%e0%a4%be) | N/A |
-| 48 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 49 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 1 | [#505th_GodKabir_NirvanaDiwas](http://twitter.com/search?q=%23505th_GodKabir_NirvanaDiwas) | #505th_GodKabir_NirvanaDiwas is a hashtag used to commemorate the 505th anniversary of the death of the Indian mystic and poet, Kabir. The term "Nirvana Diwas" translates to "Day of Liberation" in English, and is used to celebrate Kabir's spiritual enlightenment. |
+| 2 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 3 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 4 | [#झूठा_केस_आस्था_पर_ठेस](http://twitter.com/search?q=%23%e0%a4%9d%e0%a5%82%e0%a4%a0%e0%a4%be_%e0%a4%95%e0%a5%87%e0%a4%b8_%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be_%e0%a4%aa%e0%a4%b0_%e0%a4%a0%e0%a5%87%e0%a4%b8) | N/A |
+| 5 | [#MahaRehmokarmMonth](http://twitter.com/search?q=%23MahaRehmokarmMonth) | N/A |
+| 6 | [Height Of INJUSTICE](http://twitter.com/search?q=Height+Of+INJUSTICE) | N/A |
+| 7 | [Public Sab Janti Hai](http://twitter.com/search?q=Public+Sab+Janti+Hai) | N/A |
+| 8 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | N/A |
+| 9 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | N/A |
+| 10 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 11 | [RoopKumar Crucial InSSRcase](http://twitter.com/search?q=RoopKumar+Crucial+InSSRcase) | N/A |
+| 12 | [प्रथम भारतीय महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 13 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
+| 14 | [प्रथम महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 15 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 16 | [1yr of vijayi tejasswi](http://twitter.com/search?q=1yr+of+vijayi+tejasswi) | N/A |
+| 17 | [श्री मनोज तिवारी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%9c+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 18 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 20 | [भारतीय समुद्री](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 21 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 22 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 23 | [PATHAAN 600 CRORES WORLDWIDE](http://twitter.com/search?q=PATHAAN+600+CRORES+WORLDWIDE) | PATHAAN 600 CRORES WORLDWIDE is a phrase used to describe the success of the Indian film Pathan, which has earned 600 crores (6 billion rupees) worldwide. The phrase is used to indicate the film's success in terms of box office collections. |
+| 24 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
+| 25 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 26 | [वित्त मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 29 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
+| 30 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 31 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 32 | [आशीर्वाद टावर](http://twitter.com/search?q=%e0%a4%86%e0%a4%b6%e0%a5%80%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%a6+%e0%a4%9f%e0%a4%be%e0%a4%b5%e0%a4%b0) | N/A |
+| 33 | [conspiracy writ large inssrcs](http://twitter.com/search?q=conspiracy+writ+large+inssrcs) | N/A |
+| 34 | [मेजर सोमनाथ शर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a5%8b%e0%a4%ae%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 35 | [आर्थिक सर्वेक्षण](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3) | N/A |
+| 36 | [Impeccable SushantSingh Rajput](http://twitter.com/search?q=Impeccable+SushantSingh+Rajput) | N/A |
+| 37 | [NDTV](http://twitter.com/search?q=NDTV) | NDTV stands for New Delhi Television, which is an Indian news channel. It was founded in 1988 and is one of the most popular news channels in India. |
+| 38 | [Action King](http://twitter.com/search?q=Action+King) | N/A |
+| 39 | [Hare Krishna](http://twitter.com/search?q=Hare+Krishna) | N/A |
+| 40 | [प्रथम मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 41 | [गांधीनगर कोर्ट](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80%e0%a4%a8%e0%a4%97%e0%a4%b0+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | N/A |
+| 42 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 43 | [आधुनिक बिहार](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0) | N/A |
+| 44 | [Nidhi](http://twitter.com/search?q=Nidhi) | N/A |
+| 45 | [Disha Patani](http://twitter.com/search?q=Disha+Patani) | N/A |
+| 46 | [बिहार केसरी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%95%e0%a5%87%e0%a4%b8%e0%a4%b0%e0%a5%80) | N/A |
+| 47 | [Nadiya](http://twitter.com/search?q=Nadiya) | N/A |
+| 48 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 49 | [पाक युद्ध](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%95+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
 
 
 

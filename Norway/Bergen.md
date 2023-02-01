@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-01 01:45:12 UTC`
+📆 Last Updated: `2023-02-01 02:44:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,12 +20,12 @@ This is top 50 for [Norway](</Norway>)
 | 3 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 4 | [Flyr](http://twitter.com/search?q=Flyr) | N/A |
 | 5 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 6 | [Karlsbakk](http://twitter.com/search?q=Karlsbakk) | N/A |
+| 6 | [karlsbakk](http://twitter.com/search?q=karlsbakk) | N/A |
 | 7 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
 | 8 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 9 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |
-| 10 | [Heerenveen](http://twitter.com/search?q=Heerenveen) | N/A |
-| 11 | [#AF2023](http://twitter.com/search?q=%23AF2023) | N/A |
+| 10 | [heerenveen](http://twitter.com/search?q=heerenveen) | N/A |
+| 11 | [#af2023](http://twitter.com/search?q=%23af2023) | N/A |
 | 12 | [bryne](http://twitter.com/search?q=bryne) | N/A |
 | 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 14 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
@@ -59,10 +59,10 @@ This is top 50 for [Norway](</Norway>)
 | 42 | [Holy](http://twitter.com/search?q=Holy) | N/A |
 | 43 | [TIPPER](http://twitter.com/search?q=TIPPER) | N/A |
 | 44 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 45 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 46 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 47 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 48 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
+| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 46 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 47 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 48 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 
 
 
