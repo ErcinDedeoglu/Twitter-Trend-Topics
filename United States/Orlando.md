@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-02-01 15:17:14 UTC`
+📆 Last Updated: `2023-02-01 16:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [United States](</United States>)
 | 3 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
 | 4 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
 | 5 | [TB12](http://twitter.com/search?q=TB12) | TB12 is an acronym for Tom Brady's lifestyle brand, which stands for "Tom Brady 12". It is a lifestyle brand that promotes healthy living and wellness through nutrition, hydration, and exercise. The brand also sells products such as apparel, supplements, and equipment. |
-| 6 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 7 | [#NGWSD](http://twitter.com/search?q=%23NGWSD) | N/A |
-| 8 | [#GoBucs](http://twitter.com/search?q=%23GoBucs) | N/A |
-| 9 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 10 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 11 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 12 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
-| 13 | [Citi](http://twitter.com/search?q=Citi) | N/A |
-| 14 | [National Signing Day](http://twitter.com/search?q=National+Signing+Day) | National Signing Day is an annual event in which high school athletes sign a binding letter of intent to play a sport at a college or university. It is the first day that a high school senior can sign a binding National Letter of Intent for college football. The day usually falls on the first Wednesday of February, and marks the end of the recruiting process for many student-athletes. |
-| 15 | [Thanks Tom](http://twitter.com/search?q=Thanks+Tom) | N/A |
+| 6 | [#NGWSD](http://twitter.com/search?q=%23NGWSD) | N/A |
+| 7 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
+| 8 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 9 | [#NSD23](http://twitter.com/search?q=%23NSD23) | N/A |
+| 10 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 11 | [Citi](http://twitter.com/search?q=Citi) | N/A |
+| 12 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 14 | [Pledge of Allegiance](http://twitter.com/search?q=Pledge+of+Allegiance) | N/A |
+| 15 | [Beyhive](http://twitter.com/search?q=Beyhive) | N/A |
 | 16 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 17 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
-| 18 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
-| 19 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
+| 17 | [National Signing Day](http://twitter.com/search?q=National+Signing+Day) | National Signing Day is an annual event in which high school athletes sign a binding letter of intent to play a sport at a college or university. It is the first day that a high school senior can sign a binding National Letter of Intent for college football. The day usually falls on the first Wednesday of February, and marks the end of the recruiting process for many student-athletes. |
+| 18 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
+| 19 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
 | 20 | [Rehoboth](http://twitter.com/search?q=Rehoboth) | N/A |
-| 21 | [Warren Zevon](http://twitter.com/search?q=Warren+Zevon) | N/A |
+| 21 | [Thanks Tom](http://twitter.com/search?q=Thanks+Tom) | N/A |
 | 22 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 23 | [Congrats Tom](http://twitter.com/search?q=Congrats+Tom) | N/A |
-| 24 | [Kyle Trask](http://twitter.com/search?q=Kyle+Trask) | N/A |
-| 25 | [Greatest QB](http://twitter.com/search?q=Greatest+QB) | N/A |
-| 26 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
-| 27 | [Ted 2](http://twitter.com/search?q=Ted+2) | N/A |
-| 28 | [Gawker](http://twitter.com/search?q=Gawker) | N/A |
-| 29 | [Black Resistance](http://twitter.com/search?q=Black+Resistance) | N/A |
-| 30 | [Canton](http://twitter.com/search?q=Canton) | N/A |
-| 31 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
-| 32 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
-| 33 | [George Michael](http://twitter.com/search?q=George+Michael) | N/A |
-| 34 | [Congratulations Tom](http://twitter.com/search?q=Congratulations+Tom) | N/A |
-| 35 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 36 | [7 Super Bowls](http://twitter.com/search?q=7+Super+Bowls) | N/A |
-| 37 | [For Good](http://twitter.com/search?q=For+Good) | N/A |
-| 38 | [Greatest Of All Time](http://twitter.com/search?q=Greatest+Of+All+Time) | N/A |
-| 39 | [Willie Nelson](http://twitter.com/search?q=Willie+Nelson) | N/A |
-| 40 | [The Spinners](http://twitter.com/search?q=The+Spinners) | N/A |
-| 41 | [Rock and Roll Hall of Fame](http://twitter.com/search?q=Rock+and+Roll+Hall+of+Fame) | N/A |
-| 42 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
-| 43 | [Soundgarden](http://twitter.com/search?q=Soundgarden) | N/A |
-| 44 | [Damn Tom](http://twitter.com/search?q=Damn+Tom) | N/A |
-| 45 | [Missy Elliott](http://twitter.com/search?q=Missy+Elliott) | N/A |
-| 46 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
-| 47 | [Sheryl Crow](http://twitter.com/search?q=Sheryl+Crow) | N/A |
-| 48 | [Gretzky](http://twitter.com/search?q=Gretzky) | N/A |
-| 49 | [Happy BHM](http://twitter.com/search?q=Happy+BHM) | N/A |
+| 23 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
+| 24 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
+| 25 | [Warren Zevon](http://twitter.com/search?q=Warren+Zevon) | N/A |
+| 26 | [Tampa Bay](http://twitter.com/search?q=Tampa+Bay) | Tampa Bay is a large body of water located on the west coast of Florida in the United States. It is connected to the Gulf of Mexico and is bordered by the cities of Tampa, St. Petersburg, and Clearwater. The term "Tampa Bay" is often used to refer to the entire metropolitan area surrounding the bay, which includes several cities and towns in both Hillsborough and Pinellas counties. |
+| 27 | [Kyle Trask](http://twitter.com/search?q=Kyle+Trask) | N/A |
+| 28 | [John Mayer](http://twitter.com/search?q=John+Mayer) | N/A |
+| 29 | [Brett Favre](http://twitter.com/search?q=Brett+Favre) | N/A |
+| 30 | [Gawker](http://twitter.com/search?q=Gawker) | N/A |
+| 31 | [Iron Maiden](http://twitter.com/search?q=Iron+Maiden) | N/A |
+| 32 | [Mike Evans](http://twitter.com/search?q=Mike+Evans) | Mike Evans is a name. It does not have a specific meaning in English. |
+| 33 | [Black Resistance](http://twitter.com/search?q=Black+Resistance) | N/A |
+| 34 | [Congrats Tom](http://twitter.com/search?q=Congrats+Tom) | N/A |
+| 35 | [Ted 2](http://twitter.com/search?q=Ted+2) | N/A |
+| 36 | [Happy BHM](http://twitter.com/search?q=Happy+BHM) | N/A |
+| 37 | [Nadler](http://twitter.com/search?q=Nadler) | N/A |
+| 38 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 39 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
+| 40 | [Willie Nelson](http://twitter.com/search?q=Willie+Nelson) | N/A |
+| 41 | [Mike and the Mad Dog](http://twitter.com/search?q=Mike+and+the+Mad+Dog) | N/A |
+| 42 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 43 | [George Michael](http://twitter.com/search?q=George+Michael) | N/A |
+| 44 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
+| 45 | [Congratulations Tom](http://twitter.com/search?q=Congratulations+Tom) | N/A |
+| 46 | [Greatest QB](http://twitter.com/search?q=Greatest+QB) | N/A |
+| 47 | [Gretzky](http://twitter.com/search?q=Gretzky) | N/A |
+| 48 | [Missy Elliott](http://twitter.com/search?q=Missy+Elliott) | N/A |
+| 49 | [Kate Bush](http://twitter.com/search?q=Kate+Bush) | N/A |
 
 
 

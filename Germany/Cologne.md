@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-01 15:16:48 UTC`
+📆 Last Updated: `2023-02-01 16:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 2 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
-| 3 | [#Isco](http://twitter.com/search?q=%23Isco) | N/A |
-| 4 | [#Brady](http://twitter.com/search?q=%23Brady) | N/A |
+| 3 | [#420TageNix](http://twitter.com/search?q=%23420TageNix) | N/A |
+| 4 | [#Isco](http://twitter.com/search?q=%23Isco) | N/A |
 | 5 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
 | 6 | [#SCPVfB](http://twitter.com/search?q=%23SCPVfB) | N/A |
-| 7 | [#FCUWOB](http://twitter.com/search?q=%23FCUWOB) | N/A |
-| 8 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 9 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 10 | [flug als privatleute](http://twitter.com/search?q=flug+als+privatleute) | N/A |
-| 11 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 7 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 9 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 10 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 11 | [Flug als Privatleute](http://twitter.com/search?q=Flug+als+Privatleute) | N/A |
 | 12 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
-| 13 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 14 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 15 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 16 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
-| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 18 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 22 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 23 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 24 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
-| 25 | [Wohnungsbau](http://twitter.com/search?q=Wohnungsbau) | N/A |
-| 26 | [kaufoption](http://twitter.com/search?q=kaufoption) | N/A |
-| 27 | [februar 2023](http://twitter.com/search?q=februar+2023) | N/A |
-| 28 | [Clip](http://twitter.com/search?q=Clip) | N/A |
-| 29 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 30 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
-| 31 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
-| 32 | [Gerichte](http://twitter.com/search?q=Gerichte) | N/A |
-| 33 | [Brasilien](http://twitter.com/search?q=Brasilien) | N/A |
-| 34 | [aktienrente](http://twitter.com/search?q=aktienrente) | N/A |
-| 35 | [Videospiel](http://twitter.com/search?q=Videospiel) | N/A |
-| 36 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 37 | [eiskunstläuferin](http://twitter.com/search?q=eiskunstl%c3%a4uferin) | N/A |
-| 38 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 39 | [Steuerberater](http://twitter.com/search?q=Steuerberater) | N/A |
-| 40 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
-| 41 | [Absage](http://twitter.com/search?q=Absage) | N/A |
-| 42 | [Informieren Sie](http://twitter.com/search?q=Informieren+Sie) | N/A |
-| 43 | [paderborn](http://twitter.com/search?q=paderborn) | N/A |
-| 44 | [Kapsel](http://twitter.com/search?q=Kapsel) | N/A |
-| 45 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 46 | [kommunismus](http://twitter.com/search?q=kommunismus) | N/A |
-| 47 | [Soli](http://twitter.com/search?q=Soli) | N/A |
-| 48 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 49 | [Staatsfonds](http://twitter.com/search?q=Staatsfonds) | N/A |
+| 13 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
+| 14 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
+| 17 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 21 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 22 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
+| 23 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
+| 24 | [Wohnungsbau](http://twitter.com/search?q=Wohnungsbau) | N/A |
+| 25 | [gesellschaftsrat](http://twitter.com/search?q=gesellschaftsrat) | N/A |
+| 26 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
+| 27 | [kaufoption](http://twitter.com/search?q=kaufoption) | N/A |
+| 28 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 29 | [Brasilien](http://twitter.com/search?q=Brasilien) | N/A |
+| 30 | [aktienrente](http://twitter.com/search?q=aktienrente) | N/A |
+| 31 | [Gerichte](http://twitter.com/search?q=Gerichte) | N/A |
+| 32 | [Clip](http://twitter.com/search?q=Clip) | N/A |
+| 33 | [Dieter Nuhr](http://twitter.com/search?q=Dieter+Nuhr) | N/A |
+| 34 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 35 | [steuerberater](http://twitter.com/search?q=steuerberater) | N/A |
+| 36 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
+| 37 | [absage](http://twitter.com/search?q=absage) | N/A |
+| 38 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 39 | [Boykott](http://twitter.com/search?q=Boykott) | N/A |
+| 40 | [Videospiel](http://twitter.com/search?q=Videospiel) | N/A |
+| 41 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 42 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
+| 43 | [Informieren Sie](http://twitter.com/search?q=Informieren+Sie) | N/A |
+| 44 | [Paderborn](http://twitter.com/search?q=Paderborn) | N/A |
+| 45 | [Kapsel](http://twitter.com/search?q=Kapsel) | N/A |
+| 46 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 47 | [Hitze](http://twitter.com/search?q=Hitze) | N/A |
+| 48 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 49 | [Soli](http://twitter.com/search?q=Soli) | N/A |
 
 
 

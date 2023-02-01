@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-01 15:17:08 UTC`
+📆 Last Updated: `2023-02-01 16:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#SeçimVarMeb100BiniVer](http://twitter.com/search?q=%23Se%c3%a7imVarMeb100BiniVer) | N/A |
 | 2 | [#bıst100](http://twitter.com/search?q=%23b%c4%b1st100) | N/A |
-| 3 | [#HÜDAPAR](http://twitter.com/search?q=%23H%c3%9cDAPAR) | N/A |
+| 3 | [696KhkSağlığa Memuriyet](http://twitter.com/search?q=696KhkSa%c4%9fl%c4%b1%c4%9fa+Memuriyet) | 696KhkSağlığa Memuriyet is a Turkish phrase that translates to "Service to Health 696Khk". It is a slogan used by the Turkish Ministry of Health to promote health awareness and public health initiatives. |
 | 4 | [#xu100](http://twitter.com/search?q=%23xu100) | N/A |
-| 5 | [Prime Erdoğan](http://twitter.com/search?q=Prime+Erdo%c4%9fan) | Prime Erdoğan is a nickname given to Turkish President Recep Tayyip Erdoğan. It is a play on words, combining the English word "prime" (meaning first or most important) with his last name. In English, it could be translated as "President Erdoğan". |
+| 5 | [#HÜDAPAR](http://twitter.com/search?q=%23H%c3%9cDAPAR) | N/A |
 | 6 | [BAY BAY KEMAL](http://twitter.com/search?q=BAY+BAY+KEMAL) | "Bay Bay Kemal" is a Turkish phrase that is used as an expression of admiration or respect. It roughly translates to "Oh, Kemal!" and is often used to express admiration for someone's accomplishments or qualities. |
-| 7 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 8 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
-| 9 | [Devre](http://twitter.com/search?q=Devre) | N/A |
-| 10 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 11 | [Efecan](http://twitter.com/search?q=Efecan) | N/A |
-| 12 | [YalıyaGeriDön FotoDirektör](http://twitter.com/search?q=Yal%c4%b1yaGeriD%c3%b6n+FotoDirekt%c3%b6r) | N/A |
-| 13 | [Bolu Dağı Tüneli'nde](http://twitter.com/search?q=Bolu+Da%c4%9f%c4%b1+T%c3%bcneli%27nde) | N/A |
-| 14 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 15 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 16 | [Abdi İpekçi](http://twitter.com/search?q=Abdi+%c4%b0pek%c3%a7i) | N/A |
-| 17 | [AffıÇıkarın DerdiBitirin](http://twitter.com/search?q=Aff%c4%b1%c3%87%c4%b1kar%c4%b1n+DerdiBitirin) | N/A |
-| 18 | [Amir Hadziahmetovic](http://twitter.com/search?q=Amir+Hadziahmetovic) | N/A |
+| 7 | [Prime Erdoğan](http://twitter.com/search?q=Prime+Erdo%c4%9fan) | Prime Erdoğan is a nickname given to Turkish President Recep Tayyip Erdoğan. It is a play on words, combining the English word "prime" (meaning first or most important) with his last name. In English, it could be translated as "President Erdoğan". |
+| 8 | [Gitmeseydin](http://twitter.com/search?q=Gitmeseydin) | N/A |
+| 9 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 10 | [Devre](http://twitter.com/search?q=Devre) | N/A |
+| 11 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
+| 12 | [Efecan](http://twitter.com/search?q=Efecan) | N/A |
+| 13 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 14 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 15 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 16 | [Galatasaray - Ümraniyespor](http://twitter.com/search?q=Galatasaray+-+%c3%9cmraniyespor) | N/A |
+| 17 | [Bolu Dağı Tüneli'nde](http://twitter.com/search?q=Bolu+Da%c4%9f%c4%b1+T%c3%bcneli%27nde) | N/A |
+| 18 | [affıçıkarın derdibitirin](http://twitter.com/search?q=aff%c4%b1%c3%a7%c4%b1kar%c4%b1n+derdibitirin) | N/A |
 | 19 | [Köhne](http://twitter.com/search?q=K%c3%b6hne) | N/A |
-| 20 | [Galatasaray - Ümraniyespor](http://twitter.com/search?q=Galatasaray+-+%c3%9cmraniyespor) | N/A |
-| 21 | [DURMAK YOK](http://twitter.com/search?q=DURMAK+YOK) | N/A |
-| 22 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | Gültekin Uysal is a Turkish name. It is composed of two words: Gültekin, which means "rose garden," and Uysal, which means "obedient." In English, the name would translate to "Rose Garden Obedient." |
-| 23 | [Barış Abi](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Abi) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Halil Konakçı](http://twitter.com/search?q=Halil+Konak%c3%a7%c4%b1) | N/A |
+| 20 | [YalıyaGeriDön FotoDirektör](http://twitter.com/search?q=Yal%c4%b1yaGeriD%c3%b6n+FotoDirekt%c3%b6r) | N/A |
+| 21 | [Amir Hadziahmetovic](http://twitter.com/search?q=Amir+Hadziahmetovic) | N/A |
+| 22 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 23 | [Etmez](http://twitter.com/search?q=Etmez) | N/A |
+| 24 | [Abdi İpekçi](http://twitter.com/search?q=Abdi+%c4%b0pek%c3%a7i) | N/A |
+| 25 | [Rahatsız](http://twitter.com/search?q=Rahats%c4%b1z) | N/A |
 | 26 | [Hollanda](http://twitter.com/search?q=Hollanda) | N/A |
-| 27 | [Vefatının 24](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+24) | N/A |
-| 28 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 27 | [Gülben](http://twitter.com/search?q=G%c3%bclben) | N/A |
+| 28 | [Halil Konakçı](http://twitter.com/search?q=Halil+Konak%c3%a7%c4%b1) | N/A |
 | 29 | [Meryem](http://twitter.com/search?q=Meryem) | N/A |
-| 30 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 31 | [Güney](http://twitter.com/search?q=G%c3%bcney) | N/A |
-| 32 | [Enver](http://twitter.com/search?q=Enver) | N/A |
-| 33 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
-| 34 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
-| 35 | [Aferin Ali](http://twitter.com/search?q=Aferin+Ali) | N/A |
-| 36 | [#endeks](http://twitter.com/search?q=%23endeks) | N/A |
+| 30 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 33 | [Güney](http://twitter.com/search?q=G%c3%bcney) | N/A |
+| 34 | [#endeks](http://twitter.com/search?q=%23endeks) | N/A |
+| 35 | [#EYTdeŞartlarıKaldırın](http://twitter.com/search?q=%23EYTde%c5%9eartlar%c4%b1Kald%c4%b1r%c4%b1n) | N/A |
+| 36 | [#borsa](http://twitter.com/search?q=%23borsa) | #Borsa is a hashtag used on social media to refer to the stock market. It is derived from the Italian word for “bag” or “purse” and is used to indicate conversations about stocks, investments, and other financial topics. In English, it can be translated as “stock market”. |
 | 37 | [#ZiyechFenere](http://twitter.com/search?q=%23ZiyechFenere) | N/A |
-| 38 | [#EYTdeŞartlarıKaldırın](http://twitter.com/search?q=%23EYTde%c5%9eartlar%c4%b1Kald%c4%b1r%c4%b1n) | N/A |
-| 39 | [#BarışManço](http://twitter.com/search?q=%23Bar%c4%b1%c5%9fMan%c3%a7o) | N/A |
-| 40 | [#BorsaIstanbul](http://twitter.com/search?q=%23BorsaIstanbul) | N/A |
+| 38 | [#benvarım](http://twitter.com/search?q=%23benvar%c4%b1m) | N/A |
+| 39 | [#neymiş](http://twitter.com/search?q=%23neymi%c5%9f) | N/A |
+| 40 | [#spkgovtr](http://twitter.com/search?q=%23spkgovtr) | N/A |
 | 41 | [#2000sonrasıKADEME](http://twitter.com/search?q=%232000sonras%c4%b1KADEME) | N/A |
-| 42 | [#benvarım](http://twitter.com/search?q=%23benvar%c4%b1m) | N/A |
+| 42 | [#BarışManço](http://twitter.com/search?q=%23Bar%c4%b1%c5%9fMan%c3%a7o) | N/A |
 | 43 | [#pala](http://twitter.com/search?q=%23pala) | N/A |
-| 44 | [#bvsan](http://twitter.com/search?q=%23bvsan) | N/A |
+| 44 | [#GSvUMR](http://twitter.com/search?q=%23GSvUMR) | N/A |
 | 45 | [#StajaAdalet](http://twitter.com/search?q=%23StajaAdalet) | N/A |
-| 46 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
-| 47 | [#akbnk](http://twitter.com/search?q=%23akbnk) | N/A |
-| 48 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
-| 49 | [#ŞubattaSağlıkçıyaAtama](http://twitter.com/search?q=%23%c5%9eubattaSa%c4%9fl%c4%b1k%c3%a7%c4%b1yaAtama) | N/A |
+| 46 | [#bvsan](http://twitter.com/search?q=%23bvsan) | N/A |
+| 47 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
+| 48 | [#akbnk](http://twitter.com/search?q=%23akbnk) | N/A |
+| 49 | [#Powell](http://twitter.com/search?q=%23Powell) | N/A |
 
 
 
