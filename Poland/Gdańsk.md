@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-01-31 23:15:31 UTC`
+📆 Last Updated: `2023-02-01 00:29:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Poland](</Poland>)
 | 7 | [Weszło](http://twitter.com/search?q=Wesz%c5%82o) | N/A |
 | 8 | [Roki](http://twitter.com/search?q=Roki) | N/A |
 | 9 | [SKOK Stefczyka](http://twitter.com/search?q=SKOK+Stefczyka) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Maryla](http://twitter.com/search?q=Maryla) | N/A |
-| 12 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 10 | [Maryla](http://twitter.com/search?q=Maryla) | N/A |
+| 11 | [Lexy](http://twitter.com/search?q=Lexy) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 13 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
 | 14 | [F-16](http://twitter.com/search?q=F-16) | N/A |
 | 15 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 16 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
 | 17 | [haasa](http://twitter.com/search?q=haasa) | N/A |
-| 18 | [Owsiaka](http://twitter.com/search?q=Owsiaka) | N/A |
-| 19 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 20 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 21 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 22 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 23 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 24 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
-| 25 | [jana bosko](http://twitter.com/search?q=jana+bosko) | N/A |
-| 26 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 27 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 28 | [Pirat](http://twitter.com/search?q=Pirat) | N/A |
-| 29 | [Anna Czerwińska](http://twitter.com/search?q=Anna+Czerwi%c5%84ska) | N/A |
-| 30 | [Bayernie](http://twitter.com/search?q=Bayernie) | N/A |
-| 31 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
-| 32 | [Żoliborzu](http://twitter.com/search?q=%c5%bboliborzu) | N/A |
-| 33 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 34 | [Staszek](http://twitter.com/search?q=Staszek) | N/A |
+| 18 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 19 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 20 | [Owsiak](http://twitter.com/search?q=Owsiak) | N/A |
+| 21 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 22 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 23 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
+| 24 | [jana bosko](http://twitter.com/search?q=jana+bosko) | N/A |
+| 25 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 26 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 27 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 28 | [Wrocławiu](http://twitter.com/search?q=Wroc%c5%82awiu) | N/A |
+| 29 | [Bayernie](http://twitter.com/search?q=Bayernie) | N/A |
+| 30 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
+| 31 | [Żoliborzu](http://twitter.com/search?q=%c5%bboliborzu) | N/A |
+| 32 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 33 | [Staszek](http://twitter.com/search?q=Staszek) | N/A |
+| 34 | [Anna Czerwińska](http://twitter.com/search?q=Anna+Czerwi%c5%84ska) | N/A |
 | 35 | [Lublina](http://twitter.com/search?q=Lublina) | N/A |
-| 36 | [artety](http://twitter.com/search?q=artety) | N/A |
-| 37 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 38 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 39 | [Dasz](http://twitter.com/search?q=Dasz) | N/A |
-| 40 | [joela](http://twitter.com/search?q=joela) | N/A |
-| 41 | [Nicola Zalewski](http://twitter.com/search?q=Nicola+Zalewski) | N/A |
-| 42 | [Mk 5](http://twitter.com/search?q=Mk+5) | N/A |
-| 43 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
-| 44 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 36 | [Pirat](http://twitter.com/search?q=Pirat) | N/A |
+| 37 | [artety](http://twitter.com/search?q=artety) | N/A |
+| 38 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 39 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 40 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 41 | [joela](http://twitter.com/search?q=joela) | N/A |
+| 42 | [Nicola Zalewski](http://twitter.com/search?q=Nicola+Zalewski) | N/A |
+| 43 | [Mk 5](http://twitter.com/search?q=Mk+5) | N/A |
+| 44 | [Patryk](http://twitter.com/search?q=Patryk) | N/A |
 | 45 | [Rydze](http://twitter.com/search?q=Rydze) | N/A |
-| 46 | [Centrum Praw Kobiet](http://twitter.com/search?q=Centrum+Praw+Kobiet) | N/A |
-| 47 | [O 13](http://twitter.com/search?q=O+13) | N/A |
-| 48 | [SkyShowtime](http://twitter.com/search?q=SkyShowtime) | N/A |
-| 49 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 46 | [centrum praw kobiet](http://twitter.com/search?q=centrum+praw+kobiet) | N/A |
+| 47 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 48 | [O 13](http://twitter.com/search?q=O+13) | N/A |
+| 49 | [SkyShowtime](http://twitter.com/search?q=SkyShowtime) | N/A |
 
 
 

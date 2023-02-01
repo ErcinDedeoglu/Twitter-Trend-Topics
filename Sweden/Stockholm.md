@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-01-31 23:15:38 UTC`
+📆 Last Updated: `2023-02-01 00:29:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Sweden](</Sweden>)
 | 6 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 7 | [Börje](http://twitter.com/search?q=B%c3%b6rje) | N/A |
 | 8 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 9 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 9 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 10 | [Humana](http://twitter.com/search?q=Humana) | N/A |
-| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 12 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 11 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 12 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 13 | [Randers](http://twitter.com/search?q=Randers) | N/A |
 | 14 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
 | 15 | [Vårbynätverket](http://twitter.com/search?q=V%c3%a5rbyn%c3%a4tverket) | N/A |
-| 16 | [Nobels](http://twitter.com/search?q=Nobels) | N/A |
-| 17 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
-| 18 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
-| 19 | [IFK Göteborg](http://twitter.com/search?q=IFK+G%c3%b6teborg) | N/A |
-| 20 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 21 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 22 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
-| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 24 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 25 | [Tre Kronor](http://twitter.com/search?q=Tre+Kronor) | N/A |
+| 16 | [nobels](http://twitter.com/search?q=nobels) | N/A |
+| 17 | [Ebba Östlin](http://twitter.com/search?q=Ebba+%c3%96stlin) | N/A |
+| 18 | [IFK Göteborg](http://twitter.com/search?q=IFK+G%c3%b6teborg) | N/A |
+| 19 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 20 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
+| 21 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 23 | [Tre Kronor](http://twitter.com/search?q=Tre+Kronor) | N/A |
+| 24 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
+| 25 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
 | 26 | [Adam Carlén](http://twitter.com/search?q=Adam+Carl%c3%a9n) | N/A |
 | 27 | [Kakabaveh](http://twitter.com/search?q=Kakabaveh) | N/A |
-| 28 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 29 | [kungsängen](http://twitter.com/search?q=kungs%c3%a4ngen) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 28 | [kungsängen](http://twitter.com/search?q=kungs%c3%a4ngen) | N/A |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 30 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 31 | [Gurra](http://twitter.com/search?q=Gurra) | N/A |
 | 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 33 | [Gurra](http://twitter.com/search?q=Gurra) | N/A |
-| 34 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 35 | [Beijer Hockey Games](http://twitter.com/search?q=Beijer+Hockey+Games) | N/A |
-| 36 | [swedbank](http://twitter.com/search?q=swedbank) | N/A |
-| 37 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
-| 38 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 39 | [#svmed](http://twitter.com/search?q=%23svmed) | N/A |
-| 40 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 41 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
-| 42 | [Postnord](http://twitter.com/search?q=Postnord) | N/A |
-| 43 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
-| 44 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 45 | [Björn](http://twitter.com/search?q=Bj%c3%b6rn) | N/A |
-| 46 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 47 | [Jonna Sima](http://twitter.com/search?q=Jonna+Sima) | N/A |
-| 48 | [Nubben](http://twitter.com/search?q=Nubben) | N/A |
-| 49 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 50 | [Hausner](http://twitter.com/search?q=Hausner) | N/A |
+| 33 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 34 | [Beijer Hockey Games](http://twitter.com/search?q=Beijer+Hockey+Games) | N/A |
+| 35 | [swedbank](http://twitter.com/search?q=swedbank) | N/A |
+| 36 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 37 | [#svmed](http://twitter.com/search?q=%23svmed) | N/A |
+| 38 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 39 | [Postnord](http://twitter.com/search?q=Postnord) | N/A |
+| 40 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
+| 41 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 42 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 43 | [Jonna Sima](http://twitter.com/search?q=Jonna+Sima) | N/A |
+| 44 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 45 | [Nubben](http://twitter.com/search?q=Nubben) | N/A |
+| 46 | [Hausner](http://twitter.com/search?q=Hausner) | N/A |
+| 47 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 48 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 49 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
+| 50 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Voronezh
 
-📆 Last Updated: `2023-01-31 23:15:50 UTC`
+📆 Last Updated: `2023-02-01 00:30:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Russia](</Russia>)
 | 1 | [pretty coooool](http://twitter.com/search?q=pretty+coooool) | N/A |
 | 2 | [Users](http://twitter.com/search?q=Users) | N/A |
 | 3 | [Абрамович](http://twitter.com/search?q=%d0%90%d0%b1%d1%80%d0%b0%d0%bc%d0%be%d0%b2%d0%b8%d1%87) | N/A |
-| 4 | [Сталинград](http://twitter.com/search?q=%d0%a1%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
-| 5 | [песков](http://twitter.com/search?q=%d0%bf%d0%b5%d1%81%d0%ba%d0%be%d0%b2) | N/A |
-| 6 | [Employ](http://twitter.com/search?q=Employ) | N/A |
+| 4 | [песков](http://twitter.com/search?q=%d0%bf%d0%b5%d1%81%d0%ba%d0%be%d0%b2) | N/A |
+| 5 | [Employ](http://twitter.com/search?q=Employ) | N/A |
+| 6 | [Сталинград](http://twitter.com/search?q=%d0%a1%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
 | 7 | [Smart](http://twitter.com/search?q=Smart) | N/A |
 | 8 | [#вампирысреднейполосы](http://twitter.com/search?q=%23%d0%b2%d0%b0%d0%bc%d0%bf%d0%b8%d1%80%d1%8b%d1%81%d1%80%d0%b5%d0%b4%d0%bd%d0%b5%d0%b9%d0%bf%d0%be%d0%bb%d0%be%d1%81%d1%8b) | N/A |
-| 9 | [Отношения](http://twitter.com/search?q=%d0%9e%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 9 | [отношения](http://twitter.com/search?q=%d0%be%d1%82%d0%bd%d0%be%d1%88%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
 | 10 | [The Last](http://twitter.com/search?q=The+Last) | N/A |
 | 11 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 12 | [Волгоград](http://twitter.com/search?q=%d0%92%d0%be%d0%bb%d0%b3%d0%be%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
-| 13 | [парни](http://twitter.com/search?q=%d0%bf%d0%b0%d1%80%d0%bd%d0%b8) | N/A |
-| 14 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 15 | [Чонгука](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 16 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
-| 17 | [кпсс](http://twitter.com/search?q=%d0%ba%d0%bf%d1%81%d1%81) | N/A |
-| 18 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 19 | [#deficarpets](http://twitter.com/search?q=%23deficarpets) | N/A |
-| 20 | [#nftpolygon](http://twitter.com/search?q=%23nftpolygon) | N/A |
-| 21 | [#rarenft](http://twitter.com/search?q=%23rarenft) | N/A |
-| 22 | [Хороша](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0) | N/A |
-| 23 | [Осталось](http://twitter.com/search?q=%d0%9e%d1%81%d1%82%d0%b0%d0%bb%d0%be%d1%81%d1%8c) | N/A |
-| 24 | [#exclusivenft](http://twitter.com/search?q=%23exclusivenft) | N/A |
-| 25 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 26 | [Олега](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3%d0%b0) | N/A |
-| 27 | [немцы](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bc%d1%86%d1%8b) | N/A |
-| 28 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 29 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Насколько](http://twitter.com/search?q=%d0%9d%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
-| 32 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 33 | [Иран](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd) | N/A |
-| 34 | [Попробуй](http://twitter.com/search?q=%d0%9f%d0%be%d0%bf%d1%80%d0%be%d0%b1%d1%83%d0%b9) | N/A |
-| 35 | [причём](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%87%d1%91%d0%bc) | N/A |
-| 36 | [Марс](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d1%81) | N/A |
-| 37 | [Очередной](http://twitter.com/search?q=%d0%9e%d1%87%d0%b5%d1%80%d0%b5%d0%b4%d0%bd%d0%be%d0%b9) | N/A |
-| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 39 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 40 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 41 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 42 | [Предлагаю](http://twitter.com/search?q=%d0%9f%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0%d1%8e) | N/A |
-| 43 | [Калининград](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bb%d0%b8%d0%bd%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
-| 44 | [ЛГБТ](http://twitter.com/search?q=%d0%9b%d0%93%d0%91%d0%a2) | N/A |
-| 45 | [подмосковье](http://twitter.com/search?q=%d0%bf%d0%be%d0%b4%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
-| 46 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 47 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 48 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 49 | [Пхах](http://twitter.com/search?q=%d0%9f%d1%85%d0%b0%d1%85) | N/A |
-| 50 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 13 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 14 | [Волгоград](http://twitter.com/search?q=%d0%92%d0%be%d0%bb%d0%b3%d0%be%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
+| 15 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
+| 16 | [кпсс](http://twitter.com/search?q=%d0%ba%d0%bf%d1%81%d1%81) | N/A |
+| 17 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 18 | [#deficarpets](http://twitter.com/search?q=%23deficarpets) | N/A |
+| 19 | [#nftpolygon](http://twitter.com/search?q=%23nftpolygon) | N/A |
+| 20 | [#rarenft](http://twitter.com/search?q=%23rarenft) | N/A |
+| 21 | [Хороша](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0) | N/A |
+| 22 | [осталось](http://twitter.com/search?q=%d0%be%d1%81%d1%82%d0%b0%d0%bb%d0%be%d1%81%d1%8c) | N/A |
+| 23 | [#exclusivenft](http://twitter.com/search?q=%23exclusivenft) | N/A |
+| 24 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 25 | [Олега](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3%d0%b0) | N/A |
+| 26 | [немцы](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bc%d1%86%d1%8b) | N/A |
+| 27 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 28 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 31 | [Иран](http://twitter.com/search?q=%d0%98%d1%80%d0%b0%d0%bd) | N/A |
+| 32 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 33 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 34 | [причём](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%87%d1%91%d0%bc) | N/A |
+| 35 | [Марс](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d1%81) | N/A |
+| 36 | [Очередной](http://twitter.com/search?q=%d0%9e%d1%87%d0%b5%d1%80%d0%b5%d0%b4%d0%bd%d0%be%d0%b9) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 39 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 40 | [Предлагаю](http://twitter.com/search?q=%d0%9f%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0%d1%8e) | N/A |
+| 41 | [Калининград](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bb%d0%b8%d0%bd%d0%b8%d0%bd%d0%b3%d1%80%d0%b0%d0%b4) | N/A |
+| 42 | [ЛГБТ](http://twitter.com/search?q=%d0%9b%d0%93%d0%91%d0%a2) | N/A |
+| 43 | [подмосковье](http://twitter.com/search?q=%d0%bf%d0%be%d0%b4%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
+| 44 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 45 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 46 | [Пхах](http://twitter.com/search?q=%d0%9f%d1%85%d0%b0%d1%85) | N/A |
+| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 48 | [Америке](http://twitter.com/search?q=%d0%90%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
+| 49 | [Прекрасная](http://twitter.com/search?q=%d0%9f%d1%80%d0%b5%d0%ba%d1%80%d0%b0%d1%81%d0%bd%d0%b0%d1%8f) | N/A |
+| 50 | [Парни](http://twitter.com/search?q=%d0%9f%d0%b0%d1%80%d0%bd%d0%b8) | N/A |
 
 
 

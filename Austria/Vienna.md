@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-01-31 23:15:32 UTC`
+📆 Last Updated: `2023-02-01 00:29:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Austria](</Austria>)
 | 6 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
 | 7 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
 | 8 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 9 | [Schnabl](http://twitter.com/search?q=Schnabl) | N/A |
+| 9 | [schnabl](http://twitter.com/search?q=schnabl) | N/A |
 | 10 | [#noewahl](http://twitter.com/search?q=%23noewahl) | N/A |
 | 11 | [Energie](http://twitter.com/search?q=Energie) | N/A |
 | 12 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
@@ -31,10 +31,10 @@ This is top 50 for [Austria](</Austria>)
 | 14 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
 | 15 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
 | 16 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 17 | [Lebens](http://twitter.com/search?q=Lebens) | N/A |
-| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 19 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
-| 20 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 18 | [Lebens](http://twitter.com/search?q=Lebens) | N/A |
+| 19 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 20 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
 | 21 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
 | 22 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
 | 23 | [Witz](http://twitter.com/search?q=Witz) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [Austria](</Austria>)
 | 35 | [Termin](http://twitter.com/search?q=Termin) | N/A |
 | 36 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
 | 37 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 38 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 39 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
-| 40 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 41 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
-| 42 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 43 | [Runde](http://twitter.com/search?q=Runde) | N/A |
-| 44 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
-| 45 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 46 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 47 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
-| 48 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
-| 49 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 50 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 38 | [Mandat](http://twitter.com/search?q=Mandat) | N/A |
+| 39 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 40 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
+| 41 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 42 | [Runde](http://twitter.com/search?q=Runde) | N/A |
+| 43 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 44 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 45 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
+| 46 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 47 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
+| 48 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 49 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 50 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
 
 
 
