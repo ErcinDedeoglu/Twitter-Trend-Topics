@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-01 09:16:41 UTC`
+📆 Last Updated: `2023-02-01 10:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 2 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 2 | [#watersnoodramp](http://twitter.com/search?q=%23watersnoodramp) | N/A |
 | 3 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 4 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 5 | [#watersnoodramp](http://twitter.com/search?q=%23watersnoodramp) | N/A |
-| 6 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 7 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
-| 8 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 9 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 10 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
-| 11 | [efteling](http://twitter.com/search?q=efteling) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 14 | [groningers](http://twitter.com/search?q=groningers) | N/A |
-| 15 | [Lelystad Airport](http://twitter.com/search?q=Lelystad+Airport) | N/A |
-| 16 | [streuer](http://twitter.com/search?q=streuer) | N/A |
+| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 5 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 6 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
+| 7 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 8 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 11 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 12 | [Lelystad Airport](http://twitter.com/search?q=Lelystad+Airport) | N/A |
+| 13 | [groningers](http://twitter.com/search?q=groningers) | N/A |
+| 14 | [streuer](http://twitter.com/search?q=streuer) | N/A |
+| 15 | [Van Ginkel](http://twitter.com/search?q=Van+Ginkel) | N/A |
+| 16 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
 | 17 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 18 | [Van Ginkel](http://twitter.com/search?q=Van+Ginkel) | N/A |
-| 19 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 20 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 21 | [rechten van de mens](http://twitter.com/search?q=rechten+van+de+mens) | N/A |
-| 22 | [Beatrix](http://twitter.com/search?q=Beatrix) | N/A |
-| 23 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 24 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
-| 25 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 26 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 27 | [Ineke](http://twitter.com/search?q=Ineke) | N/A |
-| 28 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
-| 29 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
+| 18 | [Beatrix](http://twitter.com/search?q=Beatrix) | N/A |
+| 19 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 20 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 21 | [Efteling](http://twitter.com/search?q=Efteling) | N/A |
+| 22 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
+| 23 | [Ineke](http://twitter.com/search?q=Ineke) | N/A |
+| 24 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 25 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
+| 26 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 27 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 28 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 29 | [Heddy Lester](http://twitter.com/search?q=Heddy+Lester) | N/A |
 | 30 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 31 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 32 | [Heddy Lester](http://twitter.com/search?q=Heddy+Lester) | N/A |
-| 33 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 35 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 36 | [Te Kloese](http://twitter.com/search?q=Te+Kloese) | N/A |
-| 37 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 38 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 39 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 40 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
-| 41 | [De NPO](http://twitter.com/search?q=De+NPO) | N/A |
-| 42 | [Bruma](http://twitter.com/search?q=Bruma) | Bruma is a Portuguese word meaning "dawn" or "dusk". It is often used to refer to the period of time just before sunrise or just after sunset. |
-| 43 | [paul jansen](http://twitter.com/search?q=paul+jansen) | N/A |
-| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 45 | [troela](http://twitter.com/search?q=troela) | N/A |
-| 46 | [El Ghazi](http://twitter.com/search?q=El+Ghazi) | N/A |
-| 47 | [dijkstra](http://twitter.com/search?q=dijkstra) | N/A |
-| 48 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 49 | [Walemark](http://twitter.com/search?q=Walemark) | N/A |
+| 31 | [Te Kloese](http://twitter.com/search?q=Te+Kloese) | N/A |
+| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 34 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 35 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
+| 36 | [De NPO](http://twitter.com/search?q=De+NPO) | N/A |
+| 37 | [Bruma](http://twitter.com/search?q=Bruma) | Bruma is a Portuguese word meaning "dawn" or "dusk". It is often used to refer to the period of time just before sunrise or just after sunset. |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [troela](http://twitter.com/search?q=troela) | N/A |
+| 40 | [El Ghazi](http://twitter.com/search?q=El+Ghazi) | N/A |
+| 41 | [Joop](http://twitter.com/search?q=Joop) | N/A |
+| 42 | [dijkstra](http://twitter.com/search?q=dijkstra) | N/A |
+| 43 | [Walemark](http://twitter.com/search?q=Walemark) | N/A |
+| 44 | [top oss](http://twitter.com/search?q=top+oss) | N/A |
+| 45 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 46 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 47 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 48 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 49 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
 
 
 

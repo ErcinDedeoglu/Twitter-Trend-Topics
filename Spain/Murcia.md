@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-02-01 09:16:42 UTC`
+📆 Last Updated: `2023-02-01 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Spain](</Spain>)
 | 3 | [Alice Wonder](http://twitter.com/search?q=Alice+Wonder) | Alice Wonder is a phrase used to describe someone who is curious and imaginative. It is often used to describe children who are full of wonder and awe at the world around them. |
 | 4 | [Aritz](http://twitter.com/search?q=Aritz) | Aritz is a Basque name derived from the Latin name "Aurelius". It is a masculine name meaning "golden" or "gilded". |
 | 5 | [#COAC2023P11](http://twitter.com/search?q=%23COAC2023P11) | N/A |
-| 6 | [#FelizMiércoles](http://twitter.com/search?q=%23FelizMi%c3%a9rcoles) | N/A |
-| 7 | [Sharonne](http://twitter.com/search?q=Sharonne) | Sharonne is a feminine given name of Hebrew origin, derived from the biblical name Shara. It is a variant of Sharon, which means "plain" or "flat land" in Hebrew. |
-| 8 | [#CocinaConLidl](http://twitter.com/search?q=%23CocinaConLidl) | N/A |
-| 9 | [#LaIslaDeLasTentaciones2](http://twitter.com/search?q=%23LaIslaDeLasTentaciones2) | #LaIslaDeLasTentaciones2 is a Spanish reality television show that follows couples who are in a relationship as they travel to an island and are tempted by other people. The title translates to "The Island of Temptations 2" in English. |
-| 10 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
-| 11 | [Mónica Naranjo](http://twitter.com/search?q=M%c3%b3nica+Naranjo) | Mónica Naranjo is a Spanish singer, songwriter, and television personality. She is known for her powerful voice and flamboyant stage presence. In English, her name translates to "Monica Orange". |
-| 12 | [Twin Melody](http://twitter.com/search?q=Twin+Melody) | Twin Melody is a Japanese term used to describe two melodies that are played simultaneously, usually in harmony. It is often used to describe the sound of two instruments playing together, such as a piano and a guitar. In English, it can be translated as "dual melody". |
-| 13 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 14 | [Sofía Martín](http://twitter.com/search?q=Sof%c3%ada+Mart%c3%adn) | N/A |
-| 15 | [Meler](http://twitter.com/search?q=Meler) | Meler is a Spanish word meaning "to melt." It is used to describe the process of melting something, such as melting butter or chocolate. |
-| 16 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 17 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 18 | [Tuki](http://twitter.com/search?q=Tuki) | Tuki is a Japanese word meaning "moon". |
-| 19 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 20 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 21 | [Alice Cooper](http://twitter.com/search?q=Alice+Cooper) | N/A |
-| 22 | [Chanel](http://twitter.com/search?q=Chanel) | N/A |
-| 23 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Leo Rizzi](http://twitter.com/search?q=Leo+Rizzi) | N/A |
-| 26 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
-| 27 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
-| 28 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 29 | [ERC y PSC](http://twitter.com/search?q=ERC+y+PSC) | N/A |
-| 30 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 31 | [inés hernand](http://twitter.com/search?q=in%c3%a9s+hernand) | N/A |
-| 32 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 33 | [Chris Ramos](http://twitter.com/search?q=Chris+Ramos) | N/A |
-| 34 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 35 | [Govern](http://twitter.com/search?q=Govern) | N/A |
-| 36 | [Romera](http://twitter.com/search?q=Romera) | N/A |
-| 37 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 38 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 39 | [Edurne](http://twitter.com/search?q=Edurne) | N/A |
-| 40 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 41 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 42 | [TJUE](http://twitter.com/search?q=TJUE) | N/A |
-| 43 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 44 | [Fran García](http://twitter.com/search?q=Fran+Garc%c3%ada) | N/A |
-| 45 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
-| 46 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
+| 6 | [Sharonne](http://twitter.com/search?q=Sharonne) | Sharonne is a feminine given name of Hebrew origin, derived from the biblical name Shara. It is a variant of Sharon, which means "plain" or "flat land" in Hebrew. |
+| 7 | [#CocinaConLidl](http://twitter.com/search?q=%23CocinaConLidl) | N/A |
+| 8 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 9 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
+| 10 | [Mónica Naranjo](http://twitter.com/search?q=M%c3%b3nica+Naranjo) | Mónica Naranjo is a Spanish singer, songwriter, and television personality. She is known for her powerful voice and flamboyant stage presence. In English, her name translates to "Monica Orange". |
+| 11 | [Twin Melody](http://twitter.com/search?q=Twin+Melody) | Twin Melody is a Japanese term used to describe two melodies that are played simultaneously, usually in harmony. It is often used to describe the sound of two instruments playing together, such as a piano and a guitar. In English, it can be translated as "dual melody". |
+| 12 | [#LaIslaDeLasTentaciones2](http://twitter.com/search?q=%23LaIslaDeLasTentaciones2) | #LaIslaDeLasTentaciones2 is a Spanish reality television show that follows couples who are in a relationship as they travel to an island and are tempted by other people. The title translates to "The Island of Temptations 2" in English. |
+| 13 | [Meler](http://twitter.com/search?q=Meler) | Meler is a Spanish word meaning "to melt." It is used to describe the process of melting something, such as melting butter or chocolate. |
+| 14 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 15 | [Sofía Martín](http://twitter.com/search?q=Sof%c3%ada+Mart%c3%adn) | N/A |
+| 16 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 17 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 18 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 19 | [Leo Rizzi](http://twitter.com/search?q=Leo+Rizzi) | N/A |
+| 20 | [Tuki](http://twitter.com/search?q=Tuki) | Tuki is a Japanese word meaning "moon". |
+| 21 | [Chanel](http://twitter.com/search?q=Chanel) | N/A |
+| 22 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
+| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 24 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
+| 25 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
+| 26 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 27 | [Alice Cooper](http://twitter.com/search?q=Alice+Cooper) | N/A |
+| 28 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 29 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 30 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 31 | [Chris Ramos](http://twitter.com/search?q=Chris+Ramos) | N/A |
+| 32 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 33 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 34 | [Edurne](http://twitter.com/search?q=Edurne) | N/A |
+| 35 | [TJUE](http://twitter.com/search?q=TJUE) | N/A |
+| 36 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 37 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 38 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 39 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
+| 40 | [Fran García](http://twitter.com/search?q=Fran+Garc%c3%ada) | N/A |
+| 41 | [Govern](http://twitter.com/search?q=Govern) | N/A |
+| 42 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
+| 43 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
+| 44 | [Mc 6](http://twitter.com/search?q=Mc+6) | N/A |
+| 45 | [Camarasa](http://twitter.com/search?q=Camarasa) | N/A |
+| 46 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
 | 47 | [Flamenco](http://twitter.com/search?q=Flamenco) | N/A |
-| 48 | [Narro](http://twitter.com/search?q=Narro) | N/A |
-| 49 | [Mc 6](http://twitter.com/search?q=Mc+6) | N/A |
-| 50 | [Unión Berlín](http://twitter.com/search?q=Uni%c3%b3n+Berl%c3%adn) | N/A |
+| 48 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 49 | [Narro](http://twitter.com/search?q=Narro) | N/A |
+| 50 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
 
 
 

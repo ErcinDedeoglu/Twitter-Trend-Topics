@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-01 09:17:00 UTC`
+📆 Last Updated: `2023-02-01 10:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CSS2023](http://twitter.com/search?q=%23CSS2023) | N/A |
-| 2 | [#PeshawarAttack](http://twitter.com/search?q=%23PeshawarAttack) | N/A |
+| 1 | [#PeshawarAttack](http://twitter.com/search?q=%23PeshawarAttack) | N/A |
+| 2 | [#CSS2023](http://twitter.com/search?q=%23CSS2023) | N/A |
 | 3 | [#ShahidKhaqanAbbasi](http://twitter.com/search?q=%23ShahidKhaqanAbbasi) | N/A |
 | 4 | [#NadeemAnjumMustResign](http://twitter.com/search?q=%23NadeemAnjumMustResign) | N/A |
 | 5 | [#انصاف_کرو_پاکستان_بچاؤ](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b5%d8%a7%d9%81_%da%a9%d8%b1%d9%88_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%a8%da%86%d8%a7%d8%a4) | N/A |
-| 6 | [FPSC](http://twitter.com/search?q=FPSC) | N/A |
-| 7 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 8 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 6 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 7 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 8 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 9 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
-| 10 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 11 | [Bab Ul Hawaij](http://twitter.com/search?q=Bab+Ul+Hawaij) | N/A |
-| 12 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 13 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 14 | [Ali Asghar](http://twitter.com/search?q=Ali+Asghar) | N/A |
-| 15 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
-| 16 | [Son of Imam Hussain](http://twitter.com/search?q=Son+of+Imam+Hussain) | N/A |
-| 17 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 18 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 19 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
-| 20 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 23 | [inspector nasir](http://twitter.com/search?q=inspector+nasir) | N/A |
-| 24 | [khanewal](http://twitter.com/search?q=khanewal) | N/A |
-| 25 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 26 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 27 | [shah e tabassum](http://twitter.com/search?q=shah+e+tabassum) | N/A |
-| 28 | [Saif](http://twitter.com/search?q=Saif) | N/A |
-| 29 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 30 | [PSL 8](http://twitter.com/search?q=PSL+8) | N/A |
-| 31 | [Static](http://twitter.com/search?q=Static) | N/A |
-| 32 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 33 | [National Action Plan](http://twitter.com/search?q=National+Action+Plan) | N/A |
-| 34 | [Bahawalpur](http://twitter.com/search?q=Bahawalpur) | N/A |
-| 35 | [Police Lines](http://twitter.com/search?q=Police+Lines) | N/A |
-| 36 | [Makarwal](http://twitter.com/search?q=Makarwal) | N/A |
-| 37 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
-| 38 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 39 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 40 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 41 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 42 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
-| 43 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 44 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
-| 45 | [Thanku](http://twitter.com/search?q=Thanku) | N/A |
-| 46 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 47 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 48 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 49 | [Shukria](http://twitter.com/search?q=Shukria) | N/A |
-| 50 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 10 | [bab ul hawaij](http://twitter.com/search?q=bab+ul+hawaij) | N/A |
+| 11 | [Ali Asghar](http://twitter.com/search?q=Ali+Asghar) | N/A |
+| 12 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
+| 13 | [son of imam hussain](http://twitter.com/search?q=son+of+imam+hussain) | N/A |
+| 14 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
+| 15 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
+| 16 | [inspector nasir](http://twitter.com/search?q=inspector+nasir) | N/A |
+| 17 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 19 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
+| 20 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
+| 21 | [khanewal](http://twitter.com/search?q=khanewal) | N/A |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [Saif](http://twitter.com/search?q=Saif) | N/A |
+| 24 | [shah e tabassum](http://twitter.com/search?q=shah+e+tabassum) | N/A |
+| 25 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 26 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 27 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 28 | [PSL 8](http://twitter.com/search?q=PSL+8) | N/A |
+| 29 | [Static](http://twitter.com/search?q=Static) | N/A |
+| 30 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 31 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 32 | [Bahawalpur](http://twitter.com/search?q=Bahawalpur) | N/A |
+| 33 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
+| 34 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 35 | [Get Rewards](http://twitter.com/search?q=Get+Rewards) | N/A |
+| 36 | [Police Lines](http://twitter.com/search?q=Police+Lines) | N/A |
+| 37 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 38 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 39 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 40 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 41 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 42 | [Agar](http://twitter.com/search?q=Agar) | N/A |
+| 43 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 44 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
+| 45 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
+| 46 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 47 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 48 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 49 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 50 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 
 
 

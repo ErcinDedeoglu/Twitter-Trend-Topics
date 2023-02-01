@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-01 09:17:17 UTC`
+📆 Last Updated: `2023-02-01 10:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -56,15 +56,15 @@ This is top 50 for Guatemala
 | 39 | [El Barcelona](http://twitter.com/search?q=El+Barcelona) | N/A |
 | 40 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
 | 41 | [huehuetenango](http://twitter.com/search?q=huehuetenango) | N/A |
-| 42 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 43 | [Adiós](http://twitter.com/search?q=Adi%c3%b3s) | N/A |
-| 44 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 45 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 46 | [sibinal](http://twitter.com/search?q=sibinal) | N/A |
+| 42 | [Adiós](http://twitter.com/search?q=Adi%c3%b3s) | N/A |
+| 43 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 44 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 45 | [sibinal](http://twitter.com/search?q=sibinal) | N/A |
+| 46 | [Heredia](http://twitter.com/search?q=Heredia) | N/A |
 | 47 | [campo marte](http://twitter.com/search?q=campo+marte) | N/A |
 | 48 | [suchitepéquez](http://twitter.com/search?q=suchitep%c3%a9quez) | N/A |
 | 49 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 50 | [Heredia](http://twitter.com/search?q=Heredia) | N/A |
+| 50 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 
 
 

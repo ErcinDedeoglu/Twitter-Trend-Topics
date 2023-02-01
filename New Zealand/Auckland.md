@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-01 09:17:05 UTC`
+📆 Last Updated: `2023-02-01 10:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Blackpink](http://twitter.com/search?q=Blackpink) | Blackpink is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name "Blackpink" is a combination of the words "black" and "pink," which symbolizes the group's duality of both powerful and sweet elements. |
-| 2 | [Minister for Auckland](http://twitter.com/search?q=Minister+for+Auckland) | N/A |
+| 1 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 2 | [Auckland](http://twitter.com/search?q=Auckland) | Auckland is the largest city in New Zealand. It is located in the North Island and is known for its diverse population, vibrant culture, and stunning natural beauty. The name Auckland comes from the Māori language and means "the place of Tāmaki". |
 | 3 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
-| 4 | [Drongos](http://twitter.com/search?q=Drongos) | N/A |
-| 5 | [andrew little](http://twitter.com/search?q=andrew+little) | N/A |
-| 6 | [Southland](http://twitter.com/search?q=Southland) | N/A |
+| 4 | [Southland](http://twitter.com/search?q=Southland) | N/A |
+| 5 | [drongos](http://twitter.com/search?q=drongos) | N/A |
+| 6 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
 | 7 | [All Whites](http://twitter.com/search?q=All+Whites) | N/A |
-| 8 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 9 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 8 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 9 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
 | 10 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 11 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 12 | [Chateau](http://twitter.com/search?q=Chateau) | N/A |
+| 11 | [Chateau](http://twitter.com/search?q=Chateau) | N/A |
+| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 13 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
 | 14 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 15 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 16 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 17 | [phil twyford](http://twitter.com/search?q=phil+twyford) | N/A |
-| 18 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
-| 19 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
-| 20 | [Ministry of Education](http://twitter.com/search?q=Ministry+of+Education) | N/A |
-| 21 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
-| 22 | [Dunedin Hospital](http://twitter.com/search?q=Dunedin+Hospital) | N/A |
-| 23 | [Tova](http://twitter.com/search?q=Tova) | N/A |
-| 24 | [LOTO](http://twitter.com/search?q=LOTO) | N/A |
+| 15 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 16 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
+| 17 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
+| 18 | [Ministry of Education](http://twitter.com/search?q=Ministry+of+Education) | N/A |
+| 19 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
+| 20 | [Dunedin Hospital](http://twitter.com/search?q=Dunedin+Hospital) | N/A |
+| 21 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 22 | [Tova](http://twitter.com/search?q=Tova) | N/A |
+| 23 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 24 | [Loto](http://twitter.com/search?q=Loto) | N/A |
 | 25 | [Schools](http://twitter.com/search?q=Schools) | N/A |
 | 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 27 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 28 | [All Black](http://twitter.com/search?q=All+Black) | N/A |
 | 29 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 30 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 31 | [Principals](http://twitter.com/search?q=Principals) | N/A |
-| 32 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 33 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 35 | [#iavcei2023](http://twitter.com/search?q=%23iavcei2023) | N/A |
-| 36 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 37 | [Mike Hosking](http://twitter.com/search?q=Mike+Hosking) | N/A |
-| 38 | [#nzpolitics](http://twitter.com/search?q=%23nzpolitics) | N/A |
-| 39 | [pm chris hipkins](http://twitter.com/search?q=pm+chris+hipkins) | N/A |
-| 40 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 30 | [#iavcei2023](http://twitter.com/search?q=%23iavcei2023) | N/A |
+| 31 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 32 | [Surprised](http://twitter.com/search?q=Surprised) | N/A |
+| 33 | [Principals](http://twitter.com/search?q=Principals) | N/A |
+| 34 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 35 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 36 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 37 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
+| 38 | [Phil](http://twitter.com/search?q=Phil) | N/A |
+| 39 | [Politics](http://twitter.com/search?q=Politics) | N/A |
+| 40 | [pm chris hipkins](http://twitter.com/search?q=pm+chris+hipkins) | N/A |
 | 41 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
 | 42 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 43 | [willie jackson](http://twitter.com/search?q=willie+jackson) | N/A |
-| 44 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 45 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 46 | [Surprised](http://twitter.com/search?q=Surprised) | N/A |
-| 47 | [Jan Tinetti](http://twitter.com/search?q=Jan+Tinetti) | N/A |
-| 48 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 49 | [Halo](http://twitter.com/search?q=Halo) | N/A |
-| 50 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 43 | [Jan Tinetti](http://twitter.com/search?q=Jan+Tinetti) | N/A |
+| 44 | [willie jackson](http://twitter.com/search?q=willie+jackson) | N/A |
+| 45 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 46 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 47 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 48 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 49 | [#streamer](http://twitter.com/search?q=%23streamer) | N/A |
+| 50 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
 
 
 
