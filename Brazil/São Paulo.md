@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-01 13:21:19 UTC`
+📆 Last Updated: `2023-02-01 14:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 2 | [#REVERSA](http://twitter.com/search?q=%23REVERSA) | N/A |
-| 3 | [#PachecaoNao](http://twitter.com/search?q=%23PachecaoNao) | N/A |
-| 4 | [#PachecaoNao](http://twitter.com/search?q=%23PachecaoNao) | N/A |
-| 5 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 6 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 7 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 8 | [Finalmente Fevereiro](http://twitter.com/search?q=Finalmente+Fevereiro) | N/A |
-| 9 | [Publicitário](http://twitter.com/search?q=Publicit%c3%a1rio) | N/A |
-| 10 | [BOM DIA FEVEREIRO](http://twitter.com/search?q=BOM+DIA+FEVEREIRO) | N/A |
-| 11 | [Churrasco](http://twitter.com/search?q=Churrasco) | N/A |
-| 12 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 13 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 14 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 15 | [Bem-vindo Fevereiro](http://twitter.com/search?q=Bem-vindo+Fevereiro) | N/A |
-| 16 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
-| 17 | [Que Fevereiro](http://twitter.com/search?q=Que+Fevereiro) | N/A |
-| 18 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 19 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
-| 20 | [Feliz Fevereiro](http://twitter.com/search?q=Feliz+Fevereiro) | N/A |
-| 21 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
-| 22 | [#HappyBirthdayHarryStyles](http://twitter.com/search?q=%23HappyBirthdayHarryStyles) | N/A |
-| 23 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
-| 24 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
-| 25 | [Iemanjá](http://twitter.com/search?q=Iemanj%c3%a1) | N/A |
-| 26 | [Arthur Lira](http://twitter.com/search?q=Arthur+Lira) | Arthur Lira is a Brazilian politician who currently serves as the President of the Chamber of Deputies. In English, his name means "noble leader". |
-| 27 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
-| 28 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
-| 29 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
-| 30 | [Misto](http://twitter.com/search?q=Misto) | N/A |
-| 31 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 32 | [WALLACE NA CADEIA](http://twitter.com/search?q=WALLACE+NA+CADEIA) | N/A |
-| 33 | [Round 6](http://twitter.com/search?q=Round+6) | Round 6 is a term used to refer to the sixth round of a competition or tournament. It is typically used in sports, such as boxing or mixed martial arts, where competitors are eliminated after each round until only one remains. The phrase can also be used more generally to refer to any situation where there are multiple rounds of competition or evaluation. |
-| 34 | [PSDB](http://twitter.com/search?q=PSDB) | N/A |
-| 35 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 36 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
-| 37 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 38 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 1 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 2 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | N/A |
+| 3 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 4 | [#REVERSA](http://twitter.com/search?q=%23REVERSA) | N/A |
+| 5 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 6 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 7 | [Rosa Weber](http://twitter.com/search?q=Rosa+Weber) | N/A |
+| 8 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
+| 9 | [Churrasco](http://twitter.com/search?q=Churrasco) | N/A |
+| 10 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 11 | [Unesp](http://twitter.com/search?q=Unesp) | N/A |
+| 12 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 13 | [#DemocraciaInabalada](http://twitter.com/search?q=%23DemocraciaInabalada) | N/A |
+| 14 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 15 | [Publicitário](http://twitter.com/search?q=Publicit%c3%a1rio) | N/A |
+| 16 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 17 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
+| 18 | [Ana Maria](http://twitter.com/search?q=Ana+Maria) | N/A |
+| 19 | [Feijoada](http://twitter.com/search?q=Feijoada) | N/A |
+| 20 | [Carol Biazin](http://twitter.com/search?q=Carol+Biazin) | N/A |
+| 21 | [Zé Pilintra](http://twitter.com/search?q=Z%c3%a9+Pilintra) | N/A |
+| 22 | [América do Norte](http://twitter.com/search?q=Am%c3%a9rica+do+Norte) | N/A |
+| 23 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 24 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 25 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
+| 26 | [BOM DIA FEVEREIRO](http://twitter.com/search?q=BOM+DIA+FEVEREIRO) | N/A |
+| 27 | [Que Fevereiro](http://twitter.com/search?q=Que+Fevereiro) | N/A |
+| 28 | [Bem-vindo Fevereiro](http://twitter.com/search?q=Bem-vindo+Fevereiro) | N/A |
+| 29 | [Chegou Fevereiro](http://twitter.com/search?q=Chegou+Fevereiro) | N/A |
+| 30 | [Arthur Lira](http://twitter.com/search?q=Arthur+Lira) | Arthur Lira is a Brazilian politician who currently serves as the President of the Chamber of Deputies. In English, his name means "noble leader". |
+| 31 | [Finalmente Fevereiro](http://twitter.com/search?q=Finalmente+Fevereiro) | N/A |
+| 32 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 33 | [Feliz Fevereiro](http://twitter.com/search?q=Feliz+Fevereiro) | N/A |
+| 34 | [Iemanjá](http://twitter.com/search?q=Iemanj%c3%a1) | N/A |
+| 35 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
+| 36 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 37 | [Assembleia Legislativa](http://twitter.com/search?q=Assembleia+Legislativa) | N/A |
+| 38 | [Misto](http://twitter.com/search?q=Misto) | N/A |
+| 39 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
+| 40 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
+| 41 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
+| 42 | [dulce](http://twitter.com/search?q=dulce) | N/A |
+| 43 | [sabedoria](http://twitter.com/search?q=sabedoria) | N/A |
+| 44 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 45 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
+| 46 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 47 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 48 | [WALLACE NA CADEIA](http://twitter.com/search?q=WALLACE+NA+CADEIA) | N/A |
+| 49 | [#PachecaoNao](http://twitter.com/search?q=%23PachecaoNao) | N/A |
+| 50 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-02-01 13:21:36 UTC`
+📆 Last Updated: `2023-02-01 14:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 4 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
 | 5 | [#februarywish](http://twitter.com/search?q=%23februarywish) | N/A |
 | 6 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 7 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 8 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 7 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 8 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 9 | [#iboflagoff](http://twitter.com/search?q=%23iboflagoff) | N/A |
 | 10 | [Jorginho to Arsenal](http://twitter.com/search?q=Jorginho+to+Arsenal) | Jorginho to Arsenal is a phrase used to refer to the potential transfer of Italian midfielder Jorginho from Chelsea Football Club to Arsenal Football Club. It is a phrase used by fans and media outlets to speculate on the possibility of the transfer. |
-| 11 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 12 | [NO PHYNA NO BUZZ](http://twitter.com/search?q=NO+PHYNA+NO+BUZZ) | N/A |
-| 13 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 14 | [Toni Tones](http://twitter.com/search?q=Toni+Tones) | Toni Tones is the stage name of Nigerian singer, songwriter, and producer, Atim Ukoh. Her music is a blend of Afro-pop, R&B, and soul. The name "Toni Tones" is derived from her real name Atim and her love for music. In English, it means "Atim's musical tones". |
-| 15 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
-| 16 | [PHYNA OUR PRIDE](http://twitter.com/search?q=PHYNA+OUR+PRIDE) | N/A |
-| 17 | [El Rufai](http://twitter.com/search?q=El+Rufai) | N/A |
-| 18 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 19 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
-| 20 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 21 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
-| 22 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
-| 23 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
-| 24 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 25 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 26 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
-| 27 | [PHYNA THE CLOUT](http://twitter.com/search?q=PHYNA+THE+CLOUT) | N/A |
-| 28 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 29 | [MAN LIKE YEMI CREGX](http://twitter.com/search?q=MAN+LIKE+YEMI+CREGX) | N/A |
-| 30 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
-| 31 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
-| 32 | [May February](http://twitter.com/search?q=May+February) | N/A |
-| 33 | [Arteta and Edu](http://twitter.com/search?q=Arteta+and+Edu) | N/A |
-| 34 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
-| 35 | [Okon](http://twitter.com/search?q=Okon) | N/A |
-| 36 | [Todd](http://twitter.com/search?q=Todd) | N/A |
-| 37 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
-| 38 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 39 | [Stabilizer](http://twitter.com/search?q=Stabilizer) | N/A |
-| 40 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 41 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 11 | [NO PHYNA NO BUZZ](http://twitter.com/search?q=NO+PHYNA+NO+BUZZ) | N/A |
+| 12 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 13 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 14 | [PHYNA OUR PRIDE](http://twitter.com/search?q=PHYNA+OUR+PRIDE) | N/A |
+| 15 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 16 | [Toni Tones](http://twitter.com/search?q=Toni+Tones) | Toni Tones is the stage name of Nigerian singer, songwriter, and producer, Atim Ukoh. Her music is a blend of Afro-pop, R&B, and soul. The name "Toni Tones" is derived from her real name Atim and her love for music. In English, it means "Atim's musical tones". |
+| 17 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
+| 18 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
+| 19 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 20 | [No Cash](http://twitter.com/search?q=No+Cash) | N/A |
+| 21 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 22 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
+| 23 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
+| 24 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 25 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
+| 26 | [PHYNA THE CLOUT](http://twitter.com/search?q=PHYNA+THE+CLOUT) | N/A |
+| 27 | [El Rufai](http://twitter.com/search?q=El+Rufai) | N/A |
+| 28 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 29 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 30 | [MAN LIKE YEMI CREGX](http://twitter.com/search?q=MAN+LIKE+YEMI+CREGX) | N/A |
+| 31 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
+| 32 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 33 | [May February](http://twitter.com/search?q=May+February) | N/A |
+| 34 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
+| 35 | [Arteta and Edu](http://twitter.com/search?q=Arteta+and+Edu) | N/A |
+| 36 | [Okon](http://twitter.com/search?q=Okon) | N/A |
+| 37 | [Todd](http://twitter.com/search?q=Todd) | N/A |
+| 38 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
+| 39 | [stabilizer](http://twitter.com/search?q=stabilizer) | N/A |
+| 40 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 41 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
 | 42 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 43 | [Courage](http://twitter.com/search?q=Courage) | N/A |
-| 44 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 45 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
-| 46 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 43 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 44 | [Courage](http://twitter.com/search?q=Courage) | N/A |
+| 45 | [Asiwaju](http://twitter.com/search?q=Asiwaju) | N/A |
+| 46 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
 | 47 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
-| 48 | [Mubi](http://twitter.com/search?q=Mubi) | N/A |
-| 49 | [FCMB](http://twitter.com/search?q=FCMB) | N/A |
-| 50 | [Welcome to Manchester United](http://twitter.com/search?q=Welcome+to+Manchester+United) | N/A |
+| 48 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 49 | [Osibanjo](http://twitter.com/search?q=Osibanjo) | N/A |
+| 50 | [Mubi](http://twitter.com/search?q=Mubi) | N/A |
 
 
 

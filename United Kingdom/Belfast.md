@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-01 13:21:13 UTC`
+📆 Last Updated: `2023-02-01 14:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,45 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 2 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 3 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 4 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 5 | [Marc Albrighton](http://twitter.com/search?q=Marc+Albrighton) | N/A |
-| 6 | [Tate Modern](http://twitter.com/search?q=Tate+Modern) | N/A |
-| 7 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 8 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 9 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 10 | [St Brigid](http://twitter.com/search?q=St+Brigid) | N/A |
-| 11 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
-| 12 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 13 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 14 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 15 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
-| 16 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 17 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 18 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
-| 19 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 20 | [Milton Keynes](http://twitter.com/search?q=Milton+Keynes) | N/A |
-| 21 | [#LGBTplusHM](http://twitter.com/search?q=%23LGBTplusHM) | N/A |
-| 22 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 23 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 24 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 25 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
-| 26 | [#BehindTheLens](http://twitter.com/search?q=%23BehindTheLens) | N/A |
-| 27 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 28 | [#Imbolc](http://twitter.com/search?q=%23Imbolc) | N/A |
-| 29 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 30 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
-| 31 | [#newmonth](http://twitter.com/search?q=%23newmonth) | N/A |
-| 32 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
-| 33 | [#TimeToTalk](http://twitter.com/search?q=%23TimeToTalk) | N/A |
-| 34 | [#ToryBrokenBritain](http://twitter.com/search?q=%23ToryBrokenBritain) | N/A |
-| 35 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 36 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
-| 37 | [#Wembley](http://twitter.com/search?q=%23Wembley) | N/A |
+| 2 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 3 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 4 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 5 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
+| 6 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 7 | [Parklife](http://twitter.com/search?q=Parklife) | N/A |
+| 8 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 9 | [Tate Modern](http://twitter.com/search?q=Tate+Modern) | N/A |
+| 10 | [Marc Albrighton](http://twitter.com/search?q=Marc+Albrighton) | N/A |
+| 11 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 12 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 13 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 14 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
+| 15 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 16 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 17 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 18 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 19 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 20 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
+| 21 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 22 | [Milton Keynes](http://twitter.com/search?q=Milton+Keynes) | N/A |
+| 23 | [madeley](http://twitter.com/search?q=madeley) | N/A |
+| 24 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | N/A |
+| 25 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 26 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 27 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
+| 28 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 29 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 30 | [#EnoughlsEnough](http://twitter.com/search?q=%23EnoughlsEnough) | N/A |
+| 31 | [#BehindTheLens](http://twitter.com/search?q=%23BehindTheLens) | N/A |
+| 32 | [#Imbolc](http://twitter.com/search?q=%23Imbolc) | N/A |
+| 33 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 34 | [#newmonth](http://twitter.com/search?q=%23newmonth) | N/A |
+| 35 | [#TimeToTalk](http://twitter.com/search?q=%23TimeToTalk) | N/A |
+| 36 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
+| 37 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
+| 38 | [#ToryBrokenBritain](http://twitter.com/search?q=%23ToryBrokenBritain) | N/A |
+| 39 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 40 | [#Wembley](http://twitter.com/search?q=%23Wembley) | N/A |
 
 
 

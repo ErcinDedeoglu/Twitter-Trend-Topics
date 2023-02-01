@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-01 13:21:35 UTC`
+📆 Last Updated: `2023-02-01 14:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Algeria](</Algeria>)
 | 1 | [#algnig](http://twitter.com/search?q=%23algnig) | N/A |
 | 2 | [كاس افريقيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
 | 3 | [#الجزاير_النيجر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1_%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1) | N/A |
-| 4 | [#الجزاير_النيجر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1_%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1) | N/A |
+| 4 | [CHAN 2022](http://twitter.com/search?q=CHAN+2022) | N/A |
 | 5 | [كريم غازي](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%ba%d8%a7%d8%b2%d9%8a) | N/A |
-| 6 | [المنتخب المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | N/A |
-| 7 | [CHAN 2022](http://twitter.com/search?q=CHAN+2022) | N/A |
-| 8 | [الممثل الشخصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84+%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a) | N/A |
-| 9 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 10 | [جمال الدين](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 11 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 12 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 13 | [المنتخب الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [كاس العرب](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 16 | [عبد المجيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 17 | [#Elissa1Year1Billion](http://twitter.com/search?q=%23Elissa1Year1Billion) | N/A |
-| 18 | [#مساء_الخير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 19 | [شهر ماي المقبل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d9%8a+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 20 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 21 | [ميلود هدفي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%88%d8%af+%d9%87%d8%af%d9%81%d9%8a) | N/A |
-| 22 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
-| 23 | [علي الساعه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
-| 24 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 25 | [كانسيلو](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%b3%d9%8a%d9%84%d9%88) | N/A |
-| 26 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 6 | [الممثل الشخصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84+%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a) | N/A |
+| 7 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 8 | [الجمهور الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [المنتخب الوطني المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | N/A |
+| 11 | [جمال الدين](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 12 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 13 | [كاس العرب](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 14 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 15 | [#Elissa1Year1Billion](http://twitter.com/search?q=%23Elissa1Year1Billion) | N/A |
+| 16 | [#مساء_الخير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 17 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 18 | [شهر ماي المقبل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d9%85%d8%a7%d9%8a+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 19 | [المنتخب الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 20 | [المنتخب المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | N/A |
+| 21 | [عبد المجيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 22 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
+| 23 | [ميلود هدفي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%88%d8%af+%d9%87%d8%af%d9%81%d9%8a) | N/A |
+| 24 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
+| 25 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 26 | [كانسيلو](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%b3%d9%8a%d9%84%d9%88) | N/A |
 | 27 | [ياسر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1) | N/A |
-| 28 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
-| 29 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 30 | [مختار](http://twitter.com/search?q=%d9%85%d8%ae%d8%aa%d8%a7%d8%b1) | N/A |
-| 31 | [لمصر](http://twitter.com/search?q=%d9%84%d9%85%d8%b5%d8%b1) | N/A |
-| 32 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 33 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 34 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
-| 35 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
-| 36 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 37 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 38 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
-| 39 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 40 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 41 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 42 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
-| 43 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
-| 44 | [بالجزائر](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
-| 45 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
-| 46 | [الدول العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 47 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
-| 48 | [علي الدين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 49 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 50 | [ابن عثيمين](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b9%d8%ab%d9%8a%d9%85%d9%8a%d9%86) | N/A |
+| 28 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 29 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 30 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
+| 31 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 32 | [مختار](http://twitter.com/search?q=%d9%85%d8%ae%d8%aa%d8%a7%d8%b1) | N/A |
+| 33 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 34 | [لمصر](http://twitter.com/search?q=%d9%84%d9%85%d8%b5%d8%b1) | N/A |
+| 35 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 36 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 37 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
+| 38 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
+| 39 | [Niger](http://twitter.com/search?q=Niger) | N/A |
+| 40 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 41 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
+| 42 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 43 | [الشيخ العلامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 44 | [أمريكا](http://twitter.com/search?q=%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 45 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 46 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
+| 47 | [بالجزائر](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
+| 48 | [نهار كامل](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d9%83%d8%a7%d9%85%d9%84) | N/A |
+| 49 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
+| 50 | [31 جانفي 2023](http://twitter.com/search?q=31+%d8%ac%d8%a7%d9%86%d9%81%d9%8a+2023) | N/A |
 
 
 

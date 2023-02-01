@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-01 13:21:41 UTC`
+📆 Last Updated: `2023-02-01 14:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#PeshawarAttack](http://twitter.com/search?q=%23PeshawarAttack) | N/A |
 | 2 | [#انصاف_کرو_پاکستان_بچاؤ](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b5%d8%a7%d9%81_%da%a9%d8%b1%d9%88_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%a8%da%86%d8%a7%d8%a4) | N/A |
 | 3 | [#CSS2023](http://twitter.com/search?q=%23CSS2023) | N/A |
-| 4 | [#NadeemAnjumMustResign](http://twitter.com/search?q=%23NadeemAnjumMustResign) | N/A |
-| 5 | [#ShahidKhaqanAbbasi](http://twitter.com/search?q=%23ShahidKhaqanAbbasi) | N/A |
+| 4 | [#ShahidKhaqanAbbasi](http://twitter.com/search?q=%23ShahidKhaqanAbbasi) | N/A |
+| 5 | [#NadeemAnjumMustResign](http://twitter.com/search?q=%23NadeemAnjumMustResign) | N/A |
 | 6 | [ICC Men](http://twitter.com/search?q=ICC+Men) | N/A |
-| 7 | [FPSC](http://twitter.com/search?q=FPSC) | N/A |
-| 8 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 7 | [Sir Garfield](http://twitter.com/search?q=Sir+Garfield) | N/A |
+| 8 | [FPSC](http://twitter.com/search?q=FPSC) | N/A |
 | 9 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 10 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 11 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
-| 12 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 13 | [bab ul hawaij](http://twitter.com/search?q=bab+ul+hawaij) | N/A |
-| 14 | [son of imam hussain](http://twitter.com/search?q=son+of+imam+hussain) | N/A |
-| 15 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
-| 16 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
-| 17 | [The Boys](http://twitter.com/search?q=The+Boys) | N/A |
-| 18 | [Ali Asghar](http://twitter.com/search?q=Ali+Asghar) | N/A |
-| 19 | [inspector nasir](http://twitter.com/search?q=inspector+nasir) | N/A |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 22 | [khanewal](http://twitter.com/search?q=khanewal) | N/A |
-| 23 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 24 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 25 | [Bahawalpur](http://twitter.com/search?q=Bahawalpur) | N/A |
-| 26 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 29 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 10 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 12 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 13 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
+| 14 | [Bab Ul Hawaij](http://twitter.com/search?q=Bab+Ul+Hawaij) | N/A |
+| 15 | [son of imam hussain](http://twitter.com/search?q=son+of+imam+hussain) | N/A |
+| 16 | [Punjab Police](http://twitter.com/search?q=Punjab+Police) | N/A |
+| 17 | [Alex Hales](http://twitter.com/search?q=Alex+Hales) | N/A |
+| 18 | [The Boys](http://twitter.com/search?q=The+Boys) | N/A |
+| 19 | [Ali Asghar](http://twitter.com/search?q=Ali+Asghar) | N/A |
+| 20 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 21 | [Bahawalpur](http://twitter.com/search?q=Bahawalpur) | N/A |
+| 22 | [inspector nasir](http://twitter.com/search?q=inspector+nasir) | N/A |
+| 23 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 24 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
+| 25 | [khanewal](http://twitter.com/search?q=khanewal) | N/A |
+| 26 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 27 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 29 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
 | 30 | [Saif](http://twitter.com/search?q=Saif) | N/A |
-| 31 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
-| 32 | [Get Rewards](http://twitter.com/search?q=Get+Rewards) | N/A |
-| 33 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 34 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 35 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 36 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 37 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 38 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
-| 39 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 40 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
-| 41 | [Valid](http://twitter.com/search?q=Valid) | N/A |
-| 42 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 43 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 44 | [Pure](http://twitter.com/search?q=Pure) | N/A |
-| 45 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 46 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 47 | [national assembly](http://twitter.com/search?q=national+assembly) | N/A |
-| 48 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 49 | [Lots](http://twitter.com/search?q=Lots) | N/A |
-| 50 | [Hero](http://twitter.com/search?q=Hero) | N/A |
+| 31 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 32 | [Munshi](http://twitter.com/search?q=Munshi) | N/A |
+| 33 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 34 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 35 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 36 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 37 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
+| 38 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 39 | [Valid](http://twitter.com/search?q=Valid) | N/A |
+| 40 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 41 | [Pure](http://twitter.com/search?q=Pure) | N/A |
+| 42 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 43 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
+| 44 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 45 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 46 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 47 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 48 | [Aray](http://twitter.com/search?q=Aray) | N/A |
+| 49 | [Pakhtoon](http://twitter.com/search?q=Pakhtoon) | N/A |
+| 50 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
 
 
 

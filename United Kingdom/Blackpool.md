@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-02-01 13:21:11 UTC`
+📆 Last Updated: `2023-02-01 14:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,47 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 2 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 3 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
-| 4 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 5 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
-| 6 | [#Wembley](http://twitter.com/search?q=%23Wembley) | N/A |
-| 7 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 8 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 9 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 10 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 11 | [Marc Albrighton](http://twitter.com/search?q=Marc+Albrighton) | N/A |
-| 12 | [Tate Modern](http://twitter.com/search?q=Tate+Modern) | N/A |
-| 13 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 14 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 15 | [St Brigid](http://twitter.com/search?q=St+Brigid) | N/A |
-| 16 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 17 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 18 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
-| 19 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 20 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 21 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 22 | [Milton Keynes](http://twitter.com/search?q=Milton+Keynes) | N/A |
-| 23 | [#LGBTplusHM](http://twitter.com/search?q=%23LGBTplusHM) | N/A |
-| 24 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 25 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 26 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 27 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
-| 28 | [#BehindTheLens](http://twitter.com/search?q=%23BehindTheLens) | N/A |
-| 29 | [#Imbolc](http://twitter.com/search?q=%23Imbolc) | N/A |
-| 30 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 31 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
-| 32 | [#newmonth](http://twitter.com/search?q=%23newmonth) | N/A |
-| 33 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
-| 34 | [#TimeToTalk](http://twitter.com/search?q=%23TimeToTalk) | N/A |
-| 35 | [#ToryBrokenBritain](http://twitter.com/search?q=%23ToryBrokenBritain) | N/A |
-| 36 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 37 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
+| 1 | [#EnoughlsEnough](http://twitter.com/search?q=%23EnoughlsEnough) | N/A |
+| 2 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 3 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 4 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 5 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 6 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 7 | [madeley](http://twitter.com/search?q=madeley) | N/A |
+| 8 | [#Wembley](http://twitter.com/search?q=%23Wembley) | N/A |
+| 9 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 10 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 12 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 13 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
+| 14 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 15 | [Parklife](http://twitter.com/search?q=Parklife) | N/A |
+| 16 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 17 | [Tate Modern](http://twitter.com/search?q=Tate+Modern) | N/A |
+| 18 | [Marc Albrighton](http://twitter.com/search?q=Marc+Albrighton) | N/A |
+| 19 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 20 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 21 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 22 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
+| 23 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 24 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
+| 25 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 26 | [Milton Keynes](http://twitter.com/search?q=Milton+Keynes) | N/A |
+| 27 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | N/A |
+| 28 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 29 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 30 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
+| 31 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 32 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 33 | [#BehindTheLens](http://twitter.com/search?q=%23BehindTheLens) | N/A |
+| 34 | [#Imbolc](http://twitter.com/search?q=%23Imbolc) | N/A |
+| 35 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 36 | [#newmonth](http://twitter.com/search?q=%23newmonth) | N/A |
+| 37 | [#TimeToTalk](http://twitter.com/search?q=%23TimeToTalk) | N/A |
+| 38 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
+| 39 | [#ToryBrokenBritain](http://twitter.com/search?q=%23ToryBrokenBritain) | N/A |
+| 40 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
+| 41 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 
 
 

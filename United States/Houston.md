@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-02-01 13:21:48 UTC`
+📆 Last Updated: `2023-02-01 14:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 2 | [#atxwx](http://twitter.com/search?q=%23atxwx) | N/A |
-| 3 | [#icestorm](http://twitter.com/search?q=%23icestorm) | N/A |
+| 1 | [#atxwx](http://twitter.com/search?q=%23atxwx) | N/A |
+| 2 | [#icestorm](http://twitter.com/search?q=%23icestorm) | N/A |
+| 3 | [#WinterStorm](http://twitter.com/search?q=%23WinterStorm) | #WinterStorm is a hashtag used on social media to refer to a severe winter storm. It is typically used to share information about the storm, such as its location, intensity, and potential impacts. |
 | 4 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 5 | [Happy Black History Month](http://twitter.com/search?q=Happy+Black+History+Month) | Happy Black History Month is an expression used to celebrate and recognize the achievements and contributions of African Americans throughout history. It is typically celebrated in the United States and Canada during the month of February. |
-| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 8 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
-| 9 | [#NSD23](http://twitter.com/search?q=%23NSD23) | N/A |
-| 10 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
-| 11 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 12 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 13 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 15 | [National Signing Day](http://twitter.com/search?q=National+Signing+Day) | National Signing Day is an annual event in which high school athletes sign a binding letter of intent to play a sport at a college or university. It is the first day that a high school senior can sign a binding National Letter of Intent for college football. The day usually falls on the first Wednesday of February, and marks the end of the recruiting process for many student-athletes. |
-| 16 | [Daily Quordle 373](http://twitter.com/search?q=Daily+Quordle+373) | N/A |
-| 17 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
-| 18 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
-| 19 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
-| 20 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 21 | [Happy BHM](http://twitter.com/search?q=Happy+BHM) | N/A |
-| 22 | [Arian Foster](http://twitter.com/search?q=Arian+Foster) | N/A |
-| 23 | [I EXPECT](http://twitter.com/search?q=I+EXPECT) | N/A |
-| 24 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 25 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
-| 26 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 27 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 28 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 29 | [Sisyphus](http://twitter.com/search?q=Sisyphus) | N/A |
-| 30 | [Dr. Phil](http://twitter.com/search?q=Dr.+Phil) | N/A |
-| 31 | [Benny Hill](http://twitter.com/search?q=Benny+Hill) | N/A |
-| 32 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 33 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
-| 34 | [Nimrata](http://twitter.com/search?q=Nimrata) | N/A |
-| 35 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
-| 36 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 37 | [I Fit In There](http://twitter.com/search?q=I+Fit+In+There) | N/A |
-| 38 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
-| 39 | [Cher](http://twitter.com/search?q=Cher) | N/A |
-| 40 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 41 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
-| 42 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 43 | [Tells](http://twitter.com/search?q=Tells) | N/A |
-| 44 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
-| 45 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 46 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 47 | [HARRYS](http://twitter.com/search?q=HARRYS) | N/A |
-| 48 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 49 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
+| 5 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 6 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 7 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
+| 8 | [TB12](http://twitter.com/search?q=TB12) | TB12 is an acronym for Tom Brady's lifestyle brand, which stands for "Tom Brady 12". It is a lifestyle brand that promotes healthy living and wellness through nutrition, hydration, and exercise. The brand also sells products such as apparel, supplements, and equipment. |
+| 9 | [The GOAT](http://twitter.com/search?q=The+GOAT) | N/A |
+| 10 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | N/A |
+| 11 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 12 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 13 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 14 | [New Month](http://twitter.com/search?q=New+Month) | N/A |
+| 15 | [Thanks Tom](http://twitter.com/search?q=Thanks+Tom) | N/A |
+| 16 | [National Signing Day](http://twitter.com/search?q=National+Signing+Day) | National Signing Day is an annual event in which high school athletes sign a binding letter of intent to play a sport at a college or university. It is the first day that a high school senior can sign a binding National Letter of Intent for college football. The day usually falls on the first Wednesday of February, and marks the end of the recruiting process for many student-athletes. |
+| 17 | [Citi](http://twitter.com/search?q=Citi) | N/A |
+| 18 | [Happy Retirement](http://twitter.com/search?q=Happy+Retirement) | Happy Retirement is a phrase used to express congratulations and best wishes to someone who is retiring from their job. It is a way of wishing them well in their new life of leisure and freedom. |
+| 19 | [greatest qb](http://twitter.com/search?q=greatest+qb) | N/A |
+| 20 | [Canton](http://twitter.com/search?q=Canton) | N/A |
+| 21 | [NFC South](http://twitter.com/search?q=NFC+South) | N/A |
+| 22 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 23 | [Congrats Tom](http://twitter.com/search?q=Congrats+Tom) | N/A |
+| 24 | [Kyle Trask](http://twitter.com/search?q=Kyle+Trask) | N/A |
+| 25 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
+| 26 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 27 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 28 | [Damn Tom](http://twitter.com/search?q=Damn+Tom) | N/A |
+| 29 | [GREATEST OF ALL TIME](http://twitter.com/search?q=GREATEST+OF+ALL+TIME) | N/A |
+| 30 | [New Blessings](http://twitter.com/search?q=New+Blessings) | N/A |
+| 31 | [For Good](http://twitter.com/search?q=For+Good) | N/A |
+| 32 | [7 Super Bowls](http://twitter.com/search?q=7+Super+Bowls) | N/A |
+| 33 | [Congratulations Tom](http://twitter.com/search?q=Congratulations+Tom) | N/A |
+| 34 | [Warren Zevon](http://twitter.com/search?q=Warren+Zevon) | N/A |
+| 35 | [Black Resistance](http://twitter.com/search?q=Black+Resistance) | N/A |
+| 36 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 37 | [Happy BHM](http://twitter.com/search?q=Happy+BHM) | N/A |
+| 38 | [Daily Quordle 373](http://twitter.com/search?q=Daily+Quordle+373) | N/A |
+| 39 | [New Goals](http://twitter.com/search?q=New+Goals) | N/A |
+| 40 | [Rabbit Rabbit](http://twitter.com/search?q=Rabbit+Rabbit) | N/A |
+| 41 | [Adam Schefter](http://twitter.com/search?q=Adam+Schefter) | N/A |
+| 42 | [Arian Foster](http://twitter.com/search?q=Arian+Foster) | N/A |
+| 43 | [Tampa Bay Buccaneers](http://twitter.com/search?q=Tampa+Bay+Buccaneers) | N/A |
+| 44 | [Carter G. Woodson](http://twitter.com/search?q=Carter+G.+Woodson) | N/A |
+| 45 | [The Spinners](http://twitter.com/search?q=The+Spinners) | N/A |
+| 46 | [New Order](http://twitter.com/search?q=New+Order) | N/A |
+| 47 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
+| 48 | [Missy Elliott](http://twitter.com/search?q=Missy+Elliott) | N/A |
+| 49 | [White Stripes](http://twitter.com/search?q=White+Stripes) | N/A |
+| 50 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
 
 
 
