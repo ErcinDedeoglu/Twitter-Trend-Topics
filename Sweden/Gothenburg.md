@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-01 03:24:22 UTC`
+📆 Last Updated: `2023-02-01 04:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,8 +26,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 9 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 10 | [Humana](http://twitter.com/search?q=Humana) | N/A |
 | 11 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 12 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 13 | [randers](http://twitter.com/search?q=randers) | N/A |
+| 12 | [randers](http://twitter.com/search?q=randers) | N/A |
+| 13 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
 | 14 | [vårbynätverket](http://twitter.com/search?q=v%c3%a5rbyn%c3%a4tverket) | N/A |
 | 15 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 16 | [nobels](http://twitter.com/search?q=nobels) | N/A |
@@ -48,21 +48,22 @@ This is top 50 for [Sweden](</Sweden>)
 | 31 | [gurra](http://twitter.com/search?q=gurra) | N/A |
 | 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 33 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 34 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
-| 35 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 36 | [#svmed](http://twitter.com/search?q=%23svmed) | N/A |
-| 37 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 38 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 39 | [oskarshamn](http://twitter.com/search?q=oskarshamn) | N/A |
+| 34 | [beijer hockey games](http://twitter.com/search?q=beijer+hockey+games) | N/A |
+| 35 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
+| 36 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 37 | [#svmed](http://twitter.com/search?q=%23svmed) | N/A |
+| 38 | [oskarshamn](http://twitter.com/search?q=oskarshamn) | N/A |
+| 39 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 | 40 | [F-16](http://twitter.com/search?q=F-16) | N/A |
 | 41 | [jonna sima](http://twitter.com/search?q=jonna+sima) | N/A |
 | 42 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
 | 43 | [nubben](http://twitter.com/search?q=nubben) | N/A |
 | 44 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 45 | [Hausner](http://twitter.com/search?q=Hausner) | N/A |
-| 46 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 47 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 46 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 47 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 48 | [Dalen](http://twitter.com/search?q=Dalen) | N/A |
+| 49 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 
 
 

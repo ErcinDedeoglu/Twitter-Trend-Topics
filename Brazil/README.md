@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-01 03:24:56 UTC`
+📆 Last Updated: `2023-02-01 04:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Brazil
 | 1 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
 | 2 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
 | 3 | [Round 6](http://twitter.com/search?q=Round+6) | Round 6 is a term used to refer to the sixth round of a competition or tournament. It is typically used in sports, such as boxing or mixed martial arts, where competitors are eliminated after each round until only one remains. The phrase can also be used more generally to refer to any situation where there are multiple rounds of competition or evaluation. |
-| 4 | [Tchau Gabriel](http://twitter.com/search?q=Tchau+Gabriel) | "Tchau Gabriel" is a Portuguese phrase meaning "Goodbye Gabriel". |
-| 5 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 6 | [Só 53%](http://twitter.com/search?q=S%c3%b3+53%25) | "Só 53%" is a Portuguese phrase that translates to "only 53%". It is often used to express disappointment or dissatisfaction with a result or outcome. |
-| 7 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
-| 8 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
-| 9 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 10 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 11 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
-| 12 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
+| 4 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 5 | [Tchau Gabriel](http://twitter.com/search?q=Tchau+Gabriel) | "Tchau Gabriel" is a Portuguese phrase meaning "Goodbye Gabriel". |
+| 6 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 7 | [Só 53%](http://twitter.com/search?q=S%c3%b3+53%25) | "Só 53%" is a Portuguese phrase that translates to "only 53%". It is often used to express disappointment or dissatisfaction with a result or outcome. |
+| 8 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
+| 9 | [#OndeEstáMeuCoração](http://twitter.com/search?q=%23OndeEst%c3%a1MeuCora%c3%a7%c3%a3o) | N/A |
+| 10 | [Letícia Colin](http://twitter.com/search?q=Let%c3%adcia+Colin) | Letícia Colin is a Brazilian actress. Her name is derived from the Latin word "Leticia," which means "joy" or "happiness." In English, her name can be translated to mean "Joyful Colin." |
+| 11 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 12 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
 | 13 | [FINALMENTE FEVEREIRO](http://twitter.com/search?q=FINALMENTE+FEVEREIRO) | N/A |
-| 14 | [Feliz Fevereiro](http://twitter.com/search?q=Feliz+Fevereiro) | N/A |
-| 15 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 16 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 17 | [ACABOU JANEIRO](http://twitter.com/search?q=ACABOU+JANEIRO) | N/A |
-| 18 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
-| 19 | [FELIZ ANO NOVO](http://twitter.com/search?q=FELIZ+ANO+NOVO) | N/A |
-| 20 | [Letícia Colin](http://twitter.com/search?q=Let%c3%adcia+Colin) | N/A |
-| 21 | [CAT BBB](http://twitter.com/search?q=CAT+BBB) | CAT BBB is an acronym for the Canadian Automotive Technician (CAT) certification program. It is a certification program offered by the Automotive Industries Association of Canada (AIA) that recognizes the knowledge and skills of automotive technicians in Canada. The program consists of three levels: Basic, Intermediate, and Advanced. |
-| 22 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 23 | [Agora a Bruna](http://twitter.com/search?q=Agora+a+Bruna) | N/A |
-| 24 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
-| 25 | [#OndeEstáMeuCoração](http://twitter.com/search?q=%23OndeEst%c3%a1MeuCora%c3%a7%c3%a3o) | N/A |
-| 26 | [flashback](http://twitter.com/search?q=flashback) | N/A |
-| 27 | [Nem a Bruna](http://twitter.com/search?q=Nem+a+Bruna) | N/A |
-| 28 | [O BEM VENCEU](http://twitter.com/search?q=O+BEM+VENCEU) | O BEM VENCEU is a Portuguese phrase that translates to "Good has won" in English. It is often used to express joy and celebration at the victory of good over evil. |
-| 29 | [Tiago Leifert](http://twitter.com/search?q=Tiago+Leifert) | N/A |
-| 30 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 31 | [Merecia](http://twitter.com/search?q=Merecia) | N/A |
-| 32 | [Karol Conká](http://twitter.com/search?q=Karol+Conk%c3%a1) | N/A |
-| 33 | [Ana Maria Braga](http://twitter.com/search?q=Ana+Maria+Braga) | N/A |
-| 34 | [dr fred](http://twitter.com/search?q=dr+fred) | "Dr Fred" is a nickname for Dr. Frederick Banting, a Canadian medical scientist who was the co-discoverer of insulin. He is credited with saving the lives of millions of people with diabetes. The nickname "Dr Fred" is used to refer to him in a friendly and informal way. |
-| 35 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 36 | [Yu-Gi-Oh](http://twitter.com/search?q=Yu-Gi-Oh) | N/A |
-| 37 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 38 | [Tchau Janeiro](http://twitter.com/search?q=Tchau+Janeiro) | N/A |
-| 39 | [Obrigada Brasil](http://twitter.com/search?q=Obrigada+Brasil) | N/A |
-| 40 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
-| 41 | [O Lakers](http://twitter.com/search?q=O+Lakers) | N/A |
-| 42 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 43 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 44 | [E a Bruna](http://twitter.com/search?q=E+a+Bruna) | N/A |
-| 45 | [RODRIGO TARDELLI](http://twitter.com/search?q=RODRIGO+TARDELLI) | N/A |
-| 46 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 47 | [Cubriel](http://twitter.com/search?q=Cubriel) | N/A |
-| 48 | [Que Fevereiro](http://twitter.com/search?q=Que+Fevereiro) | N/A |
-| 49 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
-| 50 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
+| 14 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 15 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
+| 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 17 | [Feliz Fevereiro](http://twitter.com/search?q=Feliz+Fevereiro) | N/A |
+| 18 | [ACABOU JANEIRO](http://twitter.com/search?q=ACABOU+JANEIRO) | N/A |
+| 19 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 20 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 21 | [Racionais](http://twitter.com/search?q=Racionais) | N/A |
+| 22 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 23 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
+| 24 | [FELIZ ANO NOVO](http://twitter.com/search?q=FELIZ+ANO+NOVO) | N/A |
+| 25 | [CAT BBB](http://twitter.com/search?q=CAT+BBB) | CAT BBB is an acronym for the Canadian Automotive Technician (CAT) certification program. It is a certification program offered by the Automotive Industries Association of Canada (AIA) that recognizes the knowledge and skills of automotive technicians in Canada. The program consists of three levels: Basic, Intermediate, and Advanced. |
+| 26 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 27 | [Enfim Fevereiro](http://twitter.com/search?q=Enfim+Fevereiro) | N/A |
+| 28 | [Agora a Bruna](http://twitter.com/search?q=Agora+a+Bruna) | N/A |
+| 29 | [Nem a Bruna](http://twitter.com/search?q=Nem+a+Bruna) | N/A |
+| 30 | [Flashback](http://twitter.com/search?q=Flashback) | N/A |
+| 31 | [Fábio Assunção](http://twitter.com/search?q=F%c3%a1bio+Assun%c3%a7%c3%a3o) | N/A |
+| 32 | [O BEM VENCEU](http://twitter.com/search?q=O+BEM+VENCEU) | O BEM VENCEU is a Portuguese phrase that translates to "Good has won" in English. It is often used to express joy and celebration at the victory of good over evil. |
+| 33 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
+| 34 | [Merecia](http://twitter.com/search?q=Merecia) | N/A |
+| 35 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 36 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
+| 37 | [Tiago Leifert](http://twitter.com/search?q=Tiago+Leifert) | N/A |
+| 38 | [Karol Conká](http://twitter.com/search?q=Karol+Conk%c3%a1) | N/A |
+| 39 | [Ana Maria Braga](http://twitter.com/search?q=Ana+Maria+Braga) | N/A |
+| 40 | [dr fred](http://twitter.com/search?q=dr+fred) | "Dr Fred" is a nickname for Dr. Frederick Banting, a Canadian medical scientist who was the co-discoverer of insulin. He is credited with saving the lives of millions of people with diabetes. The nickname "Dr Fred" is used to refer to him in a friendly and informal way. |
+| 41 | [Tchau Janeiro](http://twitter.com/search?q=Tchau+Janeiro) | N/A |
+| 42 | [Que Fevereiro](http://twitter.com/search?q=Que+Fevereiro) | N/A |
+| 43 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 44 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 45 | [O Lakers](http://twitter.com/search?q=O+Lakers) | N/A |
+| 46 | [RODRIGO TARDELLI](http://twitter.com/search?q=RODRIGO+TARDELLI) | N/A |
+| 47 | [Yu-Gi-Oh](http://twitter.com/search?q=Yu-Gi-Oh) | N/A |
+| 48 | [Obrigada Brasil](http://twitter.com/search?q=Obrigada+Brasil) | N/A |
+| 49 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
+| 50 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
 
 
 

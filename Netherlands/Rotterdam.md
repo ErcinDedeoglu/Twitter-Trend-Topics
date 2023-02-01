@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-02-01 03:24:19 UTC`
+📆 Last Updated: `2023-02-01 04:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,13 +23,13 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 6 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
 | 7 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
 | 8 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 9 | [efteling](http://twitter.com/search?q=efteling) | N/A |
-| 10 | [lelystad airport](http://twitter.com/search?q=lelystad+airport) | N/A |
+| 9 | [lelystad airport](http://twitter.com/search?q=lelystad+airport) | N/A |
+| 10 | [efteling](http://twitter.com/search?q=efteling) | N/A |
 | 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 12 | [blauw](http://twitter.com/search?q=blauw) | N/A |
 | 13 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 14 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 15 | [Van Ginkel](http://twitter.com/search?q=Van+Ginkel) | N/A |
+| 14 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
+| 15 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
 | 16 | [Beatrix](http://twitter.com/search?q=Beatrix) | N/A |
 | 17 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 18 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
@@ -47,22 +47,22 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 30 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
 | 31 | [elvis manu](http://twitter.com/search?q=elvis+manu) | N/A |
 | 32 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 33 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 34 | [walemark](http://twitter.com/search?q=walemark) | N/A |
-| 35 | [de npo](http://twitter.com/search?q=de+npo) | N/A |
+| 33 | [walemark](http://twitter.com/search?q=walemark) | N/A |
+| 34 | [de npo](http://twitter.com/search?q=de+npo) | N/A |
+| 35 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
 | 36 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 37 | [Rood](http://twitter.com/search?q=Rood) | N/A |
 | 38 | [heddy lester](http://twitter.com/search?q=heddy+lester) | N/A |
 | 39 | [te kloese](http://twitter.com/search?q=te+kloese) | N/A |
-| 40 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
+| 40 | [raisa](http://twitter.com/search?q=raisa) | N/A |
 | 41 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 42 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
 | 43 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
 | 44 | [Joop](http://twitter.com/search?q=Joop) | N/A |
 | 45 | [Bruma](http://twitter.com/search?q=Bruma) | Bruma is a Portuguese word meaning "dawn" or "dusk". It is often used to refer to the period of time just before sunrise or just after sunset. |
-| 46 | [Te Wierik](http://twitter.com/search?q=Te+Wierik) | N/A |
+| 46 | [paul jansen](http://twitter.com/search?q=paul+jansen) | N/A |
 | 47 | [Philips](http://twitter.com/search?q=Philips) | N/A |
-| 48 | [paul jansen](http://twitter.com/search?q=paul+jansen) | N/A |
+| 48 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
 
 
 

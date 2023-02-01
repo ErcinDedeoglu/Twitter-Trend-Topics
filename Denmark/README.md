@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-01 03:24:56 UTC`
+📆 Last Updated: `2023-02-01 04:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,23 +19,23 @@ This is top 50 for Denmark
 | 2 | [Coop](http://twitter.com/search?q=Coop) | N/A |
 | 3 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
 | 4 | [#andellerej](http://twitter.com/search?q=%23andellerej) | N/A |
-| 5 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
-| 6 | [winther](http://twitter.com/search?q=winther) | N/A |
+| 5 | [winther](http://twitter.com/search?q=winther) | N/A |
+| 6 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 7 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
 | 8 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 9 | [meny](http://twitter.com/search?q=meny) | N/A |
+| 9 | [Meny](http://twitter.com/search?q=Meny) | N/A |
 | 10 | [tshiembe](http://twitter.com/search?q=tshiembe) | N/A |
-| 11 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 11 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
 | 12 | [Rema](http://twitter.com/search?q=Rema) | N/A |
 | 13 | [Kvickly](http://twitter.com/search?q=Kvickly) | N/A |
-| 14 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
-| 15 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
+| 14 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 15 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
 | 16 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
 | 17 | [Zohore](http://twitter.com/search?q=Zohore) | N/A |
 | 18 | [brugsen](http://twitter.com/search?q=brugsen) | N/A |
-| 19 | [Netto](http://twitter.com/search?q=Netto) | N/A |
-| 20 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
-| 21 | [rosted](http://twitter.com/search?q=rosted) | N/A |
+| 19 | [rosted](http://twitter.com/search?q=rosted) | N/A |
+| 20 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 21 | [jylland](http://twitter.com/search?q=jylland) | N/A |
 | 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 23 | [gammelby](http://twitter.com/search?q=gammelby) | N/A |
 | 24 | [Fakta](http://twitter.com/search?q=Fakta) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Denmark
 | 28 | [nina smith](http://twitter.com/search?q=nina+smith) | N/A |
 | 29 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 30 | [Henrik Nordbrandt](http://twitter.com/search?q=Henrik+Nordbrandt) | N/A |
-| 31 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
+| 31 | [viborg](http://twitter.com/search?q=viborg) | N/A |
 | 32 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
 | 33 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 34 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
@@ -53,7 +53,7 @@ This is top 50 for Denmark
 | 36 | [Held](http://twitter.com/search?q=Held) | N/A |
 | 37 | [superligaen](http://twitter.com/search?q=superligaen) | N/A |
 | 38 | [randers](http://twitter.com/search?q=randers) | N/A |
-| 39 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
+| 39 | [københavn](http://twitter.com/search?q=k%c3%b8benhavn) | N/A |
 | 40 | [Odense](http://twitter.com/search?q=Odense) | N/A |
 | 41 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
 | 42 | [Africa](http://twitter.com/search?q=Africa) | N/A |

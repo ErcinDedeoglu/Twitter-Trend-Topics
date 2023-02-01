@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-01 03:24:14 UTC`
+📆 Last Updated: `2023-02-01 04:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,14 +23,14 @@ This is top 50 for [Austria](</Austria>)
 | 6 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
 | 7 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
 | 8 | [#noewahl](http://twitter.com/search?q=%23noewahl) | N/A |
-| 9 | [maßnahmen](http://twitter.com/search?q=ma%c3%9fnahmen) | N/A |
-| 10 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 11 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
-| 12 | [gratuliere](http://twitter.com/search?q=gratuliere) | N/A |
-| 13 | [Schnabl](http://twitter.com/search?q=Schnabl) | N/A |
-| 14 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 15 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 16 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 9 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 10 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
+| 11 | [gratuliere](http://twitter.com/search?q=gratuliere) | N/A |
+| 12 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 13 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 14 | [Schnabl](http://twitter.com/search?q=Schnabl) | N/A |
+| 15 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 16 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
 | 17 | [lebens](http://twitter.com/search?q=lebens) | N/A |
 | 18 | [kurs](http://twitter.com/search?q=kurs) | N/A |
 | 19 | [regeln](http://twitter.com/search?q=regeln) | N/A |
@@ -40,12 +40,12 @@ This is top 50 for [Austria](</Austria>)
 | 23 | [Witz](http://twitter.com/search?q=Witz) | N/A |
 | 24 | [Form](http://twitter.com/search?q=Form) | N/A |
 | 25 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
-| 26 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
+| 26 | [schritt](http://twitter.com/search?q=schritt) | N/A |
 | 27 | [sozialdemokratie](http://twitter.com/search?q=sozialdemokratie) | N/A |
 | 28 | [spitze](http://twitter.com/search?q=spitze) | N/A |
 | 29 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 30 | [landtag](http://twitter.com/search?q=landtag) | N/A |
-| 31 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 31 | [kommunikation](http://twitter.com/search?q=kommunikation) | N/A |
 | 32 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
 | 33 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
 | 34 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Austria](</Austria>)
 | 44 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
 | 45 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 46 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 47 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 47 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
 | 48 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
 | 49 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
 | 50 | [Natur](http://twitter.com/search?q=Natur) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-01 03:24:14 UTC`
+📆 Last Updated: `2023-02-01 04:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 11 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 12 | [#leotheliar](http://twitter.com/search?q=%23leotheliar) | N/A |
 | 13 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 14 | [Leo Varadkar](http://twitter.com/search?q=Leo+Varadkar) | N/A |
-| 15 | [Kilmacud](http://twitter.com/search?q=Kilmacud) | N/A |
+| 14 | [kilmacud](http://twitter.com/search?q=kilmacud) | N/A |
+| 15 | [leo varadkar](http://twitter.com/search?q=leo+varadkar) | N/A |
 | 16 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 17 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
@@ -38,23 +38,23 @@ This is top 50 for [Ireland](</Ireland>)
 | 21 | [Kitty Holland](http://twitter.com/search?q=Kitty+Holland) | N/A |
 | 22 | [cobh](http://twitter.com/search?q=cobh) | N/A |
 | 23 | [Niecy](http://twitter.com/search?q=Niecy) | N/A |
-| 24 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
-| 25 | [sigerson cup](http://twitter.com/search?q=sigerson+cup) | N/A |
-| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 27 | [Ronan](http://twitter.com/search?q=Ronan) | N/A |
-| 28 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 24 | [sigerson cup](http://twitter.com/search?q=sigerson+cup) | N/A |
+| 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 26 | [Ronan](http://twitter.com/search?q=Ronan) | N/A |
+| 27 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 28 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
 | 29 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 30 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 31 | [Gript](http://twitter.com/search?q=Gript) | N/A |
-| 32 | [Ashtown](http://twitter.com/search?q=Ashtown) | N/A |
-| 33 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 30 | [Gript](http://twitter.com/search?q=Gript) | N/A |
+| 31 | [Ashtown](http://twitter.com/search?q=Ashtown) | N/A |
+| 32 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 33 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 34 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 35 | [Gael](http://twitter.com/search?q=Gael) | N/A |
 | 36 | [The Government](http://twitter.com/search?q=The+Government) | N/A |
 | 37 | [Dangan](http://twitter.com/search?q=Dangan) | N/A |
 | 38 | [the gaa](http://twitter.com/search?q=the+gaa) | N/A |
 | 39 | [Sign](http://twitter.com/search?q=Sign) | N/A |
-| 40 | [Gold Medal Awards](http://twitter.com/search?q=Gold+Medal+Awards) | N/A |
+| 40 | [gold medal awards](http://twitter.com/search?q=gold+medal+awards) | N/A |
 | 41 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
 | 42 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 43 | [Kante](http://twitter.com/search?q=Kante) | N/A |
@@ -62,8 +62,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 45 | [Mikel](http://twitter.com/search?q=Mikel) | N/A |
 | 46 | [John Ryan](http://twitter.com/search?q=John+Ryan) | N/A |
 | 47 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 48 | [Bloody Sunday](http://twitter.com/search?q=Bloody+Sunday) | N/A |
-| 49 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 48 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 49 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 
 
 
