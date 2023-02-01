@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-01 14:17:19 UTC`
+📆 Last Updated: `2023-02-01 15:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,9 +35,9 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 18 | [Ministry of Education](http://twitter.com/search?q=Ministry+of+Education) | N/A |
 | 19 | [tova](http://twitter.com/search?q=tova) | N/A |
 | 20 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 21 | [dunedin hospital](http://twitter.com/search?q=dunedin+hospital) | N/A |
-| 22 | [loto](http://twitter.com/search?q=loto) | N/A |
-| 23 | [Schools](http://twitter.com/search?q=Schools) | N/A |
+| 21 | [loto](http://twitter.com/search?q=loto) | N/A |
+| 22 | [Schools](http://twitter.com/search?q=Schools) | N/A |
+| 23 | [Dunedin Hospital](http://twitter.com/search?q=Dunedin+Hospital) | N/A |
 | 24 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
 | 25 | [#iavcei2023](http://twitter.com/search?q=%23iavcei2023) | N/A |
 | 26 | [All Black](http://twitter.com/search?q=All+Black) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 46 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
 | 47 | [#streamer](http://twitter.com/search?q=%23streamer) | N/A |
 | 48 | [Northland](http://twitter.com/search?q=Northland) | N/A |
-| 49 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 49 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 50 | [Dang](http://twitter.com/search?q=Dang) | N/A |
 
 

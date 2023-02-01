@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-02-01 14:16:38 UTC`
+📆 Last Updated: `2023-02-01 15:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,43 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 2 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 3 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 4 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 5 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 6 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 7 | [madeley](http://twitter.com/search?q=madeley) | N/A |
-| 8 | [#Wembley](http://twitter.com/search?q=%23Wembley) | N/A |
-| 9 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 10 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 11 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 12 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 13 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 1 | [Tate Modern](http://twitter.com/search?q=Tate+Modern) | N/A |
+| 2 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
+| 3 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 4 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
+| 5 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 6 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
+| 7 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 8 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 9 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 10 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 11 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 12 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 13 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
 | 14 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
-| 15 | [Parklife](http://twitter.com/search?q=Parklife) | N/A |
-| 16 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 17 | [Tate Modern](http://twitter.com/search?q=Tate+Modern) | N/A |
+| 15 | [Malan](http://twitter.com/search?q=Malan) | N/A |
+| 16 | [Parklife](http://twitter.com/search?q=Parklife) | N/A |
+| 17 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
 | 18 | [Marc Albrighton](http://twitter.com/search?q=Marc+Albrighton) | N/A |
 | 19 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 20 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 21 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 22 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
-| 23 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 24 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
-| 25 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 26 | [Milton Keynes](http://twitter.com/search?q=Milton+Keynes) | N/A |
-| 27 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 28 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | N/A |
-| 29 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 20 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
+| 21 | [Unions](http://twitter.com/search?q=Unions) | N/A |
+| 22 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 23 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 24 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 25 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 26 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 27 | [#SAvENG](http://twitter.com/search?q=%23SAvENG) | N/A |
+| 28 | [#saveourschools](http://twitter.com/search?q=%23saveourschools) | N/A |
+| 29 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 30 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 31 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
-| 32 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 31 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 32 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
 | 33 | [#EnoughlsEnough](http://twitter.com/search?q=%23EnoughlsEnough) | N/A |
 | 34 | [#BehindTheLens](http://twitter.com/search?q=%23BehindTheLens) | N/A |
 | 35 | [#Imbolc](http://twitter.com/search?q=%23Imbolc) | N/A |
-| 36 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 37 | [#newmonth](http://twitter.com/search?q=%23newmonth) | N/A |
-| 38 | [#TimeToTalk](http://twitter.com/search?q=%23TimeToTalk) | N/A |
-| 39 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
-| 40 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
-| 41 | [#ToryBrokenBritain](http://twitter.com/search?q=%23ToryBrokenBritain) | N/A |
-| 42 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
+| 36 | [#TimeToTalk](http://twitter.com/search?q=%23TimeToTalk) | N/A |
+| 37 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 
 
 

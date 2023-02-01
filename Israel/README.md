@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-01 14:17:32 UTC`
+📆 Last Updated: `2023-02-01 15:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [חאן אל](http://twitter.com/search?q=%d7%97%d7%90%d7%9f+%d7%90%d7%9c) | N/A |
-| 2 | [נשיא צ](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a6) | N/A |
-| 3 | [של אבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%91%d7%99) | N/A |
-| 4 | [נתן אשל](http://twitter.com/search?q=%d7%a0%d7%aa%d7%9f+%d7%90%d7%a9%d7%9c) | N/A |
-| 5 | [איילה חסון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%94+%d7%97%d7%a1%d7%95%d7%9f) | איילה חסון is a Hebrew phrase meaning "Eilah Hasun," which translates to "God is gracious." It is often used as a blessing or expression of gratitude. |
+| 2 | [של אבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%91%d7%99) | N/A |
+| 3 | [איילה חסון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%94+%d7%97%d7%a1%d7%95%d7%9f) | איילה חסון is a Hebrew phrase meaning "Eilah Hasun," which translates to "God is gracious." It is often used as a blessing or expression of gratitude. |
+| 4 | [יולדת יהודייה](http://twitter.com/search?q=%d7%99%d7%95%d7%9c%d7%93%d7%aa+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%99%d7%94) | N/A |
+| 5 | [נתן אשל](http://twitter.com/search?q=%d7%a0%d7%aa%d7%9f+%d7%90%d7%a9%d7%9c) | N/A |
 | 6 | [אפי נווה](http://twitter.com/search?q=%d7%90%d7%a4%d7%99+%d7%a0%d7%95%d7%95%d7%94) | N/A |
 | 7 | [תום ליבנה](http://twitter.com/search?q=%d7%aa%d7%95%d7%9d+%d7%9c%d7%99%d7%91%d7%a0%d7%94) | N/A |
 | 8 | [ענת קם](http://twitter.com/search?q=%d7%a2%d7%a0%d7%aa+%d7%a7%d7%9d) | N/A |
 | 9 | [מאיר כהן](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%9b%d7%94%d7%9f) | N/A |
-| 10 | [גיא פלג](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%a4%d7%9c%d7%92) | N/A |
+| 10 | [נשיא צ](http://twitter.com/search?q=%d7%a0%d7%a9%d7%99%d7%90+%d7%a6) | N/A |
 | 11 | [חיים רמון](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%a8%d7%9e%d7%95%d7%9f) | N/A |
-| 12 | [עם אבי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%91%d7%99) | N/A |
-| 13 | [פיגוע דריסה](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%93%d7%a8%d7%99%d7%a1%d7%94) | N/A |
-| 14 | [ד אבי](http://twitter.com/search?q=%d7%93+%d7%90%d7%91%d7%99) | N/A |
-| 15 | [אילן רמון](http://twitter.com/search?q=%d7%90%d7%99%d7%9c%d7%9f+%d7%a8%d7%9e%d7%95%d7%9f) | N/A |
-| 16 | [שר החינוך](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
-| 17 | [שוחד מיני](http://twitter.com/search?q=%d7%a9%d7%95%d7%97%d7%93+%d7%9e%d7%99%d7%a0%d7%99) | N/A |
-| 18 | [המליץ עליה](http://twitter.com/search?q=%d7%94%d7%9e%d7%9c%d7%99%d7%a5+%d7%a2%d7%9c%d7%99%d7%94) | N/A |
-| 19 | [עבריין מין](http://twitter.com/search?q=%d7%a2%d7%91%d7%a8%d7%99%d7%99%d7%9f+%d7%9e%d7%99%d7%9f) | N/A |
+| 12 | [פיגוע דריסה](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%93%d7%a8%d7%99%d7%a1%d7%94) | N/A |
+| 13 | [ד אבי](http://twitter.com/search?q=%d7%93+%d7%90%d7%91%d7%99) | N/A |
+| 14 | [עבריין מין](http://twitter.com/search?q=%d7%a2%d7%91%d7%a8%d7%99%d7%99%d7%9f+%d7%9e%d7%99%d7%9f) | N/A |
+| 15 | [גיא פלג](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%a4%d7%9c%d7%92) | N/A |
+| 16 | [אילן רמון](http://twitter.com/search?q=%d7%90%d7%99%d7%9c%d7%9f+%d7%a8%d7%9e%d7%95%d7%9f) | N/A |
+| 17 | [עם אבי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%91%d7%99) | N/A |
+| 18 | [שר החינוך](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
+| 19 | [שוחד מיני](http://twitter.com/search?q=%d7%a9%d7%95%d7%97%d7%93+%d7%9e%d7%99%d7%a0%d7%99) | N/A |
 | 20 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
-| 21 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
-| 22 | [כתב אישום](http://twitter.com/search?q=%d7%9b%d7%aa%d7%91+%d7%90%d7%99%d7%a9%d7%95%d7%9d) | N/A |
-| 23 | [עורכת דין](http://twitter.com/search?q=%d7%a2%d7%95%d7%a8%d7%9b%d7%aa+%d7%93%d7%99%d7%9f) | N/A |
-| 24 | [דן מרגלית](http://twitter.com/search?q=%d7%93%d7%9f+%d7%9e%d7%a8%d7%92%d7%9c%d7%99%d7%aa) | N/A |
-| 25 | [סוטה מין](http://twitter.com/search?q=%d7%a1%d7%95%d7%98%d7%94+%d7%9e%d7%99%d7%9f) | N/A |
-| 26 | [#פידטק](http://twitter.com/search?q=%23%d7%a4%d7%99%d7%93%d7%98%d7%a7) | N/A |
-| 27 | [רפואה שלמה](http://twitter.com/search?q=%d7%a8%d7%a4%d7%95%d7%90%d7%94+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 28 | [מחיר פוליטי](http://twitter.com/search?q=%d7%9e%d7%97%d7%99%d7%a8+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
-| 29 | [אסי עזר](http://twitter.com/search?q=%d7%90%d7%a1%d7%99+%d7%a2%d7%96%d7%a8) | N/A |
+| 21 | [המליץ עליה](http://twitter.com/search?q=%d7%94%d7%9e%d7%9c%d7%99%d7%a5+%d7%a2%d7%9c%d7%99%d7%94) | N/A |
+| 22 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
+| 23 | [עם מטריה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9e%d7%98%d7%a8%d7%99%d7%94) | N/A |
+| 24 | [רפואה שלמה](http://twitter.com/search?q=%d7%a8%d7%a4%d7%95%d7%90%d7%94+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 25 | [דן מרגלית](http://twitter.com/search?q=%d7%93%d7%9f+%d7%9e%d7%a8%d7%92%d7%9c%d7%99%d7%aa) | N/A |
+| 26 | [סוטה מין](http://twitter.com/search?q=%d7%a1%d7%95%d7%98%d7%94+%d7%9e%d7%99%d7%9f) | N/A |
+| 27 | [מחיר פוליטי](http://twitter.com/search?q=%d7%9e%d7%97%d7%99%d7%a8+%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99) | N/A |
+| 28 | [#פידטק](http://twitter.com/search?q=%23%d7%a4%d7%99%d7%93%d7%98%d7%a7) | N/A |
+| 29 | [כתב אישום](http://twitter.com/search?q=%d7%9b%d7%aa%d7%91+%d7%90%d7%99%d7%a9%d7%95%d7%9d) | N/A |
 | 30 | [#CybertechGlobal](http://twitter.com/search?q=%23CybertechGlobal) | N/A |
 | 31 | [דוד ביטן](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%91%d7%99%d7%98%d7%9f) | N/A |
 | 32 | [רות דוד](http://twitter.com/search?q=%d7%a8%d7%95%d7%aa+%d7%93%d7%95%d7%93) | N/A |
-| 33 | [יוסף חדאד](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%a3+%d7%97%d7%93%d7%90%d7%93) | N/A |
-| 34 | [של הפלסטינים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a4%d7%9c%d7%a1%d7%98%d7%99%d7%a0%d7%99%d7%9d) | N/A |
-| 35 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 36 | [נפתלי בנט](http://twitter.com/search?q=%d7%a0%d7%a4%d7%aa%d7%9c%d7%99+%d7%91%d7%a0%d7%98) | N/A |
-| 37 | [הרב טאו](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%98%d7%90%d7%95) | N/A |
-| 38 | [איזה כיף](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%9b%d7%99%d7%a3) | N/A |
-| 39 | [שופט מרוקאי](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98+%d7%9e%d7%a8%d7%95%d7%a7%d7%90%d7%99) | N/A |
-| 40 | [ר ההסתדרות](http://twitter.com/search?q=%d7%a8+%d7%94%d7%94%d7%a1%d7%aa%d7%93%d7%a8%d7%95%d7%aa) | N/A |
-| 41 | [השני של](http://twitter.com/search?q=%d7%94%d7%a9%d7%a0%d7%99+%d7%a9%d7%9c) | N/A |
-| 42 | [של רוטמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
-| 43 | [לכל מקום](http://twitter.com/search?q=%d7%9c%d7%9b%d7%9c+%d7%9e%d7%a7%d7%95%d7%9d) | N/A |
-| 44 | [פורום קוהלת](http://twitter.com/search?q=%d7%a4%d7%95%d7%a8%d7%95%d7%9d+%d7%a7%d7%95%d7%94%d7%9c%d7%aa) | N/A |
-| 45 | [מס נטפליקס](http://twitter.com/search?q=%d7%9e%d7%a1+%d7%a0%d7%98%d7%a4%d7%9c%d7%99%d7%a7%d7%a1) | N/A |
-| 46 | [ראש לשכה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9c%d7%a9%d7%9b%d7%94) | N/A |
-| 47 | [הפרת אמונים](http://twitter.com/search?q=%d7%94%d7%a4%d7%a8%d7%aa+%d7%90%d7%9e%d7%95%d7%a0%d7%99%d7%9d) | N/A |
-| 48 | [טיסה נעימה](http://twitter.com/search?q=%d7%98%d7%99%d7%a1%d7%94+%d7%a0%d7%a2%d7%99%d7%9e%d7%94) | N/A |
-| 49 | [אלדד יניב](http://twitter.com/search?q=%d7%90%d7%9c%d7%93%d7%93+%d7%99%d7%a0%d7%99%d7%91) | N/A |
-| 50 | [של כרמל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9b%d7%a8%d7%9e%d7%9c) | N/A |
+| 33 | [עורכת דין](http://twitter.com/search?q=%d7%a2%d7%95%d7%a8%d7%9b%d7%aa+%d7%93%d7%99%d7%9f) | N/A |
+| 34 | [יוסף חדאד](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%a3+%d7%97%d7%93%d7%90%d7%93) | N/A |
+| 35 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 36 | [אסי עזר](http://twitter.com/search?q=%d7%90%d7%a1%d7%99+%d7%a2%d7%96%d7%a8) | N/A |
+| 37 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 38 | [שלו שווה](http://twitter.com/search?q=%d7%a9%d7%9c%d7%95+%d7%a9%d7%95%d7%95%d7%94) | N/A |
+| 39 | [נפתלי בנט](http://twitter.com/search?q=%d7%a0%d7%a4%d7%aa%d7%9c%d7%99+%d7%91%d7%a0%d7%98) | N/A |
+| 40 | [הרב טאו](http://twitter.com/search?q=%d7%94%d7%a8%d7%91+%d7%98%d7%90%d7%95) | N/A |
+| 41 | [טיסה נעימה](http://twitter.com/search?q=%d7%98%d7%99%d7%a1%d7%94+%d7%a0%d7%a2%d7%99%d7%9e%d7%94) | N/A |
+| 42 | [איזה כיף](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%9b%d7%99%d7%a3) | N/A |
+| 43 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 44 | [שלמה מעוז](http://twitter.com/search?q=%d7%a9%d7%9c%d7%9e%d7%94+%d7%9e%d7%a2%d7%95%d7%96) | N/A |
+| 45 | [שופט מרוקאי](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98+%d7%9e%d7%a8%d7%95%d7%a7%d7%90%d7%99) | N/A |
+| 46 | [של רוטמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
+| 47 | [לכל מקום](http://twitter.com/search?q=%d7%9c%d7%9b%d7%9c+%d7%9e%d7%a7%d7%95%d7%9d) | N/A |
+| 48 | [של ילדים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%9c%d7%93%d7%99%d7%9d) | N/A |
+| 49 | [מס נטפליקס](http://twitter.com/search?q=%d7%9e%d7%a1+%d7%a0%d7%98%d7%a4%d7%9c%d7%99%d7%a7%d7%a1) | N/A |
+| 50 | [יורד גשם](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%93+%d7%92%d7%a9%d7%9d) | N/A |
 
 
 

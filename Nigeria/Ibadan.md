@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-02-01 14:17:07 UTC`
+📆 Last Updated: `2023-02-01 15:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 8 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 9 | [#iboflagoff](http://twitter.com/search?q=%23iboflagoff) | N/A |
 | 10 | [Jorginho to Arsenal](http://twitter.com/search?q=Jorginho+to+Arsenal) | Jorginho to Arsenal is a phrase used to refer to the potential transfer of Italian midfielder Jorginho from Chelsea Football Club to Arsenal Football Club. It is a phrase used by fans and media outlets to speculate on the possibility of the transfer. |
-| 11 | [NO PHYNA NO BUZZ](http://twitter.com/search?q=NO+PHYNA+NO+BUZZ) | N/A |
-| 12 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 13 | [PHYNA OUR PRIDE](http://twitter.com/search?q=PHYNA+OUR+PRIDE) | N/A |
-| 14 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 15 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 16 | [Toni Tones](http://twitter.com/search?q=Toni+Tones) | Toni Tones is the stage name of Nigerian singer, songwriter, and producer, Atim Ukoh. Her music is a blend of Afro-pop, R&B, and soul. The name "Toni Tones" is derived from her real name Atim and her love for music. In English, it means "Atim's musical tones". |
+| 11 | [No Cash](http://twitter.com/search?q=No+Cash) | N/A |
+| 12 | [NO PHYNA NO BUZZ](http://twitter.com/search?q=NO+PHYNA+NO+BUZZ) | N/A |
+| 13 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 14 | [toni tones](http://twitter.com/search?q=toni+tones) | N/A |
+| 15 | [PHYNA OUR PRIDE](http://twitter.com/search?q=PHYNA+OUR+PRIDE) | N/A |
+| 16 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 | 17 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
 | 18 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 19 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 20 | [No Cash](http://twitter.com/search?q=No+Cash) | N/A |
-| 21 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
-| 22 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
-| 23 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
-| 24 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 25 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
+| 19 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 20 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
+| 21 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
+| 22 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 23 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 24 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
+| 25 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
 | 26 | [PHYNA THE CLOUT](http://twitter.com/search?q=PHYNA+THE+CLOUT) | N/A |
 | 27 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
-| 28 | [El Rufai](http://twitter.com/search?q=El+Rufai) | N/A |
-| 29 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 30 | [MAN LIKE YEMI CREGX](http://twitter.com/search?q=MAN+LIKE+YEMI+CREGX) | N/A |
-| 31 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
+| 28 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 29 | [Osas](http://twitter.com/search?q=Osas) | N/A |
+| 30 | [El Rufai](http://twitter.com/search?q=El+Rufai) | N/A |
+| 31 | [MAN LIKE YEMI CREGX](http://twitter.com/search?q=MAN+LIKE+YEMI+CREGX) | N/A |
 | 32 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
 | 33 | [May February](http://twitter.com/search?q=May+February) | N/A |
 | 34 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
-| 35 | [Arteta and Edu](http://twitter.com/search?q=Arteta+and+Edu) | N/A |
-| 36 | [Okon](http://twitter.com/search?q=Okon) | N/A |
-| 37 | [Todd](http://twitter.com/search?q=Todd) | N/A |
-| 38 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
-| 39 | [stabilizer](http://twitter.com/search?q=stabilizer) | N/A |
-| 40 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 41 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 42 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 43 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 44 | [Courage](http://twitter.com/search?q=Courage) | N/A |
-| 45 | [Asiwaju](http://twitter.com/search?q=Asiwaju) | N/A |
-| 46 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
-| 47 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
-| 48 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 49 | [Osibanjo](http://twitter.com/search?q=Osibanjo) | N/A |
-| 50 | [Mubi](http://twitter.com/search?q=Mubi) | N/A |
+| 35 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 36 | [Arteta and Edu](http://twitter.com/search?q=Arteta+and+Edu) | N/A |
+| 37 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
+| 38 | [Todd](http://twitter.com/search?q=Todd) | N/A |
+| 39 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
+| 40 | [Stabilizer](http://twitter.com/search?q=Stabilizer) | N/A |
+| 41 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 42 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 43 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 44 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
+| 45 | [Courage](http://twitter.com/search?q=Courage) | N/A |
+| 46 | [WE LOVE SHELLA](http://twitter.com/search?q=WE+LOVE+SHELLA) | N/A |
+| 47 | [UNBREAKABLE SHELLA](http://twitter.com/search?q=UNBREAKABLE+SHELLA) | N/A |
+| 48 | [Okon](http://twitter.com/search?q=Okon) | N/A |
+| 49 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
+| 50 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
 
 
 

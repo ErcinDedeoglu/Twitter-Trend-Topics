@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-01 14:17:32 UTC`
+📆 Last Updated: `2023-02-01 15:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Indonesia
 | 4 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 5 | [The Next Galaxy](http://twitter.com/search?q=The+Next+Galaxy) | The Next Galaxy is a term used to refer to the next generation of Samsung Galaxy smartphones. It is used to describe the latest and greatest in Samsung's line of mobile devices, which are known for their cutting-edge technology and features. |
 | 6 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
-| 7 | [gudeg](http://twitter.com/search?q=gudeg) | N/A |
+| 7 | [#BABYMONSTER_PHARITA](http://twitter.com/search?q=%23BABYMONSTER_PHARITA) | N/A |
 | 8 | [#Milad2thBSI](http://twitter.com/search?q=%23Milad2thBSI) | N/A |
-| 9 | [giveaway samsung galaxy](http://twitter.com/search?q=giveaway+samsung+galaxy) | N/A |
-| 10 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 11 | [Promo Gopay](http://twitter.com/search?q=Promo+Gopay) | N/A |
-| 12 | [Tipsal](http://twitter.com/search?q=Tipsal) | N/A |
-| 13 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
-| 14 | [Lemper](http://twitter.com/search?q=Lemper) | N/A |
-| 15 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
+| 9 | [Tipsal](http://twitter.com/search?q=Tipsal) | N/A |
+| 10 | [Gudeg](http://twitter.com/search?q=Gudeg) | N/A |
+| 11 | [Giveaway Samsung Galaxy](http://twitter.com/search?q=Giveaway+Samsung+Galaxy) | N/A |
+| 12 | [Promo Gopay](http://twitter.com/search?q=Promo+Gopay) | N/A |
+| 13 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 14 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
+| 15 | [Belanja Di Lazada 2.2 Sale](http://twitter.com/search?q=Belanja+Di+Lazada+2.2+Sale) | N/A |
 | 16 | [SuperM](http://twitter.com/search?q=SuperM) | SuperM is a South Korean boy band formed by SM Entertainment in 2019. The group consists of seven members from four different SM Entertainment boy bands: SHINee's Taemin, EXO's Baekhyun and Kai, and NCT 127's Taeyong, Mark, Lucas, and Ten. The name SuperM stands for "Super Moment" or "Super Multi", representing the group's aim to be a super-group that transcends the boundaries of music genres. |
-| 17 | [Astronot](http://twitter.com/search?q=Astronot) | N/A |
-| 18 | [Silverqueen](http://twitter.com/search?q=Silverqueen) | N/A |
-| 19 | [Rendang](http://twitter.com/search?q=Rendang) | N/A |
-| 20 | [Nyapu](http://twitter.com/search?q=Nyapu) | N/A |
-| 21 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
-| 22 | [Ketoprak](http://twitter.com/search?q=Ketoprak) | N/A |
+| 17 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
+| 18 | [Astronot](http://twitter.com/search?q=Astronot) | N/A |
+| 19 | [Lemper](http://twitter.com/search?q=Lemper) | N/A |
+| 20 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
+| 21 | [Silverqueen](http://twitter.com/search?q=Silverqueen) | N/A |
+| 22 | [Nyapu](http://twitter.com/search?q=Nyapu) | N/A |
 | 23 | [Siliwangi](http://twitter.com/search?q=Siliwangi) | N/A |
-| 24 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
-| 25 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 26 | [Taichan](http://twitter.com/search?q=Taichan) | N/A |
-| 27 | [Juni 2022](http://twitter.com/search?q=Juni+2022) | N/A |
-| 28 | [#DirtyLaundryEP5](http://twitter.com/search?q=%23DirtyLaundryEP5) | N/A |
-| 29 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
-| 30 | [Pros](http://twitter.com/search?q=Pros) | N/A |
-| 31 | [Dipilihin](http://twitter.com/search?q=Dipilihin) | N/A |
-| 32 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 33 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 34 | [Train to Busan](http://twitter.com/search?q=Train+to+Busan) | N/A |
-| 35 | [Leeteuk](http://twitter.com/search?q=Leeteuk) | N/A |
-| 36 | [Sate](http://twitter.com/search?q=Sate) | N/A |
-| 37 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 38 | [Surya Paloh](http://twitter.com/search?q=Surya+Paloh) | N/A |
-| 39 | [Golkar](http://twitter.com/search?q=Golkar) | N/A |
-| 40 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
-| 41 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 24 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 25 | [Ketoprak](http://twitter.com/search?q=Ketoprak) | N/A |
+| 26 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 27 | [Rendang](http://twitter.com/search?q=Rendang) | N/A |
+| 28 | [Pros](http://twitter.com/search?q=Pros) | N/A |
+| 29 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
+| 30 | [Martabak](http://twitter.com/search?q=Martabak) | N/A |
+| 31 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
+| 32 | [taichan](http://twitter.com/search?q=taichan) | N/A |
+| 33 | [Dipilihin](http://twitter.com/search?q=Dipilihin) | N/A |
+| 34 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 35 | [Sate](http://twitter.com/search?q=Sate) | N/A |
+| 36 | [Surya Paloh](http://twitter.com/search?q=Surya+Paloh) | N/A |
+| 37 | [golkar](http://twitter.com/search?q=golkar) | N/A |
+| 38 | [Pempek](http://twitter.com/search?q=Pempek) | N/A |
+| 39 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 40 | [Train to Busan](http://twitter.com/search?q=Train+to+Busan) | N/A |
+| 41 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
 | 42 | [Padang](http://twitter.com/search?q=Padang) | N/A |
-| 43 | [Kacang](http://twitter.com/search?q=Kacang) | N/A |
-| 44 | [Keju](http://twitter.com/search?q=Keju) | N/A |
-| 45 | [Rasya](http://twitter.com/search?q=Rasya) | N/A |
+| 43 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 44 | [Kacang](http://twitter.com/search?q=Kacang) | N/A |
+| 45 | [Keju](http://twitter.com/search?q=Keju) | N/A |
 | 46 | [Jihyo](http://twitter.com/search?q=Jihyo) | N/A |
-| 47 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
-| 48 | [#TANMANTrailer](http://twitter.com/search?q=%23TANMANTrailer) | N/A |
-| 49 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 50 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
+| 47 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 48 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
+| 49 | [#DirtyLaundryEP5](http://twitter.com/search?q=%23DirtyLaundryEP5) | N/A |
+| 50 | [#TANMANTrailer](http://twitter.com/search?q=%23TANMANTrailer) | N/A |
 
 
 
