@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-01 18:16:57 UTC`
+📆 Last Updated: `2023-02-01 19:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 2 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
 | 3 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 4 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 5 | [Garut](http://twitter.com/search?q=Garut) | N/A |
-| 6 | [Benny Dollo](http://twitter.com/search?q=Benny+Dollo) | N/A |
-| 7 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
-| 8 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
-| 9 | [Bendol](http://twitter.com/search?q=Bendol) | N/A |
-| 10 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
-| 11 | [#BABYMONSTER_PHARITA](http://twitter.com/search?q=%23BABYMONSTER_PHARITA) | N/A |
-| 12 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 4 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
+| 5 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 6 | [Garut](http://twitter.com/search?q=Garut) | N/A |
+| 7 | [Benny Dollo](http://twitter.com/search?q=Benny+Dollo) | N/A |
+| 8 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
+| 9 | [STILL LIFE](http://twitter.com/search?q=STILL+LIFE) | Still life is a type of artwork that focuses on inanimate objects, such as fruits, vegetables, flowers, and other everyday items. It is usually a two-dimensional painting or drawing that is composed of carefully arranged objects. The term still life comes from the Dutch phrase “stilleven” which means “quiet life” or “calm life”. Still life artworks are often used to explore the beauty of everyday objects and to express the artist's creativity. |
+| 10 | [#BABYMONSTER_PHARITA](http://twitter.com/search?q=%23BABYMONSTER_PHARITA) | N/A |
+| 11 | [Bendol](http://twitter.com/search?q=Bendol) | N/A |
+| 12 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
 | 13 | [#TheInterestOfLoveEp13](http://twitter.com/search?q=%23TheInterestOfLoveEp13) | N/A |
-| 14 | [UNHAR](http://twitter.com/search?q=UNHAR) | N/A |
-| 15 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
-| 16 | [Micellar](http://twitter.com/search?q=Micellar) | N/A |
-| 17 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 18 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 19 | [Kenceng](http://twitter.com/search?q=Kenceng) | N/A |
-| 20 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | N/A |
-| 21 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 22 | [The Next Galaxy](http://twitter.com/search?q=The+Next+Galaxy) | The Next Galaxy is a term used to refer to the next generation of Samsung Galaxy smartphones. It is used to describe the latest and greatest in Samsung's line of mobile devices, which are known for their cutting-edge technology and features. |
-| 23 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 24 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
-| 25 | [Gudeg](http://twitter.com/search?q=Gudeg) | N/A |
-| 26 | [Silverqueen](http://twitter.com/search?q=Silverqueen) | N/A |
-| 27 | [Belanja Di Lazada 2.2 Sale](http://twitter.com/search?q=Belanja+Di+Lazada+2.2+Sale) | N/A |
+| 14 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
+| 15 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 16 | [UNHAR](http://twitter.com/search?q=UNHAR) | N/A |
+| 17 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
+| 18 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 19 | [Micellar](http://twitter.com/search?q=Micellar) | N/A |
+| 20 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
+| 21 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 22 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 23 | [Silverqueen](http://twitter.com/search?q=Silverqueen) | N/A |
+| 24 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 25 | [The Next Galaxy](http://twitter.com/search?q=The+Next+Galaxy) | The Next Galaxy is a term used to refer to the next generation of Samsung Galaxy smartphones. It is used to describe the latest and greatest in Samsung's line of mobile devices, which are known for their cutting-edge technology and features. |
+| 26 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
+| 27 | [Gudeg](http://twitter.com/search?q=Gudeg) | N/A |
 | 28 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
-| 29 | [Gannibal](http://twitter.com/search?q=Gannibal) | N/A |
-| 30 | [SuperM](http://twitter.com/search?q=SuperM) | SuperM is a South Korean boy band formed by SM Entertainment in 2019. The group consists of seven members from four different SM Entertainment boy bands: SHINee's Taemin, EXO's Baekhyun and Kai, and NCT 127's Taeyong, Mark, Lucas, and Ten. The name SuperM stands for "Super Moment" or "Super Multi", representing the group's aim to be a super-group that transcends the boundaries of music genres. |
-| 31 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 32 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 33 | [Pros](http://twitter.com/search?q=Pros) | N/A |
-| 34 | [BMKG](http://twitter.com/search?q=BMKG) | N/A |
-| 35 | [Nyapu](http://twitter.com/search?q=Nyapu) | N/A |
-| 36 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 37 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
-| 38 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 39 | [Taichan](http://twitter.com/search?q=Taichan) | N/A |
-| 40 | [Ketoprak](http://twitter.com/search?q=Ketoprak) | N/A |
-| 41 | [Sate](http://twitter.com/search?q=Sate) | N/A |
-| 42 | [Lemper](http://twitter.com/search?q=Lemper) | N/A |
-| 43 | [Rendang](http://twitter.com/search?q=Rendang) | N/A |
-| 44 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 45 | [WayV](http://twitter.com/search?q=WayV) | N/A |
-| 46 | [Golkar](http://twitter.com/search?q=Golkar) | N/A |
-| 47 | [#SECONDWIND_D4](http://twitter.com/search?q=%23SECONDWIND_D4) | N/A |
-| 48 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
-| 49 | [#BSS_Fighting](http://twitter.com/search?q=%23BSS_Fighting) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 31 | [Pros](http://twitter.com/search?q=Pros) | N/A |
+| 32 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 33 | [Ketoprak](http://twitter.com/search?q=Ketoprak) | N/A |
+| 34 | [Lemper](http://twitter.com/search?q=Lemper) | N/A |
+| 35 | [Rendang](http://twitter.com/search?q=Rendang) | N/A |
+| 36 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 37 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 38 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
+| 39 | [#BSS_Fighting](http://twitter.com/search?q=%23BSS_Fighting) | N/A |
 
 
 

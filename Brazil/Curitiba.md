@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-02-01 18:16:48 UTC`
+📆 Last Updated: `2023-02-01 19:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 2 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 1 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 2 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 3 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 | 4 | [Ambev](http://twitter.com/search?q=Ambev) | Ambev is a Brazilian brewing company. It is the largest brewer in Latin America and one of the top five brewers in the world. The name Ambev is an acronym for "AmBev - Companhia de Bebidas das Americas". In English, this translates to "The Beverage Company of the Americas". |
-| 5 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 5 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
 | 6 | [#mosquitofofoqueiro](http://twitter.com/search?q=%23mosquitofofoqueiro) | N/A |
-| 7 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
+| 7 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
 | 8 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 9 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 10 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 11 | [#REVERSA](http://twitter.com/search?q=%23REVERSA) | N/A |
-| 12 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 13 | [Fenapaf](http://twitter.com/search?q=Fenapaf) | N/A |
-| 14 | [O BAM](http://twitter.com/search?q=O+BAM) | N/A |
-| 15 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 16 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | N/A |
-| 17 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 18 | [Aras](http://twitter.com/search?q=Aras) | Aras is a Persian word meaning "brilliance" or "splendor". It is often used to describe someone or something that is particularly impressive or beautiful. |
-| 19 | [Rosa Weber](http://twitter.com/search?q=Rosa+Weber) | N/A |
-| 20 | [OBX TRAILER TOMORROW](http://twitter.com/search?q=OBX+TRAILER+TOMORROW) | N/A |
-| 21 | [Churrasco](http://twitter.com/search?q=Churrasco) | N/A |
-| 22 | [Desconforto](http://twitter.com/search?q=Desconforto) | N/A |
-| 23 | [Trento](http://twitter.com/search?q=Trento) | N/A |
-| 24 | [Fora Lula](http://twitter.com/search?q=Fora+Lula) | N/A |
-| 25 | [Unesp](http://twitter.com/search?q=Unesp) | N/A |
-| 26 | [João Rock](http://twitter.com/search?q=Jo%c3%a3o+Rock) | N/A |
-| 27 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
+| 9 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 10 | [#GalaxyUnpacked](http://twitter.com/search?q=%23GalaxyUnpacked) | N/A |
+| 11 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
+| 12 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 13 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 14 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 15 | [Fenapaf](http://twitter.com/search?q=Fenapaf) | N/A |
+| 16 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 17 | [Galaxy S23](http://twitter.com/search?q=Galaxy+S23) | N/A |
+| 18 | [Fora Lula](http://twitter.com/search?q=Fora+Lula) | N/A |
+| 19 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 20 | [Aras](http://twitter.com/search?q=Aras) | Aras is a Persian word meaning "brilliance" or "splendor". It is often used to describe someone or something that is particularly impressive or beautiful. |
+| 21 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
+| 22 | [Trento](http://twitter.com/search?q=Trento) | N/A |
+| 23 | [Auckland City](http://twitter.com/search?q=Auckland+City) | N/A |
+| 24 | [OBX TRAILER TOMORROW](http://twitter.com/search?q=OBX+TRAILER+TOMORROW) | N/A |
+| 25 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 26 | [O BAM](http://twitter.com/search?q=O+BAM) | N/A |
+| 27 | [Rosa Weber](http://twitter.com/search?q=Rosa+Weber) | N/A |
 | 28 | [Stremio](http://twitter.com/search?q=Stremio) | N/A |
-| 29 | [Zé Pilintra](http://twitter.com/search?q=Z%c3%a9+Pilintra) | N/A |
-| 30 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 31 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 32 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 33 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 34 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 35 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 36 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 37 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
-| 38 | [Celtinha](http://twitter.com/search?q=Celtinha) | N/A |
-| 39 | [Carol Biazin](http://twitter.com/search?q=Carol+Biazin) | N/A |
-| 40 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
-| 41 | [Publicitário](http://twitter.com/search?q=Publicit%c3%a1rio) | N/A |
-| 42 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 43 | [Assembleia Legislativa](http://twitter.com/search?q=Assembleia+Legislativa) | N/A |
-| 44 | [yukhei](http://twitter.com/search?q=yukhei) | N/A |
-| 45 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 46 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 47 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 48 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
-| 49 | [Procon](http://twitter.com/search?q=Procon) | N/A |
-| 50 | [Mesa Diretora](http://twitter.com/search?q=Mesa+Diretora) | N/A |
+| 29 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
+| 30 | [Unesp](http://twitter.com/search?q=Unesp) | N/A |
+| 31 | [Assembleia Legislativa](http://twitter.com/search?q=Assembleia+Legislativa) | N/A |
+| 32 | [Churrasco](http://twitter.com/search?q=Churrasco) | N/A |
+| 33 | [Celtinha](http://twitter.com/search?q=Celtinha) | N/A |
+| 34 | [Zé Pilintra](http://twitter.com/search?q=Z%c3%a9+Pilintra) | N/A |
+| 35 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 36 | [Desconforto](http://twitter.com/search?q=Desconforto) | N/A |
+| 37 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 38 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
+| 39 | [João Rock](http://twitter.com/search?q=Jo%c3%a3o+Rock) | N/A |
+| 40 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 41 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 42 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 43 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 44 | [Amstel](http://twitter.com/search?q=Amstel) | N/A |
+| 45 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 46 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 47 | [Congresso Nacional](http://twitter.com/search?q=Congresso+Nacional) | Congresso Nacional is the name of the Brazilian national legislature. It is composed of two chambers, the Chamber of Deputies and the Federal Senate. In English, Congresso Nacional translates to National Congress. |
+| 48 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 49 | [Pierce The Veil](http://twitter.com/search?q=Pierce+The+Veil) | N/A |
+| 50 | [Publicitário](http://twitter.com/search?q=Publicit%c3%a1rio) | N/A |
 
 
 
