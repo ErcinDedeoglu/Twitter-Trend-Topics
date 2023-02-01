@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-01 05:16:15 UTC`
+📆 Last Updated: `2023-02-01 06:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Metromall](http://twitter.com/search?q=Metromall) | N/A |
+| 1 | [Metro Mall](http://twitter.com/search?q=Metro+Mall) | N/A |
 | 2 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
 | 3 | [Rubén Blades](http://twitter.com/search?q=Rub%c3%a9n+Blades) | N/A |
 | 4 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for Panama
 | 10 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
 | 11 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
 | 12 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 13 | [Canal de Panamá](http://twitter.com/search?q=Canal+de+Panam%c3%a1) | N/A |
+| 13 | [#panamaendirecto](http://twitter.com/search?q=%23panamaendirecto) | N/A |
 | 14 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
 | 15 | [Panameña](http://twitter.com/search?q=Paname%c3%b1a) | N/A |
 | 16 | [rómulo roux](http://twitter.com/search?q=r%c3%b3mulo+roux) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Panama
 | 32 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 | 33 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
 | 34 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 35 | [#ArmasPorBonos](http://twitter.com/search?q=%23ArmasPorBonos) | N/A |
+| 35 | [#armasporbonos](http://twitter.com/search?q=%23armasporbonos) | N/A |
 | 36 | [Rosita](http://twitter.com/search?q=Rosita) | N/A |
 | 37 | [crispiano adames](http://twitter.com/search?q=crispiano+adames) | N/A |
 | 38 | [Nito](http://twitter.com/search?q=Nito) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Panama
 | 40 | [el chorrillo](http://twitter.com/search?q=el+chorrillo) | N/A |
 | 41 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
 | 42 | [ensa](http://twitter.com/search?q=ensa) | N/A |
-| 43 | [taboga](http://twitter.com/search?q=taboga) | N/A |
+| 43 | [Taboga](http://twitter.com/search?q=Taboga) | N/A |
 | 44 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
 | 45 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
 | 46 | [meduca](http://twitter.com/search?q=meduca) | N/A |
-| 47 | [Pacificando Mi Barrio](http://twitter.com/search?q=Pacificando+Mi+Barrio) | N/A |
+| 47 | [pacificando mi barrio](http://twitter.com/search?q=pacificando+mi+barrio) | N/A |
 | 48 | [Puente de las Américas](http://twitter.com/search?q=Puente+de+las+Am%c3%a9ricas) | N/A |
-| 49 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
-| 50 | [Nadia Ferreira](http://twitter.com/search?q=Nadia+Ferreira) | N/A |
+| 49 | [Nadia Ferreira](http://twitter.com/search?q=Nadia+Ferreira) | N/A |
+| 50 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-01 05:16:16 UTC`
+📆 Last Updated: `2023-02-01 06:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,18 +17,18 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 2 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 3 | [aromat](http://twitter.com/search?q=aromat) | N/A |
-| 4 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 7 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
-| 8 | [#vaud](http://twitter.com/search?q=%23vaud) | N/A |
-| 9 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
-| 10 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 11 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
-| 12 | [berne](http://twitter.com/search?q=berne) | N/A |
-| 13 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 14 | [unterstützung](http://twitter.com/search?q=unterst%c3%bctzung) | N/A |
+| 3 | [Aromat](http://twitter.com/search?q=Aromat) | N/A |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 6 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
+| 7 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 8 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 9 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 10 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
+| 11 | [berne](http://twitter.com/search?q=berne) | N/A |
+| 12 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
+| 13 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 14 | [#luzern](http://twitter.com/search?q=%23luzern) | N/A |
 | 15 | [Satz](http://twitter.com/search?q=Satz) | N/A |
 | 16 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
 | 17 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for Switzerland
 | 26 | [Energie](http://twitter.com/search?q=Energie) | N/A |
 | 27 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
 | 28 | [Sorgen](http://twitter.com/search?q=Sorgen) | N/A |
-| 29 | [müll](http://twitter.com/search?q=m%c3%bcll) | N/A |
-| 30 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 31 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 32 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 33 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 34 | [Effectivement](http://twitter.com/search?q=Effectivement) | N/A |
-| 35 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 36 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 37 | [Regel](http://twitter.com/search?q=Regel) | N/A |
-| 38 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 39 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
-| 40 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 41 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 42 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 43 | [Typen](http://twitter.com/search?q=Typen) | N/A |
-| 44 | [Katze](http://twitter.com/search?q=Katze) | N/A |
-| 45 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 48 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 49 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
-| 50 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 29 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
+| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 31 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 32 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 33 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 34 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 35 | [Effectivement](http://twitter.com/search?q=Effectivement) | N/A |
+| 36 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 37 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 38 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 39 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 40 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
+| 41 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 42 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 43 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 44 | [Typen](http://twitter.com/search?q=Typen) | N/A |
+| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 46 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 49 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 50 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
 
 
 

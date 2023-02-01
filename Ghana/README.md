@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-01 05:16:12 UTC`
+📆 Last Updated: `2023-02-01 06:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Ghana
 | 11 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
 | 12 | [Accept](http://twitter.com/search?q=Accept) | N/A |
 | 13 | [Kamaldeen Sulemana](http://twitter.com/search?q=Kamaldeen+Sulemana) | N/A |
-| 14 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 15 | [Popcorn](http://twitter.com/search?q=Popcorn) | N/A |
-| 16 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 17 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 14 | [Popcorn](http://twitter.com/search?q=Popcorn) | N/A |
+| 15 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 16 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 17 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
 | 18 | [Todd](http://twitter.com/search?q=Todd) | N/A |
-| 19 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 19 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
 | 20 | [Sanitizer](http://twitter.com/search?q=Sanitizer) | N/A |
-| 21 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
-| 22 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 23 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 24 | [Kwesi Arthur](http://twitter.com/search?q=Kwesi+Arthur) | N/A |
-| 25 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 26 | [#AlphaHour](http://twitter.com/search?q=%23AlphaHour) | N/A |
-| 27 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 28 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 29 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 30 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 31 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 32 | [#donkomi](http://twitter.com/search?q=%23donkomi) | N/A |
-| 33 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
-| 34 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 35 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
-| 36 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
-| 37 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
-| 38 | [Bongo](http://twitter.com/search?q=Bongo) | N/A |
-| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 40 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 41 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 42 | [Yaa Pono](http://twitter.com/search?q=Yaa+Pono) | N/A |
-| 43 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
-| 44 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 45 | [Welcome to Manchester United](http://twitter.com/search?q=Welcome+to+Manchester+United) | N/A |
-| 46 | [The Breakfast Club](http://twitter.com/search?q=The+Breakfast+Club) | N/A |
-| 47 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
-| 48 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 49 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 21 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 22 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 23 | [Kwesi Arthur](http://twitter.com/search?q=Kwesi+Arthur) | N/A |
+| 24 | [#alphahour](http://twitter.com/search?q=%23alphahour) | N/A |
+| 25 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 26 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 27 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 28 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 29 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 30 | [#donkomi](http://twitter.com/search?q=%23donkomi) | N/A |
+| 31 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 32 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 33 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
+| 34 | [TIELEMANS](http://twitter.com/search?q=TIELEMANS) | N/A |
+| 35 | [Bongo](http://twitter.com/search?q=Bongo) | N/A |
+| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 37 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 38 | [Holy Spirit](http://twitter.com/search?q=Holy+Spirit) | N/A |
+| 39 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 40 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 41 | [Yaa Pono](http://twitter.com/search?q=Yaa+Pono) | N/A |
+| 42 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 43 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 44 | [Welcome to Manchester United](http://twitter.com/search?q=Welcome+to+Manchester+United) | N/A |
+| 45 | [The Breakfast Club](http://twitter.com/search?q=The+Breakfast+Club) | N/A |
+| 46 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
+| 47 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 48 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 49 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 50 | [UEFA](http://twitter.com/search?q=UEFA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-01 05:15:55 UTC`
+📆 Last Updated: `2023-02-01 06:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 10 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
 | 11 | [جورجينهو](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d9%87%d9%88) | N/A |
 | 12 | [دارميان](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1%d9%85%d9%8a%d8%a7%d9%86) | دارميان is a Persian phrase meaning "both of us". |
-| 13 | [فيا الرياض](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 14 | [روي كوستا](http://twitter.com/search?q=%d8%b1%d9%88%d9%8a+%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | N/A |
+| 13 | [روي كوستا](http://twitter.com/search?q=%d8%b1%d9%88%d9%8a+%d9%83%d9%88%d8%b3%d8%aa%d8%a7) | N/A |
+| 14 | [الشعر العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 15 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
 | 16 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 17 | [الشعر العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 18 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 19 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 20 | [سالم الاحمدي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af%d9%8a) | N/A |
-| 21 | [ليبرون](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86) | N/A |
-| 22 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
-| 23 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
-| 24 | [عنا السوء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%b3%d9%88%d8%a1) | N/A |
-| 25 | [انزو](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d9%88) | N/A |
-| 26 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 27 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 28 | [الحلقه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 29 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 30 | [طلال مداح](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d9%85%d8%af%d8%a7%d8%ad) | طلال مداح is an Arabic phrase that translates to "praise the generous one". It is often used as a way to express gratitude and appreciation for someone's generosity. |
+| 17 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 18 | [غير كافي](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%83%d8%a7%d9%81%d9%8a) | N/A |
+| 19 | [الورد المنثور](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%ab%d9%88%d8%b1) | N/A |
+| 20 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
+| 21 | [سالم الاحمدي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af%d9%8a) | N/A |
+| 22 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
+| 23 | [انزو](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d9%88) | N/A |
+| 24 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 25 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 26 | [صبح علي](http://twitter.com/search?q=%d8%b5%d8%a8%d8%ad+%d8%b9%d9%84%d9%8a) | N/A |
+| 27 | [الحلقه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 28 | [طلال مداح](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d9%85%d8%af%d8%a7%d8%ad) | طلال مداح is an Arabic phrase that translates to "praise the generous one". It is often used as a way to express gratitude and appreciation for someone's generosity. |
+| 29 | [الاختبارات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 30 | [ابل باي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%84+%d8%a8%d8%a7%d9%8a) | N/A |
 | 31 | [الجهاز الطبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a) | الجهاز الطبي is a medical device in Arabic. In English, it means medical equipment or medical instrument. |
-| 32 | [ابل باي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%84+%d8%a8%d8%a7%d9%8a) | N/A |
+| 32 | [المهارات الثقافيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a%d9%87) | N/A |
 | 33 | [نيف فتح](http://twitter.com/search?q=%d9%86%d9%8a%d9%81+%d9%81%d8%aa%d8%ad) | N/A |
-| 34 | [صبح علي](http://twitter.com/search?q=%d8%b5%d8%a8%d8%ad+%d8%b9%d9%84%d9%8a) | N/A |
-| 35 | [شهر الحلوين](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%8a%d9%86) | N/A |
-| 36 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 34 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 35 | [بدر خلف](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%ae%d9%84%d9%81) | N/A |
+| 36 | [الالعاب التوعويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d8%aa%d9%88%d8%b9%d9%88%d9%8a%d9%87) | N/A |
 | 37 | [ابو لارا](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d8%a7%d8%b1%d8%a7) | N/A |
-| 38 | [بدر خلف](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%ae%d9%84%d9%81) | N/A |
-| 39 | [طريق الجامعه](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
-| 40 | [عمار الدار](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%b1) | N/A |
-| 41 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 42 | [المهارات الثقافيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a%d9%87) | N/A |
-| 43 | [جيمس بارك](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 44 | [المومنات الاحياء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1) | N/A |
-| 45 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 46 | [القطاعات العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 47 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 48 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
-| 49 | [Welcome to Saudi Arabia](http://twitter.com/search?q=Welcome+to+Saudi+Arabia) | N/A |
-| 50 | [نقاط البيع](http://twitter.com/search?q=%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b9) | N/A |
+| 38 | [الاجازات المطوله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d9%88%d9%84%d9%87) | N/A |
+| 39 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 40 | [جيمس بارك](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3+%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 41 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 42 | [القطاعات العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 43 | [Welcome to Saudi Arabia](http://twitter.com/search?q=Welcome+to+Saudi+Arabia) | N/A |
+| 44 | [نقاط البيع](http://twitter.com/search?q=%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b9) | N/A |
+| 45 | [جدول الضرب](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b6%d8%b1%d8%a8) | N/A |
+| 46 | [الخير اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 47 | [اللعب المالي النظيف](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%b8%d9%8a%d9%81) | N/A |
+| 48 | [شهر الحلوين](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%8a%d9%86) | N/A |
+| 49 | [الواتساب](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8) | N/A |
+| 50 | [شهر العظماء](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b9%d8%b8%d9%85%d8%a7%d8%a1) | N/A |
 
 
 

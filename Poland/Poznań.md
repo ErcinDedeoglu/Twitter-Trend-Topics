@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-01 05:15:37 UTC`
+📆 Last Updated: `2023-02-01 06:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,20 +17,20 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#theroseinwarsaw](http://twitter.com/search?q=%23theroseinwarsaw) | N/A |
 | 2 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
-| 3 | [wośp](http://twitter.com/search?q=wo%c5%9bp) | N/A |
-| 4 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
-| 5 | [#WILLAPLUS](http://twitter.com/search?q=%23WILLAPLUS) | N/A |
+| 3 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 4 | [#WILLAPLUS](http://twitter.com/search?q=%23WILLAPLUS) | N/A |
+| 5 | [#TheLastOfUsHBO](http://twitter.com/search?q=%23TheLastOfUsHBO) | #TheLastOfUsHBO is a hashtag used to promote the upcoming HBO series based on the popular video game The Last of Us. It is used to share news and updates about the show, as well as to generate excitement and anticipation for its release. |
 | 6 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 7 | [Roki](http://twitter.com/search?q=Roki) | N/A |
 | 8 | [skok stefczyka](http://twitter.com/search?q=skok+stefczyka) | N/A |
 | 9 | [maryla](http://twitter.com/search?q=maryla) | N/A |
 | 10 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Weszło](http://twitter.com/search?q=Wesz%c5%82o) | N/A |
-| 13 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 14 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 11 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
+| 12 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 13 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 15 | [haasa](http://twitter.com/search?q=haasa) | N/A |
-| 16 | [czarnka](http://twitter.com/search?q=czarnka) | N/A |
+| 16 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
 | 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 18 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 19 | [Jeremy Sochan](http://twitter.com/search?q=Jeremy+Sochan) | N/A |
@@ -39,8 +39,8 @@ This is top 50 for [Poland](</Poland>)
 | 22 | [owsiak](http://twitter.com/search?q=owsiak) | N/A |
 | 23 | [Sądzie Najwyższym](http://twitter.com/search?q=S%c4%85dzie+Najwy%c5%bcszym) | N/A |
 | 24 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 25 | [nitras](http://twitter.com/search?q=nitras) | N/A |
-| 26 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 25 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 26 | [nitrasa](http://twitter.com/search?q=nitrasa) | N/A |
 | 27 | [bayernie](http://twitter.com/search?q=bayernie) | N/A |
 | 28 | [nowym świecie](http://twitter.com/search?q=nowym+%c5%9bwiecie) | N/A |
 | 29 | [żoliborzu](http://twitter.com/search?q=%c5%bcoliborzu) | N/A |
