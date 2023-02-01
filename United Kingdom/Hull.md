@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-02-01 20:15:55 UTC`
+📆 Last Updated: `2023-02-01 21:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 2 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 3 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
-| 4 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 5 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
-| 6 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
-| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 8 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 1 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 2 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 3 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 4 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
+| 5 | [#SAvENG](http://twitter.com/search?q=%23SAvENG) | N/A |
+| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 7 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 8 | [#LGBTHM23](http://twitter.com/search?q=%23LGBTHM23) | N/A |
 | 9 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 10 | [Lingard](http://twitter.com/search?q=Lingard) | Lingard is a surname of English origin. It is derived from the Old English words "ling" meaning "heather" and "weard" meaning "guardian". The name was originally given to someone who was a guardian of heather or a keeper of heather-covered land. |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 13 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 14 | [#MUNNFO](http://twitter.com/search?q=%23MUNNFO) | N/A |
-| 15 | [#SAvENG](http://twitter.com/search?q=%23SAvENG) | N/A |
-| 16 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
-| 17 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
-| 18 | [Jofra Archer](http://twitter.com/search?q=Jofra+Archer) | Jofra Archer is an English cricketer who plays for the England national cricket team. He is a right-arm fast bowler and right-handed batsman. He made his international debut in May 2019 and has since become one of the most successful bowlers in the world. |
-| 19 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 20 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
-| 21 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 22 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
-| 23 | [PMQs](http://twitter.com/search?q=PMQs) | N/A |
-| 24 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 25 | [Janey](http://twitter.com/search?q=Janey) | N/A |
-| 26 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
-| 27 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 28 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
-| 29 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 30 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 31 | [Marc Albrighton](http://twitter.com/search?q=Marc+Albrighton) | N/A |
-| 32 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
-| 33 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 34 | [#strikes](http://twitter.com/search?q=%23strikes) | N/A |
-| 35 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 36 | [#RightToStrike](http://twitter.com/search?q=%23RightToStrike) | N/A |
-| 37 | [#EnoughlsEnough](http://twitter.com/search?q=%23EnoughlsEnough) | N/A |
-| 38 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 39 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
-| 40 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 10 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 11 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Lingard](http://twitter.com/search?q=Lingard) | Lingard is a surname of English origin. It is derived from the Old English words "ling" meaning "heather" and "weard" meaning "guardian". The name was originally given to someone who was a guardian of heather or a keeper of heather-covered land. |
+| 14 | [Best 45](http://twitter.com/search?q=Best+45) | N/A |
+| 15 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 16 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 17 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 18 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
+| 19 | [Lundstram](http://twitter.com/search?q=Lundstram) | N/A |
+| 20 | [Kent](http://twitter.com/search?q=Kent) | N/A |
+| 21 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
+| 22 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
+| 23 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 24 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 26 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |
+| 27 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 28 | [Hennessy](http://twitter.com/search?q=Hennessy) | N/A |
+| 29 | [Jofra Archer](http://twitter.com/search?q=Jofra+Archer) | Jofra Archer is an English cricketer who plays for the England national cricket team. He is a right-arm fast bowler and right-handed batsman. He made his international debut in May 2019 and has since become one of the most successful bowlers in the world. |
+| 30 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 31 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 32 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
+| 33 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 34 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
+| 35 | [Tynecastle](http://twitter.com/search?q=Tynecastle) | N/A |
+| 36 | [Mick Lynch](http://twitter.com/search?q=Mick+Lynch) | Mick Lynch is an Irish phrase meaning "a foolish or gullible person". It is often used to describe someone who is easily taken advantage of or tricked. |
+| 37 | [Unions](http://twitter.com/search?q=Unions) | N/A |
+| 38 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 39 | [Janey](http://twitter.com/search?q=Janey) | N/A |
+| 40 | [Teachers](http://twitter.com/search?q=Teachers) | N/A |
+| 41 | [PMQs](http://twitter.com/search?q=PMQs) | N/A |
+| 42 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 43 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 44 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 45 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 46 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
+| 47 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
+| 48 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 49 | [#MUNNFO](http://twitter.com/search?q=%23MUNNFO) | N/A |
 
 
 

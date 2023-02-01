@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-02-01 20:16:05 UTC`
+📆 Last Updated: `2023-02-01 21:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCNOM](http://twitter.com/search?q=%23FCNOM) | #FCNOM stands for "Fuerza Ciudadana Nacional de México," which translates to "National Citizen Force of Mexico" in English. It is a movement in Mexico that seeks to promote democracy, human rights, and social justice. |
-| 2 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
-| 3 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 6 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [#SDRFCL](http://twitter.com/search?q=%23SDRFCL) | N/A |
-| 9 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 10 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 11 | [Payet](http://twitter.com/search?q=Payet) | N/A |
-| 12 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 13 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 14 | [#MHSCPSG](http://twitter.com/search?q=%23MHSCPSG) | N/A |
-| 15 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 16 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 17 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
-| 18 | [Girotto](http://twitter.com/search?q=Girotto) | N/A |
-| 19 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 20 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 21 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 23 | [Occurrence](http://twitter.com/search?q=Occurrence) | N/A |
-| 24 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 25 | [Tudor](http://twitter.com/search?q=Tudor) | N/A |
-| 26 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 27 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
-| 28 | [Veran](http://twitter.com/search?q=Veran) | N/A |
-| 29 | [Joao Victor](http://twitter.com/search?q=Joao+Victor) | N/A |
-| 30 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 31 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 32 | [Reims](http://twitter.com/search?q=Reims) | Reims is a city in the Grand Est region of France. It is located in the Marne department, about 130 km northeast of Paris. The name Reims comes from the Latin word "Remi", which means "rim" or "edge". In English, Reims can be translated to mean "at the edge". |
-| 33 | [ON JOUE LE TITRE](http://twitter.com/search?q=ON+JOUE+LE+TITRE) | N/A |
-| 34 | [Keylor](http://twitter.com/search?q=Keylor) | Keylor is a name of Spanish origin derived from the name Caelor, which is a combination of the Latin words caelum (sky) and aurum (gold). It can be translated to mean "heavenly gold" or "golden sky". |
-| 35 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
-| 36 | [Olivier Py](http://twitter.com/search?q=Olivier+Py) | N/A |
-| 37 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 38 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 39 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 40 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 41 | [Obélix](http://twitter.com/search?q=Ob%c3%a9lix) | N/A |
-| 42 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 43 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
-| 44 | [Fondation Abbé Pierre](http://twitter.com/search?q=Fondation+Abb%c3%a9+Pierre) | N/A |
-| 45 | [Queen B](http://twitter.com/search?q=Queen+B) | N/A |
-| 46 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 47 | [Malinovsky](http://twitter.com/search?q=Malinovsky) | N/A |
-| 48 | [Aya le 26](http://twitter.com/search?q=Aya+le+26) | N/A |
-| 49 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 50 | [Weah](http://twitter.com/search?q=Weah) | N/A |
+| 1 | [#MHSCPSG](http://twitter.com/search?q=%23MHSCPSG) | N/A |
+| 2 | [#FCNOM](http://twitter.com/search?q=%23FCNOM) | #FCNOM stands for "Fuerza Ciudadana Nacional de México," which translates to "National Citizen Force of Mexico" in English. It is a movement in Mexico that seeks to promote democracy, human rights, and social justice. |
+| 3 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 4 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 5 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [#RCLOGCN](http://twitter.com/search?q=%23RCLOGCN) | N/A |
+| 8 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 9 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 12 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 13 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 14 | [Payet](http://twitter.com/search?q=Payet) | N/A |
+| 15 | [Savanier](http://twitter.com/search?q=Savanier) | N/A |
+| 16 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 17 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
+| 18 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 19 | [Montpellier](http://twitter.com/search?q=Montpellier) | N/A |
+| 20 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 21 | [Amandine](http://twitter.com/search?q=Amandine) | N/A |
+| 22 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 23 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 24 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
+| 25 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 26 | [Tudor](http://twitter.com/search?q=Tudor) | N/A |
+| 27 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 28 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
+| 29 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
+| 30 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 31 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 32 | [Germain](http://twitter.com/search?q=Germain) | N/A |
+| 33 | [Will Still](http://twitter.com/search?q=Will+Still) | N/A |
+| 34 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 35 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 36 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
+| 37 | [Malinovskyi](http://twitter.com/search?q=Malinovskyi) | N/A |
+| 38 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 39 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 41 | [#OLSB29](http://twitter.com/search?q=%23OLSB29) | N/A |
+| 42 | [#SRFCRCSA](http://twitter.com/search?q=%23SRFCRCSA) | N/A |
+| 43 | [#QVEMA](http://twitter.com/search?q=%23QVEMA) | N/A |
+| 44 | [#SDRFCL](http://twitter.com/search?q=%23SDRFCL) | N/A |
+| 45 | [#ASMAJA](http://twitter.com/search?q=%23ASMAJA) | N/A |
+| 46 | [#TFCESTAC](http://twitter.com/search?q=%23TFCESTAC) | N/A |
+| 47 | [#LOSCCF63](http://twitter.com/search?q=%23LOSCCF63) | N/A |
+| 48 | [#pelissard](http://twitter.com/search?q=%23pelissard) | N/A |
+| 49 | [#SCOACA](http://twitter.com/search?q=%23SCOACA) | N/A |
 
 
 

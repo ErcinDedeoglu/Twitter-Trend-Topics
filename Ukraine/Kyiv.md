@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyiv
 
-📆 Last Updated: `2023-02-01 20:16:11 UTC`
+📆 Last Updated: `2023-02-01 21:16:30 UTC`
 
 🔧 Updated every 1 hour!
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-02-01 20:16:17 UTC`
+📆 Last Updated: `2023-02-01 21:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,16 +27,16 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 10 | [Lady of Mercy](http://twitter.com/search?q=Lady+of+Mercy) | N/A |
 | 11 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
 | 12 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
-| 13 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
+| 13 | [#Thalapathy67](http://twitter.com/search?q=%23Thalapathy67) | #Thalapathy67 is a hashtag used to promote the upcoming Tamil movie Thalapathy 67, starring actor Vijay. The number 67 refers to the fact that this is Vijay's 67th movie. The English translation of Thalapathy is "commander". |
 | 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 15 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
 | 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 17 | [Trisha](http://twitter.com/search?q=Trisha) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [Trisha](http://twitter.com/search?q=Trisha) | N/A |
+| 19 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 20 | [Bringer of Death](http://twitter.com/search?q=Bringer+of+Death) | N/A |
 | 21 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 22 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
 | 23 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
 | 24 | [Finally February](http://twitter.com/search?q=Finally+February) | N/A |
 | 25 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
@@ -51,19 +51,19 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 34 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
 | 35 | [pdrm](http://twitter.com/search?q=pdrm) | N/A |
 | 36 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 37 | [Hyunsik](http://twitter.com/search?q=Hyunsik) | N/A |
-| 38 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
-| 39 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 37 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
+| 38 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 39 | [hyunsik](http://twitter.com/search?q=hyunsik) | N/A |
 | 40 | [Axia](http://twitter.com/search?q=Axia) | N/A |
 | 41 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
 | 42 | [Watsons](http://twitter.com/search?q=Watsons) | N/A |
 | 43 | [Kwangsoo](http://twitter.com/search?q=Kwangsoo) | N/A |
 | 44 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 45 | [Lady of Lourdes](http://twitter.com/search?q=Lady+of+Lourdes) | N/A |
+| 45 | [lady of lourdes](http://twitter.com/search?q=lady+of+lourdes) | N/A |
 | 46 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 48 | [bringer of the lord](http://twitter.com/search?q=bringer+of+the+lord) | N/A |
-| 49 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 47 | [bringer of the lord](http://twitter.com/search?q=bringer+of+the+lord) | N/A |
+| 48 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 49 | [Didi](http://twitter.com/search?q=Didi) | N/A |
 
 
 

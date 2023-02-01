@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-02-01 20:16:30 UTC`
+📆 Last Updated: `2023-02-01 21:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
-| 4 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 5 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 6 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
+| 2 | [#CashAppSavings](http://twitter.com/search?q=%23CashAppSavings) | #CashAppSavings is a hashtag used on social media to promote Cash App, a mobile payment service. It is used to encourage people to save money using the app. |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
+| 5 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 6 | [#MisheardLyrics](http://twitter.com/search?q=%23MisheardLyrics) | N/A |
 | 7 | [#NGWSD](http://twitter.com/search?q=%23NGWSD) | N/A |
-| 8 | [#MisheardLyrics](http://twitter.com/search?q=%23MisheardLyrics) | N/A |
-| 9 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 10 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 8 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 9 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
+| 10 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 11 | [Pledge of Allegiance](http://twitter.com/search?q=Pledge+of+Allegiance) | The Pledge of Allegiance is a patriotic oath to the United States of America. It is typically recited in unison at public events and school assemblies. The Pledge reads: "I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all." The Pledge is a promise of loyalty and commitment to the United States and its values. |
-| 12 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
-| 13 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 14 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 15 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 16 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 17 | [Stewie](http://twitter.com/search?q=Stewie) | Stewie is a character from the animated television series Family Guy. He is a baby who speaks with an English accent and has a very advanced vocabulary. He is known for his mischievous behavior and his desire to take over the world. |
-| 18 | [Nadler](http://twitter.com/search?q=Nadler) | N/A |
-| 19 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 20 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 21 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 22 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 23 | [Duce](http://twitter.com/search?q=Duce) | N/A |
-| 24 | [TB12](http://twitter.com/search?q=TB12) | TB12 is an acronym for Tom Brady's lifestyle brand, which stands for "Tom Brady 12". It is a lifestyle brand that promotes healthy living and wellness through nutrition, hydration, and exercise. The brand also sells products such as apparel, supplements, and equipment. |
-| 25 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 26 | [Josh Sills](http://twitter.com/search?q=Josh+Sills) | N/A |
-| 27 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 28 | [National Signing Day](http://twitter.com/search?q=National+Signing+Day) | National Signing Day is an annual event in which high school athletes sign a binding letter of intent to play a sport at a college or university. It is the first day that a high school senior can sign a binding National Letter of Intent for college football. The day usually falls on the first Wednesday of February, and marks the end of the recruiting process for many student-athletes. |
+| 12 | [For Youth](http://twitter.com/search?q=For+Youth) | N/A |
+| 13 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
+| 14 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 15 | [Nadler](http://twitter.com/search?q=Nadler) | N/A |
+| 16 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 17 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
+| 18 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 19 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 20 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 21 | [Gehrig](http://twitter.com/search?q=Gehrig) | N/A |
+| 22 | [Duce](http://twitter.com/search?q=Duce) | N/A |
+| 23 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 24 | [DiMaggio](http://twitter.com/search?q=DiMaggio) | N/A |
+| 25 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 26 | [National Signing Day](http://twitter.com/search?q=National+Signing+Day) | National Signing Day is an annual event in which high school athletes sign a binding letter of intent to play a sport at a college or university. It is the first day that a high school senior can sign a binding National Letter of Intent for college football. The day usually falls on the first Wednesday of February, and marks the end of the recruiting process for many student-athletes. |
+| 27 | [Josh Sills](http://twitter.com/search?q=Josh+Sills) | N/A |
+| 28 | [Unholy](http://twitter.com/search?q=Unholy) | Unholy is an adjective that means wicked, immoral, or sinful. It is often used to describe something that is considered to be blasphemous or sacrilegious. |
 | 29 | [The Fed](http://twitter.com/search?q=The+Fed) | N/A |
-| 30 | [DiMaggio](http://twitter.com/search?q=DiMaggio) | N/A |
-| 31 | [Gehrig](http://twitter.com/search?q=Gehrig) | N/A |
-| 32 | [Shane Beamer](http://twitter.com/search?q=Shane+Beamer) | N/A |
-| 33 | [Liberty](http://twitter.com/search?q=Liberty) | N/A |
-| 34 | [Lobsters](http://twitter.com/search?q=Lobsters) | N/A |
+| 30 | [Stewie](http://twitter.com/search?q=Stewie) | Stewie is a character from the animated television series Family Guy. He is a baby who speaks with an English accent and has a very advanced vocabulary. He is known for his mischievous behavior and his desire to take over the world. |
+| 31 | [Duane](http://twitter.com/search?q=Duane) | N/A |
+| 32 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
+| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 34 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
 | 35 | [Mantle](http://twitter.com/search?q=Mantle) | N/A |
-| 36 | [HYPE BOY](http://twitter.com/search?q=HYPE+BOY) | HYPE BOY is a slang term used to describe someone who is very enthusiastic and supportive of something. It is often used to describe someone who is always trying to get people excited about something, or who is always talking up a particular person or event. |
-| 37 | [Bucs](http://twitter.com/search?q=Bucs) | Bucs is an abbreviation for the Tampa Bay Buccaneers, a professional American football team based in Tampa, Florida. The team competes in the National Football League (NFL) as a member of the NFC South division. |
-| 38 | [Breanna Stewart](http://twitter.com/search?q=Breanna+Stewart) | Breanna Stewart is an American professional basketball player who currently plays for the Seattle Storm of the Women's National Basketball Association (WNBA). She was the first overall pick in the 2016 WNBA Draft and has since won four WNBA championships, two WNBA MVP awards, and three WNBA Finals MVP awards. |
-| 39 | [ChatGPT Plus](http://twitter.com/search?q=ChatGPT+Plus) | N/A |
-| 40 | [Trunks](http://twitter.com/search?q=Trunks) | N/A |
-| 41 | [Beyhive](http://twitter.com/search?q=Beyhive) | N/A |
-| 42 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 43 | [Aces](http://twitter.com/search?q=Aces) | Aces is a term used to refer to something that is of the highest quality or excellence. It can also be used to describe someone who is very skilled or talented at something. |
-| 44 | [Bedminster](http://twitter.com/search?q=Bedminster) | N/A |
-| 45 | [Nyckoles Harbor](http://twitter.com/search?q=Nyckoles+Harbor) | N/A |
-| 46 | [Citi](http://twitter.com/search?q=Citi) | Citi is an abbreviation for the financial services company Citigroup. It is a multinational investment bank and financial services corporation headquartered in New York City. |
-| 47 | [Sisyphus](http://twitter.com/search?q=Sisyphus) | N/A |
-| 48 | [25 BPS](http://twitter.com/search?q=25+BPS) | N/A |
-| 49 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
-| 50 | [Brad Marchand](http://twitter.com/search?q=Brad+Marchand) | N/A |
+| 36 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 37 | [Shane Beamer](http://twitter.com/search?q=Shane+Beamer) | N/A |
+| 38 | [ChatGPT Plus](http://twitter.com/search?q=ChatGPT+Plus) | N/A |
+| 39 | [jay park](http://twitter.com/search?q=jay+park) | Jay Park is the stage name of South Korean singer, songwriter, rapper, dancer, record producer, and entrepreneur Park Jae-beom. He is best known for being the former leader of the South Korean boy band 2PM. He has released several solo albums and has collaborated with other artists in the Korean music industry. |
+| 40 | [TB12](http://twitter.com/search?q=TB12) | TB12 is an acronym for Tom Brady's lifestyle brand, which stands for "Tom Brady 12". It is a lifestyle brand that promotes healthy living and wellness through nutrition, hydration, and exercise. The brand also sells products such as apparel, supplements, and equipment. |
+| 41 | [Galaxy S23](http://twitter.com/search?q=Galaxy+S23) | N/A |
+| 42 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 43 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 44 | [Liberty](http://twitter.com/search?q=Liberty) | N/A |
+| 45 | [Arian Foster](http://twitter.com/search?q=Arian+Foster) | N/A |
+| 46 | [HES STILL LIVE](http://twitter.com/search?q=HES+STILL+LIVE) | N/A |
+| 47 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 48 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
+| 49 | [Tom Girardi](http://twitter.com/search?q=Tom+Girardi) | N/A |
+| 50 | [Bedminster](http://twitter.com/search?q=Bedminster) | N/A |
 
 
 
