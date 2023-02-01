@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-01 17:17:01 UTC`
+📆 Last Updated: `2023-02-01 18:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,51 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
 | 2 | [SILA IDOL PALA](http://twitter.com/search?q=SILA+IDOL+PALA) | SILA IDOL PALA is a Malaysian phrase that translates to "You are my idol". It is often used as a term of endearment or admiration for someone. |
-| 3 | [#WelcomeToManila_ENHYPEN](http://twitter.com/search?q=%23WelcomeToManila_ENHYPEN) | N/A |
+| 3 | [#WelcomeToManilaENHYPEN](http://twitter.com/search?q=%23WelcomeToManilaENHYPEN) | #WelcomeToManilaENHYPEN is a hashtag used to welcome the K-pop group ENHYPEN to Manila, Philippines. It is a way for fans to show their support and excitement for the group's visit. |
 | 4 | [#EN_WORLDTOUR_MANIFESTO](http://twitter.com/search?q=%23EN_WORLDTOUR_MANIFESTO) | #EN_WORLDTOUR_MANIFESTO is a hashtag used to promote a global initiative for sustainable tourism. The manifesto calls for the adoption of responsible and sustainable practices in the tourism industry, with the aim of preserving the environment and protecting local cultures. It encourages travelers to be mindful of their impact on the environment and to respect local customs and traditions. |
-| 5 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 6 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 5 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
+| 6 | [Jake](http://twitter.com/search?q=Jake) | N/A |
 | 7 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 8 | [MAY POGI NA SA PINAS](http://twitter.com/search?q=MAY+POGI+NA+SA+PINAS) | N/A |
-| 9 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
-| 10 | [BSS HIGHLIGHT MEDLEY](http://twitter.com/search?q=BSS+HIGHLIGHT+MEDLEY) | BSS HIGHLIGHT MEDLEY is a compilation of songs from the Japanese pop group BSS (BananaLemon, SmileYa, and SevenOops). It is a collection of some of their most popular and memorable songs. The English translation of the phrase would be "BSS Best Hits Medley". |
-| 11 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
-| 12 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 13 | [YADHTRIB NA NI SSOB YMOREJ](http://twitter.com/search?q=YADHTRIB+NA+NI+SSOB+YMOREJ) | N/A |
-| 14 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 15 | [D-2 COMPLEX EP RELEASE](http://twitter.com/search?q=D-2+COMPLEX+EP+RELEASE) | N/A |
-| 16 | [ANDITO NA SILA](http://twitter.com/search?q=ANDITO+NA+SILA) | N/A |
-| 17 | [Xyriel Manabat](http://twitter.com/search?q=Xyriel+Manabat) | N/A |
-| 18 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
-| 19 | [Enha](http://twitter.com/search?q=Enha) | N/A |
-| 20 | [EN-VADERS GOES TO MNL](http://twitter.com/search?q=EN-VADERS+GOES+TO+MNL) | EN-VADERS GOES TO MNL is a phrase used to describe a group of people who are traveling to Manila, Philippines. The phrase is derived from the popular video game Space Invaders, which features aliens invading Earth. The phrase is meant to signify that a group of people are going on an adventure to explore a new place. |
-| 21 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 22 | [ANDREA GEMOfASTAR](http://twitter.com/search?q=ANDREA+GEMOfASTAR) | N/A |
-| 23 | [Angel Aquino](http://twitter.com/search?q=Angel+Aquino) | N/A |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 8 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 9 | [MAY POGI NA SA PINAS](http://twitter.com/search?q=MAY+POGI+NA+SA+PINAS) | N/A |
+| 10 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 11 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
+| 12 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
+| 13 | [HYPE BOY](http://twitter.com/search?q=HYPE+BOY) | HYPE BOY is a slang term used to describe someone who is very enthusiastic and supportive of something. It is often used to describe someone who is always trying to get people excited about something, or who is always talking up a particular person or event. |
+| 14 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 15 | [BSS HIGHLIGHT MEDLEY](http://twitter.com/search?q=BSS+HIGHLIGHT+MEDLEY) | BSS HIGHLIGHT MEDLEY is a compilation of songs from the Japanese pop group BSS (BananaLemon, SmileYa, and SevenOops). It is a collection of some of their most popular and memorable songs. The English translation of the phrase would be "BSS Best Hits Medley". |
+| 16 | [WELCOME BACK](http://twitter.com/search?q=WELCOME+BACK) | N/A |
+| 17 | [YADHTRIB NA NI SSOB YMOREJ](http://twitter.com/search?q=YADHTRIB+NA+NI+SSOB+YMOREJ) | N/A |
+| 18 | [D-2 COMPLEX EP RELEASE](http://twitter.com/search?q=D-2+COMPLEX+EP+RELEASE) | N/A |
+| 19 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 20 | [ANDITO NA SILA](http://twitter.com/search?q=ANDITO+NA+SILA) | N/A |
+| 21 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
+| 22 | [NAIIYAK AKO](http://twitter.com/search?q=NAIIYAK+AKO) | N/A |
+| 23 | [Xyriel](http://twitter.com/search?q=Xyriel) | N/A |
+| 24 | [Enha](http://twitter.com/search?q=Enha) | N/A |
+| 25 | [Angel Aquino](http://twitter.com/search?q=Angel+Aquino) | N/A |
 | 26 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 27 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 28 | [Ador](http://twitter.com/search?q=Ador) | N/A |
-| 29 | [Engenes](http://twitter.com/search?q=Engenes) | N/A |
+| 27 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 28 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 29 | [Ador](http://twitter.com/search?q=Ador) | N/A |
 | 30 | [youngji](http://twitter.com/search?q=youngji) | N/A |
-| 31 | [SAFE SKIES](http://twitter.com/search?q=SAFE+SKIES) | N/A |
-| 32 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
-| 33 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 34 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
-| 35 | [#DLDamageControl](http://twitter.com/search?q=%23DLDamageControl) | N/A |
-| 36 | [#AlamSarahG](http://twitter.com/search?q=%23AlamSarahG) | N/A |
-| 37 | [#SECONDWIND_D4](http://twitter.com/search?q=%23SECONDWIND_D4) | N/A |
-| 38 | [#BABYMONSTER_PHARITA](http://twitter.com/search?q=%23BABYMONSTER_PHARITA) | N/A |
-| 39 | [#MCIKutob](http://twitter.com/search?q=%23MCIKutob) | N/A |
-| 40 | [#KATORSEnaSiJIRO](http://twitter.com/search?q=%23KATORSEnaSiJIRO) | N/A |
-| 41 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 42 | [#FELIP_COMPLEX](http://twitter.com/search?q=%23FELIP_COMPLEX) | N/A |
-| 43 | [#BSS_Fighting](http://twitter.com/search?q=%23BSS_Fighting) | N/A |
-| 44 | [#DirtyLinen](http://twitter.com/search?q=%23DirtyLinen) | N/A |
-| 45 | [#DreamMaker_JEROMY](http://twitter.com/search?q=%23DreamMaker_JEROMY) | N/A |
-| 46 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
+| 31 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 32 | [#AlamSarahG](http://twitter.com/search?q=%23AlamSarahG) | N/A |
+| 33 | [#DLDamageControl](http://twitter.com/search?q=%23DLDamageControl) | N/A |
+| 34 | [#SECONDWIND_D4](http://twitter.com/search?q=%23SECONDWIND_D4) | N/A |
+| 35 | [#BABYMONSTER_PHARITA](http://twitter.com/search?q=%23BABYMONSTER_PHARITA) | N/A |
+| 36 | [#KATORSEnaSiJIRO](http://twitter.com/search?q=%23KATORSEnaSiJIRO) | N/A |
+| 37 | [#MCIKutob](http://twitter.com/search?q=%23MCIKutob) | N/A |
+| 38 | [#FELIP_COMPLEX](http://twitter.com/search?q=%23FELIP_COMPLEX) | N/A |
+| 39 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 40 | [#BSS_Fighting](http://twitter.com/search?q=%23BSS_Fighting) | N/A |
+| 41 | [#DirtyLinen](http://twitter.com/search?q=%23DirtyLinen) | N/A |
+| 42 | [#DreamMaker_JEROMY](http://twitter.com/search?q=%23DreamMaker_JEROMY) | N/A |
+| 43 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
+| 44 | [#EnSalubong](http://twitter.com/search?q=%23EnSalubong) | N/A |
+| 45 | [#WAYVNEWERA](http://twitter.com/search?q=%23WAYVNEWERA) | N/A |
+| 46 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
+| 47 | [#DunkinPHxBelle](http://twitter.com/search?q=%23DunkinPHxBelle) | N/A |
 
 
 

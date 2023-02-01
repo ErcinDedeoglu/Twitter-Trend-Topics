@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-02-01 17:17:26 UTC`
+📆 Last Updated: `2023-02-01 18:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 12 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 13 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
 | 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Trisha](http://twitter.com/search?q=Trisha) | N/A |
-| 17 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 18 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 19 | [Bringer of Death](http://twitter.com/search?q=Bringer+of+Death) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
-| 22 | [Finally February](http://twitter.com/search?q=Finally+February) | N/A |
-| 23 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 24 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 25 | [morning february](http://twitter.com/search?q=morning+february) | N/A |
-| 26 | [RFID](http://twitter.com/search?q=RFID) | N/A |
-| 27 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
-| 28 | [menu rahmah](http://twitter.com/search?q=menu+rahmah) | N/A |
+| 15 | [Trisha](http://twitter.com/search?q=Trisha) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Bringer of Death](http://twitter.com/search?q=Bringer+of+Death) | N/A |
+| 18 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 19 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 20 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 21 | [Finally February](http://twitter.com/search?q=Finally+February) | N/A |
+| 22 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 23 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 24 | [morning february](http://twitter.com/search?q=morning+february) | N/A |
+| 25 | [RFID](http://twitter.com/search?q=RFID) | N/A |
+| 26 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
+| 27 | [menu rahmah](http://twitter.com/search?q=menu+rahmah) | N/A |
+| 28 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 | 29 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 30 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 31 | [Astro](http://twitter.com/search?q=Astro) | N/A |
 | 32 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
 | 33 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 34 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 35 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 36 | [pdrm](http://twitter.com/search?q=pdrm) | N/A |
-| 37 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 38 | [Hyunsik](http://twitter.com/search?q=Hyunsik) | N/A |
-| 39 | [yunho](http://twitter.com/search?q=yunho) | N/A |
-| 40 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
-| 41 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 42 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
-| 43 | [Lady of the Sea](http://twitter.com/search?q=Lady+of+the+Sea) | N/A |
-| 44 | [Axia](http://twitter.com/search?q=Axia) | N/A |
-| 45 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
-| 46 | [Watsons](http://twitter.com/search?q=Watsons) | N/A |
-| 47 | [Kwangsoo](http://twitter.com/search?q=Kwangsoo) | N/A |
-| 48 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 49 | [Lady of Lourdes](http://twitter.com/search?q=Lady+of+Lourdes) | N/A |
+| 35 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 36 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 37 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 38 | [pdrm](http://twitter.com/search?q=pdrm) | N/A |
+| 39 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 40 | [Hyunsik](http://twitter.com/search?q=Hyunsik) | N/A |
+| 41 | [yunho](http://twitter.com/search?q=yunho) | N/A |
+| 42 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
+| 43 | [Sejun](http://twitter.com/search?q=Sejun) | N/A |
+| 44 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 45 | [Lady of the Sea](http://twitter.com/search?q=Lady+of+the+Sea) | N/A |
+| 46 | [Axia](http://twitter.com/search?q=Axia) | N/A |
+| 47 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
+| 48 | [Watsons](http://twitter.com/search?q=Watsons) | N/A |
+| 49 | [Kwangsoo](http://twitter.com/search?q=Kwangsoo) | N/A |
 
 
 

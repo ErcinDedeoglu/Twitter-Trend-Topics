@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-01 17:17:19 UTC`
+📆 Last Updated: `2023-02-01 18:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [India](</India>)
 | 3 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
 | 4 | [आम आदमी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80) | N/A |
 | 5 | [केंद्र सरकार](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 6 | [#Gulmarg](http://twitter.com/search?q=%23Gulmarg) | N/A |
+| 6 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
 | 7 | [#INDvsNZ](http://twitter.com/search?q=%23INDvsNZ) | #INDvsNZ is a hashtag used to refer to the cricket matches between India and New Zealand. It stands for India versus New Zealand. |
-| 8 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 9 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
-| 10 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 8 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
+| 9 | [#AdaniEnterprises](http://twitter.com/search?q=%23AdaniEnterprises) | N/A |
+| 10 | [HAPPY BIRTHDAY SHAMITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+SHAMITA) | N/A |
 | 11 | [Sushant Real Foodie](http://twitter.com/search?q=Sushant+Real+Foodie) | N/A |
-| 12 | [Rahul Tripathi](http://twitter.com/search?q=Rahul+Tripathi) | Rahul Tripathi is a name of Indian origin. It is derived from the Sanskrit words "Rahu" (sun) and "Tripathi" (lord). The literal meaning of the name is "Lord of the Sun". |
-| 13 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
-| 14 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 12 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 13 | [Rs 20,000](http://twitter.com/search?q=Rs+20%2c000) | N/A |
+| 14 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
 | 15 | [HIS HAIR](http://twitter.com/search?q=HIS+HAIR) | HIS HAIR is a phrase used to refer to someone's hair, usually a man's. It is typically used to describe the style or color of the person's hair. |
-| 16 | [Bilateral](http://twitter.com/search?q=Bilateral) | N/A |
+| 16 | [भारतीय क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | N/A |
 | 17 | [KV ROARS AS HAIDER IN RSHD](http://twitter.com/search?q=KV+ROARS+AS+HAIDER+IN+RSHD) | N/A |
-| 18 | [भारतीय क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | N/A |
-| 19 | [Arshdeep](http://twitter.com/search?q=Arshdeep) | Arshdeep is a Punjabi name that means "light of the sky". |
-| 20 | [5th Indian](http://twitter.com/search?q=5th+Indian) | 5th Indian is a term used to refer to the fifth generation of Indian immigrants in the United States. This generation is typically composed of those who were born in the US and are of Indian descent. They are often referred to as "1.5 generation" or "second-generation Indians". |
-| 21 | [Ishan Kishan](http://twitter.com/search?q=Ishan+Kishan) | Ishan Kishan is an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. His name is derived from two Hindu gods, Isha and Kishan, which mean "Lord of the Universe" and "Protector of the Earth" respectively. In English, Ishan Kishan means "Lord of the Universe and Protector of the Earth". |
-| 22 | [RASHAMI DESAI BIRTHDAY MONTH](http://twitter.com/search?q=RASHAMI+DESAI+BIRTHDAY+MONTH) | N/A |
-| 23 | [Narendra Modi Stadium](http://twitter.com/search?q=Narendra+Modi+Stadium) | N/A |
-| 24 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
-| 25 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 26 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 27 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 28 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 29 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 30 | [Finn Allen](http://twitter.com/search?q=Finn+Allen) | N/A |
-| 31 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 32 | [पुलिस कांस्टेबल](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%ac%e0%a4%b2) | N/A |
-| 33 | [Suresh Raina](http://twitter.com/search?q=Suresh+Raina) | N/A |
-| 34 | [Malan](http://twitter.com/search?q=Malan) | N/A |
-| 35 | [Buttler](http://twitter.com/search?q=Buttler) | N/A |
-| 36 | [Fielder with Most Catches](http://twitter.com/search?q=Fielder+with+Most+Catches) | Fielder with Most Catches is a statistic used in cricket to measure the number of catches taken by a fielder during a match. It is an indication of how well the fielder has performed in the field, as it shows how many times they have been able to stop the ball from reaching the boundary. |
-| 37 | [वित्त मंत्री श्रीमती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80) | N/A |
-| 38 | [Old Regime](http://twitter.com/search?q=Old+Regime) | N/A |
-| 39 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 40 | [Insurance](http://twitter.com/search?q=Insurance) | N/A |
-| 41 | [7 Lakhs](http://twitter.com/search?q=7+Lakhs) | 7 Lakhs is a term used in India to refer to 700,000. It is equal to 7,00,000 in the Indian numbering system. In English, it would be equivalent to 700,000 or seven hundred thousand. |
-| 42 | [राजस्थान सरकार](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 43 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
-| 44 | [#HardikPandya𓃵](http://twitter.com/search?q=%23HardikPandya%f0%93%83%b5) | N/A |
-| 45 | [#StressFreeMantra](http://twitter.com/search?q=%23StressFreeMantra) | N/A |
-| 46 | [#RP_3600GP](http://twitter.com/search?q=%23RP_3600GP) | N/A |
-| 47 | [#AdaniEnterprises](http://twitter.com/search?q=%23AdaniEnterprises) | N/A |
+| 18 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 19 | [Bilateral](http://twitter.com/search?q=Bilateral) | N/A |
+| 20 | [Arshdeep](http://twitter.com/search?q=Arshdeep) | Arshdeep is a Punjabi name that means "light of the sky". |
+| 21 | [5th Indian](http://twitter.com/search?q=5th+Indian) | 5th Indian is a term used to refer to the fifth generation of Indian immigrants in the United States. This generation is typically composed of those who were born in the US and are of Indian descent. They are often referred to as "1.5 generation" or "second-generation Indians". |
+| 22 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 23 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 24 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
+| 27 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 28 | [Ishan Kishan](http://twitter.com/search?q=Ishan+Kishan) | Ishan Kishan is an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. His name is derived from two Hindu gods, Isha and Kishan, which mean "Lord of the Universe" and "Protector of the Earth" respectively. In English, Ishan Kishan means "Lord of the Universe and Protector of the Earth". |
+| 29 | [Narendra Modi Stadium](http://twitter.com/search?q=Narendra+Modi+Stadium) | N/A |
+| 30 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 31 | [RASHAMI DESAI BIRTHDAY MONTH](http://twitter.com/search?q=RASHAMI+DESAI+BIRTHDAY+MONTH) | N/A |
+| 32 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 33 | [Finn Allen](http://twitter.com/search?q=Finn+Allen) | N/A |
+| 34 | [Big Breaking](http://twitter.com/search?q=Big+Breaking) | N/A |
+| 35 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 36 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 37 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
+| 38 | [Buttler](http://twitter.com/search?q=Buttler) | N/A |
+| 39 | [Insurance](http://twitter.com/search?q=Insurance) | N/A |
+| 40 | [Old Regime](http://twitter.com/search?q=Old+Regime) | N/A |
+| 41 | [वित्त मंत्री श्रीमती](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80) | N/A |
+| 42 | [ARMYs](http://twitter.com/search?q=ARMYs) | N/A |
+| 43 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | N/A |
+| 44 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 45 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 46 | [#HardikPandya𓃵](http://twitter.com/search?q=%23HardikPandya%f0%93%83%b5) | N/A |
+| 47 | [#ArchanaGautam](http://twitter.com/search?q=%23ArchanaGautam) | N/A |
 | 48 | [#IndiaVsNewZealand](http://twitter.com/search?q=%23IndiaVsNewZealand) | N/A |
-| 49 | [#AmritKaalBudget](http://twitter.com/search?q=%23AmritKaalBudget) | N/A |
-| 50 | [#बजट2023](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%9c%e0%a4%9f2023) | N/A |
+| 49 | [#RP_3600GP](http://twitter.com/search?q=%23RP_3600GP) | N/A |
+| 50 | [#GalaxyS23Ultra](http://twitter.com/search?q=%23GalaxyS23Ultra) | N/A |
 
 
 
