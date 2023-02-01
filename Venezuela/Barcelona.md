@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-01 08:17:04 UTC`
+📆 Last Updated: `2023-02-01 09:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,43 +25,43 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [Danry](http://twitter.com/search?q=Danry) | N/A |
 | 9 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
 | 10 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
-| 11 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 12 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
-| 13 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 14 | [Henry Blanco](http://twitter.com/search?q=Henry+Blanco) | Henry Blanco is a Spanish surname. It is derived from the word "blanco," which means "white" in English. |
+| 11 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 12 | [carlos ocariz](http://twitter.com/search?q=carlos+ocariz) | N/A |
+| 13 | [Henry Blanco](http://twitter.com/search?q=Henry+Blanco) | Henry Blanco is a Spanish surname. It is derived from the word "blanco," which means "white" in English. |
+| 14 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
 | 15 | [Hidrocapital](http://twitter.com/search?q=Hidrocapital) | N/A |
-| 16 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
-| 17 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 16 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 17 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
 | 18 | [Héctor Lavoe](http://twitter.com/search?q=H%c3%a9ctor+Lavoe) | N/A |
 | 19 | [Palacio de Miraflores](http://twitter.com/search?q=Palacio+de+Miraflores) | N/A |
 | 20 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
-| 21 | [Silvino Bracho](http://twitter.com/search?q=Silvino+Bracho) | N/A |
+| 21 | [silvino bracho](http://twitter.com/search?q=silvino+bracho) | N/A |
 | 22 | [Metras](http://twitter.com/search?q=Metras) | N/A |
 | 23 | [Rafael Orozco](http://twitter.com/search?q=Rafael+Orozco) | N/A |
-| 24 | [Brayan Alcócer](http://twitter.com/search?q=Brayan+Alc%c3%b3cer) | N/A |
+| 24 | [brayan alcócer](http://twitter.com/search?q=brayan+alc%c3%b3cer) | N/A |
 | 25 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
 | 26 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 27 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
+| 27 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
 | 28 | [Porfi Baloa](http://twitter.com/search?q=Porfi+Baloa) | N/A |
 | 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Transparencia Internacional](http://twitter.com/search?q=Transparencia+Internacional) | N/A |
-| 31 | [rummie quintero](http://twitter.com/search?q=rummie+quintero) | N/A |
-| 32 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
-| 33 | [alcides escobar](http://twitter.com/search?q=alcides+escobar) | N/A |
-| 34 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 30 | [rummie quintero](http://twitter.com/search?q=rummie+quintero) | N/A |
+| 31 | [alcides escobar](http://twitter.com/search?q=alcides+escobar) | N/A |
+| 32 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
+| 33 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 34 | [Transparencia Internacional](http://twitter.com/search?q=Transparencia+Internacional) | N/A |
 | 35 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 36 | [La Guaira](http://twitter.com/search?q=La+Guaira) | N/A |
-| 37 | [actividades judiciales](http://twitter.com/search?q=actividades+judiciales) | N/A |
+| 36 | [actividades judiciales](http://twitter.com/search?q=actividades+judiciales) | N/A |
+| 37 | [La Guaira](http://twitter.com/search?q=La+Guaira) | N/A |
 | 38 | [rafael bolívar coronado](http://twitter.com/search?q=rafael+bol%c3%advar+coronado) | N/A |
 | 39 | [balbino](http://twitter.com/search?q=balbino) | N/A |
-| 40 | [Revolución Judicial](http://twitter.com/search?q=Revoluci%c3%b3n+Judicial) | N/A |
-| 41 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
-| 42 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 43 | [día del internacionalista](http://twitter.com/search?q=d%c3%ada+del+internacionalista) | N/A |
-| 44 | [Campeonato](http://twitter.com/search?q=Campeonato) | N/A |
-| 45 | [félix pérez](http://twitter.com/search?q=f%c3%a9lix+p%c3%a9rez) | N/A |
-| 46 | [Caimanera](http://twitter.com/search?q=Caimanera) | N/A |
-| 47 | [kevin kelsy](http://twitter.com/search?q=kevin+kelsy) | N/A |
+| 40 | [prosperi](http://twitter.com/search?q=prosperi) | N/A |
+| 41 | [Revolución Judicial](http://twitter.com/search?q=Revoluci%c3%b3n+Judicial) | N/A |
+| 42 | [día del internacionalista](http://twitter.com/search?q=d%c3%ada+del+internacionalista) | N/A |
+| 43 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 44 | [félix pérez](http://twitter.com/search?q=f%c3%a9lix+p%c3%a9rez) | N/A |
+| 45 | [Caimanera](http://twitter.com/search?q=Caimanera) | N/A |
+| 46 | [kevin kelsy](http://twitter.com/search?q=kevin+kelsy) | N/A |
+| 47 | [Cheo Feliciano](http://twitter.com/search?q=Cheo+Feliciano) | N/A |
 
 
 

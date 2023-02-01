@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-02-01 08:17:08 UTC`
+📆 Last Updated: `2023-02-01 09:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [France](</France>)
 | 6 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
 | 7 | [#FCGBHAC](http://twitter.com/search?q=%23FCGBHAC) | N/A |
 | 8 | [azmoun](http://twitter.com/search?q=azmoun) | N/A |
-| 9 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 10 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
-| 11 | [Veran](http://twitter.com/search?q=Veran) | N/A |
-| 12 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 9 | [Navigo](http://twitter.com/search?q=Navigo) | N/A |
+| 10 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
+| 11 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 12 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
 | 13 | [Occurrence](http://twitter.com/search?q=Occurrence) | N/A |
 | 14 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 15 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 16 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
-| 17 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
-| 18 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 19 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 20 | [pathé ciss](http://twitter.com/search?q=path%c3%a9+ciss) | N/A |
-| 21 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 22 | [Joséphine Baker](http://twitter.com/search?q=Jos%c3%a9phine+Baker) | N/A |
-| 23 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 24 | [zorgane](http://twitter.com/search?q=zorgane) | N/A |
-| 25 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 26 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 28 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 29 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 30 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
-| 31 | [Fondation Abbé Pierre](http://twitter.com/search?q=Fondation+Abb%c3%a9+Pierre) | N/A |
-| 32 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 33 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 34 | [président de la rada](http://twitter.com/search?q=pr%c3%a9sident+de+la+rada) | N/A |
-| 35 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 36 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 37 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 38 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 39 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 40 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 41 | [Grève du 31](http://twitter.com/search?q=Gr%c3%a8ve+du+31) | N/A |
-| 42 | [Yanissa](http://twitter.com/search?q=Yanissa) | N/A |
-| 43 | [marignane](http://twitter.com/search?q=marignane) | N/A |
-| 44 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 45 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
+| 15 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
+| 16 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 17 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
+| 18 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 19 | [Pathé Ciss](http://twitter.com/search?q=Path%c3%a9+Ciss) | N/A |
+| 20 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 21 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 22 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 23 | [Joséphine Baker](http://twitter.com/search?q=Jos%c3%a9phine+Baker) | N/A |
+| 24 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 25 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 26 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
+| 27 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 28 | [président de la rada](http://twitter.com/search?q=pr%c3%a9sident+de+la+rada) | N/A |
+| 29 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 30 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 31 | [L'épisode 3](http://twitter.com/search?q=L%27%c3%a9pisode+3) | N/A |
+| 32 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 33 | [Grève du 31](http://twitter.com/search?q=Gr%c3%a8ve+du+31) | N/A |
+| 34 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 35 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
+| 36 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 37 | [marignane](http://twitter.com/search?q=marignane) | N/A |
+| 38 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 39 | [Yanissa](http://twitter.com/search?q=Yanissa) | N/A |
+| 40 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 41 | [moulin](http://twitter.com/search?q=moulin) | N/A |
+| 42 | [Zorgane](http://twitter.com/search?q=Zorgane) | N/A |
+| 43 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 44 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 45 | [terem](http://twitter.com/search?q=terem) | N/A |
 | 46 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 47 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 48 | [Moulin](http://twitter.com/search?q=Moulin) | N/A |
-| 49 | [mitroglou](http://twitter.com/search?q=mitroglou) | N/A |
+| 47 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 48 | [The Authority](http://twitter.com/search?q=The+Authority) | The Authority is a term used to refer to a governing body or organization that has the power to make decisions and enforce laws. It can also refer to an individual or group of people who are seen as having the right to make decisions and enforce rules. |
+| 49 | [gobelins](http://twitter.com/search?q=gobelins) | N/A |
 
 
 

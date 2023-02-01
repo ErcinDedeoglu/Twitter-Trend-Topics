@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-01 08:17:33 UTC`
+📆 Last Updated: `2023-02-01 09:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JJK212](http://twitter.com/search?q=%23JJK212) | N/A |
-| 2 | [Happy Black History Month](http://twitter.com/search?q=Happy+Black+History+Month) | Happy Black History Month is an expression used to celebrate and recognize the achievements and contributions of African Americans throughout history. It is typically celebrated in the United States and Canada during the month of February. |
+| 1 | [Happy Black History Month](http://twitter.com/search?q=Happy+Black+History+Month) | Happy Black History Month is an expression used to celebrate and recognize the achievements and contributions of African Americans throughout history. It is typically celebrated in the United States and Canada during the month of February. |
+| 2 | [#JJK212](http://twitter.com/search?q=%23JJK212) | N/A |
 | 3 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 4 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 5 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 6 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 7 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
-| 8 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
-| 9 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 10 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 11 | [KRIS JENNER](http://twitter.com/search?q=KRIS+JENNER) | Kris Jenner is an American television personality, businesswoman, and manager. She is best known for starring in the reality television series Keeping Up with the Kardashians, which she also executive produces. Jenner has managed the careers of her children, including Kim Kardashian West, Khloé Kardashian, Kourtney Kardashian, Kendall Jenner, and Kylie Jenner. |
+| 4 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
+| 5 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
+| 6 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 7 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
+| 8 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 9 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
+| 10 | [kris jenner](http://twitter.com/search?q=kris+jenner) | N/A |
+| 11 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
 | 12 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 13 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 14 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
-| 15 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 16 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 17 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 18 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
+| 13 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 14 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 15 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 16 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
+| 17 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 18 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 19 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 20 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 21 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
-| 22 | [Arian Foster](http://twitter.com/search?q=Arian+Foster) | N/A |
-| 23 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 24 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 25 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
-| 26 | [Lawlor](http://twitter.com/search?q=Lawlor) | N/A |
-| 27 | [I Fit In There](http://twitter.com/search?q=I+Fit+In+There) | N/A |
-| 28 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 29 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 30 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
-| 31 | [Sisyphus](http://twitter.com/search?q=Sisyphus) | N/A |
-| 32 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 33 | [HARRYS](http://twitter.com/search?q=HARRYS) | N/A |
-| 34 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 35 | [Aaron Hernandez](http://twitter.com/search?q=Aaron+Hernandez) | N/A |
-| 36 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
-| 37 | [Benny Hill](http://twitter.com/search?q=Benny+Hill) | N/A |
-| 38 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 39 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 40 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 41 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 42 | [Revis](http://twitter.com/search?q=Revis) | Revis is a French word meaning "again" or "once more". It is often used to refer to the act of reviewing or revisiting something. |
-| 43 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 44 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 45 | [Walker & Royce](http://twitter.com/search?q=Walker+%26+Royce) | N/A |
-| 46 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 20 | [Sisyphus](http://twitter.com/search?q=Sisyphus) | N/A |
+| 21 | [Arian Foster](http://twitter.com/search?q=Arian+Foster) | N/A |
+| 22 | [Lawlor](http://twitter.com/search?q=Lawlor) | N/A |
+| 23 | [I Fit In There](http://twitter.com/search?q=I+Fit+In+There) | N/A |
+| 24 | [Nevada](http://twitter.com/search?q=Nevada) | N/A |
+| 25 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 26 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
+| 27 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
+| 28 | [Aaron Hernandez](http://twitter.com/search?q=Aaron+Hernandez) | N/A |
+| 29 | [Jimmie Ward](http://twitter.com/search?q=Jimmie+Ward) | N/A |
+| 30 | [HARRYS](http://twitter.com/search?q=HARRYS) | N/A |
+| 31 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
+| 32 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 33 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 34 | [Benny Hill](http://twitter.com/search?q=Benny+Hill) | N/A |
+| 35 | [Revis](http://twitter.com/search?q=Revis) | Revis is a French word meaning "again" or "once more". It is often used to refer to the act of reviewing or revisiting something. |
+| 36 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 37 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
+| 38 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 39 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 40 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
+| 41 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 42 | [Dr. Phil](http://twitter.com/search?q=Dr.+Phil) | N/A |
+| 43 | [QTEs](http://twitter.com/search?q=QTEs) | N/A |
+| 44 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 45 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 46 | [I EXPECT](http://twitter.com/search?q=I+EXPECT) | N/A |
 
 
 

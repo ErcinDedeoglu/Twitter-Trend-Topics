@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-01 08:16:59 UTC`
+📆 Last Updated: `2023-02-01 09:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 2 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
-| 3 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 4 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 5 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 8 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 9 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 10 | [#NEWSOU](http://twitter.com/search?q=%23NEWSOU) | N/A |
-| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 1 | [Moshiri](http://twitter.com/search?q=Moshiri) | Moshiri is a Japanese word that means “to strive” or “to make an effort.” It is often used to describe someone who is working hard to achieve their goals. |
+| 2 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
+| 3 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 4 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 7 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 8 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
+| 9 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
+| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 11 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 | 12 | [Ozzy](http://twitter.com/search?q=Ozzy) | N/A |
-| 13 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 14 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 15 | [Jonjo](http://twitter.com/search?q=Jonjo) | N/A |
-| 16 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 17 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
-| 18 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 19 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
+| 13 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 14 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
+| 15 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 16 | [Jonjo](http://twitter.com/search?q=Jonjo) | N/A |
+| 17 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 18 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
+| 19 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
 | 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 21 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 22 | [Daily Quordle 373](http://twitter.com/search?q=Daily+Quordle+373) | N/A |
-| 23 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 24 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 22 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 23 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 24 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
 | 25 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 26 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 26 | [Salted](http://twitter.com/search?q=Salted) | N/A |
 | 27 | [Sean Longstaff](http://twitter.com/search?q=Sean+Longstaff) | N/A |
-| 28 | [Salted](http://twitter.com/search?q=Salted) | N/A |
-| 29 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 30 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 31 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
-| 32 | [Che Adams](http://twitter.com/search?q=Che+Adams) | Che Adams is a professional footballer who plays as a forward for Southampton in the Premier League. He began his career with Ilkeston Town before joining Sheffield United in 2014. He has also played for Birmingham City and Leeds United. The name Che Adams is derived from his middle name, Cheikhou, which means "God's gift" in the Wolof language of Senegal. |
-| 33 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 28 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 29 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 30 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 31 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 32 | [Only 18](http://twitter.com/search?q=Only+18) | N/A |
+| 33 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 34 | [Daily Quordle 373](http://twitter.com/search?q=Daily+Quordle+373) | N/A |
 | 35 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 36 | [Howay the Lads](http://twitter.com/search?q=Howay+the+Lads) | N/A |
-| 37 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 38 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 39 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 40 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 41 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 42 | [Molly mae](http://twitter.com/search?q=Molly+mae) | N/A |
-| 43 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 44 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 36 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 37 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
+| 38 | [Andre Ayew](http://twitter.com/search?q=Andre+Ayew) | N/A |
+| 39 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 40 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 41 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 42 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 43 | [Che Adams](http://twitter.com/search?q=Che+Adams) | Che Adams is a professional footballer who plays as a forward for Southampton in the Premier League. He began his career with Ilkeston Town before joining Sheffield United in 2014. He has also played for Birmingham City and Leeds United. The name Che Adams is derived from his middle name, Cheikhou, which means "God's gift" in the Wolof language of Senegal. |
+| 44 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
 | 45 | [Merson](http://twitter.com/search?q=Merson) | N/A |
-| 46 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 47 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 48 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 49 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 46 | [Fletch](http://twitter.com/search?q=Fletch) | N/A |
+| 47 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 48 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 49 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
 | 50 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 
 
