@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-02-01 19:16:36 UTC`
+📆 Last Updated: `2023-02-01 20:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [#ICanWithAbsa](http://twitter.com/search?q=%23ICanWithAbsa) | N/A |
 | 3 | [#Krush](http://twitter.com/search?q=%23Krush) | N/A |
 | 4 | [#1LifeChangingLives](http://twitter.com/search?q=%231LifeChangingLives) | N/A |
-| 5 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 6 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 7 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 8 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 9 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
-| 10 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
-| 11 | [1Life Insurance](http://twitter.com/search?q=1Life+Insurance) | N/A |
-| 12 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
-| 13 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 5 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 6 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 7 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 8 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
+| 9 | [1Life Insurance](http://twitter.com/search?q=1Life+Insurance) | N/A |
+| 10 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 13 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
 | 14 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 15 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
-| 16 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 17 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Choose Your Own Rewards](http://twitter.com/search?q=Choose+Your+Own+Rewards) | N/A |
-| 20 | [SABC 2](http://twitter.com/search?q=SABC+2) | N/A |
-| 21 | [Power Bank](http://twitter.com/search?q=Power+Bank) | N/A |
-| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 23 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 24 | [Block 13](http://twitter.com/search?q=Block+13) | N/A |
-| 25 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 26 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 27 | [King Pie](http://twitter.com/search?q=King+Pie) | N/A |
-| 28 | [Sepp Blatter](http://twitter.com/search?q=Sepp+Blatter) | N/A |
-| 29 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
-| 30 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
-| 31 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 32 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 33 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 34 | [Daily Maverick](http://twitter.com/search?q=Daily+Maverick) | N/A |
-| 35 | [January Photo Dump](http://twitter.com/search?q=January+Photo+Dump) | N/A |
-| 36 | [Pork](http://twitter.com/search?q=Pork) | N/A |
-| 37 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
-| 38 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 39 | [Malan](http://twitter.com/search?q=Malan) | N/A |
-| 40 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 41 | [Rutendo](http://twitter.com/search?q=Rutendo) | N/A |
-| 42 | [Nozi](http://twitter.com/search?q=Nozi) | N/A |
-| 43 | [THEMBABROLY ON MZANSI MAGIC](http://twitter.com/search?q=THEMBABROLY+ON+MZANSI+MAGIC) | N/A |
-| 44 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 15 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 16 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
+| 17 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 18 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
+| 19 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 20 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
+| 23 | [Choose Your Own Rewards](http://twitter.com/search?q=Choose+Your+Own+Rewards) | N/A |
+| 24 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 25 | [Power Bank](http://twitter.com/search?q=Power+Bank) | N/A |
+| 26 | [Block 13](http://twitter.com/search?q=Block+13) | N/A |
+| 27 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
+| 28 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
+| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 30 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 31 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 32 | [King Pie](http://twitter.com/search?q=King+Pie) | N/A |
+| 33 | [Sepp Blatter](http://twitter.com/search?q=Sepp+Blatter) | N/A |
+| 34 | [National State of Disaster](http://twitter.com/search?q=National+State+of+Disaster) | N/A |
+| 35 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 36 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
+| 37 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 38 | [Daily Maverick](http://twitter.com/search?q=Daily+Maverick) | N/A |
+| 39 | [January Photo Dump](http://twitter.com/search?q=January+Photo+Dump) | N/A |
+| 40 | [Pork](http://twitter.com/search?q=Pork) | N/A |
+| 41 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 42 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 43 | [Malan](http://twitter.com/search?q=Malan) | N/A |
+| 44 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
 | 45 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 46 | [Kapinga](http://twitter.com/search?q=Kapinga) | N/A |
-| 47 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 48 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
-| 49 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 46 | [Nozi](http://twitter.com/search?q=Nozi) | N/A |
+| 47 | [THEMBABROLY ON MZANSI MAGIC](http://twitter.com/search?q=THEMBABROLY+ON+MZANSI+MAGIC) | N/A |
+| 48 | [Rutendo](http://twitter.com/search?q=Rutendo) | N/A |
+| 49 | [Skhu](http://twitter.com/search?q=Skhu) | N/A |
 
 
 
