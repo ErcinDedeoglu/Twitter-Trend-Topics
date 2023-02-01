@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-02-01 06:16:58 UTC`
+📆 Last Updated: `2023-02-01 07:19:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [Februari](http://twitter.com/search?q=Februari) | Februari is the second month of the year in the Gregorian calendar. In English, it is spelled February. |
 | 5 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
 | 6 | [Januari](http://twitter.com/search?q=Januari) | N/A |
-| 7 | [#Lazada22xGeminiFourth](http://twitter.com/search?q=%23Lazada22xGeminiFourth) | #Lazada22xGeminiFourth is a promotional hashtag used by the online shopping platform Lazada to promote their 22nd anniversary sale in collaboration with the fashion brand Gemini Fourth. The hashtag is used to encourage customers to take advantage of the special offers available during the sale. |
-| 8 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
-| 9 | [Train to Busan](http://twitter.com/search?q=Train+to+Busan) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Prabowo Lebih Baik](http://twitter.com/search?q=Prabowo+Lebih+Baik) | Prabowo Lebih Baik is a slogan used by supporters of Indonesian presidential candidate Prabowo Subianto in the 2019 election. It translates to "Prabowo is Better" in English. |
+| 8 | [#pengirimancepat](http://twitter.com/search?q=%23pengirimancepat) | N/A |
+| 9 | [Aremania](http://twitter.com/search?q=Aremania) | N/A |
+| 10 | [Train to Busan](http://twitter.com/search?q=Train+to+Busan) | N/A |
 | 11 | [hanya di lazada](http://twitter.com/search?q=hanya+di+lazada) | N/A |
-| 12 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 13 | [Yuli Sumpil](http://twitter.com/search?q=Yuli+Sumpil) | N/A |
-| 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 15 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
-| 16 | [Gus Muhaimin Iskandar](http://twitter.com/search?q=Gus+Muhaimin+Iskandar) | Gus Muhaimin Iskandar is an Indonesian politician who served as the Minister of Education and Culture from 2014 to 2019. The name is derived from the Arabic name Muhaimin, which means "protector" or "guardian", and Iskandar, which is a variant of Alexander, meaning "defender of mankind". In English, the name can be translated to mean "Protector of Mankind, Defender of Alexander". |
-| 17 | [Pelayaran](http://twitter.com/search?q=Pelayaran) | N/A |
-| 18 | [World War Z](http://twitter.com/search?q=World+War+Z) | N/A |
-| 19 | [BRIN](http://twitter.com/search?q=BRIN) | N/A |
-| 20 | [SNSD](http://twitter.com/search?q=SNSD) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 14 | [Yuli Sumpil](http://twitter.com/search?q=Yuli+Sumpil) | N/A |
+| 15 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 16 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
+| 17 | [World War Z](http://twitter.com/search?q=World+War+Z) | N/A |
+| 18 | [BRIN](http://twitter.com/search?q=BRIN) | N/A |
+| 19 | [Gus Muhaimin Iskandar](http://twitter.com/search?q=Gus+Muhaimin+Iskandar) | Gus Muhaimin Iskandar is an Indonesian politician who served as the Minister of Education and Culture from 2014 to 2019. The name is derived from the Arabic name Muhaimin, which means "protector" or "guardian", and Iskandar, which is a variant of Alexander, meaning "defender of mankind". In English, the name can be translated to mean "Protector of Mankind, Defender of Alexander". |
+| 20 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
 | 21 | [Guru](http://twitter.com/search?q=Guru) | N/A |
-| 22 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 23 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 24 | [Shinta Ratri](http://twitter.com/search?q=Shinta+Ratri) | N/A |
-| 25 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
+| 22 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 23 | [Pelayaran](http://twitter.com/search?q=Pelayaran) | N/A |
+| 24 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 25 | [SNSD](http://twitter.com/search?q=SNSD) | N/A |
 | 26 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 27 | [Indomilk](http://twitter.com/search?q=Indomilk) | N/A |
-| 28 | [pkb ya nu](http://twitter.com/search?q=pkb+ya+nu) | N/A |
-| 29 | [Indonesia Terus Maju](http://twitter.com/search?q=Indonesia+Terus+Maju) | Indonesia Terus Maju is a popular Indonesian phrase that translates to "Indonesia Keeps Moving Forward". It is often used as a slogan or motto to express the nation's commitment to progress and development. |
-| 30 | [Rasya](http://twitter.com/search?q=Rasya) | N/A |
-| 31 | [Alphard](http://twitter.com/search?q=Alphard) | N/A |
-| 32 | [we love you jaemin](http://twitter.com/search?q=we+love+you+jaemin) | N/A |
-| 33 | [arsjad rasjid](http://twitter.com/search?q=arsjad+rasjid) | N/A |
-| 34 | [Mending Prabowo](http://twitter.com/search?q=Mending+Prabowo) | Mending Prabowo is an Indonesian phrase that translates to "supporting Prabowo". It is a slogan used by supporters of Prabowo Subianto, an Indonesian politician who ran for president in the 2019 Indonesian presidential election. The phrase is used to show support for Prabowo and his policies. |
-| 35 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
-| 36 | [LONG HAIR](http://twitter.com/search?q=LONG+HAIR) | N/A |
+| 27 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
+| 28 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
+| 29 | [Shinta Ratri](http://twitter.com/search?q=Shinta+Ratri) | N/A |
+| 30 | [pkb ya nu](http://twitter.com/search?q=pkb+ya+nu) | N/A |
+| 31 | [we love you jaemin](http://twitter.com/search?q=we+love+you+jaemin) | N/A |
+| 32 | [arsjad rasjid](http://twitter.com/search?q=arsjad+rasjid) | N/A |
+| 33 | [Indomilk](http://twitter.com/search?q=Indomilk) | N/A |
+| 34 | [Rasya](http://twitter.com/search?q=Rasya) | N/A |
+| 35 | [Alphard](http://twitter.com/search?q=Alphard) | N/A |
+| 36 | [Nahdlatul Ulama](http://twitter.com/search?q=Nahdlatul+Ulama) | N/A |
 | 37 | [Stop Penghinaan Al Qur'an](http://twitter.com/search?q=Stop+Penghinaan+Al+Qur%27an) | N/A |
-| 38 | [Hekter](http://twitter.com/search?q=Hekter) | N/A |
+| 38 | [bss album tracklist](http://twitter.com/search?q=bss+album+tracklist) | N/A |
 | 39 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
-| 40 | [bss album tracklist](http://twitter.com/search?q=bss+album+tracklist) | N/A |
-| 41 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
-| 42 | [Split](http://twitter.com/search?q=Split) | N/A |
-| 43 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 44 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 45 | [Witan](http://twitter.com/search?q=Witan) | N/A |
-| 46 | [Bersatu Bela Islam](http://twitter.com/search?q=Bersatu+Bela+Islam) | N/A |
+| 40 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
+| 41 | [Bersatu Bela Islam](http://twitter.com/search?q=Bersatu+Bela+Islam) | N/A |
+| 42 | [LONG HAIR](http://twitter.com/search?q=LONG+HAIR) | N/A |
+| 43 | [Shafaa](http://twitter.com/search?q=Shafaa) | N/A |
+| 44 | [Mohabbatein](http://twitter.com/search?q=Mohabbatein) | N/A |
+| 45 | [Hekter](http://twitter.com/search?q=Hekter) | N/A |
+| 46 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
 | 47 | [Tikar](http://twitter.com/search?q=Tikar) | N/A |
-| 48 | [Shafaa](http://twitter.com/search?q=Shafaa) | N/A |
-| 49 | [Arek Malang](http://twitter.com/search?q=Arek+Malang) | N/A |
+| 48 | [Split](http://twitter.com/search?q=Split) | N/A |
+| 49 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
 
 
 

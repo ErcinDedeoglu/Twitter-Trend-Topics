@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-01 06:16:48 UTC`
+📆 Last Updated: `2023-02-01 07:19:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
 | 7 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
 | 8 | [Danry](http://twitter.com/search?q=Danry) | N/A |
-| 9 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 10 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 11 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
-| 12 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
-| 13 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 14 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
-| 15 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 16 | [Henry Blanco](http://twitter.com/search?q=Henry+Blanco) | Henry Blanco is a Spanish surname. It is derived from the word "blanco," which means "white" in English. |
-| 17 | [Hidrocapital](http://twitter.com/search?q=Hidrocapital) | N/A |
-| 18 | [Palacio de Miraflores](http://twitter.com/search?q=Palacio+de+Miraflores) | N/A |
-| 19 | [Héctor Lavoe](http://twitter.com/search?q=H%c3%a9ctor+Lavoe) | N/A |
-| 20 | [Inces](http://twitter.com/search?q=Inces) | N/A |
-| 21 | [Silvino](http://twitter.com/search?q=Silvino) | N/A |
-| 22 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
-| 23 | [Metras](http://twitter.com/search?q=Metras) | N/A |
+| 9 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
+| 10 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
+| 11 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 12 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 13 | [Carlos Ocariz](http://twitter.com/search?q=Carlos+Ocariz) | N/A |
+| 14 | [Henry Blanco](http://twitter.com/search?q=Henry+Blanco) | Henry Blanco is a Spanish surname. It is derived from the word "blanco," which means "white" in English. |
+| 15 | [Hidrocapital](http://twitter.com/search?q=Hidrocapital) | N/A |
+| 16 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 17 | [Héctor Lavoe](http://twitter.com/search?q=H%c3%a9ctor+Lavoe) | N/A |
+| 18 | [José Félix Ribas](http://twitter.com/search?q=Jos%c3%a9+F%c3%a9lix+Ribas) | N/A |
+| 19 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
+| 20 | [Palacio de Miraflores](http://twitter.com/search?q=Palacio+de+Miraflores) | N/A |
+| 21 | [SILVINO BRACHO](http://twitter.com/search?q=SILVINO+BRACHO) | N/A |
+| 22 | [Metras](http://twitter.com/search?q=Metras) | N/A |
+| 23 | [Rafael Orozco](http://twitter.com/search?q=Rafael+Orozco) | N/A |
 | 24 | [Brayan Alcócer](http://twitter.com/search?q=Brayan+Alc%c3%b3cer) | N/A |
 | 25 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 26 | [Rafael Orozco](http://twitter.com/search?q=Rafael+Orozco) | N/A |
-| 27 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 28 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
-| 31 | [Transparencia Internacional](http://twitter.com/search?q=Transparencia+Internacional) | N/A |
-| 32 | [Rummie Quintero](http://twitter.com/search?q=Rummie+Quintero) | N/A |
-| 33 | [Alma Llanera](http://twitter.com/search?q=Alma+Llanera) | N/A |
-| 34 | [Alcides Escobar](http://twitter.com/search?q=Alcides+Escobar) | N/A |
-| 35 | [Porfi Baloa](http://twitter.com/search?q=Porfi+Baloa) | N/A |
-| 36 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 37 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 38 | [La Guaira](http://twitter.com/search?q=La+Guaira) | N/A |
-| 39 | [actividades judiciales](http://twitter.com/search?q=actividades+judiciales) | N/A |
-| 40 | [rafael bolívar coronado](http://twitter.com/search?q=rafael+bol%c3%advar+coronado) | N/A |
-| 41 | [Balbino](http://twitter.com/search?q=Balbino) | N/A |
-| 42 | [Gilberto Santa Rosa](http://twitter.com/search?q=Gilberto+Santa+Rosa) | N/A |
-| 43 | [Revolución Judicial](http://twitter.com/search?q=Revoluci%c3%b3n+Judicial) | N/A |
-| 44 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
-| 45 | [Día del Internacionalista](http://twitter.com/search?q=D%c3%ada+del+Internacionalista) | N/A |
-| 46 | [Campeonato](http://twitter.com/search?q=Campeonato) | N/A |
-| 47 | [Félix Pérez](http://twitter.com/search?q=F%c3%a9lix+P%c3%a9rez) | N/A |
+| 26 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
+| 27 | [Pakistán](http://twitter.com/search?q=Pakist%c3%a1n) | N/A |
+| 28 | [alma llanera](http://twitter.com/search?q=alma+llanera) | N/A |
+| 29 | [Transparencia Internacional](http://twitter.com/search?q=Transparencia+Internacional) | N/A |
+| 30 | [Porfi Baloa](http://twitter.com/search?q=Porfi+Baloa) | N/A |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [rummie quintero](http://twitter.com/search?q=rummie+quintero) | N/A |
+| 33 | [alcides escobar](http://twitter.com/search?q=alcides+escobar) | N/A |
+| 34 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 35 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 36 | [actividades judiciales](http://twitter.com/search?q=actividades+judiciales) | N/A |
+| 37 | [La Guaira](http://twitter.com/search?q=La+Guaira) | N/A |
+| 38 | [rafael bolívar coronado](http://twitter.com/search?q=rafael+bol%c3%advar+coronado) | N/A |
+| 39 | [balbino](http://twitter.com/search?q=balbino) | N/A |
+| 40 | [Gilberto Santa Rosa](http://twitter.com/search?q=Gilberto+Santa+Rosa) | N/A |
+| 41 | [Prosperi](http://twitter.com/search?q=Prosperi) | N/A |
+| 42 | [Revolución Judicial](http://twitter.com/search?q=Revoluci%c3%b3n+Judicial) | N/A |
+| 43 | [Día del Internacionalista](http://twitter.com/search?q=D%c3%ada+del+Internacionalista) | N/A |
+| 44 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 45 | [Félix Pérez](http://twitter.com/search?q=F%c3%a9lix+P%c3%a9rez) | N/A |
+| 46 | [Caimanera](http://twitter.com/search?q=Caimanera) | N/A |
+| 47 | [Kevin Kelsy](http://twitter.com/search?q=Kevin+Kelsy) | N/A |
 
 
 
