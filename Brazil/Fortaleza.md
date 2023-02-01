@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-02-01 21:16:21 UTC`
+📆 Last Updated: `2023-02-01 22:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 2 | [Ambev](http://twitter.com/search?q=Ambev) | Ambev is a Brazilian brewing company. It is the largest brewer in Latin America and one of the top five brewers in the world. The name Ambev is an acronym for "AmBev - Companhia de Bebidas das Americas". In English, this translates to "The Beverage Company of the Americas". |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [FLOWERS IS COMING](http://twitter.com/search?q=FLOWERS+IS+COMING) | N/A |
-| 5 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 6 | [Eduardo Girão](http://twitter.com/search?q=Eduardo+Gir%c3%a3o) | N/A |
-| 7 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 8 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | N/A |
-| 9 | [Auckland City](http://twitter.com/search?q=Auckland+City) | N/A |
-| 10 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 11 | [El Toro](http://twitter.com/search?q=El+Toro) | N/A |
-| 12 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 13 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
-| 14 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
-| 15 | [#CopaDaLigaNaESPN](http://twitter.com/search?q=%23CopaDaLigaNaESPN) | N/A |
-| 16 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 17 | [#pachecoNA0](http://twitter.com/search?q=%23pachecoNA0) | N/A |
-| 18 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 19 | [Galaxy S23](http://twitter.com/search?q=Galaxy+S23) | N/A |
-| 20 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 21 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 22 | [Fora Lula](http://twitter.com/search?q=Fora+Lula) | N/A |
-| 23 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 24 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 25 | [O JK](http://twitter.com/search?q=O+JK) | N/A |
-| 26 | [Trento](http://twitter.com/search?q=Trento) | N/A |
-| 27 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 28 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 29 | [Fenapaf](http://twitter.com/search?q=Fenapaf) | N/A |
-| 30 | [#RogerioMarinhoPresidente](http://twitter.com/search?q=%23RogerioMarinhoPresidente) | N/A |
-| 31 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 32 | [#GalaxyUnpacked](http://twitter.com/search?q=%23GalaxyUnpacked) | N/A |
-| 33 | [Maçã](http://twitter.com/search?q=Ma%c3%a7%c3%a3) | N/A |
-| 34 | [Marcel Van Hattem](http://twitter.com/search?q=Marcel+Van+Hattem) | N/A |
-| 35 | [Congresso](http://twitter.com/search?q=Congresso) | Congresso is the Portuguese word for Congress. It is used to refer to the legislative branch of government in Brazil, which is responsible for making laws and overseeing the executive branch. In English, Congresso translates to Congress. |
-| 36 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 37 | [Chico Alencar](http://twitter.com/search?q=Chico+Alencar) | N/A |
-| 38 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
-| 39 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 40 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 41 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 42 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 43 | [Renan Calheiros](http://twitter.com/search?q=Renan+Calheiros) | Renan Calheiros is a Brazilian politician who served as President of the Senate from 2007 to 2019. He is a member of the Brazilian Democratic Movement Party (PMDB). The name Renan Calheiros translates to "renewed warrior" in English. |
-| 44 | [O BAM](http://twitter.com/search?q=O+BAM) | N/A |
-| 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 46 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 47 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 48 | [Assembleia Legislativa](http://twitter.com/search?q=Assembleia+Legislativa) | N/A |
-| 49 | [Aras](http://twitter.com/search?q=Aras) | Aras is a Persian word meaning "brilliance" or "splendor". It is often used to describe someone or something that is particularly impressive or beautiful. |
-| 50 | [Presidência](http://twitter.com/search?q=Presid%c3%aancia) | N/A |
+| 1 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 2 | [PERDEU MANÉ](http://twitter.com/search?q=PERDEU+MAN%c3%89) | PERDEU MANÉ is a Portuguese phrase that translates to "you lost, dude" in English. It is typically used as an expression of disappointment or frustration when someone has made a mistake or failed at something. |
+| 3 | [#CasamentoAsCegasBrasil2](http://twitter.com/search?q=%23CasamentoAsCegasBrasil2) | #CasamentoAsCegasBrasil2 is a hashtag used on social media in Brazil to refer to the second season of the reality TV show Casamento As Cegas Brasil (Blind Date Brazil). The show follows couples who have never met before and are matched up by a panel of experts. The couples then go on a series of dates and eventually decide whether or not they want to get married. In English, the hashtag translates to "Blind Date Brazil 2". |
+| 4 | [Perderam](http://twitter.com/search?q=Perderam) | N/A |
+| 5 | [Thamara](http://twitter.com/search?q=Thamara) | N/A |
+| 6 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 7 | [FLOWERS IS COMING](http://twitter.com/search?q=FLOWERS+IS+COMING) | N/A |
+| 8 | [Veronica](http://twitter.com/search?q=Veronica) | N/A |
+| 9 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 10 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
+| 11 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 12 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 13 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 14 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 15 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 16 | [#TresVezesAna003](http://twitter.com/search?q=%23TresVezesAna003) | N/A |
+| 17 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 18 | [Ambev](http://twitter.com/search?q=Ambev) | Ambev is a Brazilian brewing company. It is the largest brewer in Latin America and one of the top five brewers in the world. The name Ambev is an acronym for "AmBev - Companhia de Bebidas das Americas". In English, this translates to "The Beverage Company of the Americas". |
+| 19 | [PRÉ SAVE RABETÃO](http://twitter.com/search?q=PR%c3%89+SAVE+RABET%c3%83O) | N/A |
+| 20 | [#CopaDaLigaNaESPN](http://twitter.com/search?q=%23CopaDaLigaNaESPN) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Derrota](http://twitter.com/search?q=Derrota) | N/A |
+| 23 | [Presidência](http://twitter.com/search?q=Presid%c3%aancia) | N/A |
+| 24 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
+| 25 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 26 | [NÃO AMOLA](http://twitter.com/search?q=N%c3%83O+AMOLA) | N/A |
+| 27 | [Eduardo Girão](http://twitter.com/search?q=Eduardo+Gir%c3%a3o) | N/A |
+| 28 | [El Toro](http://twitter.com/search?q=El+Toro) | N/A |
+| 29 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 30 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | N/A |
+| 31 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 32 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 33 | [Voto](http://twitter.com/search?q=Voto) | N/A |
+| 34 | [Chola](http://twitter.com/search?q=Chola) | N/A |
+| 35 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 36 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [Auckland City](http://twitter.com/search?q=Auckland+City) | N/A |
+| 39 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 40 | [#VergonhaNacional](http://twitter.com/search?q=%23VergonhaNacional) | N/A |
+| 41 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 42 | [Maçã](http://twitter.com/search?q=Ma%c3%a7%c3%a3) | N/A |
+| 43 | [Congresso](http://twitter.com/search?q=Congresso) | Congresso is the Portuguese word for Congress. It is used to refer to the legislative branch of government in Brazil, which is responsible for making laws and overseeing the executive branch. In English, Congresso translates to Congress. |
+| 44 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 45 | [Selic](http://twitter.com/search?q=Selic) | N/A |
+| 46 | [Trento](http://twitter.com/search?q=Trento) | N/A |
+| 47 | [Galaxy S23](http://twitter.com/search?q=Galaxy+S23) | N/A |
+| 48 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
+| 49 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 50 | [O JK](http://twitter.com/search?q=O+JK) | N/A |
 
 
 

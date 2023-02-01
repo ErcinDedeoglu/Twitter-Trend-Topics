@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-02-01 21:16:29 UTC`
+📆 Last Updated: `2023-02-01 22:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
-| 2 | [#COAC2023P12](http://twitter.com/search?q=%23COAC2023P12) | N/A |
-| 3 | [#ChollometroForever](http://twitter.com/search?q=%23ChollometroForever) | N/A |
-| 4 | [Agoney](http://twitter.com/search?q=Agoney) | Agoney is a Spanish slang term used to describe someone who is very unlucky or having a streak of bad luck. It can also be used to describe someone who is clumsy or awkward. In English, it could be translated as "unlucky" or "clumsy". |
-| 5 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Alice Wonder](http://twitter.com/search?q=Alice+Wonder) | Alice Wonder is a phrase used to describe someone who is curious and imaginative. It is often used to describe children who are full of wonder and awe at the world around them. |
+| 1 | [#COAC2023P12](http://twitter.com/search?q=%23COAC2023P12) | N/A |
+| 2 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 3 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
+| 4 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 5 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 6 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 7 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 8 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 9 | [Fusa Nocta](http://twitter.com/search?q=Fusa+Nocta) | Fusa Nocta is a Latin phrase meaning "night watch." It was originally used to refer to a night watchman or guard who would patrol an area at night to ensure safety and security. |
-| 10 | [Aritz](http://twitter.com/search?q=Aritz) | Aritz is a Basque name derived from the Latin name "Aurelius". It is a masculine name meaning "golden" or "gilded". |
-| 11 | [#Pasapalabra695](http://twitter.com/search?q=%23Pasapalabra695) | N/A |
-| 12 | [#FirstDates1F](http://twitter.com/search?q=%23FirstDates1F) | N/A |
-| 13 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 14 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
-| 15 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 16 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 17 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
-| 18 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 19 | [Sharonne](http://twitter.com/search?q=Sharonne) | Sharonne is a feminine given name of Hebrew origin, derived from the biblical name Shara. It is a variant of Sharon, which means "plain" or "flat land" in Hebrew. |
-| 20 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 21 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
-| 22 | [Mónica Naranjo](http://twitter.com/search?q=M%c3%b3nica+Naranjo) | Mónica Naranjo is a Spanish singer, songwriter, and television personality. She is known for her powerful voice and flamboyant stage presence. In English, her name translates to "Monica Orange". |
-| 23 | [Rabat](http://twitter.com/search?q=Rabat) | N/A |
-| 24 | [Twin Melody](http://twitter.com/search?q=Twin+Melody) | Twin Melody is a Japanese term used to describe two melodies that are played simultaneously, usually in harmony. It is often used to describe the sound of two instruments playing together, such as a piano and a guitar. In English, it can be translated as "dual melody". |
-| 25 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 26 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 27 | [De Burgos](http://twitter.com/search?q=De+Burgos) | N/A |
-| 28 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 29 | [Raillo](http://twitter.com/search?q=Raillo) | N/A |
-| 30 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 31 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
-| 34 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 35 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 36 | [Manolo Gaspar](http://twitter.com/search?q=Manolo+Gaspar) | N/A |
-| 37 | [Benito Villamarín](http://twitter.com/search?q=Benito+Villamar%c3%adn) | N/A |
-| 38 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | N/A |
-| 39 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 40 | [Sofía Martín](http://twitter.com/search?q=Sof%c3%ada+Mart%c3%adn) | N/A |
-| 41 | [Malbert](http://twitter.com/search?q=Malbert) | N/A |
-| 42 | [Meler](http://twitter.com/search?q=Meler) | Meler is a Spanish word meaning "to melt." It is used to describe the process of melting something, such as melting butter or chocolate. |
-| 43 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 44 | [Jong](http://twitter.com/search?q=Jong) | N/A |
-| 45 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 46 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 47 | [leo rizzi](http://twitter.com/search?q=leo+rizzi) | N/A |
-| 48 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 49 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 50 | [Lecomte](http://twitter.com/search?q=Lecomte) | N/A |
+| 9 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 10 | [#LosEsclavos](http://twitter.com/search?q=%23LosEsclavos) | N/A |
+| 11 | [#FirstDates1F](http://twitter.com/search?q=%23FirstDates1F) | N/A |
+| 12 | [De Burgos](http://twitter.com/search?q=De+Burgos) | N/A |
+| 13 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
+| 14 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 15 | [#elconquis3ETB](http://twitter.com/search?q=%23elconquis3ETB) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 18 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 19 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
+| 20 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 21 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
+| 22 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 23 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
+| 24 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 25 | [Ruibal](http://twitter.com/search?q=Ruibal) | Ruibal is a Spanish surname derived from the Latin word "rubellus," which means red. It is also believed to be derived from the Latin word "rubinus," which means ruby. The name is most commonly found in Spain and Latin America. |
+| 26 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
+| 27 | [El Barcelona](http://twitter.com/search?q=El+Barcelona) | N/A |
+| 28 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
+| 29 | [Busi](http://twitter.com/search?q=Busi) | N/A |
+| 30 | [Panathinaikos](http://twitter.com/search?q=Panathinaikos) | N/A |
+| 31 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 32 | [La Fed](http://twitter.com/search?q=La+Fed) | N/A |
+| 33 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 34 | [Raillo](http://twitter.com/search?q=Raillo) | N/A |
+| 35 | [Rabat](http://twitter.com/search?q=Rabat) | N/A |
+| 36 | [Medalla](http://twitter.com/search?q=Medalla) | N/A |
+| 37 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 38 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 39 | [Begoño](http://twitter.com/search?q=Bego%c3%b1o) | N/A |
+| 40 | [Sáhara](http://twitter.com/search?q=S%c3%a1hara) | N/A |
+| 41 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 42 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 43 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 44 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 45 | [#MurgasSC3](http://twitter.com/search?q=%23MurgasSC3) | N/A |
+| 46 | [#IreneMonteroEnT5](http://twitter.com/search?q=%23IreneMonteroEnT5) | N/A |
+| 47 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
+| 48 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 49 | [#ChollometroForever](http://twitter.com/search?q=%23ChollometroForever) | N/A |
 
 
 

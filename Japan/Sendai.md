@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sendai
 
-📆 Last Updated: `2023-02-01 21:16:34 UTC`
+📆 Last Updated: `2023-02-01 22:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [スシロー](http://twitter.com/search?q=%e3%82%b9%e3%82%b7%e3%83%ad%e3%83%bc) | スシロー is a popular Japanese chain of fast-food restaurants that specializes in gyudon (beef bowl) and other dishes. The name is derived from the Japanese phrase "sushi-ryōri," which means "sushi cuisine." In English, it can be translated as "Sushi-Ryo." |
-| 2 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
-| 3 | [#ツインテールの日](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%b3%e3%83%86%e3%83%bc%e3%83%ab%e3%81%ae%e6%97%a5) | N/A |
-| 4 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
+| 2 | [男子プリキュア](http://twitter.com/search?q=%e7%94%b7%e5%ad%90%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | 男子プリキュア (Danshi Purikyua) is a Japanese anime series that follows the adventures of five male high school students who transform into superheroes to protect the world from evil. The English translation of this phrase is "Boys' PreCure". |
+| 3 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 4 | [#ツインテールの日](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%b3%e3%83%86%e3%83%bc%e3%83%ab%e3%81%ae%e6%97%a5) | N/A |
 | 5 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
-| 6 | [ムーラン・ルージュ](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%bb%e3%83%ab%e3%83%bc%e3%82%b8%e3%83%a5) | N/A |
-| 7 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
-| 8 | [#おは戦50202fm](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650202fm) | N/A |
-| 9 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
-| 10 | [タトゥーの説明](http://twitter.com/search?q=%e3%82%bf%e3%83%88%e3%82%a5%e3%83%bc%e3%81%ae%e8%aa%ac%e6%98%8e) | タトゥーの説明 is a Japanese phrase that translates to "explanation of a tattoo". It is used to refer to the explanation or description of a tattoo design, such as its symbolism, meaning, or origin. |
-| 11 | [#佐久間宣行ANN0](http://twitter.com/search?q=%23%e4%bd%90%e4%b9%85%e9%96%93%e5%ae%a3%e8%a1%8cANN0) | N/A |
-| 12 | [かえでぃー](http://twitter.com/search?q=%e3%81%8b%e3%81%88%e3%81%a7%e3%81%83%e3%83%bc) | N/A |
-| 13 | [バムちゃん](http://twitter.com/search?q=%e3%83%90%e3%83%a0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 14 | [第377回](http://twitter.com/search?q=%e7%ac%ac377%e5%9b%9e) | 第377回 is a Japanese phrase that translates to "377th time". It is often used to refer to the 377th episode of a television show or other series. |
-| 15 | [パウエル](http://twitter.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab) | N/A |
-| 16 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 17 | [ガルナチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%8a%e3%83%81%e3%83%a7) | N/A |
-| 18 | [コンビーフ丼](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%93%e3%83%bc%e3%83%95%e4%b8%bc) | コンビーフ丼 is a Japanese dish consisting of a bowl of rice topped with konbu (seaweed) and beef. The name literally translates to "Konbu Bowl". It is usually served with a side of pickled vegetables. |
-| 19 | [ベティス](http://twitter.com/search?q=%e3%83%99%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
-| 20 | [グクの歌声](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%81%ae%e6%ad%8c%e5%a3%b0) | N/A |
-| 21 | [インライ](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%a9%e3%82%a4) | インライ (inrai) is a Japanese word that means "inside" or "interior". It is often used to refer to the inside of a building or room. |
-| 22 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
-| 23 | [グクとテテ](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%81%a8%e3%83%86%e3%83%86) | N/A |
+| 6 | [キュアウィング](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 7 | [ムーラン・ルージュ](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%bb%e3%83%ab%e3%83%bc%e3%82%b8%e3%83%a5) | N/A |
+| 8 | [インスタライブ](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 9 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
+| 10 | [村瀬さん](http://twitter.com/search?q=%e6%9d%91%e7%80%ac%e3%81%95%e3%82%93) | N/A |
+| 11 | [#おは戦50202fm](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650202fm) | N/A |
+| 12 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
+| 13 | [マルシャル](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%ab) | N/A |
+| 14 | [かえでぃー](http://twitter.com/search?q=%e3%81%8b%e3%81%88%e3%81%a7%e3%81%83%e3%83%bc) | N/A |
+| 15 | [キュアゴリラ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%b4%e3%83%aa%e3%83%a9) | N/A |
+| 16 | [成人プリキュア](http://twitter.com/search?q=%e6%88%90%e4%ba%ba%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 17 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
+| 18 | [キュアバタフライ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%90%e3%82%bf%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
+| 19 | [加賀楓さん](http://twitter.com/search?q=%e5%8a%a0%e8%b3%80%e6%a5%93%e3%81%95%e3%82%93) | N/A |
+| 20 | [バームの王様](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%a0%e3%81%ae%e7%8e%8b%e6%a7%98) | N/A |
+| 21 | [村瀬くん](http://twitter.com/search?q=%e6%9d%91%e7%80%ac%e3%81%8f%e3%82%93) | N/A |
+| 22 | [ガルナチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%8a%e3%83%81%e3%83%a7) | N/A |
+| 23 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
 | 24 | [望海さん](http://twitter.com/search?q=%e6%9c%9b%e6%b5%b7%e3%81%95%e3%82%93) | N/A |
-| 25 | [バログン](http://twitter.com/search?q=%e3%83%90%e3%83%ad%e3%82%b0%e3%83%b3) | N/A |
-| 26 | [イブラヒム3周年記念アニメ](http://twitter.com/search?q=%e3%82%a4%e3%83%96%e3%83%a9%e3%83%92%e3%83%a03%e5%91%a8%e5%b9%b4%e8%a8%98%e5%bf%b5%e3%82%a2%e3%83%8b%e3%83%a1) | イブラヒム3周年記念アニメ is an animated short film created to commemorate the third anniversary of the popular Japanese manga series, "Ibara no Himemiko". The title translates to "Ibara no Himemiko 3rd Anniversary Animation". |
-| 27 | [ORT戦](http://twitter.com/search?q=ORT%e6%88%a6) | ORT戦 is a Japanese term that refers to a type of online tournament. It stands for "Online Ranking Tournament" and is a competition where players compete against each other in an online game. The winner of the tournament is determined by their ranking in the game. The English translation would be "Online Ranking Tournament". |
-| 28 | [ウィバラ](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%90%e3%83%a9) | N/A |
-| 29 | [VIBE](http://twitter.com/search?q=VIBE) | N/A |
-| 30 | [ぐぅちゃん](http://twitter.com/search?q=%e3%81%90%e3%81%85%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 31 | [グクちゃん](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 32 | [イブアニ](http://twitter.com/search?q=%e3%82%a4%e3%83%96%e3%82%a2%e3%83%8b) | イブアニ is short for "イブニング・アニメーション", which translates to "evening animation" in English. It is a term used to refer to animated shows that are broadcast in the evening. |
-| 33 | [夫婦の日](http://twitter.com/search?q=%e5%a4%ab%e5%a9%a6%e3%81%ae%e6%97%a5) | N/A |
-| 34 | [ガンニバル](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%8b%e3%83%90%e3%83%ab) | ガンニバル (Gannibal) is a Japanese manga series written and illustrated by Yutaka Abe. It follows the story of a young man named Gannibal, who is born with superhuman strength and agility, and his adventures as he fights against evil forces. The title is a play on words, combining the Japanese word for gun (gan) with the English word "carnival". In English, it can be translated to mean "Gun Carnival". |
-| 35 | [卵白焼き](http://twitter.com/search?q=%e5%8d%b5%e7%99%bd%e7%84%bc%e3%81%8d) | N/A |
-| 36 | [ユニクロ](http://twitter.com/search?q=%e3%83%a6%e3%83%8b%e3%82%af%e3%83%ad) | ユニクロ is a Japanese clothing brand that specializes in casual wear. The name is a combination of the words "uniform" and "clothing". In English, it means "Uniqlo". |
-| 37 | [ドンさん](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%81%95%e3%82%93) | ドンさん is a nickname for the Japanese character Donbe from the anime series "Keroro Gunso". It is a combination of the words "Don" and "san", which mean "Mr." in English. The nickname is used to show affection and respect for the character. |
-| 38 | [HISASHIさん](http://twitter.com/search?q=HISASHI%e3%81%95%e3%82%93) | HISASHIさん is a Japanese honorific used to refer to someone with respect. In English, it would be translated as "Mr. HISASHI". |
-| 39 | [インスタLIVE](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bfLIVE) | N/A |
-| 40 | [ナムジュニヒョン](http://twitter.com/search?q=%e3%83%8a%e3%83%a0%e3%82%b8%e3%83%a5%e3%83%8b%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
-| 41 | [ナムさん](http://twitter.com/search?q=%e3%83%8a%e3%83%a0%e3%81%95%e3%82%93) | N/A |
-| 42 | [ちいかわちゃん](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [KROSS](http://twitter.com/search?q=KROSS) | N/A |
-| 44 | [グクペン](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%83%9a%e3%83%b3) | N/A |
-| 45 | [Wordle 593](http://twitter.com/search?q=Wordle+593) | N/A |
-| 46 | [ZX-4RR](http://twitter.com/search?q=ZX-4RR) | ZX-4RR is a type of four-stroke engine developed by the Japanese company Yamaha. It is a lightweight, high-performance engine designed for use in motorcycles, ATVs, and other small vehicles. The "RR" in the name stands for "Race Replica," indicating that it is a racing-inspired engine. |
-| 47 | [カワサキ](http://twitter.com/search?q=%e3%82%ab%e3%83%af%e3%82%b5%e3%82%ad) | N/A |
-| 48 | [凛ちゃん](http://twitter.com/search?q=%e5%87%9b%e3%81%a1%e3%82%83%e3%82%93) | 凛ちゃん is a nickname for the Japanese singer and songwriter Rin, who is part of the idol group Nogizaka46. The name literally translates to "Rin-chan" in English. |
+| 25 | [第377回](http://twitter.com/search?q=%e7%ac%ac377%e5%9b%9e) | 第377回 is a Japanese phrase that translates to "377th time". It is often used to refer to the 377th episode of a television show or other series. |
+| 26 | [リンデロフ](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%87%e3%83%ad%e3%83%95) | N/A |
+| 27 | [For Youth](http://twitter.com/search?q=For+Youth) | For Youth is a phrase used to refer to activities, programs, or initiatives that are specifically designed for young people. It can also be used to describe organizations or services that focus on helping young people. The phrase is often used in the context of social work, education, and health care. |
+| 28 | [フレッジ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b8) | N/A |
+| 29 | [ベティス](http://twitter.com/search?q=%e3%83%99%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
+| 30 | [#Mondo247](http://twitter.com/search?q=%23Mondo247) | N/A |
+| 31 | [バムちゃん](http://twitter.com/search?q=%e3%83%90%e3%83%a0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 32 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 33 | [あゆむらせ](http://twitter.com/search?q=%e3%81%82%e3%82%86%e3%82%80%e3%82%89%e3%81%9b) | N/A |
+| 34 | [タトゥーの説明](http://twitter.com/search?q=%e3%82%bf%e3%83%88%e3%82%a5%e3%83%bc%e3%81%ae%e8%aa%ac%e6%98%8e) | タトゥーの説明 is a Japanese phrase that translates to "explanation of a tattoo". It is used to refer to the explanation or description of a tattoo design, such as its symbolism, meaning, or origin. |
+| 35 | [グクとテテ](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%81%a8%e3%83%86%e3%83%86) | N/A |
+| 36 | [#加藤史帆生誕祭](http://twitter.com/search?q=%23%e5%8a%a0%e8%97%a4%e5%8f%b2%e5%b8%86%e7%94%9f%e8%aa%95%e7%a5%ad) | #加藤史帆生誕祭 is a hashtag used to celebrate the birthday of Japanese actress and singer Fumika Kato. The hashtag translates to "Fumika Kato Birthday Festival" in English. |
+| 37 | [レヴァンドフスキ](http://twitter.com/search?q=%e3%83%ac%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%89%e3%83%95%e3%82%b9%e3%82%ad) | N/A |
+| 38 | [クレモネーゼ](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%83%a2%e3%83%8d%e3%83%bc%e3%82%bc) | N/A |
+| 39 | [帝国劇場](http://twitter.com/search?q=%e5%b8%9d%e5%9b%bd%e5%8a%87%e5%a0%b4) | N/A |
+| 40 | [インライ](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%a9%e3%82%a4) | インライ (inrai) is a Japanese word that means "inside" or "interior". It is often used to refer to the inside of a building or room. |
+| 41 | [バログン](http://twitter.com/search?q=%e3%83%90%e3%83%ad%e3%82%b0%e3%83%b3) | N/A |
+| 42 | [夫婦の日](http://twitter.com/search?q=%e5%a4%ab%e5%a9%a6%e3%81%ae%e6%97%a5) | N/A |
+| 43 | [交番設置記念日](http://twitter.com/search?q=%e4%ba%a4%e7%95%aa%e8%a8%ad%e7%bd%ae%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
+| 44 | [パウエル](http://twitter.com/search?q=%e3%83%91%e3%82%a6%e3%82%a8%e3%83%ab) | N/A |
+| 45 | [グクのWラ](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%81%aeW%e3%83%a9) | N/A |
+| 46 | [デュオ本兄弟](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%82%aa%e6%9c%ac%e5%85%84%e5%bc%9f) | N/A |
+| 47 | [ウィバラ](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%90%e3%83%a9) | N/A |
+| 48 | [甲斐くん](http://twitter.com/search?q=%e7%94%b2%e6%96%90%e3%81%8f%e3%82%93) | N/A |
 
 
 

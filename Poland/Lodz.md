@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-01 21:16:22 UTC`
+📆 Last Updated: `2023-02-01 22:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MIELPO](http://twitter.com/search?q=%23MIELPO) | N/A |
-| 2 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 3 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
+| 1 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
+| 2 | [#MIELPO](http://twitter.com/search?q=%23MIELPO) | N/A |
+| 3 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
 | 4 | [Leonard Pietraszak](http://twitter.com/search?q=Leonard+Pietraszak) | N/A |
-| 5 | [#theroseinwarsaw](http://twitter.com/search?q=%23theroseinwarsaw) | N/A |
-| 6 | [Szymczak](http://twitter.com/search?q=Szymczak) | N/A |
+| 5 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 6 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
 | 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 9 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 10 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 11 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 12 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 13 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 14 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 15 | [Roki](http://twitter.com/search?q=Roki) | N/A |
-| 16 | [Davo](http://twitter.com/search?q=Davo) | N/A |
-| 17 | [Mielcu](http://twitter.com/search?q=Mielcu) | N/A |
-| 18 | [SKOK](http://twitter.com/search?q=SKOK) | N/A |
-| 19 | [Sykulski](http://twitter.com/search?q=Sykulski) | N/A |
-| 20 | [Maryla](http://twitter.com/search?q=Maryla) | N/A |
-| 21 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 22 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 23 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 24 | ["Vabank"](http://twitter.com/search?q=%22Vabank%22) | N/A |
-| 25 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 26 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
-| 27 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 28 | [anna czerwińska](http://twitter.com/search?q=anna+czerwi%c5%84ska) | N/A |
-| 29 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 30 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 31 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 32 | [Barczewie](http://twitter.com/search?q=Barczewie) | N/A |
-| 33 | [sobolewski](http://twitter.com/search?q=sobolewski) | N/A |
-| 34 | [Senat](http://twitter.com/search?q=Senat) | N/A |
-| 35 | [Miałam](http://twitter.com/search?q=Mia%c5%82am) | N/A |
-| 36 | [Weszło](http://twitter.com/search?q=Wesz%c5%82o) | N/A |
-| 37 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 38 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
-| 39 | [iem brazil](http://twitter.com/search?q=iem+brazil) | N/A |
-| 40 | [Sikorskim](http://twitter.com/search?q=Sikorskim) | N/A |
-| 41 | [Javelin](http://twitter.com/search?q=Javelin) | N/A |
-| 42 | [Ursynowie](http://twitter.com/search?q=Ursynowie) | N/A |
-| 43 | [czechami](http://twitter.com/search?q=czechami) | N/A |
-| 44 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [nauki](http://twitter.com/search?q=nauki) | N/A |
-| 47 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 48 | [Klubowe](http://twitter.com/search?q=Klubowe) | N/A |
+| 8 | [Szymczak](http://twitter.com/search?q=Szymczak) | N/A |
+| 9 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 10 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 11 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 12 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 13 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 14 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 15 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 16 | [Robert Lewandowski](http://twitter.com/search?q=Robert+Lewandowski) | N/A |
+| 17 | [Roki](http://twitter.com/search?q=Roki) | N/A |
+| 18 | [Davo](http://twitter.com/search?q=Davo) | N/A |
+| 19 | [SKOK](http://twitter.com/search?q=SKOK) | N/A |
+| 20 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 21 | [Vabank](http://twitter.com/search?q=Vabank) | N/A |
+| 22 | [Sykulski](http://twitter.com/search?q=Sykulski) | N/A |
+| 23 | [Maryla](http://twitter.com/search?q=Maryla) | N/A |
+| 24 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 25 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 26 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 27 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 28 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 29 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 30 | [Miałam](http://twitter.com/search?q=Mia%c5%82am) | N/A |
+| 31 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 32 | [anna czerwińska](http://twitter.com/search?q=anna+czerwi%c5%84ska) | N/A |
+| 33 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 34 | [Szymon Hołownia](http://twitter.com/search?q=Szymon+Ho%c5%82ownia) | N/A |
+| 35 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 36 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 37 | [Barczewie](http://twitter.com/search?q=Barczewie) | N/A |
+| 38 | [sobolewski](http://twitter.com/search?q=sobolewski) | N/A |
+| 39 | [Senat](http://twitter.com/search?q=Senat) | N/A |
+| 40 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
+| 41 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 42 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 43 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
+| 44 | [iem brazil](http://twitter.com/search?q=iem+brazil) | N/A |
+| 45 | [Sikorskim](http://twitter.com/search?q=Sikorskim) | N/A |
+| 46 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 47 | [Javelin](http://twitter.com/search?q=Javelin) | N/A |
+| 48 | [Ursynowie](http://twitter.com/search?q=Ursynowie) | N/A |
 
 
 

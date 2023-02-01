@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-01 21:16:38 UTC`
+📆 Last Updated: `2023-02-01 22:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,11 +19,11 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
 | 4 | [#MileApoInHK](http://twitter.com/search?q=%23MileApoInHK) | #MileApoInHK is a hashtag used by people in Hong Kong to express their support for the ongoing pro-democracy protests in the city. The phrase "Mile Apo" is a Cantonese expression meaning "never give up". |
-| 5 | [#ENGFAinTSQ_NewYork](http://twitter.com/search?q=%23ENGFAinTSQ_NewYork) | #ENGFAinTSQ_NewYork is a hashtag used to promote the English Football Association's (FA) presence at Times Square in New York City. It is used to draw attention to the FA's activities and events in the city. |
+| 5 | [#engfaintsq_newyork](http://twitter.com/search?q=%23engfaintsq_newyork) | N/A |
 | 6 | [engfa waraha on ny billboard](http://twitter.com/search?q=engfa+waraha+on+ny+billboard) | N/A |
 | 7 | [#BOCtreat15actorsbetter](http://twitter.com/search?q=%23BOCtreat15actorsbetter) | N/A |
 | 8 | [XANA PENPENZ](http://twitter.com/search?q=XANA+PENPENZ) | N/A |
-| 9 | [5 xcapx](http://twitter.com/search?q=5+xcapx) | N/A |
+| 9 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
 | 10 | [Beta](http://twitter.com/search?q=Beta) | N/A |
 | 11 | [Kiyoshi's Seeds](http://twitter.com/search?q=Kiyoshi%27s+Seeds) | N/A |
 | 12 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
@@ -44,7 +44,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 27 | [linh](http://twitter.com/search?q=linh) | N/A |
 | 28 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
+| 30 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
 | 31 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
 | 32 | [Luna](http://twitter.com/search?q=Luna) | N/A |
 | 33 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 38 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 39 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
 | 40 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 41 | [Buồn](http://twitter.com/search?q=Bu%e1%bb%93n) | N/A |
+| 41 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
 | 42 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
-| 43 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 44 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 45 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 46 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
-| 47 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 48 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 49 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 50 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 43 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 44 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 45 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
+| 46 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 47 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 48 | [Discord](http://twitter.com/search?q=Discord) | N/A |
+| 49 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 50 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 
 
 
