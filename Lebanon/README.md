@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-01 00:30:27 UTC`
+📆 Last Updated: `2023-02-01 01:45:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,10 +25,10 @@ This is top 50 for Lebanon
 | 8 | [الملف التربوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%81+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%88%d9%8a) | N/A |
 | 9 | [امين السجل العقاري](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d8%ac%d9%84+%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a) | N/A |
 | 10 | [جوزيف عون](http://twitter.com/search?q=%d8%ac%d9%88%d8%b2%d9%8a%d9%81+%d8%b9%d9%88%d9%86) | N/A |
-| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 12 | [قايد الجيش](http://twitter.com/search?q=%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ac%d9%8a%d8%b4) | N/A |
-| 13 | [التحكم المروري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a) | N/A |
-| 14 | [الامام الجواد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%af) | N/A |
+| 11 | [التحكم المروري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a) | N/A |
+| 12 | [الامام الجواد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%af) | N/A |
+| 13 | [قايد الجيش](http://twitter.com/search?q=%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ac%d9%8a%d8%b4) | N/A |
+| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 15 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
 | 16 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
 | 17 | [31 كانون الثاني 2023](http://twitter.com/search?q=31+%d9%83%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a+2023) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for Lebanon
 | 22 | [تفجير مسجد](http://twitter.com/search?q=%d8%aa%d9%81%d8%ac%d9%8a%d8%b1+%d9%85%d8%b3%d8%ac%d8%af) | N/A |
 | 23 | [علي مدي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%af%d9%8a) | N/A |
 | 24 | [sayrafa](http://twitter.com/search?q=sayrafa) | N/A |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [طريق ضهر البيدر](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%b6%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%af%d8%b1) | N/A |
+| 25 | [طريق ضهر البيدر](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%b6%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%af%d8%b1) | N/A |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 27 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 28 | [8 شباط](http://twitter.com/search?q=8+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
 | 29 | [هيلدا خليفه](http://twitter.com/search?q=%d9%87%d9%8a%d9%84%d8%af%d8%a7+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |
-| 30 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
-| 31 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 32 | [واشنطن](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86) | N/A |
-| 33 | [لبنان القوي](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d9%82%d9%88%d9%8a) | N/A |
-| 34 | [Bebe Rexha](http://twitter.com/search?q=Bebe+Rexha) | N/A |
-| 35 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 36 | [الاستحقاق الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d9%82+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 30 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 31 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
+| 32 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 33 | [واشنطن](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86) | N/A |
+| 34 | [لبنان القوي](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d9%82%d9%88%d9%8a) | N/A |
+| 35 | [Bebe Rexha](http://twitter.com/search?q=Bebe+Rexha) | N/A |
+| 36 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
 | 37 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 38 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
 | 39 | [التيار الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 | 40 | [وزير الاقتصاد](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af) | N/A |
-| 41 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 42 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 43 | [وديع عقل](http://twitter.com/search?q=%d9%88%d8%af%d9%8a%d8%b9+%d8%b9%d9%82%d9%84) | N/A |
-| 44 | [عرض البحر](http://twitter.com/search?q=%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1) | N/A |
-| 45 | [زياد](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af) | N/A |
-| 46 | [ميا خليفه](http://twitter.com/search?q=%d9%85%d9%8a%d8%a7+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |
-| 47 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
-| 48 | [ابو مهدي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 49 | [كارول سماحة](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%88%d9%84+%d8%b3%d9%85%d8%a7%d8%ad%d8%a9) | N/A |
-| 50 | [علي التيار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1) | N/A |
+| 41 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 42 | [وديع عقل](http://twitter.com/search?q=%d9%88%d8%af%d9%8a%d8%b9+%d8%b9%d9%82%d9%84) | N/A |
+| 43 | [عرض البحر](http://twitter.com/search?q=%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1) | N/A |
+| 44 | [زياد](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af) | N/A |
+| 45 | [ميا خليفه](http://twitter.com/search?q=%d9%85%d9%8a%d8%a7+%d8%ae%d9%84%d9%8a%d9%81%d9%87) | N/A |
+| 46 | [نجوى كرم](http://twitter.com/search?q=%d9%86%d8%ac%d9%88%d9%89+%d9%83%d8%b1%d9%85) | N/A |
+| 47 | [ابو مهدي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%87%d8%af%d9%8a) | N/A |
+| 48 | [كارول سماحة](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%88%d9%84+%d8%b3%d9%85%d8%a7%d8%ad%d8%a9) | N/A |
+| 49 | [علي التيار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1) | N/A |
+| 50 | [بناء علي](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a) | N/A |
 
 
 

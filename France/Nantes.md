@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-01 00:29:43 UTC`
+📆 Last Updated: `2023-02-01 01:45:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,53 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [#greve31janvier](http://twitter.com/search?q=%23greve31janvier) | N/A |
 | 2 | [#FaceABaba](http://twitter.com/search?q=%23FaceABaba) | N/A |
-| 3 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 4 | [#FCGBHAC](http://twitter.com/search?q=%23FCGBHAC) | N/A |
-| 5 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
-| 6 | [Veran](http://twitter.com/search?q=Veran) | N/A |
-| 7 | [#RoyalRumbleAB](http://twitter.com/search?q=%23RoyalRumbleAB) | N/A |
-| 8 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
-| 9 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
-| 10 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 11 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 12 | [Pathé Ciss](http://twitter.com/search?q=Path%c3%a9+Ciss) | N/A |
-| 13 | [Guion](http://twitter.com/search?q=Guion) | N/A |
-| 14 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 15 | [Badji](http://twitter.com/search?q=Badji) | N/A |
-| 16 | [Cheyrou](http://twitter.com/search?q=Cheyrou) | N/A |
-| 17 | [Battles](http://twitter.com/search?q=Battles) | N/A |
-| 18 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 19 | [Occurrence](http://twitter.com/search?q=Occurrence) | N/A |
-| 20 | [Le PSG](http://twitter.com/search?q=Le+PSG) | N/A |
-| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 22 | [Mercato](http://twitter.com/search?q=Mercato) | N/A |
-| 23 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
-| 24 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
-| 25 | [Ligue 2](http://twitter.com/search?q=Ligue+2) | N/A |
-| 26 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 27 | [Niort](http://twitter.com/search?q=Niort) | N/A |
-| 28 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
-| 29 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 30 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 31 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 32 | [Amiens](http://twitter.com/search?q=Amiens) | N/A |
-| 33 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 35 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 36 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 37 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 38 | [#SCBASSE](http://twitter.com/search?q=%23SCBASSE) | N/A |
-| 39 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 40 | [#FCMRAF](http://twitter.com/search?q=%23FCMRAF) | N/A |
-| 41 | [#FCASMC](http://twitter.com/search?q=%23FCASMC) | N/A |
-| 42 | [#Girondins](http://twitter.com/search?q=%23Girondins) | N/A |
+| 3 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 4 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 7 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
+| 8 | [Veran](http://twitter.com/search?q=Veran) | N/A |
+| 9 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
+| 10 | [azmoun](http://twitter.com/search?q=azmoun) | N/A |
+| 11 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
+| 12 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 13 | [Ciss](http://twitter.com/search?q=Ciss) | N/A |
+| 14 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 15 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 16 | [Occurrence](http://twitter.com/search?q=Occurrence) | N/A |
+| 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 18 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
+| 19 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
+| 20 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 21 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 22 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 23 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 24 | [Badji](http://twitter.com/search?q=Badji) | N/A |
+| 25 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 26 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 27 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 28 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 29 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 30 | [Joséphine Baker](http://twitter.com/search?q=Jos%c3%a9phine+Baker) | N/A |
+| 31 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 32 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
+| 33 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 34 | [Guion](http://twitter.com/search?q=Guion) | N/A |
+| 35 | [Grève du 31](http://twitter.com/search?q=Gr%c3%a8ve+du+31) | N/A |
+| 36 | [Zorgane](http://twitter.com/search?q=Zorgane) | N/A |
+| 37 | [Battles](http://twitter.com/search?q=Battles) | N/A |
+| 38 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 39 | [Cheyrou](http://twitter.com/search?q=Cheyrou) | N/A |
+| 40 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 41 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 42 | [Yanissa](http://twitter.com/search?q=Yanissa) | N/A |
+| 43 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 44 | [Factory](http://twitter.com/search?q=Factory) | N/A |
+| 45 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 46 | [président de la rada](http://twitter.com/search?q=pr%c3%a9sident+de+la+rada) | N/A |
+| 47 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
 
 
 

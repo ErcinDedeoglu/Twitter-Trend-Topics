@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-01 00:30:24 UTC`
+📆 Last Updated: `2023-02-01 01:45:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for Denmark
 | 17 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
 | 18 | [Fakta](http://twitter.com/search?q=Fakta) | N/A |
 | 19 | [Zohore](http://twitter.com/search?q=Zohore) | N/A |
-| 20 | [Brugsen](http://twitter.com/search?q=Brugsen) | N/A |
+| 20 | [brugsen](http://twitter.com/search?q=brugsen) | N/A |
 | 21 | [Rosted](http://twitter.com/search?q=Rosted) | N/A |
 | 22 | [Netto](http://twitter.com/search?q=Netto) | N/A |
 | 23 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
@@ -51,8 +51,8 @@ This is top 50 for Denmark
 | 34 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 35 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 36 | [Held](http://twitter.com/search?q=Held) | N/A |
-| 37 | [Superligaen](http://twitter.com/search?q=Superligaen) | N/A |
-| 38 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 37 | [superligaen](http://twitter.com/search?q=superligaen) | N/A |
+| 38 | [randers](http://twitter.com/search?q=randers) | N/A |
 | 39 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
 | 40 | [Odense](http://twitter.com/search?q=Odense) | N/A |
 | 41 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Denmark
 | 44 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 45 | [Folk](http://twitter.com/search?q=Folk) | N/A |
 | 46 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 47 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
+| 47 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
 | 48 | [Virker](http://twitter.com/search?q=Virker) | N/A |
 | 49 | [Farzam](http://twitter.com/search?q=Farzam) | N/A |
 | 50 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |

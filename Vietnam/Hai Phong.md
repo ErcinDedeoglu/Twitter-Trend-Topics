@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-01 00:29:59 UTC`
+📆 Last Updated: `2023-02-01 01:45:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,11 +18,11 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 1 | [#BiuTheShowStar](http://twitter.com/search?q=%23BiuTheShowStar) | N/A |
 | 2 | [#usnttrcopycat](http://twitter.com/search?q=%23usnttrcopycat) | N/A |
 | 3 | [#MileApoInHK](http://twitter.com/search?q=%23MileApoInHK) | #MileApoInHK is a hashtag used by people in Hong Kong to express their support for the ongoing pro-democracy protests in the city. The phrase "Mile Apo" is a Cantonese expression meaning "never give up". |
-| 4 | [#NeverLetMeGoSeriesEP8](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP8) | #NeverLetMeGoSeriesEP8 is a hashtag used to promote the eighth episode of the Netflix series Never Let Me Go. The hashtag encourages viewers to watch the episode and not miss out on any of the show's content. |
-| 5 | [#FebruaryStarJihyoDay](http://twitter.com/search?q=%23FebruaryStarJihyoDay) | #FebruaryStarJihyoDay is a hashtag used by fans of the South Korean singer and actress Jihyo, who is a member of the K-pop girl group TWICE. The hashtag is used to celebrate Jihyo's birthday, which falls on February 1st. Fans use the hashtag to share photos, videos, and messages of support for Jihyo on her special day. |
-| 6 | [JIHYO BIRTHDAY PARTY](http://twitter.com/search?q=JIHYO+BIRTHDAY+PARTY) | N/A |
-| 7 | [Kiyoshi's Seeds](http://twitter.com/search?q=Kiyoshi%27s+Seeds) | N/A |
-| 8 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 4 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 5 | [#NeverLetMeGoSeriesEP8](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP8) | #NeverLetMeGoSeriesEP8 is a hashtag used to promote the eighth episode of the Netflix series Never Let Me Go. The hashtag encourages viewers to watch the episode and not miss out on any of the show's content. |
+| 6 | [#FebruaryStarJihyoDay](http://twitter.com/search?q=%23FebruaryStarJihyoDay) | #FebruaryStarJihyoDay is a hashtag used by fans of the South Korean singer and actress Jihyo, who is a member of the K-pop girl group TWICE. The hashtag is used to celebrate Jihyo's birthday, which falls on February 1st. Fans use the hashtag to share photos, videos, and messages of support for Jihyo on her special day. |
+| 7 | [JIHYO BIRTHDAY PARTY](http://twitter.com/search?q=JIHYO+BIRTHDAY+PARTY) | N/A |
+| 8 | [Kiyoshi's Seeds](http://twitter.com/search?q=Kiyoshi%27s+Seeds) | N/A |
 | 9 | [Seed of Kiyoshi](http://twitter.com/search?q=Seed+of+Kiyoshi) | N/A |
 | 10 | [thần tài](http://twitter.com/search?q=th%e1%ba%a7n+t%c3%a0i) | N/A |
 | 11 | [XANA PENPENZ](http://twitter.com/search?q=XANA+PENPENZ) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 19 | [Project](http://twitter.com/search?q=Project) | N/A |
 | 20 | [Aleo](http://twitter.com/search?q=Aleo) | N/A |
 | 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 23 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 26 | [TEMPEST](http://twitter.com/search?q=TEMPEST) | N/A |
-| 27 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 28 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
-| 29 | [Polly](http://twitter.com/search?q=Polly) | N/A |
-| 30 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
-| 31 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 32 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
-| 33 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 34 | [Join Maki Army](http://twitter.com/search?q=Join+Maki+Army) | N/A |
-| 35 | [$MAKI](http://twitter.com/search?q=%24MAKI) | N/A |
-| 36 | [mino](http://twitter.com/search?q=mino) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
-| 38 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 39 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 40 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 41 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
-| 42 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 43 | [$SUI](http://twitter.com/search?q=%24SUI) | N/A |
-| 44 | [thầy](http://twitter.com/search?q=th%e1%ba%a7y) | N/A |
-| 45 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 47 | [Pond](http://twitter.com/search?q=Pond) | N/A |
+| 22 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
+| 23 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 24 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 25 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 26 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 27 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 28 | [TEMPEST](http://twitter.com/search?q=TEMPEST) | N/A |
+| 29 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 30 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 31 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 32 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 33 | [Polly](http://twitter.com/search?q=Polly) | N/A |
+| 34 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 35 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
+| 36 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
+| 37 | [Mino](http://twitter.com/search?q=Mino) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | N/A |
+| 39 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 40 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
+| 41 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 42 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 43 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 44 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 45 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 46 | [$SUI](http://twitter.com/search?q=%24SUI) | N/A |
+| 47 | [thầy](http://twitter.com/search?q=th%e1%ba%a7y) | N/A |
 | 48 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 49 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 50 | [Trần Minh Nhật](http://twitter.com/search?q=Tr%e1%ba%a7n+Minh+Nh%e1%ba%adt) | N/A |
+| 49 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 50 | [Pond](http://twitter.com/search?q=Pond) | N/A |
 
 
 
