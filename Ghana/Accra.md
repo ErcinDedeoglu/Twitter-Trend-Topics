@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-02-01 02:44:58 UTC`
+📆 Last Updated: `2023-02-01 03:24:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,23 +25,23 @@ This is top 50 for [Ghana](</Ghana>)
 | 8 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 | 9 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
 | 10 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
-| 11 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | Todd Boehly is the name of an American businessman and investor. He is the founder, chairman, and CEO of Eldridge Industries, a private investment firm. He is also the former co-owner and vice chairman of the Los Angeles Dodgers baseball team. |
+| 11 | [Kamaldeen Sulemana](http://twitter.com/search?q=Kamaldeen+Sulemana) | N/A |
 | 12 | [Accept](http://twitter.com/search?q=Accept) | N/A |
-| 13 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 14 | [Kamaldeen Sulemana](http://twitter.com/search?q=Kamaldeen+Sulemana) | N/A |
-| 15 | [Popcorn](http://twitter.com/search?q=Popcorn) | N/A |
-| 16 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 17 | [#Khosicle](http://twitter.com/search?q=%23Khosicle) | N/A |
-| 18 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 19 | [#managingcovidinghana](http://twitter.com/search?q=%23managingcovidinghana) | N/A |
-| 20 | [Sanitizer](http://twitter.com/search?q=Sanitizer) | N/A |
-| 21 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
+| 13 | [Popcorn](http://twitter.com/search?q=Popcorn) | N/A |
+| 14 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 15 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 16 | [#Khosicle](http://twitter.com/search?q=%23Khosicle) | N/A |
+| 17 | [Todd](http://twitter.com/search?q=Todd) | N/A |
+| 18 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
+| 19 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 20 | [#managingcovidinghana](http://twitter.com/search?q=%23managingcovidinghana) | N/A |
+| 21 | [Sanitizer](http://twitter.com/search?q=Sanitizer) | N/A |
 | 22 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
 | 23 | [Kwesi Arthur](http://twitter.com/search?q=Kwesi+Arthur) | N/A |
 | 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 25 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 26 | [#AlphaHour](http://twitter.com/search?q=%23AlphaHour) | N/A |
-| 27 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 26 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 27 | [#AlphaHour](http://twitter.com/search?q=%23AlphaHour) | N/A |
 | 28 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
 | 29 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 30 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
@@ -55,16 +55,16 @@ This is top 50 for [Ghana](</Ghana>)
 | 38 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
 | 39 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
 | 40 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 41 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
-| 42 | [Welcome to Manchester United](http://twitter.com/search?q=Welcome+to+Manchester+United) | N/A |
-| 43 | [Yaa Pono](http://twitter.com/search?q=Yaa+Pono) | N/A |
-| 44 | [The Breakfast Club](http://twitter.com/search?q=The+Breakfast+Club) | N/A |
-| 45 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 41 | [Yaa Pono](http://twitter.com/search?q=Yaa+Pono) | N/A |
+| 42 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
+| 43 | [Welcome to Manchester United](http://twitter.com/search?q=Welcome+to+Manchester+United) | N/A |
+| 44 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 45 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
 | 46 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
-| 47 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 48 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 49 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 50 | [UEFA](http://twitter.com/search?q=UEFA) | N/A |
+| 47 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
+| 48 | [UEFA](http://twitter.com/search?q=UEFA) | N/A |
+| 49 | [PHYNA THE CLOUT](http://twitter.com/search?q=PHYNA+THE+CLOUT) | N/A |
+| 50 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
 
 
 

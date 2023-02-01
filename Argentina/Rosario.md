@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-01 02:44:44 UTC`
+📆 Last Updated: `2023-02-01 03:24:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 2 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [REPECHAJE PARA AGUS Y COTI](http://twitter.com/search?q=REPECHAJE+PARA+AGUS+Y+COTI) | REPECHAJE PARA AGUS Y COTI is a phrase used in Argentina to describe a situation in which two people are competing for something. It literally translates to "rematch for Agus and Coti," suggesting that the two people are in a rematch of some kind. In English, it could be translated as "a showdown between Agus and Coti." |
-| 5 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
-| 6 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
-| 7 | [#BLACKPINKComeToArgentina](http://twitter.com/search?q=%23BLACKPINKComeToArgentina) | N/A |
-| 8 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
-| 9 | [#Censo2022](http://twitter.com/search?q=%23Censo2022) | N/A |
-| 10 | [Arietto](http://twitter.com/search?q=Arietto) | N/A |
-| 11 | [Colmenero](http://twitter.com/search?q=Colmenero) | Colmenero is a Spanish surname derived from the word "colmenero," which means "basket maker." The name is believed to have originated in the Basque region of Spain, where basket making was a common craft. |
-| 12 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | N/A |
-| 13 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 14 | [Merolla](http://twitter.com/search?q=Merolla) | N/A |
-| 15 | [#NoFueJoda](http://twitter.com/search?q=%23NoFueJoda) | N/A |
+| 2 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
+| 3 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
+| 6 | [REPECHAJE PARA AGUS Y COTI](http://twitter.com/search?q=REPECHAJE+PARA+AGUS+Y+COTI) | REPECHAJE PARA AGUS Y COTI is a phrase used in Argentina to describe a situation in which two people are competing for something. It literally translates to "rematch for Agus and Coti," suggesting that the two people are in a rematch of some kind. In English, it could be translated as "a showdown between Agus and Coti." |
+| 7 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
+| 8 | [Arietto](http://twitter.com/search?q=Arietto) | N/A |
+| 9 | [#BLACKPINKComeToArgentina](http://twitter.com/search?q=%23BLACKPINKComeToArgentina) | N/A |
+| 10 | [Randall](http://twitter.com/search?q=Randall) | Randall is a masculine given name of English origin. It is derived from the Old Norse name Randulfr, which is composed of the elements rand (rim, shield) and ulfr (wolf). The name can also be used as a surname. It means "shield wolf" or "wolf's shield". |
+| 11 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 12 | [#Censo2022](http://twitter.com/search?q=%23Censo2022) | N/A |
+| 13 | [Colmenero](http://twitter.com/search?q=Colmenero) | Colmenero is a Spanish surname derived from the word "colmenero," which means "basket maker." The name is believed to have originated in the Basque region of Spain, where basket making was a common craft. |
+| 14 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 15 | [Chano](http://twitter.com/search?q=Chano) | N/A |
 | 16 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
-| 17 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
-| 18 | [Alfa y Marcos](http://twitter.com/search?q=Alfa+y+Marcos) | N/A |
-| 19 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 20 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 21 | [Enzito](http://twitter.com/search?q=Enzito) | N/A |
-| 22 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 23 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 24 | [Merlo](http://twitter.com/search?q=Merlo) | N/A |
-| 25 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 26 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 27 | [Jujuy](http://twitter.com/search?q=Jujuy) | Jujuy is a province in the northwest of Argentina. It is known for its stunning landscapes, including the Quebrada de Humahuaca, a UNESCO World Heritage Site. In English, Jujuy means "land of many colors". |
-| 28 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 29 | [Kotex](http://twitter.com/search?q=Kotex) | N/A |
-| 30 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
-| 31 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 32 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 33 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 34 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 35 | [Terrabusi](http://twitter.com/search?q=Terrabusi) | N/A |
-| 36 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
+| 17 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | N/A |
+| 18 | [#NoFueJoda](http://twitter.com/search?q=%23NoFueJoda) | N/A |
+| 19 | [Merolla](http://twitter.com/search?q=Merolla) | N/A |
+| 20 | [Marcos y Alfa](http://twitter.com/search?q=Marcos+y+Alfa) | N/A |
+| 21 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
+| 22 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 24 | [Toti](http://twitter.com/search?q=Toti) | Toti is a Spanish slang term that is used to refer to a close friend or someone who is very dear to you. In English, it can be translated as "dear friend" or "special one". |
+| 25 | [Merlo](http://twitter.com/search?q=Merlo) | N/A |
+| 26 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 27 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
+| 28 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 29 | [Enzito](http://twitter.com/search?q=Enzito) | N/A |
+| 30 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
+| 31 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 32 | [Kotex](http://twitter.com/search?q=Kotex) | N/A |
+| 33 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
+| 34 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 35 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
+| 36 | [Ariel y Alfa](http://twitter.com/search?q=Ariel+y+Alfa) | N/A |
 | 37 | [Jorgito](http://twitter.com/search?q=Jorgito) | N/A |
-| 38 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 39 | [Ariel y Alfa](http://twitter.com/search?q=Ariel+y+Alfa) | N/A |
+| 38 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 39 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
 | 40 | [Suchard](http://twitter.com/search?q=Suchard) | N/A |
 | 41 | [Cobrar](http://twitter.com/search?q=Cobrar) | N/A |
 | 42 | [#GranHermanoArgentina2022](http://twitter.com/search?q=%23GranHermanoArgentina2022) | N/A |
 | 43 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 44 | [#SoloUnaVueltaMas](http://twitter.com/search?q=%23SoloUnaVueltaMas) | N/A |
-| 45 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | N/A |
+| 44 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
+| 45 | [#CosquinCuarteto](http://twitter.com/search?q=%23CosquinCuarteto) | N/A |
 | 46 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
 
 

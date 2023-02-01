@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-01 02:44:47 UTC`
+📆 Last Updated: `2023-02-01 03:24:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,44 +24,44 @@ This is top 50 for [Germany](</Germany>)
 | 7 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
 | 8 | [Tessa](http://twitter.com/search?q=Tessa) | Tessa is a female given name of Greek origin, derived from the word "Τέσσα", meaning "harvest". It is also a variant of the name Theresa. |
 | 9 | [luftfilter](http://twitter.com/search?q=luftfilter) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 12 | [gerichte](http://twitter.com/search?q=gerichte) | N/A |
+| 10 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 11 | [gerichte](http://twitter.com/search?q=gerichte) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 14 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 15 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 16 | [Soli](http://twitter.com/search?q=Soli) | N/A |
+| 15 | [Soli](http://twitter.com/search?q=Soli) | N/A |
+| 16 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
 | 17 | [drosten](http://twitter.com/search?q=drosten) | N/A |
 | 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 19 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 20 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
-| 21 | [Paderborn](http://twitter.com/search?q=Paderborn) | N/A |
+| 20 | [Paderborn](http://twitter.com/search?q=Paderborn) | N/A |
+| 21 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
 | 22 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 23 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 24 | [medizincheck](http://twitter.com/search?q=medizincheck) | N/A |
-| 25 | [cosimo](http://twitter.com/search?q=cosimo) | N/A |
+| 23 | [cosimo](http://twitter.com/search?q=cosimo) | N/A |
+| 24 | [kommunismus](http://twitter.com/search?q=kommunismus) | N/A |
+| 25 | [medizincheck](http://twitter.com/search?q=medizincheck) | N/A |
 | 26 | [vegetarier](http://twitter.com/search?q=vegetarier) | N/A |
 | 27 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 28 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 29 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 30 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
-| 31 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 32 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 33 | [kaufoption](http://twitter.com/search?q=kaufoption) | N/A |
-| 34 | [Frist](http://twitter.com/search?q=Frist) | N/A |
-| 35 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 36 | [moderator](http://twitter.com/search?q=moderator) | N/A |
-| 37 | [Brasilien](http://twitter.com/search?q=Brasilien) | N/A |
-| 38 | [Maaßen](http://twitter.com/search?q=Maa%c3%9fen) | N/A |
-| 39 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 40 | [Steuerberater](http://twitter.com/search?q=Steuerberater) | N/A |
-| 41 | [Lobbyismus](http://twitter.com/search?q=Lobbyismus) | N/A |
+| 28 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 29 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
+| 30 | [brazzo](http://twitter.com/search?q=brazzo) | N/A |
+| 31 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 32 | [Frist](http://twitter.com/search?q=Frist) | N/A |
+| 33 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
+| 34 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 35 | [kaufoption](http://twitter.com/search?q=kaufoption) | N/A |
+| 36 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 37 | [brasilien](http://twitter.com/search?q=brasilien) | N/A |
+| 38 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 39 | [Steuerberater](http://twitter.com/search?q=Steuerberater) | N/A |
+| 40 | [Lobbyismus](http://twitter.com/search?q=Lobbyismus) | N/A |
+| 41 | [herr maaßen](http://twitter.com/search?q=herr+maa%c3%9fen) | N/A |
 | 42 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
 | 43 | [formular](http://twitter.com/search?q=formular) | N/A |
-| 44 | [Einkauf](http://twitter.com/search?q=Einkauf) | N/A |
-| 45 | [spott und häme](http://twitter.com/search?q=spott+und+h%c3%a4me) | N/A |
+| 44 | [einkauf](http://twitter.com/search?q=einkauf) | N/A |
+| 45 | [Versace](http://twitter.com/search?q=Versace) | N/A |
 | 46 | [knust](http://twitter.com/search?q=knust) | N/A |
-| 47 | [Versace](http://twitter.com/search?q=Versace) | N/A |
+| 47 | [spott und häme](http://twitter.com/search?q=spott+und+h%c3%a4me) | N/A |
 | 48 | [wissensstand](http://twitter.com/search?q=wissensstand) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-01 02:45:21 UTC`
+📆 Last Updated: `2023-02-01 03:25:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 2 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 3 | [#loveisland](http://twitter.com/search?q=%23loveisland) | N/A |
-| 4 | [Jonjo](http://twitter.com/search?q=Jonjo) | N/A |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 2 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 5 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 6 | [#NEWSOU](http://twitter.com/search?q=%23NEWSOU) | N/A |
-| 7 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 8 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 9 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 10 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 11 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 12 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 13 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 14 | [#CarabaoCup](http://twitter.com/search?q=%23CarabaoCup) | #CarabaoCup is the official hashtag for the English Football League Cup, a knockout competition for teams in the top four tiers of English football. The competition is sponsored by Carabao, an energy drink company. |
-| 15 | [Lord Baker](http://twitter.com/search?q=Lord+Baker) | N/A |
-| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 17 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 18 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 19 | [Grant](http://twitter.com/search?q=Grant) | N/A |
-| 20 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 21 | [Sean Longstaff](http://twitter.com/search?q=Sean+Longstaff) | N/A |
-| 22 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | Todd Boehly is the name of an American businessman and investor. He is the founder, chairman, and CEO of Eldridge Industries, a private investment firm. He is also the former co-owner and vice chairman of the Los Angeles Dodgers baseball team. |
-| 23 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | N/A |
-| 24 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 25 | [Moshiri](http://twitter.com/search?q=Moshiri) | Moshiri is a Japanese word that means “to strive” or “to make an effort.” It is often used to describe someone who is working hard to achieve their goals. |
-| 26 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
-| 27 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 28 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 29 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 30 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 31 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
-| 32 | [Marcel Sabitzer](http://twitter.com/search?q=Marcel+Sabitzer) | N/A |
-| 33 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 34 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
-| 35 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
-| 36 | [Geordie](http://twitter.com/search?q=Geordie) | N/A |
-| 37 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 38 | [Shambles](http://twitter.com/search?q=Shambles) | N/A |
-| 39 | [Kenwright](http://twitter.com/search?q=Kenwright) | N/A |
-| 40 | [Toon](http://twitter.com/search?q=Toon) | N/A |
-| 41 | [St James](http://twitter.com/search?q=St+James) | N/A |
-| 42 | [Che Adams](http://twitter.com/search?q=Che+Adams) | Che Adams is a professional footballer who plays as a forward for Southampton in the Premier League. He began his career with Ilkeston Town before joining Sheffield United in 2014. He has also played for Birmingham City and Leeds United. The name Che Adams is derived from his middle name, Cheikhou, which means "God's gift" in the Wolof language of Senegal. |
-| 43 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
-| 44 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 45 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 46 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
-| 47 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 48 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 49 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 50 | [#SackTheBoard](http://twitter.com/search?q=%23SackTheBoard) | N/A |
+| 7 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 8 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 9 | [#loveisland](http://twitter.com/search?q=%23loveisland) | N/A |
+| 10 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 11 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 12 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 13 | [Jonjo](http://twitter.com/search?q=Jonjo) | N/A |
+| 14 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 17 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 18 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 19 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 20 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 21 | [Salted](http://twitter.com/search?q=Salted) | N/A |
+| 22 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 23 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 24 | [Ally McCoist](http://twitter.com/search?q=Ally+McCoist) | Ally McCoist is a Scottish former professional footballer and manager. He is best known for his time as a player at Rangers, where he was the club's record goalscorer, and for managing the club from 2011 to 2014. He is currently an assistant manager at Kilmarnock. |
+| 25 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 26 | [Sean Longstaff](http://twitter.com/search?q=Sean+Longstaff) | N/A |
+| 27 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 28 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 29 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 30 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 31 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 32 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 33 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
+| 34 | [Andre Ayew](http://twitter.com/search?q=Andre+Ayew) | N/A |
+| 35 | [Jorgi](http://twitter.com/search?q=Jorgi) | Jorgi is a nickname for the name George, derived from the Greek word "georgios," which means farmer or earthworker. In English, it can be used as an affectionate nickname for someone named George. |
+| 36 | [Che Adams](http://twitter.com/search?q=Che+Adams) | Che Adams is a professional footballer who plays as a forward for Southampton in the Premier League. He began his career with Ilkeston Town before joining Sheffield United in 2014. He has also played for Birmingham City and Leeds United. The name Che Adams is derived from his middle name, Cheikhou, which means "God's gift" in the Wolof language of Senegal. |
+| 37 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 38 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 39 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 40 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
+| 41 | [Merson](http://twitter.com/search?q=Merson) | N/A |
+| 42 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 43 | [Finch Farm](http://twitter.com/search?q=Finch+Farm) | N/A |
+| 44 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 45 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 46 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 47 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 48 | [Episode 3](http://twitter.com/search?q=Episode+3) | Episode 3 is a term used to refer to the third installment of a television series, movie, or other form of media. It is typically used to refer to the third episode in a season or series. In English, it simply means the third episode. |
+| 49 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
+| 50 | [Paperchase](http://twitter.com/search?q=Paperchase) | N/A |
 
 
 

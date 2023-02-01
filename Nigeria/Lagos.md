@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-02-01 02:44:59 UTC`
+📆 Last Updated: `2023-02-01 03:24:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 5 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 6 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
 | 7 | [#ObiDattiInAdamawa](http://twitter.com/search?q=%23ObiDattiInAdamawa) | N/A |
-| 8 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 9 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 10 | [#TinubuInAnambra](http://twitter.com/search?q=%23TinubuInAnambra) | N/A |
-| 11 | [#ideyconsider](http://twitter.com/search?q=%23ideyconsider) | N/A |
+| 8 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 9 | [#TinubuInAnambra](http://twitter.com/search?q=%23TinubuInAnambra) | N/A |
+| 10 | [#ideyconsider](http://twitter.com/search?q=%23ideyconsider) | N/A |
+| 11 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
 | 12 | [HERE WE GO](http://twitter.com/search?q=HERE+WE+GO) | "Here We Go" is an expression used to express enthusiasm and excitement, usually before beginning a task or activity. It can also be used to encourage someone else to start something. |
 | 13 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
 | 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
@@ -36,35 +36,35 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 19 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
 | 20 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 | 21 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 22 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | Todd Boehly is the name of an American businessman and investor. He is the founder, chairman, and CEO of Eldridge Industries, a private investment firm. He is also the former co-owner and vice chairman of the Los Angeles Dodgers baseball team. |
-| 23 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 24 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 25 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 26 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 27 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 22 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 24 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 25 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 26 | [Todd](http://twitter.com/search?q=Todd) | N/A |
+| 27 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
 | 28 | [STILL ON PHYNA MERCH](http://twitter.com/search?q=STILL+ON+PHYNA+MERCH) | N/A |
 | 29 | [Seyi](http://twitter.com/search?q=Seyi) | N/A |
 | 30 | [PHYNA THE CLOUT](http://twitter.com/search?q=PHYNA+THE+CLOUT) | N/A |
 | 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 32 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 33 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 34 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 33 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 36 | [Senate President](http://twitter.com/search?q=Senate+President) | N/A |
 | 37 | [ss and se](http://twitter.com/search?q=ss+and+se) | N/A |
 | 38 | [Luiz](http://twitter.com/search?q=Luiz) | N/A |
 | 39 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
-| 40 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 41 | [Okon](http://twitter.com/search?q=Okon) | N/A |
+| 40 | [Okon](http://twitter.com/search?q=Okon) | N/A |
+| 41 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 | 42 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
-| 43 | [ganduje](http://twitter.com/search?q=ganduje) | N/A |
-| 44 | [buy phyna merch](http://twitter.com/search?q=buy+phyna+merch) | N/A |
-| 45 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 46 | [godwin emefiele](http://twitter.com/search?q=godwin+emefiele) | N/A |
-| 47 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 48 | [Welcome to Manchester United](http://twitter.com/search?q=Welcome+to+Manchester+United) | N/A |
-| 49 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 50 | [Numan](http://twitter.com/search?q=Numan) | N/A |
+| 43 | [buy phyna merch](http://twitter.com/search?q=buy+phyna+merch) | N/A |
+| 44 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
+| 45 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 46 | [Welcome to Manchester United](http://twitter.com/search?q=Welcome+to+Manchester+United) | N/A |
+| 47 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 48 | [Numan](http://twitter.com/search?q=Numan) | N/A |
+| 49 | [Common Person](http://twitter.com/search?q=Common+Person) | N/A |
+| 50 | [yahaya bello](http://twitter.com/search?q=yahaya+bello) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-01 02:45:16 UTC`
+📆 Last Updated: `2023-02-01 03:24:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,23 +19,23 @@ This is top 50 for Denmark
 | 2 | [Coop](http://twitter.com/search?q=Coop) | N/A |
 | 3 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
 | 4 | [#andellerej](http://twitter.com/search?q=%23andellerej) | N/A |
-| 5 | [Winther](http://twitter.com/search?q=Winther) | N/A |
-| 6 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
+| 5 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
+| 6 | [winther](http://twitter.com/search?q=winther) | N/A |
 | 7 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
 | 8 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 9 | [meny](http://twitter.com/search?q=meny) | N/A |
 | 10 | [tshiembe](http://twitter.com/search?q=tshiembe) | N/A |
 | 11 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 12 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
-| 13 | [Rema](http://twitter.com/search?q=Rema) | N/A |
-| 14 | [Kvickly](http://twitter.com/search?q=Kvickly) | N/A |
-| 15 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
+| 12 | [Rema](http://twitter.com/search?q=Rema) | N/A |
+| 13 | [Kvickly](http://twitter.com/search?q=Kvickly) | N/A |
+| 14 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
+| 15 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
 | 16 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
 | 17 | [Zohore](http://twitter.com/search?q=Zohore) | N/A |
 | 18 | [brugsen](http://twitter.com/search?q=brugsen) | N/A |
-| 19 | [rosted](http://twitter.com/search?q=rosted) | N/A |
-| 20 | [Netto](http://twitter.com/search?q=Netto) | N/A |
-| 21 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
+| 19 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 20 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
+| 21 | [rosted](http://twitter.com/search?q=rosted) | N/A |
 | 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 23 | [gammelby](http://twitter.com/search?q=gammelby) | N/A |
 | 24 | [Fakta](http://twitter.com/search?q=Fakta) | N/A |
@@ -55,7 +55,7 @@ This is top 50 for Denmark
 | 38 | [randers](http://twitter.com/search?q=randers) | N/A |
 | 39 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
 | 40 | [Odense](http://twitter.com/search?q=Odense) | N/A |
-| 41 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 41 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
 | 42 | [Africa](http://twitter.com/search?q=Africa) | N/A |
 | 43 | [horsens](http://twitter.com/search?q=horsens) | N/A |
 | 44 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
@@ -63,7 +63,7 @@ This is top 50 for Denmark
 | 46 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
 | 47 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
 | 48 | [virker](http://twitter.com/search?q=virker) | N/A |
-| 49 | [Farzam](http://twitter.com/search?q=Farzam) | N/A |
+| 49 | [farzam](http://twitter.com/search?q=farzam) | N/A |
 | 50 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 
 

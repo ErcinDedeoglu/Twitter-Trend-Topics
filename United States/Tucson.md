@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-02-01 02:45:14 UTC`
+📆 Last Updated: `2023-02-01 03:24:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flores](http://twitter.com/search?q=Flores) | N/A |
-| 2 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 3 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 4 | [Sean Payton](http://twitter.com/search?q=Sean+Payton) | Sean Payton is the head coach of the NFL's New Orleans Saints. He is known for his offensive strategies and for leading the Saints to their first Super Bowl victory in 2010. The meaning of his name in English is "God's Peace". |
-| 5 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
-| 6 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 7 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 8 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 9 | [#TheOvalOnBET](http://twitter.com/search?q=%23TheOvalOnBET) | N/A |
-| 10 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 11 | [#BTRonToday](http://twitter.com/search?q=%23BTRonToday) | N/A |
-| 12 | [Max Christie](http://twitter.com/search?q=Max+Christie) | Max Christie is a Scottish phrase meaning "the greatest of all". It is often used to describe someone who is the best at something or has achieved great success. |
-| 13 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 14 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 15 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 16 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 17 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 18 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 1 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 2 | [Cards](http://twitter.com/search?q=Cards) | N/A |
+| 3 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 4 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 5 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 6 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 7 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
+| 8 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 9 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 10 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 11 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 12 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 13 | [Sean Payton](http://twitter.com/search?q=Sean+Payton) | Sean Payton is the head coach of the NFL's New Orleans Saints. He is known for his offensive strategies and for leading the Saints to their first Super Bowl victory in 2010. The meaning of his name in English is "God's Peace". |
+| 14 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 15 | [#1000lbSisters](http://twitter.com/search?q=%231000lbSisters) | N/A |
+| 16 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 17 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 18 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
 | 19 | [I Fit In There](http://twitter.com/search?q=I+Fit+In+There) | N/A |
-| 20 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 21 | [Steve Nash](http://twitter.com/search?q=Steve+Nash) | N/A |
-| 22 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
-| 23 | [Burry](http://twitter.com/search?q=Burry) | N/A |
-| 24 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
-| 25 | [Caleb Martin](http://twitter.com/search?q=Caleb+Martin) | N/A |
-| 26 | [Tang](http://twitter.com/search?q=Tang) | N/A |
-| 27 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 28 | [Cher](http://twitter.com/search?q=Cher) | N/A |
-| 29 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
-| 32 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 33 | [MLB Network](http://twitter.com/search?q=MLB+Network) | N/A |
-| 34 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 35 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 36 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 37 | [Gary Vee](http://twitter.com/search?q=Gary+Vee) | N/A |
-| 38 | [Mark Jackson](http://twitter.com/search?q=Mark+Jackson) | N/A |
-| 39 | [Hachimura](http://twitter.com/search?q=Hachimura) | N/A |
-| 40 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
-| 41 | [Jay Bilas](http://twitter.com/search?q=Jay+Bilas) | N/A |
-| 42 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 43 | [DeMeco Ryans](http://twitter.com/search?q=DeMeco+Ryans) | DeMeco Ryans is the name of a former American football linebacker who played in the National Football League (NFL). He was drafted by the Houston Texans in the second round of the 2006 NFL Draft and played for them until 2011. He then played for the Philadelphia Eagles from 2012 to 2014, and retired after spending 2015 with the Atlanta Falcons. The name DeMeco is derived from his first and middle names, Demetrio Antonio. |
-| 44 | [Caris LeVert](http://twitter.com/search?q=Caris+LeVert) | N/A |
-| 45 | [Lively](http://twitter.com/search?q=Lively) | N/A |
-| 46 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
-| 47 | [Okoro](http://twitter.com/search?q=Okoro) | N/A |
-| 48 | [Darius Garland](http://twitter.com/search?q=Darius+Garland) | N/A |
+| 20 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 21 | [Hartenstein](http://twitter.com/search?q=Hartenstein) | N/A |
+| 22 | [Max Christie](http://twitter.com/search?q=Max+Christie) | Max Christie is a Scottish phrase meaning "the greatest of all". It is often used to describe someone who is the best at something or has achieved great success. |
+| 23 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 24 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
+| 25 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 26 | [Hachimura](http://twitter.com/search?q=Hachimura) | N/A |
+| 27 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 28 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 29 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
+| 30 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
+| 31 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 32 | [Burry](http://twitter.com/search?q=Burry) | N/A |
+| 33 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 34 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
+| 35 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 36 | [Steve Nash](http://twitter.com/search?q=Steve+Nash) | N/A |
+| 37 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 38 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
+| 39 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 40 | [Appleby](http://twitter.com/search?q=Appleby) | N/A |
+| 41 | [Caleb Martin](http://twitter.com/search?q=Caleb+Martin) | N/A |
+| 42 | [Tang](http://twitter.com/search?q=Tang) | N/A |
+| 43 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 44 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 45 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
+| 46 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 47 | [Cher](http://twitter.com/search?q=Cher) | N/A |
+| 48 | [LeVert](http://twitter.com/search?q=LeVert) | LeVert is a French term meaning "to turn over" or "to flip." It is often used in the context of flipping a pancake or omelette. |
 
 
 

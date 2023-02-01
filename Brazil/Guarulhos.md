@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-01 02:44:43 UTC`
+📆 Last Updated: `2023-02-01 03:24:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 | 2 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
-| 3 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 4 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 5 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
-| 6 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 7 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
-| 8 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
-| 9 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
-| 10 | [CAT BBB](http://twitter.com/search?q=CAT+BBB) | CAT BBB is an acronym for the Canadian Automotive Technician (CAT) certification program. It is a certification program offered by the Automotive Industries Association of Canada (AIA) that recognizes the knowledge and skills of automotive technicians in Canada. The program consists of three levels: Basic, Intermediate, and Advanced. |
-| 11 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 12 | [Yu-Gi-Oh](http://twitter.com/search?q=Yu-Gi-Oh) | N/A |
-| 13 | [flashback](http://twitter.com/search?q=flashback) | N/A |
-| 14 | [Se o Gabriel](http://twitter.com/search?q=Se+o+Gabriel) | Se o Gabriel is a Portuguese phrase that translates to "If Gabriel". It is typically used as a rhetorical question to express surprise or disbelief. |
-| 15 | [#BLACKPINKComeToBrazil](http://twitter.com/search?q=%23BLACKPINKComeToBrazil) | N/A |
-| 16 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
-| 17 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 20 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 21 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 22 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 23 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 24 | [Yugioh](http://twitter.com/search?q=Yugioh) | N/A |
-| 25 | [Rota 66](http://twitter.com/search?q=Rota+66) | N/A |
-| 26 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 27 | [Fred Nicacio](http://twitter.com/search?q=Fred+Nicacio) | Fred Nicacio is a Spanish name, derived from the Latin name Fredericus. It is a combination of the words "fred" (peace) and "nicacio" (victory). In English, it can be translated to mean "victory of peace". |
-| 28 | [Unidos](http://twitter.com/search?q=Unidos) | N/A |
-| 29 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 30 | [Sabedoria](http://twitter.com/search?q=Sabedoria) | N/A |
-| 31 | [Luiz Araújo](http://twitter.com/search?q=Luiz+Ara%c3%bajo) | N/A |
-| 32 | [Paulo Freire](http://twitter.com/search?q=Paulo+Freire) | N/A |
-| 33 | [Senador](http://twitter.com/search?q=Senador) | N/A |
-| 34 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 35 | [#ForaGabrielFop](http://twitter.com/search?q=%23ForaGabrielFop) | N/A |
-| 36 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 37 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
-| 38 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 39 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
-| 40 | [PACHECO SIM](http://twitter.com/search?q=PACHECO+SIM) | N/A |
-| 41 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 42 | [Sul-Americano Sub-20](http://twitter.com/search?q=Sul-Americano+Sub-20) | N/A |
-| 43 | [Leo Santana](http://twitter.com/search?q=Leo+Santana) | Leo Santana is a Brazilian singer, songwriter, and dancer. He is best known for his hit single "Tchu Tcha Tcha" and his collaborations with other artists such as Anitta, Ludmilla, and Ivete Sangalo. The name Leo Santana literally translates to "Lion of Santana" in English. |
-| 44 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
-| 45 | [Tamarindo](http://twitter.com/search?q=Tamarindo) | N/A |
-| 46 | [Protagonista](http://twitter.com/search?q=Protagonista) | N/A |
-| 47 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 48 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 49 | [Acadêmicos](http://twitter.com/search?q=Acad%c3%aamicos) | N/A |
+| 3 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 4 | [#PachecoSIM](http://twitter.com/search?q=%23PachecoSIM) | N/A |
+| 5 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 6 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 7 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 8 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 9 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 10 | [Round 6](http://twitter.com/search?q=Round+6) | Round 6 is a term used to refer to the sixth round of a competition or tournament. It is typically used in sports, such as boxing or mixed martial arts, where competitors are eliminated after each round until only one remains. The phrase can also be used more generally to refer to any situation where there are multiple rounds of competition or evaluation. |
+| 11 | [Tchau Gabriel](http://twitter.com/search?q=Tchau+Gabriel) | "Tchau Gabriel" is a Portuguese phrase meaning "Goodbye Gabriel". |
+| 12 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 13 | [Só 53%](http://twitter.com/search?q=S%c3%b3+53%25) | "Só 53%" is a Portuguese phrase that translates to "only 53%". It is often used to express disappointment or dissatisfaction with a result or outcome. |
+| 14 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
+| 15 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 16 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 17 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
+| 18 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
+| 19 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 20 | [FINALMENTE FEVEREIRO](http://twitter.com/search?q=FINALMENTE+FEVEREIRO) | N/A |
+| 21 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 22 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 23 | [Feliz Fevereiro](http://twitter.com/search?q=Feliz+Fevereiro) | N/A |
+| 24 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
+| 25 | [ACABOU JANEIRO](http://twitter.com/search?q=ACABOU+JANEIRO) | N/A |
+| 26 | [CAT BBB](http://twitter.com/search?q=CAT+BBB) | CAT BBB is an acronym for the Canadian Automotive Technician (CAT) certification program. It is a certification program offered by the Automotive Industries Association of Canada (AIA) that recognizes the knowledge and skills of automotive technicians in Canada. The program consists of three levels: Basic, Intermediate, and Advanced. |
+| 27 | [FELIZ ANO NOVO](http://twitter.com/search?q=FELIZ+ANO+NOVO) | N/A |
+| 28 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 29 | [Agora a Bruna](http://twitter.com/search?q=Agora+a+Bruna) | N/A |
+| 30 | [flashback](http://twitter.com/search?q=flashback) | N/A |
+| 31 | [Letícia Colin](http://twitter.com/search?q=Let%c3%adcia+Colin) | N/A |
+| 32 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 33 | [Tiago Leifert](http://twitter.com/search?q=Tiago+Leifert) | N/A |
+| 34 | [O BEM VENCEU](http://twitter.com/search?q=O+BEM+VENCEU) | O BEM VENCEU is a Portuguese phrase that translates to "Good has won" in English. It is often used to express joy and celebration at the victory of good over evil. |
+| 35 | [Nem a Bruna](http://twitter.com/search?q=Nem+a+Bruna) | N/A |
+| 36 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 37 | [Merecia](http://twitter.com/search?q=Merecia) | N/A |
+| 38 | [Karol Conká](http://twitter.com/search?q=Karol+Conk%c3%a1) | N/A |
+| 39 | [dr fred](http://twitter.com/search?q=dr+fred) | "Dr Fred" is a nickname for Dr. Frederick Banting, a Canadian medical scientist who was the co-discoverer of insulin. He is credited with saving the lives of millions of people with diabetes. The nickname "Dr Fred" is used to refer to him in a friendly and informal way. |
+| 40 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 41 | [Ana Maria Braga](http://twitter.com/search?q=Ana+Maria+Braga) | N/A |
+| 42 | [Yu-Gi-Oh](http://twitter.com/search?q=Yu-Gi-Oh) | N/A |
+| 43 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 44 | [Obrigada Brasil](http://twitter.com/search?q=Obrigada+Brasil) | N/A |
+| 45 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
+| 46 | [Tchau Janeiro](http://twitter.com/search?q=Tchau+Janeiro) | N/A |
+| 47 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 48 | [E a Bruna](http://twitter.com/search?q=E+a+Bruna) | N/A |
+| 49 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 50 | [RODRIGO TARDELLI](http://twitter.com/search?q=RODRIGO+TARDELLI) | N/A |
 
 
 

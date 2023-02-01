@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-01 02:45:16 UTC`
+📆 Last Updated: `2023-02-01 03:24:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,37 +22,37 @@ This is top 50 for Austria
 | 5 | [babler](http://twitter.com/search?q=babler) | N/A |
 | 6 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
 | 7 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 8 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 9 | [#noewahl](http://twitter.com/search?q=%23noewahl) | N/A |
+| 8 | [#noewahl](http://twitter.com/search?q=%23noewahl) | N/A |
+| 9 | [maßnahmen](http://twitter.com/search?q=ma%c3%9fnahmen) | N/A |
 | 10 | [Energie](http://twitter.com/search?q=Energie) | N/A |
 | 11 | [#ltw23](http://twitter.com/search?q=%23ltw23) | N/A |
 | 12 | [gratuliere](http://twitter.com/search?q=gratuliere) | N/A |
-| 13 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 13 | [Schnabl](http://twitter.com/search?q=Schnabl) | N/A |
 | 14 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 15 | [Schnabl](http://twitter.com/search?q=Schnabl) | N/A |
-| 16 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 17 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 18 | [Lebens](http://twitter.com/search?q=Lebens) | N/A |
-| 19 | [kurs](http://twitter.com/search?q=kurs) | N/A |
-| 20 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
-| 23 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 24 | [Witz](http://twitter.com/search?q=Witz) | N/A |
-| 25 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 26 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
-| 27 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
-| 28 | [sozialdemokratie](http://twitter.com/search?q=sozialdemokratie) | N/A |
-| 29 | [spitze](http://twitter.com/search?q=spitze) | N/A |
-| 30 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 31 | [landtag](http://twitter.com/search?q=landtag) | N/A |
-| 32 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 15 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 16 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 17 | [lebens](http://twitter.com/search?q=lebens) | N/A |
+| 18 | [kurs](http://twitter.com/search?q=kurs) | N/A |
+| 19 | [regeln](http://twitter.com/search?q=regeln) | N/A |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [bühne](http://twitter.com/search?q=b%c3%bchne) | N/A |
+| 22 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
+| 23 | [Witz](http://twitter.com/search?q=Witz) | N/A |
+| 24 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 25 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
+| 26 | [Schritt](http://twitter.com/search?q=Schritt) | N/A |
+| 27 | [sozialdemokratie](http://twitter.com/search?q=sozialdemokratie) | N/A |
+| 28 | [spitze](http://twitter.com/search?q=spitze) | N/A |
+| 29 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 30 | [landtag](http://twitter.com/search?q=landtag) | N/A |
+| 31 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 32 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
 | 33 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
 | 34 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
 | 35 | [Termin](http://twitter.com/search?q=Termin) | N/A |
 | 36 | [Interessant](http://twitter.com/search?q=Interessant) | N/A |
 | 37 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 38 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 38 | [katastrophe](http://twitter.com/search?q=katastrophe) | N/A |
 | 39 | [mandat](http://twitter.com/search?q=mandat) | N/A |
 | 40 | [roten](http://twitter.com/search?q=roten) | N/A |
 | 41 | [karriere](http://twitter.com/search?q=karriere) | N/A |
