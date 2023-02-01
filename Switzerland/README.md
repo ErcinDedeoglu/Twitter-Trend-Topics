@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-01 16:17:10 UTC`
+📆 Last Updated: `2023-02-01 17:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Switzerland
 | 1 | [#sirenentest](http://twitter.com/search?q=%23sirenentest) | N/A |
 | 2 | [Russen](http://twitter.com/search?q=Russen) | N/A |
 | 3 | [aromat](http://twitter.com/search?q=aromat) | N/A |
-| 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [#HumanRights](http://twitter.com/search?q=%23HumanRights) | N/A |
-| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 8 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
-| 9 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 10 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
-| 11 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 12 | [#vaud](http://twitter.com/search?q=%23vaud) | N/A |
-| 13 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 14 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 15 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 16 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
-| 17 | [bern](http://twitter.com/search?q=bern) | N/A |
-| 18 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
-| 21 | [Schade](http://twitter.com/search?q=Schade) | N/A |
-| 22 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 23 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 24 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 25 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 26 | [Effectivement](http://twitter.com/search?q=Effectivement) | N/A |
-| 27 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 28 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 29 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
-| 30 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 31 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 32 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 34 | [Ausland](http://twitter.com/search?q=Ausland) | N/A |
-| 35 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 36 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 37 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 38 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 4 | [#HumanRights](http://twitter.com/search?q=%23HumanRights) | N/A |
+| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 6 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 9 | [#vaud](http://twitter.com/search?q=%23vaud) | N/A |
+| 10 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 12 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 13 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 14 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
+| 15 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 16 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 17 | [Berne](http://twitter.com/search?q=Berne) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
+| 20 | [Schade](http://twitter.com/search?q=Schade) | N/A |
+| 21 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 22 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 23 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 24 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 25 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 26 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
+| 27 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
+| 28 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 29 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 31 | [Ausland](http://twitter.com/search?q=Ausland) | N/A |
+| 32 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 33 | [Effectivement](http://twitter.com/search?q=Effectivement) | N/A |
+| 34 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 35 | [German](http://twitter.com/search?q=German) | N/A |
+| 36 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 37 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 40 | [Lage](http://twitter.com/search?q=Lage) | N/A |
 | 41 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
 | 42 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 43 | [Satz](http://twitter.com/search?q=Satz) | N/A |
-| 44 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
-| 45 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 46 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
-| 47 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 49 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
-| 50 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
+| 43 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 44 | [Satz](http://twitter.com/search?q=Satz) | N/A |
+| 45 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
+| 46 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 47 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 48 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
+| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 50 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
 
 
 
