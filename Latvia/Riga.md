@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-01 12:18:24 UTC`
+📆 Last Updated: `2023-02-01 13:21:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
-| 2 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
+| 1 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
+| 2 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
 | 3 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 4 | [Putina](http://twitter.com/search?q=Putina) | N/A |
 | 5 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 6 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 7 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 8 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 6 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 7 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 8 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 9 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
 | 10 | [vajag](http://twitter.com/search?q=vajag) | N/A |
 | 11 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
@@ -32,29 +32,30 @@ This is top 50 for [Latvia](</Latvia>)
 | 15 | [latvijas radio](http://twitter.com/search?q=latvijas+radio) | N/A |
 | 16 | [pirms](http://twitter.com/search?q=pirms) | N/A |
 | 17 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
-| 18 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
-| 19 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
-| 20 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 21 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 22 | [#wfc2023](http://twitter.com/search?q=%23wfc2023) | N/A |
-| 23 | [#valmierasnovads](http://twitter.com/search?q=%23valmierasnovads) | N/A |
-| 24 | [#kocēni](http://twitter.com/search?q=%23koc%c4%93ni) | N/A |
-| 25 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | N/A |
-| 26 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 27 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 28 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
-| 29 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 30 | [Krievijas](http://twitter.com/search?q=Krievijas) | N/A |
-| 31 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 32 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 18 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
+| 19 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 20 | [#wfc2023](http://twitter.com/search?q=%23wfc2023) | N/A |
+| 21 | [#valmierasnovads](http://twitter.com/search?q=%23valmierasnovads) | N/A |
+| 22 | [#kocēni](http://twitter.com/search?q=%23koc%c4%93ni) | N/A |
+| 23 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 24 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 25 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 26 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
+| 27 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 28 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 29 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
+| 30 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
+| 31 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
+| 32 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
 | 33 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 34 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
-| 35 | [saeimas](http://twitter.com/search?q=saeimas) | N/A |
-| 36 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 37 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 38 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 39 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 40 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 34 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 35 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 36 | [Krieviju](http://twitter.com/search?q=Krieviju) | N/A |
+| 37 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
+| 38 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 39 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 40 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 41 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
 
 
 

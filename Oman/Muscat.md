@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-02-01 12:18:39 UTC`
+📆 Last Updated: `2023-02-01 13:21:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Oman](</Oman>)
 | 2 | [#اختبار_الاحياء](http://twitter.com/search?q=%23%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1_%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1) | N/A |
 | 3 | [البنك الوطني العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
 | 4 | [#من_الاول](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 5 | [مهرجان مسقط](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d9%85%d8%b3%d9%82%d8%b7) | N/A |
-| 6 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 7 | [#دفعه2023](http://twitter.com/search?q=%23%d8%af%d9%81%d8%b9%d9%872023) | N/A |
+| 5 | [#السعوديه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 6 | [الرجل الحديدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d9%8a) | N/A |
+| 7 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 8 | [عبدالله عباس](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
 | 9 | [شهر جديد](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 10 | [بنك مسقط](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d9%85%d8%b3%d9%82%d8%b7) | N/A |
-| 11 | [محمد المخيني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%ae%d9%8a%d9%86%d9%8a) | N/A |
-| 12 | [التصميم اللاتماثلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%85%d9%8a%d9%85+%d8%a7%d9%84%d9%84%d8%a7%d8%aa%d9%85%d8%a7%d8%ab%d9%84%d9%8a) | N/A |
-| 13 | [الالعاب الكهرباييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 14 | [اختبار اليوم](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 15 | [الخلل الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%84+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
-| 16 | [الادعاء العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 17 | [الاسر المحليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%87) | N/A |
-| 18 | [رييس البلديه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
+| 10 | [محمد المخيني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%ae%d9%8a%d9%86%d9%8a) | N/A |
+| 11 | [البنيه الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 12 | [الالعاب الكهرباييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 13 | [الخلل الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%84+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 14 | [الاتحاد الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | الاتحاد الاسيوي (ASEAN) is the Association of Southeast Asian Nations, an intergovernmental organization made up of 10 countries in Southeast Asia. Its purpose is to promote economic growth, social progress, and cultural development among its members. In English, it means "Association of Southeast Asian Nations". |
+| 15 | [الاسر المحليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%87) | N/A |
+| 16 | [رييس البلديه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
+| 17 | [اختبار اليوم](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 18 | [التصميم اللاتماثلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%85%d9%8a%d9%85+%d8%a7%d9%84%d9%84%d8%a7%d8%aa%d9%85%d8%a7%d8%ab%d9%84%d9%8a) | N/A |
 | 19 | [الدفاع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 20 | [الاتحاد الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | الاتحاد الاسيوي (ASEAN) is the Association of Southeast Asian Nations, an intergovernmental organization made up of 10 countries in Southeast Asia. Its purpose is to promote economic growth, social progress, and cultural development among its members. In English, it means "Association of Southeast Asian Nations". |
-| 21 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [القريه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 20 | [الادعاء العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 21 | [القريه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 22 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 | 23 | [علي المهرجان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86) | N/A |
-| 24 | [موسم الرياض](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 24 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
 | 25 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 26 | [لولا لطف](http://twitter.com/search?q=%d9%84%d9%88%d9%84%d8%a7+%d9%84%d8%b7%d9%81) | N/A |
+| 26 | [موسم الرياض](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
 | 27 | [الجهات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 28 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 29 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
+| 28 | [البلدين الشقيقين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d9%82%d9%8a%d9%82%d9%8a%d9%86) | N/A |
+| 29 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 30 | [الموتمر السنوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%86%d9%88%d9%8a) | N/A |
 | 31 | [القضايا الوارده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d9%88%d8%a7%d8%b1%d8%af%d9%87) | N/A |
-| 32 | [الدول المجاوره](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%88%d8%b1%d9%87) | N/A |
-| 33 | [نادي الكويت](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 34 | [خليل](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 35 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 36 | [بلعرب بن هيثم](http://twitter.com/search?q=%d8%a8%d9%84%d8%b9%d8%b1%d8%a8+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
-| 37 | [القلوب الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%84%d9%88%d8%a8+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
-| 38 | [صاحب السمو السيد](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 39 | [التصفيات النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 40 | [رييس مجلس](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3) | N/A |
-| 41 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
-| 42 | [نفط عمان](http://twitter.com/search?q=%d9%86%d9%81%d8%b7+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
-| 43 | [الجمعه المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 44 | [درع الوزاره](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%87) | N/A |
-| 45 | [الدول الاخري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%8a) | N/A |
-| 46 | [البحث العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%ab+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
-| 47 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
-| 48 | [السيده الجليله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d9%87) | N/A |
-| 49 | [الموسسات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 50 | [الفصل الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 32 | [لولا لطف](http://twitter.com/search?q=%d9%84%d9%88%d9%84%d8%a7+%d9%84%d8%b7%d9%81) | N/A |
+| 33 | [الدول المجاوره](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%88%d8%b1%d9%87) | N/A |
+| 34 | [صاحب السمو السيد](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 35 | [نادي الكويت](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 36 | [خليل](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84) | N/A |
+| 37 | [التنميه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 38 | [بلعرب بن هيثم](http://twitter.com/search?q=%d8%a8%d9%84%d8%b9%d8%b1%d8%a8+%d8%a8%d9%86+%d9%87%d9%8a%d8%ab%d9%85) | N/A |
+| 39 | [الرييس التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
+| 40 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 41 | [القلوب الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%84%d9%88%d8%a8+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 42 | [التصفيات النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 43 | [رييس مجلس](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3) | N/A |
+| 44 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
+| 45 | [الجمعه المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 46 | [درع الوزاره](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%87) | N/A |
+| 47 | [البحث العلمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%ab+%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a) | N/A |
+| 48 | [الدول الاخري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%8a) | N/A |
+| 49 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
+| 50 | [السيده الجليله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d9%87) | N/A |
 
 
 

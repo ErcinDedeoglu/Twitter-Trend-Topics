@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-01 12:18:20 UTC`
+📆 Last Updated: `2023-02-01 13:21:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Isco](http://twitter.com/search?q=%23Isco) | N/A |
 | 2 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 3 | [#FCUWOB](http://twitter.com/search?q=%23FCUWOB) | N/A |
-| 4 | [#SCPVfB](http://twitter.com/search?q=%23SCPVfB) | N/A |
-| 5 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
-| 6 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 7 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
-| 8 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
-| 9 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 10 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 11 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 14 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 15 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
-| 16 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 17 | [Transfer](http://twitter.com/search?q=Transfer) | N/A |
-| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 19 | [Passwort](http://twitter.com/search?q=Passwort) | N/A |
-| 20 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 21 | [Wohnungsbau](http://twitter.com/search?q=Wohnungsbau) | N/A |
-| 22 | [gesellschaftsrat](http://twitter.com/search?q=gesellschaftsrat) | N/A |
-| 23 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 24 | [tatort](http://twitter.com/search?q=tatort) | N/A |
-| 25 | [kaufoption](http://twitter.com/search?q=kaufoption) | N/A |
-| 26 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 27 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 28 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
-| 29 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
-| 30 | [Brasilien](http://twitter.com/search?q=Brasilien) | N/A |
+| 3 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
+| 4 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 5 | [#SCPVfB](http://twitter.com/search?q=%23SCPVfB) | N/A |
+| 6 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
+| 7 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 8 | [WehrPFLICHT](http://twitter.com/search?q=WehrPFLICHT) | N/A |
+| 9 | [Flug als Privatleute](http://twitter.com/search?q=Flug+als+Privatleute) | N/A |
+| 10 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 11 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 12 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 15 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 16 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 18 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
+| 19 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 20 | [Wohnungsbau](http://twitter.com/search?q=Wohnungsbau) | N/A |
+| 21 | [gesellschaftsrat](http://twitter.com/search?q=gesellschaftsrat) | N/A |
+| 22 | [tatort](http://twitter.com/search?q=tatort) | N/A |
+| 23 | [kaufoption](http://twitter.com/search?q=kaufoption) | N/A |
+| 24 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 25 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
+| 26 | [Transfer](http://twitter.com/search?q=Transfer) | N/A |
+| 27 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
+| 28 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 29 | [Brasilien](http://twitter.com/search?q=Brasilien) | N/A |
+| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 31 | [Gerichte](http://twitter.com/search?q=Gerichte) | N/A |
-| 32 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
-| 33 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 34 | [Vonovia](http://twitter.com/search?q=Vonovia) | N/A |
-| 35 | [KNUST](http://twitter.com/search?q=KNUST) | N/A |
-| 36 | [Informieren Sie](http://twitter.com/search?q=Informieren+Sie) | N/A |
-| 37 | [eiskunstläuferin](http://twitter.com/search?q=eiskunstl%c3%a4uferin) | N/A |
-| 38 | [Paderborn](http://twitter.com/search?q=Paderborn) | N/A |
-| 39 | [Steuerberater](http://twitter.com/search?q=Steuerberater) | N/A |
-| 40 | [Aktienrente](http://twitter.com/search?q=Aktienrente) | N/A |
-| 41 | [Kapsel](http://twitter.com/search?q=Kapsel) | N/A |
-| 42 | [Absage](http://twitter.com/search?q=Absage) | N/A |
-| 43 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 44 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
-| 45 | [Vegetarier](http://twitter.com/search?q=Vegetarier) | N/A |
-| 46 | [kommunismus](http://twitter.com/search?q=kommunismus) | N/A |
-| 47 | [Räterepublik](http://twitter.com/search?q=R%c3%a4terepublik) | N/A |
-| 48 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 32 | [KNUST](http://twitter.com/search?q=KNUST) | N/A |
+| 33 | [Informieren Sie](http://twitter.com/search?q=Informieren+Sie) | N/A |
+| 34 | [Eiskunstläuferin](http://twitter.com/search?q=Eiskunstl%c3%a4uferin) | N/A |
+| 35 | [Aktienrente](http://twitter.com/search?q=Aktienrente) | N/A |
+| 36 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 37 | [Paderborn](http://twitter.com/search?q=Paderborn) | N/A |
+| 38 | [Steuerberater](http://twitter.com/search?q=Steuerberater) | N/A |
+| 39 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 40 | [Kapsel](http://twitter.com/search?q=Kapsel) | N/A |
+| 41 | [Absage](http://twitter.com/search?q=Absage) | N/A |
+| 42 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
+| 43 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 44 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 45 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 46 | [Soli](http://twitter.com/search?q=Soli) | N/A |
+| 47 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 48 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
 
 
 

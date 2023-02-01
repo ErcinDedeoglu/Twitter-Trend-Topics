@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-02-01 12:18:32 UTC`
+📆 Last Updated: `2023-02-01 13:21:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 2 | [#WelcomeToManila_ENHYPEN](http://twitter.com/search?q=%23WelcomeToManila_ENHYPEN) | N/A |
-| 3 | [BELLEntines WithDUNKIN](http://twitter.com/search?q=BELLEntines+WithDUNKIN) | N/A |
-| 4 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
-| 5 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
-| 6 | [EN-VADERS GOES TO MNL](http://twitter.com/search?q=EN-VADERS+GOES+TO+MNL) | EN-VADERS GOES TO MNL is a phrase used to describe a group of people who are traveling to Manila, Philippines. The phrase is derived from the popular video game Space Invaders, which features aliens invading Earth. The phrase is meant to signify that a group of people are going on an adventure to explore a new place. |
-| 7 | [SAFE SKIES](http://twitter.com/search?q=SAFE+SKIES) | N/A |
-| 8 | [D-2 COMPLEX EP RELEASE](http://twitter.com/search?q=D-2+COMPLEX+EP+RELEASE) | N/A |
-| 9 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 2 | [#MCIKutob](http://twitter.com/search?q=%23MCIKutob) | N/A |
+| 3 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 4 | [BELLEntines WithDUNKIN](http://twitter.com/search?q=BELLEntines+WithDUNKIN) | N/A |
+| 5 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 6 | [#DunkinPHxBelle](http://twitter.com/search?q=%23DunkinPHxBelle) | N/A |
+| 7 | [#DunkinPHValentines](http://twitter.com/search?q=%23DunkinPHValentines) | N/A |
+| 8 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 9 | [D-2 COMPLEX EP RELEASE](http://twitter.com/search?q=D-2+COMPLEX+EP+RELEASE) | N/A |
 | 10 | [ANDREA GEMOfASTAR](http://twitter.com/search?q=ANDREA+GEMOfASTAR) | N/A |
-| 11 | [Reverence to God](http://twitter.com/search?q=Reverence+to+God) | N/A |
+| 11 | [EN-VADERS GOES TO MNL](http://twitter.com/search?q=EN-VADERS+GOES+TO+MNL) | EN-VADERS GOES TO MNL is a phrase used to describe a group of people who are traveling to Manila, Philippines. The phrase is derived from the popular video game Space Invaders, which features aliens invading Earth. The phrase is meant to signify that a group of people are going on an adventure to explore a new place. |
 | 12 | [DARLENTINA THE CLASH](http://twitter.com/search?q=DARLENTINA+THE+CLASH) | N/A |
-| 13 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
-| 14 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 15 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 16 | [SPECIAL GOING BSS EPISODE](http://twitter.com/search?q=SPECIAL+GOING+BSS+EPISODE) | SPECIAL GOING BSS EPISODE is a term used in the Japanese anime and manga industry. It refers to a special episode of an anime or manga series that is released as a one-off, usually to commemorate a special event or milestone. The acronym BSS stands for "Bonus Special Story". |
-| 17 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
-| 18 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
-| 19 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 20 | [ALEXAs BDAY in25DAYS](http://twitter.com/search?q=ALEXAs+BDAY+in25DAYS) | N/A |
-| 21 | [WE GOTCHU ALWAYS KD](http://twitter.com/search?q=WE+GOTCHU+ALWAYS+KD) | "WE GOTCHU ALWAYS KD" is an expression of support and encouragement, typically used among friends. It is short for "We've got you always, KD," meaning that the speaker will always be there to support and help the person named "KD." |
+| 13 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 14 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
+| 15 | [Reverence to God](http://twitter.com/search?q=Reverence+to+God) | N/A |
+| 16 | [SAFE SKIES](http://twitter.com/search?q=SAFE+SKIES) | N/A |
+| 17 | [ACEs 2GETHER AT PPOPCON](http://twitter.com/search?q=ACEs+2GETHER+AT+PPOPCON) | N/A |
+| 18 | [Binibining Klay](http://twitter.com/search?q=Binibining+Klay) | N/A |
+| 19 | [New Bataan](http://twitter.com/search?q=New+Bataan) | N/A |
+| 20 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 21 | [Have a safe flight](http://twitter.com/search?q=Have+a+safe+flight) | N/A |
 | 22 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 23 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 24 | [PowerfulDONBELLE WithSMART](http://twitter.com/search?q=PowerfulDONBELLE+WithSMART) | PowerfulDONBELLE WithSMART is a phrase used to describe someone who is strong, confident, and intelligent. It is often used as a compliment or to express admiration for someone's abilities. |
-| 25 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 26 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 27 | [#MCIKutob](http://twitter.com/search?q=%23MCIKutob) | N/A |
-| 28 | [#DunkinPHxBelle](http://twitter.com/search?q=%23DunkinPHxBelle) | N/A |
-| 29 | [#DunkinPHValentines](http://twitter.com/search?q=%23DunkinPHValentines) | N/A |
-| 30 | [#FebIbigWithBINI](http://twitter.com/search?q=%23FebIbigWithBINI) | N/A |
-| 31 | [#EnSalubong](http://twitter.com/search?q=%23EnSalubong) | N/A |
-| 32 | [#TEAMAIRPORT_LEZGAUR_ENHARRIVE](http://twitter.com/search?q=%23TEAMAIRPORT_LEZGAUR_ENHARRIVE) | N/A |
-| 33 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 34 | [#DLDamageControl](http://twitter.com/search?q=%23DLDamageControl) | N/A |
-| 35 | [#부석순은_언제나_고잉고잉](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c%ec%9d%80_%ec%96%b8%ec%a0%9c%eb%82%98_%ea%b3%a0%ec%9e%89%ea%b3%a0%ec%9e%89) | N/A |
-| 36 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 37 | [#GOING_BSS_Fighting](http://twitter.com/search?q=%23GOING_BSS_Fighting) | N/A |
-| 38 | [#JaneNella](http://twitter.com/search?q=%23JaneNella) | N/A |
-| 39 | [#JJK212](http://twitter.com/search?q=%23JJK212) | N/A |
-| 40 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
-| 41 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 42 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
-| 43 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
-| 44 | [#SOJUNGHWAN](http://twitter.com/search?q=%23SOJUNGHWAN) | N/A |
-| 45 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | N/A |
-| 46 | [#PowerAllDonBelle](http://twitter.com/search?q=%23PowerAllDonBelle) | N/A |
-| 47 | [#Dobbyniversary](http://twitter.com/search?q=%23Dobbyniversary) | N/A |
-| 48 | [#BOYCOTTMZETxAPTxGMA693](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA693) | N/A |
+| 23 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 24 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 25 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
+| 26 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
+| 27 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 28 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
+| 29 | [GOING BSS](http://twitter.com/search?q=GOING+BSS) | GOING BSS is an acronym for "Going Back to School Shopping". It is used to describe the process of shopping for school supplies and other items needed for the upcoming school year. |
+| 30 | [WE GOTCHU ALWAYS KD](http://twitter.com/search?q=WE+GOTCHU+ALWAYS+KD) | "WE GOTCHU ALWAYS KD" is an expression of support and encouragement, typically used among friends. It is short for "We've got you always, KD," meaning that the speaker will always be there to support and help the person named "KD." |
+| 31 | [ALEXAs BDAY in25DAYS](http://twitter.com/search?q=ALEXAs+BDAY+in25DAYS) | N/A |
+| 32 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 33 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 34 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
+| 35 | [#WelcomeToManila_ENHYPEN](http://twitter.com/search?q=%23WelcomeToManila_ENHYPEN) | N/A |
+| 36 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
+| 37 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 38 | [#DLDamageControl](http://twitter.com/search?q=%23DLDamageControl) | N/A |
+| 39 | [#EN_WORLDTOUR_MANIFESTO](http://twitter.com/search?q=%23EN_WORLDTOUR_MANIFESTO) | N/A |
+| 40 | [#teamairport_lezgaur_enharrive](http://twitter.com/search?q=%23teamairport_lezgaur_enharrive) | N/A |
+| 41 | [#EnSalubong](http://twitter.com/search?q=%23EnSalubong) | N/A |
+| 42 | [#FebIbigWithBINI](http://twitter.com/search?q=%23FebIbigWithBINI) | N/A |
+| 43 | [#MANILAFESTO](http://twitter.com/search?q=%23MANILAFESTO) | N/A |
+| 44 | [#DarnaSuperRevenge](http://twitter.com/search?q=%23DarnaSuperRevenge) | N/A |
+| 45 | [#JaneNella](http://twitter.com/search?q=%23JaneNella) | N/A |
+| 46 | [#JJK212](http://twitter.com/search?q=%23JJK212) | N/A |
+| 47 | [#puredoctrinesofchrist](http://twitter.com/search?q=%23puredoctrinesofchrist) | N/A |
+| 48 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
+| 49 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
 
 
 

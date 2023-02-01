@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-01 12:18:16 UTC`
+📆 Last Updated: `2023-02-01 13:21:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,47 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 2 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 3 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 4 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 5 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 6 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 7 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 8 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 9 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 10 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 11 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 12 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
-| 13 | [Round 6](http://twitter.com/search?q=Round+6) | Round 6 is a term used to refer to the sixth round of a competition or tournament. It is typically used in sports, such as boxing or mixed martial arts, where competitors are eliminated after each round until only one remains. The phrase can also be used more generally to refer to any situation where there are multiple rounds of competition or evaluation. |
-| 14 | [dani calabresa](http://twitter.com/search?q=dani+calabresa) | Dani Calabresa is a Brazilian comedian and actress. She is best known for her work on the comedy show CQC, where she was a regular cast member from 2008 to 2012. The phrase "Dani Calabresa" translates to "Dani from Calabria" in English, referring to her hometown of Calabria in Brazil. |
-| 15 | [Unidos](http://twitter.com/search?q=Unidos) | N/A |
-| 16 | [#batepapobbb](http://twitter.com/search?q=%23batepapobbb) | N/A |
-| 17 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 18 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
-| 19 | [FINALMENTE FEVEREIRO](http://twitter.com/search?q=FINALMENTE+FEVEREIRO) | N/A |
-| 20 | [Só 53%](http://twitter.com/search?q=S%c3%b3+53%25) | "Só 53%" is a Portuguese phrase that translates to "only 53%". It is often used to express disappointment or dissatisfaction with a result or outcome. |
-| 21 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
-| 22 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 23 | [BOM DIA FEVEREIRO](http://twitter.com/search?q=BOM+DIA+FEVEREIRO) | N/A |
-| 24 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 25 | [Bem-vindo Fevereiro](http://twitter.com/search?q=Bem-vindo+Fevereiro) | N/A |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [MITA](http://twitter.com/search?q=MITA) | MITA stands for "Made in Taiwan, Assembly in Taiwan". It is a certification mark used to indicate that a product has been manufactured and assembled in Taiwan. |
-| 28 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 29 | [Publicitário](http://twitter.com/search?q=Publicit%c3%a1rio) | N/A |
-| 30 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 31 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 32 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
-| 33 | [Feliz Fevereiro](http://twitter.com/search?q=Feliz+Fevereiro) | N/A |
-| 34 | [Que Fevereiro](http://twitter.com/search?q=Que+Fevereiro) | N/A |
-| 35 | [Tove](http://twitter.com/search?q=Tove) | N/A |
-| 36 | [Letícia Colin](http://twitter.com/search?q=Let%c3%adcia+Colin) | Letícia Colin is a Brazilian actress. Her name is derived from the Latin word "Leticia," which means "joy" or "happiness." In English, her name can be translated to mean "Joyful Colin." |
-| 37 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 38 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 39 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 40 | [Regina Duarte](http://twitter.com/search?q=Regina+Duarte) | Regina Duarte is a Brazilian actress, singer, and politician. In English, her name means "Queen of the Gift". |
-| 41 | [LUDMILLA SOU MA](http://twitter.com/search?q=LUDMILLA+SOU+MA) | LUDMILLA SOU MA is a phrase in Portuguese which translates to "I am Ludmilla". It is a statement of identity, used to introduce oneself. |
-| 42 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 43 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 44 | [Damian](http://twitter.com/search?q=Damian) | Damian is a masculine given name of Greek origin meaning "to tame, subdue". It is derived from the Greek word “damánein”, which means “to tame” or “to subdue”. It is also related to the Latin word “dominus”, which means “lord” or “master”. |
-| 45 | [Sada Cruzeiro](http://twitter.com/search?q=Sada+Cruzeiro) | N/A |
-| 46 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
-| 47 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
-| 48 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 49 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 50 | [rafael portugal](http://twitter.com/search?q=rafael+portugal) | N/A |
+| 2 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 3 | [#REVERSA](http://twitter.com/search?q=%23REVERSA) | N/A |
+| 4 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 5 | [#PachecaoNao](http://twitter.com/search?q=%23PachecaoNao) | N/A |
+| 6 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 7 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 8 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 9 | [Churrasco](http://twitter.com/search?q=Churrasco) | N/A |
+| 10 | [Finalmente Fevereiro](http://twitter.com/search?q=Finalmente+Fevereiro) | N/A |
+| 11 | [Publicitário](http://twitter.com/search?q=Publicit%c3%a1rio) | N/A |
+| 12 | [BOM DIA FEVEREIRO](http://twitter.com/search?q=BOM+DIA+FEVEREIRO) | N/A |
+| 13 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 14 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 15 | [#PACHECONUNCA](http://twitter.com/search?q=%23PACHECONUNCA) | N/A |
+| 16 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 17 | [Bem-vindo Fevereiro](http://twitter.com/search?q=Bem-vindo+Fevereiro) | N/A |
+| 18 | [Ana Clara](http://twitter.com/search?q=Ana+Clara) | Ana Clara is a Portuguese name meaning "Graceful and Bright". It is derived from the Latin name Anna, which means "grace", and Clara, which means "bright". |
+| 19 | [Que Fevereiro](http://twitter.com/search?q=Que+Fevereiro) | N/A |
+| 20 | [Feliz Fevereiro](http://twitter.com/search?q=Feliz+Fevereiro) | N/A |
+| 21 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
+| 22 | [#HappyBirthdayHarryStyles](http://twitter.com/search?q=%23HappyBirthdayHarryStyles) | N/A |
+| 23 | [MEU MÊS](http://twitter.com/search?q=MEU+M%c3%8aS) | N/A |
+| 24 | [Dia 1](http://twitter.com/search?q=Dia+1) | N/A |
+| 25 | [Rodrigo Pacheco](http://twitter.com/search?q=Rodrigo+Pacheco) | Rodrigo Pacheco is a Spanish name, derived from the Germanic name Roderick. It means "famous ruler" or "famous power". |
+| 26 | [32 de Janeiro](http://twitter.com/search?q=32+de+Janeiro) | N/A |
+| 27 | [Iemanjá](http://twitter.com/search?q=Iemanj%c3%a1) | N/A |
+| 28 | [Arthur Lira](http://twitter.com/search?q=Arthur+Lira) | Arthur Lira is a Brazilian politician who currently serves as the President of the Chamber of Deputies. In English, his name means "noble leader". |
+| 29 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
+| 30 | [Romário](http://twitter.com/search?q=Rom%c3%a1rio) | Romário is a Portuguese name derived from the Latin word "romanus," meaning "Roman." It is also a common given name in Brazil, where it is associated with the Brazilian footballer Romário de Souza Faria, who is widely considered one of the greatest players of all time. |
+| 31 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
+| 32 | [Misto](http://twitter.com/search?q=Misto) | N/A |
+| 33 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
+| 34 | [WALLACE NA CADEIA](http://twitter.com/search?q=WALLACE+NA+CADEIA) | N/A |
+| 35 | [Round 6](http://twitter.com/search?q=Round+6) | Round 6 is a term used to refer to the sixth round of a competition or tournament. It is typically used in sports, such as boxing or mixed martial arts, where competitors are eliminated after each round until only one remains. The phrase can also be used more generally to refer to any situation where there are multiple rounds of competition or evaluation. |
+| 36 | [PSDB](http://twitter.com/search?q=PSDB) | N/A |
+| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 38 | [#PachecoSIM](http://twitter.com/search?q=%23PachecoSIM) | N/A |
+| 39 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 40 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
+| 41 | [#ForaPacheco](http://twitter.com/search?q=%23ForaPacheco) | N/A |
+| 42 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
 
 
 
