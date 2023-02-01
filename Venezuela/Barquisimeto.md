@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-02-01 22:15:58 UTC`
+📆 Last Updated: `2023-02-01 23:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#1Feb](http://twitter.com/search?q=%231Feb) | N/A |
 | 2 | [#ElPuebloSufreLasSanciones](http://twitter.com/search?q=%23ElPuebloSufreLasSanciones) | N/A |
-| 3 | [#31Ene](http://twitter.com/search?q=%2331Ene) | N/A |
-| 4 | [Encuesta ABC](http://twitter.com/search?q=Encuesta+ABC) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [#ParqueDeCiencias](http://twitter.com/search?q=%23ParqueDeCiencias) | N/A |
-| 7 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 8 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 9 | [Ezequiel Zamora](http://twitter.com/search?q=Ezequiel+Zamora) | N/A |
-| 10 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 11 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 12 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 13 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 14 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 15 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
+| 3 | [#ParqueDeCiencias](http://twitter.com/search?q=%23ParqueDeCiencias) | N/A |
+| 4 | [#31Ene](http://twitter.com/search?q=%2331Ene) | N/A |
+| 5 | [Encuesta ABC](http://twitter.com/search?q=Encuesta+ABC) | N/A |
+| 6 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 7 | [Ezequiel Zamora](http://twitter.com/search?q=Ezequiel+Zamora) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 10 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 11 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 12 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
+| 13 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 14 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 15 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
 | 16 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
-| 17 | [Cecilio Acosta](http://twitter.com/search?q=Cecilio+Acosta) | N/A |
-| 18 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
-| 19 | [General del Pueblo Soberano](http://twitter.com/search?q=General+del+Pueblo+Soberano) | N/A |
-| 20 | [Danry](http://twitter.com/search?q=Danry) | N/A |
-| 21 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 22 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 23 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
-| 24 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 25 | [venezuela quiere rbd](http://twitter.com/search?q=venezuela+quiere+rbd) | N/A |
-| 26 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 27 | [Inces](http://twitter.com/search?q=Inces) | N/A |
-| 28 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 29 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 30 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
-| 31 | [rafael orozco](http://twitter.com/search?q=rafael+orozco) | N/A |
-| 32 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
-| 33 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 34 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 35 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 36 | [Transparencia Internacional](http://twitter.com/search?q=Transparencia+Internacional) | N/A |
-| 37 | [Napoleón Bravo](http://twitter.com/search?q=Napole%c3%b3n+Bravo) | N/A |
-| 38 | [Miguel Pérez Abad](http://twitter.com/search?q=Miguel+P%c3%a9rez+Abad) | N/A |
-| 39 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 40 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 41 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 42 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 43 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 44 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 45 | [Revolución Judicial](http://twitter.com/search?q=Revoluci%c3%b3n+Judicial) | N/A |
-| 46 | [día del internacionalista](http://twitter.com/search?q=d%c3%ada+del+internacionalista) | N/A |
-| 47 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
-| 48 | [Hidrocapital](http://twitter.com/search?q=Hidrocapital) | N/A |
-| 49 | [Tierra y Hombres Libres](http://twitter.com/search?q=Tierra+y+Hombres+Libres) | N/A |
-| 50 | [Héctor Lavoe](http://twitter.com/search?q=H%c3%a9ctor+Lavoe) | N/A |
+| 17 | [General del Pueblo Soberano](http://twitter.com/search?q=General+del+Pueblo+Soberano) | N/A |
+| 18 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 19 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 20 | [Cecilio Acosta](http://twitter.com/search?q=Cecilio+Acosta) | N/A |
+| 21 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 22 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 23 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 24 | [Danry](http://twitter.com/search?q=Danry) | N/A |
+| 25 | [Jesús Yerena](http://twitter.com/search?q=Jes%c3%bas+Yerena) | N/A |
+| 26 | [Roland Carreño](http://twitter.com/search?q=Roland+Carre%c3%b1o) | N/A |
+| 27 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 28 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
+| 29 | [Miguel Pérez Abad](http://twitter.com/search?q=Miguel+P%c3%a9rez+Abad) | N/A |
+| 30 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 31 | [Calixto Ortega](http://twitter.com/search?q=Calixto+Ortega) | N/A |
+| 32 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
+| 33 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 35 | [rafael orozco](http://twitter.com/search?q=rafael+orozco) | N/A |
+| 36 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
+| 37 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 38 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 39 | [Napoleón Bravo](http://twitter.com/search?q=Napole%c3%b3n+Bravo) | N/A |
+| 40 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 41 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 42 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
+| 43 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 44 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 45 | [Bernabé Gutiérrez](http://twitter.com/search?q=Bernab%c3%a9+Guti%c3%a9rrez) | N/A |
+| 46 | [Transparencia Internacional](http://twitter.com/search?q=Transparencia+Internacional) | N/A |
+| 47 | [Revolución Judicial](http://twitter.com/search?q=Revoluci%c3%b3n+Judicial) | N/A |
+| 48 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 49 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
+| 50 | [Tierra y Hombres Libres](http://twitter.com/search?q=Tierra+y+Hombres+Libres) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cairo
 
-📆 Last Updated: `2023-02-01 22:16:13 UTC`
+📆 Last Updated: `2023-02-01 23:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Egypt](</Egypt>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 2 | [الفيدرالي الامريكي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 3 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 1 | [عبد القادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | عبد القادر is an Arabic name which translates to English as "Servant of the Most Powerful". |
+| 2 | [AEA TV](http://twitter.com/search?q=AEA+TV) | N/A |
+| 3 | [محمد الشناوي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
 | 4 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
 | 5 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
 | 6 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
 | 7 | [حسين الشحات](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | حسين الشحات is an Arabic phrase that translates to "Hussein of the Lions". It is a proverb that is used to refer to someone who is brave and courageous. |
 | 8 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
 | 9 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 10 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 10 | [عيسي الحربين](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%8a+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a%d9%86) | N/A |
 | 11 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
-| 12 | [عيسي الحربين](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%8a+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a%d9%86) | N/A |
+| 12 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
 | 13 | [المعلق السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%82+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 14 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 15 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
-| 16 | [عبد القادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | عبد القادر is an Arabic name which translates to English as "Servant of the Most Powerful". |
-| 17 | [شريف المخيف](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%ae%d9%8a%d9%81) | شريف المخيف is an Arabic phrase that translates to "noble and fearful". It is often used to describe someone who is both respected and feared. |
-| 18 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
-| 19 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 14 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 15 | [شريف المخيف](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%ae%d9%8a%d9%81) | شريف المخيف is an Arabic phrase that translates to "noble and fearful". It is often used to describe someone who is both respected and feared. |
+| 16 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 17 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 18 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 19 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
 | 20 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 21 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 21 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
 | 22 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 23 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
-| 24 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 25 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 26 | [الجول](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84) | N/A |
-| 27 | [بيتيس](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3) | بيتيس (pronounced "bay-tees") is an Arabic word meaning "my house". It is often used as a term of endearment, similar to saying "my home" or "my place". |
-| 28 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 29 | [اليوم الحلو](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d9%84%d9%88) | N/A |
-| 30 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 31 | [جول الشحات](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | N/A |
-| 32 | [علي النايل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d9%84) | "علي النايل" is an Arabic phrase that translates to "on the Nile". It is often used to refer to a location on the banks of the Nile River. |
-| 33 | [وميسي](http://twitter.com/search?q=%d9%88%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
-| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 35 | [الهداف التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
-| 36 | [جول التاني](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 37 | [AEA TV](http://twitter.com/search?q=AEA+TV) | N/A |
+| 23 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 24 | [الفولت العالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d9%84%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | الفولت العالي is a term used in electrical engineering to refer to a high voltage. In English, it translates to "high voltage". |
+| 25 | [الهداف التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
+| 26 | [سياتل الامريكي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%a7%d8%aa%d9%84+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 27 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 28 | [الجول](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84) | N/A |
+| 29 | [بيتيس](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3) | بيتيس (pronounced "bay-tees") is an Arabic word meaning "my house". It is often used as a term of endearment, similar to saying "my home" or "my place". |
+| 30 | [#ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | #ليله_صوت_الارض is an Arabic hashtag that translates to "The Night of the Earth's Voice". It is used to promote environmental awareness and activism. |
+| 31 | [اليوم الحلو](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d9%84%d9%88) | N/A |
+| 32 | [جول الشحات](http://twitter.com/search?q=%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | N/A |
+| 33 | [#ليله_طلال_مداح](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b7%d9%84%d8%a7%d9%84_%d9%85%d8%af%d8%a7%d8%ad) | #ليله_طلال_مداح is an Arabic phrase that translates to "Talaal's night of praise". It is a phrase used to express appreciation and admiration for someone. |
+| 34 | [وميسي](http://twitter.com/search?q=%d9%88%d9%85%d9%8a%d8%b3%d9%8a) | N/A |
+| 35 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [علي النايل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d9%84) | "علي النايل" is an Arabic phrase that translates to "on the Nile". It is often used to refer to a location on the banks of the Nile River. |
 | 38 | [محمد مجدي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ac%d8%af%d9%8a) | N/A |
-| 39 | [#ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | #ليله_صوت_الارض is an Arabic hashtag that translates to "The Night of the Earth's Voice". It is used to promote environmental awareness and activism. |
+| 39 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
 | 40 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 41 | [عدي حدود افريقيا](http://twitter.com/search?q=%d8%b9%d8%af%d9%8a+%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 42 | [اون فاير](http://twitter.com/search?q=%d8%a7%d9%88%d9%86+%d9%81%d8%a7%d9%8a%d8%b1) | N/A |
-| 43 | [سيتى](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%89) | N/A |
-| 44 | [ذكري الرجال](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d9%84) | N/A |
-| 45 | [علي الماتش](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4) | N/A |
-| 46 | [المغرب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
-| 47 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
-| 48 | [علي المونديال](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84) | N/A |
-| 49 | [نايل سات](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%84+%d8%b3%d8%a7%d8%aa) | N/A |
-| 50 | [طلال مداح](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d9%85%d8%af%d8%a7%d8%ad) | طلال مداح is an Arabic phrase that translates to "praise the generous one". It is often used as a way to express gratitude and appreciation for someone's generosity. |
+| 42 | [سيتى](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%89) | N/A |
+| 43 | [علي الماتش](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4) | N/A |
+| 44 | [نايل سات](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%84+%d8%b3%d8%a7%d8%aa) | N/A |
+| 45 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
+| 46 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 47 | [طلال مداح](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d9%85%d8%af%d8%a7%d8%ad) | طلال مداح is an Arabic phrase that translates to "praise the generous one". It is often used as a way to express gratitude and appreciation for someone's generosity. |
+| 48 | [الفيدرالي الامريكي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 49 | [المغرب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
+| 50 | [مونديال الانديه](http://twitter.com/search?q=%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-01 22:16:36 UTC`
+📆 Last Updated: `2023-02-01 23:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Vietnam
 | 8 | [XANA PENPENZ](http://twitter.com/search?q=XANA+PENPENZ) | N/A |
 | 9 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
 | 10 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 11 | [Kiyoshi's Seeds](http://twitter.com/search?q=Kiyoshi%27s+Seeds) | N/A |
-| 12 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 13 | [JIHYO BIRTHDAY PARTY](http://twitter.com/search?q=JIHYO+BIRTHDAY+PARTY) | N/A |
-| 14 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
-| 15 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
-| 16 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
-| 17 | [song phú](http://twitter.com/search?q=song+ph%c3%ba) | N/A |
-| 18 | [Ngồi](http://twitter.com/search?q=Ng%e1%bb%93i) | N/A |
-| 19 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 20 | [tháng 2](http://twitter.com/search?q=th%c3%a1ng+2) | N/A |
-| 21 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 22 | [thần tài](http://twitter.com/search?q=th%e1%ba%a7n+t%c3%a0i) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 11 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 12 | [Kiyoshi's Seeds](http://twitter.com/search?q=Kiyoshi%27s+Seeds) | N/A |
+| 13 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 14 | [JIHYO BIRTHDAY PARTY](http://twitter.com/search?q=JIHYO+BIRTHDAY+PARTY) | N/A |
+| 15 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
+| 16 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
+| 17 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
+| 18 | [song phú](http://twitter.com/search?q=song+ph%c3%ba) | N/A |
+| 19 | [ngồi](http://twitter.com/search?q=ng%e1%bb%93i) | N/A |
+| 20 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 21 | [tháng 2](http://twitter.com/search?q=th%c3%a1ng+2) | N/A |
+| 22 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 23 | [thần tài](http://twitter.com/search?q=th%e1%ba%a7n+t%c3%a0i) | N/A |
 | 24 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
 | 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 26 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 27 | [linh](http://twitter.com/search?q=linh) | N/A |
-| 28 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 26 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 27 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 29 | [linh](http://twitter.com/search?q=linh) | N/A |
 | 30 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
 | 31 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
 | 32 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 33 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
+| 33 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
 | 34 | [hcmc](http://twitter.com/search?q=hcmc) | N/A |
 | 35 | [Seop](http://twitter.com/search?q=Seop) | N/A |
 | 36 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
 | 37 | [Release Date](http://twitter.com/search?q=Release+Date) | N/A |
-| 38 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 39 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
+| 38 | [Massage in Riyadh](http://twitter.com/search?q=Massage+in+Riyadh) | N/A |
+| 39 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 40 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 41 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
 | 42 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
-| 43 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 44 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 45 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 46 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
-| 47 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 48 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 43 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 44 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 45 | [thương](http://twitter.com/search?q=th%c6%b0%c6%a1ng) | N/A |
+| 46 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 47 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 48 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
 | 49 | [Discord](http://twitter.com/search?q=Discord) | N/A |
-| 50 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 50 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-01 22:16:11 UTC`
+📆 Last Updated: `2023-02-01 23:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [D-2 COMPLEX EP RELEASE](http://twitter.com/search?q=D-2+COMPLEX+EP+RELEASE) | N/A |
 | 8 | [For Youth](http://twitter.com/search?q=For+Youth) | For Youth is a phrase used to refer to activities, programs, or initiatives that are specifically designed for young people. It can also be used to describe organizations or services that focus on helping young people. The phrase is often used in the context of social work, education, and health care. |
 | 9 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 10 | [powerfuldonbelle withsmart](http://twitter.com/search?q=powerfuldonbelle+withsmart) | N/A |
-| 11 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 12 | [one two connect](http://twitter.com/search?q=one+two+connect) | N/A |
-| 13 | [bellentines withdunkin](http://twitter.com/search?q=bellentines+withdunkin) | N/A |
-| 14 | [Unholy](http://twitter.com/search?q=Unholy) | Unholy is an adjective that means wicked, immoral, or sinful. It is often used to describe something that is considered to be blasphemous or sacrilegious. |
-| 15 | [WALANG MATUTULOG](http://twitter.com/search?q=WALANG+MATUTULOG) | N/A |
-| 16 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 17 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 18 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
-| 19 | [MAY POGI NA SA PINAS](http://twitter.com/search?q=MAY+POGI+NA+SA+PINAS) | N/A |
-| 20 | [BSS HIGHLIGHT MEDLEY](http://twitter.com/search?q=BSS+HIGHLIGHT+MEDLEY) | BSS HIGHLIGHT MEDLEY is a compilation of songs from the Japanese pop group BSS (BananaLemon, SmileYa, and SevenOops). It is a collection of some of their most popular and memorable songs. The English translation of the phrase would be "BSS Best Hits Medley". |
-| 21 | [Xyriel Manabat](http://twitter.com/search?q=Xyriel+Manabat) | N/A |
-| 22 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 23 | [janenella is the movement](http://twitter.com/search?q=janenella+is+the+movement) | N/A |
-| 24 | [we gotchu always kd](http://twitter.com/search?q=we+gotchu+always+kd) | N/A |
-| 25 | [alexas bday in25days](http://twitter.com/search?q=alexas+bday+in25days) | N/A |
-| 26 | [reverence to god](http://twitter.com/search?q=reverence+to+god) | N/A |
-| 27 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 10 | [one two connect](http://twitter.com/search?q=one+two+connect) | N/A |
+| 11 | [bellentines withdunkin](http://twitter.com/search?q=bellentines+withdunkin) | N/A |
+| 12 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 13 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 14 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 15 | [MAY POGI NA SA PINAS](http://twitter.com/search?q=MAY+POGI+NA+SA+PINAS) | N/A |
+| 16 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
+| 17 | [BSS HIGHLIGHT MEDLEY](http://twitter.com/search?q=BSS+HIGHLIGHT+MEDLEY) | BSS HIGHLIGHT MEDLEY is a compilation of songs from the Japanese pop group BSS (BananaLemon, SmileYa, and SevenOops). It is a collection of some of their most popular and memorable songs. The English translation of the phrase would be "BSS Best Hits Medley". |
+| 18 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 19 | [janenella is the movement](http://twitter.com/search?q=janenella+is+the+movement) | N/A |
+| 20 | [Xyriel Manabat](http://twitter.com/search?q=Xyriel+Manabat) | N/A |
+| 21 | [Unholy](http://twitter.com/search?q=Unholy) | Unholy is an adjective that means wicked, immoral, or sinful. It is often used to describe something that is considered to be blasphemous or sacrilegious. |
+| 22 | [we gotchu always kd](http://twitter.com/search?q=we+gotchu+always+kd) | N/A |
+| 23 | [alexas bday in25days](http://twitter.com/search?q=alexas+bday+in25days) | N/A |
+| 24 | [reverence to god](http://twitter.com/search?q=reverence+to+god) | N/A |
+| 25 | [WALANG MATUTULOG](http://twitter.com/search?q=WALANG+MATUTULOG) | N/A |
+| 26 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 27 | [safe skies](http://twitter.com/search?q=safe+skies) | N/A |
 | 28 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 29 | [darlentina the clash](http://twitter.com/search?q=darlentina+the+clash) | N/A |
+| 29 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
 | 30 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
-| 31 | [stell the song birdie](http://twitter.com/search?q=stell+the+song+birdie) | N/A |
-| 32 | [safe skies](http://twitter.com/search?q=safe+skies) | N/A |
+| 31 | [darlentina the clash](http://twitter.com/search?q=darlentina+the+clash) | N/A |
+| 32 | [stell the song birdie](http://twitter.com/search?q=stell+the+song+birdie) | N/A |
 | 33 | [andrea gemofastar](http://twitter.com/search?q=andrea+gemofastar) | N/A |
-| 34 | [Insta](http://twitter.com/search?q=Insta) | N/A |
-| 35 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 36 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
-| 37 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
-| 38 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
-| 39 | [GOING BSS](http://twitter.com/search?q=GOING+BSS) | GOING BSS is an acronym for "Going Back to School Shopping". It is used to describe the process of shopping for school supplies and other items needed for the upcoming school year. |
-| 40 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 41 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
-| 42 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 43 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
+| 34 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 35 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
+| 36 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
+| 37 | [Going BSS](http://twitter.com/search?q=Going+BSS) | N/A |
+| 38 | [YADHTRIB NA NI SSOB YMOREJ](http://twitter.com/search?q=YADHTRIB+NA+NI+SSOB+YMOREJ) | N/A |
+| 39 | [birth month](http://twitter.com/search?q=birth+month) | N/A |
+| 40 | [Insta](http://twitter.com/search?q=Insta) | N/A |
+| 41 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 42 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
+| 43 | [aces 2gether at ppopcon](http://twitter.com/search?q=aces+2gether+at+ppopcon) | N/A |
 | 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 45 | [YADHTRIB NA NI SSOB YMOREJ](http://twitter.com/search?q=YADHTRIB+NA+NI+SSOB+YMOREJ) | N/A |
-| 46 | [New Bataan](http://twitter.com/search?q=New+Bataan) | N/A |
-| 47 | [aces 2gether at ppopcon](http://twitter.com/search?q=aces+2gether+at+ppopcon) | N/A |
-| 48 | [MI GORENG](http://twitter.com/search?q=MI+GORENG) | N/A |
+| 45 | [I JUST WOKE UP](http://twitter.com/search?q=I+JUST+WOKE+UP) | N/A |
+| 46 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
+| 47 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 48 | [ANDITO NA SILA](http://twitter.com/search?q=ANDITO+NA+SILA) | N/A |
 
 
 

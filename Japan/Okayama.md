@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-02-01 22:16:36 UTC`
+📆 Last Updated: `2023-02-01 23:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,53 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [男子プリキュア](http://twitter.com/search?q=%e7%94%b7%e5%ad%90%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | 男子プリキュア (Danshi Purikyua) is a Japanese anime series that follows the adventures of five male high school students who transform into superheroes to protect the world from evil. The English translation of this phrase is "Boys' PreCure". |
-| 2 | [#ツインテールの日](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%b3%e3%83%86%e3%83%bc%e3%83%ab%e3%81%ae%e6%97%a5) | N/A |
-| 3 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
-| 4 | [キュアウィング](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 5 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
-| 6 | [ムーラン・ルージュ](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%bb%e3%83%ab%e3%83%bc%e3%82%b8%e3%83%a5) | N/A |
-| 7 | [村瀬さん](http://twitter.com/search?q=%e6%9d%91%e7%80%ac%e3%81%95%e3%82%93) | N/A |
-| 8 | [インスタライブ](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 9 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
-| 10 | [#おは戦50202fm](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650202fm) | N/A |
-| 11 | [かえでぃー](http://twitter.com/search?q=%e3%81%8b%e3%81%88%e3%81%a7%e3%81%83%e3%83%bc) | N/A |
-| 12 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
-| 13 | [キュアゴリラ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%b4%e3%83%aa%e3%83%a9) | N/A |
-| 14 | [マルシャル](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%ab) | N/A |
-| 15 | [成人プリキュア](http://twitter.com/search?q=%e6%88%90%e4%ba%ba%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
-| 16 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
-| 17 | [村瀬くん](http://twitter.com/search?q=%e6%9d%91%e7%80%ac%e3%81%8f%e3%82%93) | N/A |
+| 1 | [イヴェルカーナ](http://twitter.com/search?q=%e3%82%a4%e3%83%b4%e3%82%a7%e3%83%ab%e3%82%ab%e3%83%bc%e3%83%8a) | イヴェルカーナ is a type of traditional Japanese dance. It is characterized by its graceful movements and elegant costumes. The name comes from the Italian word "Eve" meaning "evening" and "Carina" meaning "lovely". In English, it can be translated as "Lovely Evening Dance". |
+| 2 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
+| 3 | [#ツインテールの日](http://twitter.com/search?q=%23%e3%83%84%e3%82%a4%e3%83%b3%e3%83%86%e3%83%bc%e3%83%ab%e3%81%ae%e6%97%a5) | N/A |
+| 4 | [村瀬さん](http://twitter.com/search?q=%e6%9d%91%e7%80%ac%e3%81%95%e3%82%93) | 村瀬さん is a Japanese honorific title used to refer to someone with the surname Murase. It is similar to the English title of "Mr. Murase" or "Mrs. Murase". |
+| 5 | [キュアウィング](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | キュアウィング (Kyuu Wingu) is a Japanese term for a type of healing technique that uses the power of positive energy to help people heal from physical and emotional pain. It is based on the idea that the power of love and kindness can be used to heal and restore balance in a person's life. The technique involves sending positive energy to the person in need, either through touch or visualization. |
+| 6 | [キュアゴリラ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%b4%e3%83%aa%e3%83%a9) | キュアゴリラ is a Japanese character created by the animation studio Toei Animation. It is a pink gorilla-like creature with a magical wand that can transform into various objects. The character's name translates to "Cure Gorilla" in English, and it is the mascot of the "Pretty Cure" series of magical girl anime. |
+| 7 | [ムーラン・ルージュ](http://twitter.com/search?q=%e3%83%a0%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%bb%e3%83%ab%e3%83%bc%e3%82%b8%e3%83%a5) | ムーラン・ルージュ is a Japanese animated film released in 1995. It is based on the novel by French author Claude Farrère and tells the story of a young girl named Moulin Rouge who embarks on a journey to find her father. The title translates to "Moulin Rouge" in English. |
+| 8 | [吸死舞台化](http://twitter.com/search?q=%e5%90%b8%e6%ad%bb%e8%88%9e%e5%8f%b0%e5%8c%96) | 吸死舞台化 is a Japanese phrase that literally translates to "stage death by sucking." It is used to describe a situation in which someone or something is killed off in a dramatic fashion, usually as part of a performance or show. |
+| 9 | [かえでぃー](http://twitter.com/search?q=%e3%81%8b%e3%81%88%e3%81%a7%e3%81%83%e3%83%bc) | かえでぃー is a Japanese slang term that is used to refer to someone who is cute or attractive. In English, it could be translated as "cutey" or "cutie". |
+| 10 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
+| 11 | [克服バルファルク](http://twitter.com/search?q=%e5%85%8b%e6%9c%8d%e3%83%90%e3%83%ab%e3%83%95%e3%82%a1%e3%83%ab%e3%82%af) | N/A |
+| 12 | [復活古龍](http://twitter.com/search?q=%e5%be%a9%e6%b4%bb%e5%8f%a4%e9%be%8d) | 復活古龍 is a Chinese phrase that translates to "reviving the ancient dragon". It is often used to refer to the revival of traditional Chinese culture and values. |
+| 13 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 14 | [村瀬くん](http://twitter.com/search?q=%e6%9d%91%e7%80%ac%e3%81%8f%e3%82%93) | 村瀬くん is a Japanese nickname given to someone whose family name is Murase. It is a combination of the Japanese word for village (村) and the family name (瀬). In English, it could be translated as "Mr. Murase". |
+| 15 | [あゆむらせ](http://twitter.com/search?q=%e3%81%82%e3%82%86%e3%82%80%e3%82%89%e3%81%9b) | あゆむらせ is a Japanese phrase that means "Let's take a break". It is often used to suggest taking a break from work or other activities. |
+| 16 | [インスタライブ](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 17 | [モンハン](http://twitter.com/search?q=%e3%83%a2%e3%83%b3%e3%83%8f%e3%83%b3) | N/A |
 | 18 | [キュアバタフライ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%90%e3%82%bf%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
-| 19 | [加賀楓さん](http://twitter.com/search?q=%e5%8a%a0%e8%b3%80%e6%a5%93%e3%81%95%e3%82%93) | N/A |
-| 20 | [バームの王様](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%a0%e3%81%ae%e7%8e%8b%e6%a7%98) | N/A |
-| 21 | [あゆむらせ](http://twitter.com/search?q=%e3%81%82%e3%82%86%e3%82%80%e3%82%89%e3%81%9b) | N/A |
-| 22 | [ガルナチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%8a%e3%83%81%e3%83%a7) | N/A |
-| 23 | [望海さん](http://twitter.com/search?q=%e6%9c%9b%e6%b5%b7%e3%81%95%e3%82%93) | N/A |
-| 24 | [第377回](http://twitter.com/search?q=%e7%ac%ac377%e5%9b%9e) | 第377回 is a Japanese phrase that translates to "377th time". It is often used to refer to the 377th episode of a television show or other series. |
-| 25 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
-| 26 | [帝国劇場](http://twitter.com/search?q=%e5%b8%9d%e5%9b%bd%e5%8a%87%e5%a0%b4) | N/A |
-| 27 | [リンデロフ](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%87%e3%83%ad%e3%83%95) | N/A |
-| 28 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 29 | [For Youth](http://twitter.com/search?q=For+Youth) | For Youth is a phrase used to refer to activities, programs, or initiatives that are specifically designed for young people. It can also be used to describe organizations or services that focus on helping young people. The phrase is often used in the context of social work, education, and health care. |
-| 30 | [ベティス](http://twitter.com/search?q=%e3%83%99%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
-| 31 | [フレッジ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b8) | N/A |
-| 32 | [#Mondo247](http://twitter.com/search?q=%23Mondo247) | N/A |
-| 33 | [バムちゃん](http://twitter.com/search?q=%e3%83%90%e3%83%a0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 34 | [グクとテテ](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%81%a8%e3%83%86%e3%83%86) | N/A |
-| 35 | [タトゥーの説明](http://twitter.com/search?q=%e3%82%bf%e3%83%88%e3%82%a5%e3%83%bc%e3%81%ae%e8%aa%ac%e6%98%8e) | タトゥーの説明 is a Japanese phrase that translates to "explanation of a tattoo". It is used to refer to the explanation or description of a tattoo design, such as its symbolism, meaning, or origin. |
-| 36 | [#加藤史帆生誕祭](http://twitter.com/search?q=%23%e5%8a%a0%e8%97%a4%e5%8f%b2%e5%b8%86%e7%94%9f%e8%aa%95%e7%a5%ad) | #加藤史帆生誕祭 is a hashtag used to celebrate the birthday of Japanese actress and singer Fumika Kato. The hashtag translates to "Fumika Kato Birthday Festival" in English. |
-| 37 | [クレモネーゼ](http://twitter.com/search?q=%e3%82%af%e3%83%ac%e3%83%a2%e3%83%8d%e3%83%bc%e3%82%bc) | N/A |
-| 38 | [甲斐くん](http://twitter.com/search?q=%e7%94%b2%e6%96%90%e3%81%8f%e3%82%93) | N/A |
-| 39 | [レヴァンドフスキ](http://twitter.com/search?q=%e3%83%ac%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%89%e3%83%95%e3%82%b9%e3%82%ad) | N/A |
-| 40 | [夫婦の日](http://twitter.com/search?q=%e5%a4%ab%e5%a9%a6%e3%81%ae%e6%97%a5) | N/A |
-| 41 | [キュアアンフィニ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%a2%e3%83%b3%e3%83%95%e3%82%a3%e3%83%8b) | N/A |
-| 42 | [インライ](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%a9%e3%82%a4) | インライ (inrai) is a Japanese word that means "inside" or "interior". It is often used to refer to the inside of a building or room. |
-| 43 | [バログン](http://twitter.com/search?q=%e3%83%90%e3%83%ad%e3%82%b0%e3%83%b3) | N/A |
-| 44 | [グクWラ](http://twitter.com/search?q=%e3%82%b0%e3%82%afW%e3%83%a9) | N/A |
-| 45 | [デュオ本兄弟](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%82%aa%e6%9c%ac%e5%85%84%e5%bc%9f) | N/A |
-| 46 | [交番設置記念日](http://twitter.com/search?q=%e4%ba%a4%e7%95%aa%e8%a8%ad%e7%bd%ae%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
+| 19 | [#おは戦50202fm](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650202fm) | N/A |
+| 20 | [加賀楓さん](http://twitter.com/search?q=%e5%8a%a0%e8%b3%80%e6%a5%93%e3%81%95%e3%82%93) | N/A |
+| 21 | [克服バルク](http://twitter.com/search?q=%e5%85%8b%e6%9c%8d%e3%83%90%e3%83%ab%e3%82%af) | N/A |
+| 22 | [ヤマツカミ](http://twitter.com/search?q=%e3%83%a4%e3%83%9e%e3%83%84%e3%82%ab%e3%83%9f) | N/A |
+| 23 | [キュアアンフィニ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%a2%e3%83%b3%e3%83%95%e3%82%a3%e3%83%8b) | N/A |
+| 24 | [#おはたくECC](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e3%81%9f%e3%81%8fECC) | N/A |
+| 25 | [成人キュア](http://twitter.com/search?q=%e6%88%90%e4%ba%ba%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 26 | [荒金さん](http://twitter.com/search?q=%e8%8d%92%e9%87%91%e3%81%95%e3%82%93) | N/A |
+| 27 | [夫婦の日](http://twitter.com/search?q=%e5%a4%ab%e5%a9%a6%e3%81%ae%e6%97%a5) | N/A |
+| 28 | [男子キュア](http://twitter.com/search?q=%e7%94%b7%e5%ad%90%e3%82%ad%e3%83%a5%e3%82%a2) | N/A |
+| 29 | [航空機部品](http://twitter.com/search?q=%e8%88%aa%e7%a9%ba%e6%a9%9f%e9%83%a8%e5%93%81) | N/A |
+| 30 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
+| 31 | [望海さん](http://twitter.com/search?q=%e6%9c%9b%e6%b5%b7%e3%81%95%e3%82%93) | N/A |
+| 32 | [CV村瀬歩](http://twitter.com/search?q=CV%e6%9d%91%e7%80%ac%e6%ad%a9) | N/A |
+| 33 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 34 | [#めざましテレビ](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%81%be%e3%81%97%e3%83%86%e3%83%ac%e3%83%93) | N/A |
+| 35 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
+| 36 | [バームの王様](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%a0%e3%81%ae%e7%8e%8b%e6%a7%98) | N/A |
+| 37 | [帝国劇場](http://twitter.com/search?q=%e5%b8%9d%e5%9b%bd%e5%8a%87%e5%a0%b4) | N/A |
+| 38 | [アイスボーン](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%bc%e3%83%b3) | N/A |
+| 39 | [カーナちゃん](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
+| 41 | [冰気錬成](http://twitter.com/search?q=%e5%86%b0%e6%b0%97%e9%8c%ac%e6%88%90) | N/A |
+| 42 | [第377回](http://twitter.com/search?q=%e7%ac%ac377%e5%9b%9e) | 第377回 is a Japanese phrase that translates to "377th time". It is often used to refer to the 377th episode of a television show or other series. |
+| 43 | [七瀬彩夏](http://twitter.com/search?q=%e4%b8%83%e7%80%ac%e5%bd%a9%e5%a4%8f) | N/A |
+| 44 | [芳雄さん](http://twitter.com/search?q=%e8%8a%b3%e9%9b%84%e3%81%95%e3%82%93) | N/A |
+| 45 | [羽衣ララ](http://twitter.com/search?q=%e7%be%bd%e8%a1%a3%e3%83%a9%e3%83%a9) | N/A |
+| 46 | [バログン](http://twitter.com/search?q=%e3%83%90%e3%83%ad%e3%82%b0%e3%83%b3) | N/A |
+| 47 | [マルシャル](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%ab) | N/A |
 
 
 

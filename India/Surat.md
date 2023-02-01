@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-02-01 22:16:19 UTC`
+📆 Last Updated: `2023-02-01 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 3 | [#CarabaoCup](http://twitter.com/search?q=%23CarabaoCup) | #CarabaoCup is the official hashtag for the English Football League Cup, a knockout competition for teams in the top four tiers of English football. The competition is sponsored by Carabao, an energy drink company. |
-| 4 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 5 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 6 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 7 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
-| 8 | [#MUNNFO](http://twitter.com/search?q=%23MUNNFO) | N/A |
-| 9 | [#INDvsNZ](http://twitter.com/search?q=%23INDvsNZ) | #INDvsNZ is a hashtag used to refer to the cricket matches between India and New Zealand. It stands for India versus New Zealand. |
-| 10 | [#AdaniEnterprises](http://twitter.com/search?q=%23AdaniEnterprises) | N/A |
-| 11 | [Unholy](http://twitter.com/search?q=Unholy) | Unholy is an adjective that means wicked, immoral, or sinful. It is often used to describe something that is considered to be blasphemous or sacrilegious. |
-| 12 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 13 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 14 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 17 | [HAPPY BIRTHDAY SHAMITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+SHAMITA) | N/A |
-| 18 | [Insta](http://twitter.com/search?q=Insta) | N/A |
-| 19 | [Sushant Real Foodie](http://twitter.com/search?q=Sushant+Real+Foodie) | N/A |
-| 20 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 21 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 22 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 23 | [Mandali](http://twitter.com/search?q=Mandali) | N/A |
-| 24 | [Armys](http://twitter.com/search?q=Armys) | N/A |
-| 25 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
-| 26 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 27 | [#GalaxyS23Ultra](http://twitter.com/search?q=%23GalaxyS23Ultra) | N/A |
-| 28 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 29 | [#AdaniFPO](http://twitter.com/search?q=%23AdaniFPO) | N/A |
-| 30 | [#ArchanaGautam](http://twitter.com/search?q=%23ArchanaGautam) | N/A |
-| 31 | [#GalaxyUnpacked](http://twitter.com/search?q=%23GalaxyUnpacked) | N/A |
-| 32 | [#WahajAli](http://twitter.com/search?q=%23WahajAli) | N/A |
-| 33 | [#YumnaZaidi](http://twitter.com/search?q=%23YumnaZaidi) | N/A |
-| 34 | [#HardikPandya𓃵](http://twitter.com/search?q=%23HardikPandya%f0%93%83%b5) | N/A |
-| 35 | [#PriyankaIsTheBoss](http://twitter.com/search?q=%23PriyankaIsTheBoss) | N/A |
-| 36 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 37 | [#AmritKaalBudget2023](http://twitter.com/search?q=%23AmritKaalBudget2023) | N/A |
-| 38 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 39 | [#IndiaVsNewZealand](http://twitter.com/search?q=%23IndiaVsNewZealand) | N/A |
-| 40 | [#CreditSuisse](http://twitter.com/search?q=%23CreditSuisse) | N/A |
-| 41 | [#rahultripathi](http://twitter.com/search?q=%23rahultripathi) | N/A |
-| 42 | [#SumbulTouqeerKhan𓃵](http://twitter.com/search?q=%23SumbulTouqeerKhan%f0%93%83%b5) | N/A |
-| 43 | [#SAvENG](http://twitter.com/search?q=%23SAvENG) | N/A |
-| 44 | [#ShamitaShetty](http://twitter.com/search?q=%23ShamitaShetty) | N/A |
+| 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#incometax](http://twitter.com/search?q=%23incometax) | #Incometax is a hashtag used on social media to refer to the taxes that individuals and businesses must pay on their income. It is often used in discussions about tax policy, filing taxes, and other related topics. |
+| 4 | [#NirmalaSitharaman](http://twitter.com/search?q=%23NirmalaSitharaman) | #NirmalaSitharaman is the name of India's current Finance Minister. In English, it means "Goddess of Prosperity". |
+| 5 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
+| 6 | [#cricketcontestbyarjun](http://twitter.com/search?q=%23cricketcontestbyarjun) | N/A |
+| 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 8 | [वित्त मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | वित्त मंत्री is a Hindi phrase meaning "Finance Minister". It is used to refer to the minister responsible for managing the government's financial affairs. |
+| 9 | [Rs 7](http://twitter.com/search?q=Rs+7) | Rs 7 is the abbreviation for Indian Rupee 7, which is the currency of India. In English, it would be equivalent to seven Indian Rupees. |
+| 10 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
+| 11 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 12 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
+| 13 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 14 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 15 | [New Tax Regime](http://twitter.com/search?q=New+Tax+Regime) | New Tax Regime is a term used to describe a new set of tax laws or regulations that have been introduced by a government. It typically refers to changes in the way taxes are collected, the types of taxes imposed, and the rates at which they are applied. The purpose of introducing a new tax regime is usually to increase revenue for the government, reduce inequality, or encourage certain types of economic activity. |
+| 16 | [fielder with most catches](http://twitter.com/search?q=fielder+with+most+catches) | N/A |
+| 17 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 18 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 19 | [Rahul Tripathi](http://twitter.com/search?q=Rahul+Tripathi) | Rahul Tripathi is a name of Indian origin. It is derived from the Sanskrit words "Rahu" (sun) and "Tripathi" (lord). The literal meaning of the name is "Lord of the Sun". |
+| 20 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
+| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 22 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 23 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 24 | [cnbctv18 live](http://twitter.com/search?q=cnbctv18+live) | N/A |
+| 25 | [bowler with worst er](http://twitter.com/search?q=bowler+with+worst+er) | N/A |
+| 26 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 27 | [Unholy](http://twitter.com/search?q=Unholy) | Unholy is an adjective that means wicked, immoral, or sinful. It is often used to describe something that is considered to be blasphemous or sacrilegious. |
+| 28 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
+| 29 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 30 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 31 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 32 | [7 Lakhs](http://twitter.com/search?q=7+Lakhs) | 7 Lakhs is a term used in India to refer to 700,000. It is equal to 7,00,000 in the Indian numbering system. In English, it would be equivalent to 700,000 or seven hundred thousand. |
+| 33 | [height of injustice](http://twitter.com/search?q=height+of+injustice) | N/A |
+| 34 | [batsman with most fours](http://twitter.com/search?q=batsman+with+most+fours) | N/A |
+| 35 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 36 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 37 | [public sab janti hai](http://twitter.com/search?q=public+sab+janti+hai) | N/A |
+| 38 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 39 | [Sushant Real Foodie](http://twitter.com/search?q=Sushant+Real+Foodie) | N/A |
+| 40 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 41 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 42 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 43 | [main khiladi outnow](http://twitter.com/search?q=main+khiladi+outnow) | N/A |
+| 44 | [मोदी सरकार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 45 | [बड़ी राहत](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4) | बड़ी राहत (Badi Rahat) is a Hindi phrase that translates to "great relief" in English. It is used to express a feeling of relief or comfort after a difficult situation. |
+| 46 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
+| 47 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 48 | [Insta](http://twitter.com/search?q=Insta) | N/A |
+| 49 | [New Regime](http://twitter.com/search?q=New+Regime) | N/A |
+| 50 | [1st innings score](http://twitter.com/search?q=1st+innings+score) | N/A |
 
 
 
