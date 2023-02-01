@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-02-01 07:20:15 UTC`
+📆 Last Updated: `2023-02-01 08:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Colombia
 | 8 | [Fedegan](http://twitter.com/search?q=Fedegan) | N/A |
 | 9 | [Hugo Ospina](http://twitter.com/search?q=Hugo+Ospina) | Hugo Ospina is a Colombian footballer who currently plays for the Colombian national team. He is known for his defensive skills and his ability to read the game. In English, Hugo Ospina means "Hugo of the Ospina family". |
 | 10 | [Carlos Darwin](http://twitter.com/search?q=Carlos+Darwin) | N/A |
-| 11 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 12 | [#SudamericanoSub20](http://twitter.com/search?q=%23SudamericanoSub20) | N/A |
-| 13 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
+| 11 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
+| 12 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 13 | [Manyoma](http://twitter.com/search?q=Manyoma) | N/A |
 | 14 | [Leandro Castellanos](http://twitter.com/search?q=Leandro+Castellanos) | N/A |
 | 15 | [Héctor Lavoe](http://twitter.com/search?q=H%c3%a9ctor+Lavoe) | N/A |
-| 16 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 17 | [Manyoma](http://twitter.com/search?q=Manyoma) | N/A |
-| 18 | [Falque](http://twitter.com/search?q=Falque) | N/A |
+| 16 | [Zuleta](http://twitter.com/search?q=Zuleta) | Zuleta is a Spanish surname derived from the Latin word "zulleta," which means "little star." It is also the name of a small town in Ecuador. |
+| 17 | [Falque](http://twitter.com/search?q=Falque) | N/A |
+| 18 | [#sub20conbetsson](http://twitter.com/search?q=%23sub20conbetsson) | N/A |
 | 19 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 20 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
 | 21 | [#discriminares](http://twitter.com/search?q=%23discriminares) | N/A |
 | 22 | [Unión Patriótica](http://twitter.com/search?q=Uni%c3%b3n+Patri%c3%b3tica) | Unión Patriótica is a political party in Colombia. The name translates to "Patriotic Union" in English and the party was founded in 1985 with the goal of promoting peace and democracy in the country. The party has been involved in several peace negotiations with the Colombian government and guerrilla groups, including the 2016 peace agreement between the government and FARC. |
 | 23 | [Daniel Luna](http://twitter.com/search?q=Daniel+Luna) | N/A |
 | 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
-| 27 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
-| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 29 | [Rubén Blades](http://twitter.com/search?q=Rub%c3%a9n+Blades) | N/A |
-| 30 | [Apps](http://twitter.com/search?q=Apps) | N/A |
-| 31 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 32 | [Alpilitro](http://twitter.com/search?q=Alpilitro) | N/A |
-| 33 | [Frankie Ruiz](http://twitter.com/search?q=Frankie+Ruiz) | N/A |
-| 34 | [Cheo Feliciano](http://twitter.com/search?q=Cheo+Feliciano) | N/A |
-| 35 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 36 | [Alexei](http://twitter.com/search?q=Alexei) | N/A |
-| 37 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
-| 38 | [Vacas](http://twitter.com/search?q=Vacas) | N/A |
-| 39 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 40 | [Tomás Ángel](http://twitter.com/search?q=Tom%c3%a1s+%c3%81ngel) | N/A |
+| 25 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
+| 26 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 27 | [Rubén Blades](http://twitter.com/search?q=Rub%c3%a9n+Blades) | N/A |
+| 28 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
+| 29 | [Apps](http://twitter.com/search?q=Apps) | N/A |
+| 30 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 31 | [Alpilitro](http://twitter.com/search?q=Alpilitro) | N/A |
+| 32 | [Frankie Ruiz](http://twitter.com/search?q=Frankie+Ruiz) | N/A |
+| 33 | [Cheo Feliciano](http://twitter.com/search?q=Cheo+Feliciano) | N/A |
+| 34 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 35 | [Alexei](http://twitter.com/search?q=Alexei) | N/A |
+| 36 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
+| 37 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 38 | [Qbano](http://twitter.com/search?q=Qbano) | N/A |
+| 39 | [Tomás Ángel](http://twitter.com/search?q=Tom%c3%a1s+%c3%81ngel) | N/A |
+| 40 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
 | 41 | [Nico Hernández](http://twitter.com/search?q=Nico+Hern%c3%a1ndez) | N/A |
-| 42 | [Qbano](http://twitter.com/search?q=Qbano) | N/A |
-| 43 | [Ciro Guerra](http://twitter.com/search?q=Ciro+Guerra) | N/A |
-| 44 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
-| 45 | [Tito Gómez](http://twitter.com/search?q=Tito+G%c3%b3mez) | N/A |
-| 46 | [Gilberto Santa Rosa](http://twitter.com/search?q=Gilberto+Santa+Rosa) | N/A |
-| 47 | [Unión Magdalena](http://twitter.com/search?q=Uni%c3%b3n+Magdalena) | N/A |
-| 48 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 49 | [Rufay](http://twitter.com/search?q=Rufay) | N/A |
-| 50 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 42 | [Tito Gómez](http://twitter.com/search?q=Tito+G%c3%b3mez) | N/A |
+| 43 | [Gilberto Santa Rosa](http://twitter.com/search?q=Gilberto+Santa+Rosa) | N/A |
+| 44 | [Ciro Guerra](http://twitter.com/search?q=Ciro+Guerra) | N/A |
+| 45 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 46 | [rufay](http://twitter.com/search?q=rufay) | N/A |
+| 47 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 48 | [ceguera](http://twitter.com/search?q=ceguera) | N/A |
+| 49 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 50 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
 
 
 

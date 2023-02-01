@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-01 07:20:03 UTC`
+📆 Last Updated: `2023-02-01 08:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,44 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [BilenKazanır Kaltağı](http://twitter.com/search?q=BilenKazan%c4%b1r+Kalta%c4%9f%c4%b1) | BilenKazanır Kaltağı is a Turkish proverb that translates to "He who knows, wins". It is used to express the idea that knowledge is power and those who are knowledgeable will be successful. |
-| 2 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | N/A |
-| 3 | [#BarışManço](http://twitter.com/search?q=%23Bar%c4%b1%c5%9fMan%c3%a7o) | N/A |
-| 4 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
-| 5 | [Ben Kemal](http://twitter.com/search?q=Ben+Kemal) | Ben Kemal is a Turkish phrase meaning "son of Kemal". It is often used as a title or honorific for someone who has achieved great success or recognition in their field. |
-| 6 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 7 | [futbola siyaset bulaştı](http://twitter.com/search?q=futbola+siyaset+bula%c5%9ft%c4%b1) | N/A |
-| 8 | [YÖNETİM İSTİFA](http://twitter.com/search?q=Y%c3%96NET%c4%b0M+%c4%b0ST%c4%b0FA) | YÖNETİM İSTİFA is a Turkish phrase meaning "resignation of management". It is used to refer to the act of a manager or executive resigning from their position. |
-| 9 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 10 | [KamuEczacılarına TabanTeşvik](http://twitter.com/search?q=KamuEczac%c4%b1lar%c4%b1na+TabanTe%c5%9fvik) | KamuEczacılarına TabanTeşvik is a Turkish phrase that translates to "Base Encouragement for Public Pharmacists". It is a program in Turkey that provides financial incentives to public pharmacists in order to encourage them to provide better services. |
-| 11 | [Hakan Fidan](http://twitter.com/search?q=Hakan+Fidan) | N/A |
-| 12 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
-| 13 | [hepseninle elifnuryel](http://twitter.com/search?q=hepseninle+elifnuryel) | N/A |
-| 14 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 15 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
-| 16 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 17 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
-| 18 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 19 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
-| 20 | [Aferin](http://twitter.com/search?q=Aferin) | N/A |
-| 21 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
-| 22 | [Redmond](http://twitter.com/search?q=Redmond) | Redmond is a city in the state of Washington, United States. It is located in King County, east of Seattle. The city is home to Microsoft and Nintendo of America, as well as other technology companies. The name Redmond comes from the surname of its founder, Luke McRedmond. |
-| 23 | [İNGİLİZ ONAYLI MUTABAKAT](http://twitter.com/search?q=%c4%b0NG%c4%b0L%c4%b0Z+ONAYLI+MUTABAKAT) | N/A |
-| 24 | [Yedili Masa](http://twitter.com/search?q=Yedili+Masa) | Yedili Masa is a traditional Turkish game that is similar to checkers. It is played on a board with 64 squares, and each player has 12 pieces. The goal of the game is to capture all of the opponent's pieces. The name Yedili Masa translates to "Seven Table" in English, referring to the seven-by-seven grid of the board. |
-| 25 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
-| 26 | [Muammer Aksoy](http://twitter.com/search?q=Muammer+Aksoy) | N/A |
-| 27 | [Vefatının 24](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+24) | N/A |
-| 28 | [Bışar](http://twitter.com/search?q=B%c4%b1%c5%9far) | N/A |
-| 29 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
-| 30 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 31 | [Şenol](http://twitter.com/search?q=%c5%9eenol) | Şenol is a Turkish given name, derived from the Arabic name Shanul. It is a unisex name, and it means "happy" or "cheerful". |
-| 32 | [Ali İhsan Destici](http://twitter.com/search?q=Ali+%c4%b0hsan+Destici) | N/A |
-| 33 | [Avrupa'dan](http://twitter.com/search?q=Avrupa%27dan) | N/A |
-| 34 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
-| 35 | [adam seçilecek](http://twitter.com/search?q=adam+se%c3%a7ilecek) | N/A |
-| 36 | [Atatürk Havalimanı](http://twitter.com/search?q=Atat%c3%bcrk+Havaliman%c4%b1) | N/A |
-| 37 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
-| 38 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
-| 39 | [Demokrat Parti](http://twitter.com/search?q=Demokrat+Parti) | N/A |
-| 40 | [Mert Aydın](http://twitter.com/search?q=Mert+Ayd%c4%b1n) | N/A |
-| 41 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 42 | [Kerem Atakan](http://twitter.com/search?q=Kerem+Atakan) | N/A |
-| 43 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 44 | [Konda](http://twitter.com/search?q=Konda) | N/A |
-| 45 | [5 GB](http://twitter.com/search?q=5+GB) | 5 GB stands for 5 Gigabytes, which is a unit of digital storage. It is equivalent to 5,000 Megabytes and is commonly used to measure the size of files, such as photos, videos, and music. |
-| 46 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 47 | [Rahmetle](http://twitter.com/search?q=Rahmetle) | N/A |
+| 1 | [#EYTHaktırYardımDeğil](http://twitter.com/search?q=%23EYTHakt%c4%b1rYard%c4%b1mDe%c4%9fil) | #EYTHaktırYardımDeğil is a hashtag used in Turkey to express solidarity with those in need. It translates to "It's not just about helping out". The hashtag is used to encourage people to take action and do more than just offer help. |
+| 2 | [#BarışManço](http://twitter.com/search?q=%23Bar%c4%b1%c5%9fMan%c3%a7o) | N/A |
+| 3 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | Gültekin Uysal is a Turkish name. It is composed of two words: Gültekin, which means "rose garden," and Uysal, which means "obedient." In English, the name would translate to "Rose Garden Obedient." |
+| 4 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 5 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 6 | [Demokrat Parti](http://twitter.com/search?q=Demokrat+Parti) | N/A |
+| 7 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
+| 8 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 9 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 10 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
+| 11 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 12 | [Terbiyesiz](http://twitter.com/search?q=Terbiyesiz) | N/A |
+| 13 | [Meryem](http://twitter.com/search?q=Meryem) | N/A |
+| 14 | [Feto](http://twitter.com/search?q=Feto) | N/A |
+| 15 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
+| 16 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
+| 17 | [#Abdiİpekçi](http://twitter.com/search?q=%23Abdi%c4%b0pek%c3%a7i) | N/A |
+| 18 | [#EYTdeŞartlarıKaldırın](http://twitter.com/search?q=%23EYTde%c5%9eartlar%c4%b1Kald%c4%b1r%c4%b1n) | N/A |
+| 19 | [#2000sonrasıKADEME](http://twitter.com/search?q=%232000sonras%c4%b1KADEME) | N/A |
+| 20 | [#StajaAdalet](http://twitter.com/search?q=%23StajaAdalet) | N/A |
+| 21 | [#OkadarÖzgürüzKi](http://twitter.com/search?q=%23Okadar%c3%96zg%c3%bcr%c3%bczKi) | N/A |
+| 22 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 23 | [#halkbank](http://twitter.com/search?q=%23halkbank) | N/A |
+| 24 | [#YazDostum](http://twitter.com/search?q=%23YazDostum) | N/A |
+| 25 | [#AmpulePüfDeTürkiye](http://twitter.com/search?q=%23AmpuleP%c3%bcfDeT%c3%bcrkiye) | N/A |
+| 26 | [#guenaydin](http://twitter.com/search?q=%23guenaydin) | N/A |
+| 27 | [#OTKAR](http://twitter.com/search?q=%23OTKAR) | N/A |
+| 28 | [#garan](http://twitter.com/search?q=%23garan) | N/A |
+| 29 | [#BagkurludanOyBekleme](http://twitter.com/search?q=%23BagkurludanOyBekleme) | N/A |
+| 30 | [#akbnk](http://twitter.com/search?q=%23akbnk) | N/A |
+| 31 | [#BenKemalGeliyorum](http://twitter.com/search?q=%23BenKemalGeliyorum) | N/A |
+| 32 | [#tiktokkapatılsın](http://twitter.com/search?q=%23tiktokkapat%c4%b1ls%c4%b1n) | N/A |
+| 33 | [#SeninSürenDolduAhmet](http://twitter.com/search?q=%23SeninS%c3%bcrenDolduAhmet) | N/A |
+| 34 | [#bvsan](http://twitter.com/search?q=%23bvsan) | N/A |
+| 35 | [#2000SonrasiSecimiBelirler](http://twitter.com/search?q=%232000SonrasiSecimiBelirler) | N/A |
+| 36 | [#KademeliPrimeHayir](http://twitter.com/search?q=%23KademeliPrimeHayir) | N/A |
+| 37 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
+| 38 | [#GSvÜMR](http://twitter.com/search?q=%23GSv%c3%9cMR) | N/A |
 
 
 
