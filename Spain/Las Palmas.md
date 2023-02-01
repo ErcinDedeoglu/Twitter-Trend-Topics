@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-01 10:17:14 UTC`
+📆 Last Updated: `2023-02-01 11:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [Agoney](http://twitter.com/search?q=Agoney) | Agoney is a Spanish slang term used to describe someone who is very unlucky or having a streak of bad luck. It can also be used to describe someone who is clumsy or awkward. In English, it could be translated as "unlucky" or "clumsy". |
 | 3 | [Alice Wonder](http://twitter.com/search?q=Alice+Wonder) | Alice Wonder is a phrase used to describe someone who is curious and imaginative. It is often used to describe children who are full of wonder and awe at the world around them. |
 | 4 | [Aritz](http://twitter.com/search?q=Aritz) | Aritz is a Basque name derived from the Latin name "Aurelius". It is a masculine name meaning "golden" or "gilded". |
-| 5 | [#COAC2023P11](http://twitter.com/search?q=%23COAC2023P11) | N/A |
-| 6 | [Sharonne](http://twitter.com/search?q=Sharonne) | Sharonne is a feminine given name of Hebrew origin, derived from the biblical name Shara. It is a variant of Sharon, which means "plain" or "flat land" in Hebrew. |
-| 7 | [#CocinaConLidl](http://twitter.com/search?q=%23CocinaConLidl) | N/A |
-| 8 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 5 | [Fusa Nocta](http://twitter.com/search?q=Fusa+Nocta) | Fusa Nocta is a Latin phrase meaning "night watch." It was originally used to refer to a night watchman or guard who would patrol an area at night to ensure safety and security. |
+| 6 | [#COAC2023P11](http://twitter.com/search?q=%23COAC2023P11) | N/A |
+| 7 | [Sharonne](http://twitter.com/search?q=Sharonne) | Sharonne is a feminine given name of Hebrew origin, derived from the biblical name Shara. It is a variant of Sharon, which means "plain" or "flat land" in Hebrew. |
+| 8 | [#CocinaConLidl](http://twitter.com/search?q=%23CocinaConLidl) | N/A |
 | 9 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
 | 10 | [Mónica Naranjo](http://twitter.com/search?q=M%c3%b3nica+Naranjo) | Mónica Naranjo is a Spanish singer, songwriter, and television personality. She is known for her powerful voice and flamboyant stage presence. In English, her name translates to "Monica Orange". |
 | 11 | [Twin Melody](http://twitter.com/search?q=Twin+Melody) | Twin Melody is a Japanese term used to describe two melodies that are played simultaneously, usually in harmony. It is often used to describe the sound of two instruments playing together, such as a piano and a guitar. In English, it can be translated as "dual melody". |
-| 12 | [#LaIslaDeLasTentaciones2](http://twitter.com/search?q=%23LaIslaDeLasTentaciones2) | #LaIslaDeLasTentaciones2 is a Spanish reality television show that follows couples who are in a relationship as they travel to an island and are tempted by other people. The title translates to "The Island of Temptations 2" in English. |
-| 13 | [Meler](http://twitter.com/search?q=Meler) | Meler is a Spanish word meaning "to melt." It is used to describe the process of melting something, such as melting butter or chocolate. |
-| 14 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 15 | [Sofía Martín](http://twitter.com/search?q=Sof%c3%ada+Mart%c3%adn) | N/A |
-| 16 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 17 | [Senado](http://twitter.com/search?q=Senado) | N/A |
-| 18 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 19 | [Leo Rizzi](http://twitter.com/search?q=Leo+Rizzi) | N/A |
-| 20 | [Tuki](http://twitter.com/search?q=Tuki) | Tuki is a Japanese word meaning "moon". |
-| 21 | [Chanel](http://twitter.com/search?q=Chanel) | N/A |
-| 22 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
-| 25 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
-| 26 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 12 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 13 | [#LaIslaDeLasTentaciones2](http://twitter.com/search?q=%23LaIslaDeLasTentaciones2) | #LaIslaDeLasTentaciones2 is a Spanish reality television show that follows couples who are in a relationship as they travel to an island and are tempted by other people. The title translates to "The Island of Temptations 2" in English. |
+| 14 | [Meler](http://twitter.com/search?q=Meler) | Meler is a Spanish word meaning "to melt." It is used to describe the process of melting something, such as melting butter or chocolate. |
+| 15 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 16 | [Sofía Martín](http://twitter.com/search?q=Sof%c3%ada+Mart%c3%adn) | N/A |
+| 17 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 18 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 19 | [Senado](http://twitter.com/search?q=Senado) | N/A |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 22 | [Tuki](http://twitter.com/search?q=Tuki) | Tuki is a Japanese word meaning "moon". |
+| 23 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 24 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
+| 25 | [Chanel](http://twitter.com/search?q=Chanel) | N/A |
+| 26 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
 | 27 | [Alice Cooper](http://twitter.com/search?q=Alice+Cooper) | N/A |
 | 28 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 29 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 30 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 31 | [Chris Ramos](http://twitter.com/search?q=Chris+Ramos) | N/A |
-| 32 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 33 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 34 | [Edurne](http://twitter.com/search?q=Edurne) | N/A |
-| 35 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 36 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 37 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 38 | [Fran García](http://twitter.com/search?q=Fran+Garc%c3%ada) | N/A |
-| 39 | [Govern](http://twitter.com/search?q=Govern) | N/A |
+| 29 | [Chris Ramos](http://twitter.com/search?q=Chris+Ramos) | N/A |
+| 30 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 31 | [Fran García](http://twitter.com/search?q=Fran+Garc%c3%ada) | N/A |
+| 32 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 33 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 34 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 35 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 36 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
+| 37 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 38 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
+| 39 | [Seferovic](http://twitter.com/search?q=Seferovic) | Seferovic is a surname of Slavic origin. It is derived from the word "sefer" which means book or scroll in Hebrew. In English, the meaning of Seferovic is "one who comes from a family of bookkeepers or scribes". |
 | 40 | [Santoña](http://twitter.com/search?q=Santo%c3%b1a) | N/A |
-| 41 | [Carmen Calvo](http://twitter.com/search?q=Carmen+Calvo) | Carmen Calvo is a Spanish politician who has served as Deputy Prime Minister and Minister of Equality in the government of Pedro Sánchez since 2018. In English, Carmen Calvo is a Spanish politician who is currently serving as Deputy Prime Minister and Minister of Equality. |
+| 41 | [Edurne](http://twitter.com/search?q=Edurne) | N/A |
 | 42 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 43 | [TJUE](http://twitter.com/search?q=TJUE) | N/A |
-| 44 | [Mc 6](http://twitter.com/search?q=Mc+6) | N/A |
-| 45 | [Camarasa](http://twitter.com/search?q=Camarasa) | N/A |
-| 46 | [Flamenco](http://twitter.com/search?q=Flamenco) | N/A |
-| 47 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 48 | [Narro](http://twitter.com/search?q=Narro) | N/A |
-| 49 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
+| 43 | [Leo Rizzi](http://twitter.com/search?q=Leo+Rizzi) | N/A |
+| 44 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 45 | [TJUE](http://twitter.com/search?q=TJUE) | N/A |
+| 46 | [Narro](http://twitter.com/search?q=Narro) | N/A |
+| 47 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 48 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 49 | [Camarasa](http://twitter.com/search?q=Camarasa) | N/A |
 
 
 

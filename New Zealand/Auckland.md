@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-01 10:17:39 UTC`
+📆 Last Updated: `2023-02-01 11:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 3 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
 | 4 | [Southland](http://twitter.com/search?q=Southland) | N/A |
 | 5 | [drongos](http://twitter.com/search?q=drongos) | N/A |
-| 6 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 7 | [All Whites](http://twitter.com/search?q=All+Whites) | N/A |
+| 6 | [All Whites](http://twitter.com/search?q=All+Whites) | N/A |
+| 7 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
 | 8 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
 | 9 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
 | 10 | [Brown](http://twitter.com/search?q=Brown) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 16 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
 | 17 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
 | 18 | [Ministry of Education](http://twitter.com/search?q=Ministry+of+Education) | N/A |
-| 19 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
-| 20 | [Dunedin Hospital](http://twitter.com/search?q=Dunedin+Hospital) | N/A |
-| 21 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 22 | [Tova](http://twitter.com/search?q=Tova) | N/A |
-| 23 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 24 | [Loto](http://twitter.com/search?q=Loto) | N/A |
-| 25 | [Schools](http://twitter.com/search?q=Schools) | N/A |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 28 | [All Black](http://twitter.com/search?q=All+Black) | N/A |
-| 29 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 30 | [#iavcei2023](http://twitter.com/search?q=%23iavcei2023) | N/A |
-| 31 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 32 | [Surprised](http://twitter.com/search?q=Surprised) | N/A |
-| 33 | [Principals](http://twitter.com/search?q=Principals) | N/A |
-| 34 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 35 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 36 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 37 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
-| 38 | [Phil](http://twitter.com/search?q=Phil) | N/A |
-| 39 | [Politics](http://twitter.com/search?q=Politics) | N/A |
-| 40 | [pm chris hipkins](http://twitter.com/search?q=pm+chris+hipkins) | N/A |
-| 41 | [Bridges](http://twitter.com/search?q=Bridges) | N/A |
-| 42 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 43 | [Jan Tinetti](http://twitter.com/search?q=Jan+Tinetti) | N/A |
-| 44 | [willie jackson](http://twitter.com/search?q=willie+jackson) | N/A |
-| 45 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
-| 46 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 47 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 48 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 49 | [#streamer](http://twitter.com/search?q=%23streamer) | N/A |
-| 50 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 19 | [tova](http://twitter.com/search?q=tova) | N/A |
+| 20 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 21 | [Dunedin Hospital](http://twitter.com/search?q=Dunedin+Hospital) | N/A |
+| 22 | [Loto](http://twitter.com/search?q=Loto) | N/A |
+| 23 | [Schools](http://twitter.com/search?q=Schools) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [All Black](http://twitter.com/search?q=All+Black) | N/A |
+| 26 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 27 | [Surprised](http://twitter.com/search?q=Surprised) | N/A |
+| 28 | [Principals](http://twitter.com/search?q=Principals) | N/A |
+| 29 | [#iavcei2023](http://twitter.com/search?q=%23iavcei2023) | N/A |
+| 30 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 31 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 32 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 33 | [mike hosking](http://twitter.com/search?q=mike+hosking) | N/A |
+| 34 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 35 | [Phil](http://twitter.com/search?q=Phil) | N/A |
+| 36 | [Politics](http://twitter.com/search?q=Politics) | N/A |
+| 37 | [pm chris hipkins](http://twitter.com/search?q=pm+chris+hipkins) | N/A |
+| 38 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 39 | [Jan Tinetti](http://twitter.com/search?q=Jan+Tinetti) | N/A |
+| 40 | [willie jackson](http://twitter.com/search?q=willie+jackson) | N/A |
+| 41 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | N/A |
+| 42 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 43 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 44 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 45 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 46 | [#streamer](http://twitter.com/search?q=%23streamer) | N/A |
+| 47 | [Halo](http://twitter.com/search?q=Halo) | N/A |
+| 48 | [Northland](http://twitter.com/search?q=Northland) | N/A |
+| 49 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 50 | [Dang](http://twitter.com/search?q=Dang) | N/A |
 
 
 

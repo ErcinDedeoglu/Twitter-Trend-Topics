@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-01 10:17:04 UTC`
+📆 Last Updated: `2023-02-01 11:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 15 | [#fchangc](http://twitter.com/search?q=%23fchangc) | N/A |
 | 16 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
 | 17 | [#puntosdelencuentro](http://twitter.com/search?q=%23puntosdelencuentro) | N/A |
-| 18 | [Mikaella](http://twitter.com/search?q=Mikaella) | N/A |
-| 19 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
-| 20 | [Moises Caicedo](http://twitter.com/search?q=Moises+Caicedo) | N/A |
-| 21 | [la comuna](http://twitter.com/search?q=la+comuna) | N/A |
-| 22 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
-| 23 | [Carolina Jaume](http://twitter.com/search?q=Carolina+Jaume) | N/A |
-| 24 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 25 | [Carlos Vives](http://twitter.com/search?q=Carlos+Vives) | N/A |
-| 26 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 27 | [jhon jairo cifuente](http://twitter.com/search?q=jhon+jairo+cifuente) | N/A |
-| 28 | [el arsenal](http://twitter.com/search?q=el+arsenal) | N/A |
-| 29 | [Sarita](http://twitter.com/search?q=Sarita) | N/A |
-| 30 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 31 | [celico](http://twitter.com/search?q=celico) | N/A |
-| 32 | [tulcán](http://twitter.com/search?q=tulc%c3%a1n) | N/A |
-| 33 | [las orquídeas](http://twitter.com/search?q=las+orqu%c3%addeas) | N/A |
-| 34 | [guayakill](http://twitter.com/search?q=guayakill) | N/A |
-| 35 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 36 | [20 de ecuador](http://twitter.com/search?q=20+de+ecuador) | N/A |
-| 37 | [LENIN MORENO](http://twitter.com/search?q=LENIN+MORENO) | N/A |
-| 38 | [Peloteo](http://twitter.com/search?q=Peloteo) | N/A |
-| 39 | [francisco egas](http://twitter.com/search?q=francisco+egas) | N/A |
-| 40 | [gustavo alfaro](http://twitter.com/search?q=gustavo+alfaro) | N/A |
-| 41 | [deportivo quito](http://twitter.com/search?q=deportivo+quito) | N/A |
+| 18 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
+| 19 | [Moises Caicedo](http://twitter.com/search?q=Moises+Caicedo) | N/A |
+| 20 | [la comuna](http://twitter.com/search?q=la+comuna) | N/A |
+| 21 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
+| 22 | [Carolina Jaume](http://twitter.com/search?q=Carolina+Jaume) | N/A |
+| 23 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 24 | [Carlos Vives](http://twitter.com/search?q=Carlos+Vives) | N/A |
+| 25 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 26 | [jhon jairo cifuente](http://twitter.com/search?q=jhon+jairo+cifuente) | N/A |
+| 27 | [el arsenal](http://twitter.com/search?q=el+arsenal) | N/A |
+| 28 | [Sarita](http://twitter.com/search?q=Sarita) | N/A |
+| 29 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 30 | [celico](http://twitter.com/search?q=celico) | N/A |
+| 31 | [tulcán](http://twitter.com/search?q=tulc%c3%a1n) | N/A |
+| 32 | [las orquídeas](http://twitter.com/search?q=las+orqu%c3%addeas) | N/A |
+| 33 | [guayakill](http://twitter.com/search?q=guayakill) | N/A |
+| 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 35 | [20 de ecuador](http://twitter.com/search?q=20+de+ecuador) | N/A |
+| 36 | [LENIN MORENO](http://twitter.com/search?q=LENIN+MORENO) | N/A |
+| 37 | [Peloteo](http://twitter.com/search?q=Peloteo) | N/A |
+| 38 | [francisco egas](http://twitter.com/search?q=francisco+egas) | N/A |
+| 39 | [gustavo alfaro](http://twitter.com/search?q=gustavo+alfaro) | N/A |
+| 40 | [Deportivo Quito](http://twitter.com/search?q=Deportivo+Quito) | N/A |
+| 41 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
 | 42 | [Martes 31](http://twitter.com/search?q=Martes+31) | N/A |
 | 43 | [Andres](http://twitter.com/search?q=Andres) | N/A |
-| 44 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 45 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 46 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 47 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
+| 44 | [Mikaella](http://twitter.com/search?q=Mikaella) | N/A |
+| 45 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 46 | [Mercado](http://twitter.com/search?q=Mercado) | N/A |
+| 47 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
 | 48 | [tuarez](http://twitter.com/search?q=tuarez) | N/A |
 | 49 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [este 05](http://twitter.com/search?q=este+05) | N/A |
 
 
 

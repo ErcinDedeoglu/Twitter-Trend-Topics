@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-02-01 10:17:02 UTC`
+📆 Last Updated: `2023-02-01 11:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for [Mexico](</Mexico>)
 | 14 | [Sean Payton](http://twitter.com/search?q=Sean+Payton) | Sean Payton is the head coach of the NFL's New Orleans Saints. He is known for his offensive strategies and for leading the Saints to their first Super Bowl victory in 2010. The meaning of his name in English is "God's Peace". |
 | 15 | [Maxine](http://twitter.com/search?q=Maxine) | N/A |
 | 16 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 17 | [Abierto](http://twitter.com/search?q=Abierto) | N/A |
-| 18 | [Liga MX](http://twitter.com/search?q=Liga+MX) | Liga MX is the top division of professional football in Mexico. It is also known as Liga BBVA MX, due to its sponsorship by BBVA. The league consists of 18 teams and is divided into two tournaments: Apertura (opening) and Clausura (closing). The winner of each tournament qualifies for the CONCACAF Champions League. In English, Liga MX translates to Mexican League. |
+| 17 | [Liga MX](http://twitter.com/search?q=Liga+MX) | Liga MX is the top division of professional football in Mexico. It is also known as Liga BBVA MX, due to its sponsorship by BBVA. The league consists of 18 teams and is divided into two tournaments: Apertura (opening) and Clausura (closing). The winner of each tournament qualifies for the CONCACAF Champions League. In English, Liga MX translates to Mexican League. |
+| 18 | [Abierto](http://twitter.com/search?q=Abierto) | N/A |
 | 19 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
 | 20 | [Julián Araujo](http://twitter.com/search?q=Juli%c3%a1n+Araujo) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [llamada](http://twitter.com/search?q=llamada) | N/A |
-| 23 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 24 | [Mexicolectivo](http://twitter.com/search?q=Mexicolectivo) | N/A |
-| 25 | [Ana María Alvarado](http://twitter.com/search?q=Ana+Mar%c3%ada+Alvarado) | N/A |
+| 21 | [llamada](http://twitter.com/search?q=llamada) | N/A |
+| 22 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 23 | [Mexicolectivo](http://twitter.com/search?q=Mexicolectivo) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [ana maría alvarado](http://twitter.com/search?q=ana+mar%c3%ada+alvarado) | N/A |
 | 26 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
 | 27 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
 | 28 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
 | 29 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 30 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
-| 31 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 32 | [Repechaje](http://twitter.com/search?q=Repechaje) | N/A |
-| 33 | [The Authority](http://twitter.com/search?q=The+Authority) | The Authority is a term used to refer to a governing body or organization that has the power to make decisions and enforce laws. It can also refer to an individual or group of people who are seen as having the right to make decisions and enforce rules. |
-| 34 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
-| 35 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
-| 36 | [Energía](http://twitter.com/search?q=Energ%c3%ada) | N/A |
-| 37 | [Pancho](http://twitter.com/search?q=Pancho) | N/A |
-| 38 | [Jesús Aguilar Padilla](http://twitter.com/search?q=Jes%c3%bas+Aguilar+Padilla) | N/A |
-| 39 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 40 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 41 | [casa aguayo](http://twitter.com/search?q=casa+aguayo) | N/A |
-| 42 | [copa mx](http://twitter.com/search?q=copa+mx) | N/A |
-| 43 | [Enrique Peña Nieto](http://twitter.com/search?q=Enrique+Pe%c3%b1a+Nieto) | N/A |
-| 44 | [El Lobo](http://twitter.com/search?q=El+Lobo) | N/A |
-| 45 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 46 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
-| 47 | [SAPAC](http://twitter.com/search?q=SAPAC) | N/A |
-| 48 | [Kenia Os](http://twitter.com/search?q=Kenia+Os) | N/A |
-| 49 | [Ganador](http://twitter.com/search?q=Ganador) | N/A |
-| 50 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 30 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 31 | [repechaje](http://twitter.com/search?q=repechaje) | N/A |
+| 32 | [The Authority](http://twitter.com/search?q=The+Authority) | The Authority is a term used to refer to a governing body or organization that has the power to make decisions and enforce laws. It can also refer to an individual or group of people who are seen as having the right to make decisions and enforce rules. |
+| 33 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
+| 34 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
+| 35 | [energía](http://twitter.com/search?q=energ%c3%ada) | N/A |
+| 36 | [jesús aguilar padilla](http://twitter.com/search?q=jes%c3%bas+aguilar+padilla) | N/A |
+| 37 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 38 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 39 | [casa aguayo](http://twitter.com/search?q=casa+aguayo) | N/A |
+| 40 | [copa mx](http://twitter.com/search?q=copa+mx) | N/A |
+| 41 | [Enrique Peña Nieto](http://twitter.com/search?q=Enrique+Pe%c3%b1a+Nieto) | N/A |
+| 42 | [El Lobo](http://twitter.com/search?q=El+Lobo) | N/A |
+| 43 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 44 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 45 | [sapac](http://twitter.com/search?q=sapac) | N/A |
+| 46 | [Kenia Os](http://twitter.com/search?q=Kenia+Os) | N/A |
+| 47 | [Ganador](http://twitter.com/search?q=Ganador) | N/A |
+| 48 | [Nayuta](http://twitter.com/search?q=Nayuta) | Nayuta is a Japanese term that means “a million” or “an infinite number.” It is often used to refer to something that is so vast or numerous that it cannot be counted. |
+| 49 | [Clonazepam](http://twitter.com/search?q=Clonazepam) | N/A |
+| 50 | [Booster Gold](http://twitter.com/search?q=Booster+Gold) | Booster Gold is a fictional superhero appearing in American comic books published by DC Comics. He is initially depicted as a glory-seeking showboat from the future, using knowledge of historical events and futuristic technology to stage high-publicity heroics. The character has appeared in both comic books and other media adaptations, such as animated television series and video games. |
 
 
 
