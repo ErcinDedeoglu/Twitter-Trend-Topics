@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-01 04:17:05 UTC`
+📆 Last Updated: `2023-02-01 05:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,27 +15,28 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [зимбабве](http://twitter.com/search?q=%d0%b7%d0%b8%d0%bc%d0%b1%d0%b0%d0%b1%d0%b2%d0%b5) | N/A |
-| 2 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
-| 3 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
-| 4 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 5 | [#YoutubeAgainstHumanity](http://twitter.com/search?q=%23YoutubeAgainstHumanity) | N/A |
-| 6 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 7 | [согласна](http://twitter.com/search?q=%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
-| 8 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
-| 9 | [#democracyunderattack](http://twitter.com/search?q=%23democracyunderattack) | N/A |
-| 10 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 11 | [давай](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 12 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 13 | [минска](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
-| 14 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 15 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
-| 16 | [гродно](http://twitter.com/search?q=%d0%b3%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
-| 17 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 18 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
-| 19 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 20 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 21 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
+| 1 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 2 | [зимбабве](http://twitter.com/search?q=%d0%b7%d0%b8%d0%bc%d0%b1%d0%b0%d0%b1%d0%b2%d0%b5) | N/A |
+| 3 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 4 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
+| 5 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
+| 6 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
+| 7 | [#YoutubeAgainstHumanity](http://twitter.com/search?q=%23YoutubeAgainstHumanity) | N/A |
+| 8 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 9 | [согласна](http://twitter.com/search?q=%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
+| 10 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
+| 11 | [#democracyunderattack](http://twitter.com/search?q=%23democracyunderattack) | N/A |
+| 12 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 13 | [давай](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 14 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 15 | [минска](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
+| 16 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
+| 17 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
+| 18 | [гродно](http://twitter.com/search?q=%d0%b3%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
+| 19 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
+| 20 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
+| 21 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 22 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
 
 
 

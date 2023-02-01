@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-01 04:16:34 UTC`
+📆 Last Updated: `2023-02-01 05:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 3 | [Matt Doherty](http://twitter.com/search?q=Matt+Doherty) | N/A |
 | 4 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 5 | [#VirginGMA22](http://twitter.com/search?q=%23VirginGMA22) | N/A |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 8 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 9 | [#digitalwest](http://twitter.com/search?q=%23digitalwest) | N/A |
 | 10 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 19 | [Atletico Madrid](http://twitter.com/search?q=Atletico+Madrid) | N/A |
 | 20 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 21 | [Kitty Holland](http://twitter.com/search?q=Kitty+Holland) | N/A |
+| 21 | [kitty holland](http://twitter.com/search?q=kitty+holland) | N/A |
 | 22 | [cobh](http://twitter.com/search?q=cobh) | N/A |
 | 23 | [Niecy](http://twitter.com/search?q=Niecy) | N/A |
 | 24 | [sigerson cup](http://twitter.com/search?q=sigerson+cup) | N/A |
@@ -43,8 +43,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 26 | [Ronan](http://twitter.com/search?q=Ronan) | N/A |
 | 27 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
 | 28 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
-| 29 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 30 | [Gript](http://twitter.com/search?q=Gript) | N/A |
+| 29 | [Gript](http://twitter.com/search?q=Gript) | N/A |
+| 30 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 31 | [Ashtown](http://twitter.com/search?q=Ashtown) | N/A |
 | 32 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
 | 33 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
@@ -52,7 +52,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 35 | [Gael](http://twitter.com/search?q=Gael) | N/A |
 | 36 | [The Government](http://twitter.com/search?q=The+Government) | N/A |
 | 37 | [Dangan](http://twitter.com/search?q=Dangan) | N/A |
-| 38 | [the gaa](http://twitter.com/search?q=the+gaa) | N/A |
+| 38 | [The GAA](http://twitter.com/search?q=The+GAA) | N/A |
 | 39 | [Sign](http://twitter.com/search?q=Sign) | N/A |
 | 40 | [gold medal awards](http://twitter.com/search?q=gold+medal+awards) | N/A |
 | 41 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |

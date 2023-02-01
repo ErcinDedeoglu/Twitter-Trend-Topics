@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-02-01 04:16:58 UTC`
+📆 Last Updated: `2023-02-01 05:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 2 | [Evero](http://twitter.com/search?q=Evero) | N/A |
-| 3 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
-| 4 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 5 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 6 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 7 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 8 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 9 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 10 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
-| 11 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 12 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 13 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 14 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 15 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 16 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 17 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 18 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 19 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 20 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 1 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 3 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 4 | [Evero](http://twitter.com/search?q=Evero) | N/A |
+| 5 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
+| 6 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 7 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 8 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
+| 9 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 10 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 11 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 12 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 13 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
+| 14 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 15 | [KRIS JENNER](http://twitter.com/search?q=KRIS+JENNER) | N/A |
+| 16 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 17 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 18 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 19 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 20 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
 | 21 | [I Fit In There](http://twitter.com/search?q=I+Fit+In+There) | N/A |
 | 22 | [Jamie Raskin](http://twitter.com/search?q=Jamie+Raskin) | N/A |
-| 23 | [Payton](http://twitter.com/search?q=Payton) | N/A |
-| 24 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | N/A |
-| 25 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 26 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 27 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
-| 28 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 29 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
-| 30 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
-| 31 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
-| 32 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
-| 33 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 34 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
-| 35 | [Hartenstein](http://twitter.com/search?q=Hartenstein) | N/A |
-| 36 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 37 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 38 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 23 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 24 | [#LALvsNYK](http://twitter.com/search?q=%23LALvsNYK) | N/A |
+| 25 | [Happy Black History Month](http://twitter.com/search?q=Happy+Black+History+Month) | N/A |
+| 26 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
+| 27 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 28 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 29 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 30 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 31 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 32 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 33 | [Race Thompson](http://twitter.com/search?q=Race+Thompson) | N/A |
+| 34 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
+| 35 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
+| 36 | [Loyola](http://twitter.com/search?q=Loyola) | N/A |
+| 37 | [Terps](http://twitter.com/search?q=Terps) | N/A |
+| 38 | [Kareem](http://twitter.com/search?q=Kareem) | N/A |
 | 39 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 40 | [LONG HAIR](http://twitter.com/search?q=LONG+HAIR) | N/A |
-| 41 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
-| 42 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 43 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
-| 44 | [Hachimura](http://twitter.com/search?q=Hachimura) | N/A |
-| 45 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 46 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
-| 47 | [Burry](http://twitter.com/search?q=Burry) | N/A |
-| 48 | [The Cavs](http://twitter.com/search?q=The+Cavs) | N/A |
-| 49 | [Hungary and Austria](http://twitter.com/search?q=Hungary+and+Austria) | N/A |
-| 50 | [Max Christie](http://twitter.com/search?q=Max+Christie) | Max Christie is a Scottish phrase meaning "the greatest of all". It is often used to describe someone who is the best at something or has achieved great success. |
+| 40 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 41 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 42 | [Arian Foster](http://twitter.com/search?q=Arian+Foster) | N/A |
+| 43 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 44 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 45 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 46 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
+| 47 | [Hartenstein](http://twitter.com/search?q=Hartenstein) | N/A |
+| 48 | [LONG HAIR](http://twitter.com/search?q=LONG+HAIR) | N/A |
+| 49 | [Texans](http://twitter.com/search?q=Texans) | Texans is the name given to people who live in the state of Texas in the United States. It is also used to refer to things that are associated with Texas, such as its culture, cuisine, and sports teams. |
+| 50 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
 
 
 

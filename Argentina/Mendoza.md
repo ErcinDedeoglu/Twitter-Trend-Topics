@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-01 04:16:29 UTC`
+📆 Last Updated: `2023-02-01 05:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,49 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 2 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
+| 1 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
+| 2 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 | 3 | [Euge Quevedo](http://twitter.com/search?q=Euge+Quevedo) | N/A |
 | 4 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [Arietto](http://twitter.com/search?q=Arietto) | N/A |
-| 7 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
-| 8 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
-| 9 | [#BLACKPINKComeToArgentina](http://twitter.com/search?q=%23BLACKPINKComeToArgentina) | N/A |
-| 10 | [REPECHAJE PARA AGUS Y COTI](http://twitter.com/search?q=REPECHAJE+PARA+AGUS+Y+COTI) | REPECHAJE PARA AGUS Y COTI is a phrase used in Argentina to describe a situation in which two people are competing for something. It literally translates to "rematch for Agus and Coti," suggesting that the two people are in a rematch of some kind. In English, it could be translated as "a showdown between Agus and Coti." |
-| 11 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 12 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
-| 13 | [Randall](http://twitter.com/search?q=Randall) | Randall is a masculine given name of English origin. It is derived from the Old Norse name Randulfr, which is composed of the elements rand (rim, shield) and ulfr (wolf). The name can also be used as a surname. It means "shield wolf" or "wolf's shield". |
-| 14 | [#Censo2022](http://twitter.com/search?q=%23Censo2022) | N/A |
-| 15 | [harry styles](http://twitter.com/search?q=harry+styles) | N/A |
-| 16 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 5 | [Jean Carlos](http://twitter.com/search?q=Jean+Carlos) | N/A |
+| 6 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
+| 7 | [Arietto](http://twitter.com/search?q=Arietto) | N/A |
+| 8 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 9 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 10 | [#BLACKPINKComeToArgentina](http://twitter.com/search?q=%23BLACKPINKComeToArgentina) | N/A |
+| 11 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
+| 12 | [REPECHAJE PARA AGUS Y COTI](http://twitter.com/search?q=REPECHAJE+PARA+AGUS+Y+COTI) | REPECHAJE PARA AGUS Y COTI is a phrase used in Argentina to describe a situation in which two people are competing for something. It literally translates to "rematch for Agus and Coti," suggesting that the two people are in a rematch of some kind. In English, it could be translated as "a showdown between Agus and Coti." |
+| 13 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 14 | [Randall](http://twitter.com/search?q=Randall) | Randall is a masculine given name of English origin. It is derived from the Old Norse name Randulfr, which is composed of the elements rand (rim, shield) and ulfr (wolf). The name can also be used as a surname. It means "shield wolf" or "wolf's shield". |
+| 15 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 16 | [#Censo2022](http://twitter.com/search?q=%23Censo2022) | N/A |
 | 17 | [Colmenero](http://twitter.com/search?q=Colmenero) | Colmenero is a Spanish surname derived from the word "colmenero," which means "basket maker." The name is believed to have originated in the Basque region of Spain, where basket making was a common craft. |
 | 18 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
 | 19 | [#GranHermano2022](http://twitter.com/search?q=%23GranHermano2022) | N/A |
-| 20 | [Marcos y Alfa](http://twitter.com/search?q=Marcos+y+Alfa) | N/A |
-| 21 | [Merolla](http://twitter.com/search?q=Merolla) | N/A |
-| 22 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 23 | [Toti](http://twitter.com/search?q=Toti) | Toti is a Spanish slang term that is used to refer to a close friend or someone who is very dear to you. In English, it can be translated as "dear friend" or "special one". |
-| 24 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
+| 20 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 21 | [Viviana](http://twitter.com/search?q=Viviana) | N/A |
+| 22 | [Toti](http://twitter.com/search?q=Toti) | Toti is a Spanish slang term that is used to refer to a close friend or someone who is very dear to you. In English, it can be translated as "dear friend" or "special one". |
+| 23 | [Merolla](http://twitter.com/search?q=Merolla) | N/A |
+| 24 | [Alfa y Marcos](http://twitter.com/search?q=Alfa+y+Marcos) | N/A |
 | 25 | [#GranHermanoArgentina2022](http://twitter.com/search?q=%23GranHermanoArgentina2022) | N/A |
-| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 27 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
-| 28 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 26 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
+| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 28 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
 | 29 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 30 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 31 | [Merlo](http://twitter.com/search?q=Merlo) | N/A |
-| 32 | [Enzito](http://twitter.com/search?q=Enzito) | N/A |
-| 33 | [Kotex](http://twitter.com/search?q=Kotex) | N/A |
-| 34 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 35 | [Ariel y Alfa](http://twitter.com/search?q=Ariel+y+Alfa) | N/A |
-| 36 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
-| 37 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 38 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 30 | [Géminis](http://twitter.com/search?q=G%c3%a9minis) | Géminis is the Spanish word for Gemini, which is the third astrological sign in the zodiac. It is represented by the twins Castor and Pollux, and its symbol is the twins. In English, Géminis means Gemini. |
+| 31 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 32 | [Merlo](http://twitter.com/search?q=Merlo) | N/A |
+| 33 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 34 | [Enzito](http://twitter.com/search?q=Enzito) | N/A |
+| 35 | [Kotex](http://twitter.com/search?q=Kotex) | N/A |
+| 36 | [Ariel y Alfa](http://twitter.com/search?q=Ariel+y+Alfa) | N/A |
+| 37 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 38 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
 | 39 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
 | 40 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
 | 41 | [Capricornio](http://twitter.com/search?q=Capricornio) | N/A |
-| 42 | [Jorgito](http://twitter.com/search?q=Jorgito) | N/A |
+| 42 | [#CosquinCuarteto](http://twitter.com/search?q=%23CosquinCuarteto) | N/A |
 | 43 | [#NoFueJoda](http://twitter.com/search?q=%23NoFueJoda) | N/A |
-| 44 | [#CosquinCuarteto](http://twitter.com/search?q=%23CosquinCuarteto) | N/A |
 
 
 

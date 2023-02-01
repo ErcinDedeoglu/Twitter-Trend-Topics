@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-01 04:16:47 UTC`
+📆 Last Updated: `2023-02-01 05:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,20 +34,20 @@ This is top 50 for [Algeria](</Algeria>)
 | 17 | [#رساله_لقلبك](http://twitter.com/search?q=%23%d8%b1%d8%b3%d8%a7%d9%84%d9%87_%d9%84%d9%82%d9%84%d8%a8%d9%83) | #رساله_لقلبك is a hashtag used on social media in Arabic to express love and appreciation for someone. It translates to "A Message for Your Heart". |
 | 18 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
 | 19 | [#جمال_الدين_شاوي](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%a7%d9%84_%d8%a7%d9%84%d8%af%d9%8a%d9%86_%d8%b4%d8%a7%d9%88%d9%8a) | N/A |
-| 20 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 21 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 22 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 23 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 24 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
-| 25 | [الجمهور الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 26 | [الرييس الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 27 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 28 | [كاس افريقيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 29 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 30 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 31 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 32 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
-| 33 | [الدرك الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d9%83+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 20 | [Niger](http://twitter.com/search?q=Niger) | N/A |
+| 21 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 22 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 23 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
+| 24 | [الجمهور الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 25 | [الرييس الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 26 | [كاس افريقيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 27 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 28 | [رييس الجمهوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 29 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 30 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | N/A |
+| 31 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 32 | [الدرك الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d9%83+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 33 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
 | 34 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
 | 35 | [كانسيلو](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%b3%d9%8a%d9%84%d9%88) | N/A |
 | 36 | [ياسر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1) | N/A |

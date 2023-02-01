@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-01 04:17:04 UTC`
+📆 Last Updated: `2023-02-01 05:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | N/A |
-| 2 | [#505th_GodKabir_NirvanaDiwas](http://twitter.com/search?q=%23505th_GodKabir_NirvanaDiwas) | #505th_GodKabir_NirvanaDiwas is a hashtag used to commemorate the 505th anniversary of the death of the Indian mystic and poet, Kabir. The term "Nirvana Diwas" translates to "Day of Liberation" in English, and is used to celebrate Kabir's spiritual enlightenment. |
+| 1 | [#Sensex](http://twitter.com/search?q=%23Sensex) | N/A |
+| 2 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | N/A |
 | 3 | [#IndianCoastGuardDay](http://twitter.com/search?q=%23IndianCoastGuardDay) | N/A |
-| 4 | [#MahaRehmokarmMonth](http://twitter.com/search?q=%23MahaRehmokarmMonth) | N/A |
-| 5 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 6 | [#झूठा_केस_आस्था_पर_ठेस](http://twitter.com/search?q=%23%e0%a4%9d%e0%a5%82%e0%a4%a0%e0%a4%be_%e0%a4%95%e0%a5%87%e0%a4%b8_%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be_%e0%a4%aa%e0%a4%b0_%e0%a4%a0%e0%a5%87%e0%a4%b8) | N/A |
-| 7 | [Height Of INJUSTICE](http://twitter.com/search?q=Height+Of+INJUSTICE) | Height of Injustice is a phrase used to describe an extreme or egregious example of unfairness or inequity. It is often used to describe a situation where someone has been treated unfairly or has been denied their rights. |
-| 8 | [Public Sab Janti Hai](http://twitter.com/search?q=Public+Sab+Janti+Hai) | Public Sab Janti Hai is a popular Hindi phrase that translates to "the public knows everything". It is often used to express the idea that people are aware of the truth, even if it is not openly acknowledged. |
-| 9 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
+| 4 | [#AnilSinghvi](http://twitter.com/search?q=%23AnilSinghvi) | N/A |
+| 5 | [#505th_GodKabir_NirvanaDiwas](http://twitter.com/search?q=%23505th_GodKabir_NirvanaDiwas) | #505th_GodKabir_NirvanaDiwas is a hashtag used to commemorate the 505th anniversary of the death of the Indian mystic and poet, Kabir. The term "Nirvana Diwas" translates to "Day of Liberation" in English, and is used to celebrate Kabir's spiritual enlightenment. |
+| 6 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
+| 7 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 8 | [Height Of INJUSTICE](http://twitter.com/search?q=Height+Of+INJUSTICE) | Height of Injustice is a phrase used to describe an extreme or egregious example of unfairness or inequity. It is often used to describe a situation where someone has been treated unfairly or has been denied their rights. |
+| 9 | [Public Sab Janti Hai](http://twitter.com/search?q=Public+Sab+Janti+Hai) | Public Sab Janti Hai is a popular Hindi phrase that translates to "the public knows everything". It is often used to express the idea that people are aware of the truth, even if it is not openly acknowledged. |
 | 10 | [Fielder with Most Catches](http://twitter.com/search?q=Fielder+with+Most+Catches) | Fielder with Most Catches is a statistic used in cricket to measure the number of catches taken by a fielder during a match. It is an indication of how well the fielder has performed in the field, as it shows how many times they have been able to stop the ball from reaching the boundary. |
-| 11 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 12 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
-| 13 | [Shah Satnam Ji](http://twitter.com/search?q=Shah+Satnam+Ji) | Shah Satnam Ji is a phrase used by followers of the Sikh faith to refer to the 10th Guru of Sikhism, Guru Gobind Singh. The phrase translates to "The King of Truth" in English. |
-| 14 | [RoopKumar Crucial InSSRcase](http://twitter.com/search?q=RoopKumar+Crucial+InSSRcase) | N/A |
-| 15 | [प्रथम भारतीय महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 11 | [वित्त मंत्री निर्मला](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b2%e0%a4%be) | N/A |
+| 12 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 13 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 14 | [प्रथम भारतीय महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 15 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
 | 16 | [Bowler with Worst ER](http://twitter.com/search?q=Bowler+with+Worst+ER) | Bowler with Worst ER is a statistic used in cricket to measure the effectiveness of a bowler. It stands for Economy Rate, which is the number of runs conceded per over bowled. It is calculated by dividing the total number of runs conceded by the total number of overs bowled. A bowler with the worst ER will have conceded the most runs per over, indicating that they are not very effective at containing batsmen and preventing them from scoring runs. |
-| 17 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 18 | [वित्त मंत्रालय](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 17 | [RoopKumar Crucial InSSRcase](http://twitter.com/search?q=RoopKumar+Crucial+InSSRcase) | N/A |
+| 18 | [Batsman with Most Fours](http://twitter.com/search?q=Batsman+with+Most+Fours) | N/A |
 | 19 | [प्रथम महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 20 | [भारतीय समुद्री](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 21 | [वित्त मंत्री निर्मला](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%b2%e0%a4%be) | N/A |
-| 22 | [श्री मनोज तिवारी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%9c+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 23 | [Ministry of Finance](http://twitter.com/search?q=Ministry+of+Finance) | N/A |
-| 24 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 25 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 26 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 20 | [Batsman with Highest SR](http://twitter.com/search?q=Batsman+with+Highest+SR) | N/A |
+| 21 | [Shah Satnam Ji](http://twitter.com/search?q=Shah+Satnam+Ji) | Shah Satnam Ji is a phrase used by followers of the Sikh faith to refer to the 10th Guru of Sikhism, Guru Gobind Singh. The phrase translates to "The King of Truth" in English. |
+| 22 | [भारतीय समुद्री](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 23 | [वित्त मंत्रालय](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 24 | [श्री मनोज तिवारी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%9c+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 25 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 26 | [लोकप्रिय मुख्यमंत्री श्री](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
 | 27 | [पूर्ण निष्ठा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%a8%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a0%e0%a4%be) | N/A |
-| 28 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | N/A |
-| 29 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 30 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 31 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 32 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
-| 33 | [शाह सतनाम](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%b8%e0%a4%a4%e0%a4%a8%e0%a4%be%e0%a4%ae) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [प्रभु श्री राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 36 | [PM Cares](http://twitter.com/search?q=PM+Cares) | N/A |
-| 37 | [आम आदमी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80) | N/A |
-| 38 | [Hare Krishna](http://twitter.com/search?q=Hare+Krishna) | N/A |
-| 39 | [परमेश्वर कबीर साहेब](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | N/A |
-| 40 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 41 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
-| 42 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 43 | [#AnilSinghvi](http://twitter.com/search?q=%23AnilSinghvi) | N/A |
-| 44 | [#KalpanaChawla](http://twitter.com/search?q=%23KalpanaChawla) | N/A |
-| 45 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
-| 46 | [#NirmalaSitharaman](http://twitter.com/search?q=%23NirmalaSitharaman) | N/A |
-| 47 | [#HBDBrahmanandam](http://twitter.com/search?q=%23HBDBrahmanandam) | N/A |
-| 48 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 49 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 50 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 28 | [Ministry of Finance](http://twitter.com/search?q=Ministry+of+Finance) | N/A |
+| 29 | [पूर्व प्रदेश](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 30 | [महिला शक्ति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 31 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 32 | [मिशन विशेषज्ञ](http://twitter.com/search?q=%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a4%a8+%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%87%e0%a4%b7%e0%a4%9c%e0%a5%8d%e0%a4%9e) | N/A |
+| 33 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 34 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 35 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 36 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 37 | [उत्तर पूर्वी दिल्ली](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80) | N/A |
+| 38 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 39 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 40 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 42 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
+| 43 | [प्रभु श्रीराम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [आम आदमी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80) | N/A |
+| 46 | [शाह सतनाम](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%b8%e0%a4%a4%e0%a4%a8%e0%a4%be%e0%a4%ae) | N/A |
+| 47 | [President Murmu](http://twitter.com/search?q=President+Murmu) | N/A |
+| 48 | [उज्जवल भविष्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b5%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%af) | N/A |
+| 49 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
+| 50 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
 
 
 

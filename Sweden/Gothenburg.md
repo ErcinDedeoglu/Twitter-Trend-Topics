@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-01 04:16:39 UTC`
+📆 Last Updated: `2023-02-01 05:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,22 +34,22 @@ This is top 50 for [Sweden](</Sweden>)
 | 17 | [ebba östlin](http://twitter.com/search?q=ebba+%c3%b6stlin) | N/A |
 | 18 | [ifk göteborg](http://twitter.com/search?q=ifk+g%c3%b6teborg) | N/A |
 | 19 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 20 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
-| 21 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 23 | [tre kronor](http://twitter.com/search?q=tre+kronor) | N/A |
-| 24 | [Rögle](http://twitter.com/search?q=R%c3%b6gle) | N/A |
-| 25 | [brynäs](http://twitter.com/search?q=bryn%c3%a4s) | N/A |
-| 26 | [adam carlén](http://twitter.com/search?q=adam+carl%c3%a9n) | N/A |
-| 27 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
-| 28 | [kungsängen](http://twitter.com/search?q=kungs%c3%a4ngen) | N/A |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 31 | [gurra](http://twitter.com/search?q=gurra) | N/A |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 33 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 20 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 21 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 22 | [tre kronor](http://twitter.com/search?q=tre+kronor) | N/A |
+| 23 | [rögle](http://twitter.com/search?q=r%c3%b6gle) | N/A |
+| 24 | [brynäs](http://twitter.com/search?q=bryn%c3%a4s) | N/A |
+| 25 | [adam carlén](http://twitter.com/search?q=adam+carl%c3%a9n) | N/A |
+| 26 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
+| 27 | [kungsängen](http://twitter.com/search?q=kungs%c3%a4ngen) | N/A |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 30 | [gurra](http://twitter.com/search?q=gurra) | N/A |
+| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 32 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 33 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
 | 34 | [beijer hockey games](http://twitter.com/search?q=beijer+hockey+games) | N/A |
-| 35 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
+| 35 | [swedbank](http://twitter.com/search?q=swedbank) | N/A |
 | 36 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 37 | [#svmed](http://twitter.com/search?q=%23svmed) | N/A |
 | 38 | [oskarshamn](http://twitter.com/search?q=oskarshamn) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-01 04:16:39 UTC`
+📆 Last Updated: `2023-02-01 05:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,32 +24,31 @@ This is top 50 for [Latvia](</Latvia>)
 | 7 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 8 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
 | 9 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 10 | [vajag](http://twitter.com/search?q=vajag) | N/A |
-| 11 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 12 | [manuprāt](http://twitter.com/search?q=manupr%c4%81t) | N/A |
+| 10 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 11 | [vajag](http://twitter.com/search?q=vajag) | N/A |
+| 12 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 13 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
 | 14 | [latvijas radio](http://twitter.com/search?q=latvijas+radio) | N/A |
 | 15 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
 | 16 | [#valmierasnovads](http://twitter.com/search?q=%23valmierasnovads) | N/A |
 | 17 | [#kocēni](http://twitter.com/search?q=%23koc%c4%93ni) | N/A |
 | 18 | [#wfcq2023](http://twitter.com/search?q=%23wfcq2023) | N/A |
-| 19 | [#BackPain](http://twitter.com/search?q=%23BackPain) | N/A |
-| 20 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 21 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 22 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 23 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
-| 24 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
-| 25 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 19 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
+| 20 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 21 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 22 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
+| 23 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 25 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
 | 26 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
 | 27 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
-| 28 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 29 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 30 | [saeimas](http://twitter.com/search?q=saeimas) | N/A |
-| 31 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 32 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
-| 33 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 34 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 35 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 28 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 29 | [saeimas](http://twitter.com/search?q=saeimas) | N/A |
+| 30 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
+| 31 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 32 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
+| 33 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 34 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 
 
 

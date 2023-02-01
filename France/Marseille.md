@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-02-01 04:16:34 UTC`
+📆 Last Updated: `2023-02-01 05:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [France](</France>)
 | 5 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 7 | [#FCGBHAC](http://twitter.com/search?q=%23FCGBHAC) | N/A |
-| 8 | [#scbasse](http://twitter.com/search?q=%23scbasse) | N/A |
+| 8 | [#SCBASSE](http://twitter.com/search?q=%23SCBASSE) | N/A |
 | 9 | [azmoun](http://twitter.com/search?q=azmoun) | N/A |
 | 10 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
 | 11 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
@@ -31,40 +31,40 @@ This is top 50 for [France](</France>)
 | 14 | [occurence](http://twitter.com/search?q=occurence) | N/A |
 | 15 | [James Gunn](http://twitter.com/search?q=James+Gunn) | James Gunn is the name of an American filmmaker, actor, novelist, and musician. He is best known for writing and directing the Marvel Studios films Guardians of the Galaxy (2014) and its sequel Guardians of the Galaxy Vol. 2 (2017). |
 | 16 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
-| 17 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 18 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 19 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 20 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
-| 21 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 22 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 23 | [Palm Springs](http://twitter.com/search?q=Palm+Springs) | N/A |
+| 17 | [Palm Springs](http://twitter.com/search?q=Palm+Springs) | N/A |
+| 18 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 19 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 20 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 21 | [Fulgini](http://twitter.com/search?q=Fulgini) | N/A |
+| 22 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 23 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
 | 24 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
 | 25 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
 | 26 | [Offset](http://twitter.com/search?q=Offset) | N/A |
 | 27 | [Pathé Ciss](http://twitter.com/search?q=Path%c3%a9+Ciss) | N/A |
 | 28 | [Joséphine Baker](http://twitter.com/search?q=Jos%c3%a9phine+Baker) | N/A |
-| 29 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
-| 30 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 31 | [Zorgane](http://twitter.com/search?q=Zorgane) | N/A |
-| 32 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 33 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 34 | [Grève du 31](http://twitter.com/search?q=Gr%c3%a8ve+du+31) | N/A |
-| 35 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 36 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 37 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 38 | [Yanissa](http://twitter.com/search?q=Yanissa) | N/A |
+| 29 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 30 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
+| 31 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 32 | [zorgane](http://twitter.com/search?q=zorgane) | N/A |
+| 33 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 34 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 35 | [Grève du 31](http://twitter.com/search?q=Gr%c3%a8ve+du+31) | N/A |
+| 36 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 37 | [HARRYS](http://twitter.com/search?q=HARRYS) | N/A |
+| 38 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
 | 39 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 40 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 41 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 42 | [président de la rada](http://twitter.com/search?q=pr%c3%a9sident+de+la+rada) | N/A |
-| 43 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 41 | [président de la rada](http://twitter.com/search?q=pr%c3%a9sident+de+la+rada) | N/A |
+| 42 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 43 | [Yanissa](http://twitter.com/search?q=Yanissa) | N/A |
 | 44 | [Factory](http://twitter.com/search?q=Factory) | N/A |
 | 45 | [marignane](http://twitter.com/search?q=marignane) | N/A |
 | 46 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 47 | [Lacoux](http://twitter.com/search?q=Lacoux) | N/A |
+| 47 | [lacoux](http://twitter.com/search?q=lacoux) | N/A |
 | 48 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
-| 49 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
-| 50 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 49 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 50 | [Caesar](http://twitter.com/search?q=Caesar) | N/A |
 
 
 

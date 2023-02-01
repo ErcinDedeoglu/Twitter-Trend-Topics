@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-01 04:16:39 UTC`
+📆 Last Updated: `2023-02-01 05:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -56,14 +56,14 @@ This is top 50 for [Norway](</Norway>)
 | 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 40 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
 | 41 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 43 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 45 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 46 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 47 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 48 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 49 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
+| 42 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 45 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 46 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 47 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 48 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
+| 49 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 
 
 
