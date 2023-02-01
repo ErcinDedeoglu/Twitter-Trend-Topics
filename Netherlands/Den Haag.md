@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-01 11:16:20 UTC`
+📆 Last Updated: `2023-02-01 12:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#watersnoodramp](http://twitter.com/search?q=%23watersnoodramp) | N/A |
 | 2 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
-| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 4 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
-| 5 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 3 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
+| 4 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 7 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
 | 8 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
 | 9 | [Lelystad Airport](http://twitter.com/search?q=Lelystad+Airport) | N/A |
-| 10 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 11 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 10 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 11 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 | 12 | [Van Ginkel](http://twitter.com/search?q=Van+Ginkel) | N/A |
-| 13 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 14 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 15 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 16 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 17 | [Efteling](http://twitter.com/search?q=Efteling) | N/A |
-| 18 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
-| 19 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 20 | [Aanholt](http://twitter.com/search?q=Aanholt) | N/A |
-| 21 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 13 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 14 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 15 | [maarten](http://twitter.com/search?q=maarten) | N/A |
+| 16 | [Efteling](http://twitter.com/search?q=Efteling) | N/A |
+| 17 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
+| 18 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 19 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 20 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
+| 21 | [Aanholt](http://twitter.com/search?q=Aanholt) | N/A |
 | 22 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 23 | [Heddy Lester](http://twitter.com/search?q=Heddy+Lester) | N/A |
 | 24 | [Aruba](http://twitter.com/search?q=Aruba) | N/A |
-| 25 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 26 | [te kloese](http://twitter.com/search?q=te+kloese) | N/A |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 29 | [Beatrix](http://twitter.com/search?q=Beatrix) | N/A |
+| 25 | [Beatrix](http://twitter.com/search?q=Beatrix) | N/A |
+| 26 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 27 | [te kloese](http://twitter.com/search?q=te+kloese) | N/A |
+| 28 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 29 | [Manu](http://twitter.com/search?q=Manu) | N/A |
 | 30 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
-| 31 | [Ouders](http://twitter.com/search?q=Ouders) | N/A |
-| 32 | [De NPO](http://twitter.com/search?q=De+NPO) | N/A |
-| 33 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
+| 31 | [ouders](http://twitter.com/search?q=ouders) | N/A |
+| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [De NPO](http://twitter.com/search?q=De+NPO) | N/A |
 | 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 35 | [troela](http://twitter.com/search?q=troela) | N/A |
-| 36 | [El Ghazi](http://twitter.com/search?q=El+Ghazi) | N/A |
-| 37 | [Joop](http://twitter.com/search?q=Joop) | N/A |
-| 38 | [dijkstra](http://twitter.com/search?q=dijkstra) | N/A |
-| 39 | [Walemark](http://twitter.com/search?q=Walemark) | N/A |
-| 40 | [Labyad](http://twitter.com/search?q=Labyad) | N/A |
-| 41 | [top oss](http://twitter.com/search?q=top+oss) | N/A |
-| 42 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 43 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 44 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 45 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 46 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
+| 35 | [el ghazi](http://twitter.com/search?q=el+ghazi) | N/A |
+| 36 | [Dijkstra](http://twitter.com/search?q=Dijkstra) | N/A |
+| 37 | [walemark](http://twitter.com/search?q=walemark) | N/A |
+| 38 | [Labyad](http://twitter.com/search?q=Labyad) | N/A |
+| 39 | [top oss](http://twitter.com/search?q=top+oss) | N/A |
+| 40 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 41 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 42 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 43 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 44 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
+| 45 | [Rechten van de Mens](http://twitter.com/search?q=Rechten+van+de+Mens) | N/A |
+| 46 | [wierik](http://twitter.com/search?q=wierik) | N/A |
 
 
 

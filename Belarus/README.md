@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-01 11:16:52 UTC`
+📆 Last Updated: `2023-02-01 12:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,26 +15,27 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Минска](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
-| 2 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 3 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 4 | [Зимбабве](http://twitter.com/search?q=%d0%97%d0%b8%d0%bc%d0%b1%d0%b0%d0%b1%d0%b2%d0%b5) | N/A |
+| 1 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 2 | [Минска](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
+| 3 | [Зимбабве](http://twitter.com/search?q=%d0%97%d0%b8%d0%bc%d0%b1%d0%b0%d0%b1%d0%b2%d0%b5) | N/A |
+| 4 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
 | 5 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
 | 6 | [#YouTubeAgainstHumanity](http://twitter.com/search?q=%23YouTubeAgainstHumanity) | N/A |
 | 7 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
-| 8 | [беларуси](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 9 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | N/A |
+| 8 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | N/A |
+| 9 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
 | 10 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
-| 11 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
-| 12 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 11 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 12 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
 | 13 | [#democracyunderattack](http://twitter.com/search?q=%23democracyunderattack) | N/A |
 | 14 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 15 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 16 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
-| 17 | [гродно](http://twitter.com/search?q=%d0%b3%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
-| 18 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 19 | [#creativesociety](http://twitter.com/search?q=%23creativesociety) | N/A |
-| 20 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
+| 15 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 16 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
+| 17 | [#youtuberepression](http://twitter.com/search?q=%23youtuberepression) | N/A |
+| 18 | [гродно](http://twitter.com/search?q=%d0%b3%d1%80%d0%be%d0%b4%d0%bd%d0%be) | N/A |
+| 19 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
+| 20 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
+| 21 | [#FreedomOfSpeech](http://twitter.com/search?q=%23FreedomOfSpeech) | N/A |
 
 
 

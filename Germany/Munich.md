@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-02-01 11:16:19 UTC`
+📆 Last Updated: `2023-02-01 12:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
 | 7 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
 | 8 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
-| 9 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
-| 10 | [Flug als Privatleute](http://twitter.com/search?q=Flug+als+Privatleute) | N/A |
+| 9 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
+| 10 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
 | 11 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 12 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 13 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
-| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 12 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 15 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 16 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
 | 17 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 18 | [Transfer](http://twitter.com/search?q=Transfer) | N/A |
-| 19 | [Passwort](http://twitter.com/search?q=Passwort) | N/A |
-| 20 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 21 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 22 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
-| 23 | [Wohnungsbau](http://twitter.com/search?q=Wohnungsbau) | N/A |
-| 24 | [gesellschaftsrat](http://twitter.com/search?q=gesellschaftsrat) | N/A |
-| 25 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 26 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 27 | [tatort](http://twitter.com/search?q=tatort) | N/A |
-| 28 | [kaufoption](http://twitter.com/search?q=kaufoption) | N/A |
-| 29 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 30 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
-| 31 | [Gerichte](http://twitter.com/search?q=Gerichte) | N/A |
-| 32 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 33 | [Paderborn](http://twitter.com/search?q=Paderborn) | N/A |
-| 34 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
+| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 20 | [Passwort](http://twitter.com/search?q=Passwort) | N/A |
+| 21 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 22 | [Wohnungsbau](http://twitter.com/search?q=Wohnungsbau) | N/A |
+| 23 | [gesellschaftsrat](http://twitter.com/search?q=gesellschaftsrat) | N/A |
+| 24 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
+| 25 | [tatort](http://twitter.com/search?q=tatort) | N/A |
+| 26 | [kaufoption](http://twitter.com/search?q=kaufoption) | N/A |
+| 27 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 28 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 29 | [Luftfilter](http://twitter.com/search?q=Luftfilter) | N/A |
+| 30 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 31 | [Brasilien](http://twitter.com/search?q=Brasilien) | N/A |
+| 32 | [Gerichte](http://twitter.com/search?q=Gerichte) | N/A |
+| 33 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
+| 34 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
 | 35 | [Vonovia](http://twitter.com/search?q=Vonovia) | N/A |
-| 36 | [einkauf](http://twitter.com/search?q=einkauf) | N/A |
-| 37 | [KNUST](http://twitter.com/search?q=KNUST) | N/A |
-| 38 | [Informieren Sie](http://twitter.com/search?q=Informieren+Sie) | N/A |
-| 39 | [eiskunstläuferin](http://twitter.com/search?q=eiskunstl%c3%a4uferin) | N/A |
-| 40 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 41 | [Steuerberater](http://twitter.com/search?q=Steuerberater) | N/A |
-| 42 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 43 | [Aktienrente](http://twitter.com/search?q=Aktienrente) | N/A |
-| 44 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
-| 45 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
-| 46 | [Absage](http://twitter.com/search?q=Absage) | N/A |
-| 47 | [Vegetarier](http://twitter.com/search?q=Vegetarier) | N/A |
-| 48 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 49 | [Räterepublik](http://twitter.com/search?q=R%c3%a4terepublik) | N/A |
+| 36 | [KNUST](http://twitter.com/search?q=KNUST) | N/A |
+| 37 | [Informieren Sie](http://twitter.com/search?q=Informieren+Sie) | N/A |
+| 38 | [eiskunstläuferin](http://twitter.com/search?q=eiskunstl%c3%a4uferin) | N/A |
+| 39 | [Paderborn](http://twitter.com/search?q=Paderborn) | N/A |
+| 40 | [Steuerberater](http://twitter.com/search?q=Steuerberater) | N/A |
+| 41 | [Aktienrente](http://twitter.com/search?q=Aktienrente) | N/A |
+| 42 | [Kapsel](http://twitter.com/search?q=Kapsel) | N/A |
+| 43 | [Absage](http://twitter.com/search?q=Absage) | N/A |
+| 44 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 45 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
+| 46 | [Vegetarier](http://twitter.com/search?q=Vegetarier) | N/A |
+| 47 | [kommunismus](http://twitter.com/search?q=kommunismus) | N/A |
+| 48 | [Räterepublik](http://twitter.com/search?q=R%c3%a4terepublik) | N/A |
+| 49 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
 
 
 

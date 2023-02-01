@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-01 11:16:31 UTC`
+📆 Last Updated: `2023-02-01 12:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BunnyPrinceDoyoungDay](http://twitter.com/search?q=%23BunnyPrinceDoyoungDay) | #BunnyPrinceDoyoungDay is a hashtag used by fans of the South Korean singer and actor Doyoung, who is a member of the K-pop group NCT. The hashtag is used to celebrate his birthday, which falls on August 1st. |
-| 2 | [#WelcomeToManila_ENHYPEN](http://twitter.com/search?q=%23WelcomeToManila_ENHYPEN) | N/A |
-| 3 | [#따끈따끈_도영빵_생일이_왔옹](http://twitter.com/search?q=%23%eb%94%b0%eb%81%88%eb%94%b0%eb%81%88_%eb%8f%84%ec%98%81%eb%b9%b5_%ec%83%9d%ec%9d%bc%ec%9d%b4_%ec%99%94%ec%98%b9) | "#따끈따끈_도영빵_생일이_왔옹" is a hashtag used to celebrate the birthday of Do Young Bang, a South Korean singer and member of the boy band TXT. In English, it translates to "It's Do Young Bang's Birthday - Let's Celebrate!" |
-| 4 | [EN-VADERS GOES TO MNL](http://twitter.com/search?q=EN-VADERS+GOES+TO+MNL) | EN-VADERS GOES TO MNL is a phrase used to describe a group of people who are traveling to Manila, Philippines. The phrase is derived from the popular video game Space Invaders, which features aliens invading Earth. The phrase is meant to signify that a group of people are going on an adventure to explore a new place. |
-| 5 | [#FebIbigWithBINI](http://twitter.com/search?q=%23FebIbigWithBINI) | N/A |
-| 6 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 7 | [PowerfulDONBELLE WithSMART](http://twitter.com/search?q=PowerfulDONBELLE+WithSMART) | PowerfulDONBELLE WithSMART is a phrase used to describe someone who is strong, confident, and intelligent. It is often used as a compliment or to express admiration for someone's abilities. |
-| 8 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 9 | [ONE TWO CONNECT](http://twitter.com/search?q=ONE+TWO+CONNECT) | ONE TWO CONNECT is a Japanese phrase that means "connecting people together". It is often used to refer to the idea of connecting people through communication, collaboration, and mutual understanding. |
-| 10 | [SAFE SKIES](http://twitter.com/search?q=SAFE+SKIES) | N/A |
-| 11 | [Reverence to God](http://twitter.com/search?q=Reverence+to+God) | N/A |
-| 12 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 13 | [SPECIAL GOING BSS EPISODE](http://twitter.com/search?q=SPECIAL+GOING+BSS+EPISODE) | SPECIAL GOING BSS EPISODE is a term used in the Japanese anime and manga industry. It refers to a special episode of an anime or manga series that is released as a one-off, usually to commemorate a special event or milestone. The acronym BSS stands for "Bonus Special Story". |
-| 14 | [D-2 COMPLEX EP RELEASE](http://twitter.com/search?q=D-2+COMPLEX+EP+RELEASE) | N/A |
-| 15 | [BSS ALBUM TRACKLIST](http://twitter.com/search?q=BSS+ALBUM+TRACKLIST) | BSS ALBUM TRACKLIST is a list of songs on an album by the Canadian band, Broken Social Scene. The tracklist includes the titles of each song on the album, as well as the length of each track. |
-| 16 | [WE GOTCHU ALWAYS KD](http://twitter.com/search?q=WE+GOTCHU+ALWAYS+KD) | "WE GOTCHU ALWAYS KD" is an expression of support and encouragement, typically used among friends. It is short for "We've got you always, KD," meaning that the speaker will always be there to support and help the person named "KD." |
-| 17 | [HAVE A SAFE FLIGHT](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT) | N/A |
-| 18 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 19 | [DARLENTINA THE CLASH](http://twitter.com/search?q=DARLENTINA+THE+CLASH) | N/A |
-| 20 | [ALEXAs BDAY in25DAYS](http://twitter.com/search?q=ALEXAs+BDAY+in25DAYS) | N/A |
-| 21 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 22 | [janenella is the movement](http://twitter.com/search?q=janenella+is+the+movement) | N/A |
-| 23 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
-| 24 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 25 | [STELL THE SONG BIRDIE](http://twitter.com/search?q=STELL+THE+SONG+BIRDIE) | N/A |
-| 26 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 27 | [Congrats Architects](http://twitter.com/search?q=Congrats+Architects) | N/A |
-| 28 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
-| 29 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
-| 30 | [Mi Goreng](http://twitter.com/search?q=Mi+Goreng) | N/A |
-| 31 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
-| 32 | [kathniel loves tnt](http://twitter.com/search?q=kathniel+loves+tnt) | N/A |
-| 33 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 34 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 35 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 36 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 37 | [Happy New Year](http://twitter.com/search?q=Happy+New+Year) | Happy New Year is a phrase used to express good wishes for the upcoming year. It is typically said at the end of the year, on New Year's Eve or New Year's Day, to wish someone a prosperous and successful year ahead. |
-| 38 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 39 | [Finally February](http://twitter.com/search?q=Finally+February) | N/A |
-| 40 | [GAMSEONGZ FOR DYSON](http://twitter.com/search?q=GAMSEONGZ+FOR+DYSON) | N/A |
-| 41 | [BinSan](http://twitter.com/search?q=BinSan) | N/A |
-| 42 | [New Frontier](http://twitter.com/search?q=New+Frontier) | N/A |
-| 43 | [VIVIZ PULL UP OUT NOW](http://twitter.com/search?q=VIVIZ+PULL+UP+OUT+NOW) | VIVIZ PULL UP OUT NOW is a phrase used to encourage someone to take action and get something done. It is often used as a call to action, urging someone to take the initiative and do something. In English, it could be translated as "Take action now!" |
-| 44 | [Xyriel](http://twitter.com/search?q=Xyriel) | N/A |
-| 45 | [Happy 1st of February](http://twitter.com/search?q=Happy+1st+of+February) | N/A |
-| 46 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 47 | [Pebrero](http://twitter.com/search?q=Pebrero) | N/A |
-| 48 | [DSWD](http://twitter.com/search?q=DSWD) | N/A |
-| 49 | [Dina Bonnevie](http://twitter.com/search?q=Dina+Bonnevie) | N/A |
+| 1 | [#WelcomeToManila_ENHYPEN](http://twitter.com/search?q=%23WelcomeToManila_ENHYPEN) | N/A |
+| 2 | [BELLEntines WithDUNKIN](http://twitter.com/search?q=BELLEntines+WithDUNKIN) | N/A |
+| 3 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
+| 4 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
+| 5 | [EN-VADERS GOES TO MNL](http://twitter.com/search?q=EN-VADERS+GOES+TO+MNL) | EN-VADERS GOES TO MNL is a phrase used to describe a group of people who are traveling to Manila, Philippines. The phrase is derived from the popular video game Space Invaders, which features aliens invading Earth. The phrase is meant to signify that a group of people are going on an adventure to explore a new place. |
+| 6 | [#MCIKutob](http://twitter.com/search?q=%23MCIKutob) | N/A |
+| 7 | [SAFE SKIES](http://twitter.com/search?q=SAFE+SKIES) | N/A |
+| 8 | [D-2 COMPLEX EP RELEASE](http://twitter.com/search?q=D-2+COMPLEX+EP+RELEASE) | N/A |
+| 9 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 10 | [Reverence to God](http://twitter.com/search?q=Reverence+to+God) | N/A |
+| 11 | [DARLENTINA THE CLASH](http://twitter.com/search?q=DARLENTINA+THE+CLASH) | N/A |
+| 12 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
+| 13 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 14 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 15 | [SPECIAL GOING BSS EPISODE](http://twitter.com/search?q=SPECIAL+GOING+BSS+EPISODE) | SPECIAL GOING BSS EPISODE is a term used in the Japanese anime and manga industry. It refers to a special episode of an anime or manga series that is released as a one-off, usually to commemorate a special event or milestone. The acronym BSS stands for "Bonus Special Story". |
+| 16 | [Daesung](http://twitter.com/search?q=Daesung) | N/A |
+| 17 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
+| 18 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 19 | [ALEXAs BDAY in25DAYS](http://twitter.com/search?q=ALEXAs+BDAY+in25DAYS) | N/A |
+| 20 | [WE GOTCHU ALWAYS KD](http://twitter.com/search?q=WE+GOTCHU+ALWAYS+KD) | "WE GOTCHU ALWAYS KD" is an expression of support and encouragement, typically used among friends. It is short for "We've got you always, KD," meaning that the speaker will always be there to support and help the person named "KD." |
+| 21 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 22 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 23 | [PowerfulDONBELLE WithSMART](http://twitter.com/search?q=PowerfulDONBELLE+WithSMART) | PowerfulDONBELLE WithSMART is a phrase used to describe someone who is strong, confident, and intelligent. It is often used as a compliment or to express admiration for someone's abilities. |
+| 24 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 25 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 26 | [#DunkinPHxBelle](http://twitter.com/search?q=%23DunkinPHxBelle) | N/A |
+| 27 | [#DunkinPHValentines](http://twitter.com/search?q=%23DunkinPHValentines) | N/A |
+| 28 | [#FebIbigWithBINI](http://twitter.com/search?q=%23FebIbigWithBINI) | N/A |
+| 29 | [#EnSalubong](http://twitter.com/search?q=%23EnSalubong) | N/A |
+| 30 | [#TEAMAIRPORT_LEZGAUR_ENHARRIVE](http://twitter.com/search?q=%23TEAMAIRPORT_LEZGAUR_ENHARRIVE) | N/A |
+| 31 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 32 | [#DLDamageControl](http://twitter.com/search?q=%23DLDamageControl) | N/A |
+| 33 | [#부석순은_언제나_고잉고잉](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c%ec%9d%80_%ec%96%b8%ec%a0%9c%eb%82%98_%ea%b3%a0%ec%9e%89%ea%b3%a0%ec%9e%89) | N/A |
+| 34 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 35 | [#GOING_BSS_Fighting](http://twitter.com/search?q=%23GOING_BSS_Fighting) | N/A |
+| 36 | [#JaneNella](http://twitter.com/search?q=%23JaneNella) | N/A |
+| 37 | [#JJK212](http://twitter.com/search?q=%23JJK212) | N/A |
+| 38 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
+| 39 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
+| 40 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
+| 41 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
+| 42 | [#SOJUNGHWAN](http://twitter.com/search?q=%23SOJUNGHWAN) | N/A |
+| 43 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | N/A |
+| 44 | [#PowerAllDonBelle](http://twitter.com/search?q=%23PowerAllDonBelle) | N/A |
+| 45 | [#Dobbyniversary](http://twitter.com/search?q=%23Dobbyniversary) | N/A |
+| 46 | [#BOYCOTTMZETxAPTxGMA693](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA693) | N/A |
 
 
 

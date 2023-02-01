@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-02-01 11:16:48 UTC`
+📆 Last Updated: `2023-02-01 12:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 2 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 3 | [New College](http://twitter.com/search?q=New+College) | N/A |
-| 4 | [Happy Black History Month](http://twitter.com/search?q=Happy+Black+History+Month) | Happy Black History Month is an expression used to celebrate and recognize the achievements and contributions of African Americans throughout history. It is typically celebrated in the United States and Canada during the month of February. |
-| 5 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 6 | [#JJK212](http://twitter.com/search?q=%23JJK212) | N/A |
-| 7 | [Ozzy](http://twitter.com/search?q=Ozzy) | N/A |
-| 8 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
-| 9 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
-| 10 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 11 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
-| 12 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 13 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 1 | [Happy Black History Month](http://twitter.com/search?q=Happy+Black+History+Month) | Happy Black History Month is an expression used to celebrate and recognize the achievements and contributions of African Americans throughout history. It is typically celebrated in the United States and Canada during the month of February. |
+| 2 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
+| 3 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 4 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
+| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 6 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 7 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 8 | [#Wordle592](http://twitter.com/search?q=%23Wordle592) | N/A |
+| 9 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 10 | [HAPPY BIRTHDAY HARRY](http://twitter.com/search?q=HAPPY+BIRTHDAY+HARRY) | N/A |
+| 11 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
+| 12 | [Daily Quordle 373](http://twitter.com/search?q=Daily+Quordle+373) | N/A |
+| 13 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
 | 14 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 15 | [KRIS JENNER](http://twitter.com/search?q=KRIS+JENNER) | Kris Jenner is an American television personality, businesswoman, and manager. She is best known for starring in the reality television series Keeping Up with the Kardashians, which she also executive produces. Jenner has managed the careers of her children, including Kim Kardashian West, Khloé Kardashian, Kourtney Kardashian, Kendall Jenner, and Kylie Jenner. |
-| 16 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
-| 17 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 18 | [Sisyphus](http://twitter.com/search?q=Sisyphus) | N/A |
-| 19 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
-| 20 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 21 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 22 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 23 | [Arian Foster](http://twitter.com/search?q=Arian+Foster) | N/A |
-| 24 | [I EXPECT](http://twitter.com/search?q=I+EXPECT) | N/A |
-| 25 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
-| 26 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
-| 27 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 15 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
+| 16 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 17 | [I EXPECT](http://twitter.com/search?q=I+EXPECT) | N/A |
+| 18 | [kris jenner](http://twitter.com/search?q=kris+jenner) | N/A |
+| 19 | [Sisyphus](http://twitter.com/search?q=Sisyphus) | N/A |
+| 20 | [National Signing Day](http://twitter.com/search?q=National+Signing+Day) | National Signing Day is an annual event in which high school athletes sign a binding letter of intent to play a sport at a college or university. It is the first day that a high school senior can sign a binding National Letter of Intent for college football. The day usually falls on the first Wednesday of February, and marks the end of the recruiting process for many student-athletes. |
+| 21 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 22 | [Dr. Phil](http://twitter.com/search?q=Dr.+Phil) | N/A |
+| 23 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 24 | [Kimmel](http://twitter.com/search?q=Kimmel) | N/A |
+| 25 | [I Fit In There](http://twitter.com/search?q=I+Fit+In+There) | N/A |
+| 26 | [Thibs](http://twitter.com/search?q=Thibs) | Thibs is an abbreviation for Tom Thibodeau, an American professional basketball coach and former player. He is currently the head coach of the New York Knicks of the National Basketball Association (NBA). |
+| 27 | [Benny Hill](http://twitter.com/search?q=Benny+Hill) | N/A |
 | 28 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 29 | [I Fit In There](http://twitter.com/search?q=I+Fit+In+There) | N/A |
-| 30 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
-| 31 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 29 | [Dave Bautista](http://twitter.com/search?q=Dave+Bautista) | Dave Bautista is the stage name of American actor, former professional wrestler, and mixed martial artist David Michael Bautista Jr. He is best known for his time in WWE, where he was a six-time world champion. He has also starred in several films, including Guardians of the Galaxy and Blade Runner 2049. |
+| 30 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 31 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
 | 32 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 33 | [Benny Hill](http://twitter.com/search?q=Benny+Hill) | N/A |
-| 34 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 35 | [Dr. Phil](http://twitter.com/search?q=Dr.+Phil) | N/A |
-| 36 | [Pamela Anderson](http://twitter.com/search?q=Pamela+Anderson) | N/A |
-| 37 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 38 | [HARRYS](http://twitter.com/search?q=HARRYS) | N/A |
-| 39 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
-| 40 | [Julius](http://twitter.com/search?q=Julius) | N/A |
-| 41 | [Smokey](http://twitter.com/search?q=Smokey) | N/A |
-| 42 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 43 | [Cramer](http://twitter.com/search?q=Cramer) | N/A |
-| 44 | [#Wordle592](http://twitter.com/search?q=%23Wordle592) | N/A |
-| 45 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 46 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
-| 47 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 48 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 49 | [#PamelaALoveStory](http://twitter.com/search?q=%23PamelaALoveStory) | N/A |
+| 33 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 34 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 35 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
+| 36 | [HARRYS](http://twitter.com/search?q=HARRYS) | N/A |
+| 37 | [Pamela Anderson](http://twitter.com/search?q=Pamela+Anderson) | N/A |
+| 38 | [Julius](http://twitter.com/search?q=Julius) | N/A |
+| 39 | [Smokey](http://twitter.com/search?q=Smokey) | N/A |
+| 40 | [#JJK212](http://twitter.com/search?q=%23JJK212) | N/A |
+| 41 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
+| 42 | [#NSD23](http://twitter.com/search?q=%23NSD23) | N/A |
+| 43 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 44 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
+| 45 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
+| 46 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 47 | [#WakandaForever](http://twitter.com/search?q=%23WakandaForever) | N/A |
+| 48 | [#WorldReadAloudDay](http://twitter.com/search?q=%23WorldReadAloudDay) | N/A |
+| 49 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
 
 
 

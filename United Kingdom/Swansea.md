@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-01 11:16:07 UTC`
+📆 Last Updated: `2023-02-01 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,43 +17,44 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
 | 2 | [#ucuRISING](http://twitter.com/search?q=%23ucuRISING) | N/A |
-| 3 | [History Month](http://twitter.com/search?q=History+Month) | N/A |
+| 3 | [#LGBTplusHM](http://twitter.com/search?q=%23LGBTplusHM) | N/A |
 | 4 | [#SaveOurSchools](http://twitter.com/search?q=%23SaveOurSchools) | N/A |
-| 5 | [#LGBTplusHM](http://twitter.com/search?q=%23LGBTplusHM) | N/A |
-| 6 | [Ozzy](http://twitter.com/search?q=Ozzy) | N/A |
+| 5 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 6 | [Tate Modern](http://twitter.com/search?q=Tate+Modern) | N/A |
 | 7 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 8 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 9 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
-| 10 | [St Brigid](http://twitter.com/search?q=St+Brigid) | N/A |
-| 11 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 8 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
+| 9 | [St Brigid](http://twitter.com/search?q=St+Brigid) | N/A |
+| 10 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 11 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
 | 12 | [Daily Quordle 373](http://twitter.com/search?q=Daily+Quordle+373) | N/A |
-| 13 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
-| 14 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 15 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 16 | [Whitby](http://twitter.com/search?q=Whitby) | N/A |
-| 17 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
-| 18 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 19 | [Jonjo](http://twitter.com/search?q=Jonjo) | N/A |
-| 20 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 21 | [Moshiri](http://twitter.com/search?q=Moshiri) | Moshiri is a Japanese word that means “to strive” or “to make an effort.” It is often used to describe someone who is working hard to achieve their goals. |
-| 22 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 23 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 24 | [Kenwright](http://twitter.com/search?q=Kenwright) | N/A |
-| 25 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 26 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
-| 27 | [#LGBTHM23](http://twitter.com/search?q=%23LGBTHM23) | N/A |
-| 28 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
-| 29 | [#BehindTheLens](http://twitter.com/search?q=%23BehindTheLens) | N/A |
+| 13 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 14 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
+| 15 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 16 | [Dry January](http://twitter.com/search?q=Dry+January) | N/A |
+| 17 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 18 | [Unions](http://twitter.com/search?q=Unions) | N/A |
+| 19 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 20 | [Milton Keynes](http://twitter.com/search?q=Milton+Keynes) | N/A |
+| 21 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 22 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 23 | [Moshiri](http://twitter.com/search?q=Moshiri) | Moshiri is a Japanese word that means “to strive” or “to make an effort.” It is often used to describe someone who is working hard to achieve their goals. |
+| 24 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 25 | [kenwright](http://twitter.com/search?q=kenwright) | N/A |
+| 26 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
+| 27 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 28 | [#WalkoutWednesday](http://twitter.com/search?q=%23WalkoutWednesday) | N/A |
+| 29 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
 | 30 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 31 | [#Imbolc](http://twitter.com/search?q=%23Imbolc) | N/A |
+| 31 | [#BehindTheLens](http://twitter.com/search?q=%23BehindTheLens) | N/A |
 | 32 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 33 | [#February1st](http://twitter.com/search?q=%23February1st) | N/A |
-| 34 | [#newmonth](http://twitter.com/search?q=%23newmonth) | N/A |
-| 35 | [#EnoughlsEnough](http://twitter.com/search?q=%23EnoughlsEnough) | N/A |
+| 33 | [#Imbolc](http://twitter.com/search?q=%23Imbolc) | N/A |
+| 34 | [#EnoughlsEnough](http://twitter.com/search?q=%23EnoughlsEnough) | N/A |
+| 35 | [#newmonth](http://twitter.com/search?q=%23newmonth) | N/A |
 | 36 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
 | 37 | [#ToryBrokenBritain](http://twitter.com/search?q=%23ToryBrokenBritain) | N/A |
-| 38 | [#Wembley](http://twitter.com/search?q=%23Wembley) | N/A |
+| 38 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
 | 39 | [#ISE2023](http://twitter.com/search?q=%23ISE2023) | N/A |
+| 40 | [#Wembley](http://twitter.com/search?q=%23Wembley) | N/A |
 
 
 

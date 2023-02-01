@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-01 11:16:55 UTC`
+📆 Last Updated: `2023-02-01 12:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#Donzelli](http://twitter.com/search?q=%23Donzelli) | N/A |
 | 2 | [#InterAtalanta](http://twitter.com/search?q=%23InterAtalanta) | #InterAtalanta is a hashtag used to refer to the Italian football match between Inter Milan and Atalanta. It is used to show support for either team or to discuss the match. In English, it means "Inter Milan vs Atalanta". |
-| 3 | [#Cospito](http://twitter.com/search?q=%23Cospito) | N/A |
-| 4 | [#1febbraio](http://twitter.com/search?q=%231febbraio) | N/A |
+| 3 | [#1febbraio](http://twitter.com/search?q=%231febbraio) | N/A |
+| 4 | [#Cospito](http://twitter.com/search?q=%23Cospito) | N/A |
 | 5 | [#boomerissima](http://twitter.com/search?q=%23boomerissima) | N/A |
 | 6 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
 | 7 | [Copasir](http://twitter.com/search?q=Copasir) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for Italy
 | 9 | [biagio](http://twitter.com/search?q=biagio) | N/A |
 | 10 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
 | 11 | [Cracco](http://twitter.com/search?q=Cracco) | N/A |
-| 12 | [Iulm](http://twitter.com/search?q=Iulm) | N/A |
-| 13 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 14 | [Contenitore](http://twitter.com/search?q=Contenitore) | N/A |
-| 15 | [Cambiaso](http://twitter.com/search?q=Cambiaso) | N/A |
+| 12 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 13 | [Cambiaso](http://twitter.com/search?q=Cambiaso) | N/A |
+| 14 | [contenitore](http://twitter.com/search?q=contenitore) | N/A |
+| 15 | [Camera](http://twitter.com/search?q=Camera) | N/A |
 | 16 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
-| 17 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 18 | [San Giovanni Bosco](http://twitter.com/search?q=San+Giovanni+Bosco) | N/A |
-| 19 | [arisa](http://twitter.com/search?q=arisa) | N/A |
-| 20 | [Stefano Nazzi](http://twitter.com/search?q=Stefano+Nazzi) | N/A |
-| 21 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
-| 22 | [Burioni](http://twitter.com/search?q=Burioni) | N/A |
-| 23 | [uefa e fifa](http://twitter.com/search?q=uefa+e+fifa) | N/A |
-| 24 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 25 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Thomas Bricca](http://twitter.com/search?q=Thomas+Bricca) | N/A |
+| 18 | [arisa](http://twitter.com/search?q=arisa) | N/A |
+| 19 | [Burioni](http://twitter.com/search?q=Burioni) | N/A |
+| 20 | [uefa e fifa](http://twitter.com/search?q=uefa+e+fifa) | N/A |
+| 21 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 24 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 25 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
+| 26 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
 | 27 | [Vaciago](http://twitter.com/search?q=Vaciago) | N/A |
-| 28 | [Kinshasa](http://twitter.com/search?q=Kinshasa) | N/A |
-| 29 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 30 | [Clea](http://twitter.com/search?q=Clea) | N/A |
-| 31 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 32 | [Rosa Ricci](http://twitter.com/search?q=Rosa+Ricci) | N/A |
-| 33 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 34 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
-| 35 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 36 | [fares](http://twitter.com/search?q=fares) | N/A |
-| 37 | [Il 1](http://twitter.com/search?q=Il+1) | N/A |
-| 38 | [modello](http://twitter.com/search?q=modello) | N/A |
-| 39 | [De Vrij](http://twitter.com/search?q=De+Vrij) | N/A |
-| 40 | [Laudisa](http://twitter.com/search?q=Laudisa) | N/A |
-| 41 | [Il Giornale](http://twitter.com/search?q=Il+Giornale) | N/A |
-| 42 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
-| 43 | [Nordio](http://twitter.com/search?q=Nordio) | N/A |
-| 44 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
-| 45 | [Legge](http://twitter.com/search?q=Legge) | N/A |
+| 28 | [Clea](http://twitter.com/search?q=Clea) | N/A |
+| 29 | [ROSA RICCI](http://twitter.com/search?q=ROSA+RICCI) | N/A |
+| 30 | [Opera](http://twitter.com/search?q=Opera) | N/A |
+| 31 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
+| 32 | [Dimissioni](http://twitter.com/search?q=Dimissioni) | N/A |
+| 33 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
+| 34 | [Il 1](http://twitter.com/search?q=Il+1) | N/A |
+| 35 | [modello](http://twitter.com/search?q=modello) | N/A |
+| 36 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 37 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
+| 38 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 39 | [Il Giornale](http://twitter.com/search?q=Il+Giornale) | N/A |
+| 40 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 41 | [Nordio](http://twitter.com/search?q=Nordio) | N/A |
+| 42 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
+| 43 | [Giustizia](http://twitter.com/search?q=Giustizia) | N/A |
+| 44 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
+| 45 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
 | 46 | [Juventini](http://twitter.com/search?q=Juventini) | N/A |
 | 47 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 48 | [Buongiorno Anna](http://twitter.com/search?q=Buongiorno+Anna) | N/A |
-| 49 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
-| 50 | [Buona Giornata](http://twitter.com/search?q=Buona+Giornata) | N/A |
+| 48 | [Filippo](http://twitter.com/search?q=Filippo) | N/A |
+| 49 | [Buongiorno Anna](http://twitter.com/search?q=Buongiorno+Anna) | N/A |
+| 50 | [Fratelli](http://twitter.com/search?q=Fratelli) | N/A |
 
 
 
