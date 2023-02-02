@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-02 18:18:03 UTC`
+📆 Last Updated: `2023-02-02 19:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Spain
 | ------- | ------------ | ------------ |
 | 1 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
 | 2 | [#TIKITIKI](http://twitter.com/search?q=%23TIKITIKI) | N/A |
-| 3 | [#TierraAmarga2Feb](http://twitter.com/search?q=%23TierraAmarga2Feb) | N/A |
-| 4 | [Puyol](http://twitter.com/search?q=Puyol) | N/A |
-| 5 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 6 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
-| 7 | [#EnginAkyürek](http://twitter.com/search?q=%23EnginAky%c3%bcrek) | N/A |
+| 3 | [#COAC2023P13](http://twitter.com/search?q=%23COAC2023P13) | N/A |
+| 4 | [Kroos y Modric](http://twitter.com/search?q=Kroos+y+Modric) | Kroos y Modric is a Spanish phrase that translates to "Kroos and Modric" in English. It refers to the two professional soccer players, Toni Kroos and Luka Modric, who both play for Real Madrid. |
+| 5 | [#TierraAmarga2Feb](http://twitter.com/search?q=%23TierraAmarga2Feb) | N/A |
+| 6 | [Puyol](http://twitter.com/search?q=Puyol) | N/A |
+| 7 | [Vicco](http://twitter.com/search?q=Vicco) | N/A |
 | 8 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
-| 9 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 10 | [Glovo](http://twitter.com/search?q=Glovo) | N/A |
-| 11 | [Luisa Fernanda](http://twitter.com/search?q=Luisa+Fernanda) | N/A |
-| 12 | [José Otero](http://twitter.com/search?q=Jos%c3%a9+Otero) | N/A |
-| 13 | [Karmento](http://twitter.com/search?q=Karmento) | N/A |
-| 14 | [España y Marruecos](http://twitter.com/search?q=Espa%c3%b1a+y+Marruecos) | N/A |
-| 15 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
+| 9 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 10 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | N/A |
+| 11 | [Glovo](http://twitter.com/search?q=Glovo) | N/A |
+| 12 | [Mario Vargas Llosa](http://twitter.com/search?q=Mario+Vargas+Llosa) | N/A |
+| 13 | [Alfred](http://twitter.com/search?q=Alfred) | N/A |
+| 14 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 15 | [Luisa Fernanda](http://twitter.com/search?q=Luisa+Fernanda) | N/A |
 | 16 | [Rakky Ripper](http://twitter.com/search?q=Rakky+Ripper) | N/A |
-| 17 | [Vicco](http://twitter.com/search?q=Vicco) | N/A |
-| 18 | [Famous](http://twitter.com/search?q=Famous) | N/A |
-| 19 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
-| 20 | [Phil](http://twitter.com/search?q=Phil) | N/A |
-| 21 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 22 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
-| 23 | [Alfred](http://twitter.com/search?q=Alfred) | N/A |
-| 24 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
-| 25 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 26 | [Rey de Marruecos](http://twitter.com/search?q=Rey+de+Marruecos) | N/A |
-| 27 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 28 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 29 | [Mema](http://twitter.com/search?q=Mema) | N/A |
-| 30 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
-| 31 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
+| 17 | [José Otero](http://twitter.com/search?q=Jos%c3%a9+Otero) | N/A |
+| 18 | [España y Marruecos](http://twitter.com/search?q=Espa%c3%b1a+y+Marruecos) | N/A |
+| 19 | [Karmento](http://twitter.com/search?q=Karmento) | N/A |
+| 20 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 21 | [Famous](http://twitter.com/search?q=Famous) | N/A |
+| 22 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 23 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
+| 24 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
+| 25 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
+| 26 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 27 | [Rey de Marruecos](http://twitter.com/search?q=Rey+de+Marruecos) | N/A |
+| 28 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
+| 29 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
+| 30 | [Phil](http://twitter.com/search?q=Phil) | N/A |
+| 31 | [Mema](http://twitter.com/search?q=Mema) | N/A |
 | 32 | [Nochentera](http://twitter.com/search?q=Nochentera) | N/A |
-| 33 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 34 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 35 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 36 | [La 2](http://twitter.com/search?q=La+2) | N/A |
-| 37 | [Orgullo](http://twitter.com/search?q=Orgullo) | N/A |
-| 38 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
-| 39 | [Begoño](http://twitter.com/search?q=Bego%c3%b1o) | N/A |
-| 40 | [Miku](http://twitter.com/search?q=Miku) | N/A |
-| 41 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
-| 42 | [#PequeñaGranComunidad](http://twitter.com/search?q=%23Peque%c3%b1aGranComunidad) | N/A |
-| 43 | [#SuperligaLoL](http://twitter.com/search?q=%23SuperligaLoL) | N/A |
-| 44 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
-| 45 | [#YoMeRebelo2F](http://twitter.com/search?q=%23YoMeRebelo2F) | N/A |
-| 46 | [#Solos2F](http://twitter.com/search?q=%23Solos2F) | N/A |
-| 47 | [#VCV2023](http://twitter.com/search?q=%23VCV2023) | N/A |
-| 48 | [#CrisPorta2F](http://twitter.com/search?q=%23CrisPorta2F) | N/A |
-| 49 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | N/A |
-| 50 | [#DiaMundialDeLosHumedales](http://twitter.com/search?q=%23DiaMundialDeLosHumedales) | N/A |
+| 33 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
+| 34 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
+| 35 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
+| 36 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 37 | [La 3](http://twitter.com/search?q=La+3) | N/A |
+| 38 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 39 | [La 2](http://twitter.com/search?q=La+2) | N/A |
+| 40 | [Orgullo](http://twitter.com/search?q=Orgullo) | N/A |
+| 41 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
+| 42 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
+| 43 | [#EnginAkyürek](http://twitter.com/search?q=%23EnginAky%c3%bcrek) | N/A |
+| 44 | [#Solos2F](http://twitter.com/search?q=%23Solos2F) | N/A |
+| 45 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 46 | [#PequeñaGranComunidad](http://twitter.com/search?q=%23Peque%c3%b1aGranComunidad) | N/A |
+| 47 | [#SuperligaLoL](http://twitter.com/search?q=%23SuperligaLoL) | N/A |
+| 48 | [#YoMeRebelo2F](http://twitter.com/search?q=%23YoMeRebelo2F) | N/A |
+| 49 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
+| 50 | [#VCV2023](http://twitter.com/search?q=%23VCV2023) | N/A |
 
 
 

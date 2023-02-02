@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-02 18:17:26 UTC`
+📆 Last Updated: `2023-02-02 19:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BlackLies](http://twitter.com/search?q=%23BlackLies) | N/A |
-| 2 | [#mielpo](http://twitter.com/search?q=%23mielpo) | N/A |
-| 3 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 4 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 5 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 6 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
-| 7 | [Wilczur](http://twitter.com/search?q=Wilczur) | N/A |
-| 8 | [leonard pietraszak](http://twitter.com/search?q=leonard+pietraszak) | N/A |
-| 9 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
-| 10 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 11 | [Agrounia](http://twitter.com/search?q=Agrounia) | N/A |
-| 12 | [Greenwooda](http://twitter.com/search?q=Greenwooda) | N/A |
-| 13 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 14 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
-| 15 | [Beverly](http://twitter.com/search?q=Beverly) | N/A |
-| 16 | [Setha](http://twitter.com/search?q=Setha) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
+| 1 | [#mielpo](http://twitter.com/search?q=%23mielpo) | N/A |
+| 2 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
+| 3 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
+| 4 | [#BlackLies](http://twitter.com/search?q=%23BlackLies) | N/A |
+| 5 | [#ttynapapierze](http://twitter.com/search?q=%23ttynapapierze) | N/A |
+| 6 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 7 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 8 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 9 | [leonard pietraszak](http://twitter.com/search?q=leonard+pietraszak) | N/A |
+| 10 | [Wilczur](http://twitter.com/search?q=Wilczur) | N/A |
+| 11 | [Greenwooda](http://twitter.com/search?q=Greenwooda) | N/A |
+| 12 | [Agrounia](http://twitter.com/search?q=Agrounia) | N/A |
+| 13 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 14 | [Podróże](http://twitter.com/search?q=Podr%c3%b3%c5%bce) | N/A |
+| 15 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
+| 16 | [Beverly](http://twitter.com/search?q=Beverly) | N/A |
+| 17 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 18 | [Setha](http://twitter.com/search?q=Setha) | N/A |
 | 19 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 20 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
-| 21 | [Gowin](http://twitter.com/search?q=Gowin) | N/A |
-| 22 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
-| 23 | [Łyżwy](http://twitter.com/search?q=%c5%81y%c5%bcwy) | N/A |
-| 24 | [Boxdel](http://twitter.com/search?q=Boxdel) | N/A |
-| 25 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 20 | [Boxdel](http://twitter.com/search?q=Boxdel) | N/A |
+| 21 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
+| 22 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
+| 25 | [Gowina](http://twitter.com/search?q=Gowina) | N/A |
 | 26 | [Leszek Lichota](http://twitter.com/search?q=Leszek+Lichota) | N/A |
-| 27 | [skok stefczyka](http://twitter.com/search?q=skok+stefczyka) | N/A |
-| 28 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 27 | [Łyżwy](http://twitter.com/search?q=%c5%81y%c5%bcwy) | N/A |
+| 28 | [skok stefczyka](http://twitter.com/search?q=skok+stefczyka) | N/A |
 | 29 | [Kazimierz M.](http://twitter.com/search?q=Kazimierz+M.) | N/A |
-| 30 | [Bułgar](http://twitter.com/search?q=Bu%c5%82gar) | N/A |
-| 31 | [Dzień Pozytywnego Myślenia](http://twitter.com/search?q=Dzie%c5%84+Pozytywnego+My%c5%9blenia) | N/A |
-| 32 | [Cyryla](http://twitter.com/search?q=Cyryla) | N/A |
-| 33 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
-| 34 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
-| 35 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 36 | [Sykulski](http://twitter.com/search?q=Sykulski) | N/A |
-| 37 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 38 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
-| 39 | [Święto Ofiarowania Pańskiego](http://twitter.com/search?q=%c5%9awi%c4%99to+Ofiarowania+Pa%c5%84skiego) | N/A |
-| 40 | [Sawa](http://twitter.com/search?q=Sawa) | N/A |
-| 41 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
-| 42 | [Doslownie](http://twitter.com/search?q=Doslownie) | N/A |
-| 43 | [dzień życia konsekrowanego](http://twitter.com/search?q=dzie%c5%84+%c5%bcycia+konsekrowanego) | N/A |
-| 44 | [Świetne](http://twitter.com/search?q=%c5%9awietne) | N/A |
-| 45 | [O KURWA](http://twitter.com/search?q=O+KURWA) | N/A |
-| 46 | [Chuuya](http://twitter.com/search?q=Chuuya) | N/A |
-| 47 | [Barczewie](http://twitter.com/search?q=Barczewie) | N/A |
-| 48 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 49 | [PiS-em](http://twitter.com/search?q=PiS-em) | N/A |
-| 50 | [Isajew](http://twitter.com/search?q=Isajew) | N/A |
+| 30 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 31 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 32 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 33 | [Dzień Pozytywnego Myślenia](http://twitter.com/search?q=Dzie%c5%84+Pozytywnego+My%c5%9blenia) | N/A |
+| 34 | [Cyryla](http://twitter.com/search?q=Cyryla) | N/A |
+| 35 | [Bułgar](http://twitter.com/search?q=Bu%c5%82gar) | N/A |
+| 36 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
+| 37 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
+| 38 | [Sykulski](http://twitter.com/search?q=Sykulski) | N/A |
+| 39 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 40 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 41 | [Sawa](http://twitter.com/search?q=Sawa) | N/A |
+| 42 | [Święto Ofiarowania Pańskiego](http://twitter.com/search?q=%c5%9awi%c4%99to+Ofiarowania+Pa%c5%84skiego) | N/A |
+| 43 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
+| 44 | [Doslownie](http://twitter.com/search?q=Doslownie) | N/A |
+| 45 | [Barczewie](http://twitter.com/search?q=Barczewie) | N/A |
+| 46 | [Nienawidzę](http://twitter.com/search?q=Nienawidz%c4%99) | N/A |
+| 47 | [Kowal](http://twitter.com/search?q=Kowal) | N/A |
+| 48 | [Chuuya](http://twitter.com/search?q=Chuuya) | N/A |
+| 49 | [Szydło](http://twitter.com/search?q=Szyd%c5%82o) | N/A |
+| 50 | [PiS-em](http://twitter.com/search?q=PiS-em) | N/A |
 
 
 

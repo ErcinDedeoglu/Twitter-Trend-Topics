@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-02 18:17:53 UTC`
+📆 Last Updated: `2023-02-02 19:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
-| 2 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 3 | [Capitalism](http://twitter.com/search?q=Capitalism) | N/A |
-| 4 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
-| 5 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
-| 6 | [Ilhan Omar](http://twitter.com/search?q=Ilhan+Omar) | Ilhan Omar is the name of a Somali-American politician who currently serves as the U.S. Representative for Minnesota's 5th congressional district. Her name is derived from the Arabic phrase “Ilhan” which means “beloved” and “Omar” which means “eloquent speaker”. |
-| 7 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
+| 1 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
+| 2 | [#blackhistorymonth2023](http://twitter.com/search?q=%23blackhistorymonth2023) | N/A |
+| 3 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 4 | [Omar](http://twitter.com/search?q=Omar) | N/A |
+| 5 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
+| 6 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
+| 7 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
 | 8 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
-| 9 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 10 | [Socialism](http://twitter.com/search?q=Socialism) | N/A |
-| 11 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 9 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
+| 10 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 11 | [Tommy Rees](http://twitter.com/search?q=Tommy+Rees) | N/A |
 | 12 | [#NationalCatchersDay](http://twitter.com/search?q=%23NationalCatchersDay) | N/A |
-| 13 | [The Genius](http://twitter.com/search?q=The+Genius) | N/A |
-| 14 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 15 | [Tommy Rees](http://twitter.com/search?q=Tommy+Rees) | N/A |
-| 16 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
-| 17 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 18 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 19 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 20 | [White History Month](http://twitter.com/search?q=White+History+Month) | N/A |
-| 21 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 22 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
-| 23 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
-| 24 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 25 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 26 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 27 | [Serena](http://twitter.com/search?q=Serena) | N/A |
-| 28 | [Gobbler's Knob](http://twitter.com/search?q=Gobbler%27s+Knob) | N/A |
-| 29 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 30 | [Keith Law](http://twitter.com/search?q=Keith+Law) | N/A |
-| 31 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 32 | [Dre Bly](http://twitter.com/search?q=Dre+Bly) | N/A |
-| 33 | [Recker](http://twitter.com/search?q=Recker) | N/A |
-| 34 | [Staten Island Chuck](http://twitter.com/search?q=Staten+Island+Chuck) | N/A |
-| 35 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
-| 36 | [Guy Ritchie](http://twitter.com/search?q=Guy+Ritchie) | N/A |
-| 37 | [IUPUI](http://twitter.com/search?q=IUPUI) | N/A |
-| 38 | [Eunice Dwumfour](http://twitter.com/search?q=Eunice+Dwumfour) | N/A |
-| 39 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 40 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 41 | [CONDEMN](http://twitter.com/search?q=CONDEMN) | N/A |
-| 42 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
-| 43 | [Fyodor](http://twitter.com/search?q=Fyodor) | Fyodor is a Russian male name derived from the Greek name Theodoros, meaning "gift of God". |
-| 44 | [Reddish](http://twitter.com/search?q=Reddish) | N/A |
-| 45 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 46 | [Wrigley](http://twitter.com/search?q=Wrigley) | N/A |
-| 47 | [Anthrocon](http://twitter.com/search?q=Anthrocon) | N/A |
-| 48 | [Booksmart](http://twitter.com/search?q=Booksmart) | N/A |
-| 49 | [AITA](http://twitter.com/search?q=AITA) | N/A |
-| 50 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
+| 13 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 14 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 15 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 16 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 17 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
+| 18 | [Hard R](http://twitter.com/search?q=Hard+R) | N/A |
+| 19 | [#ThursdayThought](http://twitter.com/search?q=%23ThursdayThought) | N/A |
+| 20 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 21 | [Crumbl](http://twitter.com/search?q=Crumbl) | N/A |
+| 22 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 23 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 24 | [Booksmart](http://twitter.com/search?q=Booksmart) | N/A |
+| 25 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 26 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
+| 27 | [Superbad](http://twitter.com/search?q=Superbad) | N/A |
+| 28 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 29 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 30 | [House Republicans](http://twitter.com/search?q=House+Republicans) | House Republicans are members of the United States House of Representatives who are affiliated with the Republican Party. They are responsible for introducing and voting on legislation that affects the nation. The House Republicans work to promote their party's agenda and policies, while also representing their constituents in Congress. |
+| 31 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 32 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 33 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 34 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 35 | [White History Month](http://twitter.com/search?q=White+History+Month) | N/A |
+| 36 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 37 | [Macho Man](http://twitter.com/search?q=Macho+Man) | N/A |
+| 38 | [Red TV](http://twitter.com/search?q=Red+TV) | N/A |
+| 39 | [Tlaib](http://twitter.com/search?q=Tlaib) | N/A |
+| 40 | [Eunice Dwumfour](http://twitter.com/search?q=Eunice+Dwumfour) | N/A |
+| 41 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
+| 42 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
+| 43 | [Lady Bird](http://twitter.com/search?q=Lady+Bird) | N/A |
+| 44 | [Gobbler's Knob](http://twitter.com/search?q=Gobbler%27s+Knob) | N/A |
+| 45 | [Arkansas Gov](http://twitter.com/search?q=Arkansas+Gov) | N/A |
+| 46 | [Cremated](http://twitter.com/search?q=Cremated) | N/A |
+| 47 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 48 | [Evero](http://twitter.com/search?q=Evero) | N/A |
+| 49 | [CONDEMN](http://twitter.com/search?q=CONDEMN) | N/A |
+| 50 | [Randy Savage](http://twitter.com/search?q=Randy+Savage) | N/A |
 
 
 

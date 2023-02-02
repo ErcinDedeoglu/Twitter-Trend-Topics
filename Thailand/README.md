@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-02 18:18:04 UTC`
+📆 Last Updated: `2023-02-02 19:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for Thailand
 | 16 | [Night Light](http://twitter.com/search?q=Night+Light) | N/A |
 | 17 | [CHARLOTTE BE MY LOVE02](http://twitter.com/search?q=CHARLOTTE+BE+MY+LOVE02) | N/A |
 | 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 19 | [Gulf Night](http://twitter.com/search?q=Gulf+Night) | N/A |
-| 20 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 21 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
-| 22 | [Ditto](http://twitter.com/search?q=Ditto) | N/A |
-| 23 | [#ลูกบอลของคุณบิ๊กกลัฟ](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | N/A |
-| 24 | [#แบนlivenation](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99livenation) | N/A |
-| 25 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 26 | [#TarBomxFANDOMLIVE](http://twitter.com/search?q=%23TarBomxFANDOMLIVE) | N/A |
-| 27 | [#ฝุ่นPM25](http://twitter.com/search?q=%23%e0%b8%9d%e0%b8%b8%e0%b9%88%e0%b8%99PM25) | N/A |
-| 28 | [#Shopee22คืนคอยน์คุ้ม](http://twitter.com/search?q=%23Shopee22%e0%b8%84%e0%b8%b7%e0%b8%99%e0%b8%84%e0%b8%ad%e0%b8%a2%e0%b8%99%e0%b9%8c%e0%b8%84%e0%b8%b8%e0%b9%89%e0%b8%a1) | N/A |
-| 29 | [#Nene1stMiniConcertInBKK](http://twitter.com/search?q=%23Nene1stMiniConcertInBKK) | N/A |
-| 30 | [#engfaintsq_newyork](http://twitter.com/search?q=%23engfaintsq_newyork) | N/A |
+| 19 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 20 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
+| 21 | [Ditto](http://twitter.com/search?q=Ditto) | N/A |
+| 22 | [#แบนlivenation](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99livenation) | N/A |
+| 23 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 24 | [#ฝุ่นPM25](http://twitter.com/search?q=%23%e0%b8%9d%e0%b8%b8%e0%b9%88%e0%b8%99PM25) | N/A |
+| 25 | [#TarBomxFANDOMLIVE](http://twitter.com/search?q=%23TarBomxFANDOMLIVE) | N/A |
+| 26 | [#ลูกบอลของคุณบิ๊กกลัฟ](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | N/A |
+| 27 | [#Shopee22คืนคอยน์คุ้ม](http://twitter.com/search?q=%23Shopee22%e0%b8%84%e0%b8%b7%e0%b8%99%e0%b8%84%e0%b8%ad%e0%b8%a2%e0%b8%99%e0%b9%8c%e0%b8%84%e0%b8%b8%e0%b9%89%e0%b8%a1) | N/A |
+| 28 | [#Nene1stMiniConcertInBKK](http://twitter.com/search?q=%23Nene1stMiniConcertInBKK) | N/A |
+| 29 | [#engfaintsq_newyork](http://twitter.com/search?q=%23engfaintsq_newyork) | N/A |
+| 30 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
 | 31 | [#kookv](http://twitter.com/search?q=%23kookv) | N/A |
-| 32 | [#PhiBalls](http://twitter.com/search?q=%23PhiBalls) | N/A |
-| 33 | [#JUNGKOOK](http://twitter.com/search?q=%23JUNGKOOK) | N/A |
-| 34 | [#mewhitesoapxcharlotte](http://twitter.com/search?q=%23mewhitesoapxcharlotte) | N/A |
-| 35 | [#10YearsTicketFinalEP](http://twitter.com/search?q=%2310YearsTicketFinalEP) | N/A |
+| 32 | [#mewhitesoapxcharlotte](http://twitter.com/search?q=%23mewhitesoapxcharlotte) | N/A |
+| 33 | [#10YearsTicketFinalEP](http://twitter.com/search?q=%2310YearsTicketFinalEP) | N/A |
+| 34 | [#PhiBalls](http://twitter.com/search?q=%23PhiBalls) | N/A |
+| 35 | [#ไม่โรแมนติก](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%82%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81) | N/A |
 | 36 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
-| 37 | [#ไม่โรแมนติก](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%82%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81) | N/A |
-| 38 | [#kohsweethoneymoon](http://twitter.com/search?q=%23kohsweethoneymoon) | N/A |
-| 39 | [#โมอมีนา](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%a1%e0%b8%ad%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2) | N/A |
-| 40 | [#WeLoveYouLucas](http://twitter.com/search?q=%23WeLoveYouLucas) | #WeLoveYouLucas is a hashtag used to show support and appreciation for Lucas, a person whose identity is not specified. It is typically used on social media platforms such as Twitter and Instagram to express love and admiration for Lucas. |
+| 37 | [#kohsweethoneymoon](http://twitter.com/search?q=%23kohsweethoneymoon) | N/A |
+| 38 | [#โมอมีนา](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%a1%e0%b8%ad%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2) | N/A |
+| 39 | [#WeLoveYouLucas](http://twitter.com/search?q=%23WeLoveYouLucas) | #WeLoveYouLucas is a hashtag used to show support and appreciation for Lucas, a person whose identity is not specified. It is typically used on social media platforms such as Twitter and Instagram to express love and admiration for Lucas. |
+| 40 | [#OPPOReno8T5G_th](http://twitter.com/search?q=%23OPPOReno8T5G_th) | N/A |
 | 41 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 42 | [#OPPOReno8T5G_th](http://twitter.com/search?q=%23OPPOReno8T5G_th) | N/A |
-| 43 | [#OPPO108MPPortraitCamera](http://twitter.com/search?q=%23OPPO108MPPortraitCamera) | N/A |
-| 44 | [#TheInterestOfLoveEp14](http://twitter.com/search?q=%23TheInterestOfLoveEp14) | N/A |
-| 45 | [#GlycoDuoBrightXGF](http://twitter.com/search?q=%23GlycoDuoBrightXGF) | N/A |
-| 46 | [#lorealhairxtarbom](http://twitter.com/search?q=%23lorealhairxtarbom) | N/A |
-| 47 | [#กุมภากุมใจกับมีนปิง](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b9%83%e0%b8%88%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
-| 48 | [#DirtyLaundryFinalEP](http://twitter.com/search?q=%23DirtyLaundryFinalEP) | N/A |
-| 49 | [#FebWithJoong](http://twitter.com/search?q=%23FebWithJoong) | N/A |
-| 50 | [#madanlivexต้าบอม](http://twitter.com/search?q=%23madanlivex%e0%b8%95%e0%b9%89%e0%b8%b2%e0%b8%9a%e0%b8%ad%e0%b8%a1) | N/A |
+| 42 | [#OPPO108MPPortraitCamera](http://twitter.com/search?q=%23OPPO108MPPortraitCamera) | N/A |
+| 43 | [#GlycoDuoBrightXGF](http://twitter.com/search?q=%23GlycoDuoBrightXGF) | N/A |
+| 44 | [#lorealhairxtarbom](http://twitter.com/search?q=%23lorealhairxtarbom) | N/A |
+| 45 | [#TheInterestOfLoveEp14](http://twitter.com/search?q=%23TheInterestOfLoveEp14) | N/A |
+| 46 | [#DirtyLaundryFinalEP](http://twitter.com/search?q=%23DirtyLaundryFinalEP) | N/A |
+| 47 | [#FebWithJoong](http://twitter.com/search?q=%23FebWithJoong) | N/A |
+| 48 | [#madanlivexต้าบอม](http://twitter.com/search?q=%23madanlivex%e0%b8%95%e0%b9%89%e0%b8%b2%e0%b8%9a%e0%b8%ad%e0%b8%a1) | N/A |
+| 49 | [#400Kรักน้องพุงเม่าโลก](http://twitter.com/search?q=%23400K%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%9e%e0%b8%b8%e0%b8%87%e0%b9%80%e0%b8%a1%e0%b9%88%e0%b8%b2%e0%b9%82%e0%b8%a5%e0%b8%81) | N/A |
+| 50 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
 
 
 

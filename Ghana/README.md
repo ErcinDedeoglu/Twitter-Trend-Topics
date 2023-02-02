@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-02-02 18:18:00 UTC`
+📆 Last Updated: `2023-02-02 19:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Ghana
 | 3 | [Efya](http://twitter.com/search?q=Efya) | N/A |
 | 4 | [Blakk Rasta](http://twitter.com/search?q=Blakk+Rasta) | N/A |
 | 5 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
-| 6 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 7 | [Alidu](http://twitter.com/search?q=Alidu) | N/A |
-| 8 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 9 | [Jaypee](http://twitter.com/search?q=Jaypee) | N/A |
-| 10 | [Karela](http://twitter.com/search?q=Karela) | N/A |
-| 11 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 12 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 13 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [Kotoko](http://twitter.com/search?q=Kotoko) | N/A |
-| 16 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 17 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 18 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 19 | [DSTV](http://twitter.com/search?q=DSTV) | N/A |
-| 20 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
-| 21 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 22 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 23 | [#yesufie](http://twitter.com/search?q=%23yesufie) | N/A |
-| 24 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
-| 25 | [37 Military Hospital](http://twitter.com/search?q=37+Military+Hospital) | N/A |
-| 26 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 27 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
-| 28 | [Shatta Wale's Music](http://twitter.com/search?q=Shatta+Wale%27s+Music) | N/A |
-| 29 | [Erik Ten Hag](http://twitter.com/search?q=Erik+Ten+Hag) | N/A |
-| 30 | [no phyna no buzz](http://twitter.com/search?q=no+phyna+no+buzz) | N/A |
-| 31 | [Brukina](http://twitter.com/search?q=Brukina) | N/A |
-| 32 | [phyna our pride](http://twitter.com/search?q=phyna+our+pride) | N/A |
-| 33 | [Bawku](http://twitter.com/search?q=Bawku) | N/A |
+| 6 | [Alidu](http://twitter.com/search?q=Alidu) | N/A |
+| 7 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 8 | [#PureDrive](http://twitter.com/search?q=%23PureDrive) | N/A |
+| 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 10 | [Nottingham Forest](http://twitter.com/search?q=Nottingham+Forest) | Nottingham Forest is an English professional football club based in Nottingham, England. The club was founded in 1865 and currently plays in the Championship, the second tier of English football. The club's nickname is "The Reds" due to their traditional red and white kit. Nottingham Forest has won two European Cups, four League Cups, one FA Cup, and two League titles. |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Karela](http://twitter.com/search?q=Karela) | N/A |
+| 13 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 14 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 15 | [#PatrioticSpaces](http://twitter.com/search?q=%23PatrioticSpaces) | N/A |
+| 16 | [Kotoko](http://twitter.com/search?q=Kotoko) | N/A |
+| 17 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 18 | [DSTV](http://twitter.com/search?q=DSTV) | N/A |
+| 19 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 20 | [#yesufie](http://twitter.com/search?q=%23yesufie) | N/A |
+| 21 | [37 Military Hospital](http://twitter.com/search?q=37+Military+Hospital) | N/A |
+| 22 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 23 | [Jaypee](http://twitter.com/search?q=Jaypee) | N/A |
+| 24 | [Bawku](http://twitter.com/search?q=Bawku) | N/A |
+| 25 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 26 | [Shatta Wale's Music](http://twitter.com/search?q=Shatta+Wale%27s+Music) | N/A |
+| 27 | [Erik Ten Hag](http://twitter.com/search?q=Erik+Ten+Hag) | N/A |
+| 28 | [no phyna no buzz](http://twitter.com/search?q=no+phyna+no+buzz) | N/A |
+| 29 | [Brukina](http://twitter.com/search?q=Brukina) | N/A |
+| 30 | [phyna our pride](http://twitter.com/search?q=phyna+our+pride) | N/A |
+| 31 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 32 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
+| 33 | [Ghana Armed Forces](http://twitter.com/search?q=Ghana+Armed+Forces) | N/A |
 | 34 | [Palm](http://twitter.com/search?q=Palm) | N/A |
-| 35 | [Enokay](http://twitter.com/search?q=Enokay) | N/A |
-| 36 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 37 | [Carrington](http://twitter.com/search?q=Carrington) | N/A |
-| 38 | [Juicy Jay](http://twitter.com/search?q=Juicy+Jay) | Juicy Jay is a brand of flavored rolling papers. The papers are made from hemp and come in a variety of flavors, such as strawberry, blueberry, watermelon, and more. The name "Juicy Jay" is derived from the fact that the papers are extra-long and extra-thick, making them juicy and flavorful when smoked. |
-| 39 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 40 | [Sportybet](http://twitter.com/search?q=Sportybet) | N/A |
-| 41 | [Ghana Armed Forces](http://twitter.com/search?q=Ghana+Armed+Forces) | N/A |
-| 42 | [YEMI CREGX OUR OWN](http://twitter.com/search?q=YEMI+CREGX+OUR+OWN) | N/A |
-| 43 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 44 | [QUESTION PHYNA](http://twitter.com/search?q=QUESTION+PHYNA) | N/A |
+| 35 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 37 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 38 | [ENOKAY](http://twitter.com/search?q=ENOKAY) | N/A |
+| 39 | [YEMI CREGX OUR OWN](http://twitter.com/search?q=YEMI+CREGX+OUR+OWN) | N/A |
+| 40 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 41 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 42 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 43 | [QUESTION PHYNA](http://twitter.com/search?q=QUESTION+PHYNA) | N/A |
+| 44 | [Dr. Osei Kwame](http://twitter.com/search?q=Dr.+Osei+Kwame) | N/A |
 | 45 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 | 46 | [rent masters](http://twitter.com/search?q=rent+masters) | N/A |
-| 47 | [Dede](http://twitter.com/search?q=Dede) | N/A |
-| 48 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 49 | [VOTE THABANA](http://twitter.com/search?q=VOTE+THABANA) | N/A |
-| 50 | [afia schwarzenegger](http://twitter.com/search?q=afia+schwarzenegger) | N/A |
+| 47 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 48 | [VOTE THABANA](http://twitter.com/search?q=VOTE+THABANA) | N/A |
+| 49 | [afia schwarzenegger](http://twitter.com/search?q=afia+schwarzenegger) | N/A |
+| 50 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 
 
 
