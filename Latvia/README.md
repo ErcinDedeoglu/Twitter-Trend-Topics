@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-02 02:39:53 UTC`
+📆 Last Updated: `2023-02-02 03:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for Latvia
 | 9 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 10 | [grevcovas](http://twitter.com/search?q=grevcovas) | N/A |
 | 11 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
-| 12 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 12 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 13 | [latvijas radio](http://twitter.com/search?q=latvijas+radio) | N/A |
-| 14 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 14 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
 | 15 | [#wfc2023](http://twitter.com/search?q=%23wfc2023) | N/A |
 | 16 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
 | 17 | [#kocēni](http://twitter.com/search?q=%23koc%c4%93ni) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Latvia
 | 28 | [daudz](http://twitter.com/search?q=daudz) | N/A |
 | 29 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
 | 30 | [rimi](http://twitter.com/search?q=rimi) | N/A |
-| 31 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
+| 31 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
 | 32 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
 | 33 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 | 34 | [Google](http://twitter.com/search?q=Google) | N/A |

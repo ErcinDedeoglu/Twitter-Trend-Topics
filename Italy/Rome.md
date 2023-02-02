@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-02 02:39:22 UTC`
+📆 Last Updated: `2023-02-02 03:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,34 +23,34 @@ This is top 50 for [Italy](</Italy>)
 | 6 | [Cagliostro](http://twitter.com/search?q=Cagliostro) | N/A |
 | 7 | [41bis](http://twitter.com/search?q=41bis) | N/A |
 | 8 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 9 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 9 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 10 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 11 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
+| 13 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
 | 14 | [Ballardini](http://twitter.com/search?q=Ballardini) | N/A |
 | 15 | [Paoletto](http://twitter.com/search?q=Paoletto) | N/A |
 | 16 | [Copasir](http://twitter.com/search?q=Copasir) | N/A |
 | 17 | [Luca](http://twitter.com/search?q=Luca) | N/A |
 | 18 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 19 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 20 | [Celik](http://twitter.com/search?q=Celik) | N/A |
-| 21 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 22 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
-| 23 | [Camera](http://twitter.com/search?q=Camera) | N/A |
-| 24 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 19 | [Celik](http://twitter.com/search?q=Celik) | N/A |
+| 20 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 21 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 22 | [Camera](http://twitter.com/search?q=Camera) | N/A |
+| 23 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 24 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
 | 25 | [Rosa Ricci](http://twitter.com/search?q=Rosa+Ricci) | N/A |
-| 26 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 27 | [Filip](http://twitter.com/search?q=Filip) | N/A |
-| 28 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 29 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 26 | [Filip](http://twitter.com/search?q=Filip) | N/A |
+| 27 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
+| 28 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 29 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
 | 30 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
-| 31 | [angelo duro](http://twitter.com/search?q=angelo+duro) | N/A |
-| 32 | [La Diamond](http://twitter.com/search?q=La+Diamond) | N/A |
-| 33 | [Palombelli](http://twitter.com/search?q=Palombelli) | N/A |
-| 34 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 35 | [Luana](http://twitter.com/search?q=Luana) | Luana is a female given name of Italian origin, derived from the Latin word luna, meaning "moon". It is also used as a Hawaiian name, where it means "enjoyment". |
-| 36 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 31 | [La Diamond](http://twitter.com/search?q=La+Diamond) | N/A |
+| 32 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 33 | [Luana](http://twitter.com/search?q=Luana) | Luana is a female given name of Italian origin, derived from the Latin word luna, meaning "moon". It is also used as a Hawaiian name, where it means "enjoyment". |
+| 34 | [Palombelli](http://twitter.com/search?q=Palombelli) | N/A |
+| 35 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 36 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
 | 37 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 38 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
 | 39 | [dimissioni](http://twitter.com/search?q=dimissioni) | N/A |

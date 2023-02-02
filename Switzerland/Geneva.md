@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-02 02:39:24 UTC`
+📆 Last Updated: `2023-02-02 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 3 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 4 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 5 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 6 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 6 | [zürich](http://twitter.com/search?q=z%c3%bcrich) | N/A |
 | 7 | [#eb152](http://twitter.com/search?q=%23eb152) | N/A |
 | 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 9 | [#HumanRights](http://twitter.com/search?q=%23HumanRights) | N/A |
@@ -42,27 +42,27 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 25 | [Dommage](http://twitter.com/search?q=Dommage) | N/A |
 | 26 | [Roger](http://twitter.com/search?q=Roger) | N/A |
 | 27 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 28 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
-| 29 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 32 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 33 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 34 | [Bern](http://twitter.com/search?q=Bern) | N/A |
-| 35 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 36 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [bedeutung](http://twitter.com/search?q=bedeutung) | N/A |
-| 39 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 40 | [Witz](http://twitter.com/search?q=Witz) | N/A |
-| 41 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 42 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 43 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 45 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
-| 46 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 47 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 48 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 28 | [mühe](http://twitter.com/search?q=m%c3%bche) | N/A |
+| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 33 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 34 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 35 | [Bern](http://twitter.com/search?q=Bern) | N/A |
+| 36 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
+| 37 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 40 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 41 | [Witz](http://twitter.com/search?q=Witz) | N/A |
+| 42 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 43 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 44 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
+| 47 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 48 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 
 
 

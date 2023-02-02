@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-02 02:39:50 UTC`
+📆 Last Updated: `2023-02-02 03:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -47,7 +47,7 @@ This is top 50 for Austria
 | 30 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
 | 31 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
 | 32 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 33 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 33 | [steuergeld](http://twitter.com/search?q=steuergeld) | N/A |
 | 34 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
 | 35 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
 | 36 | [#puls24](http://twitter.com/search?q=%23puls24) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Austria
 | 44 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 | 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 46 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
-| 47 | [projekte](http://twitter.com/search?q=projekte) | N/A |
+| 47 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
 | 48 | [babler](http://twitter.com/search?q=babler) | N/A |
 | 49 | [Druck](http://twitter.com/search?q=Druck) | N/A |
 | 50 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |

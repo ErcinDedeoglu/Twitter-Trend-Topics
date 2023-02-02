@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-02-02 02:39:33 UTC`
+📆 Last Updated: `2023-02-02 03:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,17 +16,17 @@ This is top 50 for [Ghana](</Ghana>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 2 | [Enokay](http://twitter.com/search?q=Enokay) | N/A |
-| 3 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 2 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 3 | [Enokay](http://twitter.com/search?q=Enokay) | N/A |
 | 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 6 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 7 | [DStv](http://twitter.com/search?q=DStv) | N/A |
-| 8 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 9 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 8 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 | 10 | [#asktwilight](http://twitter.com/search?q=%23asktwilight) | N/A |
-| 11 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 12 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
+| 11 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
+| 12 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 13 | [#yesufie](http://twitter.com/search?q=%23yesufie) | N/A |
 | 14 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
 | 15 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
@@ -53,18 +53,18 @@ This is top 50 for [Ghana](</Ghana>)
 | 36 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
 | 37 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
 | 38 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 39 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 40 | [kennedy agyapong](http://twitter.com/search?q=kennedy+agyapong) | N/A |
-| 41 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 42 | [Kwesi Arthur](http://twitter.com/search?q=Kwesi+Arthur) | N/A |
-| 43 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 44 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 45 | [gold for oil](http://twitter.com/search?q=gold+for+oil) | N/A |
+| 39 | [kennedy agyapong](http://twitter.com/search?q=kennedy+agyapong) | N/A |
+| 40 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 41 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 42 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 43 | [gold for oil](http://twitter.com/search?q=gold+for+oil) | N/A |
+| 44 | [Kwesi Arthur](http://twitter.com/search?q=Kwesi+Arthur) | N/A |
+| 45 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 46 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 47 | [Shatta Wale's Music](http://twitter.com/search?q=Shatta+Wale%27s+Music) | N/A |
 | 48 | [Compact](http://twitter.com/search?q=Compact) | N/A |
 | 49 | [Vgma](http://twitter.com/search?q=Vgma) | N/A |
-| 50 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 50 | [Sanitizer](http://twitter.com/search?q=Sanitizer) | N/A |
 
 
 

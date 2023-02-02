@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-02 02:39:53 UTC`
+📆 Last Updated: `2023-02-02 03:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,25 +43,25 @@ This is top 50 for Lebanon
 | 26 | [عين التينه](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%aa%d9%8a%d9%86%d9%87) | N/A |
 | 27 | [10 رجب](http://twitter.com/search?q=10+%d8%b1%d8%ac%d8%a8) | N/A |
 | 28 | [sayrafa](http://twitter.com/search?q=sayrafa) | N/A |
-| 29 | [شهر شباط](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
-| 30 | [علي محقق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%82%d9%82) | N/A |
-| 31 | [الاستراتيجيه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 32 | [جواد الايمه](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%8a%d9%85%d9%87) | N/A |
-| 33 | [المطارنه الموارنه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d9%86%d9%87) | N/A |
-| 34 | [طريق ضهر البيدر](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%b6%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%af%d8%b1) | N/A |
-| 35 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 36 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 37 | [الطرقات الجبليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%a8%d9%84%d9%8a%d9%87) | N/A |
-| 38 | [القرار الظني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1+%d8%a7%d9%84%d8%b8%d9%86%d9%8a) | N/A |
-| 39 | [٧ ايار](http://twitter.com/search?q=%d9%a7+%d8%a7%d9%8a%d8%a7%d8%b1) | N/A |
-| 40 | [الثنايي الشيعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%b4%d9%8a%d8%b9%d9%8a) | N/A |
-| 41 | [الاستحقاق الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d9%82+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 42 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
-| 43 | [HEART WANTS WHAT IT WANTS](http://twitter.com/search?q=HEART+WANTS+WHAT+IT+WANTS) | N/A |
-| 44 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 45 | [القوات الروسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d9%87) | N/A |
-| 46 | [i am by bebe rexha](http://twitter.com/search?q=i+am+by+bebe+rexha) | N/A |
-| 47 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
+| 29 | [علي محقق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%82%d9%82) | N/A |
+| 30 | [الاستراتيجيه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 31 | [جواد الايمه](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%8a%d9%85%d9%87) | N/A |
+| 32 | [المطارنه الموارنه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d9%86%d9%87) | N/A |
+| 33 | [طريق ضهر البيدر](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%b6%d9%87%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%af%d8%b1) | N/A |
+| 34 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 35 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 36 | [الطرقات الجبليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%a8%d9%84%d9%8a%d9%87) | N/A |
+| 37 | [القرار الظني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1+%d8%a7%d9%84%d8%b8%d9%86%d9%8a) | N/A |
+| 38 | [٧ ايار](http://twitter.com/search?q=%d9%a7+%d8%a7%d9%8a%d8%a7%d8%b1) | N/A |
+| 39 | [الثنايي الشيعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%b4%d9%8a%d8%b9%d9%8a) | N/A |
+| 40 | [الاستحقاق الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d9%82+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 41 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
+| 42 | [HEART WANTS WHAT IT WANTS](http://twitter.com/search?q=HEART+WANTS+WHAT+IT+WANTS) | N/A |
+| 43 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 44 | [القوات الروسيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d9%87) | N/A |
+| 45 | [i am by bebe rexha](http://twitter.com/search?q=i+am+by+bebe+rexha) | N/A |
+| 46 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
+| 47 | [شهر شباط](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
 | 48 | [عقل هاشم](http://twitter.com/search?q=%d8%b9%d9%82%d9%84+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
 | 49 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 50 | [الطقس العاصف](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%82%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%81) | N/A |

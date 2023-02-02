@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-02-02 02:39:33 UTC`
+📆 Last Updated: `2023-02-02 03:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 4 | [#ObiDattiInSokoto](http://twitter.com/search?q=%23ObiDattiInSokoto) | N/A |
 | 5 | [#February2023](http://twitter.com/search?q=%23February2023) | N/A |
 | 6 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 7 | [#februarywish](http://twitter.com/search?q=%23februarywish) | N/A |
-| 8 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 7 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 8 | [#februarywish](http://twitter.com/search?q=%23februarywish) | N/A |
 | 9 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
 | 10 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 11 | [#MUNNFO](http://twitter.com/search?q=%23MUNNFO) | N/A |
@@ -36,8 +36,8 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 19 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
 | 20 | [Folarin Balogun](http://twitter.com/search?q=Folarin+Balogun) | N/A |
 | 21 | [no phyna no buzz](http://twitter.com/search?q=no+phyna+no+buzz) | N/A |
-| 22 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
-| 23 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
+| 22 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
+| 23 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
 | 24 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
 | 25 | [Osas](http://twitter.com/search?q=Osas) | N/A |
 | 26 | [Maya](http://twitter.com/search?q=Maya) | N/A |
@@ -48,22 +48,22 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 31 | [El-Rufai](http://twitter.com/search?q=El-Rufai) | N/A |
 | 32 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 33 | [toni tones](http://twitter.com/search?q=toni+tones) | N/A |
-| 34 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 35 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
-| 36 | [No Cash](http://twitter.com/search?q=No+Cash) | N/A |
-| 37 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 38 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
-| 39 | [MAN LIKE YEMI CREGX](http://twitter.com/search?q=MAN+LIKE+YEMI+CREGX) | N/A |
-| 40 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 41 | [May February](http://twitter.com/search?q=May+February) | N/A |
-| 42 | [unbreakable shella](http://twitter.com/search?q=unbreakable+shella) | N/A |
-| 43 | [we love shella](http://twitter.com/search?q=we+love+shella) | N/A |
-| 44 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
-| 45 | [my vote is for peter obi](http://twitter.com/search?q=my+vote+is+for+peter+obi) | N/A |
-| 46 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 47 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 48 | [stabilizer](http://twitter.com/search?q=stabilizer) | N/A |
-| 49 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 34 | [Congratulations David](http://twitter.com/search?q=Congratulations+David) | N/A |
+| 35 | [No Cash](http://twitter.com/search?q=No+Cash) | N/A |
+| 36 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
+| 37 | [man like yemi cregx](http://twitter.com/search?q=man+like+yemi+cregx) | N/A |
+| 38 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 39 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 40 | [unbreakable shella](http://twitter.com/search?q=unbreakable+shella) | N/A |
+| 41 | [we love shella](http://twitter.com/search?q=we+love+shella) | N/A |
+| 42 | [January Dump](http://twitter.com/search?q=January+Dump) | N/A |
+| 43 | [my vote is for peter obi](http://twitter.com/search?q=my+vote+is+for+peter+obi) | N/A |
+| 44 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 46 | [stabilizer](http://twitter.com/search?q=stabilizer) | N/A |
+| 47 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 48 | [Genk](http://twitter.com/search?q=Genk) | N/A |
+| 49 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
 
 
 

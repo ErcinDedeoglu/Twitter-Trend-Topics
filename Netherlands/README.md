@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-02 02:39:54 UTC`
+📆 Last Updated: `2023-02-02 03:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
-| 2 | [#rkcgae](http://twitter.com/search?q=%23rkcgae) | N/A |
+| 2 | [#rkcGAE](http://twitter.com/search?q=%23rkcGAE) | N/A |
 | 3 | [#watersnoodramp](http://twitter.com/search?q=%23watersnoodramp) | N/A |
-| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 5 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
-| 6 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | N/A |
+| 4 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | N/A |
+| 5 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 6 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
 | 7 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
 | 8 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
@@ -39,32 +39,32 @@ This is top 50 for Netherlands
 | 22 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
 | 23 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
 | 24 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 25 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 26 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 27 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 25 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 26 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 27 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
 | 28 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
-| 29 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 30 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 31 | [Arjan](http://twitter.com/search?q=Arjan) | N/A |
-| 32 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 33 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
-| 34 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 30 | [Arjan](http://twitter.com/search?q=Arjan) | N/A |
+| 31 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 32 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
+| 33 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 34 | [jolien](http://twitter.com/search?q=jolien) | N/A |
 | 35 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
-| 36 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 37 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 38 | [elvis manu](http://twitter.com/search?q=elvis+manu) | N/A |
-| 39 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 40 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
-| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 42 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
-| 43 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
-| 44 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 45 | [vraagje](http://twitter.com/search?q=vraagje) | N/A |
-| 46 | [huub](http://twitter.com/search?q=huub) | N/A |
-| 47 | [Labyad](http://twitter.com/search?q=Labyad) | N/A |
-| 48 | [rechten van de mens](http://twitter.com/search?q=rechten+van+de+mens) | N/A |
-| 49 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 50 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 36 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 37 | [elvis manu](http://twitter.com/search?q=elvis+manu) | N/A |
+| 38 | [maarten](http://twitter.com/search?q=maarten) | N/A |
+| 39 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
+| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 41 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
+| 42 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 43 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 44 | [vraagje](http://twitter.com/search?q=vraagje) | N/A |
+| 45 | [huub](http://twitter.com/search?q=huub) | N/A |
+| 46 | [Labyad](http://twitter.com/search?q=Labyad) | N/A |
+| 47 | [rechten van de mens](http://twitter.com/search?q=rechten+van+de+mens) | N/A |
+| 48 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 49 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 50 | [Waalwijk](http://twitter.com/search?q=Waalwijk) | N/A |
 
 
 

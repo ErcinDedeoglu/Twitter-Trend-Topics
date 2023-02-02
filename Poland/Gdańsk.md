@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-02 02:39:18 UTC`
+📆 Last Updated: `2023-02-02 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,23 +15,23 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MIELPO](http://twitter.com/search?q=%23MIELPO) | N/A |
-| 2 | [Leonard Pietraszak](http://twitter.com/search?q=Leonard+Pietraszak) | N/A |
-| 3 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
-| 4 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 1 | [#mielpo](http://twitter.com/search?q=%23mielpo) | N/A |
+| 2 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
+| 3 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 4 | [Leonard Pietraszak](http://twitter.com/search?q=Leonard+Pietraszak) | N/A |
 | 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 6 | [#theroseinwarsaw](http://twitter.com/search?q=%23theroseinwarsaw) | N/A |
 | 7 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
 | 8 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
 | 9 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 10 | [Szymczak](http://twitter.com/search?q=Szymczak) | N/A |
+| 10 | [szymczak](http://twitter.com/search?q=szymczak) | N/A |
 | 11 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 | 12 | [vabank](http://twitter.com/search?q=vabank) | N/A |
 | 13 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
 | 14 | [skok](http://twitter.com/search?q=skok) | N/A |
-| 15 | [davo](http://twitter.com/search?q=davo) | N/A |
+| 15 | [Davo](http://twitter.com/search?q=Davo) | N/A |
 | 16 | [Sykulskiego](http://twitter.com/search?q=Sykulskiego) | N/A |
-| 17 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 17 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
 | 18 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
 | 19 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
 | 20 | [Robert Lewandowski](http://twitter.com/search?q=Robert+Lewandowski) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Poland](</Poland>)
 | 34 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 35 | [sikorskim](http://twitter.com/search?q=sikorskim) | N/A |
 | 36 | [miedzią](http://twitter.com/search?q=miedzi%c4%85) | N/A |
-| 37 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 37 | [dziambor](http://twitter.com/search?q=dziambor) | N/A |
 | 38 | [Grodzki](http://twitter.com/search?q=Grodzki) | N/A |
 | 39 | [czechami](http://twitter.com/search?q=czechami) | N/A |
 | 40 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
@@ -59,7 +59,7 @@ This is top 50 for [Poland](</Poland>)
 | 42 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 43 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 44 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
-| 45 | [Ursynowie](http://twitter.com/search?q=Ursynowie) | N/A |
+| 45 | [ursynowie](http://twitter.com/search?q=ursynowie) | N/A |
 | 46 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
 | 47 | [klubowe](http://twitter.com/search?q=klubowe) | N/A |
 | 48 | [T-72](http://twitter.com/search?q=T-72) | N/A |

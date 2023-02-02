@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-02 02:39:32 UTC`
+📆 Last Updated: `2023-02-02 03:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Philippines](</Philippines>)
 | 6 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
 | 7 | [#MCIKutob](http://twitter.com/search?q=%23MCIKutob) | N/A |
 | 8 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 9 | [Micky](http://twitter.com/search?q=Micky) | N/A |
-| 10 | [D-2 COMPLEX EP RELEASE](http://twitter.com/search?q=D-2+COMPLEX+EP+RELEASE) | N/A |
-| 11 | [D2 ChoreograSTELL](http://twitter.com/search?q=D2+ChoreograSTELL) | N/A |
-| 12 | [one two connect](http://twitter.com/search?q=one+two+connect) | N/A |
+| 9 | [D-2 COMPLEX EP RELEASE](http://twitter.com/search?q=D-2+COMPLEX+EP+RELEASE) | N/A |
+| 10 | [Micky](http://twitter.com/search?q=Micky) | N/A |
+| 11 | [one two connect](http://twitter.com/search?q=one+two+connect) | N/A |
+| 12 | [D2 ChoreograSTELL](http://twitter.com/search?q=D2+ChoreograSTELL) | N/A |
 | 13 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
-| 14 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
-| 15 | [powerfuldonbelle withsmart](http://twitter.com/search?q=powerfuldonbelle+withsmart) | N/A |
-| 16 | [MAY POGI NA SA PINAS](http://twitter.com/search?q=MAY+POGI+NA+SA+PINAS) | N/A |
-| 17 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 14 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 15 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
+| 16 | [powerfuldonbelle withsmart](http://twitter.com/search?q=powerfuldonbelle+withsmart) | N/A |
+| 17 | [MAY POGI NA SA PINAS](http://twitter.com/search?q=MAY+POGI+NA+SA+PINAS) | N/A |
 | 18 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 19 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 20 | [BSS HIGHLIGHT MEDLEY](http://twitter.com/search?q=BSS+HIGHLIGHT+MEDLEY) | BSS HIGHLIGHT MEDLEY is a compilation of songs from the Japanese pop group BSS (BananaLemon, SmileYa, and SevenOops). It is a collection of some of their most popular and memorable songs. The English translation of the phrase would be "BSS Best Hits Medley". |
+| 19 | [BSS HIGHLIGHT MEDLEY](http://twitter.com/search?q=BSS+HIGHLIGHT+MEDLEY) | BSS HIGHLIGHT MEDLEY is a compilation of songs from the Japanese pop group BSS (BananaLemon, SmileYa, and SevenOops). It is a collection of some of their most popular and memorable songs. The English translation of the phrase would be "BSS Best Hits Medley". |
+| 20 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
 | 21 | [we gotchu always kd](http://twitter.com/search?q=we+gotchu+always+kd) | N/A |
 | 22 | [alexas bday in25days](http://twitter.com/search?q=alexas+bday+in25days) | N/A |
 | 23 | [Xyriel](http://twitter.com/search?q=Xyriel) | N/A |
 | 24 | [BELLEntines WithDUNKIN](http://twitter.com/search?q=BELLEntines+WithDUNKIN) | N/A |
 | 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 26 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 27 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
-| 28 | [darlentina the clash](http://twitter.com/search?q=darlentina+the+clash) | N/A |
-| 29 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 30 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
-| 31 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 32 | [safe skies](http://twitter.com/search?q=safe+skies) | N/A |
-| 33 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 34 | [andrea gemofastar](http://twitter.com/search?q=andrea+gemofastar) | N/A |
-| 35 | [Lloyd Austin](http://twitter.com/search?q=Lloyd+Austin) | N/A |
-| 36 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 37 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 38 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
-| 39 | [YADHTRIB NA NI SSOB YMOREJ](http://twitter.com/search?q=YADHTRIB+NA+NI+SSOB+YMOREJ) | N/A |
+| 26 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
+| 27 | [darlentina the clash](http://twitter.com/search?q=darlentina+the+clash) | N/A |
+| 28 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 29 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
+| 30 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 31 | [safe skies](http://twitter.com/search?q=safe+skies) | N/A |
+| 32 | [andrea gemofastar](http://twitter.com/search?q=andrea+gemofastar) | N/A |
+| 33 | [Lloyd Austin](http://twitter.com/search?q=Lloyd+Austin) | N/A |
+| 34 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 35 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 36 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
+| 37 | [YADHTRIB NA NI SSOB YMOREJ](http://twitter.com/search?q=YADHTRIB+NA+NI+SSOB+YMOREJ) | N/A |
+| 38 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 39 | [Davao de Oro](http://twitter.com/search?q=Davao+de+Oro) | N/A |
 | 40 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
 | 41 | [special going bss episode](http://twitter.com/search?q=special+going+bss+episode) | N/A |
 | 42 | [WELCOME BABYMONSTER PHARITA](http://twitter.com/search?q=WELCOME+BABYMONSTER+PHARITA) | "WELCOME BABYMONSTER PHARITA" is a phrase used to express joy and excitement at the arrival of a new baby. It is typically used as a greeting or congratulatory message for the parents of the newborn. In English, it can be translated to "Congratulations on the arrival of your new baby!" |
 | 43 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
-| 44 | [I JUST WOKE UP](http://twitter.com/search?q=I+JUST+WOKE+UP) | N/A |
-| 45 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 46 | [WALANG MATUTULOG](http://twitter.com/search?q=WALANG+MATUTULOG) | N/A |
-| 47 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
+| 44 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 45 | [WALANG MATUTULOG](http://twitter.com/search?q=WALANG+MATUTULOG) | N/A |
+| 46 | [OUR PURPLE LIGHT JK](http://twitter.com/search?q=OUR+PURPLE+LIGHT+JK) | "OUR PURPLE LIGHT JK" is a phrase used by fans of the Japanese pop group, AKB48. It is a reference to the group's official color, purple, and is used as a show of support for the group. In English, it can be translated to mean "We are with AKB48." |
+| 47 | [NAIA](http://twitter.com/search?q=NAIA) | N/A |
 | 48 | [Reverence to God](http://twitter.com/search?q=Reverence+to+God) | N/A |
 
 

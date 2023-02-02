@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-02 02:39:56 UTC`
+📆 Last Updated: `2023-02-02 03:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,16 +16,16 @@ This is top 50 for Ukraine
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Kramatorsk](http://twitter.com/search?q=%23Kramatorsk) | N/A |
-| 2 | [#russiaisateroriststate](http://twitter.com/search?q=%23russiaisateroriststate) | N/A |
-| 3 | [Саакашвили](http://twitter.com/search?q=%d0%a1%d0%b0%d0%b0%d0%ba%d0%b0%d1%88%d0%b2%d0%b8%d0%bb%d0%b8) | N/A |
-| 4 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 5 | [Georgian](http://twitter.com/search?q=Georgian) | N/A |
-| 6 | [Коломойского](http://twitter.com/search?q=%d0%9a%d0%be%d0%bb%d0%be%d0%bc%d0%be%d0%b9%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 7 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 8 | [#NationalizeGoogle](http://twitter.com/search?q=%23NationalizeGoogle) | N/A |
-| 9 | [Чонгука](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 10 | [#Austria](http://twitter.com/search?q=%23Austria) | N/A |
-| 11 | [#tezos](http://twitter.com/search?q=%23tezos) | N/A |
+| 2 | [Саакашвили](http://twitter.com/search?q=%d0%a1%d0%b0%d0%b0%d0%ba%d0%b0%d1%88%d0%b2%d0%b8%d0%bb%d0%b8) | N/A |
+| 3 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 4 | [#russiaisateroriststate](http://twitter.com/search?q=%23russiaisateroriststate) | N/A |
+| 5 | [#russiaisateroriststate](http://twitter.com/search?q=%23russiaisateroriststate) | N/A |
+| 6 | [Georgian](http://twitter.com/search?q=Georgian) | N/A |
+| 7 | [Коломойского](http://twitter.com/search?q=%d0%9a%d0%be%d0%bb%d0%be%d0%bc%d0%be%d0%b9%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 8 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 9 | [#NationalizeGoogle](http://twitter.com/search?q=%23NationalizeGoogle) | N/A |
+| 10 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 11 | [#Austria](http://twitter.com/search?q=%23Austria) | N/A |
 | 12 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 | 13 | [Washington](http://twitter.com/search?q=Washington) | N/A |
 | 14 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Ukraine
 | 30 | [Сталина](http://twitter.com/search?q=%d0%a1%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b0) | N/A |
 | 31 | [В Украине](http://twitter.com/search?q=%d0%92+%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 32 | [кадыров](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b4%d1%8b%d1%80%d0%be%d0%b2) | N/A |
-| 33 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
-| 34 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
-| 35 | [Крыму](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d1%83) | N/A |
-| 36 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 37 | [воно](http://twitter.com/search?q=%d0%b2%d0%be%d0%bd%d0%be) | N/A |
-| 38 | [мелитополе](http://twitter.com/search?q=%d0%bc%d0%b5%d0%bb%d0%b8%d1%82%d0%be%d0%bf%d0%be%d0%bb%d0%b5) | N/A |
-| 39 | [база](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b7%d0%b0) | N/A |
-| 40 | [польшу](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
-| 41 | [каким](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%b8%d0%bc) | N/A |
-| 42 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | N/A |
-| 43 | [чувак](http://twitter.com/search?q=%d1%87%d1%83%d0%b2%d0%b0%d0%ba) | N/A |
-| 44 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 45 | [Израиле](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d0%b5) | N/A |
-| 46 | [донбассе](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b5) | N/A |
-| 47 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 48 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 49 | [вона](http://twitter.com/search?q=%d0%b2%d0%be%d0%bd%d0%b0) | N/A |
-| 50 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 33 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
+| 34 | [Крыму](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d1%83) | N/A |
+| 35 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 36 | [воно](http://twitter.com/search?q=%d0%b2%d0%be%d0%bd%d0%be) | N/A |
+| 37 | [мелитополе](http://twitter.com/search?q=%d0%bc%d0%b5%d0%bb%d0%b8%d1%82%d0%be%d0%bf%d0%be%d0%bb%d0%b5) | N/A |
+| 38 | [База](http://twitter.com/search?q=%d0%91%d0%b0%d0%b7%d0%b0) | N/A |
+| 39 | [польшу](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
+| 40 | [каким](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%b8%d0%bc) | N/A |
+| 41 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | N/A |
+| 42 | [чувак](http://twitter.com/search?q=%d1%87%d1%83%d0%b2%d0%b0%d0%ba) | N/A |
+| 43 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 44 | [израиле](http://twitter.com/search?q=%d0%b8%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d0%b5) | N/A |
+| 45 | [донбассе](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b5) | N/A |
+| 46 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 47 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 48 | [вона](http://twitter.com/search?q=%d0%b2%d0%be%d0%bd%d0%b0) | N/A |
+| 49 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 50 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 
 
 

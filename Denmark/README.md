@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-02 02:39:51 UTC`
+📆 Last Updated: `2023-02-02 03:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Denmark
 | 4 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
 | 5 | [kvickly](http://twitter.com/search?q=kvickly) | N/A |
 | 6 | [Winther](http://twitter.com/search?q=Winther) | N/A |
-| 7 | [Meny](http://twitter.com/search?q=Meny) | N/A |
+| 7 | [meny](http://twitter.com/search?q=meny) | N/A |
 | 8 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
 | 9 | [superbrugsen](http://twitter.com/search?q=superbrugsen) | N/A |
 | 10 | [Netto](http://twitter.com/search?q=Netto) | N/A |

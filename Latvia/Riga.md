@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-02 02:39:25 UTC`
+📆 Last Updated: `2023-02-02 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 9 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 10 | [grevcovas](http://twitter.com/search?q=grevcovas) | N/A |
 | 11 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
-| 12 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 12 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 13 | [latvijas radio](http://twitter.com/search?q=latvijas+radio) | N/A |
-| 14 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 14 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
 | 15 | [#wfc2023](http://twitter.com/search?q=%23wfc2023) | N/A |
 | 16 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
 | 17 | [#kocēni](http://twitter.com/search?q=%23koc%c4%93ni) | N/A |

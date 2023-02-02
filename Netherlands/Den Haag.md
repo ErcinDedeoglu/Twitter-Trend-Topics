@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-02 02:39:23 UTC`
+📆 Last Updated: `2023-02-02 03:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,32 +35,32 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 18 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
 | 19 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
 | 20 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 21 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 22 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 23 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 24 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
-| 25 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 26 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 27 | [Arjan](http://twitter.com/search?q=Arjan) | N/A |
-| 28 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 29 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
-| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 21 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 22 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 23 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
+| 24 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 25 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 26 | [Arjan](http://twitter.com/search?q=Arjan) | N/A |
+| 27 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 28 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
+| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 30 | [jolien](http://twitter.com/search?q=jolien) | N/A |
 | 31 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
-| 32 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 33 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 34 | [elvis manu](http://twitter.com/search?q=elvis+manu) | N/A |
-| 35 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 36 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
-| 37 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 38 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
-| 39 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
-| 40 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 41 | [vraagje](http://twitter.com/search?q=vraagje) | N/A |
-| 42 | [huub](http://twitter.com/search?q=huub) | N/A |
-| 43 | [Labyad](http://twitter.com/search?q=Labyad) | N/A |
-| 44 | [rechten van de mens](http://twitter.com/search?q=rechten+van+de+mens) | N/A |
-| 45 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 46 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 32 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 33 | [elvis manu](http://twitter.com/search?q=elvis+manu) | N/A |
+| 34 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 35 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
+| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 37 | [van aanholt](http://twitter.com/search?q=van+aanholt) | N/A |
+| 38 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 39 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 40 | [vraagje](http://twitter.com/search?q=vraagje) | N/A |
+| 41 | [huub](http://twitter.com/search?q=huub) | N/A |
+| 42 | [Labyad](http://twitter.com/search?q=Labyad) | N/A |
+| 43 | [rechten van de mens](http://twitter.com/search?q=rechten+van+de+mens) | N/A |
+| 44 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 45 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 46 | [Waalwijk](http://twitter.com/search?q=Waalwijk) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-02 02:39:25 UTC`
+📆 Last Updated: `2023-02-02 03:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
 | 2 | [Coop](http://twitter.com/search?q=Coop) | N/A |
 | 3 | [#af2023](http://twitter.com/search?q=%23af2023) | N/A |
-| 4 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
+| 4 | [#deadlineday](http://twitter.com/search?q=%23deadlineday) | N/A |
 | 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 6 | [Flyr](http://twitter.com/search?q=Flyr) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [karlsbakk](http://twitter.com/search?q=karlsbakk) | N/A |
-| 9 | [lykke](http://twitter.com/search?q=lykke) | N/A |
+| 7 | [karlsbakk](http://twitter.com/search?q=karlsbakk) | N/A |
+| 8 | [lykke](http://twitter.com/search?q=lykke) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 10 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 12 | [#energikommisjonen](http://twitter.com/search?q=%23energikommisjonen) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for [Norway](</Norway>)
 | 22 | [norgesgruppen](http://twitter.com/search?q=norgesgruppen) | N/A |
 | 23 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 25 | [Enøk](http://twitter.com/search?q=En%c3%b8k) | N/A |
+| 25 | [enøk](http://twitter.com/search?q=en%c3%b8k) | N/A |
 | 26 | [Rema](http://twitter.com/search?q=Rema) | N/A |
 | 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 28 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
@@ -52,7 +52,7 @@ This is top 50 for [Norway](</Norway>)
 | 35 | [russlands](http://twitter.com/search?q=russlands) | N/A |
 | 36 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
 | 37 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
-| 38 | [jupp](http://twitter.com/search?q=jupp) | N/A |
+| 38 | [Jupp](http://twitter.com/search?q=Jupp) | N/A |
 | 39 | [berisha](http://twitter.com/search?q=berisha) | N/A |
 | 40 | [Kommer](http://twitter.com/search?q=Kommer) | N/A |
 | 41 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |

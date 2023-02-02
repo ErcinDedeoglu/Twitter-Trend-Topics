@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-02 02:39:51 UTC`
+📆 Last Updated: `2023-02-02 03:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,13 +21,13 @@ This is top 50 for Belgium
 | 4 | [Roger](http://twitter.com/search?q=Roger) | N/A |
 | 5 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
 | 6 | [#euclimatepact](http://twitter.com/search?q=%23euclimatepact) | N/A |
-| 7 | [#eugreendeal](http://twitter.com/search?q=%23eugreendeal) | N/A |
+| 7 | [#EUGreenDeal](http://twitter.com/search?q=%23EUGreenDeal) | N/A |
 | 8 | [fredberg](http://twitter.com/search?q=fredberg) | N/A |
 | 9 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
 | 10 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
 | 11 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 12 | [Tihange 2](http://twitter.com/search?q=Tihange+2) | N/A |
-| 13 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 12 | [tihange 2](http://twitter.com/search?q=tihange+2) | N/A |
+| 13 | [jolien](http://twitter.com/search?q=jolien) | N/A |
 | 14 | [stassin](http://twitter.com/search?q=stassin) | N/A |
 | 15 | [Green Deal Industrial Plan](http://twitter.com/search?q=Green+Deal+Industrial+Plan) | N/A |
 | 16 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |

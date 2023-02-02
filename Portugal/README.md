@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-02 02:39:55 UTC`
+📆 Last Updated: `2023-02-02 03:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,27 +22,27 @@ This is top 50 for Portugal
 | 5 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
 | 6 | [Pote](http://twitter.com/search?q=Pote) | N/A |
 | 7 | [Marítimo](http://twitter.com/search?q=Mar%c3%adtimo) | N/A |
-| 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 9 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 8 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 10 | [#JanelaDaBru](http://twitter.com/search?q=%23JanelaDaBru) | N/A |
 | 11 | [bernardo folha](http://twitter.com/search?q=bernardo+folha) | N/A |
 | 12 | [Morita](http://twitter.com/search?q=Morita) | N/A |
 | 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 15 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 16 | [Alvalade](http://twitter.com/search?q=Alvalade) | N/A |
-| 17 | [chiquinho](http://twitter.com/search?q=chiquinho) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 20 | [Artur Jorge](http://twitter.com/search?q=Artur+Jorge) | N/A |
+| 14 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 15 | [Alvalade](http://twitter.com/search?q=Alvalade) | N/A |
+| 16 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 17 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 18 | [chiquinho](http://twitter.com/search?q=chiquinho) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 21 | [Matheus Reis](http://twitter.com/search?q=Matheus+Reis) | N/A |
 | 22 | [#SCPSCB](http://twitter.com/search?q=%23SCPSCB) | N/A |
 | 23 | [Pizzi](http://twitter.com/search?q=Pizzi) | N/A |
 | 24 | [#FCPorto](http://twitter.com/search?q=%23FCPorto) | N/A |
 | 25 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
-| 26 | [Porrito](http://twitter.com/search?q=Porrito) | N/A |
+| 26 | [porrito](http://twitter.com/search?q=porrito) | N/A |
 | 27 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 28 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 28 | [Artur Jorge](http://twitter.com/search?q=Artur+Jorge) | N/A |
 | 29 | [#brunardo](http://twitter.com/search?q=%23brunardo) | N/A |
 | 30 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
 | 31 | [St Juste](http://twitter.com/search?q=St+Juste) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Portugal
 | 40 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
 | 41 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
 | 42 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 43 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 44 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 45 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 46 | [Sérgio](http://twitter.com/search?q=S%c3%a9rgio) | N/A |
-| 47 | [Fran Navarro](http://twitter.com/search?q=Fran+Navarro) | N/A |
-| 48 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 49 | [zaidu](http://twitter.com/search?q=zaidu) | N/A |
-| 50 | [eustáquio](http://twitter.com/search?q=eust%c3%a1quio) | N/A |
+| 43 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 44 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 45 | [Sérgio](http://twitter.com/search?q=S%c3%a9rgio) | N/A |
+| 46 | [Fran Navarro](http://twitter.com/search?q=Fran+Navarro) | N/A |
+| 47 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 48 | [zaidu](http://twitter.com/search?q=zaidu) | N/A |
+| 49 | [eustáquio](http://twitter.com/search?q=eust%c3%a1quio) | N/A |
+| 50 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
 
 
 
