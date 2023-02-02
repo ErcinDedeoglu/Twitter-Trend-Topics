@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-02 01:44:44 UTC`
+📆 Last Updated: `2023-02-02 02:39:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,16 +17,16 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [в минске](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
 | 2 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 3 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 4 | [Зимбабве](http://twitter.com/search?q=%d0%97%d0%b8%d0%bc%d0%b1%d0%b0%d0%b1%d0%b2%d0%b5) | N/A |
+| 3 | [зимбабве](http://twitter.com/search?q=%d0%b7%d0%b8%d0%bc%d0%b1%d0%b0%d0%b1%d0%b2%d0%b5) | N/A |
+| 4 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
 | 5 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
-| 6 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
+| 6 | [обожаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
 | 7 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
 | 8 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
 | 9 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
-| 10 | [обязательно](http://twitter.com/search?q=%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 11 | [#YouTubeAgainstHumanity](http://twitter.com/search?q=%23YouTubeAgainstHumanity) | N/A |
-| 12 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 10 | [ОБЯЗАТЕЛЬНО](http://twitter.com/search?q=%d0%9e%d0%91%d0%af%d0%97%d0%90%d0%a2%d0%95%d0%9b%d0%ac%d0%9d%d0%9e) | N/A |
+| 11 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 12 | [#YouTubeAgainstHumanity](http://twitter.com/search?q=%23YouTubeAgainstHumanity) | N/A |
 | 13 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
 | 14 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
 | 15 | [в могилеве](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%be%d0%b3%d0%b8%d0%bb%d0%b5%d0%b2%d0%b5) | N/A |

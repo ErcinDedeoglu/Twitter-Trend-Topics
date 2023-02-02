@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-02-02 01:44:39 UTC`
+📆 Last Updated: `2023-02-02 02:39:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 2 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 3 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
-| 4 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 5 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 1 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
+| 2 | [Pledge of Allegiance](http://twitter.com/search?q=Pledge+of+Allegiance) | The Pledge of Allegiance is a patriotic oath to the United States of America. It is typically recited in unison at public events and school assemblies. The Pledge reads: "I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all." The Pledge is a promise of loyalty and commitment to the United States and its values. |
+| 3 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
+| 4 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 5 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
 | 6 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 7 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
-| 8 | [Stidham](http://twitter.com/search?q=Stidham) | Stidham is a surname of English origin. It is derived from the Old English words "stig" meaning "path" and "ham" meaning "homestead". The name was originally given to someone who lived near a path or road. |
-| 9 | [Renaissance](http://twitter.com/search?q=Renaissance) | N/A |
-| 10 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
-| 11 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 12 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 13 | [Hulu](http://twitter.com/search?q=Hulu) | N/A |
-| 14 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 15 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 16 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 17 | [#SchoolhouseRock50Singalong](http://twitter.com/search?q=%23SchoolhouseRock50Singalong) | N/A |
-| 18 | [The Celtics](http://twitter.com/search?q=The+Celtics) | The Celtics is a professional basketball team based in Boston, Massachusetts. The team is part of the Atlantic Division of the Eastern Conference in the National Basketball Association (NBA). The Celtics are one of the most successful and storied franchises in NBA history, having won 17 championships since their founding in 1946. |
-| 19 | [Mason Gillis](http://twitter.com/search?q=Mason+Gillis) | Mason Gillis is a surname of Scottish origin. It is derived from the Old English words "gill" meaning "servant" and "maesen" meaning "stone". The name can be translated to mean "servant of the stone". |
-| 20 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
-| 21 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 22 | [Hangman](http://twitter.com/search?q=Hangman) | Hangman is a classic word guessing game. The goal of the game is to guess the hidden word before the man is "hung" (all parts of his body are drawn). The player guesses one letter at a time, and if the letter is not in the word, then a part of the man's body is drawn. If all parts of the man's body are drawn before the word is guessed, then the player loses. |
-| 23 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 24 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 27 | [The Acclaimed](http://twitter.com/search?q=The+Acclaimed) | The Acclaimed is an expression used to describe something or someone that has been widely praised and admired. It is often used to refer to works of art, literature, music, or films that have received critical acclaim and public recognition. |
-| 28 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
-| 29 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 30 | [Horacio](http://twitter.com/search?q=Horacio) | N/A |
-| 31 | [Patti](http://twitter.com/search?q=Patti) | N/A |
-| 32 | [Nurkic](http://twitter.com/search?q=Nurkic) | N/A |
-| 33 | [5.1 Billion](http://twitter.com/search?q=5.1+Billion) | N/A |
-| 34 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 35 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 36 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 37 | [Johni Broome](http://twitter.com/search?q=Johni+Broome) | N/A |
-| 38 | [Tatum and Brown](http://twitter.com/search?q=Tatum+and+Brown) | N/A |
-| 39 | [Laurence](http://twitter.com/search?q=Laurence) | N/A |
-| 40 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
-| 41 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 42 | [Pledge of Allegiance](http://twitter.com/search?q=Pledge+of+Allegiance) | The Pledge of Allegiance is a patriotic oath to the United States of America. It is typically recited in unison at public events and school assemblies. The Pledge reads: "I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all." The Pledge is a promise of loyalty and commitment to the United States and its values. |
-| 43 | [Keemstar](http://twitter.com/search?q=Keemstar) | N/A |
-| 44 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 45 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
-| 46 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 47 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 48 | [$META](http://twitter.com/search?q=%24META) | META is an acronym for "Most Effective Tactics Available." It is used to refer to strategies or tactics that are considered to be the most effective or efficient way of achieving a desired outcome. |
-| 49 | [Capitalism](http://twitter.com/search?q=Capitalism) | N/A |
-| 50 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 7 | [Capitalism](http://twitter.com/search?q=Capitalism) | N/A |
+| 8 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 9 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
+| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 11 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 12 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 13 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 14 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 15 | [Horacio](http://twitter.com/search?q=Horacio) | N/A |
+| 16 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 17 | [Mason Gillis](http://twitter.com/search?q=Mason+Gillis) | Mason Gillis is a surname of Scottish origin. It is derived from the Old English words "gill" meaning "servant" and "maesen" meaning "stone". The name can be translated to mean "servant of the stone". |
+| 18 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 19 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 20 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 21 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 22 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 23 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 24 | [Gators](http://twitter.com/search?q=Gators) | N/A |
+| 25 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 26 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 27 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 28 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 29 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 30 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 31 | [Hangman](http://twitter.com/search?q=Hangman) | Hangman is a classic word guessing game. The goal of the game is to guess the hidden word before the man is "hung" (all parts of his body are drawn). The player guesses one letter at a time, and if the letter is not in the word, then a part of the man's body is drawn. If all parts of the man's body are drawn before the word is guessed, then the player loses. |
+| 32 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 33 | [Brian Cage](http://twitter.com/search?q=Brian+Cage) | N/A |
+| 34 | [The Acclaimed](http://twitter.com/search?q=The+Acclaimed) | The Acclaimed is an expression used to describe something or someone that has been widely praised and admired. It is often used to refer to works of art, literature, music, or films that have received critical acclaim and public recognition. |
+| 35 | [Jeff Capel](http://twitter.com/search?q=Jeff+Capel) | N/A |
+| 36 | [Eubanks](http://twitter.com/search?q=Eubanks) | N/A |
+| 37 | [Todd Golden](http://twitter.com/search?q=Todd+Golden) | N/A |
+| 38 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
+| 39 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 40 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 43 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
+| 44 | [Billy Gunn](http://twitter.com/search?q=Billy+Gunn) | Billy Gunn is an English phrase that is used to describe someone who is brave and daring. It can also be used to describe someone who takes risks and is not afraid of the consequences. |
+| 45 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 46 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 47 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 48 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
+| 49 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 50 | [Nurkic](http://twitter.com/search?q=Nurkic) | N/A |
 
 
 

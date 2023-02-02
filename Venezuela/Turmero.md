@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-02-02 01:44:08 UTC`
+📆 Last Updated: `2023-02-02 02:39:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
 | 4 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
 | 5 | [Ezequiel Zamora](http://twitter.com/search?q=Ezequiel+Zamora) | N/A |
-| 6 | [#31Ene](http://twitter.com/search?q=%2331Ene) | N/A |
-| 7 | [#ParqueDeCiencias](http://twitter.com/search?q=%23ParqueDeCiencias) | N/A |
+| 6 | [#ParqueDeCiencias](http://twitter.com/search?q=%23ParqueDeCiencias) | N/A |
+| 7 | [#31Ene](http://twitter.com/search?q=%2331Ene) | N/A |
 | 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
-| 10 | [#FebreroRebeldeConChávez](http://twitter.com/search?q=%23FebreroRebeldeConCh%c3%a1vez) | N/A |
-| 11 | [Marieta Santana](http://twitter.com/search?q=Marieta+Santana) | N/A |
-| 12 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 13 | [Marianela Salazar](http://twitter.com/search?q=Marianela+Salazar) | N/A |
-| 14 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
-| 15 | [encuesta abc](http://twitter.com/search?q=encuesta+abc) | N/A |
+| 9 | [#FebreroRebeldeConChávez](http://twitter.com/search?q=%23FebreroRebeldeConCh%c3%a1vez) | N/A |
+| 10 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
+| 11 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 12 | [Marieta Santana](http://twitter.com/search?q=Marieta+Santana) | N/A |
+| 13 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
+| 14 | [encuesta abc](http://twitter.com/search?q=encuesta+abc) | N/A |
+| 15 | [General del Pueblo Soberano](http://twitter.com/search?q=General+del+Pueblo+Soberano) | N/A |
 | 16 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 17 | [General del Pueblo Soberano](http://twitter.com/search?q=General+del+Pueblo+Soberano) | N/A |
-| 18 | [Miguel Pérez Abad](http://twitter.com/search?q=Miguel+P%c3%a9rez+Abad) | N/A |
-| 19 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
-| 20 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 21 | [Inces](http://twitter.com/search?q=Inces) | N/A |
-| 22 | [Cecilio Acosta](http://twitter.com/search?q=Cecilio+Acosta) | N/A |
-| 23 | [Corina Azopardo](http://twitter.com/search?q=Corina+Azopardo) | N/A |
-| 24 | [Roland Carreño](http://twitter.com/search?q=Roland+Carre%c3%b1o) | N/A |
-| 25 | [Danry](http://twitter.com/search?q=Danry) | N/A |
-| 26 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 27 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
+| 17 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
+| 18 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 19 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 20 | [Miguel Pérez Abad](http://twitter.com/search?q=Miguel+P%c3%a9rez+Abad) | N/A |
+| 21 | [Cecilio Acosta](http://twitter.com/search?q=Cecilio+Acosta) | N/A |
+| 22 | [Roland Carreño](http://twitter.com/search?q=Roland+Carre%c3%b1o) | N/A |
+| 23 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
+| 24 | [Marianella Salazar](http://twitter.com/search?q=Marianella+Salazar) | N/A |
+| 25 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 26 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
+| 27 | [rafael orozco](http://twitter.com/search?q=rafael+orozco) | N/A |
 | 28 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 29 | [Las Amazonas](http://twitter.com/search?q=Las+Amazonas) | N/A |
-| 30 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
-| 31 | [rafael orozco](http://twitter.com/search?q=rafael+orozco) | N/A |
-| 32 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 33 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 34 | [Bicentenario](http://twitter.com/search?q=Bicentenario) | N/A |
-| 35 | [Calixto Ortega](http://twitter.com/search?q=Calixto+Ortega) | N/A |
-| 36 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 37 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 38 | [Jesús Yerena](http://twitter.com/search?q=Jes%c3%bas+Yerena) | N/A |
-| 39 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
-| 40 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 41 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 42 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 43 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 44 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 45 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 46 | [Amanda Dudamel](http://twitter.com/search?q=Amanda+Dudamel) | N/A |
-| 47 | [Rinconada](http://twitter.com/search?q=Rinconada) | N/A |
-| 48 | [Napoleón Bravo](http://twitter.com/search?q=Napole%c3%b3n+Bravo) | N/A |
-| 49 | [Revolución Judicial](http://twitter.com/search?q=Revoluci%c3%b3n+Judicial) | N/A |
-| 50 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 29 | [Danry](http://twitter.com/search?q=Danry) | N/A |
+| 30 | [Calixto Ortega](http://twitter.com/search?q=Calixto+Ortega) | N/A |
+| 31 | [Corina Azopardo](http://twitter.com/search?q=Corina+Azopardo) | N/A |
+| 32 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 33 | [Banco Bicentenario](http://twitter.com/search?q=Banco+Bicentenario) | N/A |
+| 34 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 35 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 36 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 37 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 38 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 39 | [San Antonio de Los Altos](http://twitter.com/search?q=San+Antonio+de+Los+Altos) | N/A |
+| 40 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 41 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
+| 42 | [Rinconada](http://twitter.com/search?q=Rinconada) | N/A |
+| 43 | [Napoleón Bravo](http://twitter.com/search?q=Napole%c3%b3n+Bravo) | N/A |
+| 44 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 45 | [Las Amazonas](http://twitter.com/search?q=Las+Amazonas) | N/A |
+| 46 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 47 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
+| 48 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 49 | [Jesús Yerena](http://twitter.com/search?q=Jes%c3%bas+Yerena) | N/A |
+| 50 | [Revolución Judicial](http://twitter.com/search?q=Revoluci%c3%b3n+Judicial) | N/A |
 
 
 

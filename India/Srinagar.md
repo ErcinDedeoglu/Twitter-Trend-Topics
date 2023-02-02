@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-02-02 01:44:32 UTC`
+📆 Last Updated: `2023-02-02 02:39:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#incometax](http://twitter.com/search?q=%23incometax) | #Incometax is a hashtag used on social media to refer to the taxes that individuals and businesses must pay on their income. It is often used in discussions about tax policy, filing taxes, and other related topics. |
-| 4 | [#NirmalaSitharaman](http://twitter.com/search?q=%23NirmalaSitharaman) | #NirmalaSitharaman is the name of India's current Finance Minister. In English, it means "Goddess of Prosperity". |
-| 5 | [#ShubmanGill](http://twitter.com/search?q=%23ShubmanGill) | #ShubmanGill is a hashtag used to refer to Indian cricketer Shubman Gill. He is an up-and-coming batsman who has been part of the Indian national cricket team since 2018. |
-| 6 | [वित्त मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | वित्त मंत्री is a Hindi phrase meaning "Finance Minister". It is used to refer to the minister responsible for managing the government's financial affairs. |
-| 7 | [Rs 7](http://twitter.com/search?q=Rs+7) | Rs 7 is the abbreviation for Indian Rupee 7, which is the currency of India. In English, it would be equivalent to seven Indian Rupees. |
-| 8 | [श्री हरि विष्णु](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81) | N/A |
-| 9 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
-| 10 | [fielder with most catches](http://twitter.com/search?q=fielder+with+most+catches) | N/A |
-| 11 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
-| 12 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 13 | [New Tax Regime](http://twitter.com/search?q=New+Tax+Regime) | New Tax Regime is a term used to describe a new set of tax laws or regulations that have been introduced by a government. It typically refers to changes in the way taxes are collected, the types of taxes imposed, and the rates at which they are applied. The purpose of introducing a new tax regime is usually to increase revenue for the government, reduce inequality, or encourage certain types of economic activity. |
-| 14 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 15 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
-| 16 | [Rahul Tripathi](http://twitter.com/search?q=Rahul+Tripathi) | Rahul Tripathi is a name of Indian origin. It is derived from the Sanskrit words "Rahu" (sun) and "Tripathi" (lord). The literal meaning of the name is "Lord of the Sun". |
-| 17 | [cnbctv18 live](http://twitter.com/search?q=cnbctv18+live) | N/A |
-| 18 | [bowler with worst er](http://twitter.com/search?q=bowler+with+worst+er) | N/A |
-| 19 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 20 | [height of injustice](http://twitter.com/search?q=height+of+injustice) | N/A |
-| 21 | [batsman with most fours](http://twitter.com/search?q=batsman+with+most+fours) | N/A |
-| 22 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 23 | [public sab janti hai](http://twitter.com/search?q=public+sab+janti+hai) | N/A |
-| 24 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 25 | [7 Lakhs](http://twitter.com/search?q=7+Lakhs) | 7 Lakhs is a term used in India to refer to 700,000. It is equal to 7,00,000 in the Indian numbering system. In English, it would be equivalent to 700,000 or seven hundred thousand. |
-| 26 | [main khiladi outnow](http://twitter.com/search?q=main+khiladi+outnow) | N/A |
-| 27 | [Sushant Real Foodie](http://twitter.com/search?q=Sushant+Real+Foodie) | N/A |
-| 28 | [श्री लक्ष्मी नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 29 | [मोदी सरकार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 30 | [बड़ी राहत](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4) | बड़ी राहत (Badi Rahat) is a Hindi phrase that translates to "great relief" in English. It is used to express a feeling of relief or comfort after a difficult situation. |
-| 31 | [हरि गोविंदा](http://twitter.com/search?q=%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%97%e0%a5%8b%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a4%be) | N/A |
-| 32 | [New Regime](http://twitter.com/search?q=New+Regime) | N/A |
-| 33 | [1st innings score](http://twitter.com/search?q=1st+innings+score) | N/A |
-| 34 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 35 | [rashami desai birthday month](http://twitter.com/search?q=rashami+desai+birthday+month) | N/A |
-| 36 | [प्रथम महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
-| 37 | [HAPPY BIRTHDAY SHAMITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+SHAMITA) | N/A |
-| 38 | [नर्सिंग कॉलेज](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%87%e0%a4%9c) | नर्सिंग कॉलेज is a Hindi phrase meaning "Nursing College". It is used to refer to a college or university that offers nursing programs. |
-| 39 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 40 | [MSMEs](http://twitter.com/search?q=MSMEs) | N/A |
-| 41 | [Own $2.5 Billion Share Sale](http://twitter.com/search?q=Own+%242.5+Billion+Share+Sale) | N/A |
-| 42 | [rs 5](http://twitter.com/search?q=rs+5) | N/A |
-| 43 | [roopkumar crucial inssrcase](http://twitter.com/search?q=roopkumar+crucial+inssrcase) | N/A |
-| 44 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 45 | [rs 3 to 6](http://twitter.com/search?q=rs+3+to+6) | N/A |
-| 46 | [श्री मनोज तिवारी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%9c+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 47 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 48 | [आम आदमी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80) | N/A |
-| 49 | [FM Sitharaman](http://twitter.com/search?q=FM+Sitharaman) | FM Sitharaman is an acronym for Finance Minister Nirmala Sitharaman. She is the current Finance Minister of India and the first female to hold the position. The acronym is used to refer to her in a shorthand manner. In English, it means Finance Minister Nirmala Sitharaman. |
+| 2 | [#SpendWisely](http://twitter.com/search?q=%23SpendWisely) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#incometax](http://twitter.com/search?q=%23incometax) | #Incometax is a hashtag used on social media to refer to the taxes that individuals and businesses must pay on their income. It is often used in discussions about tax policy, filing taxes, and other related topics. |
+| 5 | [#Historical_Injustice](http://twitter.com/search?q=%23Historical_Injustice) | N/A |
+| 6 | [Hinduism On Target](http://twitter.com/search?q=Hinduism+On+Target) | N/A |
+| 7 | [Nyay Kahan Hai](http://twitter.com/search?q=Nyay+Kahan+Hai) | N/A |
+| 8 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 9 | [वित्त मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | वित्त मंत्री is a Hindi phrase meaning "Finance Minister". It is used to refer to the minister responsible for managing the government's financial affairs. |
+| 10 | [MahaBJP Update DishaSIT Status](http://twitter.com/search?q=MahaBJP+Update+DishaSIT+Status) | N/A |
+| 11 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 12 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 13 | [Rs 7](http://twitter.com/search?q=Rs+7) | Rs 7 is the abbreviation for Indian Rupee 7, which is the currency of India. In English, it would be equivalent to seven Indian Rupees. |
+| 14 | [fielder with most catches](http://twitter.com/search?q=fielder+with+most+catches) | N/A |
+| 15 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
+| 16 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
+| 17 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 18 | [New Tax Regime](http://twitter.com/search?q=New+Tax+Regime) | New Tax Regime is a term used to describe a new set of tax laws or regulations that have been introduced by a government. It typically refers to changes in the way taxes are collected, the types of taxes imposed, and the rates at which they are applied. The purpose of introducing a new tax regime is usually to increase revenue for the government, reduce inequality, or encourage certain types of economic activity. |
+| 19 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
+| 20 | [bowler with worst er](http://twitter.com/search?q=bowler+with+worst+er) | N/A |
+| 21 | [cnbctv18 live](http://twitter.com/search?q=cnbctv18+live) | N/A |
+| 22 | [batsman with most fours](http://twitter.com/search?q=batsman+with+most+fours) | N/A |
+| 23 | [Rahul Tripathi](http://twitter.com/search?q=Rahul+Tripathi) | Rahul Tripathi is a name of Indian origin. It is derived from the Sanskrit words "Rahu" (sun) and "Tripathi" (lord). The literal meaning of the name is "Lord of the Sun". |
+| 24 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 25 | [height of injustice](http://twitter.com/search?q=height+of+injustice) | N/A |
+| 26 | [public sab janti hai](http://twitter.com/search?q=public+sab+janti+hai) | N/A |
+| 27 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 28 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 29 | [7 Lakhs](http://twitter.com/search?q=7+Lakhs) | 7 Lakhs is a term used in India to refer to 700,000. It is equal to 7,00,000 in the Indian numbering system. In English, it would be equivalent to 700,000 or seven hundred thousand. |
+| 30 | [main khiladi outnow](http://twitter.com/search?q=main+khiladi+outnow) | N/A |
+| 31 | [श्री लक्ष्मी नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 32 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 33 | [Sushant Real Foodie](http://twitter.com/search?q=Sushant+Real+Foodie) | N/A |
+| 34 | [मोदी सरकार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 35 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 36 | [1st innings score](http://twitter.com/search?q=1st+innings+score) | N/A |
+| 37 | [बड़ी राहत](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4) | बड़ी राहत (Badi Rahat) is a Hindi phrase that translates to "great relief" in English. It is used to express a feeling of relief or comfort after a difficult situation. |
+| 38 | [New Regime](http://twitter.com/search?q=New+Regime) | N/A |
+| 39 | [rashami desai birthday month](http://twitter.com/search?q=rashami+desai+birthday+month) | N/A |
+| 40 | [प्रथम महिला अंतरिक्ष](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7) | N/A |
+| 41 | [HAPPY BIRTHDAY SHAMITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+SHAMITA) | N/A |
+| 42 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
+| 43 | [बाबू जगदेव प्रसाद](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82+%e0%a4%9c%e0%a4%97%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
+| 44 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 45 | [Own $2.5 Billion Share Sale](http://twitter.com/search?q=Own+%242.5+Billion+Share+Sale) | N/A |
+| 46 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
+| 47 | [roopkumar crucial inssrcase](http://twitter.com/search?q=roopkumar+crucial+inssrcase) | N/A |
+| 48 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 49 | [हरि गोविंदा](http://twitter.com/search?q=%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%97%e0%a5%8b%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a4%be) | N/A |
 
 
 

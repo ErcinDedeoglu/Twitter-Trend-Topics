@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-02 01:44:11 UTC`
+📆 Last Updated: `2023-02-02 02:39:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for [Poland](</Poland>)
 | 9 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
 | 10 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
 | 11 | [Szymczak](http://twitter.com/search?q=Szymczak) | N/A |
-| 12 | [Vabank](http://twitter.com/search?q=Vabank) | N/A |
-| 13 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 14 | [skok](http://twitter.com/search?q=skok) | N/A |
-| 15 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 12 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 13 | [vabank](http://twitter.com/search?q=vabank) | N/A |
+| 14 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 15 | [skok](http://twitter.com/search?q=skok) | N/A |
 | 16 | [Davo](http://twitter.com/search?q=Davo) | N/A |
 | 17 | [Sykulskiego](http://twitter.com/search?q=Sykulskiego) | N/A |
 | 18 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
 | 19 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 20 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 20 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
 | 21 | [Robert Lewandowski](http://twitter.com/search?q=Robert+Lewandowski) | N/A |
-| 22 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 23 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 24 | [Maryla](http://twitter.com/search?q=Maryla) | N/A |
+| 22 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 23 | [maryla](http://twitter.com/search?q=maryla) | N/A |
+| 24 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
 | 25 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 26 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 27 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
-| 28 | [szymon hołownia](http://twitter.com/search?q=szymon+ho%c5%82ownia) | N/A |
-| 29 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 30 | [barczewie](http://twitter.com/search?q=barczewie) | N/A |
-| 31 | [sobolewski](http://twitter.com/search?q=sobolewski) | N/A |
-| 32 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 33 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
-| 34 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 35 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
-| 36 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 37 | [sikorskim](http://twitter.com/search?q=sikorskim) | N/A |
-| 38 | [miedzią](http://twitter.com/search?q=miedzi%c4%85) | N/A |
-| 39 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
-| 40 | [Grodzki](http://twitter.com/search?q=Grodzki) | N/A |
-| 41 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 42 | [czechami](http://twitter.com/search?q=czechami) | N/A |
-| 43 | [nauki](http://twitter.com/search?q=nauki) | N/A |
+| 26 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
+| 27 | [szymon hołownia](http://twitter.com/search?q=szymon+ho%c5%82ownia) | N/A |
+| 28 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 29 | [barczewie](http://twitter.com/search?q=barczewie) | N/A |
+| 30 | [sobolewski](http://twitter.com/search?q=sobolewski) | N/A |
+| 31 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 32 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
+| 33 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 34 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
+| 35 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 36 | [sikorskim](http://twitter.com/search?q=sikorskim) | N/A |
+| 37 | [miedzią](http://twitter.com/search?q=miedzi%c4%85) | N/A |
+| 38 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
+| 39 | [Grodzki](http://twitter.com/search?q=Grodzki) | N/A |
+| 40 | [czechami](http://twitter.com/search?q=czechami) | N/A |
+| 41 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 42 | [nauki](http://twitter.com/search?q=nauki) | N/A |
+| 43 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 44 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 45 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
 | 46 | [Ursynowie](http://twitter.com/search?q=Ursynowie) | N/A |
-| 47 | [klubowe](http://twitter.com/search?q=klubowe) | N/A |
-| 48 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 47 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 48 | [klubowe](http://twitter.com/search?q=klubowe) | N/A |
 | 49 | [T-72](http://twitter.com/search?q=T-72) | N/A |
 | 50 | [pirat](http://twitter.com/search?q=pirat) | N/A |
 

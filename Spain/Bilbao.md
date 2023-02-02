@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-02 01:44:15 UTC`
+📆 Last Updated: `2023-02-02 02:39:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#elconquis3ETB](http://twitter.com/search?q=%23elconquis3ETB) | N/A |
-| 2 | [#murgasSC3](http://twitter.com/search?q=%23murgasSC3) | N/A |
-| 3 | [#COAC2023P12](http://twitter.com/search?q=%23COAC2023P12) | N/A |
+| 1 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
+| 2 | [#COAC2023P12](http://twitter.com/search?q=%23COAC2023P12) | N/A |
+| 3 | [#murgasSC3](http://twitter.com/search?q=%23murgasSC3) | N/A |
 | 4 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 | 5 | [#ChiringuitoBarcelona](http://twitter.com/search?q=%23ChiringuitoBarcelona) | N/A |
-| 6 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 7 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
-| 8 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 9 | [Bambones](http://twitter.com/search?q=Bambones) | N/A |
-| 10 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 11 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 12 | [Ruibal](http://twitter.com/search?q=Ruibal) | Ruibal is a Spanish surname derived from the Latin word "rubellus," which means red. It is also believed to be derived from the Latin word "rubinus," which means ruby. The name is most commonly found in Spain and Latin America. |
-| 13 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 14 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 15 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 16 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 17 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 18 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 19 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
-| 20 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
-| 21 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
-| 22 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [De Burgos](http://twitter.com/search?q=De+Burgos) | N/A |
-| 25 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 26 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 27 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 28 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 29 | [Busi](http://twitter.com/search?q=Busi) | N/A |
-| 30 | [El Barcelona](http://twitter.com/search?q=El+Barcelona) | N/A |
-| 31 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
-| 32 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 33 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 34 | [San Isidro](http://twitter.com/search?q=San+Isidro) | N/A |
-| 35 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 36 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 37 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 38 | [Rabat](http://twitter.com/search?q=Rabat) | N/A |
-| 39 | [Inés](http://twitter.com/search?q=In%c3%a9s) | N/A |
-| 40 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
-| 41 | [#ParaTodaLaVida8](http://twitter.com/search?q=%23ParaTodaLaVida8) | N/A |
-| 42 | [#Escandalo4](http://twitter.com/search?q=%23Escandalo4) | N/A |
-| 43 | [#LosEsclavos](http://twitter.com/search?q=%23LosEsclavos) | N/A |
-| 44 | [#IreneMonteroEnT5](http://twitter.com/search?q=%23IreneMonteroEnT5) | N/A |
-| 45 | [#SamsungUnpacked](http://twitter.com/search?q=%23SamsungUnpacked) | #SamsungUnpacked is an event hosted by Samsung to launch new products. It is usually held twice a year and is used to announce the latest Samsung devices, such as smartphones, tablets, and wearables. The hashtag is used to promote the event on social media. In English, it means "Samsung Unveils New Products". |
+| 6 | [#ChollometroForever](http://twitter.com/search?q=%23ChollometroForever) | N/A |
+| 7 | [Agoney](http://twitter.com/search?q=Agoney) | Agoney is a Spanish slang term used to describe someone who is very unlucky or having a streak of bad luck. It can also be used to describe someone who is clumsy or awkward. In English, it could be translated as "unlucky" or "clumsy". |
+| 8 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 9 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
+| 10 | [Alice Wonder](http://twitter.com/search?q=Alice+Wonder) | Alice Wonder is a phrase used to describe someone who is curious and imaginative. It is often used to describe children who are full of wonder and awe at the world around them. |
+| 11 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
+| 12 | [Megara](http://twitter.com/search?q=Megara) | Megara is an ancient Greek city located in the northeastern part of the Peloponnese. It was a major port and commercial center, and its ruins are still visible today. In English, Megara means "great city". |
+| 13 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 14 | [Fusa Nocta](http://twitter.com/search?q=Fusa+Nocta) | Fusa Nocta is a Latin phrase meaning "night watch." It was originally used to refer to a night watchman or guard who would patrol an area at night to ensure safety and security. |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 17 | [Bambones](http://twitter.com/search?q=Bambones) | N/A |
+| 18 | [Aritz](http://twitter.com/search?q=Aritz) | Aritz is a Basque name derived from the Latin name "Aurelius". It is a masculine name meaning "golden" or "gilded". |
+| 19 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 20 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 21 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 22 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 23 | [Rabat](http://twitter.com/search?q=Rabat) | N/A |
+| 24 | [Ruibal](http://twitter.com/search?q=Ruibal) | Ruibal is a Spanish surname derived from the Latin word "rubellus," which means red. It is also believed to be derived from the Latin word "rubinus," which means ruby. The name is most commonly found in Spain and Latin America. |
+| 25 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 26 | [Sharonne](http://twitter.com/search?q=Sharonne) | Sharonne is a feminine given name of Hebrew origin, derived from the biblical name Shara. It is a variant of Sharon, which means "plain" or "flat land" in Hebrew. |
+| 27 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 28 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
+| 29 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 30 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
+| 31 | [Mónica Naranjo](http://twitter.com/search?q=M%c3%b3nica+Naranjo) | Mónica Naranjo is a Spanish singer, songwriter, and television personality. She is known for her powerful voice and flamboyant stage presence. In English, her name translates to "Monica Orange". |
+| 32 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 33 | [De Burgos](http://twitter.com/search?q=De+Burgos) | N/A |
+| 34 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 35 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 36 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 37 | [Raillo](http://twitter.com/search?q=Raillo) | N/A |
+| 38 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
+| 39 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 40 | [Twin Melody](http://twitter.com/search?q=Twin+Melody) | Twin Melody is a Japanese term used to describe two melodies that are played simultaneously, usually in harmony. It is often used to describe the sound of two instruments playing together, such as a piano and a guitar. In English, it can be translated as "dual melody". |
+| 41 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 42 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 43 | [Diablos Locos](http://twitter.com/search?q=Diablos+Locos) | N/A |
+| 44 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 45 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 46 | [Trapaseros](http://twitter.com/search?q=Trapaseros) | N/A |
+| 47 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 50 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 
 
 

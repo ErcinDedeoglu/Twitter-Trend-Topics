@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-02 01:44:17 UTC`
+📆 Last Updated: `2023-02-02 02:39:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,42 @@ This is top 50 for [Sweden](</Sweden>)
 | 11 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 12 | [danielsson](http://twitter.com/search?q=danielsson) | N/A |
 | 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 14 | [kvartal](http://twitter.com/search?q=kvartal) | N/A |
-| 15 | [#turkiet](http://twitter.com/search?q=%23turkiet) | N/A |
+| 14 | [#turkiet](http://twitter.com/search?q=%23turkiet) | N/A |
+| 15 | [kvartal](http://twitter.com/search?q=kvartal) | N/A |
 | 16 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 | 17 | [natomedlemskap](http://twitter.com/search?q=natomedlemskap) | N/A |
 | 18 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 19 | [Ola Bini](http://twitter.com/search?q=Ola+Bini) | N/A |
 | 20 | [#ibsilly](http://twitter.com/search?q=%23ibsilly) | N/A |
 | 21 | [Erik](http://twitter.com/search?q=Erik) | N/A |
-| 22 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 23 | [Boyce](http://twitter.com/search?q=Boyce) | N/A |
-| 24 | [Miele](http://twitter.com/search?q=Miele) | N/A |
-| 25 | [Borlänge](http://twitter.com/search?q=Borl%c3%a4nge) | N/A |
-| 26 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 27 | [Deadline Day](http://twitter.com/search?q=Deadline+Day) | N/A |
-| 28 | [börjes](http://twitter.com/search?q=b%c3%b6rjes) | N/A |
-| 29 | [Jonna](http://twitter.com/search?q=Jonna) | N/A |
-| 30 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 31 | [elfsborg](http://twitter.com/search?q=elfsborg) | N/A |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 22 | [boyce](http://twitter.com/search?q=boyce) | N/A |
+| 23 | [Miele](http://twitter.com/search?q=Miele) | N/A |
+| 24 | [borlänge](http://twitter.com/search?q=borl%c3%a4nge) | N/A |
+| 25 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 26 | [Deadline Day](http://twitter.com/search?q=Deadline+Day) | N/A |
+| 27 | [börjes](http://twitter.com/search?q=b%c3%b6rjes) | N/A |
+| 28 | [Jonna](http://twitter.com/search?q=Jonna) | N/A |
+| 29 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 30 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 32 | [micke](http://twitter.com/search?q=micke) | N/A |
 | 33 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 34 | [micke](http://twitter.com/search?q=micke) | N/A |
+| 34 | [Anders](http://twitter.com/search?q=Anders) | N/A |
 | 35 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 36 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 37 | [Rapport](http://twitter.com/search?q=Rapport) | N/A |
-| 38 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 39 | [Nobels](http://twitter.com/search?q=Nobels) | N/A |
-| 40 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
+| 36 | [Rapport](http://twitter.com/search?q=Rapport) | N/A |
+| 37 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 38 | [Nobels](http://twitter.com/search?q=Nobels) | N/A |
+| 39 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
+| 40 | [elfsborg](http://twitter.com/search?q=elfsborg) | N/A |
 | 41 | [Murre](http://twitter.com/search?q=Murre) | N/A |
 | 42 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 43 | [Vårbynätverket](http://twitter.com/search?q=V%c3%a5rbyn%c3%a4tverket) | N/A |
+| 43 | [vårbynätverket](http://twitter.com/search?q=v%c3%a5rbyn%c3%a4tverket) | N/A |
 | 44 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
 | 45 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
 | 46 | [adam carlén](http://twitter.com/search?q=adam+carl%c3%a9n) | N/A |
 | 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 48 | [Bedrövligt](http://twitter.com/search?q=Bedr%c3%b6vligt) | N/A |
 | 49 | [världens](http://twitter.com/search?q=v%c3%a4rldens) | N/A |
-| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 
 
 

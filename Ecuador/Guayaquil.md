@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-02 01:44:07 UTC`
+📆 Last Updated: `2023-02-02 02:39:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ola Bini](http://twitter.com/search?q=Ola+Bini) | N/A |
-| 2 | [Jhojan Julio](http://twitter.com/search?q=Jhojan+Julio) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 5 | [Ambato](http://twitter.com/search?q=Ambato) | N/A |
-| 6 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 7 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 8 | [#CopaDeCampeonesEdgardoBauza](http://twitter.com/search?q=%23CopaDeCampeonesEdgardoBauza) | N/A |
-| 9 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 10 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 11 | [#Duran](http://twitter.com/search?q=%23Duran) | N/A |
-| 12 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
-| 13 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
-| 14 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 15 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
-| 16 | [#8VecesNOaLaConsultaDeLasso](http://twitter.com/search?q=%238VecesNOaLaConsultaDeLasso) | N/A |
-| 17 | [Veris](http://twitter.com/search?q=Veris) | N/A |
-| 18 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
-| 19 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 20 | [#PuntosDelEncuentro](http://twitter.com/search?q=%23PuntosDelEncuentro) | N/A |
-| 21 | [#TeDevuelvoElNo](http://twitter.com/search?q=%23TeDevuelvoElNo) | N/A |
-| 22 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 23 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
-| 24 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 25 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 26 | [Tuti](http://twitter.com/search?q=Tuti) | N/A |
-| 27 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 28 | [Gonzalo Pozo Ripalda](http://twitter.com/search?q=Gonzalo+Pozo+Ripalda) | N/A |
-| 29 | [Lenin Moreno](http://twitter.com/search?q=Lenin+Moreno) | N/A |
-| 30 | [Celico](http://twitter.com/search?q=Celico) | N/A |
-| 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 32 | [garis mina](http://twitter.com/search?q=garis+mina) | N/A |
-| 33 | [Carlos Gruezo](http://twitter.com/search?q=Carlos+Gruezo) | N/A |
-| 34 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 35 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 36 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 37 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 38 | [Pandora Papers](http://twitter.com/search?q=Pandora+Papers) | N/A |
-| 39 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 40 | [Carlos Tenorio](http://twitter.com/search?q=Carlos+Tenorio) | N/A |
-| 41 | [Jimmy Bran](http://twitter.com/search?q=Jimmy+Bran) | N/A |
-| 42 | [Mikaella](http://twitter.com/search?q=Mikaella) | N/A |
-| 43 | [Interior](http://twitter.com/search?q=Interior) | N/A |
-| 44 | [Sebastián González](http://twitter.com/search?q=Sebasti%c3%a1n+Gonz%c3%a1lez) | N/A |
-| 45 | [Cura](http://twitter.com/search?q=Cura) | N/A |
-| 46 | [Estimada](http://twitter.com/search?q=Estimada) | N/A |
-| 47 | [Pallares](http://twitter.com/search?q=Pallares) | N/A |
-| 48 | [Juez](http://twitter.com/search?q=Juez) | N/A |
-| 49 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 50 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 1 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 2 | [Ola Bini](http://twitter.com/search?q=Ola+Bini) | N/A |
+| 3 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Jhojan Julio](http://twitter.com/search?q=Jhojan+Julio) | N/A |
+| 6 | [Renato Ibarra](http://twitter.com/search?q=Renato+Ibarra) | N/A |
+| 7 | [Ambato](http://twitter.com/search?q=Ambato) | N/A |
+| 8 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 9 | [Farías](http://twitter.com/search?q=Far%c3%adas) | N/A |
+| 10 | [#CopaDeCampeonesEdgardoBauza](http://twitter.com/search?q=%23CopaDeCampeonesEdgardoBauza) | N/A |
+| 11 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 12 | [Queso](http://twitter.com/search?q=Queso) | N/A |
+| 13 | [Ángel González](http://twitter.com/search?q=%c3%81ngel+Gonz%c3%a1lez) | N/A |
+| 14 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
+| 15 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 16 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 17 | [Figueroa](http://twitter.com/search?q=Figueroa) | N/A |
+| 18 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
+| 19 | [LigaPro](http://twitter.com/search?q=LigaPro) | N/A |
+| 20 | [#Duran](http://twitter.com/search?q=%23Duran) | N/A |
+| 21 | [Veris](http://twitter.com/search?q=Veris) | N/A |
+| 22 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
+| 23 | [#8VecesNOaLaConsultaDeLasso](http://twitter.com/search?q=%238VecesNOaLaConsultaDeLasso) | N/A |
+| 24 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
+| 25 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
+| 26 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 27 | [El Campín](http://twitter.com/search?q=El+Camp%c3%adn) | N/A |
+| 28 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 29 | [Gonzalo Pozo Ripalda](http://twitter.com/search?q=Gonzalo+Pozo+Ripalda) | N/A |
+| 30 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 31 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
+| 32 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 33 | [Tuti](http://twitter.com/search?q=Tuti) | N/A |
+| 34 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 35 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 36 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 37 | [Zubeldía](http://twitter.com/search?q=Zubeld%c3%ada) | N/A |
+| 38 | [Carlos Gruezo](http://twitter.com/search?q=Carlos+Gruezo) | N/A |
+| 39 | [garis mina](http://twitter.com/search?q=garis+mina) | N/A |
+| 40 | [Lenin Moreno](http://twitter.com/search?q=Lenin+Moreno) | N/A |
+| 41 | [Pandora Papers](http://twitter.com/search?q=Pandora+Papers) | N/A |
+| 42 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 43 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 44 | [Pallares](http://twitter.com/search?q=Pallares) | N/A |
+| 45 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 46 | [Carlos Tenorio](http://twitter.com/search?q=Carlos+Tenorio) | N/A |
+| 47 | [Jimmy Bran](http://twitter.com/search?q=Jimmy+Bran) | N/A |
+| 48 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
+| 49 | [Interior](http://twitter.com/search?q=Interior) | N/A |
+| 50 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 
 
 
