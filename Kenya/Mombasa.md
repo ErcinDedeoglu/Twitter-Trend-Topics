@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-02-02 17:16:36 UTC`
+📆 Last Updated: `2023-02-02 18:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Kenya](</Kenya>)
 | 9 | [#NationalCancerSummit2023](http://twitter.com/search?q=%23NationalCancerSummit2023) | N/A |
 | 10 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
 | 11 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 12 | [Gareth Barry](http://twitter.com/search?q=Gareth+Barry) | N/A |
-| 13 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 14 | [Messiah](http://twitter.com/search?q=Messiah) | N/A |
-| 15 | [Equity Bank](http://twitter.com/search?q=Equity+Bank) | N/A |
-| 16 | [Nakuru](http://twitter.com/search?q=Nakuru) | N/A |
-| 17 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 18 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
-| 19 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 20 | [Quiver Lounge Party](http://twitter.com/search?q=Quiver+Lounge+Party) | N/A |
-| 21 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 22 | [Rigathi Gachagua](http://twitter.com/search?q=Rigathi+Gachagua) | N/A |
+| 12 | [Mama Ngina](http://twitter.com/search?q=Mama+Ngina) | N/A |
+| 13 | [Equity Bank](http://twitter.com/search?q=Equity+Bank) | N/A |
+| 14 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 15 | [Nakuru](http://twitter.com/search?q=Nakuru) | N/A |
+| 16 | [Gareth Barry](http://twitter.com/search?q=Gareth+Barry) | N/A |
+| 17 | [quiver lounge party](http://twitter.com/search?q=quiver+lounge+party) | N/A |
+| 18 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 19 | [Messiah](http://twitter.com/search?q=Messiah) | N/A |
+| 20 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 21 | [Rigathi Gachagua](http://twitter.com/search?q=Rigathi+Gachagua) | N/A |
+| 22 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
 | 23 | [Cherargei](http://twitter.com/search?q=Cherargei) | N/A |
 | 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 25 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 26 | [Steve Ogolla](http://twitter.com/search?q=Steve+Ogolla) | N/A |
-| 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 28 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 29 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 30 | [taking action](http://twitter.com/search?q=taking+action) | N/A |
-| 31 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 32 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 33 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 34 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 35 | [danstan omari](http://twitter.com/search?q=danstan+omari) | N/A |
-| 36 | [Soko Directory](http://twitter.com/search?q=Soko+Directory) | N/A |
-| 37 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 38 | [Kisii County](http://twitter.com/search?q=Kisii+County) | N/A |
-| 39 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 40 | [Family Guy](http://twitter.com/search?q=Family+Guy) | Family Guy is an American animated sitcom created by Seth MacFarlane for the Fox Broadcasting Company. The show follows the adventures of the Griffin family, consisting of father Peter, mother Lois, daughter Meg, son Chris, baby Stewie and the family dog Brian, who reside in their hometown of Quahog. The show is known for its off-color humor and often satirical take on American culture. |
-| 41 | [Erik](http://twitter.com/search?q=Erik) | N/A |
-| 42 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 43 | [Alai](http://twitter.com/search?q=Alai) | N/A |
-| 44 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
-| 45 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 46 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 47 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 48 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 49 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 26 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 27 | [Steve Ogolla](http://twitter.com/search?q=Steve+Ogolla) | N/A |
+| 28 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 29 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 30 | [Greater Manchester Police](http://twitter.com/search?q=Greater+Manchester+Police) | N/A |
+| 31 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 32 | [taking action](http://twitter.com/search?q=taking+action) | N/A |
+| 33 | [Itumbi](http://twitter.com/search?q=Itumbi) | N/A |
+| 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 35 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 36 | [Kisii County](http://twitter.com/search?q=Kisii+County) | N/A |
+| 37 | [danstan omari](http://twitter.com/search?q=danstan+omari) | N/A |
+| 38 | [Soko Directory](http://twitter.com/search?q=Soko+Directory) | N/A |
+| 39 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 40 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 41 | [Family Guy](http://twitter.com/search?q=Family+Guy) | Family Guy is an American animated sitcom created by Seth MacFarlane for the Fox Broadcasting Company. The show follows the adventures of the Griffin family, consisting of father Peter, mother Lois, daughter Meg, son Chris, baby Stewie and the family dog Brian, who reside in their hometown of Quahog. The show is known for its off-color humor and often satirical take on American culture. |
+| 42 | [Alai](http://twitter.com/search?q=Alai) | N/A |
+| 43 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 44 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 45 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
+| 46 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
+| 47 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 49 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 
 
 

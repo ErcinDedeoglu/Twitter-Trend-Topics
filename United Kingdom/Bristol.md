@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-02-02 17:16:09 UTC`
+📆 Last Updated: `2023-02-02 18:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 2 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 3 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 4 | [MUFC](http://twitter.com/search?q=MUFC) | N/A |
-| 5 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 6 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 7 | [Erik](http://twitter.com/search?q=Erik) | N/A |
-| 8 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 9 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 10 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 11 | [Kell](http://twitter.com/search?q=Kell) | N/A |
-| 12 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 13 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
-| 14 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 15 | [#TimeToTalkDay](http://twitter.com/search?q=%23TimeToTalkDay) | N/A |
-| 16 | [#cheesecoms](http://twitter.com/search?q=%23cheesecoms) | N/A |
-| 17 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
-| 18 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 19 | [#Autumnwatch](http://twitter.com/search?q=%23Autumnwatch) | N/A |
-| 20 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 21 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 22 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
-| 23 | [Ched Evans](http://twitter.com/search?q=Ched+Evans) | N/A |
-| 24 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 25 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
-| 26 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 2 | [Greed](http://twitter.com/search?q=Greed) | N/A |
+| 3 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 4 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
+| 5 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
+| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 7 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 8 | [#BritishGas](http://twitter.com/search?q=%23BritishGas) | N/A |
+| 9 | [MUFC](http://twitter.com/search?q=MUFC) | N/A |
+| 10 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 11 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 12 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 13 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 14 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 15 | [Kell](http://twitter.com/search?q=Kell) | N/A |
+| 16 | [#Autumnwatch](http://twitter.com/search?q=%23Autumnwatch) | N/A |
+| 17 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 18 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 19 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 20 | [#cheesecoms](http://twitter.com/search?q=%23cheesecoms) | N/A |
+| 21 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
+| 22 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 23 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 25 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 26 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
 | 27 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 28 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 29 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 30 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
-| 31 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 32 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 33 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
-| 34 | [Greed](http://twitter.com/search?q=Greed) | N/A |
-| 35 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 36 | [Rapist](http://twitter.com/search?q=Rapist) | N/A |
-| 37 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 38 | [Gromit](http://twitter.com/search?q=Gromit) | Gromit is a fictional character from the British stop-motion animated comedy series Wallace and Gromit. He is a loyal, intelligent, anthropomorphic dog and the best friend of Wallace, a cheese-loving inventor. The name "Gromit" is derived from the English verb "to grumble". |
-| 39 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
-| 40 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 41 | [Legally](http://twitter.com/search?q=Legally) | N/A |
-| 42 | [Audio](http://twitter.com/search?q=Audio) | N/A |
-| 43 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 44 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 45 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
-| 46 | [Tom Harwood](http://twitter.com/search?q=Tom+Harwood) | N/A |
-| 47 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 48 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
-| 49 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 28 | [Ched Evans](http://twitter.com/search?q=Ched+Evans) | N/A |
+| 29 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
+| 30 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 31 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 32 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 33 | [Crown Prosecution Service](http://twitter.com/search?q=Crown+Prosecution+Service) | N/A |
+| 34 | [Rapist](http://twitter.com/search?q=Rapist) | N/A |
+| 35 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
+| 36 | [Rodders](http://twitter.com/search?q=Rodders) | N/A |
+| 37 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
+| 38 | [Legally](http://twitter.com/search?q=Legally) | N/A |
+| 39 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
+| 40 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 41 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 42 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 43 | [Gromit](http://twitter.com/search?q=Gromit) | Gromit is a fictional character from the British stop-motion animated comedy series Wallace and Gromit. He is a loyal, intelligent, anthropomorphic dog and the best friend of Wallace, a cheese-loving inventor. The name "Gromit" is derived from the English verb "to grumble". |
+| 44 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 45 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
+| 46 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 47 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 48 | [Audio](http://twitter.com/search?q=Audio) | N/A |
+| 49 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
 
 
 

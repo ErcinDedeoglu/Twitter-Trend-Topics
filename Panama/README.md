@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-02 17:16:59 UTC`
+📆 Last Updated: `2023-02-02 18:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Panama
 | 1 | [Karen Peralta](http://twitter.com/search?q=Karen+Peralta) | N/A |
 | 2 | [Lucy Quintero](http://twitter.com/search?q=Lucy+Quintero) | N/A |
 | 3 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 7 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 4 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 5 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 8 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
 | 9 | [metro mall](http://twitter.com/search?q=metro+mall) | N/A |
-| 10 | [Cinta Costera](http://twitter.com/search?q=Cinta+Costera) | N/A |
+| 10 | [cinta costera](http://twitter.com/search?q=cinta+costera) | N/A |
 | 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 12 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 13 | [panamá viejo](http://twitter.com/search?q=panam%c3%a1+viejo) | N/A |
-| 14 | [Carrizo](http://twitter.com/search?q=Carrizo) | N/A |
-| 15 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
-| 16 | [ph pass](http://twitter.com/search?q=ph+pass) | N/A |
-| 17 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 19 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 12 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 13 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 14 | [José Gabriel Carrizo](http://twitter.com/search?q=Jos%c3%a9+Gabriel+Carrizo) | N/A |
+| 15 | [PH Pass](http://twitter.com/search?q=PH+Pass) | N/A |
+| 16 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
+| 17 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 18 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 20 | [Rubén Blades](http://twitter.com/search?q=Rub%c3%a9n+Blades) | N/A |
 | 21 | [Coclé](http://twitter.com/search?q=Cocl%c3%a9) | N/A |
 | 22 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 23 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 24 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 25 | [Laurentino Cortizo](http://twitter.com/search?q=Laurentino+Cortizo) | N/A |
-| 26 | [Presidente de la República](http://twitter.com/search?q=Presidente+de+la+Rep%c3%bablica) | N/A |
+| 23 | [Presidente de la República](http://twitter.com/search?q=Presidente+de+la+Rep%c3%bablica) | N/A |
+| 24 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 25 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 26 | [Laurentino Cortizo](http://twitter.com/search?q=Laurentino+Cortizo) | N/A |
 | 27 | [ismael rivera](http://twitter.com/search?q=ismael+rivera) | N/A |
 | 28 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
-| 29 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
-| 30 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 31 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 32 | [Hazlo](http://twitter.com/search?q=Hazlo) | N/A |
-| 33 | [Bugaba](http://twitter.com/search?q=Bugaba) | N/A |
-| 34 | [Bendiciones](http://twitter.com/search?q=Bendiciones) | N/A |
-| 35 | [Pura](http://twitter.com/search?q=Pura) | N/A |
-| 36 | [Enserio](http://twitter.com/search?q=Enserio) | N/A |
-| 37 | [Transparencia Internacional](http://twitter.com/search?q=Transparencia+Internacional) | N/A |
-| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 39 | [Mateo](http://twitter.com/search?q=Mateo) | N/A |
-| 40 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 41 | [#BuildurluvexBuild](http://twitter.com/search?q=%23BuildurluvexBuild) | N/A |
-| 42 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
-| 43 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 44 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 29 | [Bugaba](http://twitter.com/search?q=Bugaba) | N/A |
+| 30 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
+| 31 | [Hazlo](http://twitter.com/search?q=Hazlo) | N/A |
+| 32 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 33 | [Pura](http://twitter.com/search?q=Pura) | N/A |
+| 34 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 35 | [Transparencia Internacional](http://twitter.com/search?q=Transparencia+Internacional) | N/A |
+| 36 | [Minera Panamá](http://twitter.com/search?q=Minera+Panam%c3%a1) | N/A |
+| 37 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 38 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 39 | [#BuildurluvexBuild](http://twitter.com/search?q=%23BuildurluvexBuild) | N/A |
+| 40 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
+| 41 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 42 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 43 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 44 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
 | 45 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 46 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 47 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
-| 48 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 49 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
-| 50 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 46 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 47 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 48 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 49 | [Nayib Bukele](http://twitter.com/search?q=Nayib+Bukele) | N/A |
+| 50 | [cen del prd](http://twitter.com/search?q=cen+del+prd) | N/A |
 
 
 

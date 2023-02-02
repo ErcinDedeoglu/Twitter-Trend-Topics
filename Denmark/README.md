@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-02 17:16:55 UTC`
+📆 Last Updated: `2023-02-02 18:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Denmark
 | 2 | [#Sportskongres2023](http://twitter.com/search?q=%23Sportskongres2023) | N/A |
 | 3 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 4 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 5 | [Trier](http://twitter.com/search?q=Trier) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Winther](http://twitter.com/search?q=Winther) | N/A |
-| 8 | [kvickly](http://twitter.com/search?q=kvickly) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Winther](http://twitter.com/search?q=Winther) | N/A |
+| 7 | [kvickly](http://twitter.com/search?q=kvickly) | N/A |
+| 8 | [Trier](http://twitter.com/search?q=Trier) | N/A |
 | 9 | [#dkbiz](http://twitter.com/search?q=%23dkbiz) | N/A |
-| 10 | [meny](http://twitter.com/search?q=meny) | N/A |
-| 11 | [Alves](http://twitter.com/search?q=Alves) | N/A |
+| 10 | [Alves](http://twitter.com/search?q=Alves) | N/A |
+| 11 | [St. Bededag](http://twitter.com/search?q=St.+Bededag) | N/A |
 | 12 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
-| 13 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
-| 14 | [St. Bededag](http://twitter.com/search?q=St.+Bededag) | N/A |
+| 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 14 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
 | 15 | [superbrugsen](http://twitter.com/search?q=superbrugsen) | N/A |
 | 16 | [salling super](http://twitter.com/search?q=salling+super) | N/A |
 | 17 | [Rema](http://twitter.com/search?q=Rema) | N/A |
 | 18 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
-| 19 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 20 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Fakta](http://twitter.com/search?q=Fakta) | N/A |
-| 23 | [østerbro](http://twitter.com/search?q=%c3%b8sterbro) | N/A |
-| 24 | [Lars](http://twitter.com/search?q=Lars) | N/A |
-| 25 | [babacar](http://twitter.com/search?q=babacar) | N/A |
-| 26 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 27 | [Netto](http://twitter.com/search?q=Netto) | N/A |
-| 28 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 21 | [Fakta](http://twitter.com/search?q=Fakta) | N/A |
+| 22 | [østerbro](http://twitter.com/search?q=%c3%b8sterbro) | N/A |
+| 23 | [babacar](http://twitter.com/search?q=babacar) | N/A |
+| 24 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 27 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 28 | [Meny](http://twitter.com/search?q=Meny) | N/A |
 | 29 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
 | 30 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 31 | [#dktrp](http://twitter.com/search?q=%23dktrp) | N/A |
-| 32 | [Nørrebro](http://twitter.com/search?q=N%c3%b8rrebro) | N/A |
-| 33 | [bilka](http://twitter.com/search?q=bilka) | N/A |
-| 34 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 35 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 31 | [lars boje](http://twitter.com/search?q=lars+boje) | N/A |
+| 32 | [#dktrp](http://twitter.com/search?q=%23dktrp) | N/A |
+| 33 | [nørrebro](http://twitter.com/search?q=n%c3%b8rrebro) | N/A |
+| 34 | [bilka](http://twitter.com/search?q=bilka) | N/A |
+| 35 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 36 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
 | 37 | [Føtex](http://twitter.com/search?q=F%c3%b8tex) | N/A |
-| 38 | [Undskyld](http://twitter.com/search?q=Undskyld) | N/A |
-| 39 | [rosted](http://twitter.com/search?q=rosted) | N/A |
-| 40 | [henrik nordbrandt](http://twitter.com/search?q=henrik+nordbrandt) | N/A |
-| 41 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 42 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 43 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 44 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 45 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 46 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 47 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
-| 48 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
-| 49 | [tshiembe](http://twitter.com/search?q=tshiembe) | N/A |
-| 50 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
+| 38 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 39 | [Undskyld](http://twitter.com/search?q=Undskyld) | N/A |
+| 40 | [rosted](http://twitter.com/search?q=rosted) | N/A |
+| 41 | [henrik nordbrandt](http://twitter.com/search?q=henrik+nordbrandt) | N/A |
+| 42 | [Store Bededag](http://twitter.com/search?q=Store+Bededag) | N/A |
+| 43 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 44 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 45 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 46 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 47 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 48 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 49 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 50 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
 
 
 

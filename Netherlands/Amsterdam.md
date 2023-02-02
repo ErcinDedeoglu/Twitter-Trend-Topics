@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-02 17:16:24 UTC`
+📆 Last Updated: `2023-02-02 18:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [Thijs](http://twitter.com/search?q=Thijs) | Thijs is a Dutch given name, derived from the Greek name Matthias. It is a variant of the English name Matthew. The meaning of Thijs in English is "gift of God". |
 | 2 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 3 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
-| 4 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
-| 5 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 6 | [Moord](http://twitter.com/search?q=Moord) | N/A |
+| 3 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 4 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 5 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
+| 6 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
 | 7 | [#rkcgae](http://twitter.com/search?q=%23rkcgae) | N/A |
-| 8 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
-| 9 | [#kleurindenatuur](http://twitter.com/search?q=%23kleurindenatuur) | N/A |
-| 10 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 11 | [Gekkekoeienziekte](http://twitter.com/search?q=Gekkekoeienziekte) | N/A |
+| 8 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 9 | [Moord](http://twitter.com/search?q=Moord) | N/A |
+| 10 | [#eenvandaag](http://twitter.com/search?q=%23eenvandaag) | N/A |
+| 11 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
 | 12 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
 | 13 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
-| 14 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 15 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
-| 16 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 17 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
+| 14 | [Eritreeërs](http://twitter.com/search?q=Eritree%c3%abrs) | N/A |
+| 15 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 16 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
+| 17 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
 | 18 | [Wetenschap](http://twitter.com/search?q=Wetenschap) | N/A |
-| 19 | [Eritreeërs](http://twitter.com/search?q=Eritree%c3%abrs) | N/A |
+| 19 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 20 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Malek F.](http://twitter.com/search?q=Malek+F.) | N/A |
-| 23 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 24 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
-| 25 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 26 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 27 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
-| 28 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 29 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 30 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 31 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 32 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
-| 33 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 34 | [Regiobank](http://twitter.com/search?q=Regiobank) | N/A |
-| 35 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 36 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
+| 21 | [Shell-winst](http://twitter.com/search?q=Shell-winst) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [malek f.](http://twitter.com/search?q=malek+f.) | N/A |
+| 24 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
+| 25 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 26 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 27 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
+| 28 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 29 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
+| 30 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 31 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 32 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
+| 33 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 34 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
+| 35 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
+| 36 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 37 | [Interrail](http://twitter.com/search?q=Interrail) | N/A |
-| 38 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 39 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
-| 40 | [Dwight Lodeweges](http://twitter.com/search?q=Dwight+Lodeweges) | N/A |
-| 41 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
-| 42 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 43 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 38 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
+| 39 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 40 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 41 | [Excuses](http://twitter.com/search?q=Excuses) | N/A |
+| 42 | [Regiobank](http://twitter.com/search?q=Regiobank) | N/A |
+| 43 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
 | 44 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 45 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 45 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 46 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 47 | [Topjaar](http://twitter.com/search?q=Topjaar) | N/A |
-| 48 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
-| 49 | [Excuses](http://twitter.com/search?q=Excuses) | N/A |
+| 47 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
+| 48 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 49 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 50 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 
 
 

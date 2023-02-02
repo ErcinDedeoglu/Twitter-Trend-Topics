@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-02-02 17:16:28 UTC`
+📆 Last Updated: `2023-02-02 18:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,17 +16,17 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pell](http://twitter.com/search?q=Pell) | Pell is a term used in the United States to refer to a type of federal grant given to students who demonstrate financial need. The grants are usually used to help pay for college tuition and other educational expenses. |
-| 2 | [tudge](http://twitter.com/search?q=tudge) | N/A |
+| 2 | [Tudge](http://twitter.com/search?q=Tudge) | N/A |
 | 3 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
 | 4 | [Porter](http://twitter.com/search?q=Porter) | N/A |
 | 5 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 6 | [#TaskmasterAU](http://twitter.com/search?q=%23TaskmasterAU) | N/A |
-| 7 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 8 | [Tony Abbott](http://twitter.com/search?q=Tony+Abbott) | N/A |
-| 9 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
-| 10 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 11 | [michael neser](http://twitter.com/search?q=michael+neser) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Tony Abbott](http://twitter.com/search?q=Tony+Abbott) | N/A |
+| 8 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
+| 9 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 10 | [michael neser](http://twitter.com/search?q=michael+neser) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 13 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
 | 14 | [Scorchers](http://twitter.com/search?q=Scorchers) | N/A |
 | 15 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
@@ -44,7 +44,7 @@ This is top 50 for [Australia](</Australia>)
 | 27 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
 | 28 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 29 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 30 | [Mary Mackillop](http://twitter.com/search?q=Mary+Mackillop) | N/A |
+| 30 | [Mary MacKillop](http://twitter.com/search?q=Mary+MacKillop) | N/A |
 | 31 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
 | 32 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
 | 33 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
@@ -53,7 +53,7 @@ This is top 50 for [Australia](</Australia>)
 | 36 | [the rba](http://twitter.com/search?q=the+rba) | N/A |
 | 37 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
 | 38 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 39 | [Barilaro](http://twitter.com/search?q=Barilaro) | N/A |
+| 39 | [barilaro](http://twitter.com/search?q=barilaro) | N/A |
 | 40 | [the reserve bank](http://twitter.com/search?q=the+reserve+bank) | N/A |
 | 41 | [Australian $5](http://twitter.com/search?q=Australian+%245) | N/A |
 | 42 | [Tone](http://twitter.com/search?q=Tone) | N/A |

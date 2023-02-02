@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-02 17:16:56 UTC`
+📆 Last Updated: `2023-02-02 18:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sihem](http://twitter.com/search?q=%23Sihem) | N/A |
-| 2 | [#chandeleur](http://twitter.com/search?q=%23chandeleur) | N/A |
-| 3 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 4 | [#MHSCPSG](http://twitter.com/search?q=%23MHSCPSG) | N/A |
-| 5 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 6 | [Philippe Tesson](http://twitter.com/search?q=Philippe+Tesson) | N/A |
-| 7 | [#FCNOM](http://twitter.com/search?q=%23FCNOM) | #FCNOM stands for "Fuerza Ciudadana Nacional de México," which translates to "National Citizen Force of Mexico" in English. It is a movement in Mexico that seeks to promote democracy, human rights, and social justice. |
-| 8 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 9 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 10 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 12 | [#StValentinDominosXCGR](http://twitter.com/search?q=%23StValentinDominosXCGR) | N/A |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 15 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 16 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
-| 19 | [PETASSE](http://twitter.com/search?q=PETASSE) | N/A |
-| 20 | [Stalingrad](http://twitter.com/search?q=Stalingrad) | N/A |
-| 21 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 22 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 23 | [Sebastian Pallow](http://twitter.com/search?q=Sebastian+Pallow) | N/A |
-| 24 | [Jack Lang](http://twitter.com/search?q=Jack+Lang) | N/A |
-| 25 | [Allah y Rahma](http://twitter.com/search?q=Allah+y+Rahma) | N/A |
-| 26 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 27 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 28 | [Clarisse Crémer](http://twitter.com/search?q=Clarisse+Cr%c3%a9mer) | N/A |
-| 29 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
-| 30 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 31 | [Quotidien de Paris](http://twitter.com/search?q=Quotidien+de+Paris) | N/A |
-| 32 | [Vendée Globe](http://twitter.com/search?q=Vend%c3%a9e+Globe) | N/A |
-| 33 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 34 | [Clara Morgane](http://twitter.com/search?q=Clara+Morgane) | N/A |
-| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 36 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 37 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 38 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 39 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 40 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 41 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 42 | [Veran](http://twitter.com/search?q=Veran) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [Raven](http://twitter.com/search?q=Raven) | N/A |
-| 45 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 46 | [savanier](http://twitter.com/search?q=savanier) | N/A |
-| 47 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 48 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 49 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 50 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
+| 1 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 2 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 3 | [#FrenchMP4Iran](http://twitter.com/search?q=%23FrenchMP4Iran) | N/A |
+| 4 | [#ANpourlaliberté](http://twitter.com/search?q=%23ANpourlalibert%c3%a9) | N/A |
+| 5 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 6 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [FNCS](http://twitter.com/search?q=FNCS) | N/A |
+| 9 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 10 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 11 | [Luidji](http://twitter.com/search?q=Luidji) | N/A |
+| 12 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 13 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
+| 14 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 15 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 16 | [PETASSE](http://twitter.com/search?q=PETASSE) | N/A |
+| 17 | [Vendée Globe](http://twitter.com/search?q=Vend%c3%a9e+Globe) | N/A |
+| 18 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 19 | [Philippe Tesson](http://twitter.com/search?q=Philippe+Tesson) | N/A |
+| 20 | [Matrix](http://twitter.com/search?q=Matrix) | N/A |
+| 21 | [Salomé](http://twitter.com/search?q=Salom%c3%a9) | N/A |
+| 22 | [Clarisse Crémer](http://twitter.com/search?q=Clarisse+Cr%c3%a9mer) | N/A |
+| 23 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 24 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 25 | [Amine](http://twitter.com/search?q=Amine) | N/A |
+| 26 | [Stalingrad](http://twitter.com/search?q=Stalingrad) | N/A |
+| 27 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 28 | [Staline](http://twitter.com/search?q=Staline) | N/A |
+| 29 | [Kylian Mbappé](http://twitter.com/search?q=Kylian+Mbapp%c3%a9) | N/A |
+| 30 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 31 | [Sadek](http://twitter.com/search?q=Sadek) | N/A |
+| 32 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 33 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 34 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 35 | [#chandeleur](http://twitter.com/search?q=%23chandeleur) | N/A |
+| 36 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
+| 37 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 38 | [#Sihem](http://twitter.com/search?q=%23Sihem) | N/A |
+| 39 | [#StValentinDominosXCGR](http://twitter.com/search?q=%23StValentinDominosXCGR) | N/A |
+| 40 | [#EDB2023](http://twitter.com/search?q=%23EDB2023) | N/A |
+| 41 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 42 | [#VeryTechTrip](http://twitter.com/search?q=%23VeryTechTrip) | N/A |
 
 
 

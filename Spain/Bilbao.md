@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-02 17:16:24 UTC`
+📆 Last Updated: `2023-02-02 18:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Puyol](http://twitter.com/search?q=Puyol) | N/A |
-| 2 | [#TierraAmarga2Feb](http://twitter.com/search?q=%23TierraAmarga2Feb) | N/A |
-| 3 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 4 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
-| 5 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 6 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
-| 7 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
-| 8 | [Glovo](http://twitter.com/search?q=Glovo) | N/A |
-| 9 | [José Otero](http://twitter.com/search?q=Jos%c3%a9+Otero) | N/A |
-| 10 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 11 | [Luisa Fernanda](http://twitter.com/search?q=Luisa+Fernanda) | N/A |
+| 1 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 2 | [#TIKITIKI](http://twitter.com/search?q=%23TIKITIKI) | N/A |
+| 3 | [#TierraAmarga2Feb](http://twitter.com/search?q=%23TierraAmarga2Feb) | N/A |
+| 4 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 5 | [Puyol](http://twitter.com/search?q=Puyol) | N/A |
+| 6 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
+| 7 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
+| 8 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 9 | [Glovo](http://twitter.com/search?q=Glovo) | N/A |
+| 10 | [Luisa Fernanda](http://twitter.com/search?q=Luisa+Fernanda) | N/A |
+| 11 | [José Otero](http://twitter.com/search?q=Jos%c3%a9+Otero) | N/A |
 | 12 | [Karmento](http://twitter.com/search?q=Karmento) | N/A |
-| 13 | [Famous](http://twitter.com/search?q=Famous) | N/A |
-| 14 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
-| 15 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
-| 16 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 17 | [Phil](http://twitter.com/search?q=Phil) | N/A |
-| 18 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 19 | [Vicco](http://twitter.com/search?q=Vicco) | N/A |
-| 20 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 21 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 22 | [Alfred](http://twitter.com/search?q=Alfred) | N/A |
-| 23 | [Nochentera](http://twitter.com/search?q=Nochentera) | N/A |
-| 24 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
-| 25 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
-| 26 | [Mema](http://twitter.com/search?q=Mema) | N/A |
-| 27 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
-| 28 | [Orgullo](http://twitter.com/search?q=Orgullo) | N/A |
-| 29 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 30 | [La 2](http://twitter.com/search?q=La+2) | N/A |
-| 31 | [Cáncer](http://twitter.com/search?q=C%c3%a1ncer) | N/A |
-| 32 | [Candelas](http://twitter.com/search?q=Candelas) | N/A |
-| 33 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 34 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 35 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
-| 36 | [Begoño](http://twitter.com/search?q=Bego%c3%b1o) | N/A |
-| 37 | [Miku](http://twitter.com/search?q=Miku) | N/A |
-| 38 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 39 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
-| 40 | [#VCV2023](http://twitter.com/search?q=%23VCV2023) | N/A |
-| 41 | [#Solos2F](http://twitter.com/search?q=%23Solos2F) | N/A |
-| 42 | [#DiaMundialDeLosHumedales](http://twitter.com/search?q=%23DiaMundialDeLosHumedales) | N/A |
-| 43 | [#APOYOROCIO2F](http://twitter.com/search?q=%23APOYOROCIO2F) | N/A |
-| 44 | [#CrisPorta2F](http://twitter.com/search?q=%23CrisPorta2F) | N/A |
-| 45 | [#PequeñaGranComunidad](http://twitter.com/search?q=%23Peque%c3%b1aGranComunidad) | N/A |
-| 46 | [#YoMeRebelo2F](http://twitter.com/search?q=%23YoMeRebelo2F) | N/A |
-| 47 | [#diadelamarmota](http://twitter.com/search?q=%23diadelamarmota) | N/A |
-| 48 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
+| 13 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
+| 14 | [España y Marruecos](http://twitter.com/search?q=Espa%c3%b1a+y+Marruecos) | N/A |
+| 15 | [Rakky Ripper](http://twitter.com/search?q=Rakky+Ripper) | N/A |
+| 16 | [Vicco](http://twitter.com/search?q=Vicco) | N/A |
+| 17 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
+| 18 | [Famous](http://twitter.com/search?q=Famous) | N/A |
+| 19 | [Phil](http://twitter.com/search?q=Phil) | N/A |
+| 20 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 21 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
+| 22 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
+| 23 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 24 | [Rey de Marruecos](http://twitter.com/search?q=Rey+de+Marruecos) | N/A |
+| 25 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
+| 26 | [Alfred](http://twitter.com/search?q=Alfred) | N/A |
+| 27 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 28 | [Mema](http://twitter.com/search?q=Mema) | N/A |
+| 29 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 30 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
+| 31 | [Sergi](http://twitter.com/search?q=Sergi) | N/A |
+| 32 | [Nochentera](http://twitter.com/search?q=Nochentera) | N/A |
+| 33 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 34 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 35 | [La 2](http://twitter.com/search?q=La+2) | N/A |
+| 36 | [Orgullo](http://twitter.com/search?q=Orgullo) | N/A |
+| 37 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
+| 38 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 39 | [Begoño](http://twitter.com/search?q=Bego%c3%b1o) | N/A |
+| 40 | [Miku](http://twitter.com/search?q=Miku) | N/A |
+| 41 | [#EnginAkyürek](http://twitter.com/search?q=%23EnginAky%c3%bcrek) | N/A |
+| 42 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 43 | [#PequeñaGranComunidad](http://twitter.com/search?q=%23Peque%c3%b1aGranComunidad) | N/A |
+| 44 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
+| 45 | [#SuperligaLoL](http://twitter.com/search?q=%23SuperligaLoL) | N/A |
+| 46 | [#Solos2F](http://twitter.com/search?q=%23Solos2F) | N/A |
+| 47 | [#YoMeRebelo2F](http://twitter.com/search?q=%23YoMeRebelo2F) | N/A |
+| 48 | [#VCV2023](http://twitter.com/search?q=%23VCV2023) | N/A |
+| 49 | [#CrisPorta2F](http://twitter.com/search?q=%23CrisPorta2F) | N/A |
 
 
 

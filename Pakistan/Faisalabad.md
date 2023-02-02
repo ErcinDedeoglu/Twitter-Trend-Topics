@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-02-02 17:16:41 UTC`
+📆 Last Updated: `2023-02-02 18:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#ImranRiazKhan](http://twitter.com/search?q=%23ImranRiazKhan) | N/A |
 | 4 | [#اسلام_دشمنوں_کاگٹھ_جوڑ](http://twitter.com/search?q=%23%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%af%d8%b4%d9%85%d9%86%d9%88%da%ba_%da%a9%d8%a7%da%af%d9%b9%da%be_%d8%ac%d9%88%da%91) | N/A |
 | 5 | [#ImranKhanWasRight](http://twitter.com/search?q=%23ImranKhanWasRight) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [ASIM'S FASTEST 15M RECORD DAY](http://twitter.com/search?q=ASIM%27S+FASTEST+15M+RECORD+DAY) | N/A |
+| 6 | [ASIM'S FASTEST 15M RECORD DAY](http://twitter.com/search?q=ASIM%27S+FASTEST+15M+RECORD+DAY) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 8 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 9 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 10 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 9 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 10 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
 | 11 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
 | 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 13 | [Yasir Arafat](http://twitter.com/search?q=Yasir+Arafat) | N/A |
 | 14 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
 | 15 | [Shubman Gill](http://twitter.com/search?q=Shubman+Gill) | Shubman Gill is an Indian cricketer who plays for the Indian national team. He is a right-handed batsman and occasional right-arm off break bowler. He made his international debut in 2018 and has since become one of the most promising young players in the country. |
-| 16 | [awami muslim league](http://twitter.com/search?q=awami+muslim+league) | N/A |
-| 17 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 16 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 17 | [awami muslim league](http://twitter.com/search?q=awami+muslim+league) | N/A |
 | 18 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
 | 19 | [Munir Akram](http://twitter.com/search?q=Munir+Akram) | N/A |
 | 20 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
 | 21 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 22 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 23 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 24 | [REIGNING ERA OF SUMBUL](http://twitter.com/search?q=REIGNING+ERA+OF+SUMBUL) | N/A |
-| 25 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
-| 26 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
-| 27 | [Mother's Love](http://twitter.com/search?q=Mother%27s+Love) | N/A |
-| 28 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 29 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 30 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 31 | [Ma Sha Allah](http://twitter.com/search?q=Ma+Sha+Allah) | N/A |
-| 32 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 33 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 34 | [Yummy](http://twitter.com/search?q=Yummy) | N/A |
-| 35 | [Evening](http://twitter.com/search?q=Evening) | N/A |
-| 36 | [Shaheen Afridi](http://twitter.com/search?q=Shaheen+Afridi) | N/A |
-| 37 | [Extremely](http://twitter.com/search?q=Extremely) | N/A |
-| 38 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 39 | [Respected](http://twitter.com/search?q=Respected) | N/A |
-| 40 | [Gujranwala](http://twitter.com/search?q=Gujranwala) | N/A |
-| 41 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
-| 42 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 43 | [Jazakallah](http://twitter.com/search?q=Jazakallah) | N/A |
-| 44 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
-| 45 | [Ohoo](http://twitter.com/search?q=Ohoo) | N/A |
+| 22 | [REIGNING ERA OF SUMBUL](http://twitter.com/search?q=REIGNING+ERA+OF+SUMBUL) | N/A |
+| 23 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
+| 24 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
+| 25 | [Mother's Love](http://twitter.com/search?q=Mother%27s+Love) | N/A |
+| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 27 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 28 | [Kohat](http://twitter.com/search?q=Kohat) | N/A |
+| 29 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
+| 30 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
+| 31 | [Bold](http://twitter.com/search?q=Bold) | N/A |
+| 32 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 34 | [Fiverr](http://twitter.com/search?q=Fiverr) | N/A |
+| 35 | [Welldone](http://twitter.com/search?q=Welldone) | N/A |
+| 36 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 37 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 38 | [Rana Sanaullah](http://twitter.com/search?q=Rana+Sanaullah) | N/A |
+| 39 | [Humanity](http://twitter.com/search?q=Humanity) | N/A |
+| 40 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 41 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
+| 42 | [Respected](http://twitter.com/search?q=Respected) | N/A |
+| 43 | [Gujranwala](http://twitter.com/search?q=Gujranwala) | N/A |
+| 44 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 45 | [Karen](http://twitter.com/search?q=Karen) | N/A |
 | 46 | [Yehi](http://twitter.com/search?q=Yehi) | N/A |
-| 47 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 48 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 49 | [Atleast](http://twitter.com/search?q=Atleast) | N/A |
-| 50 | [Superb](http://twitter.com/search?q=Superb) | N/A |
+| 47 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 48 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 49 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 50 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
 
 
 

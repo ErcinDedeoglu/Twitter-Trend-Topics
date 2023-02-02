@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-02 17:16:45 UTC`
+📆 Last Updated: `2023-02-02 18:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ADSvsFB](http://twitter.com/search?q=%23ADSvsFB) | N/A |
-| 2 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
-| 3 | [#ŞartınHesabınıSorarız](http://twitter.com/search?q=%23%c5%9eart%c4%b1nHesab%c4%b1n%c4%b1Sorar%c4%b1z) | #ŞartınHesabınıSorarız is a Turkish hashtag that translates to "We Ask for the Terms of the Deal". It is used to express the idea of demanding transparency and accountability in any agreement or transaction. |
-| 4 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 5 | [Gökkubbe](http://twitter.com/search?q=G%c3%b6kkubbe) | Gökkubbe is a Swedish term for a traditional dessert made with meringue, whipped cream, and fruit. The literal translation of Gökkubbe is "sky dome," which refers to the dome-like shape of the dessert. |
-| 6 | [#konyaşehirdeskandal](http://twitter.com/search?q=%23konya%c5%9fehirdeskandal) | N/A |
-| 7 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 8 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 10 | [TarakSana GirsinZeyd](http://twitter.com/search?q=TarakSana+GirsinZeyd) | TarakSana GirsinZeyd is a Turkish proverb that translates to "May your troubles be lessened". It is used as a way to wish someone good luck and success. |
-| 11 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
-| 12 | [Bu 11](http://twitter.com/search?q=Bu+11) | N/A |
-| 13 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 14 | [Yalnızsın SedatPolat](http://twitter.com/search?q=Yaln%c4%b1zs%c4%b1n+SedatPolat) | Yalnızsın SedatPolat is a Turkish phrase that translates to "You are alone, SedatPolat." It is a phrase of encouragement and support, suggesting that the person being addressed should not feel alone or isolated. |
-| 15 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 16 | [İlk 11](http://twitter.com/search?q=%c4%b0lk+11) | N/A |
-| 17 | [YalnızDeğilsin SedatPolat](http://twitter.com/search?q=Yaln%c4%b1zDe%c4%9filsin+SedatPolat) | YalnızDeğilsin SedatPolat is a Turkish phrase that translates to "You are not alone, SedatPolat." It is a phrase of encouragement and support. |
-| 18 | [YIPRATACAĞIMIZ ADAYINIZ KİM](http://twitter.com/search?q=YIPRATACA%c4%9eIMIZ+ADAYINIZ+K%c4%b0M) | N/A |
-| 19 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 20 | [MrVogue OnurSeyitYaran](http://twitter.com/search?q=MrVogue+OnurSeyitYaran) | N/A |
-| 21 | [ArrrkamaDogru SeyDaa](http://twitter.com/search?q=ArrrkamaDogru+SeyDaa) | N/A |
-| 22 | [İlhan Palut](http://twitter.com/search?q=%c4%b0lhan+Palut) | İlhan Palut is a Turkish name. It is composed of two words: İlhan, which means "emperor" or "ruler," and Palut, which means "brave." In English, the name could be translated as "brave ruler." |
-| 23 | [YükselenYıldız SümeyyeAydoğan](http://twitter.com/search?q=Y%c3%bckselenY%c4%b1ld%c4%b1z+S%c3%bcmeyyeAydo%c4%9fan) | N/A |
-| 24 | [Onyekuru](http://twitter.com/search?q=Onyekuru) | N/A |
-| 25 | [Kadroya](http://twitter.com/search?q=Kadroya) | N/A |
-| 26 | [Barbaros Şansal](http://twitter.com/search?q=Barbaros+%c5%9eansal) | N/A |
-| 27 | [İETT](http://twitter.com/search?q=%c4%b0ETT) | N/A |
-| 28 | [Metin Uca](http://twitter.com/search?q=Metin+Uca) | N/A |
-| 29 | [Japonya](http://twitter.com/search?q=Japonya) | N/A |
-| 30 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 31 | [Uğur](http://twitter.com/search?q=U%c4%9fur) | N/A |
-| 32 | [Belhanda](http://twitter.com/search?q=Belhanda) | N/A |
-| 33 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 34 | [Dışişleri Bakanlığı'na](http://twitter.com/search?q=D%c4%b1%c5%9fi%c5%9fleri+Bakanl%c4%b1%c4%9f%c4%b1%27na) | N/A |
-| 35 | [İsviçre Başkonsolosluğu](http://twitter.com/search?q=%c4%b0svi%c3%a7re+Ba%c5%9fkonsoloslu%c4%9fu) | N/A |
-| 36 | [Amir Hadziahmetovic](http://twitter.com/search?q=Amir+Hadziahmetovic) | N/A |
-| 37 | [Sarma](http://twitter.com/search?q=Sarma) | N/A |
-| 38 | [Kullanıcı](http://twitter.com/search?q=Kullan%c4%b1c%c4%b1) | N/A |
-| 39 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
-| 40 | [Galatasaray Trabzonspor](http://twitter.com/search?q=Galatasaray+Trabzonspor) | N/A |
-| 41 | [Aydos Kalesi](http://twitter.com/search?q=Aydos+Kalesi) | N/A |
-| 42 | [Kıble](http://twitter.com/search?q=K%c4%b1ble) | N/A |
-| 43 | [Fenerbahçem](http://twitter.com/search?q=Fenerbah%c3%a7em) | N/A |
-| 44 | [Samsun'da](http://twitter.com/search?q=Samsun%27da) | N/A |
-| 45 | [3 Şubat Cuma](http://twitter.com/search?q=3+%c5%9eubat+Cuma) | N/A |
-| 46 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 47 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 48 | [İstanbul Havalimanı'nda](http://twitter.com/search?q=%c4%b0stanbul+Havaliman%c4%b1%27nda) | N/A |
+| 1 | [#ADSvFB](http://twitter.com/search?q=%23ADSvFB) | #ADSvFB is a hashtag used to refer to the Australian Digital Services (ADS) versus Facebook legal dispute. The dispute arose when the Australian government proposed a law that would require digital platforms such as Facebook and Google to pay news outlets for content. Facebook responded by blocking news content from its platform in Australia. |
+| 2 | [Ali Palabıyık](http://twitter.com/search?q=Ali+Palab%c4%b1y%c4%b1k) | N/A |
+| 3 | [#AdanadaOperasyonVAR](http://twitter.com/search?q=%23AdanadaOperasyonVAR) | N/A |
+| 4 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
+| 5 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
+| 6 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
+| 7 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
+| 8 | [Batshuayi](http://twitter.com/search?q=Batshuayi) | Batshuayi is the surname of Belgian professional footballer Michy Batshuayi. It is not an English word and does not have a direct translation. |
+| 9 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
+| 10 | [#fenerinmacivar](http://twitter.com/search?q=%23fenerinmacivar) | N/A |
+| 11 | [#ŞartınHesabınıSorarız](http://twitter.com/search?q=%23%c5%9eart%c4%b1nHesab%c4%b1n%c4%b1Sorar%c4%b1z) | #ŞartınHesabınıSorarız is a Turkish hashtag that translates to "We Ask for the Terms of the Deal". It is used to express the idea of demanding transparency and accountability in any agreement or transaction. |
+| 12 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
+| 13 | [Onyekuru](http://twitter.com/search?q=Onyekuru) | Onyekuru is a Nigerian name derived from the Igbo language. It means “God's work” or “God's creation” in English. |
+| 14 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 15 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 16 | [Gökkubbe](http://twitter.com/search?q=G%c3%b6kkubbe) | Gökkubbe is a Swedish term for a traditional dessert made with meringue, whipped cream, and fruit. The literal translation of Gökkubbe is "sky dome," which refers to the dome-like shape of the dessert. |
+| 17 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 18 | [Elimsi](http://twitter.com/search?q=Elimsi) | N/A |
+| 19 | [Takımı](http://twitter.com/search?q=Tak%c4%b1m%c4%b1) | N/A |
+| 20 | [Herkesİçin EvrenselHukuk](http://twitter.com/search?q=Herkes%c4%b0%c3%a7in+EvrenselHukuk) | N/A |
+| 21 | [Çekin](http://twitter.com/search?q=%c3%87ekin) | N/A |
+| 22 | [TarakSana GirsinZeyd](http://twitter.com/search?q=TarakSana+GirsinZeyd) | TarakSana GirsinZeyd is a Turkish proverb that translates to "May your troubles be lessened". It is used as a way to wish someone good luck and success. |
+| 23 | [Bu 11](http://twitter.com/search?q=Bu+11) | N/A |
+| 24 | [Koray Gençerler](http://twitter.com/search?q=Koray+Gen%c3%a7erler) | N/A |
+| 25 | [YIPRATACAĞIMIZ ADAYINIZ KİM](http://twitter.com/search?q=YIPRATACA%c4%9eIMIZ+ADAYINIZ+K%c4%b0M) | N/A |
+| 26 | [ÜçYirmiÜç ElSed](http://twitter.com/search?q=%c3%9c%c3%a7Yirmi%c3%9c%c3%a7+ElSed) | N/A |
+| 27 | [Rıdvan Dilmen](http://twitter.com/search?q=R%c4%b1dvan+Dilmen) | N/A |
+| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 29 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 30 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 31 | [Kart](http://twitter.com/search?q=Kart) | N/A |
+| 32 | [İptal](http://twitter.com/search?q=%c4%b0ptal) | N/A |
+| 33 | [Ertaç](http://twitter.com/search?q=Erta%c3%a7) | N/A |
+| 34 | [Ligden](http://twitter.com/search?q=Ligden) | N/A |
+| 35 | [Tertemiz](http://twitter.com/search?q=Tertemiz) | N/A |
+| 36 | [İETT](http://twitter.com/search?q=%c4%b0ETT) | N/A |
+| 37 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 38 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 39 | [Çıkın](http://twitter.com/search?q=%c3%87%c4%b1k%c4%b1n) | N/A |
+| 40 | [Emre Akbaba](http://twitter.com/search?q=Emre+Akbaba) | N/A |
+| 41 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 42 | [Çekilin](http://twitter.com/search?q=%c3%87ekilin) | N/A |
+| 43 | [Golü](http://twitter.com/search?q=Gol%c3%bc) | N/A |
+| 44 | [Sizin Allah](http://twitter.com/search?q=Sizin+Allah) | N/A |
+| 45 | [Yalnızsın SedatPolat](http://twitter.com/search?q=Yaln%c4%b1zs%c4%b1n+SedatPolat) | Yalnızsın SedatPolat is a Turkish phrase that translates to "You are alone, SedatPolat." It is a phrase of encouragement and support, suggesting that the person being addressed should not feel alone or isolated. |
+| 46 | [VAR'da](http://twitter.com/search?q=VAR%27da) | N/A |
+| 47 | [Kadroya](http://twitter.com/search?q=Kadroya) | N/A |
+| 48 | [YalnızDeğilsin SedatPolat](http://twitter.com/search?q=Yaln%c4%b1zDe%c4%9filsin+SedatPolat) | YalnızDeğilsin SedatPolat is a Turkish phrase that translates to "You are not alone, SedatPolat." It is a phrase of encouragement and support. |
+| 49 | [Tetikçi](http://twitter.com/search?q=Tetik%c3%a7i) | N/A |
 
 
 

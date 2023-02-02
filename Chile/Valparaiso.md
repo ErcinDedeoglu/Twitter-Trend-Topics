@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-02 17:16:14 UTC`
+📆 Last Updated: `2023-02-02 18:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,48 @@ This is top 50 for [Chile](</Chile>)
 | 4 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
 | 5 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#BailandoDosCorazones](http://twitter.com/search?q=%23BailandoDosCorazones) | N/A |
-| 8 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
-| 9 | [#MerluzoCTM](http://twitter.com/search?q=%23MerluzoCTM) | N/A |
-| 10 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 11 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 12 | [Twitch Chile](http://twitter.com/search?q=Twitch+Chile) | N/A |
-| 13 | [#BuenosDiasTVN](http://twitter.com/search?q=%23BuenosDiasTVN) | N/A |
-| 14 | [#FantasmaEnAutopiZta](http://twitter.com/search?q=%23FantasmaEnAutopiZta) | N/A |
-| 15 | [Valentín Trujillo](http://twitter.com/search?q=Valent%c3%adn+Trujillo) | N/A |
+| 7 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 8 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 9 | [#SoyComoUnNiño](http://twitter.com/search?q=%23SoyComoUnNi%c3%b1o) | N/A |
+| 10 | [Twitch Chile](http://twitter.com/search?q=Twitch+Chile) | N/A |
+| 11 | [#Quillón](http://twitter.com/search?q=%23Quill%c3%b3n) | N/A |
+| 12 | [#MerluzoCTM](http://twitter.com/search?q=%23MerluzoCTM) | N/A |
+| 13 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 14 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 15 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
 | 16 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 17 | [Marco Antonio López](http://twitter.com/search?q=Marco+Antonio+L%c3%b3pez) | N/A |
-| 18 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
-| 19 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 20 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
-| 21 | [Bellas Artes](http://twitter.com/search?q=Bellas+Artes) | N/A |
-| 22 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 23 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
-| 24 | [Longueira](http://twitter.com/search?q=Longueira) | N/A |
-| 25 | [Brilla](http://twitter.com/search?q=Brilla) | N/A |
-| 26 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 27 | [Caso Relojes](http://twitter.com/search?q=Caso+Relojes) | N/A |
-| 28 | [Quilmo](http://twitter.com/search?q=Quilmo) | N/A |
-| 29 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 30 | [Fidel Espinoza](http://twitter.com/search?q=Fidel+Espinoza) | N/A |
-| 31 | [Recoleta](http://twitter.com/search?q=Recoleta) | N/A |
-| 32 | [Arriagada](http://twitter.com/search?q=Arriagada) | N/A |
-| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 34 | [Javiera Parada](http://twitter.com/search?q=Javiera+Parada) | N/A |
-| 35 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 36 | [Golpe](http://twitter.com/search?q=Golpe) | N/A |
-| 37 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 38 | [Centro de Justicia](http://twitter.com/search?q=Centro+de+Justicia) | N/A |
-| 39 | [Municipalidad de Santiago](http://twitter.com/search?q=Municipalidad+de+Santiago) | N/A |
-| 40 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 17 | [Valentín Trujillo](http://twitter.com/search?q=Valent%c3%adn+Trujillo) | N/A |
+| 18 | [Marco Antonio López](http://twitter.com/search?q=Marco+Antonio+L%c3%b3pez) | N/A |
+| 19 | [Bellas Artes](http://twitter.com/search?q=Bellas+Artes) | N/A |
+| 20 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 21 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 22 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 24 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
+| 25 | [Caso Relojes](http://twitter.com/search?q=Caso+Relojes) | N/A |
+| 26 | [Longueira](http://twitter.com/search?q=Longueira) | N/A |
+| 27 | [Presidente Boric](http://twitter.com/search?q=Presidente+Boric) | N/A |
+| 28 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
+| 29 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 30 | [Recoleta](http://twitter.com/search?q=Recoleta) | N/A |
+| 31 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 32 | [Javiera Parada](http://twitter.com/search?q=Javiera+Parada) | N/A |
+| 33 | [Golpe](http://twitter.com/search?q=Golpe) | N/A |
+| 34 | [Arriagada](http://twitter.com/search?q=Arriagada) | N/A |
+| 35 | [Fidel Espinoza](http://twitter.com/search?q=Fidel+Espinoza) | N/A |
+| 36 | [Quilmo](http://twitter.com/search?q=Quilmo) | N/A |
+| 37 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 38 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
+| 39 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 40 | [Brilla](http://twitter.com/search?q=Brilla) | N/A |
 | 41 | [villa jerusalén](http://twitter.com/search?q=villa+jerusal%c3%a9n) | N/A |
-| 42 | [Imacec](http://twitter.com/search?q=Imacec) | N/A |
-| 43 | [El PS](http://twitter.com/search?q=El+PS) | N/A |
-| 44 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 45 | [Alerta Roja](http://twitter.com/search?q=Alerta+Roja) | N/A |
-| 46 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 47 | [Únete](http://twitter.com/search?q=%c3%9anete) | N/A |
-| 48 | [Camionero](http://twitter.com/search?q=Camionero) | N/A |
-| 49 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 42 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 43 | [Municipalidad de Santiago](http://twitter.com/search?q=Municipalidad+de+Santiago) | N/A |
+| 44 | [Centro de Justicia](http://twitter.com/search?q=Centro+de+Justicia) | N/A |
+| 45 | [El PS](http://twitter.com/search?q=El+PS) | N/A |
+| 46 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 47 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 48 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
 
 
 

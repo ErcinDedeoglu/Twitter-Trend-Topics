@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-02 17:16:54 UTC`
+📆 Last Updated: `2023-02-02 18:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
 | 2 | [Marcos do Val](http://twitter.com/search?q=Marcos+do+Val) | Marcos do Val is a Portuguese expression that literally translates to “Mark of the Valley”. It is used to describe someone who is from a rural area and has a simple, rustic lifestyle. |
-| 3 | [Iemanjá](http://twitter.com/search?q=Iemanj%c3%a1) | Iemanjá is an Afro-Brazilian goddess of the sea, and is considered the queen of the ocean. Her name translates to "Mother of Waters" in English. She is a symbol of fertility, femininity, and motherhood, and is often depicted as a mermaid or an African woman with a crown of shells. |
-| 4 | [Daniel Silveira](http://twitter.com/search?q=Daniel+Silveira) | Daniel Silveira is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”. |
-| 5 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
-| 6 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 7 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 8 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 9 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 10 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 11 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 12 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 13 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 14 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 15 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 16 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 17 | [CAROL BIAZIN MUY MALA](http://twitter.com/search?q=CAROL+BIAZIN+MUY+MALA) | N/A |
-| 18 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
-| 19 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
-| 20 | [Fyodor](http://twitter.com/search?q=Fyodor) | Fyodor is a Russian male name derived from the Greek name Theodoros, meaning "gift of God". |
-| 21 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 22 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 23 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 24 | [Fogaça](http://twitter.com/search?q=Foga%c3%a7a) | N/A |
-| 25 | [Jeremias](http://twitter.com/search?q=Jeremias) | Jeremias is a male given name of Hebrew origin, derived from the prophet Jeremiah. In English, it is usually translated as "Jeremiah". |
-| 26 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 27 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 28 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 29 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
-| 30 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 31 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 32 | [Glorinha](http://twitter.com/search?q=Glorinha) | N/A |
-| 33 | [Dólar](http://twitter.com/search?q=D%c3%b3lar) | N/A |
-| 34 | [Globo Repórter](http://twitter.com/search?q=Globo+Rep%c3%b3rter) | N/A |
-| 35 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 36 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 37 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 3 | [Daniel Silveira](http://twitter.com/search?q=Daniel+Silveira) | Daniel Silveira is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”. |
+| 4 | [Iemanjá](http://twitter.com/search?q=Iemanj%c3%a1) | Iemanjá is an Afro-Brazilian goddess of the sea, and is considered the queen of the ocean. Her name translates to "Mother of Waters" in English. She is a symbol of fertility, femininity, and motherhood, and is often depicted as a mermaid or an African woman with a crown of shells. |
+| 5 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 6 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
+| 7 | [mc paiva](http://twitter.com/search?q=mc+paiva) | N/A |
+| 8 | [#Estudioi](http://twitter.com/search?q=%23Estudioi) | N/A |
+| 9 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
+| 10 | [Alexandre de Moraes](http://twitter.com/search?q=Alexandre+de+Moraes) | Alexandre de Moraes is a Brazilian lawyer and politician who served as the Minister of Justice and Public Security from 2016 to 2018. In English, his name translates to Alexander of Moraes. |
+| 11 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 12 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 13 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 14 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
+| 15 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 16 | [Flávio Bolsonaro](http://twitter.com/search?q=Fl%c3%a1vio+Bolsonaro) | N/A |
+| 17 | [GloboNews](http://twitter.com/search?q=GloboNews) | N/A |
+| 18 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
+| 19 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 20 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 21 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 22 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
+| 23 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 24 | [CAROL BIAZIN MUY MALA](http://twitter.com/search?q=CAROL+BIAZIN+MUY+MALA) | N/A |
+| 25 | [Torto](http://twitter.com/search?q=Torto) | N/A |
+| 26 | [Fyodor](http://twitter.com/search?q=Fyodor) | Fyodor is a Russian male name derived from the Greek name Theodoros, meaning "gift of God". |
+| 27 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 28 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
+| 29 | [Jeremias](http://twitter.com/search?q=Jeremias) | Jeremias is a male given name of Hebrew origin, derived from the prophet Jeremiah. In English, it is usually translated as "Jeremiah". |
+| 30 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 31 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
+| 32 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 33 | [Fogaça](http://twitter.com/search?q=Foga%c3%a7a) | N/A |
+| 34 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 35 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 36 | [Granja](http://twitter.com/search?q=Granja) | N/A |
+| 37 | [#TheLandmarkRevival](http://twitter.com/search?q=%23TheLandmarkRevival) | N/A |
 | 38 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 39 | [Rodrigo Oliveira](http://twitter.com/search?q=Rodrigo+Oliveira) | N/A |
-| 40 | [Freddie Mercury](http://twitter.com/search?q=Freddie+Mercury) | N/A |
-| 41 | [Jacquin](http://twitter.com/search?q=Jacquin) | N/A |
-| 42 | [Juba](http://twitter.com/search?q=Juba) | N/A |
-| 43 | [Supla](http://twitter.com/search?q=Supla) | N/A |
-| 44 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 45 | [Dia 2](http://twitter.com/search?q=Dia+2) | Dia 2 is a Spanish phrase meaning "Day 2". It is used to refer to the second day of an event or activity. |
-| 46 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 47 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 48 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
-| 49 | [Bebiano](http://twitter.com/search?q=Bebiano) | N/A |
-| 50 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 39 | [Demet](http://twitter.com/search?q=Demet) | N/A |
+| 40 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 41 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
+| 42 | [Dólar](http://twitter.com/search?q=D%c3%b3lar) | N/A |
+| 43 | [Bebiano](http://twitter.com/search?q=Bebiano) | N/A |
+| 44 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 45 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 46 | [Sadi](http://twitter.com/search?q=Sadi) | N/A |
+| 47 | [Kate Winslet](http://twitter.com/search?q=Kate+Winslet) | N/A |
+| 48 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 49 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
+| 50 | [Aire](http://twitter.com/search?q=Aire) | Aire is a Spanish word that means "air" in English. It is used to refer to the atmosphere or the environment. |
 
 
 

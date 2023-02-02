@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-02-02 17:16:08 UTC`
+📆 Last Updated: `2023-02-02 18:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Canada](</Canada>)
 | 2 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
 | 3 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
 | 4 | [Wiarton Willie](http://twitter.com/search?q=Wiarton+Willie) | N/A |
-| 5 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
-| 6 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 7 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 8 | [RIP Fred](http://twitter.com/search?q=RIP+Fred) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Fred la Marmotte](http://twitter.com/search?q=Fred+la+Marmotte) | N/A |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 12 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 13 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 14 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 15 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
-| 16 | [Manitoba Merv](http://twitter.com/search?q=Manitoba+Merv) | N/A |
-| 17 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
-| 18 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 19 | [Quebec](http://twitter.com/search?q=Quebec) | N/A |
-| 20 | [Hinshaw](http://twitter.com/search?q=Hinshaw) | N/A |
-| 21 | [Shubenacadie Sam](http://twitter.com/search?q=Shubenacadie+Sam) | N/A |
-| 22 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 23 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 24 | [Early Spring](http://twitter.com/search?q=Early+Spring) | N/A |
-| 25 | [Alek](http://twitter.com/search?q=Alek) | N/A |
-| 26 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 5 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 6 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
+| 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 12 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 13 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
+| 14 | [Manitoba Merv](http://twitter.com/search?q=Manitoba+Merv) | N/A |
+| 15 | [Quebec](http://twitter.com/search?q=Quebec) | N/A |
+| 16 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
+| 17 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 18 | [Shubenacadie Sam](http://twitter.com/search?q=Shubenacadie+Sam) | N/A |
+| 19 | [Hinshaw](http://twitter.com/search?q=Hinshaw) | N/A |
+| 20 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 21 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 22 | [RIP Fred](http://twitter.com/search?q=RIP+Fred) | N/A |
+| 23 | [Fred la Marmotte](http://twitter.com/search?q=Fred+la+Marmotte) | N/A |
+| 24 | [Alek](http://twitter.com/search?q=Alek) | N/A |
+| 25 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
+| 26 | [Dominic Barton](http://twitter.com/search?q=Dominic+Barton) | N/A |
 | 27 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 28 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 29 | [Dominic Barton](http://twitter.com/search?q=Dominic+Barton) | N/A |
-| 30 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
-| 31 | [Noirs](http://twitter.com/search?q=Noirs) | N/A |
-| 32 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 33 | [$META](http://twitter.com/search?q=%24META) | META is an acronym for "Most Effective Tactics Available." It is used to refer to strategies or tactics that are considered to be the most effective or efficient way of achieving a desired outcome. |
-| 34 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 35 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
-| 36 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 37 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 38 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 40 | [Blanchet](http://twitter.com/search?q=Blanchet) | N/A |
-| 41 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 42 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 43 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 44 | [Vaughan Mills](http://twitter.com/search?q=Vaughan+Mills) | N/A |
-| 45 | [The NDP](http://twitter.com/search?q=The+NDP) | N/A |
-| 46 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
-| 47 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 48 | [Candice](http://twitter.com/search?q=Candice) | N/A |
-| 49 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
+| 28 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 29 | [$META](http://twitter.com/search?q=%24META) | META is an acronym for "Most Effective Tactics Available." It is used to refer to strategies or tactics that are considered to be the most effective or efficient way of achieving a desired outcome. |
+| 30 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 31 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 32 | [Blanchet](http://twitter.com/search?q=Blanchet) | N/A |
+| 33 | [Noirs](http://twitter.com/search?q=Noirs) | N/A |
+| 34 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 35 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 36 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 37 | [Your Health](http://twitter.com/search?q=Your+Health) | N/A |
+| 38 | [Walkerton](http://twitter.com/search?q=Walkerton) | N/A |
+| 39 | [Delissio](http://twitter.com/search?q=Delissio) | N/A |
+| 40 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 41 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 42 | [The NDP](http://twitter.com/search?q=The+NDP) | N/A |
+| 43 | [Vaughan Mills](http://twitter.com/search?q=Vaughan+Mills) | N/A |
+| 44 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 45 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 46 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
+| 47 | [Bill 21](http://twitter.com/search?q=Bill+21) | N/A |
+| 48 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 49 | [Candice](http://twitter.com/search?q=Candice) | N/A |
 
 
 

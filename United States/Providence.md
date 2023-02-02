@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-02-02 17:16:51 UTC`
+📆 Last Updated: `2023-02-02 18:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
 | 2 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
-| 3 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 4 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 5 | [White History Month](http://twitter.com/search?q=White+History+Month) | N/A |
-| 6 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 8 | [#NationalCatchersDay](http://twitter.com/search?q=%23NationalCatchersDay) | N/A |
-| 9 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 10 | [Socialism](http://twitter.com/search?q=Socialism) | N/A |
-| 11 | [Dre Bly](http://twitter.com/search?q=Dre+Bly) | N/A |
+| 3 | [Ilhan Omar](http://twitter.com/search?q=Ilhan+Omar) | Ilhan Omar is the name of a Somali-American politician who currently serves as the U.S. Representative for Minnesota's 5th congressional district. Her name is derived from the Arabic phrase “Ilhan” which means “beloved” and “Omar” which means “eloquent speaker”. |
+| 4 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
+| 5 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
+| 6 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 7 | [Socialism](http://twitter.com/search?q=Socialism) | N/A |
+| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 9 | [#NationalCatchersDay](http://twitter.com/search?q=%23NationalCatchersDay) | N/A |
+| 10 | [The Genius](http://twitter.com/search?q=The+Genius) | N/A |
+| 11 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
 | 12 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
-| 13 | [Gobbler's Knob](http://twitter.com/search?q=Gobbler%27s+Knob) | N/A |
-| 14 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
+| 13 | [Tommy Rees](http://twitter.com/search?q=Tommy+Rees) | N/A |
+| 14 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 15 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 16 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 17 | [Staten Island Chuck](http://twitter.com/search?q=Staten+Island+Chuck) | N/A |
-| 18 | [Keith Law](http://twitter.com/search?q=Keith+Law) | N/A |
-| 19 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 20 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
-| 21 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
-| 22 | [Wrigley](http://twitter.com/search?q=Wrigley) | N/A |
+| 16 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 17 | [White History Month](http://twitter.com/search?q=White+History+Month) | N/A |
+| 18 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 19 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
+| 20 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 21 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 22 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
 | 23 | [Serena](http://twitter.com/search?q=Serena) | N/A |
-| 24 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 24 | [Gobbler's Knob](http://twitter.com/search?q=Gobbler%27s+Knob) | N/A |
 | 25 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 26 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 27 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 28 | [Anthrocon](http://twitter.com/search?q=Anthrocon) | N/A |
-| 29 | [Evero](http://twitter.com/search?q=Evero) | N/A |
-| 30 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
-| 31 | [Fyodor](http://twitter.com/search?q=Fyodor) | Fyodor is a Russian male name derived from the Greek name Theodoros, meaning "gift of God". |
-| 32 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 33 | [Eunice Dwumfour](http://twitter.com/search?q=Eunice+Dwumfour) | N/A |
-| 34 | [Worst Job](http://twitter.com/search?q=Worst+Job) | N/A |
-| 35 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 36 | [Fangio](http://twitter.com/search?q=Fangio) | Fangio is a Spanish surname derived from the Latin word "fango," which means "mud." It is also used as a nickname for someone who is strong and brave. In English, it can be translated to mean "brave one." |
-| 37 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
-| 38 | [APIs](http://twitter.com/search?q=APIs) | N/A |
-| 39 | [National Prayer Breakfast](http://twitter.com/search?q=National+Prayer+Breakfast) | N/A |
-| 40 | [IUPUI](http://twitter.com/search?q=IUPUI) | N/A |
-| 41 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 42 | [General Beauregard Lee](http://twitter.com/search?q=General+Beauregard+Lee) | N/A |
-| 43 | [Dream Job](http://twitter.com/search?q=Dream+Job) | N/A |
-| 44 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 45 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 46 | [Chuuya](http://twitter.com/search?q=Chuuya) | N/A |
+| 26 | [Keith Law](http://twitter.com/search?q=Keith+Law) | N/A |
+| 27 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 28 | [Dre Bly](http://twitter.com/search?q=Dre+Bly) | N/A |
+| 29 | [Recker](http://twitter.com/search?q=Recker) | N/A |
+| 30 | [Staten Island Chuck](http://twitter.com/search?q=Staten+Island+Chuck) | N/A |
+| 31 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 32 | [Guy Ritchie](http://twitter.com/search?q=Guy+Ritchie) | N/A |
+| 33 | [IUPUI](http://twitter.com/search?q=IUPUI) | N/A |
+| 34 | [Eunice Dwumfour](http://twitter.com/search?q=Eunice+Dwumfour) | N/A |
+| 35 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 36 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 37 | [CONDEMN](http://twitter.com/search?q=CONDEMN) | N/A |
+| 38 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
+| 39 | [Fyodor](http://twitter.com/search?q=Fyodor) | Fyodor is a Russian male name derived from the Greek name Theodoros, meaning "gift of God". |
+| 40 | [Reddish](http://twitter.com/search?q=Reddish) | N/A |
+| 41 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 42 | [Wrigley](http://twitter.com/search?q=Wrigley) | N/A |
+| 43 | [Anthrocon](http://twitter.com/search?q=Anthrocon) | N/A |
+| 44 | [Booksmart](http://twitter.com/search?q=Booksmart) | N/A |
+| 45 | [AITA](http://twitter.com/search?q=AITA) | N/A |
+| 46 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
 
 
 
