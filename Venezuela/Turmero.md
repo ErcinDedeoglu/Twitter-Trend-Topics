@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-02-02 09:16:23 UTC`
+📆 Last Updated: `2023-02-02 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#1Feb](http://twitter.com/search?q=%231Feb) | N/A |
-| 2 | [#ElPuebloSufreLasSanciones](http://twitter.com/search?q=%23ElPuebloSufreLasSanciones) | N/A |
-| 3 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 3 | [#elpueblosufrelassanciones](http://twitter.com/search?q=%23elpueblosufrelassanciones) | N/A |
 | 4 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 5 | [Ezequiel Zamora](http://twitter.com/search?q=Ezequiel+Zamora) | N/A |
-| 6 | [#ParquedeCiencias](http://twitter.com/search?q=%23ParquedeCiencias) | N/A |
-| 7 | [#31ene](http://twitter.com/search?q=%2331ene) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [#bastadepersecucióneconómica](http://twitter.com/search?q=%23bastadepersecuci%c3%b3necon%c3%b3mica) | N/A |
+| 5 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 6 | [Ezequiel Zamora](http://twitter.com/search?q=Ezequiel+Zamora) | N/A |
+| 7 | [#ParquedeCiencias](http://twitter.com/search?q=%23ParquedeCiencias) | N/A |
+| 8 | [#31ene](http://twitter.com/search?q=%2331ene) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 10 | [encuesta abc](http://twitter.com/search?q=encuesta+abc) | N/A |
 | 11 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
 | 12 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
-| 13 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 14 | [guerra federal](http://twitter.com/search?q=guerra+federal) | N/A |
-| 15 | [general del pueblo soberano](http://twitter.com/search?q=general+del+pueblo+soberano) | N/A |
-| 16 | [miguel pérez abad](http://twitter.com/search?q=miguel+p%c3%a9rez+abad) | N/A |
-| 17 | [cecilio acosta](http://twitter.com/search?q=cecilio+acosta) | N/A |
-| 18 | [Inces](http://twitter.com/search?q=Inces) | N/A |
-| 19 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 20 | [ROLAND CARREÑO](http://twitter.com/search?q=ROLAND+CARRE%c3%91O) | N/A |
-| 21 | [banco bicentenario](http://twitter.com/search?q=banco+bicentenario) | N/A |
-| 22 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 23 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
-| 24 | [rafael orozco](http://twitter.com/search?q=rafael+orozco) | N/A |
-| 25 | [calixto ortega](http://twitter.com/search?q=calixto+ortega) | N/A |
-| 26 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 27 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 28 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 29 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 13 | [guerra federal](http://twitter.com/search?q=guerra+federal) | N/A |
+| 14 | [Miguel Pérez Abad](http://twitter.com/search?q=Miguel+P%c3%a9rez+Abad) | N/A |
+| 15 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 16 | [cecilio acosta](http://twitter.com/search?q=cecilio+acosta) | N/A |
+| 17 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 18 | [Virgen de la Candelaria](http://twitter.com/search?q=Virgen+de+la+Candelaria) | N/A |
+| 19 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 20 | [Roland Carreño](http://twitter.com/search?q=Roland+Carre%c3%b1o) | N/A |
+| 21 | [General del Pueblo Soberano](http://twitter.com/search?q=General+del+Pueblo+Soberano) | N/A |
+| 22 | [banco bicentenario](http://twitter.com/search?q=banco+bicentenario) | N/A |
+| 23 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 24 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
+| 25 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 26 | [rafael orozco](http://twitter.com/search?q=rafael+orozco) | N/A |
+| 27 | [calixto ortega](http://twitter.com/search?q=calixto+ortega) | N/A |
+| 28 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 29 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
 | 30 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 31 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
-| 32 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 31 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 32 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
 | 33 | [Danry](http://twitter.com/search?q=Danry) | N/A |
 | 34 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 35 | [Las Amazonas](http://twitter.com/search?q=Las+Amazonas) | N/A |
-| 36 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 37 | [Marianela Salazar](http://twitter.com/search?q=Marianela+Salazar) | N/A |
-| 38 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 39 | [Rinconada](http://twitter.com/search?q=Rinconada) | N/A |
-| 40 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 41 | [Marieta Santana](http://twitter.com/search?q=Marieta+Santana) | N/A |
-| 42 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
-| 43 | [Ernesto Villegas](http://twitter.com/search?q=Ernesto+Villegas) | N/A |
-| 44 | [Corina Azopardo](http://twitter.com/search?q=Corina+Azopardo) | N/A |
-| 45 | [Carlos Rivero](http://twitter.com/search?q=Carlos+Rivero) | N/A |
-| 46 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
-| 47 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 48 | [tierra y hombres libres](http://twitter.com/search?q=tierra+y+hombres+libres) | N/A |
-| 49 | [Napoleón Bravo](http://twitter.com/search?q=Napole%c3%b3n+Bravo) | N/A |
+| 35 | [Marieta Santana](http://twitter.com/search?q=Marieta+Santana) | N/A |
+| 36 | [Marianela Salazar](http://twitter.com/search?q=Marianela+Salazar) | N/A |
+| 37 | [Las Amazonas](http://twitter.com/search?q=Las+Amazonas) | N/A |
+| 38 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 39 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 40 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 41 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 42 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 43 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
+| 44 | [Rinconada](http://twitter.com/search?q=Rinconada) | N/A |
+| 45 | [Corina Azopardo](http://twitter.com/search?q=Corina+Azopardo) | N/A |
+| 46 | [Carlos Rivero](http://twitter.com/search?q=Carlos+Rivero) | N/A |
+| 47 | [Ernesto Villegas](http://twitter.com/search?q=Ernesto+Villegas) | N/A |
+| 48 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 49 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
 
 
 

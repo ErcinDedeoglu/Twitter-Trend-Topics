@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-02 09:17:02 UTC`
+📆 Last Updated: `2023-02-02 10:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Guatemala
 | 7 | [Cobán Imperial](http://twitter.com/search?q=Cob%c3%a1n+Imperial) | N/A |
 | 8 | [#Publinews12años](http://twitter.com/search?q=%23Publinews12a%c3%b1os) | N/A |
 | 9 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 10 | [Bryan Lemus](http://twitter.com/search?q=Bryan+Lemus) | N/A |
+| 10 | [bryan lemus](http://twitter.com/search?q=bryan+lemus) | N/A |
 | 11 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 12 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
 | 13 | [villa canales](http://twitter.com/search?q=villa+canales) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for Guatemala
 | 29 | [deportivo iztapa](http://twitter.com/search?q=deportivo+iztapa) | N/A |
 | 30 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 31 | [clásica](http://twitter.com/search?q=cl%c3%a1sica) | N/A |
-| 32 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
+| 32 | [virginia laparra](http://twitter.com/search?q=virginia+laparra) | N/A |
 | 33 | [Ay Dios](http://twitter.com/search?q=Ay+Dios) | N/A |
 | 34 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
 | 35 | [periférico](http://twitter.com/search?q=perif%c3%a9rico) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Guatemala
 | 46 | [Maje](http://twitter.com/search?q=Maje) | N/A |
 | 47 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 48 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
-| 49 | [mulet](http://twitter.com/search?q=mulet) | N/A |
+| 49 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
 | 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 

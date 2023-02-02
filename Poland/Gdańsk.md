@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-02 09:16:25 UTC`
+📆 Last Updated: `2023-02-02 10:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MIELPO](http://twitter.com/search?q=%23MIELPO) | N/A |
-| 2 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 1 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 2 | [#MIELPO](http://twitter.com/search?q=%23MIELPO) | N/A |
 | 3 | [#fratboySZ](http://twitter.com/search?q=%23fratboySZ) | N/A |
-| 4 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 5 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 6 | [Leonard Pietraszak](http://twitter.com/search?q=Leonard+Pietraszak) | N/A |
-| 7 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 8 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 4 | [Leonard Pietraszak](http://twitter.com/search?q=Leonard+Pietraszak) | N/A |
+| 5 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 6 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 7 | [#minela8](http://twitter.com/search?q=%23minela8) | N/A |
+| 8 | [Rafał Wilczur](http://twitter.com/search?q=Rafa%c5%82+Wilczur) | N/A |
 | 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 11 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 12 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 13 | [szymczak](http://twitter.com/search?q=szymczak) | N/A |
-| 14 | [skok](http://twitter.com/search?q=skok) | N/A |
-| 15 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 16 | [Davo](http://twitter.com/search?q=Davo) | N/A |
-| 17 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 10 | [Agrounia](http://twitter.com/search?q=Agrounia) | N/A |
+| 11 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 12 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 13 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 14 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
+| 15 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 16 | [skok](http://twitter.com/search?q=skok) | N/A |
+| 17 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
 | 18 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 19 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 19 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
 | 20 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 21 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
-| 22 | [Sykulski](http://twitter.com/search?q=Sykulski) | N/A |
-| 23 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 24 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 25 | [szymon hołownia](http://twitter.com/search?q=szymon+ho%c5%82ownia) | N/A |
-| 26 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 27 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 28 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 29 | [maryla rodowicz](http://twitter.com/search?q=maryla+rodowicz) | N/A |
-| 30 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
-| 31 | [Boxdel](http://twitter.com/search?q=Boxdel) | N/A |
-| 32 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
-| 33 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 34 | [Ursynowie](http://twitter.com/search?q=Ursynowie) | N/A |
-| 35 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 36 | [Robert Lewandowski](http://twitter.com/search?q=Robert+Lewandowski) | N/A |
-| 37 | [miedzią](http://twitter.com/search?q=miedzi%c4%85) | N/A |
-| 38 | [Nowaka](http://twitter.com/search?q=Nowaka) | N/A |
-| 39 | [Vabank](http://twitter.com/search?q=Vabank) | N/A |
-| 40 | [PiS-em](http://twitter.com/search?q=PiS-em) | N/A |
-| 41 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 42 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 43 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
-| 44 | [Brom](http://twitter.com/search?q=Brom) | N/A |
-| 45 | [klubowe](http://twitter.com/search?q=klubowe) | N/A |
-| 46 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 47 | [Barczewie](http://twitter.com/search?q=Barczewie) | N/A |
-| 48 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 49 | [rydze](http://twitter.com/search?q=rydze) | N/A |
+| 21 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 22 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 23 | [Sykulski](http://twitter.com/search?q=Sykulski) | N/A |
+| 24 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 25 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
+| 26 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 27 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 28 | [szymon hołownia](http://twitter.com/search?q=szymon+ho%c5%82ownia) | N/A |
+| 29 | [Szymczak](http://twitter.com/search?q=Szymczak) | N/A |
+| 30 | [Dzień Życia Konsekrowanego](http://twitter.com/search?q=Dzie%c5%84+%c5%bbycia+Konsekrowanego) | N/A |
+| 31 | [Nobla](http://twitter.com/search?q=Nobla) | N/A |
+| 32 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 33 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 34 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
+| 35 | [Kramatorsk](http://twitter.com/search?q=Kramatorsk) | N/A |
+| 36 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
+| 37 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 38 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 39 | [Netflixa](http://twitter.com/search?q=Netflixa) | N/A |
+| 40 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 41 | [Gowin](http://twitter.com/search?q=Gowin) | N/A |
+| 42 | [Boxdel](http://twitter.com/search?q=Boxdel) | N/A |
+| 43 | [Brom](http://twitter.com/search?q=Brom) | N/A |
+| 44 | [Ursynowie](http://twitter.com/search?q=Ursynowie) | N/A |
+| 45 | [Vabank](http://twitter.com/search?q=Vabank) | N/A |
+| 46 | [Robert Lewandowski](http://twitter.com/search?q=Robert+Lewandowski) | N/A |
+| 47 | [PiS-em](http://twitter.com/search?q=PiS-em) | N/A |
+| 48 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
+| 49 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
 
 
 

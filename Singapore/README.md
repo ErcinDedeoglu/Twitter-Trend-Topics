@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-02 09:17:06 UTC`
+📆 Last Updated: `2023-02-02 10:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Singapore
 | 11 | [youngji](http://twitter.com/search?q=youngji) | N/A |
 | 12 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 | 13 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 14 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 15 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 16 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 17 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
+| 14 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 15 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 16 | [NETFLIX REVERSE YOUR DECISION](http://twitter.com/search?q=NETFLIX+REVERSE+YOUR+DECISION) | Netflix Reverse Your Decision is a feature that allows Netflix subscribers to undo their cancellation of a subscription. This feature allows users to reverse their decision to cancel their subscription within 10 days of the cancellation date, allowing them to keep their account active and continue enjoying Netflix content. |
+| 17 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
 | 18 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
 | 19 | [Trisha](http://twitter.com/search?q=Trisha) | N/A |
 | 20 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 21 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 22 | [kiyoshi's seeds](http://twitter.com/search?q=kiyoshi%27s+seeds) | N/A |
-| 23 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
+| 21 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
+| 22 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 23 | [Kiyoshi's Seeds](http://twitter.com/search?q=Kiyoshi%27s+Seeds) | N/A |
 | 24 | [On My Way](http://twitter.com/search?q=On+My+Way) | N/A |
 | 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 27 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
+| 26 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 28 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 29 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 29 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
 | 30 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 31 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
 | 32 | [EXCUSE ME](http://twitter.com/search?q=EXCUSE+ME) | N/A |
-| 33 | [SG GO](http://twitter.com/search?q=SG+GO) | N/A |
-| 34 | [Epik High](http://twitter.com/search?q=Epik+High) | N/A |
-| 35 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 36 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 37 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 38 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 39 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 40 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 41 | [America](http://twitter.com/search?q=America) | N/A |
+| 33 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 34 | [SG GO](http://twitter.com/search?q=SG+GO) | N/A |
+| 35 | [Epik High](http://twitter.com/search?q=Epik+High) | N/A |
+| 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 37 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 38 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 39 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 40 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 41 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
 | 42 | [California](http://twitter.com/search?q=California) | N/A |
-| 43 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 44 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 45 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 46 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 47 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 48 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 49 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
-| 50 | [I LOVE IT](http://twitter.com/search?q=I+LOVE+IT) | N/A |
+| 43 | [Chaeyoung](http://twitter.com/search?q=Chaeyoung) | N/A |
+| 44 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 45 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 46 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 47 | [Goodluck](http://twitter.com/search?q=Goodluck) | N/A |
+| 48 | [I LOVE IT](http://twitter.com/search?q=I+LOVE+IT) | N/A |
+| 49 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 50 | [Roger](http://twitter.com/search?q=Roger) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-02 09:17:05 UTC`
+📆 Last Updated: `2023-02-02 10:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Panama
 | ------- | ------------ | ------------ |
 | 1 | [Karen Peralta](http://twitter.com/search?q=Karen+Peralta) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Lucy Quintero](http://twitter.com/search?q=Lucy+Quintero) | N/A |
-| 4 | [cinta costera](http://twitter.com/search?q=cinta+costera) | N/A |
+| 3 | [cinta costera](http://twitter.com/search?q=cinta+costera) | N/A |
+| 4 | [Lucy Quintero](http://twitter.com/search?q=Lucy+Quintero) | N/A |
 | 5 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
 | 6 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 | 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
@@ -37,7 +37,7 @@ This is top 50 for Panama
 | 20 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 | 21 | [Carrizo](http://twitter.com/search?q=Carrizo) | N/A |
 | 22 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 23 | [Coclé](http://twitter.com/search?q=Cocl%c3%a9) | N/A |
+| 23 | [coclé](http://twitter.com/search?q=cocl%c3%a9) | N/A |
 | 24 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
 | 25 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 26 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for Panama
 | 40 | [Enserio](http://twitter.com/search?q=Enserio) | N/A |
 | 41 | [penonomé](http://twitter.com/search?q=penonom%c3%a9) | N/A |
 | 42 | [Mateo](http://twitter.com/search?q=Mateo) | N/A |
-| 43 | [gobierno nacional](http://twitter.com/search?q=gobierno+nacional) | N/A |
+| 43 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
 | 44 | [#BuildurluvexBuild](http://twitter.com/search?q=%23BuildurluvexBuild) | N/A |
 | 45 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 46 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |

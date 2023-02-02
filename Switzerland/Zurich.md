@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-02 09:16:32 UTC`
+📆 Last Updated: `2023-02-02 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#sirenentest](http://twitter.com/search?q=%23sirenentest) | N/A |
 | 2 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 3 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 4 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 5 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
-| 6 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 7 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 8 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 9 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 10 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
-| 11 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 12 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 13 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 14 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 15 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 4 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 5 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 6 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 7 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 8 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
+| 9 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 10 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 11 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
+| 12 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 14 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 15 | [Generation](http://twitter.com/search?q=Generation) | N/A |
 | 16 | [#valais](http://twitter.com/search?q=%23valais) | N/A |
-| 17 | [#FIGCMAFIA](http://twitter.com/search?q=%23FIGCMAFIA) | N/A |
-| 18 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
-| 19 | [aromat](http://twitter.com/search?q=aromat) | N/A |
-| 20 | [Beruf](http://twitter.com/search?q=Beruf) | N/A |
-| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 22 | [Dommage](http://twitter.com/search?q=Dommage) | N/A |
+| 17 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 18 | [aromat](http://twitter.com/search?q=aromat) | N/A |
+| 19 | [#SaudiTour](http://twitter.com/search?q=%23SaudiTour) | N/A |
+| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 21 | [Dommage](http://twitter.com/search?q=Dommage) | N/A |
+| 22 | [Beruf](http://twitter.com/search?q=Beruf) | N/A |
 | 23 | [Roger](http://twitter.com/search?q=Roger) | N/A |
 | 24 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 25 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 26 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 26 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
+| 27 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 28 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 29 | [Fakten](http://twitter.com/search?q=Fakten) | N/A |
-| 30 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 31 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 32 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 33 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 34 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 36 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
-| 37 | [Witz](http://twitter.com/search?q=Witz) | N/A |
-| 38 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 39 | [Schweizer](http://twitter.com/search?q=Schweizer) | N/A |
+| 30 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 31 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 32 | [Option](http://twitter.com/search?q=Option) | N/A |
+| 33 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 34 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 35 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 36 | [Schweizer](http://twitter.com/search?q=Schweizer) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 39 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 40 | [Berne](http://twitter.com/search?q=Berne) | N/A |
 | 41 | [Info](http://twitter.com/search?q=Info) | N/A |
-| 42 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 43 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 45 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 46 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 47 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
-| 48 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 49 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 50 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 42 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 44 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 45 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 46 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
+| 47 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 48 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 49 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 50 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
 
 
 
