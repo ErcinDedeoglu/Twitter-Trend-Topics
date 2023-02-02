@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-02-02 22:15:48 UTC`
+📆 Last Updated: `2023-02-02 23:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
 | 2 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
-| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 4 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 5 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 6 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 7 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
-| 8 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
-| 9 | [#IntegracionTripoier](http://twitter.com/search?q=%23IntegracionTripoier) | N/A |
-| 10 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 11 | [#Tamales](http://twitter.com/search?q=%23Tamales) | N/A |
-| 12 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 13 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 14 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 15 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 3 | [#NiñezSinSeguridad](http://twitter.com/search?q=%23Ni%c3%b1ezSinSeguridad) | N/A |
+| 4 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 5 | [Gerardo Islas Maldonado](http://twitter.com/search?q=Gerardo+Islas+Maldonado) | N/A |
+| 6 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 7 | [#enhorabuenaverde](http://twitter.com/search?q=%23enhorabuenaverde) | N/A |
+| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 9 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 10 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 11 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 12 | [#IntegracionTripoier](http://twitter.com/search?q=%23IntegracionTripoier) | N/A |
+| 13 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
+| 14 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 15 | [Marx](http://twitter.com/search?q=Marx) | N/A |
 | 16 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
-| 17 | [Irving López](http://twitter.com/search?q=Irving+L%c3%b3pez) | N/A |
-| 18 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
-| 19 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
-| 20 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
+| 17 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
+| 18 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 19 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 20 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
 | 21 | [Embajador](http://twitter.com/search?q=Embajador) | N/A |
-| 22 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 23 | [El 2](http://twitter.com/search?q=El+2) | N/A |
-| 24 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
-| 25 | [Mesa Directiva](http://twitter.com/search?q=Mesa+Directiva) | N/A |
-| 26 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 27 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
-| 28 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
-| 29 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 30 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
-| 31 | [Verde](http://twitter.com/search?q=Verde) | N/A |
-| 32 | [Niño Dios](http://twitter.com/search?q=Ni%c3%b1o+Dios) | N/A |
-| 33 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 34 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 35 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
-| 36 | [San Lázaro](http://twitter.com/search?q=San+L%c3%a1zaro) | N/A |
-| 37 | [Godin](http://twitter.com/search?q=Godin) | N/A |
-| 38 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
-| 39 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 40 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
-| 41 | [#PlanSonora](http://twitter.com/search?q=%23PlanSonora) | N/A |
-| 42 | [#02Feb](http://twitter.com/search?q=%2302Feb) | N/A |
-| 43 | [#DíaMundialDeLosHumedales](http://twitter.com/search?q=%23D%c3%adaMundialDeLosHumedales) | N/A |
-| 44 | [#MichelleRodriguez](http://twitter.com/search?q=%23MichelleRodriguez) | N/A |
-| 45 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 46 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
-| 47 | [#2DeFebrero](http://twitter.com/search?q=%232DeFebrero) | N/A |
-| 48 | [#LaPaz](http://twitter.com/search?q=%23LaPaz) | N/A |
-| 49 | [#KYUHYUN](http://twitter.com/search?q=%23KYUHYUN) | N/A |
-| 50 | [#오직_규현만을_사랑해](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%ea%b7%9c%ed%98%84%eb%a7%8c%ec%9d%84_%ec%82%ac%eb%9e%91%ed%95%b4) | "#오직_규현만을_사랑해" is a hashtag used by fans of South Korean singer Kyuhyun. It translates to "Love only Kyuhyun". |
+| 22 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
+| 23 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
+| 24 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
+| 25 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 26 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
+| 27 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
+| 28 | [Mesa Directiva](http://twitter.com/search?q=Mesa+Directiva) | N/A |
+| 29 | [El 2](http://twitter.com/search?q=El+2) | N/A |
+| 30 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
+| 31 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 32 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
+| 33 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 34 | [Niño Dios](http://twitter.com/search?q=Ni%c3%b1o+Dios) | N/A |
+| 35 | [San Lázaro](http://twitter.com/search?q=San+L%c3%a1zaro) | N/A |
+| 36 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 37 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 38 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
+| 39 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 40 | [#Tamales](http://twitter.com/search?q=%23Tamales) | N/A |
+| 41 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
+| 42 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
+| 43 | [#MichelleRodriguez](http://twitter.com/search?q=%23MichelleRodriguez) | N/A |
+| 44 | [#PlanSonora](http://twitter.com/search?q=%23PlanSonora) | N/A |
+| 45 | [#DíaMundialDeLosHumedales](http://twitter.com/search?q=%23D%c3%adaMundialDeLosHumedales) | N/A |
+| 46 | [#02Feb](http://twitter.com/search?q=%2302Feb) | N/A |
+| 47 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 48 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
+| 49 | [#2DeFebrero](http://twitter.com/search?q=%232DeFebrero) | N/A |
+| 50 | [#LaPaz](http://twitter.com/search?q=%23LaPaz) | N/A |
 
 
 

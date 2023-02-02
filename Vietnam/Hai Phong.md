@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-02 22:16:10 UTC`
+📆 Last Updated: `2023-02-02 23:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 3 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [TAEYEON NIGHTS INTO DAYS](http://twitter.com/search?q=TAEYEON+NIGHTS+INTO+DAYS) | N/A |
-| 6 | [#BOCtreat15actorsbetter](http://twitter.com/search?q=%23BOCtreat15actorsbetter) | N/A |
+| 6 | [#boctreat15actorsbetter](http://twitter.com/search?q=%23boctreat15actorsbetter) | N/A |
 | 7 | [#10YearsTicketFinalEP](http://twitter.com/search?q=%2310YearsTicketFinalEP) | N/A |
 | 8 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
 | 9 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |

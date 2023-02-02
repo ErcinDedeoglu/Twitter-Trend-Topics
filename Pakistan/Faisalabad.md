@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-02-02 22:16:16 UTC`
+📆 Last Updated: `2023-02-02 23:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#عمران_ریاض_خان_کو_رہا_کرو](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%b1%db%8c%d8%a7%d8%b6_%d8%ae%d8%a7%d9%86_%da%a9%d9%88_%d8%b1%db%81%d8%a7_%da%a9%d8%b1%d9%88) | #عمران_ریاض_خان_کو_رہا_کرو is a hashtag used to show support for Imran Khan, the Prime Minister of Pakistan. It translates to "Let Imran Khan stay in power". |
 | 2 | [#پاکستان_میں_جنگل_کا_قانون](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d9%85%db%8c%da%ba_%d8%ac%d9%86%da%af%d9%84_%da%a9%d8%a7_%d9%82%d8%a7%d9%86%d9%88%d9%86) | N/A |
 | 3 | [#ImranRiazKhan](http://twitter.com/search?q=%23ImranRiazKhan) | N/A |
-| 4 | [#ImranRiazKhan](http://twitter.com/search?q=%23ImranRiazKhan) | N/A |
+| 4 | [#اسلام_دشمنوں_کاگٹھ_جوڑ](http://twitter.com/search?q=%23%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%af%d8%b4%d9%85%d9%86%d9%88%da%ba_%da%a9%d8%a7%da%af%d9%b9%da%be_%d8%ac%d9%88%da%91) | N/A |
 | 5 | [#HappyBirthdayAseefaBZ](http://twitter.com/search?q=%23HappyBirthdayAseefaBZ) | N/A |
 | 6 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 7 | [Happy Birthday Bibi](http://twitter.com/search?q=Happy+Birthday+Bibi) | N/A |
+| 7 | [Happy Birthday BiBi](http://twitter.com/search?q=Happy+Birthday+BiBi) | N/A |
 | 8 | [ASIM'S FASTEST 15M RECORD DAY](http://twitter.com/search?q=ASIM%27S+FASTEST+15M+RECORD+DAY) | N/A |
 | 9 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
 | 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
@@ -30,41 +30,41 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 13 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
 | 14 | [Yasir Arafat](http://twitter.com/search?q=Yasir+Arafat) | N/A |
 | 15 | [Shubman Gill](http://twitter.com/search?q=Shubman+Gill) | Shubman Gill is an Indian cricketer who plays for the Indian national team. He is a right-handed batsman and occasional right-arm off break bowler. He made his international debut in 2018 and has since become one of the most promising young players in the country. |
-| 16 | [Swag](http://twitter.com/search?q=Swag) | N/A |
-| 17 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 18 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 19 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 16 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 17 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 18 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 19 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
 | 20 | [North Nazimabad](http://twitter.com/search?q=North+Nazimabad) | N/A |
-| 21 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
-| 22 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
-| 23 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
-| 24 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
-| 25 | [Munir Akram](http://twitter.com/search?q=Munir+Akram) | N/A |
-| 26 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 27 | [Mother's Love](http://twitter.com/search?q=Mother%27s+Love) | N/A |
-| 28 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 29 | [Awami Muslim League](http://twitter.com/search?q=Awami+Muslim+League) | N/A |
-| 30 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 21 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 22 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
+| 23 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
+| 24 | [Munir Akram](http://twitter.com/search?q=Munir+Akram) | N/A |
+| 25 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 26 | [May ALLAH Almighty](http://twitter.com/search?q=May+ALLAH+Almighty) | N/A |
+| 27 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
+| 28 | [Mother's Love](http://twitter.com/search?q=Mother%27s+Love) | N/A |
+| 29 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 30 | [Awami Muslim League](http://twitter.com/search?q=Awami+Muslim+League) | N/A |
 | 31 | [Rana Sanaullah](http://twitter.com/search?q=Rana+Sanaullah) | N/A |
-| 32 | [May ALLAH Almighty](http://twitter.com/search?q=May+ALLAH+Almighty) | N/A |
-| 33 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
-| 34 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 35 | [Chup](http://twitter.com/search?q=Chup) | N/A |
-| 36 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 37 | [Arshad Shareef](http://twitter.com/search?q=Arshad+Shareef) | N/A |
-| 38 | [Oops](http://twitter.com/search?q=Oops) | N/A |
-| 39 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 40 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [Chal](http://twitter.com/search?q=Chal) | N/A |
-| 43 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 44 | [Meri](http://twitter.com/search?q=Meri) | N/A |
-| 45 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 46 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 47 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 48 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 49 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 50 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 32 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 33 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 34 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 35 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 36 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
+| 37 | [Chup](http://twitter.com/search?q=Chup) | N/A |
+| 38 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 39 | [Chal](http://twitter.com/search?q=Chal) | N/A |
+| 40 | [Meri](http://twitter.com/search?q=Meri) | N/A |
+| 41 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 43 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 44 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 45 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
+| 46 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 47 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 48 | [Agar](http://twitter.com/search?q=Agar) | N/A |
+| 49 | [Arshad Shareef](http://twitter.com/search?q=Arshad+Shareef) | N/A |
+| 50 | [Theek](http://twitter.com/search?q=Theek) | N/A |
 
 
 

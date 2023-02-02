@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-02-02 22:15:46 UTC`
+📆 Last Updated: `2023-02-02 23:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
-| 2 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 3 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 4 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
-| 5 | [Ford](http://twitter.com/search?q=Ford) | N/A |
-| 6 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
-| 7 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
-| 8 | [Ched Evans](http://twitter.com/search?q=Ched+Evans) | N/A |
-| 9 | [Octopus](http://twitter.com/search?q=Octopus) | N/A |
-| 10 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 11 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 12 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 13 | [#ULEZ](http://twitter.com/search?q=%23ULEZ) | N/A |
-| 14 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
-| 15 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 16 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 17 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 18 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 19 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 20 | [Shazia](http://twitter.com/search?q=Shazia) | Shazia is a female given name of Arabic origin, meaning "brilliant". |
-| 21 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 22 | [Zip Zap](http://twitter.com/search?q=Zip+Zap) | Zip Zap is an expression used to describe a quick, energetic movement or action. It can also be used to express excitement or enthusiasm. In other words, it is a way of expressing that something happened quickly and with energy. |
-| 23 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 24 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 25 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 26 | [Casey](http://twitter.com/search?q=Casey) | N/A |
-| 27 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 28 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 29 | [Spencer](http://twitter.com/search?q=Spencer) | N/A |
-| 30 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 31 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 32 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 33 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 34 | [Zif Zaf](http://twitter.com/search?q=Zif+Zaf) | N/A |
-| 35 | [Kai and Ron](http://twitter.com/search?q=Kai+and+Ron) | N/A |
-| 36 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
-| 37 | [Ron and Kai](http://twitter.com/search?q=Ron+and+Kai) | N/A |
-| 38 | [Simba](http://twitter.com/search?q=Simba) | N/A |
-| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 40 | [Tanyel and Ron](http://twitter.com/search?q=Tanyel+and+Ron) | N/A |
-| 41 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | N/A |
-| 42 | [Gerwyn Price](http://twitter.com/search?q=Gerwyn+Price) | Gerwyn Price is a Welsh professional darts player. He is currently ranked as the world number one in the Professional Darts Corporation (PDC) rankings. He has won two major PDC titles, the 2018 Grand Slam of Darts and the 2021 UK Open. |
-| 43 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
-| 44 | [Roasted](http://twitter.com/search?q=Roasted) | N/A |
-| 45 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 46 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 47 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 48 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 49 | [Kell](http://twitter.com/search?q=Kell) | N/A |
+| 1 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 2 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 3 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
+| 4 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
+| 5 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
+| 6 | [Kell](http://twitter.com/search?q=Kell) | N/A |
+| 7 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 8 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
+| 9 | [Ford](http://twitter.com/search?q=Ford) | N/A |
+| 10 | [Greed](http://twitter.com/search?q=Greed) | N/A |
+| 11 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 12 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
+| 13 | [Ched Evans](http://twitter.com/search?q=Ched+Evans) | N/A |
+| 14 | [Red Bull](http://twitter.com/search?q=Red+Bull) | N/A |
+| 15 | [Charity](http://twitter.com/search?q=Charity) | N/A |
+| 16 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 17 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 18 | [#WWE2K23](http://twitter.com/search?q=%23WWE2K23) | #WWE2K23 is a hashtag used to promote the upcoming WWE 2K23 video game. It is an abbreviation for World Wrestling Entertainment 2K23. |
+| 19 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 20 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 21 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 22 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 23 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
+| 24 | [Shazia](http://twitter.com/search?q=Shazia) | Shazia is a female given name of Arabic origin, meaning "brilliant". |
+| 25 | [Zip Zap](http://twitter.com/search?q=Zip+Zap) | Zip Zap is an expression used to describe a quick, energetic movement or action. It can also be used to express excitement or enthusiasm. In other words, it is a way of expressing that something happened quickly and with energy. |
+| 26 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 27 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 28 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 29 | [Casey](http://twitter.com/search?q=Casey) | N/A |
+| 30 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 31 | [Spencer](http://twitter.com/search?q=Spencer) | N/A |
+| 32 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
+| 33 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 34 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 35 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 36 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 37 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 38 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 39 | [Zif Zaf](http://twitter.com/search?q=Zif+Zaf) | N/A |
+| 40 | [Ron and Kai](http://twitter.com/search?q=Ron+and+Kai) | N/A |
+| 41 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
+| 42 | [Kai and Ron](http://twitter.com/search?q=Kai+and+Ron) | N/A |
+| 43 | [Simba](http://twitter.com/search?q=Simba) | N/A |
+| 44 | [Tanyel and Ron](http://twitter.com/search?q=Tanyel+and+Ron) | N/A |
+| 45 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
+| 46 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 48 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 49 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
 
 
 
