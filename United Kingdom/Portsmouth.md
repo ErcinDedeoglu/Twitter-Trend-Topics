@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-02-02 15:16:42 UTC`
+📆 Last Updated: `2023-02-02 16:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
+| 1 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
 | 2 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 3 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
-| 4 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 5 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 6 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 7 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 8 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 9 | [#ManUtd](http://twitter.com/search?q=%23ManUtd) | N/A |
-| 10 | [Erik](http://twitter.com/search?q=Erik) | N/A |
-| 11 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 12 | [#TimeToTalkDay](http://twitter.com/search?q=%23TimeToTalkDay) | N/A |
-| 13 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
-| 14 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 15 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
-| 16 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 17 | [Kell](http://twitter.com/search?q=Kell) | N/A |
-| 18 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 19 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 20 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
-| 21 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 22 | [DROPPED](http://twitter.com/search?q=DROPPED) | N/A |
-| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 24 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 25 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
-| 26 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 27 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 28 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 3 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 4 | [#property](http://twitter.com/search?q=%23property) | N/A |
+| 5 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 6 | [#EnergyCrisis](http://twitter.com/search?q=%23EnergyCrisis) | N/A |
+| 7 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 8 | [#ManUtd](http://twitter.com/search?q=%23ManUtd) | N/A |
+| 9 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 10 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 11 | [Kell](http://twitter.com/search?q=Kell) | N/A |
+| 12 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 13 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 14 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
+| 15 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 16 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 17 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 18 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 19 | [Ched Evans](http://twitter.com/search?q=Ched+Evans) | N/A |
+| 20 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 21 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
+| 22 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
+| 23 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 24 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 25 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 26 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 27 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 28 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
 | 29 | [Legally](http://twitter.com/search?q=Legally) | N/A |
-| 30 | [Greed](http://twitter.com/search?q=Greed) | N/A |
-| 31 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
-| 32 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
-| 33 | [O2 Priority](http://twitter.com/search?q=O2+Priority) | N/A |
-| 34 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 35 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
-| 36 | [MUFC](http://twitter.com/search?q=MUFC) | N/A |
-| 37 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 38 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 39 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 40 | [Neil McCann](http://twitter.com/search?q=Neil+McCann) | N/A |
-| 41 | [Title](http://twitter.com/search?q=Title) | N/A |
-| 42 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
-| 43 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 44 | [Chilwell](http://twitter.com/search?q=Chilwell) | N/A |
-| 45 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
+| 30 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 31 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
+| 32 | [MUFC](http://twitter.com/search?q=MUFC) | N/A |
+| 33 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 34 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 35 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 36 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 37 | [Greed](http://twitter.com/search?q=Greed) | N/A |
+| 38 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
+| 39 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 40 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 41 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 42 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 43 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
+| 44 | [Andre Ayew](http://twitter.com/search?q=Andre+Ayew) | N/A |
+| 45 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
 | 46 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 47 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
-| 48 | [#mentalhealth](http://twitter.com/search?q=%23mentalhealth) | N/A |
-| 49 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 47 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 48 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 49 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
 
 
 

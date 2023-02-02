@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-02 15:16:54 UTC`
+📆 Last Updated: `2023-02-02 16:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
-| 2 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
+| 1 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
+| 2 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
 | 3 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
 | 4 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
 | 5 | [Luisa Fernanda](http://twitter.com/search?q=Luisa+Fernanda) | N/A |
-| 6 | [#YoMeRebelo2F](http://twitter.com/search?q=%23YoMeRebelo2F) | N/A |
-| 7 | [#APOYOROCIO2F](http://twitter.com/search?q=%23APOYOROCIO2F) | N/A |
-| 8 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
-| 9 | [Phil](http://twitter.com/search?q=Phil) | N/A |
-| 10 | [#DiaMundialDeLosHumedales](http://twitter.com/search?q=%23DiaMundialDeLosHumedales) | N/A |
-| 11 | [Vicco](http://twitter.com/search?q=Vicco) | N/A |
-| 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 13 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
-| 14 | [José Otero](http://twitter.com/search?q=Jos%c3%a9+Otero) | N/A |
-| 15 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 16 | [Sálvame](http://twitter.com/search?q=S%c3%a1lvame) | N/A |
-| 17 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
-| 18 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
-| 19 | [Ana Frank](http://twitter.com/search?q=Ana+Frank) | N/A |
-| 20 | [Karmento](http://twitter.com/search?q=Karmento) | N/A |
+| 6 | [#APOYOROCIO2F](http://twitter.com/search?q=%23APOYOROCIO2F) | N/A |
+| 7 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 8 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 9 | [#YoMeRebelo2F](http://twitter.com/search?q=%23YoMeRebelo2F) | N/A |
+| 10 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
+| 11 | [#DiaMundialDeLosHumedales](http://twitter.com/search?q=%23DiaMundialDeLosHumedales) | N/A |
+| 12 | [Vicco](http://twitter.com/search?q=Vicco) | N/A |
+| 13 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
+| 14 | [Phil](http://twitter.com/search?q=Phil) | N/A |
+| 15 | [José Otero](http://twitter.com/search?q=Jos%c3%a9+Otero) | N/A |
+| 16 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 17 | [Karmento](http://twitter.com/search?q=Karmento) | N/A |
+| 18 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 19 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 20 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
 | 21 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 22 | [Nochentera](http://twitter.com/search?q=Nochentera) | N/A |
-| 23 | [La 2](http://twitter.com/search?q=La+2) | N/A |
-| 24 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
-| 25 | [Porta](http://twitter.com/search?q=Porta) | N/A |
-| 26 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 27 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 28 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 29 | [Candelas](http://twitter.com/search?q=Candelas) | N/A |
-| 30 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 31 | [Alfred](http://twitter.com/search?q=Alfred) | N/A |
-| 32 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 33 | [Seguridad Social](http://twitter.com/search?q=Seguridad+Social) | N/A |
-| 34 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
-| 35 | [Begoño](http://twitter.com/search?q=Bego%c3%b1o) | N/A |
-| 36 | [Templo](http://twitter.com/search?q=Templo) | N/A |
-| 37 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 38 | [Sáhara](http://twitter.com/search?q=S%c3%a1hara) | N/A |
-| 39 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 40 | [Argelia](http://twitter.com/search?q=Argelia) | N/A |
-| 41 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 42 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 43 | [#Solos2F](http://twitter.com/search?q=%23Solos2F) | N/A |
-| 44 | [#SaudiTour](http://twitter.com/search?q=%23SaudiTour) | N/A |
-| 45 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 46 | [#SmartBand2MM](http://twitter.com/search?q=%23SmartBand2MM) | N/A |
-| 47 | [#diadelamarmota](http://twitter.com/search?q=%23diadelamarmota) | N/A |
-| 48 | [#TodosContraElCáncer](http://twitter.com/search?q=%23TodosContraElC%c3%a1ncer) | N/A |
-| 49 | [#LosMartian](http://twitter.com/search?q=%23LosMartian) | N/A |
+| 22 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 23 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
+| 24 | [Alfred](http://twitter.com/search?q=Alfred) | N/A |
+| 25 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
+| 26 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 27 | [Candelas](http://twitter.com/search?q=Candelas) | N/A |
+| 28 | [La 2](http://twitter.com/search?q=La+2) | N/A |
+| 29 | [Cáncer](http://twitter.com/search?q=C%c3%a1ncer) | N/A |
+| 30 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
+| 31 | [MEMA](http://twitter.com/search?q=MEMA) | N/A |
+| 32 | [Begoño](http://twitter.com/search?q=Bego%c3%b1o) | N/A |
+| 33 | [Templo](http://twitter.com/search?q=Templo) | N/A |
+| 34 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 35 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 36 | [Argelia](http://twitter.com/search?q=Argelia) | N/A |
+| 37 | [Sáhara](http://twitter.com/search?q=S%c3%a1hara) | N/A |
+| 38 | [#Solos2F](http://twitter.com/search?q=%23Solos2F) | N/A |
+| 39 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
+| 40 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 41 | [#SaudiTour](http://twitter.com/search?q=%23SaudiTour) | N/A |
+| 42 | [#SmartBand2MM](http://twitter.com/search?q=%23SmartBand2MM) | N/A |
+| 43 | [#diadelamarmota](http://twitter.com/search?q=%23diadelamarmota) | N/A |
+| 44 | [#LosMartian](http://twitter.com/search?q=%23LosMartian) | N/A |
 
 
 

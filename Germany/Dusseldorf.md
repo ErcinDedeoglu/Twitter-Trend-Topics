@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-02 15:16:52 UTC`
+📆 Last Updated: `2023-02-02 16:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 2 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
-| 3 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 4 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 5 | [#M05FCB](http://twitter.com/search?q=%23M05FCB) | N/A |
-| 6 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 7 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 8 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 9 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 10 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 11 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 12 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
+| 2 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 3 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
+| 4 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 5 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 6 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 7 | [#letztegeneration](http://twitter.com/search?q=%23letztegeneration) | N/A |
+| 8 | [#M05FCB](http://twitter.com/search?q=%23M05FCB) | N/A |
+| 9 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 10 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 11 | [#420TageNix](http://twitter.com/search?q=%23420TageNix) | N/A |
+| 12 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
 | 13 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 14 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 15 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 16 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
-| 17 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 14 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
+| 15 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
+| 16 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 17 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
+| 18 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 20 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [Wein](http://twitter.com/search?q=Wein) | N/A |
-| 23 | [Transfeindlich](http://twitter.com/search?q=Transfeindlich) | N/A |
-| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 25 | [Whataboutism](http://twitter.com/search?q=Whataboutism) | N/A |
-| 26 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
-| 27 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
-| 28 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
-| 29 | [Aktivismus](http://twitter.com/search?q=Aktivismus) | N/A |
-| 30 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 31 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
-| 32 | [Clip](http://twitter.com/search?q=Clip) | N/A |
-| 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 34 | [cdu und fdp](http://twitter.com/search?q=cdu+und+fdp) | N/A |
-| 35 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
-| 36 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 37 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 38 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 39 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
-| 40 | [Gerichte](http://twitter.com/search?q=Gerichte) | N/A |
-| 41 | ['Rost'](http://twitter.com/search?q=%27Rost%27) | N/A |
-| 42 | [Discounter](http://twitter.com/search?q=Discounter) | N/A |
-| 43 | [Tierleid](http://twitter.com/search?q=Tierleid) | N/A |
-| 44 | [Streamer](http://twitter.com/search?q=Streamer) | N/A |
-| 45 | [Autorin](http://twitter.com/search?q=Autorin) | N/A |
-| 46 | [Vegetarier](http://twitter.com/search?q=Vegetarier) | N/A |
-| 47 | [Boykott](http://twitter.com/search?q=Boykott) | N/A |
-| 48 | [Fernverkehr](http://twitter.com/search?q=Fernverkehr) | N/A |
-| 49 | [Klimabewegung](http://twitter.com/search?q=Klimabewegung) | N/A |
+| 21 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 24 | [Transfeindlich](http://twitter.com/search?q=Transfeindlich) | N/A |
+| 25 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
+| 26 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 27 | [Wein](http://twitter.com/search?q=Wein) | N/A |
+| 28 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
+| 29 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 30 | [Whataboutism](http://twitter.com/search?q=Whataboutism) | N/A |
+| 31 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
+| 32 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 33 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
+| 34 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
+| 35 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
+| 36 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 37 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 38 | [Gerichte](http://twitter.com/search?q=Gerichte) | N/A |
+| 39 | [Autorin](http://twitter.com/search?q=Autorin) | N/A |
+| 40 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 41 | [Aktivismus](http://twitter.com/search?q=Aktivismus) | N/A |
+| 42 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
+| 43 | [CDU und FDP](http://twitter.com/search?q=CDU+und+FDP) | N/A |
+| 44 | ['Rost'](http://twitter.com/search?q=%27Rost%27) | N/A |
+| 45 | [Clip](http://twitter.com/search?q=Clip) | N/A |
+| 46 | [Tierleid](http://twitter.com/search?q=Tierleid) | N/A |
+| 47 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 48 | [Bus und Bahn](http://twitter.com/search?q=Bus+und+Bahn) | N/A |
+| 49 | [Vegetarier](http://twitter.com/search?q=Vegetarier) | N/A |
 
 
 
