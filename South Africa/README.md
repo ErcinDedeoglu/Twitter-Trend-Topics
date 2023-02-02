@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-02-02 19:16:34 UTC`
+📆 Last Updated: `2023-02-02 20:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for South Africa
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LionessSA](http://twitter.com/search?q=%23LionessSA) | N/A |
-| 2 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 1 | [#GqeberhaTheEmpire](http://twitter.com/search?q=%23GqeberhaTheEmpire) | #GqeberhaTheEmpire is a hashtag used to promote the city of Port Elizabeth, South Africa. It is a play on words of the city's nickname, "The Friendly City," and translates to "Gqeberha The Empire" in English. |
+| 2 | [#LionessSA](http://twitter.com/search?q=%23LionessSA) | N/A |
 | 3 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 4 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
 | 5 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
 | 6 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 7 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
+| 7 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
 | 8 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 9 | [#GqeberhaTheEmpire](http://twitter.com/search?q=%23GqeberhaTheEmpire) | #GqeberhaTheEmpire is a hashtag used to promote the city of Port Elizabeth, South Africa. It is a play on words of the city's nickname, "The Friendly City," and translates to "Gqeberha The Empire" in English. |
-| 10 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 11 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 12 | [Block 2](http://twitter.com/search?q=Block+2) | N/A |
+| 9 | [#etvScandal](http://twitter.com/search?q=%23etvScandal) | N/A |
+| 10 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 11 | [Block 2](http://twitter.com/search?q=Block+2) | N/A |
+| 12 | [Thulani](http://twitter.com/search?q=Thulani) | N/A |
 | 13 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 14 | [Jaypee](http://twitter.com/search?q=Jaypee) | N/A |
 | 15 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 16 | [Meneer Cee](http://twitter.com/search?q=Meneer+Cee) | N/A |
-| 17 | [Juicy Jay](http://twitter.com/search?q=Juicy+Jay) | Juicy Jay is a brand of flavored rolling papers. The papers are made from hemp and come in a variety of flavors, such as strawberry, blueberry, watermelon, and more. The name "Juicy Jay" is derived from the fact that the papers are extra-long and extra-thick, making them juicy and flavorful when smoked. |
-| 18 | [Themba Khumalo](http://twitter.com/search?q=Themba+Khumalo) | N/A |
-| 19 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 16 | [Themba Khumalo](http://twitter.com/search?q=Themba+Khumalo) | N/A |
+| 17 | [DJ 8Milli](http://twitter.com/search?q=DJ+8Milli) | N/A |
+| 18 | [Meneer Cee](http://twitter.com/search?q=Meneer+Cee) | N/A |
+| 19 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
 | 20 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 21 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
-| 22 | [Pitso](http://twitter.com/search?q=Pitso) | N/A |
-| 23 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
-| 24 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 21 | [Luzuko](http://twitter.com/search?q=Luzuko) | N/A |
+| 22 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
+| 23 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 24 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
 | 25 | [Toss](http://twitter.com/search?q=Toss) | N/A |
-| 26 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 27 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
-| 28 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
-| 29 | [Dintle](http://twitter.com/search?q=Dintle) | N/A |
-| 30 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
-| 31 | [Dracula](http://twitter.com/search?q=Dracula) | N/A |
-| 32 | [Kota](http://twitter.com/search?q=Kota) | N/A |
+| 26 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
+| 27 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
+| 28 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 29 | [Paulina](http://twitter.com/search?q=Paulina) | N/A |
+| 30 | [Juicy Jay](http://twitter.com/search?q=Juicy+Jay) | Juicy Jay is a brand of flavored rolling papers. The papers are made from hemp and come in a variety of flavors, such as strawberry, blueberry, watermelon, and more. The name "Juicy Jay" is derived from the fact that the papers are extra-long and extra-thick, making them juicy and flavorful when smoked. |
+| 31 | [Zolani](http://twitter.com/search?q=Zolani) | N/A |
+| 32 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
 | 33 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
-| 34 | [Thulani](http://twitter.com/search?q=Thulani) | N/A |
-| 35 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
+| 34 | [Dracula](http://twitter.com/search?q=Dracula) | N/A |
+| 35 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
 | 36 | [Tourists](http://twitter.com/search?q=Tourists) | N/A |
-| 37 | [Randpark Ridge](http://twitter.com/search?q=Randpark+Ridge) | N/A |
-| 38 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 39 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 41 | [Atchaar](http://twitter.com/search?q=Atchaar) | N/A |
-| 42 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 37 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
+| 38 | [Angela](http://twitter.com/search?q=Angela) | N/A |
+| 39 | [Randpark Ridge](http://twitter.com/search?q=Randpark+Ridge) | N/A |
+| 40 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 41 | [Anathi](http://twitter.com/search?q=Anathi) | N/A |
+| 42 | [Dintle](http://twitter.com/search?q=Dintle) | N/A |
 | 43 | [John Maduka](http://twitter.com/search?q=John+Maduka) | N/A |
-| 44 | [1Life Insurance](http://twitter.com/search?q=1Life+Insurance) | N/A |
-| 45 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 46 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
-| 47 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 44 | [1life insurance](http://twitter.com/search?q=1life+insurance) | N/A |
+| 45 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 46 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 47 | [Atchaar](http://twitter.com/search?q=Atchaar) | N/A |
 | 48 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
-| 49 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
-| 50 | [Paulina](http://twitter.com/search?q=Paulina) | N/A |
+| 49 | [Imagine Dragons](http://twitter.com/search?q=Imagine+Dragons) | N/A |
+| 50 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 
 
 

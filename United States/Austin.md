@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-02 19:16:21 UTC`
+📆 Last Updated: `2023-02-02 20:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FBISDhits80k](http://twitter.com/search?q=%23FBISDhits80k) | N/A |
-| 2 | [#ProsperLove](http://twitter.com/search?q=%23ProsperLove) | N/A |
-| 3 | [#ProsperProud](http://twitter.com/search?q=%23ProsperProud) | N/A |
-| 4 | [Austin Energy](http://twitter.com/search?q=Austin+Energy) | N/A |
-| 5 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 6 | [#blackhistorymonth2023](http://twitter.com/search?q=%23blackhistorymonth2023) | N/A |
-| 7 | [Omar](http://twitter.com/search?q=Omar) | N/A |
-| 8 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
-| 9 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
-| 10 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
-| 11 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
+| 1 | [Austin Energy](http://twitter.com/search?q=Austin+Energy) | N/A |
+| 2 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
+| 3 | [#FBISDhits80k](http://twitter.com/search?q=%23FBISDhits80k) | N/A |
+| 4 | [#ProsperLove](http://twitter.com/search?q=%23ProsperLove) | N/A |
+| 5 | [#ProsperProud](http://twitter.com/search?q=%23ProsperProud) | N/A |
+| 6 | [#texasicestorm](http://twitter.com/search?q=%23texasicestorm) | N/A |
+| 7 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 8 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
+| 9 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
+| 10 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 11 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
 | 12 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
-| 13 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
-| 14 | [Tommy Rees](http://twitter.com/search?q=Tommy+Rees) | N/A |
+| 13 | [Shams](http://twitter.com/search?q=Shams) | N/A |
+| 14 | [Rees](http://twitter.com/search?q=Rees) | N/A |
 | 15 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 16 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 17 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 18 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
-| 19 | [Hard R](http://twitter.com/search?q=Hard+R) | N/A |
-| 20 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 21 | [Crumbl](http://twitter.com/search?q=Crumbl) | N/A |
-| 22 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 23 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
-| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 16 | [Crumbl](http://twitter.com/search?q=Crumbl) | N/A |
+| 17 | [Hard R](http://twitter.com/search?q=Hard+R) | N/A |
+| 18 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 19 | [Playoff 13s](http://twitter.com/search?q=Playoff+13s) | N/A |
+| 20 | [Superbad](http://twitter.com/search?q=Superbad) | N/A |
+| 21 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
+| 22 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
+| 23 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
+| 24 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
 | 25 | [Booksmart](http://twitter.com/search?q=Booksmart) | N/A |
-| 26 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
-| 27 | [Superbad](http://twitter.com/search?q=Superbad) | N/A |
-| 28 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 29 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 30 | [House Republicans](http://twitter.com/search?q=House+Republicans) | House Republicans are members of the United States House of Representatives who are affiliated with the Republican Party. They are responsible for introducing and voting on legislation that affects the nation. The House Republicans work to promote their party's agenda and policies, while also representing their constituents in Congress. |
-| 31 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 32 | [Serena](http://twitter.com/search?q=Serena) | N/A |
-| 33 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 34 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 35 | [White History Month](http://twitter.com/search?q=White+History+Month) | N/A |
-| 36 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 37 | [Macho Man](http://twitter.com/search?q=Macho+Man) | N/A |
-| 38 | [Tlaib](http://twitter.com/search?q=Tlaib) | N/A |
-| 39 | [Eunice Dwumfour](http://twitter.com/search?q=Eunice+Dwumfour) | N/A |
-| 40 | [Red TV](http://twitter.com/search?q=Red+TV) | N/A |
-| 41 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
-| 42 | [Gobbler's Knob](http://twitter.com/search?q=Gobbler%27s+Knob) | N/A |
-| 43 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
-| 44 | [Lady Bird](http://twitter.com/search?q=Lady+Bird) | N/A |
-| 45 | [Arkansas Gov](http://twitter.com/search?q=Arkansas+Gov) | N/A |
-| 46 | [Cremated](http://twitter.com/search?q=Cremated) | N/A |
-| 47 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
-| 48 | [Evero](http://twitter.com/search?q=Evero) | N/A |
-| 49 | [CONDEMN](http://twitter.com/search?q=CONDEMN) | N/A |
-| 50 | [Randy Savage](http://twitter.com/search?q=Randy+Savage) | N/A |
+| 26 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 27 | [Elway](http://twitter.com/search?q=Elway) | N/A |
+| 28 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 29 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 30 | [Jew-ish](http://twitter.com/search?q=Jew-ish) | N/A |
+| 31 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
+| 32 | [Kinky Boots](http://twitter.com/search?q=Kinky+Boots) | N/A |
+| 33 | [Lady Bird](http://twitter.com/search?q=Lady+Bird) | N/A |
+| 34 | [Fall Out Boy](http://twitter.com/search?q=Fall+Out+Boy) | Fall Out Boy is an American rock band from Wilmette, Illinois. The band's name is derived from a phrase that was used in the TV show The Simpsons. It refers to a nuclear fallout shelter, which was a place where people could go to protect themselves from the effects of a nuclear explosion. |
+| 35 | [Hot Take](http://twitter.com/search?q=Hot+Take) | N/A |
+| 36 | [House Republicans](http://twitter.com/search?q=House+Republicans) | House Republicans are members of the United States House of Representatives who are affiliated with the Republican Party. They are responsible for introducing and voting on legislation that affects the nation. The House Republicans work to promote their party's agenda and policies, while also representing their constituents in Congress. |
+| 37 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 38 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 39 | [Macho Man](http://twitter.com/search?q=Macho+Man) | N/A |
+| 40 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 41 | [Marino](http://twitter.com/search?q=Marino) | N/A |
+| 42 | [Tlaib](http://twitter.com/search?q=Tlaib) | N/A |
+| 43 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 44 | [Red TV](http://twitter.com/search?q=Red+TV) | N/A |
+| 45 | [The Squad](http://twitter.com/search?q=The+Squad) | N/A |
+| 46 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 47 | [Semitic](http://twitter.com/search?q=Semitic) | N/A |
+| 48 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 49 | [Eunice Dwumfour](http://twitter.com/search?q=Eunice+Dwumfour) | N/A |
+| 50 | [Benjamins](http://twitter.com/search?q=Benjamins) | N/A |
 
 
 

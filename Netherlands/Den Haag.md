@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-02 19:15:59 UTC`
+📆 Last Updated: `2023-02-02 20:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [Thijs](http://twitter.com/search?q=Thijs) | Thijs is a Dutch given name, derived from the Greek name Matthias. It is a variant of the English name Matthew. The meaning of Thijs in English is "gift of God". |
 | 2 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 3 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
-| 4 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 3 | [#mrfrankvisser](http://twitter.com/search?q=%23mrfrankvisser) | N/A |
+| 4 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
 | 5 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
-| 6 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 7 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
-| 8 | [Moord](http://twitter.com/search?q=Moord) | N/A |
-| 9 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 10 | [Eritreeërs](http://twitter.com/search?q=Eritree%c3%abrs) | N/A |
-| 11 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 12 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 13 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 14 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
-| 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 16 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
-| 17 | [Wetenschap](http://twitter.com/search?q=Wetenschap) | N/A |
-| 18 | [EU-geld](http://twitter.com/search?q=EU-geld) | N/A |
+| 6 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 7 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 8 | [Eritreeërs](http://twitter.com/search?q=Eritree%c3%abrs) | N/A |
+| 9 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 10 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 11 | [Moord](http://twitter.com/search?q=Moord) | N/A |
+| 12 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 13 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
+| 14 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
+| 15 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
+| 16 | [Wetenschap](http://twitter.com/search?q=Wetenschap) | N/A |
+| 17 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 18 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
 | 19 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
-| 20 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
-| 21 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 22 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 23 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [malek f.](http://twitter.com/search?q=malek+f.) | N/A |
-| 26 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 27 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
-| 28 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 29 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
-| 30 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 31 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 32 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
-| 33 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 34 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 35 | [Shell-winst](http://twitter.com/search?q=Shell-winst) | N/A |
-| 36 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
-| 37 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 20 | [EU-geld](http://twitter.com/search?q=EU-geld) | N/A |
+| 21 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 22 | [kwint](http://twitter.com/search?q=kwint) | N/A |
+| 23 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 24 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 25 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
+| 26 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
+| 27 | [Malek F.](http://twitter.com/search?q=Malek+F.) | N/A |
+| 28 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 29 | [Shell-winst](http://twitter.com/search?q=Shell-winst) | N/A |
+| 30 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
+| 31 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 32 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 33 | [Regiobank](http://twitter.com/search?q=Regiobank) | N/A |
+| 34 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 35 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 36 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 37 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
 | 38 | [Luister](http://twitter.com/search?q=Luister) | N/A |
-| 39 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 40 | [Tata Steel](http://twitter.com/search?q=Tata+Steel) | N/A |
+| 39 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 40 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
 | 41 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
-| 42 | [Regiobank](http://twitter.com/search?q=Regiobank) | N/A |
-| 43 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
-| 44 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
-| 45 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 46 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 47 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
-| 48 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 49 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 42 | [Beter 1](http://twitter.com/search?q=Beter+1) | N/A |
+| 43 | [Sander Schimmelpenninck](http://twitter.com/search?q=Sander+Schimmelpenninck) | N/A |
+| 44 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 45 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
+| 46 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 48 | [Eritrea](http://twitter.com/search?q=Eritrea) | N/A |
+| 49 | [Guus](http://twitter.com/search?q=Guus) | N/A |
 
 
 

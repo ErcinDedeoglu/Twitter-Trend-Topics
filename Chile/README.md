@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-02 19:16:29 UTC`
+📆 Last Updated: `2023-02-02 20:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Chile
 | 4 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
 | 5 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
 | 6 | [Quillón](http://twitter.com/search?q=Quill%c3%b3n) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 9 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 10 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
-| 11 | [#SoyComoUnNiño](http://twitter.com/search?q=%23SoyComoUnNi%c3%b1o) | N/A |
-| 12 | [#MePierdoContigo](http://twitter.com/search?q=%23MePierdoContigo) | N/A |
+| 7 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 8 | [#SorpresasDelDestino](http://twitter.com/search?q=%23SorpresasDelDestino) | N/A |
+| 9 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [#MePierdoContigo](http://twitter.com/search?q=%23MePierdoContigo) | N/A |
+| 12 | [Presidente Boric](http://twitter.com/search?q=Presidente+Boric) | N/A |
 | 13 | [#BettyEnEl13](http://twitter.com/search?q=%23BettyEnEl13) | N/A |
-| 14 | [Presidente Boric](http://twitter.com/search?q=Presidente+Boric) | N/A |
-| 15 | [Twitch Chile](http://twitter.com/search?q=Twitch+Chile) | N/A |
-| 16 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
-| 17 | [Valentín Trujillo](http://twitter.com/search?q=Valent%c3%adn+Trujillo) | N/A |
-| 18 | [Santa Ana](http://twitter.com/search?q=Santa+Ana) | N/A |
-| 19 | [San Ramón](http://twitter.com/search?q=San+Ram%c3%b3n) | N/A |
-| 20 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 21 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 22 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 23 | [Marco Antonio López](http://twitter.com/search?q=Marco+Antonio+L%c3%b3pez) | N/A |
-| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 25 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 26 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
-| 27 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
-| 28 | [Bellas Artes](http://twitter.com/search?q=Bellas+Artes) | N/A |
-| 29 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
-| 30 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 31 | [Longueira](http://twitter.com/search?q=Longueira) | N/A |
-| 32 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 33 | [Caso Relojes](http://twitter.com/search?q=Caso+Relojes) | N/A |
-| 34 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 35 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 36 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
-| 37 | [Recoleta](http://twitter.com/search?q=Recoleta) | N/A |
-| 38 | [Quilmo](http://twitter.com/search?q=Quilmo) | N/A |
-| 39 | [Arriagada](http://twitter.com/search?q=Arriagada) | N/A |
-| 40 | [Fidel Espinoza](http://twitter.com/search?q=Fidel+Espinoza) | N/A |
-| 41 | [Brilla](http://twitter.com/search?q=Brilla) | N/A |
-| 42 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 43 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 44 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 45 | [El PS](http://twitter.com/search?q=El+PS) | N/A |
-| 46 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 47 | [villa jerusalén](http://twitter.com/search?q=villa+jerusal%c3%a9n) | N/A |
-| 48 | [Centro de Justicia](http://twitter.com/search?q=Centro+de+Justicia) | N/A |
-| 49 | [Sernameg](http://twitter.com/search?q=Sernameg) | N/A |
-| 50 | [Golpe](http://twitter.com/search?q=Golpe) | N/A |
+| 14 | [#Jonathan](http://twitter.com/search?q=%23Jonathan) | N/A |
+| 15 | [Ñuble](http://twitter.com/search?q=%c3%91uble) | N/A |
+| 16 | [Itata](http://twitter.com/search?q=Itata) | N/A |
+| 17 | [Santa Ana](http://twitter.com/search?q=Santa+Ana) | N/A |
+| 18 | [Nueva Aldea](http://twitter.com/search?q=Nueva+Aldea) | N/A |
+| 19 | [Valentín Trujillo](http://twitter.com/search?q=Valent%c3%adn+Trujillo) | N/A |
+| 20 | [Coelemu](http://twitter.com/search?q=Coelemu) | N/A |
+| 21 | [Twitch Chile](http://twitter.com/search?q=Twitch+Chile) | N/A |
+| 22 | [San Ramón](http://twitter.com/search?q=San+Ram%c3%b3n) | N/A |
+| 23 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 24 | [Marco Antonio López](http://twitter.com/search?q=Marco+Antonio+L%c3%b3pez) | N/A |
+| 25 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 26 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 27 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 28 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 29 | [Bellas Artes](http://twitter.com/search?q=Bellas+Artes) | N/A |
+| 30 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 31 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 32 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
+| 33 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 34 | [Longueira](http://twitter.com/search?q=Longueira) | N/A |
+| 35 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 36 | [Caso Relojes](http://twitter.com/search?q=Caso+Relojes) | N/A |
+| 37 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
+| 38 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
+| 39 | [Recoleta](http://twitter.com/search?q=Recoleta) | N/A |
+| 40 | [Arriagada](http://twitter.com/search?q=Arriagada) | N/A |
+| 41 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 42 | [Alerta Roja](http://twitter.com/search?q=Alerta+Roja) | N/A |
+| 43 | [Brilla](http://twitter.com/search?q=Brilla) | N/A |
+| 44 | [Fidel Espinoza](http://twitter.com/search?q=Fidel+Espinoza) | N/A |
+| 45 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 46 | [Villa Jerusalén](http://twitter.com/search?q=Villa+Jerusal%c3%a9n) | N/A |
+| 47 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 48 | [Quilmo](http://twitter.com/search?q=Quilmo) | N/A |
+| 49 | [Centro de Justicia](http://twitter.com/search?q=Centro+de+Justicia) | N/A |
+| 50 | [Fantasilandia](http://twitter.com/search?q=Fantasilandia) | N/A |
 
 
 

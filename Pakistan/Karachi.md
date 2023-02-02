@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-02 19:16:16 UTC`
+📆 Last Updated: `2023-02-02 20:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#ImranRiazKhan](http://twitter.com/search?q=%23ImranRiazKhan) | N/A |
 | 4 | [#SheikhRasheed](http://twitter.com/search?q=%23SheikhRasheed) | N/A |
 | 5 | [#اسلام_دشمنوں_کاگٹھ_جوڑ](http://twitter.com/search?q=%23%d8%a7%d8%b3%d9%84%d8%a7%d9%85_%d8%af%d8%b4%d9%85%d9%86%d9%88%da%ba_%da%a9%d8%a7%da%af%d9%b9%da%be_%d8%ac%d9%88%da%91) | N/A |
-| 6 | [ASIM'S FASTEST 15M RECORD DAY](http://twitter.com/search?q=ASIM%27S+FASTEST+15M+RECORD+DAY) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [Happy Birthday Bibi](http://twitter.com/search?q=Happy+Birthday+Bibi) | N/A |
+| 7 | [ASIM'S FASTEST 15M RECORD DAY](http://twitter.com/search?q=ASIM%27S+FASTEST+15M+RECORD+DAY) | N/A |
 | 8 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 9 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 10 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 11 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 12 | [Yasir Arafat](http://twitter.com/search?q=Yasir+Arafat) | N/A |
-| 13 | [Shubman Gill](http://twitter.com/search?q=Shubman+Gill) | Shubman Gill is an Indian cricketer who plays for the Indian national team. He is a right-handed batsman and occasional right-arm off break bowler. He made his international debut in 2018 and has since become one of the most promising young players in the country. |
-| 14 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 15 | [awami muslim league](http://twitter.com/search?q=awami+muslim+league) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 11 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 12 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 14 | [Shubman Gill](http://twitter.com/search?q=Shubman+Gill) | Shubman Gill is an Indian cricketer who plays for the Indian national team. He is a right-handed batsman and occasional right-arm off break bowler. He made his international debut in 2018 and has since become one of the most promising young players in the country. |
+| 15 | [Yasir Arafat](http://twitter.com/search?q=Yasir+Arafat) | N/A |
 | 16 | [Swag](http://twitter.com/search?q=Swag) | N/A |
-| 17 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 18 | [Munir Akram](http://twitter.com/search?q=Munir+Akram) | N/A |
-| 19 | [Kohat](http://twitter.com/search?q=Kohat) | N/A |
-| 20 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 21 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
-| 22 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 23 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
-| 24 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 25 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
+| 17 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 18 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 19 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 20 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
+| 21 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
+| 22 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
+| 23 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
+| 24 | [Munir Akram](http://twitter.com/search?q=Munir+Akram) | N/A |
+| 25 | [Awami Muslim League](http://twitter.com/search?q=Awami+Muslim+League) | N/A |
 | 26 | [REIGNING ERA OF SUMBUL](http://twitter.com/search?q=REIGNING+ERA+OF+SUMBUL) | N/A |
-| 27 | [Mother's Love](http://twitter.com/search?q=Mother%27s+Love) | N/A |
-| 28 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
-| 29 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 30 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 31 | [Rana Sanaullah](http://twitter.com/search?q=Rana+Sanaullah) | N/A |
-| 32 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 33 | [Bold](http://twitter.com/search?q=Bold) | N/A |
-| 34 | [Chemistry](http://twitter.com/search?q=Chemistry) | N/A |
-| 35 | [Double](http://twitter.com/search?q=Double) | N/A |
-| 36 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 38 | [Welldone](http://twitter.com/search?q=Welldone) | N/A |
-| 39 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 40 | [Extremely](http://twitter.com/search?q=Extremely) | N/A |
-| 41 | [Humanity](http://twitter.com/search?q=Humanity) | N/A |
-| 42 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
-| 43 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
-| 44 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 45 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 46 | [Chup](http://twitter.com/search?q=Chup) | N/A |
-| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 48 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 49 | [Itni](http://twitter.com/search?q=Itni) | N/A |
-| 50 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 27 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 28 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 29 | [Kohat](http://twitter.com/search?q=Kohat) | N/A |
+| 30 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
+| 31 | [Fiverr](http://twitter.com/search?q=Fiverr) | N/A |
+| 32 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 33 | [North Nazimabad](http://twitter.com/search?q=North+Nazimabad) | N/A |
+| 34 | [Bold](http://twitter.com/search?q=Bold) | N/A |
+| 35 | [Meri](http://twitter.com/search?q=Meri) | N/A |
+| 36 | [May ALLAH Almighty](http://twitter.com/search?q=May+ALLAH+Almighty) | N/A |
+| 37 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
+| 38 | [Chemistry](http://twitter.com/search?q=Chemistry) | N/A |
+| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 40 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
+| 41 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 42 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 43 | [Humanity](http://twitter.com/search?q=Humanity) | N/A |
+| 44 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
+| 45 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
+| 46 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 47 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 48 | [Arshad Shareef](http://twitter.com/search?q=Arshad+Shareef) | N/A |
+| 49 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 50 | [Karma](http://twitter.com/search?q=Karma) | N/A |
 
 
 

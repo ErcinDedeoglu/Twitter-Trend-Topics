@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-02 19:15:56 UTC`
+📆 Last Updated: `2023-02-02 20:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Austria](</Austria>)
 | 2 | [Wien](http://twitter.com/search?q=Wien) | N/A |
 | 3 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
 | 4 | [Linz](http://twitter.com/search?q=Linz) | N/A |
-| 5 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 6 | [Sager](http://twitter.com/search?q=Sager) | N/A |
-| 7 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 8 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 9 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
-| 10 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 11 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 5 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 6 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 7 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
+| 8 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 9 | [Sager](http://twitter.com/search?q=Sager) | N/A |
+| 10 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 11 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
 | 12 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
-| 13 | [Migrationshintergrund](http://twitter.com/search?q=Migrationshintergrund) | N/A |
-| 14 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 15 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 16 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 17 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 18 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 19 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
-| 20 | [Landesrat](http://twitter.com/search?q=Landesrat) | N/A |
-| 21 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 22 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
-| 23 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 24 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
-| 25 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
-| 26 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 27 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
-| 28 | [Freude](http://twitter.com/search?q=Freude) | N/A |
-| 29 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 30 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 31 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 32 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
-| 33 | [#zib1](http://twitter.com/search?q=%23zib1) | N/A |
-| 34 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 35 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 13 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 14 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 15 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
+| 16 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 17 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 18 | [Migrationshintergrund](http://twitter.com/search?q=Migrationshintergrund) | N/A |
+| 19 | [SOS Mitmensch](http://twitter.com/search?q=SOS+Mitmensch) | N/A |
+| 20 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 21 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | N/A |
+| 22 | [Landesrat](http://twitter.com/search?q=Landesrat) | N/A |
+| 23 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 24 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 25 | [#FPOE](http://twitter.com/search?q=%23FPOE) | N/A |
+| 26 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
+| 27 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 28 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 29 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 30 | [Stress](http://twitter.com/search?q=Stress) | N/A |
+| 31 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
+| 32 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 33 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
+| 34 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
+| 35 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
 | 36 | [Pöbel](http://twitter.com/search?q=P%c3%b6bel) | N/A |
-| 37 | [Wein](http://twitter.com/search?q=Wein) | N/A |
-| 38 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 39 | [Gerne](http://twitter.com/search?q=Gerne) | N/A |
-| 40 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 41 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 42 | [babler](http://twitter.com/search?q=babler) | N/A |
-| 43 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
-| 44 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
-| 45 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 46 | [Zähne](http://twitter.com/search?q=Z%c3%a4hne) | N/A |
-| 47 | [Stress](http://twitter.com/search?q=Stress) | N/A |
-| 48 | [Aufregung](http://twitter.com/search?q=Aufregung) | N/A |
-| 49 | [Republik](http://twitter.com/search?q=Republik) | N/A |
-| 50 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 37 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 38 | [Achso](http://twitter.com/search?q=Achso) | N/A |
+| 39 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 40 | [Gerne](http://twitter.com/search?q=Gerne) | N/A |
+| 41 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 42 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 43 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 44 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
+| 45 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
+| 46 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 47 | [Republik](http://twitter.com/search?q=Republik) | N/A |
+| 48 | [Wein](http://twitter.com/search?q=Wein) | N/A |
+| 49 | [Zähne](http://twitter.com/search?q=Z%c3%a4hne) | N/A |
+| 50 | [Mist](http://twitter.com/search?q=Mist) | N/A |
 
 
 

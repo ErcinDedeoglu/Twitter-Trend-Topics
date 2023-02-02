@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-02-02 19:15:46 UTC`
+📆 Last Updated: `2023-02-02 20:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
-| 2 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 3 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 4 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 5 | [#BritishGas](http://twitter.com/search?q=%23BritishGas) | N/A |
-| 6 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 7 | [MUFC](http://twitter.com/search?q=MUFC) | N/A |
-| 8 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 9 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 10 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 11 | [#Autumnwatch](http://twitter.com/search?q=%23Autumnwatch) | N/A |
-| 12 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 13 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
-| 14 | [Kell](http://twitter.com/search?q=Kell) | N/A |
-| 15 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
-| 16 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 17 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 18 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
-| 19 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 20 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 21 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 22 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 23 | [Ched Evans](http://twitter.com/search?q=Ched+Evans) | N/A |
-| 24 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 25 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 26 | [Ryan Giggs](http://twitter.com/search?q=Ryan+Giggs) | N/A |
-| 27 | [Greed](http://twitter.com/search?q=Greed) | N/A |
-| 28 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 29 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 30 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
-| 31 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 32 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 33 | [Crown Prosecution Service](http://twitter.com/search?q=Crown+Prosecution+Service) | N/A |
-| 34 | [Rapist](http://twitter.com/search?q=Rapist) | N/A |
-| 35 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 36 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
-| 37 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 38 | [Rodders](http://twitter.com/search?q=Rodders) | N/A |
-| 39 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
-| 40 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
-| 41 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
-| 42 | [Legally](http://twitter.com/search?q=Legally) | N/A |
-| 43 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 44 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
-| 45 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 46 | [Gromit](http://twitter.com/search?q=Gromit) | Gromit is a fictional character from the British stop-motion animated comedy series Wallace and Gromit. He is a loyal, intelligent, anthropomorphic dog and the best friend of Wallace, a cheese-loving inventor. The name "Gromit" is derived from the English verb "to grumble". |
-| 47 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 48 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 49 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 1 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
+| 2 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 3 | [Ched Evans](http://twitter.com/search?q=Ched+Evans) | N/A |
+| 4 | [#cheesecoms](http://twitter.com/search?q=%23cheesecoms) | N/A |
+| 5 | [#houseofgames](http://twitter.com/search?q=%23houseofgames) | N/A |
+| 6 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
+| 7 | [Crown Prosecution Service](http://twitter.com/search?q=Crown+Prosecution+Service) | N/A |
+| 8 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 9 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 10 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
+| 11 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
+| 12 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
+| 13 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
+| 14 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
+| 15 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 16 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 17 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 18 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 19 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
+| 20 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
+| 21 | [Kell](http://twitter.com/search?q=Kell) | N/A |
+| 22 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 23 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 24 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 25 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
+| 26 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 27 | [Zhang](http://twitter.com/search?q=Zhang) | N/A |
+| 28 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 29 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 30 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 32 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 33 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 34 | [Greed](http://twitter.com/search?q=Greed) | N/A |
+| 35 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 36 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 37 | [Ed Miliband](http://twitter.com/search?q=Ed+Miliband) | N/A |
+| 38 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
+| 39 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 40 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
+| 41 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 42 | [Gareth Bale](http://twitter.com/search?q=Gareth+Bale) | Gareth Bale is a Welsh professional footballer who plays as a winger for Premier League club Tottenham Hotspur and the Wales national team. His meaning in English is "a talented and successful Welsh soccer player". |
+| 43 | [Rapist](http://twitter.com/search?q=Rapist) | N/A |
+| 44 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 45 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 46 | [Legally](http://twitter.com/search?q=Legally) | N/A |
+| 47 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 48 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 49 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
 
 
 
