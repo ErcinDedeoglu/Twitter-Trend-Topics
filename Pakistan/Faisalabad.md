@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-02-02 13:21:46 UTC`
+📆 Last Updated: `2023-02-02 14:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#PakistanUnderFascism](http://twitter.com/search?q=%23PakistanUnderFascism) | N/A |
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 7 | [ASIM'S FASTEST 15M RECORD DAY](http://twitter.com/search?q=ASIM%27S+FASTEST+15M+RECORD+DAY) | N/A |
-| 8 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 9 | [Yasir Arafat](http://twitter.com/search?q=Yasir+Arafat) | N/A |
-| 10 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 11 | [Shubman Gill](http://twitter.com/search?q=Shubman+Gill) | Shubman Gill is an Indian cricketer who plays for the Indian national team. He is a right-handed batsman and occasional right-arm off break bowler. He made his international debut in 2018 and has since become one of the most promising young players in the country. |
-| 12 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 13 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 14 | [Awami Muslim League](http://twitter.com/search?q=Awami+Muslim+League) | N/A |
-| 15 | [Swag](http://twitter.com/search?q=Swag) | N/A |
-| 16 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
-| 17 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
-| 18 | [FPSC](http://twitter.com/search?q=FPSC) | N/A |
-| 19 | [ICC Men](http://twitter.com/search?q=ICC+Men) | N/A |
+| 8 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 9 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 10 | [Yasir Arafat](http://twitter.com/search?q=Yasir+Arafat) | N/A |
+| 11 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
+| 12 | [awami muslim league](http://twitter.com/search?q=awami+muslim+league) | N/A |
+| 13 | [Shubman Gill](http://twitter.com/search?q=Shubman+Gill) | Shubman Gill is an Indian cricketer who plays for the Indian national team. He is a right-handed batsman and occasional right-arm off break bowler. He made his international debut in 2018 and has since become one of the most promising young players in the country. |
+| 14 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
+| 15 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
+| 16 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 17 | [FPSC](http://twitter.com/search?q=FPSC) | N/A |
+| 18 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
+| 19 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 20 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 21 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 22 | [Misbah](http://twitter.com/search?q=Misbah) | N/A |
-| 23 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 24 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
-| 25 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 21 | [ICC Men](http://twitter.com/search?q=ICC+Men) | N/A |
+| 22 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
+| 23 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
+| 24 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 25 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
 | 26 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 27 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 28 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
-| 29 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 30 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 31 | [IG KP](http://twitter.com/search?q=IG+KP) | N/A |
-| 32 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 33 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
-| 34 | [Pakistanis](http://twitter.com/search?q=Pakistanis) | N/A |
-| 35 | [England](http://twitter.com/search?q=England) | N/A |
-| 36 | [Arshad Shareef](http://twitter.com/search?q=Arshad+Shareef) | N/A |
-| 37 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 38 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
-| 39 | [JazakAllah](http://twitter.com/search?q=JazakAllah) | N/A |
-| 40 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
-| 41 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 42 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 43 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 44 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 45 | [telenor](http://twitter.com/search?q=telenor) | N/A |
-| 46 | [Politicians](http://twitter.com/search?q=Politicians) | N/A |
-| 47 | [Arey](http://twitter.com/search?q=Arey) | N/A |
-| 48 | [Generals](http://twitter.com/search?q=Generals) | N/A |
-| 49 | [article 6](http://twitter.com/search?q=article+6) | N/A |
-| 50 | [Samee](http://twitter.com/search?q=Samee) | N/A |
+| 27 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
+| 28 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 29 | [readings](http://twitter.com/search?q=readings) | N/A |
+| 30 | [Pakistanis](http://twitter.com/search?q=Pakistanis) | N/A |
+| 31 | [Sameee](http://twitter.com/search?q=Sameee) | N/A |
+| 32 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 33 | [JazakAllah](http://twitter.com/search?q=JazakAllah) | N/A |
+| 34 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 35 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 36 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 37 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
+| 38 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 39 | [ig kp](http://twitter.com/search?q=ig+kp) | N/A |
+| 40 | [Generals](http://twitter.com/search?q=Generals) | N/A |
+| 41 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 42 | [England](http://twitter.com/search?q=England) | N/A |
+| 43 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 44 | [arshad](http://twitter.com/search?q=arshad) | N/A |
+| 45 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
+| 46 | [LOVE YOU](http://twitter.com/search?q=LOVE+YOU) | N/A |
+| 47 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 48 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 49 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 50 | [Shukria](http://twitter.com/search?q=Shukria) | N/A |
 
 
 

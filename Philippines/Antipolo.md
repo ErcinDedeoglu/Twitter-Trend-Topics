@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-02-02 13:21:38 UTC`
+📆 Last Updated: `2023-02-02 14:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIMulingPaghaharap](http://twitter.com/search?q=%23MCIMulingPaghaharap) | N/A |
-| 2 | [HOSHI](http://twitter.com/search?q=HOSHI) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
-| 5 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 6 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
-| 7 | [#WelcomeToManila_ENHYPEN](http://twitter.com/search?q=%23WelcomeToManila_ENHYPEN) | N/A |
-| 8 | [SILA IDOL PALA](http://twitter.com/search?q=SILA+IDOL+PALA) | SILA IDOL PALA is a Malaysian phrase that translates to "You are my idol". It is often used as a term of endearment or admiration for someone. |
-| 9 | [d-1 complex ep release](http://twitter.com/search?q=d-1+complex+ep+release) | N/A |
-| 10 | [#ALAMATxRapplerLiveJam](http://twitter.com/search?q=%23ALAMATxRapplerLiveJam) | N/A |
-| 11 | [#EN_WORLDTOUR_MANIFESTO](http://twitter.com/search?q=%23EN_WORLDTOUR_MANIFESTO) | #EN_WORLDTOUR_MANIFESTO is a hashtag used to promote a global initiative for sustainable tourism. The manifesto calls for the adoption of responsible and sustainable practices in the tourism industry, with the aim of preserving the environment and protecting local cultures. It encourages travelers to be mindful of their impact on the environment and to respect local customs and traditions. |
-| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 13 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
-| 14 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 15 | [WALANG IWANAN KD](http://twitter.com/search?q=WALANG+IWANAN+KD) | N/A |
-| 16 | [The Right Way to Pray](http://twitter.com/search?q=The+Right+Way+to+Pray) | N/A |
-| 17 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 18 | [SHOPEE SULIT BRANDS SALE 2DAY](http://twitter.com/search?q=SHOPEE+SULIT+BRANDS+SALE+2DAY) | N/A |
-| 19 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
-| 20 | [VXON PPOPCON2023 REVEAL](http://twitter.com/search?q=VXON+PPOPCON2023+REVEAL) | N/A |
-| 21 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
-| 22 | [DARREN FOR KANNAWIDAN2023](http://twitter.com/search?q=DARREN+FOR+KANNAWIDAN2023) | N/A |
-| 23 | [we gotchu always kd](http://twitter.com/search?q=we+gotchu+always+kd) | N/A |
-| 24 | [alexas bday in25days](http://twitter.com/search?q=alexas+bday+in25days) | N/A |
-| 25 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 26 | [donny for mega man](http://twitter.com/search?q=donny+for+mega+man) | N/A |
-| 27 | [darlentina the clash](http://twitter.com/search?q=darlentina+the+clash) | N/A |
-| 28 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 29 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 30 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 31 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
-| 32 | [stell the song birdie](http://twitter.com/search?q=stell+the+song+birdie) | N/A |
-| 33 | [safe skies](http://twitter.com/search?q=safe+skies) | N/A |
-| 34 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 35 | [BELLEntines WithDUNKIN](http://twitter.com/search?q=BELLEntines+WithDUNKIN) | N/A |
-| 36 | [andrea gemofastar](http://twitter.com/search?q=andrea+gemofastar) | N/A |
-| 37 | [xyriel](http://twitter.com/search?q=xyriel) | N/A |
-| 38 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 39 | [may pogi na sa pinas](http://twitter.com/search?q=may+pogi+na+sa+pinas) | N/A |
-| 40 | [NARIAN TESTED LOVE](http://twitter.com/search?q=NARIAN+TESTED+LOVE) | N/A |
-| 41 | [powerfuldonbelle withsmart](http://twitter.com/search?q=powerfuldonbelle+withsmart) | N/A |
-| 42 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 43 | [El Fili](http://twitter.com/search?q=El+Fili) | N/A |
-| 44 | [D2 ChoreograSTELL](http://twitter.com/search?q=D2+ChoreograSTELL) | N/A |
-| 45 | [jung hoseok](http://twitter.com/search?q=jung+hoseok) | N/A |
-| 46 | [Enha](http://twitter.com/search?q=Enha) | N/A |
-| 47 | [FRANSETHSapphires](http://twitter.com/search?q=FRANSETHSapphires) | N/A |
-| 48 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 49 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 50 | [TAEYEON NIGHTS INTO DAYS](http://twitter.com/search?q=TAEYEON+NIGHTS+INTO+DAYS) | N/A |
+| 1 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
+| 2 | [#MCIMulingPaghaharap](http://twitter.com/search?q=%23MCIMulingPaghaharap) | N/A |
+| 3 | [#DLCleaners](http://twitter.com/search?q=%23DLCleaners) | N/A |
+| 4 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
+| 5 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
+| 6 | [#LISAxBVLGARI](http://twitter.com/search?q=%23LISAxBVLGARI) | N/A |
+| 7 | [#ALAMATxRapplerLiveJam](http://twitter.com/search?q=%23ALAMATxRapplerLiveJam) | N/A |
+| 8 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
+| 9 | [ALAMAT JAMMING WITH RAPPLER](http://twitter.com/search?q=ALAMAT+JAMMING+WITH+RAPPLER) | N/A |
+| 10 | [D-1 COMPLEX EP RELEASE](http://twitter.com/search?q=D-1+COMPLEX+EP+RELEASE) | N/A |
+| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 12 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 13 | [The Right Way to Pray](http://twitter.com/search?q=The+Right+Way+to+Pray) | N/A |
+| 14 | [#LuvIsLangitAtLupa](http://twitter.com/search?q=%23LuvIsLangitAtLupa) | N/A |
+| 15 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
+| 16 | [WALANG IWANAN KD](http://twitter.com/search?q=WALANG+IWANAN+KD) | N/A |
+| 17 | [VXON PPOPCON2023 REVEAL](http://twitter.com/search?q=VXON+PPOPCON2023+REVEAL) | N/A |
+| 18 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
+| 19 | [Baek](http://twitter.com/search?q=Baek) | N/A |
+| 20 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 21 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 22 | [Angel Aquino](http://twitter.com/search?q=Angel+Aquino) | N/A |
+| 23 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
+| 24 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 25 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 26 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 27 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
+| 28 | [Ador](http://twitter.com/search?q=Ador) | N/A |
+| 29 | [welcome to nyc janenella](http://twitter.com/search?q=welcome+to+nyc+janenella) | N/A |
+| 30 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 31 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 32 | [Hoon](http://twitter.com/search?q=Hoon) | N/A |
+| 33 | [basilio](http://twitter.com/search?q=basilio) | N/A |
+| 34 | [SHOPEE SULIT BRANDS SALE 2DAY](http://twitter.com/search?q=SHOPEE+SULIT+BRANDS+SALE+2DAY) | N/A |
+| 35 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | N/A |
+| 36 | [#TXT15thWin](http://twitter.com/search?q=%23TXT15thWin) | N/A |
+| 37 | [#VXONonPPopCon2023](http://twitter.com/search?q=%23VXONonPPopCon2023) | N/A |
+| 38 | [#투바투_엠카_1위_문을_열어](http://twitter.com/search?q=%23%ed%88%ac%eb%b0%94%ed%88%ac_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%eb%ac%b8%ec%9d%84_%ec%97%b4%ec%96%b4) | "#투바투_엠카_1위_문을_열어" is a hashtag used to celebrate the first place ranking of the song "Two-Three-M-C-A" on the Korean music chart Mnet. The phrase translates to "Open the door to Two-Three-M-C-A's first place ranking". |
+| 39 | [#Lazada22xZeeNunew](http://twitter.com/search?q=%23Lazada22xZeeNunew) | #Lazada22xZeeNunew is a hashtag used to promote a collaboration between Lazada, an online shopping platform, and ZeeNu, a fashion brand. The hashtag is used to promote the collaboration and its associated products. In English, it means "Lazada and ZeeNu Collaboration". |
+| 40 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 41 | [#MNL48](http://twitter.com/search?q=%23MNL48) | N/A |
+| 42 | [#SethFedelin](http://twitter.com/search?q=%23SethFedelin) | N/A |
+| 43 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
+| 44 | [#enhypen_in_manila](http://twitter.com/search?q=%23enhypen_in_manila) | N/A |
+| 45 | [#LazadaPH22](http://twitter.com/search?q=%23LazadaPH22) | N/A |
+| 46 | [#BOYCOTTMZETxAPTxGMA694](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA694) | N/A |
+| 47 | [#Darlentina](http://twitter.com/search?q=%23Darlentina) | N/A |
 
 
 

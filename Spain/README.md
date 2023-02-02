@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-02 13:22:05 UTC`
+📆 Last Updated: `2023-02-02 14:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COAC2023P12](http://twitter.com/search?q=%23COAC2023P12) | N/A |
-| 2 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
-| 3 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 6 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
-| 7 | [#MurgasSC3](http://twitter.com/search?q=%23MurgasSC3) | N/A |
-| 8 | [#ChollometroForever](http://twitter.com/search?q=%23ChollometroForever) | N/A |
-| 9 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 10 | [Agoney](http://twitter.com/search?q=Agoney) | Agoney is a Spanish slang term used to describe someone who is very unlucky or having a streak of bad luck. It can also be used to describe someone who is clumsy or awkward. In English, it could be translated as "unlucky" or "clumsy". |
-| 11 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 12 | [Borja iglesias](http://twitter.com/search?q=Borja+iglesias) | N/A |
-| 13 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 14 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 15 | [Rabat](http://twitter.com/search?q=Rabat) | N/A |
-| 16 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 17 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 18 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 19 | [Megara](http://twitter.com/search?q=Megara) | Megara is an ancient Greek city located in the northeastern part of the Peloponnese. It was a major port and commercial center, and its ruins are still visible today. In English, Megara means "great city". |
-| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 21 | [Ruibal](http://twitter.com/search?q=Ruibal) | Ruibal is a Spanish surname derived from the Latin word "rubellus," which means red. It is also believed to be derived from the Latin word "rubinus," which means ruby. The name is most commonly found in Spain and Latin America. |
-| 22 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
-| 23 | [Raillo](http://twitter.com/search?q=Raillo) | N/A |
-| 24 | [Luisa Fernanda](http://twitter.com/search?q=Luisa+Fernanda) | N/A |
-| 25 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 26 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 27 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 28 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 29 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
-| 30 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
-| 31 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 32 | [Candelas](http://twitter.com/search?q=Candelas) | N/A |
-| 33 | [Alice Wonder](http://twitter.com/search?q=Alice+Wonder) | Alice Wonder is a phrase used to describe someone who is curious and imaginative. It is often used to describe children who are full of wonder and awe at the world around them. |
-| 34 | [De Burgos Bengoetxea](http://twitter.com/search?q=De+Burgos+Bengoetxea) | N/A |
-| 35 | [Malbert](http://twitter.com/search?q=Malbert) | N/A |
-| 36 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 37 | [Fusa Nocta](http://twitter.com/search?q=Fusa+Nocta) | Fusa Nocta is a Latin phrase meaning "night watch." It was originally used to refer to a night watchman or guard who would patrol an area at night to ensure safety and security. |
-| 38 | [Aritz](http://twitter.com/search?q=Aritz) | Aritz is a Basque name derived from the Latin name "Aurelius". It is a masculine name meaning "golden" or "gilded". |
-| 39 | [Ongi](http://twitter.com/search?q=Ongi) | N/A |
-| 40 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
-| 41 | [José Otero](http://twitter.com/search?q=Jos%c3%a9+Otero) | N/A |
-| 42 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 43 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
-| 44 | [Hoy 2](http://twitter.com/search?q=Hoy+2) | N/A |
-| 45 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 46 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
-| 47 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 48 | [Templo](http://twitter.com/search?q=Templo) | N/A |
-| 49 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 50 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
+| 1 | [#SorteoDelDia](http://twitter.com/search?q=%23SorteoDelDia) | N/A |
+| 2 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
+| 3 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 4 | [Luisa Fernanda](http://twitter.com/search?q=Luisa+Fernanda) | N/A |
+| 5 | [#Solos2F](http://twitter.com/search?q=%23Solos2F) | N/A |
+| 6 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 7 | [José Otero](http://twitter.com/search?q=Jos%c3%a9+Otero) | N/A |
+| 8 | [#DiaMundialDeLosHumedales](http://twitter.com/search?q=%23DiaMundialDeLosHumedales) | N/A |
+| 9 | [#APOYOROCIO2F](http://twitter.com/search?q=%23APOYOROCIO2F) | N/A |
+| 10 | [#SmartBand2MM](http://twitter.com/search?q=%23SmartBand2MM) | N/A |
+| 11 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
+| 12 | [Vicco](http://twitter.com/search?q=Vicco) | N/A |
+| 13 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 14 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 15 | [Candelas](http://twitter.com/search?q=Candelas) | N/A |
+| 16 | [La 2](http://twitter.com/search?q=La+2) | N/A |
+| 17 | [Karmento](http://twitter.com/search?q=Karmento) | N/A |
+| 18 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
+| 19 | [Phil](http://twitter.com/search?q=Phil) | N/A |
+| 20 | [Alfred](http://twitter.com/search?q=Alfred) | N/A |
+| 21 | [Porta](http://twitter.com/search?q=Porta) | N/A |
+| 22 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 23 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 24 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
+| 25 | [Templo](http://twitter.com/search?q=Templo) | N/A |
+| 26 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 27 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 28 | [Seguridad Social](http://twitter.com/search?q=Seguridad+Social) | N/A |
+| 29 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 30 | [Sáhara](http://twitter.com/search?q=S%c3%a1hara) | N/A |
+| 31 | [Argelia](http://twitter.com/search?q=Argelia) | N/A |
+| 32 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 33 | [#paro](http://twitter.com/search?q=%23paro) | N/A |
+| 34 | [#AdriSolos](http://twitter.com/search?q=%23AdriSolos) | N/A |
+| 35 | [#YoMeRebelo2F](http://twitter.com/search?q=%23YoMeRebelo2F) | N/A |
+| 36 | [#DíaDeLaMarmota](http://twitter.com/search?q=%23D%c3%adaDeLaMarmota) | N/A |
+| 37 | [#SaudiTour](http://twitter.com/search?q=%23SaudiTour) | N/A |
+| 38 | [#TodosContraElCáncer](http://twitter.com/search?q=%23TodosContraElC%c3%a1ncer) | N/A |
+| 39 | [#LosMartian](http://twitter.com/search?q=%23LosMartian) | N/A |
 
 
 

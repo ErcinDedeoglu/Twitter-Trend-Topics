@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-02 13:21:13 UTC`
+📆 Last Updated: `2023-02-02 14:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 2 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | N/A |
+| 1 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
+| 2 | [Wiarton Willie](http://twitter.com/search?q=Wiarton+Willie) | N/A |
 | 3 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
 | 4 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
-| 7 | [Shubenacadie Sam](http://twitter.com/search?q=Shubenacadie+Sam) | N/A |
-| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 9 | [Wiarton Willie](http://twitter.com/search?q=Wiarton+Willie) | N/A |
-| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 12 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 13 | [HOSHI](http://twitter.com/search?q=HOSHI) | N/A |
-| 14 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
-| 15 | [#MisheardLyrics](http://twitter.com/search?q=%23MisheardLyrics) | N/A |
-| 16 | [Hinshaw](http://twitter.com/search?q=Hinshaw) | N/A |
-| 17 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 5 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Shubenacadie Sam](http://twitter.com/search?q=Shubenacadie+Sam) | N/A |
+| 9 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
+| 10 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
+| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 12 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 13 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
+| 14 | [Hinshaw](http://twitter.com/search?q=Hinshaw) | N/A |
+| 15 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 16 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 17 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
 | 18 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
 | 19 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 20 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 21 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
-| 22 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 23 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 24 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
-| 25 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 26 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 27 | [Noirs](http://twitter.com/search?q=Noirs) | N/A |
-| 28 | [Alek](http://twitter.com/search?q=Alek) | N/A |
-| 29 | [Herdman](http://twitter.com/search?q=Herdman) | N/A |
+| 20 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 22 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
+| 23 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 24 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
+| 25 | [Alek](http://twitter.com/search?q=Alek) | N/A |
+| 26 | [Herdman](http://twitter.com/search?q=Herdman) | N/A |
+| 27 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 28 | [Noirs](http://twitter.com/search?q=Noirs) | N/A |
+| 29 | [Dominic Barton](http://twitter.com/search?q=Dominic+Barton) | N/A |
 | 30 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 31 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 32 | [Dominic Barton](http://twitter.com/search?q=Dominic+Barton) | N/A |
-| 33 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 34 | [vaughan mills](http://twitter.com/search?q=vaughan+mills) | N/A |
-| 35 | [Quebec](http://twitter.com/search?q=Quebec) | N/A |
+| 31 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 32 | [vaughan mills](http://twitter.com/search?q=vaughan+mills) | N/A |
+| 33 | [Canuckle 264 X](http://twitter.com/search?q=Canuckle+264+X) | N/A |
+| 34 | [Quebec](http://twitter.com/search?q=Quebec) | N/A |
+| 35 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
 | 36 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
 | 37 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 38 | [Candice](http://twitter.com/search?q=Candice) | N/A |
+| 38 | [Spring](http://twitter.com/search?q=Spring) | N/A |
 | 39 | [The NDP](http://twitter.com/search?q=The+NDP) | N/A |
-| 40 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
-| 41 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 42 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
-| 43 | [african heritage month](http://twitter.com/search?q=african+heritage+month) | N/A |
-| 44 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 45 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 46 | [Michael Finlay](http://twitter.com/search?q=Michael+Finlay) | N/A |
-| 47 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 48 | [$META](http://twitter.com/search?q=%24META) | META is an acronym for "Most Effective Tactics Available." It is used to refer to strategies or tactics that are considered to be the most effective or efficient way of achieving a desired outcome. |
-| 49 | [bunts](http://twitter.com/search?q=bunts) | N/A |
-| 50 | [dangle](http://twitter.com/search?q=dangle) | N/A |
+| 40 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 41 | [Candice](http://twitter.com/search?q=Candice) | N/A |
+| 42 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 43 | [Walkerton](http://twitter.com/search?q=Walkerton) | N/A |
+| 44 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 45 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 46 | [african heritage month](http://twitter.com/search?q=african+heritage+month) | N/A |
+| 47 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 48 | [Michael Finlay](http://twitter.com/search?q=Michael+Finlay) | N/A |
+| 49 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 50 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
 
 
 

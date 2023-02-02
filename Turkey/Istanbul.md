@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-02 13:21:50 UTC`
+📆 Last Updated: `2023-02-02 14:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
-| 2 | [Prim](http://twitter.com/search?q=Prim) | N/A |
-| 3 | [#ŞartınHesabınıSorarız](http://twitter.com/search?q=%23%c5%9eart%c4%b1nHesab%c4%b1n%c4%b1Sorar%c4%b1z) | N/A |
-| 4 | [#MilyonlarınGözüKomisyonda](http://twitter.com/search?q=%23Milyonlar%c4%b1nG%c3%b6z%c3%bcKomisyonda) | #MilyonlarınGözüKomisyonda is a hashtag used in Turkey to refer to the Parliamentary Investigation Commission, which was established in 2018 to investigate the alleged misuse of public funds. The phrase translates to "The Eyes of Millions on the Commission" in English. |
-| 5 | [Metin Uca](http://twitter.com/search?q=Metin+Uca) | N/A |
-| 6 | [Sultanbeyli Açılış](http://twitter.com/search?q=Sultanbeyli+A%c3%a7%c4%b1l%c4%b1%c5%9f) | N/A |
-| 7 | [#bıst100](http://twitter.com/search?q=%23b%c4%b1st100) | N/A |
-| 8 | [Barbaros Şansal](http://twitter.com/search?q=Barbaros+%c5%9eansal) | N/A |
-| 9 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 10 | [Malsa](http://twitter.com/search?q=Malsa) | N/A |
-| 11 | [İsviçre Başkonsolosluğu](http://twitter.com/search?q=%c4%b0svi%c3%a7re+Ba%c5%9fkonsoloslu%c4%9fu) | N/A |
-| 12 | [#borsadasoygunvar](http://twitter.com/search?q=%23borsadasoygunvar) | N/A |
-| 13 | [Zühtü Arslan](http://twitter.com/search?q=Z%c3%bcht%c3%bc+Arslan) | Zühtü Arslan is a Turkish name that means "noble lion". It is derived from the Turkish words züht (noble) and arslan (lion). |
-| 14 | [İngiltere Merkez Bankası](http://twitter.com/search?q=%c4%b0ngiltere+Merkez+Bankas%c4%b1) | N/A |
-| 15 | [#ADSvFB](http://twitter.com/search?q=%23ADSvFB) | N/A |
-| 16 | [Fatih Sultan Mehmet](http://twitter.com/search?q=Fatih+Sultan+Mehmet) | N/A |
-| 17 | [İsmail Demir](http://twitter.com/search?q=%c4%b0smail+Demir) | İsmail Demir is a Turkish name. It is composed of two parts: İsmail, which is a common male given name in Turkey, and Demir, which means "iron" in Turkish. In English, the name would be translated as "Ismail Iron". |
-| 18 | [Kıble](http://twitter.com/search?q=K%c4%b1ble) | N/A |
-| 19 | [Anayasa Mahkemesi Başkanlığına](http://twitter.com/search?q=Anayasa+Mahkemesi+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1na) | N/A |
-| 20 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 21 | [Kılıçdaroğlu EhliyetAffı](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu+EhliyetAff%c4%b1) | N/A |
-| 22 | [3 Şubat Cuma](http://twitter.com/search?q=3+%c5%9eubat+Cuma) | N/A |
-| 23 | [İrfan Fidan](http://twitter.com/search?q=%c4%b0rfan+Fidan) | N/A |
-| 24 | [Evlenmeyin](http://twitter.com/search?q=Evlenmeyin) | N/A |
-| 25 | [Seferi](http://twitter.com/search?q=Seferi) | N/A |
-| 26 | [Adana Demirspor - Fenerbahçe](http://twitter.com/search?q=Adana+Demirspor+-+Fenerbah%c3%a7e) | N/A |
-| 27 | [AYM Başkanı](http://twitter.com/search?q=AYM+Ba%c5%9fkan%c4%b1) | N/A |
-| 28 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
-| 29 | [CNN Türk](http://twitter.com/search?q=CNN+T%c3%bcrk) | N/A |
-| 30 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
-| 31 | [Deniz Çoban](http://twitter.com/search?q=Deniz+%c3%87oban) | N/A |
-| 32 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
-| 33 | [Hakan Bayrakçı](http://twitter.com/search?q=Hakan+Bayrak%c3%a7%c4%b1) | N/A |
-| 34 | [14 Şubat](http://twitter.com/search?q=14+%c5%9eubat) | N/A |
-| 35 | [2 Şubat](http://twitter.com/search?q=2+%c5%9eubat) | N/A |
-| 36 | [Dinde](http://twitter.com/search?q=Dinde) | N/A |
-| 37 | [Kademeli](http://twitter.com/search?q=Kademeli) | N/A |
-| 38 | [Aferin Ali](http://twitter.com/search?q=Aferin+Ali) | N/A |
-| 39 | [İçişleri](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri) | N/A |
-| 40 | [#GenelAf](http://twitter.com/search?q=%23GenelAf) | N/A |
-| 41 | [#HakkımıHelalEtmiyorum](http://twitter.com/search?q=%23Hakk%c4%b1m%c4%b1HelalEtmiyorum) | N/A |
-| 42 | [#EYTdeSartlariKaldirin](http://twitter.com/search?q=%23EYTdeSartlariKaldirin) | N/A |
-| 43 | [#Galatasaraybilet](http://twitter.com/search?q=%23Galatasaraybilet) | N/A |
-| 44 | [#BayBayHepiniz](http://twitter.com/search?q=%23BayBayHepiniz) | N/A |
-| 45 | [#AKPyeTakılanlar](http://twitter.com/search?q=%23AKPyeTak%c4%b1lanlar) | N/A |
-| 46 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 47 | [#KıvançTatlıtuğ](http://twitter.com/search?q=%23K%c4%b1van%c3%a7Tatl%c4%b1tu%c4%9f) | N/A |
-| 48 | [#StajaAdalet](http://twitter.com/search?q=%23StajaAdalet) | N/A |
-| 49 | [#hürjet](http://twitter.com/search?q=%23h%c3%bcrjet) | N/A |
-| 50 | [#Persembe](http://twitter.com/search?q=%23Persembe) | #Persembe is a Turkish word meaning Thursday. |
+| 2 | [3 Şubat Cuma](http://twitter.com/search?q=3+%c5%9eubat+Cuma) | N/A |
+| 3 | [Uğur](http://twitter.com/search?q=U%c4%9fur) | N/A |
+| 4 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 5 | [#bıst100](http://twitter.com/search?q=%23b%c4%b1st100) | N/A |
+| 6 | [#ŞartınHesabınıSorarız](http://twitter.com/search?q=%23%c5%9eart%c4%b1nHesab%c4%b1n%c4%b1Sorar%c4%b1z) | N/A |
+| 7 | [#MilyonlarınGözüKomisyonda](http://twitter.com/search?q=%23Milyonlar%c4%b1nG%c3%b6z%c3%bcKomisyonda) | #MilyonlarınGözüKomisyonda is a hashtag used in Turkey to refer to the Parliamentary Investigation Commission, which was established in 2018 to investigate the alleged misuse of public funds. The phrase translates to "The Eyes of Millions on the Commission" in English. |
+| 8 | [Metin Uca](http://twitter.com/search?q=Metin+Uca) | N/A |
+| 9 | [#borsadasoygunvar](http://twitter.com/search?q=%23borsadasoygunvar) | N/A |
+| 10 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 11 | [Barbaros Şansal](http://twitter.com/search?q=Barbaros+%c5%9eansal) | N/A |
+| 12 | [Sultanbeyli Açılış](http://twitter.com/search?q=Sultanbeyli+A%c3%a7%c4%b1l%c4%b1%c5%9f) | N/A |
+| 13 | [#GençlerinOyu](http://twitter.com/search?q=%23Gen%c3%a7lerinOyu) | N/A |
+| 14 | [Malsa](http://twitter.com/search?q=Malsa) | N/A |
+| 15 | [İsviçre Başkonsolosluğu](http://twitter.com/search?q=%c4%b0svi%c3%a7re+Ba%c5%9fkonsoloslu%c4%9fu) | N/A |
+| 16 | [İstanbul Başkonsolosluğu](http://twitter.com/search?q=%c4%b0stanbul+Ba%c5%9fkonsoloslu%c4%9fu) | N/A |
+| 17 | [TolgaKandemir](http://twitter.com/search?q=TolgaKandemir) | N/A |
+| 18 | [Zühtü Arslan](http://twitter.com/search?q=Z%c3%bcht%c3%bc+Arslan) | Zühtü Arslan is a Turkish name that means "noble lion". It is derived from the Turkish words züht (noble) and arslan (lion). |
+| 19 | [AybükeÇangal](http://twitter.com/search?q=Ayb%c3%bcke%c3%87angal) | N/A |
+| 20 | [AyTol](http://twitter.com/search?q=AyTol) | N/A |
+| 21 | [Avrupa Merkez Bankası](http://twitter.com/search?q=Avrupa+Merkez+Bankas%c4%b1) | N/A |
+| 22 | [İstanbul Havalimanı'nda](http://twitter.com/search?q=%c4%b0stanbul+Havaliman%c4%b1%27nda) | N/A |
+| 23 | [İngiltere Merkez Bankası](http://twitter.com/search?q=%c4%b0ngiltere+Merkez+Bankas%c4%b1) | N/A |
+| 24 | [karşıyaka konak](http://twitter.com/search?q=kar%c5%9f%c4%b1yaka+konak) | N/A |
+| 25 | [Kıble](http://twitter.com/search?q=K%c4%b1ble) | N/A |
+| 26 | [Buca Balcova](http://twitter.com/search?q=Buca+Balcova) | N/A |
+| 27 | [Anayasa Mahkemesi Başkanlığına](http://twitter.com/search?q=Anayasa+Mahkemesi+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1na) | N/A |
+| 28 | [Fatih Sultan Mehmet](http://twitter.com/search?q=Fatih+Sultan+Mehmet) | N/A |
+| 29 | [Kılıçdaroğlu EhliyetAffı](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu+EhliyetAff%c4%b1) | N/A |
+| 30 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
+| 31 | [Galatasaray Trabzonspor](http://twitter.com/search?q=Galatasaray+Trabzonspor) | N/A |
+| 32 | [İrfan Fidan](http://twitter.com/search?q=%c4%b0rfan+Fidan) | N/A |
+| 33 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
+| 34 | [Seferi](http://twitter.com/search?q=Seferi) | N/A |
+| 35 | [Adana Demirspor - Fenerbahçe](http://twitter.com/search?q=Adana+Demirspor+-+Fenerbah%c3%a7e) | N/A |
+| 36 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
+| 37 | [Evlenmeyin](http://twitter.com/search?q=Evlenmeyin) | N/A |
+| 38 | [Deniz Çoban](http://twitter.com/search?q=Deniz+%c3%87oban) | N/A |
+| 39 | [CNN Türk](http://twitter.com/search?q=CNN+T%c3%bcrk) | N/A |
+| 40 | [İsmail Demir](http://twitter.com/search?q=%c4%b0smail+Demir) | İsmail Demir is a Turkish name. It is composed of two parts: İsmail, which is a common male given name in Turkey, and Demir, which means "iron" in Turkish. In English, the name would be translated as "Ismail Iron". |
+| 41 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
+| 42 | [Atom](http://twitter.com/search?q=Atom) | N/A |
+| 43 | [Prim](http://twitter.com/search?q=Prim) | N/A |
+| 44 | [Hakan Bayrakçı](http://twitter.com/search?q=Hakan+Bayrak%c3%a7%c4%b1) | N/A |
+| 45 | [Dinde](http://twitter.com/search?q=Dinde) | N/A |
+| 46 | [Kademeli](http://twitter.com/search?q=Kademeli) | N/A |
+| 47 | [2 Şubat](http://twitter.com/search?q=2+%c5%9eubat) | N/A |
+| 48 | [İçişleri](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri) | N/A |
+| 49 | [Aferin Ali](http://twitter.com/search?q=Aferin+Ali) | N/A |
+| 50 | [#spkgovtr](http://twitter.com/search?q=%23spkgovtr) | N/A |
 
 
 

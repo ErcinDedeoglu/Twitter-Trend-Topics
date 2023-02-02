@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-02 13:21:24 UTC`
+📆 Last Updated: `2023-02-02 14:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#MIELPO](http://twitter.com/search?q=%23MIELPO) | N/A |
 | 2 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
 | 3 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 4 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 7 | [Rafał Wilczur](http://twitter.com/search?q=Rafa%c5%82+Wilczur) | N/A |
-| 8 | [Agrounia](http://twitter.com/search?q=Agrounia) | N/A |
-| 9 | [bednarek](http://twitter.com/search?q=bednarek) | N/A |
-| 10 | [Leonard Pietraszak](http://twitter.com/search?q=Leonard+Pietraszak) | N/A |
-| 11 | [Kazimierz M.](http://twitter.com/search?q=Kazimierz+M.) | N/A |
-| 12 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
-| 13 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 14 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 15 | [Boxdel](http://twitter.com/search?q=Boxdel) | N/A |
-| 16 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
-| 17 | [Leszek Lichota](http://twitter.com/search?q=Leszek+Lichota) | N/A |
-| 18 | [Gowina](http://twitter.com/search?q=Gowina) | N/A |
-| 19 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 20 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 4 | [Agrounia](http://twitter.com/search?q=Agrounia) | N/A |
+| 5 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 6 | [Rafał Wilczur](http://twitter.com/search?q=Rafa%c5%82+Wilczur) | N/A |
+| 7 | [Leonard Pietraszak](http://twitter.com/search?q=Leonard+Pietraszak) | N/A |
+| 8 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
+| 11 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 12 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 13 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 14 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 15 | [Leszek Lichota](http://twitter.com/search?q=Leszek+Lichota) | N/A |
+| 16 | [Kazimierz M.](http://twitter.com/search?q=Kazimierz+M.) | N/A |
+| 17 | [Boxdel](http://twitter.com/search?q=Boxdel) | N/A |
+| 18 | [Cyryla](http://twitter.com/search?q=Cyryla) | N/A |
+| 19 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 20 | [gowina](http://twitter.com/search?q=gowina) | N/A |
 | 21 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
-| 22 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 23 | [zdrówka](http://twitter.com/search?q=zdr%c3%b3wka) | N/A |
-| 24 | [skok stefczyka](http://twitter.com/search?q=skok+stefczyka) | N/A |
-| 25 | [Nobla](http://twitter.com/search?q=Nobla) | N/A |
-| 26 | [Kramatorsk](http://twitter.com/search?q=Kramatorsk) | N/A |
-| 27 | [szymczak](http://twitter.com/search?q=szymczak) | N/A |
-| 28 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
-| 29 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
-| 30 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 31 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
-| 32 | [Sykulski](http://twitter.com/search?q=Sykulski) | N/A |
-| 33 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
-| 34 | [Dzień Życia Konsekrowanego](http://twitter.com/search?q=Dzie%c5%84+%c5%bbycia+Konsekrowanego) | N/A |
-| 35 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 36 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
-| 37 | [Brom](http://twitter.com/search?q=Brom) | N/A |
-| 38 | [ursynowie](http://twitter.com/search?q=ursynowie) | N/A |
+| 22 | [Kramatorsk](http://twitter.com/search?q=Kramatorsk) | N/A |
+| 23 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 24 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
+| 25 | [skok stefczyka](http://twitter.com/search?q=skok+stefczyka) | N/A |
+| 26 | [Nobla](http://twitter.com/search?q=Nobla) | N/A |
+| 27 | [Dzień Pozytywnego Myślenia](http://twitter.com/search?q=Dzie%c5%84+Pozytywnego+My%c5%9blenia) | N/A |
+| 28 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 29 | [Sykulski](http://twitter.com/search?q=Sykulski) | N/A |
+| 30 | [szymczak](http://twitter.com/search?q=szymczak) | N/A |
+| 31 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
+| 32 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 33 | [Biedroń](http://twitter.com/search?q=Biedro%c5%84) | N/A |
+| 34 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 35 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
+| 36 | [PiS-em](http://twitter.com/search?q=PiS-em) | N/A |
+| 37 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 38 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
 | 39 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
-| 40 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 41 | [Premier Morawiecki](http://twitter.com/search?q=Premier+Morawiecki) | N/A |
-| 42 | [Isajew](http://twitter.com/search?q=Isajew) | N/A |
-| 43 | [PiS-em](http://twitter.com/search?q=PiS-em) | N/A |
-| 44 | [Barczewie](http://twitter.com/search?q=Barczewie) | N/A |
+| 40 | [Jóźwiak](http://twitter.com/search?q=J%c3%b3%c5%bawiak) | N/A |
+| 41 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 42 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 43 | [Isajew](http://twitter.com/search?q=Isajew) | N/A |
+| 44 | [Dzień Życia Konsekrowanego](http://twitter.com/search?q=Dzie%c5%84+%c5%bbycia+Konsekrowanego) | N/A |
 | 45 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 46 | [świetne](http://twitter.com/search?q=%c5%9bwietne) | N/A |
-| 47 | [czarnkowi](http://twitter.com/search?q=czarnkowi) | N/A |
-| 48 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 46 | [yess](http://twitter.com/search?q=yess) | N/A |
+| 47 | [klubowe](http://twitter.com/search?q=klubowe) | N/A |
+| 48 | [Barczewie](http://twitter.com/search?q=Barczewie) | N/A |
 
 
 

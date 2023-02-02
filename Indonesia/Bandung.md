@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-02-02 13:21:32 UTC`
+📆 Last Updated: `2023-02-02 14:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [Sunda](http://twitter.com/search?q=Sunda) | N/A |
 | 2 | [#HariBUMDesa](http://twitter.com/search?q=%23HariBUMDesa) | N/A |
-| 3 | [#PerindoPacuLapanganKerja](http://twitter.com/search?q=%23PerindoPacuLapanganKerja) | N/A |
-| 4 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
-| 5 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 6 | [#eaJSmilingInInsomnia](http://twitter.com/search?q=%23eaJSmilingInInsomnia) | N/A |
-| 7 | [#eaJLaughingInInsomnia](http://twitter.com/search?q=%23eaJLaughingInInsomnia) | N/A |
-| 8 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 9 | [HOSHI](http://twitter.com/search?q=HOSHI) | N/A |
+| 3 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
+| 4 | [#PerindoPacuLapanganKerja](http://twitter.com/search?q=%23PerindoPacuLapanganKerja) | N/A |
+| 5 | [#eaJSmilingInInsomnia](http://twitter.com/search?q=%23eaJSmilingInInsomnia) | N/A |
+| 6 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
+| 7 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 8 | [#eaJ1stEP](http://twitter.com/search?q=%23eaJ1stEP) | N/A |
+| 9 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
 | 10 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 11 | [Lirik](http://twitter.com/search?q=Lirik) | N/A |
-| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 13 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 14 | [Kris](http://twitter.com/search?q=Kris) | N/A |
-| 15 | [HUU YAALLAH](http://twitter.com/search?q=HUU+YAALLAH) | N/A |
-| 16 | [Hirotada](http://twitter.com/search?q=Hirotada) | N/A |
-| 17 | [Pentel](http://twitter.com/search?q=Pentel) | N/A |
-| 18 | [Pak Prabowo Konsisten](http://twitter.com/search?q=Pak+Prabowo+Konsisten) | N/A |
-| 19 | [Purwokerto](http://twitter.com/search?q=Purwokerto) | N/A |
+| 11 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 12 | [Lirik](http://twitter.com/search?q=Lirik) | N/A |
+| 13 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 14 | [Pentel](http://twitter.com/search?q=Pentel) | N/A |
+| 15 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 16 | [HUU YAALLAH](http://twitter.com/search?q=HUU+YAALLAH) | N/A |
+| 17 | [Kris](http://twitter.com/search?q=Kris) | N/A |
+| 18 | [Hirotada](http://twitter.com/search?q=Hirotada) | N/A |
+| 19 | [Pak Prabowo Konsisten](http://twitter.com/search?q=Pak+Prabowo+Konsisten) | N/A |
 | 20 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
-| 21 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 22 | [Collect Book](http://twitter.com/search?q=Collect+Book) | N/A |
-| 23 | [Coret](http://twitter.com/search?q=Coret) | N/A |
-| 24 | [TAEYEON NIGHTS INTO DAYS](http://twitter.com/search?q=TAEYEON+NIGHTS+INTO+DAYS) | N/A |
-| 25 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
-| 26 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 27 | [Musra Jokowi Jogja](http://twitter.com/search?q=Musra+Jokowi+Jogja) | N/A |
-| 28 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | N/A |
+| 21 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 22 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 23 | [Purwokerto](http://twitter.com/search?q=Purwokerto) | N/A |
+| 24 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
+| 25 | [TAEYEON NIGHTS INTO DAYS](http://twitter.com/search?q=TAEYEON+NIGHTS+INTO+DAYS) | N/A |
+| 26 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 27 | [Coret](http://twitter.com/search?q=Coret) | N/A |
+| 28 | [Musra Jokowi Jogja](http://twitter.com/search?q=Musra+Jokowi+Jogja) | N/A |
 | 29 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 30 | [Pertama](http://twitter.com/search?q=Pertama) | N/A |
-| 31 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 32 | [BIG NO](http://twitter.com/search?q=BIG+NO) | N/A |
-| 33 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 34 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 35 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 36 | [Oreo](http://twitter.com/search?q=Oreo) | N/A |
-| 37 | [Usir](http://twitter.com/search?q=Usir) | N/A |
-| 38 | [Bersih INA](http://twitter.com/search?q=Bersih+INA) | N/A |
-| 39 | [Best Duo](http://twitter.com/search?q=Best+Duo) | N/A |
-| 40 | [GO LINE](http://twitter.com/search?q=GO+LINE) | N/A |
-| 41 | [Best Trio](http://twitter.com/search?q=Best+Trio) | N/A |
-| 42 | [Jakarta Selatan](http://twitter.com/search?q=Jakarta+Selatan) | N/A |
-| 43 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 44 | [UNHAR](http://twitter.com/search?q=UNHAR) | N/A |
-| 45 | [OPEN PO](http://twitter.com/search?q=OPEN+PO) | N/A |
-| 46 | [#eaJ1stEP](http://twitter.com/search?q=%23eaJ1stEP) | N/A |
-| 47 | [#eaJPark](http://twitter.com/search?q=%23eaJPark) | N/A |
-| 48 | [#SugarRushRide1stWin](http://twitter.com/search?q=%23SugarRushRide1stWin) | N/A |
+| 30 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | N/A |
+| 31 | [Pertama](http://twitter.com/search?q=Pertama) | N/A |
+| 32 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 33 | [BIG NO](http://twitter.com/search?q=BIG+NO) | N/A |
+| 34 | [Collect Book](http://twitter.com/search?q=Collect+Book) | N/A |
+| 35 | [Oreo](http://twitter.com/search?q=Oreo) | N/A |
+| 36 | [Bersih INA](http://twitter.com/search?q=Bersih+INA) | N/A |
+| 37 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 38 | [Usir](http://twitter.com/search?q=Usir) | N/A |
+| 39 | [Kampus](http://twitter.com/search?q=Kampus) | N/A |
+| 40 | [Jakarta Selatan](http://twitter.com/search?q=Jakarta+Selatan) | N/A |
+| 41 | [Unhar](http://twitter.com/search?q=Unhar) | N/A |
+| 42 | [GO LINE](http://twitter.com/search?q=GO+LINE) | N/A |
+| 43 | [#eaJPark](http://twitter.com/search?q=%23eaJPark) | N/A |
+| 44 | [#eaJLaughingInInsomnia](http://twitter.com/search?q=%23eaJLaughingInInsomnia) | N/A |
+| 45 | [#mspselcaday](http://twitter.com/search?q=%23mspselcaday) | N/A |
+| 46 | [#LISAxBVLGARI](http://twitter.com/search?q=%23LISAxBVLGARI) | N/A |
+| 47 | [#SugarRushRide1stWin](http://twitter.com/search?q=%23SugarRushRide1stWin) | N/A |
+| 48 | [#BlibliAjaYuk](http://twitter.com/search?q=%23BlibliAjaYuk) | N/A |
 | 49 | [#SiPalingBTS200Show](http://twitter.com/search?q=%23SiPalingBTS200Show) | N/A |
 | 50 | [#TXT15thWin](http://twitter.com/search?q=%23TXT15thWin) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-02 13:21:51 UTC`
+📆 Last Updated: `2023-02-02 14:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [New Zealand](</New Zealand>)
 | ------- | ------------ | ------------ |
 | 1 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
 | 2 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 3 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
-| 4 | [Wellington Central](http://twitter.com/search?q=Wellington+Central) | N/A |
+| 3 | [wellington central](http://twitter.com/search?q=wellington+central) | N/A |
+| 4 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
 | 5 | [Brad](http://twitter.com/search?q=Brad) | N/A |
 | 6 | [Tamatha Paul](http://twitter.com/search?q=Tamatha+Paul) | N/A |
 | 7 | [Herdman](http://twitter.com/search?q=Herdman) | N/A |
-| 8 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 9 | [all whites](http://twitter.com/search?q=all+whites) | N/A |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [All Whites](http://twitter.com/search?q=All+Whites) | N/A |
 | 10 | [Palmerston North](http://twitter.com/search?q=Palmerston+North) | N/A |
 | 11 | [nz football](http://twitter.com/search?q=nz+football) | N/A |
 | 12 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 13 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 14 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 15 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 16 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 17 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 18 | [Ufuk](http://twitter.com/search?q=Ufuk) | N/A |
-| 19 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 20 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 21 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 22 | [#NZPolitics](http://twitter.com/search?q=%23NZPolitics) | N/A |
-| 23 | [Nationals](http://twitter.com/search?q=Nationals) | N/A |
-| 24 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 25 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 26 | [oamaru](http://twitter.com/search?q=oamaru) | N/A |
-| 27 | [Palmy](http://twitter.com/search?q=Palmy) | N/A |
-| 28 | [Katrina](http://twitter.com/search?q=Katrina) | N/A |
-| 29 | [grant robertson](http://twitter.com/search?q=grant+robertson) | N/A |
-| 30 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 31 | [Andrew Kirton](http://twitter.com/search?q=Andrew+Kirton) | N/A |
+| 13 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 14 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 15 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 16 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 17 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 18 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 19 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
+| 20 | [Ufuk](http://twitter.com/search?q=Ufuk) | N/A |
+| 21 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 22 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 23 | [#NZPolitics](http://twitter.com/search?q=%23NZPolitics) | N/A |
+| 24 | [Nationals](http://twitter.com/search?q=Nationals) | N/A |
+| 25 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 26 | [hosking](http://twitter.com/search?q=hosking) | N/A |
+| 27 | [oamaru](http://twitter.com/search?q=oamaru) | N/A |
+| 28 | [palmy](http://twitter.com/search?q=palmy) | N/A |
+| 29 | [Katrina](http://twitter.com/search?q=Katrina) | N/A |
+| 30 | [grant robertson](http://twitter.com/search?q=grant+robertson) | N/A |
+| 31 | [andrew kirton](http://twitter.com/search?q=andrew+kirton) | N/A |
 | 32 | [Tova](http://twitter.com/search?q=Tova) | N/A |
-| 33 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 34 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 35 | [Otago](http://twitter.com/search?q=Otago) | N/A |
-| 36 | [waitangi](http://twitter.com/search?q=waitangi) | N/A |
-| 37 | [ORCA](http://twitter.com/search?q=ORCA) | N/A |
-| 38 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
-| 39 | [Surprised](http://twitter.com/search?q=Surprised) | N/A |
-| 40 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 41 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 42 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 43 | [#iavcei2023](http://twitter.com/search?q=%23iavcei2023) | N/A |
-| 44 | [Drongo](http://twitter.com/search?q=Drongo) | N/A |
-| 45 | [Minister for Auckland](http://twitter.com/search?q=Minister+for+Auckland) | N/A |
-| 46 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 47 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 48 | [North America](http://twitter.com/search?q=North+America) | N/A |
-| 49 | [lower hutt](http://twitter.com/search?q=lower+hutt) | N/A |
-| 50 | [Tinder](http://twitter.com/search?q=Tinder) | N/A |
+| 33 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 34 | [otago](http://twitter.com/search?q=otago) | N/A |
+| 35 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 36 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 37 | [Waitangi](http://twitter.com/search?q=Waitangi) | N/A |
+| 38 | [Tauranga](http://twitter.com/search?q=Tauranga) | N/A |
+| 39 | [Orca](http://twitter.com/search?q=Orca) | N/A |
+| 40 | [Surprised](http://twitter.com/search?q=Surprised) | N/A |
+| 41 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 42 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 43 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 44 | [#iavcei2023](http://twitter.com/search?q=%23iavcei2023) | N/A |
+| 45 | [Drongo](http://twitter.com/search?q=Drongo) | N/A |
+| 46 | [minister for auckland](http://twitter.com/search?q=minister+for+auckland) | N/A |
+| 47 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 48 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
+| 49 | [North America](http://twitter.com/search?q=North+America) | N/A |
+| 50 | [lower hutt](http://twitter.com/search?q=lower+hutt) | N/A |
 
 
 
