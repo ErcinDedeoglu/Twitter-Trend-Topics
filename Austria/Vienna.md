@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-02 00:28:40 UTC`
+📆 Last Updated: `2023-02-02 01:44:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,17 +25,17 @@ This is top 50 for [Austria](</Austria>)
 | 8 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
 | 9 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
 | 10 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 11 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 11 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
 | 12 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
 | 13 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
 | 14 | [schnabl](http://twitter.com/search?q=schnabl) | N/A |
-| 15 | [#Corona](http://twitter.com/search?q=%23Corona) | N/A |
-| 16 | [Studio](http://twitter.com/search?q=Studio) | N/A |
-| 17 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 18 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
-| 19 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 20 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 21 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 15 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 16 | [#Corona](http://twitter.com/search?q=%23Corona) | N/A |
+| 17 | [Studio](http://twitter.com/search?q=Studio) | N/A |
+| 18 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 19 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 20 | [vorzugsstimmen](http://twitter.com/search?q=vorzugsstimmen) | N/A |
+| 21 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
 | 22 | [Masken](http://twitter.com/search?q=Masken) | N/A |
 | 23 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
 | 24 | [Jänner](http://twitter.com/search?q=J%c3%a4nner) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Austria](</Austria>)
 | 34 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 35 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
 | 36 | [#puls24](http://twitter.com/search?q=%23puls24) | N/A |
-| 37 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
-| 38 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 39 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Zeug](http://twitter.com/search?q=Zeug) | N/A |
-| 42 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
-| 43 | [babler](http://twitter.com/search?q=babler) | N/A |
-| 44 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 45 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 46 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
-| 47 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 48 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 49 | [Preise](http://twitter.com/search?q=Preise) | N/A |
-| 50 | [Solange](http://twitter.com/search?q=Solange) | N/A |
+| 37 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 38 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
+| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 40 | [Zeug](http://twitter.com/search?q=Zeug) | N/A |
+| 41 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 43 | [Sorge](http://twitter.com/search?q=Sorge) | N/A |
+| 44 | [babler](http://twitter.com/search?q=babler) | N/A |
+| 45 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
+| 46 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 47 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 48 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 49 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 50 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
 
 
 

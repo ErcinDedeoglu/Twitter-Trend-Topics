@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-02 00:28:47 UTC`
+📆 Last Updated: `2023-02-02 01:44:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,7 +31,7 @@ This is top 50 for [Norway](</Norway>)
 | 14 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
 | 15 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 16 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 17 | [#WarriorNun](http://twitter.com/search?q=%23WarriorNun) | N/A |
+| 17 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
 | 18 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 19 | [Arctic](http://twitter.com/search?q=Arctic) | N/A |
 | 20 | [bryne](http://twitter.com/search?q=bryne) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Norway](</Norway>)
 | 33 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 34 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 35 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 36 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
+| 36 | [russlands](http://twitter.com/search?q=russlands) | N/A |
 | 37 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
 | 38 | [Jupp](http://twitter.com/search?q=Jupp) | N/A |
 | 39 | [berisha](http://twitter.com/search?q=berisha) | N/A |

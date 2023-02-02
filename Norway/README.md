@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-02 00:29:23 UTC`
+📆 Last Updated: `2023-02-02 01:44:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Norway
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 7 | [karlsbakk](http://twitter.com/search?q=karlsbakk) | N/A |
 | 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Lykke](http://twitter.com/search?q=Lykke) | N/A |
+| 9 | [lykke](http://twitter.com/search?q=lykke) | N/A |
 | 10 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 12 | [#energikommisjonen](http://twitter.com/search?q=%23energikommisjonen) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Norway
 | 33 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 34 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 35 | [Eliteserien](http://twitter.com/search?q=Eliteserien) | N/A |
-| 36 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
+| 36 | [russlands](http://twitter.com/search?q=russlands) | N/A |
 | 37 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
 | 38 | [Jupp](http://twitter.com/search?q=Jupp) | N/A |
 | 39 | [berisha](http://twitter.com/search?q=berisha) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Norway
 | 47 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 48 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 49 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 50 | [Sæter](http://twitter.com/search?q=S%c3%a6ter) | N/A |
+| 50 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
 
 
 

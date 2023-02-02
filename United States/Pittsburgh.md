@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-02 00:29:15 UTC`
+📆 Last Updated: `2023-02-02 01:44:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 2 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
-| 3 | [#CashAppSavings](http://twitter.com/search?q=%23CashAppSavings) | #CashAppSavings is a hashtag used on social media to promote Cash App, a mobile payment service. It is used to encourage people to save money using the app. |
-| 4 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
-| 5 | [#MisheardLyrics](http://twitter.com/search?q=%23MisheardLyrics) | N/A |
-| 6 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [#NGWSD](http://twitter.com/search?q=%23NGWSD) | N/A |
-| 9 | [5.1 Billion](http://twitter.com/search?q=5.1+Billion) | N/A |
-| 10 | [#MaddenBowl](http://twitter.com/search?q=%23MaddenBowl) | N/A |
-| 11 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 12 | [Pledge of Allegiance](http://twitter.com/search?q=Pledge+of+Allegiance) | The Pledge of Allegiance is a patriotic oath to the United States of America. It is typically recited in unison at public events and school assemblies. The Pledge reads: "I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all." The Pledge is a promise of loyalty and commitment to the United States and its values. |
-| 13 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 14 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 15 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
-| 16 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 17 | [Bobby Beathard](http://twitter.com/search?q=Bobby+Beathard) | N/A |
-| 18 | [Velkhana](http://twitter.com/search?q=Velkhana) | N/A |
-| 19 | [Laurence](http://twitter.com/search?q=Laurence) | N/A |
-| 20 | [$META](http://twitter.com/search?q=%24META) | META is an acronym for "Most Effective Tactics Available." It is used to refer to strategies or tactics that are considered to be the most effective or efficient way of achieving a desired outcome. |
-| 21 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 22 | [Titanfall 3](http://twitter.com/search?q=Titanfall+3) | N/A |
-| 23 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 24 | [Capitalism](http://twitter.com/search?q=Capitalism) | N/A |
-| 25 | [Keemstar](http://twitter.com/search?q=Keemstar) | N/A |
-| 26 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 27 | [Nadler](http://twitter.com/search?q=Nadler) | N/A |
-| 28 | [Brian Ferentz](http://twitter.com/search?q=Brian+Ferentz) | N/A |
-| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 30 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
-| 31 | [Kirk Ferentz](http://twitter.com/search?q=Kirk+Ferentz) | N/A |
-| 32 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 33 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 34 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 35 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 36 | [TAEKOOK](http://twitter.com/search?q=TAEKOOK) | TAEKOOK is the name of a popular ship between two members of the South Korean boy band BTS, V (Kim Taehyung) and Jungkook (Jeon Jungkook). It is a portmanteau of their names, and it is used to refer to the relationship between them. |
-| 37 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 38 | [National Signing Day](http://twitter.com/search?q=National+Signing+Day) | National Signing Day is an annual event in which high school athletes sign a binding letter of intent to play a sport at a college or university. It is the first day that a high school senior can sign a binding National Letter of Intent for college football. The day usually falls on the first Wednesday of February, and marks the end of the recruiting process for many student-athletes. |
-| 39 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 40 | [Barta](http://twitter.com/search?q=Barta) | N/A |
-| 41 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
-| 42 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | N/A |
-| 43 | [Burry](http://twitter.com/search?q=Burry) | N/A |
-| 44 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 45 | [ALBT](http://twitter.com/search?q=ALBT) | N/A |
-| 46 | [Clay Travis](http://twitter.com/search?q=Clay+Travis) | N/A |
-| 47 | [David Harbour](http://twitter.com/search?q=David+Harbour) | N/A |
-| 48 | [AP African American Studies](http://twitter.com/search?q=AP+African+American+Studies) | N/A |
-| 49 | [Jimmy G](http://twitter.com/search?q=Jimmy+G) | Jimmy G is a nickname for San Francisco 49ers quarterback Jimmy Garoppolo. It is an abbreviation of his last name. |
-| 50 | [Gehrig](http://twitter.com/search?q=Gehrig) | N/A |
+| 1 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 2 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 3 | [Rodgers](http://twitter.com/search?q=Rodgers) | Rodgers is a surname of English and Irish origin. It is derived from the given name Roger, which is derived from the Germanic elements hrod (fame) and ger (spear). |
+| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 5 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 6 | [#SchoolhouseRock50Singalong](http://twitter.com/search?q=%23SchoolhouseRock50Singalong) | N/A |
+| 7 | [The Celtics](http://twitter.com/search?q=The+Celtics) | The Celtics is a professional basketball team based in Boston, Massachusetts. The team is part of the Atlantic Division of the Eastern Conference in the National Basketball Association (NBA). The Celtics are one of the most successful and storied franchises in NBA history, having won 17 championships since their founding in 1946. |
+| 8 | [Mason Gillis](http://twitter.com/search?q=Mason+Gillis) | Mason Gillis is a surname of Scottish origin. It is derived from the Old English words "gill" meaning "servant" and "maesen" meaning "stone". The name can be translated to mean "servant of the stone". |
+| 9 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 10 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 11 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 12 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 13 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 14 | [Hangman](http://twitter.com/search?q=Hangman) | Hangman is a classic word guessing game. The goal of the game is to guess the hidden word before the man is "hung" (all parts of his body are drawn). The player guesses one letter at a time, and if the letter is not in the word, then a part of the man's body is drawn. If all parts of the man's body are drawn before the word is guessed, then the player loses. |
+| 15 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 16 | [The Acclaimed](http://twitter.com/search?q=The+Acclaimed) | The Acclaimed is an expression used to describe something or someone that has been widely praised and admired. It is often used to refer to works of art, literature, music, or films that have received critical acclaim and public recognition. |
+| 17 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 19 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 20 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
+| 21 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 22 | [Horacio](http://twitter.com/search?q=Horacio) | N/A |
+| 23 | [Patti](http://twitter.com/search?q=Patti) | N/A |
+| 24 | [Nurkic](http://twitter.com/search?q=Nurkic) | N/A |
+| 25 | [Billy Gunn](http://twitter.com/search?q=Billy+Gunn) | Billy Gunn is an English phrase that is used to describe someone who is brave and daring. It can also be used to describe someone who takes risks and is not afraid of the consequences. |
+| 26 | [5.1 Billion](http://twitter.com/search?q=5.1+Billion) | N/A |
+| 27 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 28 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 29 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 30 | [Johni Broome](http://twitter.com/search?q=Johni+Broome) | N/A |
+| 31 | [Tatum and Brown](http://twitter.com/search?q=Tatum+and+Brown) | N/A |
+| 32 | [Laurence](http://twitter.com/search?q=Laurence) | N/A |
+| 33 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
+| 34 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 35 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 36 | [Keemstar](http://twitter.com/search?q=Keemstar) | N/A |
+| 37 | [Pledge of Allegiance](http://twitter.com/search?q=Pledge+of+Allegiance) | The Pledge of Allegiance is a patriotic oath to the United States of America. It is typically recited in unison at public events and school assemblies. The Pledge reads: "I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all." The Pledge is a promise of loyalty and commitment to the United States and its values. |
+| 38 | [RJ Davis](http://twitter.com/search?q=RJ+Davis) | N/A |
+| 39 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 40 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 41 | [Bruce Pearl](http://twitter.com/search?q=Bruce+Pearl) | N/A |
+| 42 | [Capitalism](http://twitter.com/search?q=Capitalism) | N/A |
+| 43 | [Leaky](http://twitter.com/search?q=Leaky) | N/A |
+| 44 | [Velkhana](http://twitter.com/search?q=Velkhana) | N/A |
+| 45 | [Nadler](http://twitter.com/search?q=Nadler) | N/A |
+| 46 | [$META](http://twitter.com/search?q=%24META) | META is an acronym for "Most Effective Tactics Available." It is used to refer to strategies or tactics that are considered to be the most effective or efficient way of achieving a desired outcome. |
+| 47 | [Mark Stone](http://twitter.com/search?q=Mark+Stone) | N/A |
+| 48 | [Raanta](http://twitter.com/search?q=Raanta) | N/A |
+| 49 | [Clay Travis](http://twitter.com/search?q=Clay+Travis) | N/A |
+| 50 | [Bobby Beathard](http://twitter.com/search?q=Bobby+Beathard) | N/A |
 
 
 
