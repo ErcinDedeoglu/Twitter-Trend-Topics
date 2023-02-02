@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-01 23:16:31 UTC`
+📆 Last Updated: `2023-02-02 00:28:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,25 +44,25 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 27 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
 | 28 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
 | 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 31 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 32 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 33 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 34 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 35 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 36 | [Bern](http://twitter.com/search?q=Bern) | N/A |
-| 37 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 30 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 31 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 32 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 33 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 34 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
+| 35 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 36 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 37 | [Bern](http://twitter.com/search?q=Bern) | N/A |
 | 38 | [Satire](http://twitter.com/search?q=Satire) | N/A |
 | 39 | [Witz](http://twitter.com/search?q=Witz) | N/A |
 | 40 | [La France](http://twitter.com/search?q=La+France) | N/A |
 | 41 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 42 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
-| 43 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 44 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 45 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 46 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
-| 47 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 48 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
+| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 43 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 44 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
+| 45 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 46 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 47 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 48 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
 
 
 

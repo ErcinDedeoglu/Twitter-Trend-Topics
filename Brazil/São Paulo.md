@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-01 23:16:22 UTC`
+📆 Last Updated: `2023-02-02 00:28:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 2 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
-| 3 | [Fenapaf](http://twitter.com/search?q=Fenapaf) | N/A |
-| 4 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 5 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 6 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 7 | [Unesp](http://twitter.com/search?q=Unesp) | N/A |
-| 8 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 9 | [#REVERSA](http://twitter.com/search?q=%23REVERSA) | N/A |
-| 10 | [#CasamentoAsCegasBrasil2](http://twitter.com/search?q=%23CasamentoAsCegasBrasil2) | #CasamentoAsCegasBrasil2 is a hashtag used on social media in Brazil to refer to the second season of the reality TV show Casamento As Cegas Brasil (Blind Date Brazil). The show follows couples who have never met before and are matched up by a panel of experts. The couples then go on a series of dates and eventually decide whether or not they want to get married. In English, the hashtag translates to "Blind Date Brazil 2". |
-| 11 | [PERDEU MANÉ](http://twitter.com/search?q=PERDEU+MAN%c3%89) | PERDEU MANÉ is a Portuguese phrase that translates to "you lost, dude" in English. It is typically used as an expression of disappointment or frustration when someone has made a mistake or failed at something. |
-| 12 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 13 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 14 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 15 | [Thamara](http://twitter.com/search?q=Thamara) | Thamara is a female name of Hebrew origin, meaning “date palm tree”. |
-| 16 | [Veronica](http://twitter.com/search?q=Veronica) | N/A |
-| 17 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 18 | [#KaraokeConMaite](http://twitter.com/search?q=%23KaraokeConMaite) | N/A |
-| 19 | [Perderam](http://twitter.com/search?q=Perderam) | N/A |
-| 20 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
-| 21 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
-| 22 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 23 | [FOP NO MULTISHOW](http://twitter.com/search?q=FOP+NO+MULTISHOW) | N/A |
-| 24 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 25 | [FLOWERS IS COMING](http://twitter.com/search?q=FLOWERS+IS+COMING) | N/A |
-| 26 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
-| 27 | [Vitor Bueno](http://twitter.com/search?q=Vitor+Bueno) | N/A |
-| 28 | [Derrota](http://twitter.com/search?q=Derrota) | N/A |
-| 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 30 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 31 | [PRÉ SAVE RABETÃO](http://twitter.com/search?q=PR%c3%89+SAVE+RABET%c3%83O) | N/A |
-| 32 | [VOTO IMPRESSO](http://twitter.com/search?q=VOTO+IMPRESSO) | N/A |
-| 33 | [NÃO AMOLA](http://twitter.com/search?q=N%c3%83O+AMOLA) | N/A |
-| 34 | [#CopaDaLigaNaESPN](http://twitter.com/search?q=%23CopaDaLigaNaESPN) | N/A |
-| 35 | [Viraram](http://twitter.com/search?q=Viraram) | N/A |
-| 36 | [Villasanti](http://twitter.com/search?q=Villasanti) | N/A |
-| 37 | [LAVENDER HAZE BRASIL](http://twitter.com/search?q=LAVENDER+HAZE+BRASIL) | N/A |
-| 38 | [Colo-Colo](http://twitter.com/search?q=Colo-Colo) | N/A |
-| 39 | [#TrêsVezesAna003](http://twitter.com/search?q=%23Tr%c3%aasVezesAna003) | N/A |
-| 40 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
-| 41 | [Segovia](http://twitter.com/search?q=Segovia) | N/A |
-| 42 | [Flávia](http://twitter.com/search?q=Fl%c3%a1via) | Flávia is a feminine given name of Latin origin, derived from the Roman family name Flavius. It means "blond" or "golden-haired" in English. |
-| 43 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 45 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 46 | [Chico Alencar](http://twitter.com/search?q=Chico+Alencar) | N/A |
-| 47 | [Chola](http://twitter.com/search?q=Chola) | N/A |
-| 48 | [Ambev](http://twitter.com/search?q=Ambev) | Ambev is a Brazilian brewing company. It is the largest brewer in Latin America and one of the top five brewers in the world. The name Ambev is an acronym for "AmBev - Companhia de Bebidas das Americas". In English, this translates to "The Beverage Company of the Americas". |
-| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 50 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 1 | [Presidência](http://twitter.com/search?q=Presid%c3%aancia) | N/A |
+| 2 | [#Louies](http://twitter.com/search?q=%23Louies) | #Louies is a hashtag used on social media to refer to the popular American clothing brand, Louis Vuitton. It is often used to share photos of Louis Vuitton products or to discuss the brand. |
+| 3 | [Ponte Preta](http://twitter.com/search?q=Ponte+Preta) | N/A |
+| 4 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 5 | [Trento](http://twitter.com/search?q=Trento) | N/A |
+| 6 | [Erison](http://twitter.com/search?q=Erison) | N/A |
+| 7 | [Bando](http://twitter.com/search?q=Bando) | N/A |
+| 8 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 9 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
+| 10 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 11 | [Congresso](http://twitter.com/search?q=Congresso) | Congresso is the Portuguese word for Congress. It is used to refer to the legislative branch of government in Brazil, which is responsible for making laws and overseeing the executive branch. In English, Congresso translates to Congress. |
+| 12 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
+| 13 | [Fenapaf](http://twitter.com/search?q=Fenapaf) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Girão](http://twitter.com/search?q=Gir%c3%a3o) | N/A |
+| 17 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 18 | [#CasamentoAsCegasBrasil2](http://twitter.com/search?q=%23CasamentoAsCegasBrasil2) | #CasamentoAsCegasBrasil2 is a hashtag used on social media in Brazil to refer to the second season of the reality TV show Casamento As Cegas Brasil (Blind Date Brazil). The show follows couples who have never met before and are matched up by a panel of experts. The couples then go on a series of dates and eventually decide whether or not they want to get married. In English, the hashtag translates to "Blind Date Brazil 2". |
+| 19 | [Thamara](http://twitter.com/search?q=Thamara) | Thamara is a female name of Hebrew origin, meaning “date palm tree”. |
+| 20 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 21 | [PERDEU MANÉ](http://twitter.com/search?q=PERDEU+MAN%c3%89) | PERDEU MANÉ is a Portuguese phrase that translates to "you lost, dude" in English. It is typically used as an expression of disappointment or frustration when someone has made a mistake or failed at something. |
+| 22 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 23 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
+| 24 | [Veronica](http://twitter.com/search?q=Veronica) | Veronica is a female given name derived from the Latin word vera, meaning "true" or "faithful". It is also the name of a saint in the Catholic Church. |
+| 25 | [Daniel Borges](http://twitter.com/search?q=Daniel+Borges) | Daniel Borges is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”, and the surname Borges, which is derived from the Latin word for “fortress”. |
+| 26 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 27 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 28 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 29 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 30 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
+| 31 | [#KaraokeConMaite](http://twitter.com/search?q=%23KaraokeConMaite) | N/A |
+| 32 | [#JulietteNoSaiaJustaVerão](http://twitter.com/search?q=%23JulietteNoSaiaJustaVer%c3%a3o) | #JulietteNoSaiaJustaVerão is a hashtag used on social media in Brazil to promote the Juliette No Saia Justa Verão fashion line. The phrase translates to "Juliette in the tight skirt summer" in English. |
+| 33 | [Perderam](http://twitter.com/search?q=Perderam) | N/A |
+| 34 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
+| 35 | [FOP NO MULTISHOW](http://twitter.com/search?q=FOP+NO+MULTISHOW) | N/A |
+| 36 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 37 | [Luis Henrique](http://twitter.com/search?q=Luis+Henrique) | N/A |
+| 38 | [Flávia](http://twitter.com/search?q=Fl%c3%a1via) | Flávia is a feminine given name of Latin origin, derived from the Roman family name Flavius. It means "blond" or "golden-haired" in English. |
+| 39 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 40 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 41 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 42 | [Giovani](http://twitter.com/search?q=Giovani) | N/A |
+| 43 | [Gregore](http://twitter.com/search?q=Gregore) | Gregore is a name of Slavic origin, derived from the name Gregory. It is typically used as a masculine given name and can be translated to mean "watchful" or "alert". |
+| 44 | [Derrota](http://twitter.com/search?q=Derrota) | N/A |
+| 45 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
+| 46 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 47 | [STELAR NA ESTRELABET](http://twitter.com/search?q=STELAR+NA+ESTRELABET) | N/A |
+| 48 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 49 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
+| 50 | [Terans](http://twitter.com/search?q=Terans) | N/A |
 
 
 

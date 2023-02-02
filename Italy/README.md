@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-01 23:17:06 UTC`
+📆 Last Updated: `2023-02-02 00:29:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,47 +18,46 @@ This is top 50 for Italy
 | 1 | [#laportarossa3](http://twitter.com/search?q=%23laportarossa3) | #laportarossa3 is a hashtag used on social media to refer to the third season of the Italian television series La Porta Rossa. The English translation of the hashtag is "#thereddoor3". |
 | 2 | [#RomaCremonese](http://twitter.com/search?q=%23RomaCremonese) | N/A |
 | 3 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 4 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
+| 4 | [#DragRaceItalia](http://twitter.com/search?q=%23DragRaceItalia) | N/A |
 | 5 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
 | 6 | [Cagliostro](http://twitter.com/search?q=Cagliostro) | N/A |
 | 7 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
 | 8 | [Ballardini](http://twitter.com/search?q=Ballardini) | N/A |
-| 9 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 10 | [Celik](http://twitter.com/search?q=Celik) | N/A |
-| 11 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
-| 12 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 13 | [Paoletto](http://twitter.com/search?q=Paoletto) | N/A |
-| 14 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 15 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 16 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 17 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 18 | [Filip](http://twitter.com/search?q=Filip) | N/A |
-| 19 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 22 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 23 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 24 | [#DragRaceItalia](http://twitter.com/search?q=%23DragRaceItalia) | N/A |
-| 25 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
-| 26 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
-| 27 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
+| 9 | [Celik](http://twitter.com/search?q=Celik) | N/A |
+| 10 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 11 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 12 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 13 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 14 | [Paoletto](http://twitter.com/search?q=Paoletto) | N/A |
+| 15 | [Filip](http://twitter.com/search?q=Filip) | N/A |
+| 16 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 17 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 18 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
+| 19 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 20 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 21 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
+| 24 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 25 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
+| 26 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
+| 27 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
 | 28 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
-| 29 | [#ASRoma](http://twitter.com/search?q=%23ASRoma) | N/A |
-| 30 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
+| 29 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 30 | [#ASRoma](http://twitter.com/search?q=%23ASRoma) | N/A |
 | 31 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 32 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
-| 33 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 34 | [#siPuòdefinire](http://twitter.com/search?q=%23siPu%c3%b2definire) | N/A |
-| 35 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
-| 36 | [#Commisso](http://twitter.com/search?q=%23Commisso) | N/A |
-| 37 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
-| 38 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 39 | [#FiorentinaTorino](http://twitter.com/search?q=%23FiorentinaTorino) | N/A |
-| 40 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 41 | [#iulm](http://twitter.com/search?q=%23iulm) | N/A |
-| 42 | [#Delmastro](http://twitter.com/search?q=%23Delmastro) | N/A |
-| 43 | [#DonzelliDimettiti](http://twitter.com/search?q=%23DonzelliDimettiti) | N/A |
-| 44 | [#Serracchiani](http://twitter.com/search?q=%23Serracchiani) | N/A |
+| 32 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 33 | [#DepecheMode](http://twitter.com/search?q=%23DepecheMode) | N/A |
+| 34 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
+| 35 | [#siPuòdefinire](http://twitter.com/search?q=%23siPu%c3%b2definire) | N/A |
+| 36 | [#GiuLeManiDallaJuventus](http://twitter.com/search?q=%23GiuLeManiDallaJuventus) | N/A |
+| 37 | [#Commisso](http://twitter.com/search?q=%23Commisso) | N/A |
+| 38 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 39 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 40 | [#FiorentinaTorino](http://twitter.com/search?q=%23FiorentinaTorino) | N/A |
+| 41 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 42 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 43 | [#iulm](http://twitter.com/search?q=%23iulm) | N/A |
 
 
 
