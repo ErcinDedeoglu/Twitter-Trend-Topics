@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-02-02 07:16:37 UTC`
+📆 Last Updated: `2023-02-02 08:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 12 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
 | 13 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 | 14 | [guerra federal](http://twitter.com/search?q=guerra+federal) | N/A |
-| 15 | [General del Pueblo Soberano](http://twitter.com/search?q=General+del+Pueblo+Soberano) | N/A |
+| 15 | [general del pueblo soberano](http://twitter.com/search?q=general+del+pueblo+soberano) | N/A |
 | 16 | [Miguel Pérez Abad](http://twitter.com/search?q=Miguel+P%c3%a9rez+Abad) | N/A |
-| 17 | [Roland Carreño](http://twitter.com/search?q=Roland+Carre%c3%b1o) | N/A |
-| 18 | [cecilio acosta](http://twitter.com/search?q=cecilio+acosta) | N/A |
-| 19 | [Inces](http://twitter.com/search?q=Inces) | N/A |
-| 20 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
-| 21 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 22 | [Banco Bicentenario](http://twitter.com/search?q=Banco+Bicentenario) | N/A |
+| 17 | [cecilio acosta](http://twitter.com/search?q=cecilio+acosta) | N/A |
+| 18 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 19 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
+| 20 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 21 | [ROLAND CARREÑO](http://twitter.com/search?q=ROLAND+CARRE%c3%91O) | N/A |
+| 22 | [banco bicentenario](http://twitter.com/search?q=banco+bicentenario) | N/A |
 | 23 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
 | 24 | [rafael orozco](http://twitter.com/search?q=rafael+orozco) | N/A |
 | 25 | [Calixto Ortega](http://twitter.com/search?q=Calixto+Ortega) | N/A |
-| 26 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 26 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
 | 27 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 28 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 29 | [Danry](http://twitter.com/search?q=Danry) | N/A |
-| 30 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 31 | [Flash](http://twitter.com/search?q=Flash) | N/A |
-| 32 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
+| 28 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 29 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 30 | [Flash](http://twitter.com/search?q=Flash) | N/A |
+| 31 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
+| 32 | [Danry](http://twitter.com/search?q=Danry) | N/A |
 | 33 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 34 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 | 35 | [Las Amazonas](http://twitter.com/search?q=Las+Amazonas) | N/A |
 | 36 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
 | 37 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 38 | [Rinconada](http://twitter.com/search?q=Rinconada) | N/A |
-| 39 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 41 | [Marieta Santana](http://twitter.com/search?q=Marieta+Santana) | N/A |
-| 42 | [Marianela Salazar](http://twitter.com/search?q=Marianela+Salazar) | N/A |
-| 43 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
-| 44 | [Ernesto Villegas](http://twitter.com/search?q=Ernesto+Villegas) | N/A |
+| 39 | [Marieta Santana](http://twitter.com/search?q=Marieta+Santana) | N/A |
+| 40 | [Marianela Salazar](http://twitter.com/search?q=Marianela+Salazar) | N/A |
+| 41 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
+| 42 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 43 | [Ernesto Villegas](http://twitter.com/search?q=Ernesto+Villegas) | N/A |
+| 44 | [Carlos Rivero](http://twitter.com/search?q=Carlos+Rivero) | N/A |
 | 45 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
 | 46 | [Corina Azopardo](http://twitter.com/search?q=Corina+Azopardo) | N/A |
-| 47 | [San Antonio de Los Altos](http://twitter.com/search?q=San+Antonio+de+Los+Altos) | N/A |
-| 48 | [Carlos Rivero](http://twitter.com/search?q=Carlos+Rivero) | N/A |
-| 49 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
-| 50 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 47 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 48 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
+| 49 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 50 | [Juan Carlos Barry](http://twitter.com/search?q=Juan+Carlos+Barry) | N/A |
 
 
 

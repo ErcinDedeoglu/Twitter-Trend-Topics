@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-02-02 07:16:29 UTC`
+📆 Last Updated: `2023-02-02 08:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 5 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 6 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
-| 7 | [#BHM2023](http://twitter.com/search?q=%23BHM2023) | N/A |
-| 8 | [#MisheardLyrics](http://twitter.com/search?q=%23MisheardLyrics) | N/A |
-| 9 | [Hinshaw](http://twitter.com/search?q=Hinshaw) | N/A |
-| 10 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 11 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 12 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 13 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 14 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 15 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 16 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 17 | [Noirs](http://twitter.com/search?q=Noirs) | N/A |
-| 18 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 19 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
-| 20 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 21 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 22 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 23 | [John Herdman](http://twitter.com/search?q=John+Herdman) | N/A |
-| 24 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 25 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 26 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 27 | [Dominic Barton](http://twitter.com/search?q=Dominic+Barton) | N/A |
-| 28 | [Alek](http://twitter.com/search?q=Alek) | N/A |
-| 29 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 30 | [Vaughan Mills](http://twitter.com/search?q=Vaughan+Mills) | N/A |
-| 31 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 32 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
-| 33 | [Quebec](http://twitter.com/search?q=Quebec) | N/A |
-| 34 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 6 | [#MisheardLyrics](http://twitter.com/search?q=%23MisheardLyrics) | N/A |
+| 7 | [Hinshaw](http://twitter.com/search?q=Hinshaw) | N/A |
+| 8 | [#BHM2023](http://twitter.com/search?q=%23BHM2023) | N/A |
+| 9 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
+| 10 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 11 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 12 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 13 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 14 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 15 | [Noirs](http://twitter.com/search?q=Noirs) | N/A |
+| 16 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
+| 17 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
+| 18 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 19 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 20 | [Herdman](http://twitter.com/search?q=Herdman) | N/A |
+| 21 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 22 | [Dominic Barton](http://twitter.com/search?q=Dominic+Barton) | N/A |
+| 23 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 24 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 25 | [Alek](http://twitter.com/search?q=Alek) | N/A |
+| 26 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 27 | [Vaughan Mills](http://twitter.com/search?q=Vaughan+Mills) | N/A |
+| 28 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 29 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 30 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 31 | [Quebec](http://twitter.com/search?q=Quebec) | N/A |
+| 32 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 33 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 34 | [Michael Finlay](http://twitter.com/search?q=Michael+Finlay) | N/A |
 | 35 | [Candice](http://twitter.com/search?q=Candice) | N/A |
-| 36 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 37 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 38 | [Michael Finlay](http://twitter.com/search?q=Michael+Finlay) | N/A |
-| 39 | [The NDP](http://twitter.com/search?q=The+NDP) | N/A |
-| 40 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
-| 41 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 42 | [Gullveig](http://twitter.com/search?q=Gullveig) | N/A |
-| 43 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 44 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 45 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 46 | [George Michael](http://twitter.com/search?q=George+Michael) | N/A |
-| 47 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 48 | [Thad](http://twitter.com/search?q=Thad) | N/A |
-| 49 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 36 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
+| 37 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 38 | [The NDP](http://twitter.com/search?q=The+NDP) | N/A |
+| 39 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 40 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 41 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 42 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 43 | [George Michael](http://twitter.com/search?q=George+Michael) | N/A |
+| 44 | [Galen](http://twitter.com/search?q=Galen) | N/A |
+| 45 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 46 | [african heritage month](http://twitter.com/search?q=african+heritage+month) | N/A |
+| 47 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 48 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 49 | [Koloko](http://twitter.com/search?q=Koloko) | N/A |
 
 
 
