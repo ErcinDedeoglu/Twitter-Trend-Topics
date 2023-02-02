@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-02 04:17:15 UTC`
+📆 Last Updated: `2023-02-02 05:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Perderam](http://twitter.com/search?q=Perderam) | N/A |
-| 2 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 3 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 4 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
-| 5 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 6 | [#Louies](http://twitter.com/search?q=%23Louies) | #Louies is a hashtag used on social media to refer to the popular American clothing brand, Louis Vuitton. It is often used to share photos of Louis Vuitton products or to discuss the brand. |
-| 7 | [Derrota](http://twitter.com/search?q=Derrota) | N/A |
-| 8 | [Trento](http://twitter.com/search?q=Trento) | N/A |
-| 9 | [Rodrigo Pacheco](http://twitter.com/search?q=Rodrigo+Pacheco) | Rodrigo Pacheco is a Spanish name, derived from the Germanic name Roderick. It means "famous ruler" or "famous power". |
-| 10 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 11 | [Voto](http://twitter.com/search?q=Voto) | N/A |
-| 12 | [Etec](http://twitter.com/search?q=Etec) | Etec is an acronym for Escola Técnica Estadual, which is a type of technical school in Brazil. It provides technical and vocational education to students. In English, Etec stands for State Technical School. |
-| 13 | [Bando](http://twitter.com/search?q=Bando) | N/A |
-| 14 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 15 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 16 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 17 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 18 | [Thamara](http://twitter.com/search?q=Thamara) | Thamara is a female name of Hebrew origin, meaning “date palm tree”. |
-| 19 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
-| 20 | [#CasamentoAsCegasBrasil2](http://twitter.com/search?q=%23CasamentoAsCegasBrasil2) | #CasamentoAsCegasBrasil2 is a hashtag used on social media in Brazil to refer to the second season of the reality TV show Casamento As Cegas Brasil (Blind Date Brazil). The show follows couples who have never met before and are matched up by a panel of experts. The couples then go on a series of dates and eventually decide whether or not they want to get married. In English, the hashtag translates to "Blind Date Brazil 2". |
-| 21 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
-| 22 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 23 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
-| 24 | [Atuesta](http://twitter.com/search?q=Atuesta) | Atuesta is a Spanish word that means "trust" or "confidence". It is often used to refer to the trust that exists between two people or groups. |
-| 25 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 26 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 27 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
-| 28 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 29 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
-| 30 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
-| 31 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 32 | [Boavista](http://twitter.com/search?q=Boavista) | N/A |
-| 33 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 34 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 35 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 36 | [Veronica](http://twitter.com/search?q=Veronica) | Veronica is a female given name derived from the Latin word vera, meaning "true" or "faithful". It is also the name of a saint in the Catholic Church. |
-| 37 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 38 | [#JulietteNoSaiaJustaVerão](http://twitter.com/search?q=%23JulietteNoSaiaJustaVer%c3%a3o) | #JulietteNoSaiaJustaVerão is a hashtag used on social media in Brazil to promote the Juliette No Saia Justa Verão fashion line. The phrase translates to "Juliette in the tight skirt summer" in English. |
-| 39 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 40 | [Iemanjá](http://twitter.com/search?q=Iemanj%c3%a1) | N/A |
-| 41 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 42 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
-| 43 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
-| 44 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 45 | [Goulart](http://twitter.com/search?q=Goulart) | Goulart is a Portuguese surname derived from the personal name Gualter, which is of Germanic origin. It is derived from the elements "wald" meaning "rule" and "hari" meaning "army". In English, it can be translated to mean "ruler of the army". |
-| 46 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 47 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
-| 48 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
-| 49 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
-| 50 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 1 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 2 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 3 | [Melhoras](http://twitter.com/search?q=Melhoras) | N/A |
+| 4 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 5 | [Trento](http://twitter.com/search?q=Trento) | N/A |
+| 6 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
+| 7 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 8 | [Thamara](http://twitter.com/search?q=Thamara) | Thamara is a female name of Hebrew origin, meaning “date palm tree”. |
+| 9 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
+| 10 | [Guaratiba](http://twitter.com/search?q=Guaratiba) | Guaratiba is a municipality in the state of Rio de Janeiro, Brazil. The name Guaratiba comes from the Tupi language and means "place of many crabs". |
+| 11 | [#CasamentoAsCegasBrasil2](http://twitter.com/search?q=%23CasamentoAsCegasBrasil2) | #CasamentoAsCegasBrasil2 is a hashtag used on social media in Brazil to refer to the second season of the reality TV show Casamento As Cegas Brasil (Blind Date Brazil). The show follows couples who have never met before and are matched up by a panel of experts. The couples then go on a series of dates and eventually decide whether or not they want to get married. In English, the hashtag translates to "Blind Date Brazil 2". |
+| 12 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 13 | [Tabata](http://twitter.com/search?q=Tabata) | Tabata is a type of high-intensity interval training (HIIT) that consists of eight rounds of ultra-high-intensity exercises in a specific 20-seconds-on, 10-seconds-off interval. It was developed by Japanese scientist Dr. Izumi Tabata and is designed to improve both aerobic and anaerobic fitness. The goal of Tabata is to push the body to its maximum capacity in a short amount of time, making it an effective way to burn calories and build strength. |
+| 14 | [Atuesta](http://twitter.com/search?q=Atuesta) | Atuesta is a Spanish word that means "trust" or "confidence". It is often used to refer to the trust that exists between two people or groups. |
+| 15 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 16 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 17 | [Iemanjá](http://twitter.com/search?q=Iemanj%c3%a1) | N/A |
+| 18 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 19 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
+| 20 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
+| 21 | [Boavista](http://twitter.com/search?q=Boavista) | N/A |
+| 22 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 23 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 24 | [#festadolider](http://twitter.com/search?q=%23festadolider) | N/A |
+| 25 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 26 | [Veronica](http://twitter.com/search?q=Veronica) | Veronica is a female given name derived from the Latin word vera, meaning "true" or "faithful". It is also the name of a saint in the Catholic Church. |
+| 27 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 28 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
+| 29 | [#Paysandu109anos](http://twitter.com/search?q=%23Paysandu109anos) | N/A |
+| 30 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 31 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
+| 32 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 33 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 34 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
+| 35 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 36 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 37 | [Goulart](http://twitter.com/search?q=Goulart) | Goulart is a Portuguese surname derived from the personal name Gualter, which is of Germanic origin. It is derived from the elements "wald" meaning "rule" and "hari" meaning "army". In English, it can be translated to mean "ruler of the army". |
+| 38 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 39 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
+| 40 | [Rota 66](http://twitter.com/search?q=Rota+66) | N/A |
+| 41 | [#trocadepasses](http://twitter.com/search?q=%23trocadepasses) | N/A |
+| 42 | [PERDEU MANÉ](http://twitter.com/search?q=PERDEU+MAN%c3%89) | PERDEU MANÉ is a Portuguese phrase that translates to "you lost, dude" in English. It is typically used as an expression of disappointment or frustration when someone has made a mistake or failed at something. |
+| 43 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 44 | [Flávia](http://twitter.com/search?q=Fl%c3%a1via) | Flávia is a feminine given name of Latin origin, derived from the Roman family name Flavius. It means "blond" or "golden-haired" in English. |
+| 45 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 46 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
+| 47 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 48 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 49 | [Cazé](http://twitter.com/search?q=Caz%c3%a9) | N/A |
+| 50 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
 
 
 

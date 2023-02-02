@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-02 04:17:24 UTC`
+📆 Last Updated: `2023-02-02 05:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,13 +19,13 @@ This is top 50 for [Sweden](</Sweden>)
 | 2 | [academedia](http://twitter.com/search?q=academedia) | N/A |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [Humana](http://twitter.com/search?q=Humana) | N/A |
-| 5 | [baudin](http://twitter.com/search?q=baudin) | N/A |
+| 5 | [Robot 17](http://twitter.com/search?q=Robot+17) | N/A |
 | 6 | [muharrem demirok](http://twitter.com/search?q=muharrem+demirok) | N/A |
 | 7 | [ebba östlin](http://twitter.com/search?q=ebba+%c3%b6stlin) | N/A |
 | 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 9 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 10 | [Robot 17](http://twitter.com/search?q=Robot+17) | N/A |
-| 11 | [danielsson](http://twitter.com/search?q=danielsson) | N/A |
+| 10 | [danielsson](http://twitter.com/search?q=danielsson) | N/A |
+| 11 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
 | 12 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 13 | [#turkiet](http://twitter.com/search?q=%23turkiet) | N/A |
 | 14 | [kvartal](http://twitter.com/search?q=kvartal) | N/A |
@@ -38,32 +38,32 @@ This is top 50 for [Sweden](</Sweden>)
 | 21 | [#ibsilly](http://twitter.com/search?q=%23ibsilly) | N/A |
 | 22 | [Erik](http://twitter.com/search?q=Erik) | N/A |
 | 23 | [Boyce](http://twitter.com/search?q=Boyce) | N/A |
-| 24 | [Miele](http://twitter.com/search?q=Miele) | N/A |
-| 25 | [borlänge](http://twitter.com/search?q=borl%c3%a4nge) | N/A |
-| 26 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 27 | [deadline day](http://twitter.com/search?q=deadline+day) | N/A |
-| 28 | [börjes](http://twitter.com/search?q=b%c3%b6rjes) | N/A |
-| 29 | [jonna](http://twitter.com/search?q=jonna) | N/A |
-| 30 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 32 | [micke](http://twitter.com/search?q=micke) | N/A |
-| 33 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 34 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 35 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 36 | [Rapport](http://twitter.com/search?q=Rapport) | N/A |
-| 37 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 38 | [Nobels](http://twitter.com/search?q=Nobels) | N/A |
-| 39 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
-| 40 | [elfsborg](http://twitter.com/search?q=elfsborg) | N/A |
-| 41 | [murre](http://twitter.com/search?q=murre) | N/A |
+| 24 | [Murre](http://twitter.com/search?q=Murre) | N/A |
+| 25 | [Miele](http://twitter.com/search?q=Miele) | N/A |
+| 26 | [borlänge](http://twitter.com/search?q=borl%c3%a4nge) | N/A |
+| 27 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 28 | [deadline day](http://twitter.com/search?q=deadline+day) | N/A |
+| 29 | [börjes](http://twitter.com/search?q=b%c3%b6rjes) | N/A |
+| 30 | [jonna](http://twitter.com/search?q=jonna) | N/A |
+| 31 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 33 | [micke](http://twitter.com/search?q=micke) | N/A |
+| 34 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 35 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 36 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 37 | [Rapport](http://twitter.com/search?q=Rapport) | N/A |
+| 38 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 39 | [nobels](http://twitter.com/search?q=nobels) | N/A |
+| 40 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
+| 41 | [elfsborg](http://twitter.com/search?q=elfsborg) | N/A |
 | 42 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 43 | [vårbynätverket](http://twitter.com/search?q=v%c3%a5rbyn%c3%a4tverket) | N/A |
-| 44 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
-| 45 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
-| 46 | [adam carlén](http://twitter.com/search?q=adam+carl%c3%a9n) | N/A |
-| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 48 | [bedrövligt](http://twitter.com/search?q=bedr%c3%b6vligt) | N/A |
-| 49 | [världens](http://twitter.com/search?q=v%c3%a4rldens) | N/A |
+| 43 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
+| 44 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
+| 45 | [adam carlén](http://twitter.com/search?q=adam+carl%c3%a9n) | N/A |
+| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 47 | [bedrövligt](http://twitter.com/search?q=bedr%c3%b6vligt) | N/A |
+| 48 | [världens](http://twitter.com/search?q=v%c3%a4rldens) | N/A |
+| 49 | [köpenhamn](http://twitter.com/search?q=k%c3%b6penhamn) | N/A |
 
 
 

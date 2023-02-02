@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-02 04:17:56 UTC`
+📆 Last Updated: `2023-02-02 05:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for Panama
 | 9 | [Blades](http://twitter.com/search?q=Blades) | N/A |
 | 10 | [metromall](http://twitter.com/search?q=metromall) | N/A |
 | 11 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 14 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 15 | [panamá viejo](http://twitter.com/search?q=panam%c3%a1+viejo) | N/A |
-| 16 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 18 | [Birria](http://twitter.com/search?q=Birria) | N/A |
-| 19 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 20 | [cen del prd](http://twitter.com/search?q=cen+del+prd) | N/A |
+| 12 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
+| 13 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 14 | [panamá viejo](http://twitter.com/search?q=panam%c3%a1+viejo) | N/A |
+| 15 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 17 | [Birria](http://twitter.com/search?q=Birria) | N/A |
+| 18 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 19 | [cen del prd](http://twitter.com/search?q=cen+del+prd) | N/A |
+| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 21 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
 | 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 23 | [Pura](http://twitter.com/search?q=Pura) | N/A |
-| 24 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 25 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 26 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 27 | [panameña](http://twitter.com/search?q=paname%c3%b1a) | N/A |
-| 28 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 29 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
+| 23 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 24 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 25 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 26 | [panameña](http://twitter.com/search?q=paname%c3%b1a) | N/A |
+| 27 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 28 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
+| 29 | [Coclé](http://twitter.com/search?q=Cocl%c3%a9) | N/A |
 | 30 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 31 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
-| 32 | [Aguadulce](http://twitter.com/search?q=Aguadulce) | N/A |
-| 33 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 34 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 35 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 36 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
-| 37 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
+| 32 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 33 | [Aguadulce](http://twitter.com/search?q=Aguadulce) | N/A |
+| 34 | [Pura](http://twitter.com/search?q=Pura) | N/A |
+| 35 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 36 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 37 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
 | 38 | [#Colombia](http://twitter.com/search?q=%23Colombia) | N/A |
-| 39 | [Hazlo](http://twitter.com/search?q=Hazlo) | N/A |
-| 40 | [Coclé](http://twitter.com/search?q=Cocl%c3%a9) | N/A |
-| 41 | [Penonomé](http://twitter.com/search?q=Penonom%c3%a9) | N/A |
-| 42 | [Enserio](http://twitter.com/search?q=Enserio) | N/A |
-| 43 | [Carnavales](http://twitter.com/search?q=Carnavales) | N/A |
-| 44 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
-| 45 | [Dile](http://twitter.com/search?q=Dile) | N/A |
-| 46 | [#BuildurluvexBuild](http://twitter.com/search?q=%23BuildurluvexBuild) | N/A |
-| 47 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
-| 48 | [Bugaba](http://twitter.com/search?q=Bugaba) | N/A |
+| 39 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
+| 40 | [Carnavales](http://twitter.com/search?q=Carnavales) | N/A |
+| 41 | [Hazlo](http://twitter.com/search?q=Hazlo) | N/A |
+| 42 | [Penonomé](http://twitter.com/search?q=Penonom%c3%a9) | N/A |
+| 43 | [Enserio](http://twitter.com/search?q=Enserio) | N/A |
+| 44 | [Mateo](http://twitter.com/search?q=Mateo) | N/A |
+| 45 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
+| 46 | [Dile](http://twitter.com/search?q=Dile) | N/A |
+| 47 | [#BuildurluvexBuild](http://twitter.com/search?q=%23BuildurluvexBuild) | N/A |
+| 48 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
 | 49 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 | 50 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
 

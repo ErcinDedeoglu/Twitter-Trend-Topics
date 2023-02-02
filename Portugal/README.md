@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-02 04:17:56 UTC`
+📆 Last Updated: `2023-02-02 05:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,12 +34,12 @@ This is top 50 for Portugal
 | 17 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
 | 18 | [#JanelaDaBru](http://twitter.com/search?q=%23JanelaDaBru) | N/A |
 | 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [#SCPSCB](http://twitter.com/search?q=%23SCPSCB) | N/A |
+| 20 | [#scpscb](http://twitter.com/search?q=%23scpscb) | N/A |
 | 21 | [Pizzi](http://twitter.com/search?q=Pizzi) | N/A |
 | 22 | [#fcporto](http://twitter.com/search?q=%23fcporto) | N/A |
 | 23 | [aursnes](http://twitter.com/search?q=aursnes) | N/A |
 | 24 | [Porrito](http://twitter.com/search?q=Porrito) | N/A |
-| 25 | [Artur Jorge](http://twitter.com/search?q=Artur+Jorge) | N/A |
+| 25 | [artur jorge](http://twitter.com/search?q=artur+jorge) | N/A |
 | 26 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
 | 27 | [Matheus Reis](http://twitter.com/search?q=Matheus+Reis) | N/A |
 | 28 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for Portugal
 | 30 | [Alfredo](http://twitter.com/search?q=Alfredo) | N/A |
 | 31 | [joão mário](http://twitter.com/search?q=jo%c3%a3o+m%c3%a1rio) | N/A |
 | 32 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 33 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 33 | [#DiaDeSporting](http://twitter.com/search?q=%23DiaDeSporting) | N/A |
 | 34 | [Rio Ave](http://twitter.com/search?q=Rio+Ave) | N/A |
 | 35 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
 | 36 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for Portugal
 | 38 | [vski](http://twitter.com/search?q=vski) | N/A |
 | 39 | [Mendes](http://twitter.com/search?q=Mendes) | N/A |
 | 40 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
-| 41 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 42 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 43 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 44 | [Sérgio](http://twitter.com/search?q=S%c3%a9rgio) | N/A |
-| 45 | [Fran Navarro](http://twitter.com/search?q=Fran+Navarro) | N/A |
-| 46 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 47 | [zaidu](http://twitter.com/search?q=zaidu) | N/A |
-| 48 | [eustáquio](http://twitter.com/search?q=eust%c3%a1quio) | N/A |
-| 49 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
-| 50 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 41 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 42 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 43 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 44 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 45 | [Sérgio](http://twitter.com/search?q=S%c3%a9rgio) | N/A |
+| 46 | [Fran Navarro](http://twitter.com/search?q=Fran+Navarro) | N/A |
+| 47 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 48 | [zaidu](http://twitter.com/search?q=zaidu) | N/A |
+| 49 | [eustáquio](http://twitter.com/search?q=eust%c3%a1quio) | N/A |
+| 50 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
 
 
 

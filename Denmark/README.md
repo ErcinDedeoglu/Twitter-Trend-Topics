@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-02 04:17:52 UTC`
+📆 Last Updated: `2023-02-02 05:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,11 +50,11 @@ This is top 50 for Denmark
 | 33 | [århus](http://twitter.com/search?q=%c3%a5rhus) | N/A |
 | 34 | [Holy](http://twitter.com/search?q=Holy) | N/A |
 | 35 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 36 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
+| 36 | [jylland](http://twitter.com/search?q=jylland) | N/A |
 | 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Fakta](http://twitter.com/search?q=Fakta) | N/A |
-| 39 | [farzam](http://twitter.com/search?q=farzam) | N/A |
-| 40 | [Diks](http://twitter.com/search?q=Diks) | N/A |
+| 38 | [farzam](http://twitter.com/search?q=farzam) | N/A |
+| 39 | [Diks](http://twitter.com/search?q=Diks) | N/A |
+| 40 | [Fakta](http://twitter.com/search?q=Fakta) | N/A |
 | 41 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 42 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 43 | [horsens](http://twitter.com/search?q=horsens) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Denmark
 | 45 | [#fcklive](http://twitter.com/search?q=%23fcklive) | N/A |
 | 46 | [lauritsen](http://twitter.com/search?q=lauritsen) | N/A |
 | 47 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 48 | [Superligaen](http://twitter.com/search?q=Superligaen) | N/A |
+| 48 | [superligaen](http://twitter.com/search?q=superligaen) | N/A |
 | 49 | [babacar](http://twitter.com/search?q=babacar) | N/A |
 | 50 | [Lund](http://twitter.com/search?q=Lund) | N/A |
 
