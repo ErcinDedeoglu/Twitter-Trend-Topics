@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-02-02 20:16:43 UTC`
+📆 Last Updated: `2023-02-02 21:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [COMPLEX EP OUT NOW](http://twitter.com/search?q=COMPLEX+EP+OUT+NOW) | "COMPLEX EP OUT NOW" is a phrase used to announce the release of an EP (Extended Play) album. It means that the EP is now available for purchase or streaming. |
-| 2 | [#FELIP_COMPLEX](http://twitter.com/search?q=%23FELIP_COMPLEX) | #FELIP_COMPLEX is a term used to describe a person's tendency to overthink and overanalyze situations, leading to feelings of anxiety and stress. It is named after Felipe, a character in the novel The Alchemist by Paulo Coelho. |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [#MCIMulingPaghaharap](http://twitter.com/search?q=%23MCIMulingPaghaharap) | N/A |
-| 5 | [#DLCleaners](http://twitter.com/search?q=%23DLCleaners) | N/A |
-| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 7 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
-| 8 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 9 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
-| 10 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 11 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 12 | [SILA IDOL PALA](http://twitter.com/search?q=SILA+IDOL+PALA) | SILA IDOL PALA is a Malaysian phrase that translates to "You are my idol". It is often used as a term of endearment or admiration for someone. |
-| 13 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
-| 14 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
-| 15 | [Drinksmoke](http://twitter.com/search?q=Drinksmoke) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#MCIMulingPaghaharap](http://twitter.com/search?q=%23MCIMulingPaghaharap) | N/A |
+| 4 | [#DLCleaners](http://twitter.com/search?q=%23DLCleaners) | N/A |
+| 5 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 6 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
+| 7 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
+| 8 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
+| 9 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 10 | [#WelcomeToManila_ENHYPEN](http://twitter.com/search?q=%23WelcomeToManila_ENHYPEN) | N/A |
+| 11 | [sila idol pala](http://twitter.com/search?q=sila+idol+pala) | N/A |
+| 12 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
+| 13 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 14 | [DRINKSMOKE](http://twitter.com/search?q=DRINKSMOKE) | N/A |
+| 15 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
 | 16 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 17 | [The Right Way to Pray](http://twitter.com/search?q=The+Right+Way+to+Pray) | N/A |
-| 18 | [Mictest](http://twitter.com/search?q=Mictest) | N/A |
-| 19 | [welcome to nyc janenella](http://twitter.com/search?q=welcome+to+nyc+janenella) | N/A |
-| 20 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
-| 21 | [WALANG IWANAN KD](http://twitter.com/search?q=WALANG+IWANAN+KD) | N/A |
-| 22 | [SHOPEE SULIT BRANDS SALE 2DAY](http://twitter.com/search?q=SHOPEE+SULIT+BRANDS+SALE+2DAY) | N/A |
-| 23 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
+| 17 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 18 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
+| 19 | [WALANG IWANAN KD](http://twitter.com/search?q=WALANG+IWANAN+KD) | N/A |
+| 20 | [SHOPEE SULIT BRANDS SALE 2DAY](http://twitter.com/search?q=SHOPEE+SULIT+BRANDS+SALE+2DAY) | N/A |
+| 21 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 22 | [donny for mega man](http://twitter.com/search?q=donny+for+mega+man) | N/A |
+| 23 | [MICTEST](http://twitter.com/search?q=MICTEST) | N/A |
 | 24 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 25 | [Superiority](http://twitter.com/search?q=Superiority) | N/A |
-| 26 | [ALAMAT JAMMING WITH RAPPLER](http://twitter.com/search?q=ALAMAT+JAMMING+WITH+RAPPLER) | N/A |
-| 27 | [donny for mega man](http://twitter.com/search?q=donny+for+mega+man) | N/A |
-| 28 | [DARREN FOR KANNAWIDAN2023](http://twitter.com/search?q=DARREN+FOR+KANNAWIDAN2023) | N/A |
-| 29 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
-| 30 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 31 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 32 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
-| 33 | [Dirty Linen](http://twitter.com/search?q=Dirty+Linen) | N/A |
-| 34 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
-| 35 | [Vice](http://twitter.com/search?q=Vice) | N/A |
+| 25 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
+| 26 | [alamat jamming with rappler](http://twitter.com/search?q=alamat+jamming+with+rappler) | N/A |
+| 27 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
+| 28 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
+| 29 | [DARREN FOR KANNAWIDAN2023](http://twitter.com/search?q=DARREN+FOR+KANNAWIDAN2023) | N/A |
+| 30 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
+| 31 | [Vice](http://twitter.com/search?q=Vice) | N/A |
+| 32 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
+| 33 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
+| 34 | [4 years with kim doyoung](http://twitter.com/search?q=4+years+with+kim+doyoung) | N/A |
+| 35 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
 | 36 | [bellentines withdunkin](http://twitter.com/search?q=bellentines+withdunkin) | N/A |
 | 37 | [powerfuldonbelle withsmart](http://twitter.com/search?q=powerfuldonbelle+withsmart) | N/A |
-| 38 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 39 | [VXON PPOPCON2023 REVEAL](http://twitter.com/search?q=VXON+PPOPCON2023+REVEAL) | N/A |
-| 40 | [MAY POGI NA SA PINAS](http://twitter.com/search?q=MAY+POGI+NA+SA+PINAS) | N/A |
-| 41 | [D2 ChoreograSTELL](http://twitter.com/search?q=D2+ChoreograSTELL) | N/A |
-| 42 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 43 | [BSS HIGHLIGHT MEDLEY](http://twitter.com/search?q=BSS+HIGHLIGHT+MEDLEY) | BSS HIGHLIGHT MEDLEY is a compilation of songs from the Japanese pop group BSS (BananaLemon, SmileYa, and SevenOops). It is a collection of some of their most popular and memorable songs. The English translation of the phrase would be "BSS Best Hits Medley". |
-| 44 | [THURSloveBlast KIANOs](http://twitter.com/search?q=THURSloveBlast+KIANOs) | N/A |
-| 45 | [Xyriel](http://twitter.com/search?q=Xyriel) | N/A |
-| 46 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 47 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 48 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 49 | [TAKIN OVER PPOPCON STAGE](http://twitter.com/search?q=TAKIN+OVER+PPOPCON+STAGE) | N/A |
-| 50 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 38 | [Dirty Linen](http://twitter.com/search?q=Dirty+Linen) | N/A |
+| 39 | [Superiority](http://twitter.com/search?q=Superiority) | N/A |
+| 40 | [may pogi na sa pinas](http://twitter.com/search?q=may+pogi+na+sa+pinas) | N/A |
+| 41 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 42 | [d2 choreograstell](http://twitter.com/search?q=d2+choreograstell) | N/A |
+| 43 | [bss highlight medley](http://twitter.com/search?q=bss+highlight+medley) | N/A |
+| 44 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 45 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 46 | [Angel Aquino](http://twitter.com/search?q=Angel+Aquino) | N/A |
+| 47 | [Ni-ki](http://twitter.com/search?q=Ni-ki) | N/A |
+| 48 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 49 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 50 | [together 4ever yoshi](http://twitter.com/search?q=together+4ever+yoshi) | N/A |
 
 
 

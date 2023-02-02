@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-02 20:16:32 UTC`
+📆 Last Updated: `2023-02-02 21:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 2 | [#2febbraio](http://twitter.com/search?q=%232febbraio) | N/A |
-| 3 | [#JuveLazio](http://twitter.com/search?q=%23JuveLazio) | N/A |
-| 4 | [#JuventusLazio](http://twitter.com/search?q=%23JuventusLazio) | N/A |
-| 5 | [#Donzelli](http://twitter.com/search?q=%23Donzelli) | N/A |
-| 6 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
-| 7 | [Edoardo e Micol](http://twitter.com/search?q=Edoardo+e+Micol) | N/A |
-| 8 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 9 | [Candelora](http://twitter.com/search?q=Candelora) | N/A |
-| 10 | [Oriana e Daniele](http://twitter.com/search?q=Oriana+e+Daniele) | N/A |
-| 11 | [Scarpinato](http://twitter.com/search?q=Scarpinato) | N/A |
-| 12 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 13 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 14 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 15 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
-| 16 | [Filip](http://twitter.com/search?q=Filip) | N/A |
-| 17 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 18 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 1 | [#JuveLazio](http://twitter.com/search?q=%23JuveLazio) | #JuveLazio is a hashtag used to refer to the Italian football rivalry between Juventus and Lazio. It is used to show support for either team or to discuss the rivalry between them. In English, it means "Juventus vs Lazio". |
+| 2 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
+| 3 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
+| 4 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 5 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 6 | [Maximiano](http://twitter.com/search?q=Maximiano) | N/A |
+| 7 | [Suor Angela](http://twitter.com/search?q=Suor+Angela) | N/A |
+| 8 | [Edoardo e Micol](http://twitter.com/search?q=Edoardo+e+Micol) | N/A |
+| 9 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 10 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 11 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 12 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 13 | [Nunzio](http://twitter.com/search?q=Nunzio) | N/A |
+| 14 | [La Lazio](http://twitter.com/search?q=La+Lazio) | N/A |
+| 15 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 16 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
+| 17 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 18 | [Oriana e Daniele](http://twitter.com/search?q=Oriana+e+Daniele) | N/A |
 | 19 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
-| 20 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 21 | [Biagio](http://twitter.com/search?q=Biagio) | N/A |
-| 22 | [Chiesa e Vlahovic](http://twitter.com/search?q=Chiesa+e+Vlahovic) | N/A |
-| 23 | [Palombelli](http://twitter.com/search?q=Palombelli) | N/A |
-| 24 | [Commisso](http://twitter.com/search?q=Commisso) | N/A |
-| 25 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 26 | [Cagliostro](http://twitter.com/search?q=Cagliostro) | N/A |
-| 27 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
-| 28 | [Pier Silvio Berlusconi](http://twitter.com/search?q=Pier+Silvio+Berlusconi) | N/A |
-| 29 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 30 | [Clea](http://twitter.com/search?q=Clea) | N/A |
-| 31 | [Tiziano Ferro](http://twitter.com/search?q=Tiziano+Ferro) | N/A |
-| 32 | [Il Consiglio](http://twitter.com/search?q=Il+Consiglio) | N/A |
-| 33 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 34 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 35 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 36 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
-| 37 | [Scanzi](http://twitter.com/search?q=Scanzi) | N/A |
-| 38 | [Chicco](http://twitter.com/search?q=Chicco) | N/A |
-| 39 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 40 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 41 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 42 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
-| 43 | [Federico](http://twitter.com/search?q=Federico) | N/A |
-| 44 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 45 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 46 | [Trevisani](http://twitter.com/search?q=Trevisani) | N/A |
-| 47 | [La BCE](http://twitter.com/search?q=La+BCE) | N/A |
-| 48 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
-| 49 | [Antonino e Ginevra](http://twitter.com/search?q=Antonino+e+Ginevra) | N/A |
-| 50 | [Celik](http://twitter.com/search?q=Celik) | N/A |
+| 20 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 21 | [Incorvassi](http://twitter.com/search?q=Incorvassi) | N/A |
+| 22 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 23 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 24 | [Regioni](http://twitter.com/search?q=Regioni) | N/A |
+| 25 | [Scarpinato](http://twitter.com/search?q=Scarpinato) | N/A |
+| 26 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 27 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 28 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
+| 29 | [Tiziano Ferro](http://twitter.com/search?q=Tiziano+Ferro) | N/A |
+| 30 | [#gfgamenight](http://twitter.com/search?q=%23gfgamenight) | N/A |
+| 31 | [#JuventusLazio](http://twitter.com/search?q=%23JuventusLazio) | N/A |
+| 32 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 33 | [#andarVia](http://twitter.com/search?q=%23andarVia) | N/A |
+| 34 | [#Bremer](http://twitter.com/search?q=%23Bremer) | N/A |
+| 35 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 36 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
+| 37 | [#SplendidaCornice](http://twitter.com/search?q=%23SplendidaCornice) | N/A |
+| 38 | [#drittoerovescio](http://twitter.com/search?q=%23drittoerovescio) | N/A |
+| 39 | [#trevisani](http://twitter.com/search?q=%23trevisani) | N/A |
+| 40 | [#autonomiadifferenziata](http://twitter.com/search?q=%23autonomiadifferenziata) | N/A |
+| 41 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
+| 42 | [#Calderoli](http://twitter.com/search?q=%23Calderoli) | N/A |
+| 43 | [#StaseraItalia](http://twitter.com/search?q=%23StaseraItalia) | N/A |
+| 44 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 45 | [#DonzelliSpoileraCose](http://twitter.com/search?q=%23DonzelliSpoileraCose) | N/A |
+| 46 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 47 | [#isolitiignoti](http://twitter.com/search?q=%23isolitiignoti) | N/A |
+| 48 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 49 | [#Donzelli_Delmastro](http://twitter.com/search?q=%23Donzelli_Delmastro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-02 20:17:04 UTC`
+📆 Last Updated: `2023-02-02 21:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for Germany
 | 1 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 2 | [Maske](http://twitter.com/search?q=Maske) | N/A |
 | 3 | [#Faeser](http://twitter.com/search?q=%23Faeser) | N/A |
-| 4 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 6 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
-| 7 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 8 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 9 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 10 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 11 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 4 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 5 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 6 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 7 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
+| 8 | [#RosinsRestaurants](http://twitter.com/search?q=%23RosinsRestaurants) | N/A |
+| 9 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 10 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 11 | [#dartzn](http://twitter.com/search?q=%23dartzn) | N/A |
 | 12 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
 | 13 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 14 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 15 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 16 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
+| 14 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
+| 15 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 16 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
 | 17 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 18 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
-| 19 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 20 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
-| 21 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
-| 22 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 23 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
-| 24 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 18 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 19 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
+| 20 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
+| 21 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
+| 22 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
+| 23 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
+| 24 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
 | 25 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
-| 26 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 27 | [Ministerpräsidentin](http://twitter.com/search?q=Ministerpr%c3%a4sidentin) | N/A |
-| 28 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 29 | [Wein](http://twitter.com/search?q=Wein) | N/A |
-| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 31 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 32 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 33 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 34 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
-| 35 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 36 | [Halo](http://twitter.com/search?q=Halo) | N/A |
-| 37 | [Whataboutism](http://twitter.com/search?q=Whataboutism) | N/A |
-| 38 | [Kandidatur](http://twitter.com/search?q=Kandidatur) | N/A |
-| 39 | [Transmenschen](http://twitter.com/search?q=Transmenschen) | N/A |
-| 40 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
+| 28 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 29 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 30 | [Wein](http://twitter.com/search?q=Wein) | N/A |
+| 31 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 32 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 33 | [Whataboutism](http://twitter.com/search?q=Whataboutism) | N/A |
+| 34 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 35 | [Paolo Pinkel](http://twitter.com/search?q=Paolo+Pinkel) | N/A |
+| 36 | [Kandidatur](http://twitter.com/search?q=Kandidatur) | N/A |
+| 37 | [Transmenschen](http://twitter.com/search?q=Transmenschen) | N/A |
+| 38 | [Einkaufen](http://twitter.com/search?q=Einkaufen) | N/A |
+| 39 | [Discounter](http://twitter.com/search?q=Discounter) | N/A |
+| 40 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
 | 41 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
-| 42 | [Paolo Pinkel](http://twitter.com/search?q=Paolo+Pinkel) | N/A |
-| 43 | [CDU und FDP](http://twitter.com/search?q=CDU+und+FDP) | N/A |
+| 42 | [Friedmann](http://twitter.com/search?q=Friedmann) | N/A |
+| 43 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
 | 44 | [Verhalten](http://twitter.com/search?q=Verhalten) | N/A |
-| 45 | [Einkaufen](http://twitter.com/search?q=Einkaufen) | N/A |
-| 46 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
-| 47 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
-| 48 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 49 | ['Rost'](http://twitter.com/search?q=%27Rost%27) | N/A |
+| 45 | [Haar in der Suppe](http://twitter.com/search?q=Haar+in+der+Suppe) | N/A |
+| 46 | [Halo](http://twitter.com/search?q=Halo) | N/A |
+| 47 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 48 | [Transfeindlich](http://twitter.com/search?q=Transfeindlich) | N/A |
+| 49 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
 | 50 | [Hochzeiten](http://twitter.com/search?q=Hochzeiten) | N/A |
 
 

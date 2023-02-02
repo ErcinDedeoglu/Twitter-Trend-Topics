@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-02-02 20:16:45 UTC`
+📆 Last Updated: `2023-02-02 21:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 2 | [#Danlil](http://twitter.com/search?q=%23Danlil) | N/A |
-| 3 | [Uniben](http://twitter.com/search?q=Uniben) | N/A |
-| 4 | [#TinubuInOsun](http://twitter.com/search?q=%23TinubuInOsun) | N/A |
-| 5 | [Omotara](http://twitter.com/search?q=Omotara) | N/A |
+| 1 | [#Danlil](http://twitter.com/search?q=%23Danlil) | N/A |
+| 2 | [Uniben](http://twitter.com/search?q=Uniben) | Uniben is an acronym for the University of Benin, a public university located in Benin City, Nigeria. The university was established in 1970 and is one of the most prestigious universities in Nigeria. |
+| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 4 | [Omotara](http://twitter.com/search?q=Omotara) | N/A |
+| 5 | [Benin](http://twitter.com/search?q=Benin) | N/A |
 | 6 | [#ObiDattiInZamfara](http://twitter.com/search?q=%23ObiDattiInZamfara) | N/A |
-| 7 | [Joha](http://twitter.com/search?q=Joha) | N/A |
-| 8 | [Naira](http://twitter.com/search?q=Naira) | N/A |
-| 9 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 10 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 11 | [Zenith](http://twitter.com/search?q=Zenith) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 14 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
-| 15 | [#ABLCM2023](http://twitter.com/search?q=%23ABLCM2023) | N/A |
-| 16 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 17 | [#JellyBeanByBigOzed](http://twitter.com/search?q=%23JellyBeanByBigOzed) | N/A |
-| 18 | [Nigerian Army](http://twitter.com/search?q=Nigerian+Army) | N/A |
-| 19 | [P.O.S](http://twitter.com/search?q=P.O.S) | N/A |
-| 20 | [YEMI CREGX OUR OWN](http://twitter.com/search?q=YEMI+CREGX+OUR+OWN) | N/A |
-| 21 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 22 | [Alabi](http://twitter.com/search?q=Alabi) | N/A |
-| 23 | [no phyna no buzz](http://twitter.com/search?q=no+phyna+no+buzz) | N/A |
-| 24 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 25 | [QUESTION PHYNA](http://twitter.com/search?q=QUESTION+PHYNA) | N/A |
-| 26 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 27 | [PATRONIZE PHYNATION MERCHANT](http://twitter.com/search?q=PATRONIZE+PHYNATION+MERCHANT) | N/A |
-| 28 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 29 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
-| 30 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
-| 31 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
-| 32 | [djneptune and ruger](http://twitter.com/search?q=djneptune+and+ruger) | N/A |
-| 33 | [Kebbi](http://twitter.com/search?q=Kebbi) | N/A |
-| 34 | [Peter Obi is a Nollywood](http://twitter.com/search?q=Peter+Obi+is+a+Nollywood) | N/A |
-| 35 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 36 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 37 | [Oyetola](http://twitter.com/search?q=Oyetola) | Oyetola is a Yoruba name which means "God has done it". It is a popular name in Nigeria and other West African countries. |
-| 38 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 39 | [BIG BELLA ONCE SAID](http://twitter.com/search?q=BIG+BELLA+ONCE+SAID) | N/A |
-| 40 | [Benin](http://twitter.com/search?q=Benin) | N/A |
-| 41 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 42 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
-| 43 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 44 | [El-Rufai](http://twitter.com/search?q=El-Rufai) | N/A |
-| 45 | [Joe Igbokwe](http://twitter.com/search?q=Joe+Igbokwe) | N/A |
-| 46 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 47 | [Erik Ten Hag](http://twitter.com/search?q=Erik+Ten+Hag) | N/A |
-| 48 | [Cell](http://twitter.com/search?q=Cell) | N/A |
-| 49 | [Chair](http://twitter.com/search?q=Chair) | N/A |
-| 50 | [Train to Busan](http://twitter.com/search?q=Train+to+Busan) | N/A |
+| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 8 | [Joha](http://twitter.com/search?q=Joha) | N/A |
+| 9 | [#TinubuInOsun](http://twitter.com/search?q=%23TinubuInOsun) | N/A |
+| 10 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 11 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
+| 12 | [Nigerian Army](http://twitter.com/search?q=Nigerian+Army) | N/A |
+| 13 | [Peter Obi is a Nollywood](http://twitter.com/search?q=Peter+Obi+is+a+Nollywood) | N/A |
+| 14 | [El Rufai](http://twitter.com/search?q=El+Rufai) | N/A |
+| 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 16 | [Kebbi](http://twitter.com/search?q=Kebbi) | N/A |
+| 17 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 18 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 19 | [#AMItura](http://twitter.com/search?q=%23AMItura) | N/A |
+| 20 | [Victor Umeh](http://twitter.com/search?q=Victor+Umeh) | N/A |
+| 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 22 | [Naira to Naira](http://twitter.com/search?q=Naira+to+Naira) | N/A |
+| 23 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 24 | [Alabi](http://twitter.com/search?q=Alabi) | N/A |
+| 25 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 26 | [#KhosiTwala](http://twitter.com/search?q=%23KhosiTwala) | N/A |
+| 27 | [Ekiti](http://twitter.com/search?q=Ekiti) | N/A |
+| 28 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 29 | [Remove](http://twitter.com/search?q=Remove) | N/A |
+| 30 | [Chair](http://twitter.com/search?q=Chair) | N/A |
+| 31 | [Joe Igbokwe](http://twitter.com/search?q=Joe+Igbokwe) | N/A |
+| 32 | [Tsatsii](http://twitter.com/search?q=Tsatsii) | N/A |
+| 33 | [Blue Aiva](http://twitter.com/search?q=Blue+Aiva) | N/A |
+| 34 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 35 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 36 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 37 | [Yemi Cregx](http://twitter.com/search?q=Yemi+Cregx) | N/A |
+| 38 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 39 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 40 | [Central Bank of Nigeria](http://twitter.com/search?q=Central+Bank+of+Nigeria) | N/A |
+| 41 | [#NairaRedesign](http://twitter.com/search?q=%23NairaRedesign) | N/A |
+| 42 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
+| 43 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 44 | [#NYSC](http://twitter.com/search?q=%23NYSC) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-02-02 20:16:29 UTC`
+📆 Last Updated: `2023-02-02 21:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Ireland](</Ireland>)
 | 8 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
 | 9 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 10 | [#MotherAndBabyHomes](http://twitter.com/search?q=%23MotherAndBabyHomes) | N/A |
-| 11 | [#NDIA2023](http://twitter.com/search?q=%23NDIA2023) | N/A |
+| 11 | [#FairCity](http://twitter.com/search?q=%23FairCity) | N/A |
 | 12 | [The GAA](http://twitter.com/search?q=The+GAA) | N/A |
-| 13 | [#StBrigidsDay](http://twitter.com/search?q=%23StBrigidsDay) | N/A |
-| 14 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 15 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 16 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 13 | [#NDIA2023](http://twitter.com/search?q=%23NDIA2023) | N/A |
+| 14 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 15 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 16 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 17 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 18 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 19 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
-| 20 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
-| 21 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
-| 22 | [Tadhg Furlong](http://twitter.com/search?q=Tadhg+Furlong) | N/A |
-| 23 | [3 Arena](http://twitter.com/search?q=3+Arena) | N/A |
-| 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 25 | [Aidan McAnespie](http://twitter.com/search?q=Aidan+McAnespie) | N/A |
-| 26 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 27 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
-| 28 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 29 | [Natalie McNally](http://twitter.com/search?q=Natalie+McNally) | N/A |
-| 30 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
-| 31 | [Disgraceful](http://twitter.com/search?q=Disgraceful) | N/A |
-| 32 | [national dialogue](http://twitter.com/search?q=national+dialogue) | N/A |
-| 33 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 18 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
+| 19 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 20 | [Furlong](http://twitter.com/search?q=Furlong) | N/A |
+| 21 | [Dropped](http://twitter.com/search?q=Dropped) | N/A |
+| 22 | [Natalie McNally](http://twitter.com/search?q=Natalie+McNally) | N/A |
+| 23 | [Disgraceful](http://twitter.com/search?q=Disgraceful) | N/A |
+| 24 | [3Arena](http://twitter.com/search?q=3Arena) | N/A |
+| 25 | [McAnespie](http://twitter.com/search?q=McAnespie) | N/A |
+| 26 | [Finglas](http://twitter.com/search?q=Finglas) | N/A |
+| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 28 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
+| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 30 | [Atlantic](http://twitter.com/search?q=Atlantic) | N/A |
+| 31 | [national dialogue](http://twitter.com/search?q=national+dialogue) | N/A |
+| 32 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 33 | [James Joyce](http://twitter.com/search?q=James+Joyce) | N/A |
 | 34 | [Roberta Metsola](http://twitter.com/search?q=Roberta+Metsola) | N/A |
-| 35 | [Garth Brooks](http://twitter.com/search?q=Garth+Brooks) | N/A |
-| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 37 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 38 | [Ulysses](http://twitter.com/search?q=Ulysses) | N/A |
-| 39 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
-| 40 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 41 | [Dublin City Council](http://twitter.com/search?q=Dublin+City+Council) | N/A |
-| 42 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
-| 43 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 44 | [James Joyce](http://twitter.com/search?q=James+Joyce) | N/A |
-| 45 | [Atlantic](http://twitter.com/search?q=Atlantic) | N/A |
-| 46 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 47 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
-| 48 | [Long Room](http://twitter.com/search?q=Long+Room) | N/A |
-| 49 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 50 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 35 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 36 | [Garth Brooks](http://twitter.com/search?q=Garth+Brooks) | N/A |
+| 37 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
+| 38 | [Micheál Martin](http://twitter.com/search?q=Miche%c3%a1l+Martin) | N/A |
+| 39 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 40 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 41 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
+| 42 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 43 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
+| 44 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
+| 45 | [Ulysses](http://twitter.com/search?q=Ulysses) | N/A |
+| 46 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 47 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 48 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 49 | [Babylon](http://twitter.com/search?q=Babylon) | N/A |
+| 50 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 
 
 

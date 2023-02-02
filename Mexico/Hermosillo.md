@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-02-02 20:16:22 UTC`
+📆 Last Updated: `2023-02-02 21:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
-| 2 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 3 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
-| 4 | [#Tamales](http://twitter.com/search?q=%23Tamales) | N/A |
-| 5 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
-| 6 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 7 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 8 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 9 | [Irving López](http://twitter.com/search?q=Irving+L%c3%b3pez) | N/A |
-| 10 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 11 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
-| 12 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
-| 13 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 14 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 15 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
+| 1 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 2 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
+| 5 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 6 | [#Tamales](http://twitter.com/search?q=%23Tamales) | N/A |
+| 7 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 8 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
+| 9 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 10 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 11 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
+| 12 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 13 | [Irving López](http://twitter.com/search?q=Irving+L%c3%b3pez) | N/A |
+| 14 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
+| 15 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
 | 16 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
-| 17 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 18 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
-| 19 | [El 2](http://twitter.com/search?q=El+2) | N/A |
-| 20 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 21 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
-| 22 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 23 | [Niño Dios](http://twitter.com/search?q=Ni%c3%b1o+Dios) | N/A |
-| 24 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 17 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
+| 18 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 19 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 20 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
+| 21 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
+| 22 | [El 2](http://twitter.com/search?q=El+2) | N/A |
+| 23 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 24 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
 | 25 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 26 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 27 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 28 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
-| 29 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
-| 30 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 31 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 32 | [godin](http://twitter.com/search?q=godin) | N/A |
-| 33 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
-| 34 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
-| 35 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 36 | [San Lázaro](http://twitter.com/search?q=San+L%c3%a1zaro) | N/A |
-| 37 | [SEP.](http://twitter.com/search?q=SEP.) | N/A |
-| 38 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 39 | [#SussyOhConvoy](http://twitter.com/search?q=%23SussyOhConvoy) | N/A |
-| 40 | [#DíaMundialDeLosHumedales](http://twitter.com/search?q=%23D%c3%adaMundialDeLosHumedales) | N/A |
-| 41 | [#HappyKyuhyunDay](http://twitter.com/search?q=%23HappyKyuhyunDay) | N/A |
-| 42 | [#LaPaz](http://twitter.com/search?q=%23LaPaz) | N/A |
-| 43 | [#오직_규현만을_사랑해](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%ea%b7%9c%ed%98%84%eb%a7%8c%ec%9d%84_%ec%82%ac%eb%9e%91%ed%95%b4) | "#오직_규현만을_사랑해" is a hashtag used by fans of South Korean singer Kyuhyun. It translates to "Love only Kyuhyun". |
-| 44 | [#MichelleRodriguez](http://twitter.com/search?q=%23MichelleRodriguez) | N/A |
-| 45 | [#PlanSonora](http://twitter.com/search?q=%23PlanSonora) | N/A |
-| 46 | [#2DeFebrero](http://twitter.com/search?q=%232DeFebrero) | N/A |
-| 47 | [#HappyBirthdayShakira](http://twitter.com/search?q=%23HappyBirthdayShakira) | N/A |
-| 48 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
-| 49 | [#KornoDeDulce](http://twitter.com/search?q=%23KornoDeDulce) | N/A |
+| 26 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
+| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 28 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 29 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 30 | [Niño Dios](http://twitter.com/search?q=Ni%c3%b1o+Dios) | N/A |
+| 31 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
+| 32 | [Verde](http://twitter.com/search?q=Verde) | N/A |
+| 33 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
+| 34 | [José Madero](http://twitter.com/search?q=Jos%c3%a9+Madero) | N/A |
+| 35 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
+| 36 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 37 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 38 | [San Lázaro](http://twitter.com/search?q=San+L%c3%a1zaro) | N/A |
+| 39 | [Godin](http://twitter.com/search?q=Godin) | N/A |
+| 40 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
+| 41 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 42 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 43 | [#DíaMundialDeLosHumedales](http://twitter.com/search?q=%23D%c3%adaMundialDeLosHumedales) | N/A |
+| 44 | [#02Feb](http://twitter.com/search?q=%2302Feb) | N/A |
+| 45 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 46 | [#PlanSonora](http://twitter.com/search?q=%23PlanSonora) | N/A |
+| 47 | [#HappyKyuhyunDay](http://twitter.com/search?q=%23HappyKyuhyunDay) | N/A |
+| 48 | [#2DeFebrero](http://twitter.com/search?q=%232DeFebrero) | N/A |
+| 49 | [#MichelleRodriguez](http://twitter.com/search?q=%23MichelleRodriguez) | N/A |
 
 
 
