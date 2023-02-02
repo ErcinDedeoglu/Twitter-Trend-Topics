@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-02 06:16:37 UTC`
+📆 Last Updated: `2023-02-02 07:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,27 +15,27 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Chillan](http://twitter.com/search?q=%23Chillan) | N/A |
-| 2 | [Parived](http://twitter.com/search?q=Parived) | Parived is a Sanskrit word that means "to be attained" or "to be realized". It is often used in the context of spiritual enlightenment or realization. |
+| 1 | [Parived](http://twitter.com/search?q=Parived) | Parived is a Sanskrit word that means "to be attained" or "to be realized". It is often used in the context of spiritual enlightenment or realization. |
+| 2 | [#Chillan](http://twitter.com/search?q=%23Chillan) | N/A |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
 | 5 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
 | 6 | [#MerluzoCTM](http://twitter.com/search?q=%23MerluzoCTM) | N/A |
 | 7 | [#OladeCalor](http://twitter.com/search?q=%23OladeCalor) | N/A |
 | 8 | [#HijosDelDesierto](http://twitter.com/search?q=%23HijosDelDesierto) | N/A |
-| 9 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
+| 9 | [#Incendio](http://twitter.com/search?q=%23Incendio) | Incendio is a Spanish word meaning "fire". It is used to refer to a fire or an outbreak of fire. |
 | 10 | [Villa Jerusalén](http://twitter.com/search?q=Villa+Jerusal%c3%a9n) | N/A |
 | 11 | [Twitch Chile](http://twitter.com/search?q=Twitch+Chile) | N/A |
 | 12 | [Quilmo](http://twitter.com/search?q=Quilmo) | N/A |
-| 13 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
-| 14 | [Alerta Roja](http://twitter.com/search?q=Alerta+Roja) | N/A |
-| 15 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 13 | [Alerta Roja](http://twitter.com/search?q=Alerta+Roja) | N/A |
+| 14 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 15 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
 | 16 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
 | 17 | [Longueira](http://twitter.com/search?q=Longueira) | N/A |
-| 18 | [Luciano Arriagada](http://twitter.com/search?q=Luciano+Arriagada) | N/A |
+| 18 | [luciano arriagada](http://twitter.com/search?q=luciano+arriagada) | N/A |
 | 19 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
 | 20 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 21 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 21 | [America](http://twitter.com/search?q=America) | N/A |
 | 22 | [Fidel Espinoza](http://twitter.com/search?q=Fidel+Espinoza) | N/A |
 | 23 | [Cristian de la Fuente](http://twitter.com/search?q=Cristian+de+la+Fuente) | N/A |
 | 24 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
@@ -44,18 +44,18 @@ This is top 50 for [Chile](</Chile>)
 | 27 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
 | 28 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 29 | [Parisi](http://twitter.com/search?q=Parisi) | N/A |
-| 30 | [Axel Kaiser](http://twitter.com/search?q=Axel+Kaiser) | N/A |
-| 31 | [Joan Cruz](http://twitter.com/search?q=Joan+Cruz) | Joan Cruz is a Spanish name derived from the Latin name Iohannes, which means "God is gracious". It is a combination of the names Jo and Ann, and can be used as either a masculine or feminine name. |
+| 30 | [Joan Cruz](http://twitter.com/search?q=Joan+Cruz) | Joan Cruz is a Spanish name derived from the Latin name Iohannes, which means "God is gracious". It is a combination of the names Jo and Ann, and can be used as either a masculine or feminine name. |
+| 31 | [Axel Kaiser](http://twitter.com/search?q=Axel+Kaiser) | N/A |
 | 32 | [Superávit](http://twitter.com/search?q=Super%c3%a1vit) | N/A |
 | 33 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
 | 34 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
 | 35 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 36 | [Sausalito](http://twitter.com/search?q=Sausalito) | N/A |
-| 37 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 38 | [Marco Antonio López](http://twitter.com/search?q=Marco+Antonio+L%c3%b3pez) | N/A |
-| 39 | [centro de justicia](http://twitter.com/search?q=centro+de+justicia) | N/A |
-| 40 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 41 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 36 | [marco antonio lópez](http://twitter.com/search?q=marco+antonio+l%c3%b3pez) | N/A |
+| 37 | [centro de justicia](http://twitter.com/search?q=centro+de+justicia) | N/A |
+| 38 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 39 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 40 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 41 | [Sausalito](http://twitter.com/search?q=Sausalito) | N/A |
 | 42 | [Felipe Gutiérrez](http://twitter.com/search?q=Felipe+Guti%c3%a9rrez) | N/A |
 | 43 | [Augusto](http://twitter.com/search?q=Augusto) | N/A |
 | 44 | [Tonkita](http://twitter.com/search?q=Tonkita) | N/A |

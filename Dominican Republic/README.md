@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-02 06:17:23 UTC`
+📆 Last Updated: `2023-02-02 07:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for Dominican Republic
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 2 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
+| 2 | [baní](http://twitter.com/search?q=ban%c3%ad) | N/A |
 | 3 | [encuesta abc](http://twitter.com/search?q=encuesta+abc) | N/A |
-| 4 | [Osiris de León](http://twitter.com/search?q=Osiris+de+Le%c3%b3n) | N/A |
-| 5 | [Milton Ray Guevara](http://twitter.com/search?q=Milton+Ray+Guevara) | N/A |
+| 4 | [osiris de león](http://twitter.com/search?q=osiris+de+le%c3%b3n) | N/A |
+| 5 | [milton ray guevara](http://twitter.com/search?q=milton+ray+guevara) | N/A |
 | 6 | [Octavio](http://twitter.com/search?q=Octavio) | N/A |
 | 7 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
 | 8 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | N/A |
@@ -51,17 +51,17 @@ This is top 50 for Dominican Republic
 | 34 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
 | 35 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 37 | [amet](http://twitter.com/search?q=amet) | N/A |
+| 37 | [Amet](http://twitter.com/search?q=Amet) | N/A |
 | 38 | [puerto príncipe](http://twitter.com/search?q=puerto+pr%c3%adncipe) | N/A |
 | 39 | [Hato Mayor](http://twitter.com/search?q=Hato+Mayor) | N/A |
 | 40 | [san pedro de macorís](http://twitter.com/search?q=san+pedro+de+macor%c3%ads) | N/A |
 | 41 | [Debemos](http://twitter.com/search?q=Debemos) | N/A |
 | 42 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 43 | [Hony](http://twitter.com/search?q=Hony) | N/A |
+| 43 | [hony](http://twitter.com/search?q=hony) | N/A |
 | 44 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 45 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 46 | [El Seibo y Duarte](http://twitter.com/search?q=El+Seibo+y+Duarte) | N/A |
-| 47 | [Esperamos](http://twitter.com/search?q=Esperamos) | N/A |
+| 45 | [El Seibo y Duarte](http://twitter.com/search?q=El+Seibo+y+Duarte) | N/A |
+| 46 | [Esperamos](http://twitter.com/search?q=Esperamos) | N/A |
+| 47 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 48 | [marbete](http://twitter.com/search?q=marbete) | N/A |
 | 49 | [surun](http://twitter.com/search?q=surun) | N/A |
 | 50 | [DGII](http://twitter.com/search?q=DGII) | N/A |

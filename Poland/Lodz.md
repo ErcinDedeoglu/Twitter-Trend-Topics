@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-02 06:16:42 UTC`
+📆 Last Updated: `2023-02-02 07:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#mielpo](http://twitter.com/search?q=%23mielpo) | N/A |
 | 2 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
-| 3 | [Leonard Pietraszak](http://twitter.com/search?q=Leonard+Pietraszak) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
-| 6 | [bednarek](http://twitter.com/search?q=bednarek) | N/A |
-| 7 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 8 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 9 | [szymczak](http://twitter.com/search?q=szymczak) | N/A |
-| 10 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 11 | [vabank](http://twitter.com/search?q=vabank) | N/A |
-| 12 | [lewego](http://twitter.com/search?q=lewego) | N/A |
+| 3 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 4 | [leonard pietraszak](http://twitter.com/search?q=leonard+pietraszak) | N/A |
+| 5 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 8 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 9 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 10 | [szymczak](http://twitter.com/search?q=szymczak) | N/A |
+| 11 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 12 | [vabank](http://twitter.com/search?q=vabank) | N/A |
 | 13 | [skok](http://twitter.com/search?q=skok) | N/A |
 | 14 | [Davo](http://twitter.com/search?q=Davo) | N/A |
 | 15 | [sykulskiego](http://twitter.com/search?q=sykulskiego) | N/A |
 | 16 | [marchewa](http://twitter.com/search?q=marchewa) | N/A |
-| 17 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
+| 17 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
 | 18 | [ROBERT LEWANDOWSKI](http://twitter.com/search?q=ROBERT+LEWANDOWSKI) | N/A |
 | 19 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 20 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 21 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 20 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 21 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
 | 22 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
-| 23 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 23 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
 | 24 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
-| 25 | [szymon hołownia](http://twitter.com/search?q=szymon+ho%c5%82ownia) | N/A |
-| 26 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 27 | [maryla rodowicz](http://twitter.com/search?q=maryla+rodowicz) | N/A |
-| 28 | [ukraińca](http://twitter.com/search?q=ukrai%c5%84ca) | N/A |
-| 29 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 30 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
-| 31 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 32 | [sikorskim](http://twitter.com/search?q=sikorskim) | N/A |
-| 33 | [miedzią](http://twitter.com/search?q=miedzi%c4%85) | N/A |
-| 34 | [dziambor](http://twitter.com/search?q=dziambor) | N/A |
-| 35 | [grodzki](http://twitter.com/search?q=grodzki) | N/A |
-| 36 | [czechami](http://twitter.com/search?q=czechami) | N/A |
-| 37 | [nauki](http://twitter.com/search?q=nauki) | N/A |
-| 38 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 39 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 40 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
-| 41 | [kaziu](http://twitter.com/search?q=kaziu) | N/A |
-| 42 | [klubowe](http://twitter.com/search?q=klubowe) | N/A |
-| 43 | [T-72](http://twitter.com/search?q=T-72) | N/A |
-| 44 | [Pirat](http://twitter.com/search?q=Pirat) | N/A |
-| 45 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 46 | [Senat](http://twitter.com/search?q=Senat) | N/A |
-| 47 | [szymka](http://twitter.com/search?q=szymka) | N/A |
-| 48 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 25 | [Konfederacja](http://twitter.com/search?q=Konfederacja) | N/A |
+| 26 | [szymon hołownia](http://twitter.com/search?q=szymon+ho%c5%82ownia) | N/A |
+| 27 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 28 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 29 | [maryla rodowicz](http://twitter.com/search?q=maryla+rodowicz) | N/A |
+| 30 | [Nobla](http://twitter.com/search?q=Nobla) | N/A |
+| 31 | [weszło](http://twitter.com/search?q=wesz%c5%82o) | N/A |
+| 32 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 33 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
+| 34 | [sikorskim](http://twitter.com/search?q=sikorskim) | N/A |
+| 35 | [miedzią](http://twitter.com/search?q=miedzi%c4%85) | N/A |
+| 36 | [dziambor](http://twitter.com/search?q=dziambor) | N/A |
+| 37 | [czechami](http://twitter.com/search?q=czechami) | N/A |
+| 38 | [nauki](http://twitter.com/search?q=nauki) | N/A |
+| 39 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 40 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 41 | [LaLiga](http://twitter.com/search?q=LaLiga) | N/A |
+| 42 | [kaziu](http://twitter.com/search?q=kaziu) | N/A |
+| 43 | [klubowe](http://twitter.com/search?q=klubowe) | N/A |
+| 44 | [T-72](http://twitter.com/search?q=T-72) | N/A |
+| 45 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 46 | [Barczewie](http://twitter.com/search?q=Barczewie) | N/A |
+| 47 | [Pirat](http://twitter.com/search?q=Pirat) | N/A |
+| 48 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 
 
 

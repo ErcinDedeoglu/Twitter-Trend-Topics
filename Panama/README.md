@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-02 06:17:27 UTC`
+📆 Last Updated: `2023-02-02 07:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,14 +45,14 @@ This is top 50 for Panama
 | 28 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
 | 29 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 30 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
-| 31 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 31 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
 | 32 | [Ismael Rivera](http://twitter.com/search?q=Ismael+Rivera) | N/A |
-| 33 | [Aguadulce](http://twitter.com/search?q=Aguadulce) | N/A |
+| 33 | [aguadulce](http://twitter.com/search?q=aguadulce) | N/A |
 | 34 | [Pura](http://twitter.com/search?q=Pura) | N/A |
 | 35 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 36 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
-| 37 | [#Colombia](http://twitter.com/search?q=%23Colombia) | N/A |
-| 38 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
+| 36 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 37 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
+| 38 | [#Colombia](http://twitter.com/search?q=%23Colombia) | N/A |
 | 39 | [Carnavales](http://twitter.com/search?q=Carnavales) | N/A |
 | 40 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
 | 41 | [Hazlo](http://twitter.com/search?q=Hazlo) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Panama
 | 43 | [penonomé](http://twitter.com/search?q=penonom%c3%a9) | N/A |
 | 44 | [Mateo](http://twitter.com/search?q=Mateo) | N/A |
 | 45 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
-| 46 | [Dile](http://twitter.com/search?q=Dile) | N/A |
-| 47 | [#BuildurluvexBuild](http://twitter.com/search?q=%23BuildurluvexBuild) | N/A |
-| 48 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
-| 49 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 50 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
+| 46 | [#BuildurluvexBuild](http://twitter.com/search?q=%23BuildurluvexBuild) | N/A |
+| 47 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 48 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
+| 49 | [#dumasinforma](http://twitter.com/search?q=%23dumasinforma) | N/A |
+| 50 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 
 
 
