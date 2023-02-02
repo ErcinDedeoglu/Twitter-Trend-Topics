@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-02 05:15:56 UTC`
+📆 Last Updated: `2023-02-02 06:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,26 +43,26 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 26 | [Dommage](http://twitter.com/search?q=Dommage) | N/A |
 | 27 | [Roger](http://twitter.com/search?q=Roger) | N/A |
 | 28 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 29 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 30 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
-| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 32 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 33 | [unterstützung](http://twitter.com/search?q=unterst%c3%bctzung) | N/A |
-| 34 | [Bern](http://twitter.com/search?q=Bern) | N/A |
-| 35 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 36 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 37 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 38 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 39 | [witz](http://twitter.com/search?q=witz) | N/A |
-| 40 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 41 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
-| 42 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 43 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 45 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
-| 46 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 47 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 48 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 29 | [Beruf](http://twitter.com/search?q=Beruf) | N/A |
+| 30 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 31 | [China](http://twitter.com/search?q=China) | N/A |
+| 32 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 33 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 35 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 36 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 37 | [Bern](http://twitter.com/search?q=Bern) | N/A |
+| 38 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
+| 39 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 40 | [Witz](http://twitter.com/search?q=Witz) | N/A |
+| 41 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 42 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 43 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 44 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
+| 47 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 48 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-02 05:15:38 UTC`
+📆 Last Updated: `2023-02-02 06:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
 | 2 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 5 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 5 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 6 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
 | 7 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 8 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 9 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 10 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
-| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 12 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 13 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 14 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 15 | [#BHM2023](http://twitter.com/search?q=%23BHM2023) | N/A |
-| 16 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 17 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 18 | [Alek](http://twitter.com/search?q=Alek) | N/A |
-| 19 | [#MisheardLyrics](http://twitter.com/search?q=%23MisheardLyrics) | N/A |
-| 20 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 21 | [#BOSvsTOR](http://twitter.com/search?q=%23BOSvsTOR) | N/A |
-| 22 | [Hinshaw](http://twitter.com/search?q=Hinshaw) | N/A |
-| 23 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 24 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 25 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 26 | [Noirs](http://twitter.com/search?q=Noirs) | N/A |
-| 27 | [Thad](http://twitter.com/search?q=Thad) | N/A |
-| 28 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
-| 29 | [Koloko](http://twitter.com/search?q=Koloko) | N/A |
-| 30 | [Herdman](http://twitter.com/search?q=Herdman) | N/A |
-| 31 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 32 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 33 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
-| 34 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 35 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 36 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 37 | [Dominic Barton](http://twitter.com/search?q=Dominic+Barton) | N/A |
-| 38 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 39 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 40 | [Gullveig](http://twitter.com/search?q=Gullveig) | N/A |
-| 41 | [Vaughan Mills](http://twitter.com/search?q=Vaughan+Mills) | N/A |
-| 42 | [Samoa Joe](http://twitter.com/search?q=Samoa+Joe) | Samoa Joe is a professional wrestler who is currently signed to WWE. His real name is Nuufolau Joel Seanoa and he is known for his hard-hitting style and high-impact moves. The name Samoa Joe comes from his Samoan heritage, as well as the fact that he was born in California, which is sometimes referred to as the "Island of Samoa". |
-| 43 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 44 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 45 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
-| 46 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 47 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 48 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 49 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
-| 50 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 8 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 9 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
+| 10 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 11 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 12 | [#BHM2023](http://twitter.com/search?q=%23BHM2023) | N/A |
+| 13 | [Hinshaw](http://twitter.com/search?q=Hinshaw) | N/A |
+| 14 | [#MisheardLyrics](http://twitter.com/search?q=%23MisheardLyrics) | N/A |
+| 15 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
+| 16 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 17 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 18 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 19 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 20 | [Alek](http://twitter.com/search?q=Alek) | N/A |
+| 21 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 22 | [Noirs](http://twitter.com/search?q=Noirs) | N/A |
+| 23 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 24 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 25 | [Koloko](http://twitter.com/search?q=Koloko) | N/A |
+| 26 | [Amira Elghawaby](http://twitter.com/search?q=Amira+Elghawaby) | N/A |
+| 27 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
+| 28 | [Sandin](http://twitter.com/search?q=Sandin) | N/A |
+| 29 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 30 | [John Herdman](http://twitter.com/search?q=John+Herdman) | N/A |
+| 31 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 32 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 33 | [Dominic Barton](http://twitter.com/search?q=Dominic+Barton) | N/A |
+| 34 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 35 | [Samoa Joe](http://twitter.com/search?q=Samoa+Joe) | Samoa Joe is a professional wrestler who is currently signed to WWE. His real name is Nuufolau Joel Seanoa and he is known for his hard-hitting style and high-impact moves. The name Samoa Joe comes from his Samoan heritage, as well as the fact that he was born in California, which is sometimes referred to as the "Island of Samoa". |
+| 36 | [Vaughan Mills](http://twitter.com/search?q=Vaughan+Mills) | N/A |
+| 37 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 38 | [Quebec](http://twitter.com/search?q=Quebec) | N/A |
+| 39 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 40 | [Joy Division](http://twitter.com/search?q=Joy+Division) | N/A |
+| 41 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 42 | [Candice](http://twitter.com/search?q=Candice) | N/A |
+| 43 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 44 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 45 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 46 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 47 | [Michael Finlay](http://twitter.com/search?q=Michael+Finlay) | N/A |
+| 48 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
+| 49 | [Connor Bedard](http://twitter.com/search?q=Connor+Bedard) | Connor Bedard is a Canadian ice hockey player who currently plays for the Regina Pats of the Western Hockey League. He was selected first overall in the 2020 WHL Bantam Draft. The name Connor Bedard is derived from the Irish surname "O'Bedard," which means "descendant of Bede." |
+| 50 | [Bunts](http://twitter.com/search?q=Bunts) | N/A |
 
 
 

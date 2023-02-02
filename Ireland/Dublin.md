@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-02-02 05:15:50 UTC`
+📆 Last Updated: `2023-02-02 06:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [#StBrigidsDay](http://twitter.com/search?q=%23StBrigidsDay) | N/A |
 | 2 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 5 | [#Imbolc](http://twitter.com/search?q=%23Imbolc) | N/A |
-| 6 | [#MUNNFO](http://twitter.com/search?q=%23MUNNFO) | N/A |
-| 7 | [#lafheilebride](http://twitter.com/search?q=%23lafheilebride) | N/A |
+| 3 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 4 | [#Imbolc](http://twitter.com/search?q=%23Imbolc) | N/A |
+| 5 | [#MUNNFO](http://twitter.com/search?q=%23MUNNFO) | N/A |
+| 6 | [#lafheilebride](http://twitter.com/search?q=%23lafheilebride) | N/A |
+| 7 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
 | 8 | [Spring](http://twitter.com/search?q=Spring) | N/A |
 | 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 | 10 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
@@ -34,11 +34,11 @@ This is top 50 for [Ireland](</Ireland>)
 | 17 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
 | 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 19 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 20 | [croke park](http://twitter.com/search?q=croke+park) | N/A |
-| 21 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 22 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
-| 23 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 24 | [Lads](http://twitter.com/search?q=Lads) | N/A |
+| 20 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 21 | [St Patrick](http://twitter.com/search?q=St+Patrick) | N/A |
+| 22 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 23 | [Lads](http://twitter.com/search?q=Lads) | N/A |
+| 24 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
 | 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 26 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
 | 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
@@ -49,18 +49,18 @@ This is top 50 for [Ireland](</Ireland>)
 | 32 | [national dialogue](http://twitter.com/search?q=national+dialogue) | N/A |
 | 33 | [leo varadkar](http://twitter.com/search?q=leo+varadkar) | N/A |
 | 34 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 35 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
-| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 37 | [Kitty Holland](http://twitter.com/search?q=Kitty+Holland) | N/A |
-| 38 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
-| 39 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 40 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 35 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 36 | [Tammy](http://twitter.com/search?q=Tammy) | N/A |
+| 37 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 38 | [Kitty Holland](http://twitter.com/search?q=Kitty+Holland) | N/A |
+| 39 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
+| 40 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
 | 41 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 42 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
 | 43 | [gold medal awards](http://twitter.com/search?q=gold+medal+awards) | N/A |
 | 44 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 45 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 46 | [gript](http://twitter.com/search?q=gript) | N/A |
+| 45 | [gript](http://twitter.com/search?q=gript) | N/A |
+| 46 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
 | 47 | [1st of February](http://twitter.com/search?q=1st+of+February) | N/A |
 | 48 | [fergal](http://twitter.com/search?q=fergal) | N/A |
 | 49 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-02-02 05:15:44 UTC`
+📆 Last Updated: `2023-02-02 06:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,45 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [#EliminaciónMixta](http://twitter.com/search?q=%23Eliminaci%c3%b3nMixta) | N/A |
 | 2 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 3 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
-| 4 | [Baeza](http://twitter.com/search?q=Baeza) | N/A |
-| 5 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
-| 6 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
-| 7 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 8 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 9 | [Tzasna](http://twitter.com/search?q=Tzasna) | N/A |
-| 10 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
-| 11 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
-| 12 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 13 | [José Saturnino Cardozo](http://twitter.com/search?q=Jos%c3%a9+Saturnino+Cardozo) | N/A |
-| 14 | [Fogel](http://twitter.com/search?q=Fogel) | N/A |
-| 15 | [Lucas Cavallini](http://twitter.com/search?q=Lucas+Cavallini) | N/A |
-| 16 | [Josué](http://twitter.com/search?q=Josu%c3%a9) | N/A |
-| 17 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 18 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 19 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 20 | [La Ley](http://twitter.com/search?q=La+Ley) | N/A |
-| 21 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 22 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 4 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
+| 5 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 6 | [Santiago Ormeño](http://twitter.com/search?q=Santiago+Orme%c3%b1o) | N/A |
+| 7 | [Santiago Ormeño](http://twitter.com/search?q=Santiago+Orme%c3%b1o) | N/A |
+| 8 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
+| 9 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
+| 10 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
+| 11 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 12 | [Baeza](http://twitter.com/search?q=Baeza) | N/A |
+| 13 | [Tzasna](http://twitter.com/search?q=Tzasna) | N/A |
+| 14 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 15 | [José Saturnino Cardozo](http://twitter.com/search?q=Jos%c3%a9+Saturnino+Cardozo) | N/A |
+| 16 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
+| 17 | [Lucas Cavallini](http://twitter.com/search?q=Lucas+Cavallini) | N/A |
+| 18 | [Fogel](http://twitter.com/search?q=Fogel) | N/A |
+| 19 | [Josué](http://twitter.com/search?q=Josu%c3%a9) | N/A |
+| 20 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 21 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 22 | [La Ley](http://twitter.com/search?q=La+Ley) | N/A |
 | 23 | [Azcárraga](http://twitter.com/search?q=Azc%c3%a1rraga) | N/A |
-| 24 | [Alondra](http://twitter.com/search?q=Alondra) | N/A |
-| 25 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 26 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 28 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
-| 29 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
-| 30 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 31 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
-| 32 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
-| 33 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 34 | [CNDH](http://twitter.com/search?q=CNDH) | N/A |
-| 35 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
-| 36 | [Maxine Woodside](http://twitter.com/search?q=Maxine+Woodside) | N/A |
-| 37 | [Chilpancingo](http://twitter.com/search?q=Chilpancingo) | N/A |
-| 38 | [#JesusEnUnife](http://twitter.com/search?q=%23JesusEnUnife) | N/A |
-| 39 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 40 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
-| 41 | [#ApuestaMaestra](http://twitter.com/search?q=%23ApuestaMaestra) | N/A |
-| 42 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
-| 43 | [#cometaverde](http://twitter.com/search?q=%23cometaverde) | N/A |
-| 44 | [#LaBallena](http://twitter.com/search?q=%23LaBallena) | N/A |
-| 45 | [#Ajolote](http://twitter.com/search?q=%23Ajolote) | N/A |
-| 46 | [#MasAccionMasDiversion](http://twitter.com/search?q=%23MasAccionMasDiversion) | N/A |
-| 47 | [#JoaquinBondoni](http://twitter.com/search?q=%23JoaquinBondoni) | N/A |
-| 48 | [#OposicionTotalmenteDerrotada](http://twitter.com/search?q=%23OposicionTotalmenteDerrotada) | N/A |
+| 24 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 25 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
+| 26 | [SEDENA](http://twitter.com/search?q=SEDENA) | N/A |
+| 27 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
+| 28 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 29 | [Santander](http://twitter.com/search?q=Santander) | N/A |
+| 30 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
+| 31 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
+| 32 | [CNDH](http://twitter.com/search?q=CNDH) | N/A |
+| 33 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
+| 34 | [#cometaverde](http://twitter.com/search?q=%23cometaverde) | N/A |
+| 35 | [#JesusEnUnife](http://twitter.com/search?q=%23JesusEnUnife) | N/A |
+| 36 | [#ApuestaMaestra](http://twitter.com/search?q=%23ApuestaMaestra) | N/A |
+| 37 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
+| 38 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
+| 39 | [#Tamales](http://twitter.com/search?q=%23Tamales) | N/A |
+| 40 | [#LaBallena](http://twitter.com/search?q=%23LaBallena) | N/A |
+| 41 | [#Ajolote](http://twitter.com/search?q=%23Ajolote) | N/A |
+| 42 | [#JoaquinBondoni](http://twitter.com/search?q=%23JoaquinBondoni) | N/A |
 
 
 

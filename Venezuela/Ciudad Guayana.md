@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-02-02 05:15:46 UTC`
+📆 Last Updated: `2023-02-02 06:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 9 | [encuesta abc](http://twitter.com/search?q=encuesta+abc) | N/A |
 | 10 | [Marlene](http://twitter.com/search?q=Marlene) | Marlene is a female given name of German origin. It is derived from the name Maria Magdalena, which means "of Magdala". The name is often associated with the 1920s German actress Marlene Dietrich. In English, it can be translated to mean "beloved" or "star of the sea". |
 | 11 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
-| 12 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 13 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 14 | [Inces](http://twitter.com/search?q=Inces) | N/A |
-| 15 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
-| 16 | [General del Pueblo Soberano](http://twitter.com/search?q=General+del+Pueblo+Soberano) | N/A |
-| 17 | [Miguel Pérez Abad](http://twitter.com/search?q=Miguel+P%c3%a9rez+Abad) | N/A |
-| 18 | [Roland Carreño](http://twitter.com/search?q=Roland+Carre%c3%b1o) | N/A |
-| 19 | [cecilio acosta](http://twitter.com/search?q=cecilio+acosta) | N/A |
+| 12 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 13 | [Inces](http://twitter.com/search?q=Inces) | N/A |
+| 14 | [guerra federal](http://twitter.com/search?q=guerra+federal) | N/A |
+| 15 | [General del Pueblo Soberano](http://twitter.com/search?q=General+del+Pueblo+Soberano) | N/A |
+| 16 | [Miguel Pérez Abad](http://twitter.com/search?q=Miguel+P%c3%a9rez+Abad) | N/A |
+| 17 | [Roland Carreño](http://twitter.com/search?q=Roland+Carre%c3%b1o) | N/A |
+| 18 | [cecilio acosta](http://twitter.com/search?q=cecilio+acosta) | N/A |
+| 19 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
 | 20 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 21 | [Charles Barry](http://twitter.com/search?q=Charles+Barry) | N/A |
-| 22 | [Banco Bicentenario](http://twitter.com/search?q=Banco+Bicentenario) | N/A |
-| 23 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 24 | [rafael orozco](http://twitter.com/search?q=rafael+orozco) | N/A |
-| 25 | [Calixto Ortega](http://twitter.com/search?q=Calixto+Ortega) | N/A |
-| 26 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 21 | [Banco Bicentenario](http://twitter.com/search?q=Banco+Bicentenario) | N/A |
+| 22 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 23 | [rafael orozco](http://twitter.com/search?q=rafael+orozco) | N/A |
+| 24 | [Calixto Ortega](http://twitter.com/search?q=Calixto+Ortega) | N/A |
+| 25 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 26 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
 | 27 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
 | 28 | [Danry](http://twitter.com/search?q=Danry) | N/A |
 | 29 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
 | 30 | [Flash](http://twitter.com/search?q=Flash) | N/A |
 | 31 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 32 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
-| 33 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 34 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 35 | [Las Amazonas](http://twitter.com/search?q=Las+Amazonas) | N/A |
-| 36 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 37 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 38 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 39 | [Rinconada](http://twitter.com/search?q=Rinconada) | N/A |
-| 40 | [Jesús Yerena](http://twitter.com/search?q=Jes%c3%bas+Yerena) | N/A |
-| 41 | [Carlos Rivero](http://twitter.com/search?q=Carlos+Rivero) | N/A |
-| 42 | [Marieta Santana](http://twitter.com/search?q=Marieta+Santana) | N/A |
-| 43 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
-| 44 | [Marianela Salazar](http://twitter.com/search?q=Marianela+Salazar) | N/A |
-| 45 | [Ernesto Villegas](http://twitter.com/search?q=Ernesto+Villegas) | N/A |
-| 46 | [María Corina](http://twitter.com/search?q=Mar%c3%ada+Corina) | N/A |
-| 47 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
-| 48 | [Corina Azopardo](http://twitter.com/search?q=Corina+Azopardo) | N/A |
+| 33 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 34 | [Las Amazonas](http://twitter.com/search?q=Las+Amazonas) | N/A |
+| 35 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 36 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 37 | [Rinconada](http://twitter.com/search?q=Rinconada) | N/A |
+| 38 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 39 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 40 | [Marieta Santana](http://twitter.com/search?q=Marieta+Santana) | N/A |
+| 41 | [Marianela Salazar](http://twitter.com/search?q=Marianela+Salazar) | N/A |
+| 42 | [Harold Castro](http://twitter.com/search?q=Harold+Castro) | Harold Castro is a Spanish name. It is derived from the Germanic elements "haral" meaning army and "wald" meaning rule. The name can be translated to mean "army ruler". |
+| 43 | [Carlos Rivero](http://twitter.com/search?q=Carlos+Rivero) | N/A |
+| 44 | [Ernesto Villegas](http://twitter.com/search?q=Ernesto+Villegas) | N/A |
+| 45 | [OPEP](http://twitter.com/search?q=OPEP) | N/A |
+| 46 | [Corina Azopardo](http://twitter.com/search?q=Corina+Azopardo) | N/A |
+| 47 | [San Antonio de Los Altos](http://twitter.com/search?q=San+Antonio+de+Los+Altos) | N/A |
+| 48 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
 
 
 
