@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-02 21:16:22 UTC`
+📆 Last Updated: `2023-02-02 22:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 2 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 3 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
-| 4 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 5 | [Licey](http://twitter.com/search?q=Licey) | N/A |
-| 6 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
-| 7 | [Jairo Asencio](http://twitter.com/search?q=Jairo+Asencio) | N/A |
-| 8 | [encuesta abc](http://twitter.com/search?q=encuesta+abc) | N/A |
-| 9 | [Bonifacio](http://twitter.com/search?q=Bonifacio) | N/A |
-| 10 | [Raúl Valdés](http://twitter.com/search?q=Ra%c3%bal+Vald%c3%a9s) | N/A |
-| 11 | [Digital 15](http://twitter.com/search?q=Digital+15) | N/A |
-| 12 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
-| 13 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 14 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
-| 15 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 16 | [#PorLa22](http://twitter.com/search?q=%23PorLa22) | N/A |
-| 17 | [Ramón Hernández](http://twitter.com/search?q=Ram%c3%b3n+Hern%c3%a1ndez) | N/A |
-| 18 | [Milton Ray Guevara](http://twitter.com/search?q=Milton+Ray+Guevara) | N/A |
-| 19 | [Caamaño](http://twitter.com/search?q=Caama%c3%b1o) | N/A |
-| 20 | [Manny García](http://twitter.com/search?q=Manny+Garc%c3%ada) | N/A |
-| 21 | [San Pedro de Macorís](http://twitter.com/search?q=San+Pedro+de+Macor%c3%ads) | N/A |
-| 22 | [#PlatanoPower](http://twitter.com/search?q=%23PlatanoPower) | N/A |
-| 23 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 24 | [Octavio](http://twitter.com/search?q=Octavio) | N/A |
-| 25 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 26 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
-| 27 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 28 | [Playa Caracoles](http://twitter.com/search?q=Playa+Caracoles) | N/A |
-| 29 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
+| 1 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 2 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
+| 3 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 4 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
+| 5 | [Jairo Asencio](http://twitter.com/search?q=Jairo+Asencio) | N/A |
+| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 7 | [Licey](http://twitter.com/search?q=Licey) | N/A |
+| 8 | [Digital 15](http://twitter.com/search?q=Digital+15) | N/A |
+| 9 | [Raúl Valdés](http://twitter.com/search?q=Ra%c3%bal+Vald%c3%a9s) | N/A |
+| 10 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 11 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
+| 12 | [Bonifacio](http://twitter.com/search?q=Bonifacio) | N/A |
+| 13 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
+| 14 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 15 | [#PorLa22](http://twitter.com/search?q=%23PorLa22) | N/A |
+| 16 | [Ramón Hernández](http://twitter.com/search?q=Ram%c3%b3n+Hern%c3%a1ndez) | N/A |
+| 17 | [Caamaño](http://twitter.com/search?q=Caama%c3%b1o) | N/A |
+| 18 | [Manny García](http://twitter.com/search?q=Manny+Garc%c3%ada) | N/A |
+| 19 | [San Pedro de Macorís](http://twitter.com/search?q=San+Pedro+de+Macor%c3%ads) | N/A |
+| 20 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 21 | [#PlatanoPower](http://twitter.com/search?q=%23PlatanoPower) | N/A |
+| 22 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 23 | [Octavio](http://twitter.com/search?q=Octavio) | N/A |
+| 24 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 25 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 26 | [playa caracoles](http://twitter.com/search?q=playa+caracoles) | N/A |
+| 27 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
+| 28 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
+| 29 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
 | 30 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
-| 31 | [Brea Frank](http://twitter.com/search?q=Brea+Frank) | N/A |
-| 32 | [Abogado](http://twitter.com/search?q=Abogado) | N/A |
-| 33 | [San Juan Bosco](http://twitter.com/search?q=San+Juan+Bosco) | N/A |
-| 34 | [Hipólito Mejía](http://twitter.com/search?q=Hip%c3%b3lito+Mej%c3%ada) | N/A |
-| 35 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 36 | [Matanzas](http://twitter.com/search?q=Matanzas) | N/A |
-| 37 | [Baní](http://twitter.com/search?q=Ban%c3%ad) | N/A |
-| 38 | [peravia](http://twitter.com/search?q=peravia) | N/A |
-| 39 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 40 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
+| 31 | [Abogado](http://twitter.com/search?q=Abogado) | N/A |
+| 32 | [Hipólito Mejía](http://twitter.com/search?q=Hip%c3%b3lito+Mej%c3%ada) | N/A |
+| 33 | [Milton Ray Guevara](http://twitter.com/search?q=Milton+Ray+Guevara) | N/A |
+| 34 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 35 | [Matanzas](http://twitter.com/search?q=Matanzas) | N/A |
+| 36 | [peravia](http://twitter.com/search?q=peravia) | N/A |
+| 37 | [Bani](http://twitter.com/search?q=Bani) | N/A |
+| 38 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
+| 39 | [Profesor](http://twitter.com/search?q=Profesor) | N/A |
+| 40 | [Brea Frank](http://twitter.com/search?q=Brea+Frank) | N/A |
 | 41 | [el seibo y duarte](http://twitter.com/search?q=el+seibo+y+duarte) | N/A |
 | 42 | [Tonton](http://twitter.com/search?q=Tonton) | N/A |
-| 43 | [Profesor](http://twitter.com/search?q=Profesor) | N/A |
-| 44 | [Hony](http://twitter.com/search?q=Hony) | N/A |
-| 45 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 46 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 47 | [San Cristobal](http://twitter.com/search?q=San+Cristobal) | N/A |
-| 48 | [Altagracia](http://twitter.com/search?q=Altagracia) | N/A |
-| 49 | [Nagua](http://twitter.com/search?q=Nagua) | N/A |
-| 50 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 43 | [Hony](http://twitter.com/search?q=Hony) | N/A |
+| 44 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 45 | [San Cristobal](http://twitter.com/search?q=San+Cristobal) | N/A |
+| 46 | [Pedernales](http://twitter.com/search?q=Pedernales) | N/A |
+| 47 | [Altagracia](http://twitter.com/search?q=Altagracia) | N/A |
+| 48 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 49 | [Velo](http://twitter.com/search?q=Velo) | N/A |
+| 50 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 
 
 

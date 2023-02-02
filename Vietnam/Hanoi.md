@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-02 21:16:49 UTC`
+📆 Last Updated: `2023-02-02 22:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 14 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
 | 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 16 | [giao](http://twitter.com/search?q=giao) | N/A |
-| 17 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 17 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
 | 18 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
 | 19 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 20 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
 | 21 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
 | 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 23 | [song phú](http://twitter.com/search?q=song+ph%c3%ba) | N/A |
-| 24 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 24 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
 | 25 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 26 | [Kiyoshi's Seeds](http://twitter.com/search?q=Kiyoshi%27s+Seeds) | N/A |
-| 27 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 28 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 29 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 30 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
-| 31 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
-| 32 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
-| 33 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 34 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
-| 35 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 36 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 37 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 38 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 39 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 41 | [Linh](http://twitter.com/search?q=Linh) | N/A |
-| 42 | [HCMC](http://twitter.com/search?q=HCMC) | N/A |
-| 43 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 44 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 45 | [thầy](http://twitter.com/search?q=th%e1%ba%a7y) | N/A |
-| 46 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
-| 47 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
-| 48 | [Quay](http://twitter.com/search?q=Quay) | N/A |
-| 49 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 50 | [Thiệt](http://twitter.com/search?q=Thi%e1%bb%87t) | N/A |
+| 26 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 27 | [kiyoshi's seeds](http://twitter.com/search?q=kiyoshi%27s+seeds) | N/A |
+| 28 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 29 | [JUNGHWAN](http://twitter.com/search?q=JUNGHWAN) | N/A |
+| 30 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 31 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
+| 32 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
+| 33 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
+| 34 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
+| 35 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
+| 36 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 37 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 38 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 39 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
+| 40 | [Hook](http://twitter.com/search?q=Hook) | N/A |
+| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 42 | [Linh](http://twitter.com/search?q=Linh) | N/A |
+| 43 | [hcmc](http://twitter.com/search?q=hcmc) | N/A |
+| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 45 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
+| 46 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 47 | [thầy](http://twitter.com/search?q=th%e1%ba%a7y) | N/A |
+| 48 | [đánh](http://twitter.com/search?q=%c4%91%c3%a1nh) | N/A |
+| 49 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
+| 50 | [Quay](http://twitter.com/search?q=Quay) | N/A |
 
 
 

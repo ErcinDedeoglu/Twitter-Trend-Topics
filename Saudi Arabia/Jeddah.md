@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-02 21:16:53 UTC`
+📆 Last Updated: `2023-02-02 22:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
-| 2 | [مودو بارو](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d9%88+%d8%a8%d8%a7%d8%b1%d9%88) | N/A |
-| 3 | [#موظف_فلسطيني_يسي_للسعوديه](http://twitter.com/search?q=%23%d9%85%d9%88%d8%b8%d9%81_%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a_%d9%8a%d8%b3%d9%8a_%d9%84%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 4 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 5 | [علي المدرب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8) | N/A |
+| 1 | [الزبيدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%a8%d9%8a%d8%af%d9%8a) | N/A |
+| 2 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 3 | [نصير البسطاء](http://twitter.com/search?q=%d9%86%d8%b5%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d8%b3%d8%b7%d8%a7%d8%a1) | N/A |
+| 4 | [نجران](http://twitter.com/search?q=%d9%86%d8%ac%d8%b1%d8%a7%d9%86) | N/A |
+| 5 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
 | 6 | [الموسم الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
 | 7 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 8 | [#الاهلي_الاخدود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%a7%d8%ae%d8%af%d9%88%d8%af) | #الاهلي_الاخدود is a hashtag used by fans of Al Ahly, an Egyptian football club. It translates to "Al Ahly Forever" in English. |
-| 9 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 10 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
-| 11 | [#سعودي_ايدول](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%8a%d8%af%d9%88%d9%84) | #سعودي_ايدول is a hashtag used by Saudi Arabian citizens to express their pride in their country and its achievements. In English, it translates to "Saudi Arabia is Awesome". |
+| 8 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 9 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 10 | [#البزنس58](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b358) | N/A |
+| 11 | [#الاهلي_الاخدود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%a7%d8%ae%d8%af%d9%88%d8%af) | #الاهلي_الاخدود is a hashtag used by fans of Al Ahly, an Egyptian football club. It translates to "Al Ahly Forever" in English. |
 | 12 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 13 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 14 | [فهد الحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | فهد الحمد is an Arabic name, which translates to "Fahd Al-Hamd" in English. It is composed of two parts: Fahd, which means "lion" and Al-Hamd, which means "praise". |
-| 15 | [الغاء الهدف](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%a1+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
-| 16 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
-| 17 | [الحنفوش](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%86%d9%81%d9%88%d8%b4) | الحنفوش is an Arabic word that means "the wisecracker". It is used to describe someone who makes jokes or sarcastic remarks. |
-| 18 | [موسي نضاو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%86%d8%b6%d8%a7%d9%88) | N/A |
-| 19 | [فهد حمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%ad%d9%85%d8%af) | N/A |
-| 20 | [نصير البسطاء](http://twitter.com/search?q=%d9%86%d8%b5%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d8%b3%d8%b7%d8%a7%d8%a1) | N/A |
-| 21 | [الجمعه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
-| 22 | [عثمان باتو](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d8%a7%d8%aa%d9%88) | N/A |
-| 23 | [زياد](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af) | زياد (pronounced zee-yad) is an Arabic word meaning "increase" or "more". It can also be used to refer to something that is greater in quantity or size. |
-| 24 | [عبدالباسط](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7) | N/A |
-| 25 | [الهدف الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 26 | [يزيد المواجع](http://twitter.com/search?q=%d9%8a%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%ac%d8%b9) | N/A |
-| 27 | [دوري روشن](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%b1%d9%88%d8%b4%d9%86) | N/A |
-| 28 | [حصه السيف](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d9%81) | N/A |
-| 29 | [نجران](http://twitter.com/search?q=%d9%86%d8%ac%d8%b1%d8%a7%d9%86) | N/A |
-| 30 | [فرانك كوم](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83+%d9%83%d9%88%d9%85) | N/A |
-| 31 | [الدور الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 32 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 33 | [يوسف عنبر](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%b9%d9%86%d8%a8%d8%b1) | N/A |
-| 34 | [كاكا](http://twitter.com/search?q=%d9%83%d8%a7%d9%83%d8%a7) | N/A |
-| 35 | [الشوون الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 13 | [#سعودي_ايدول](http://twitter.com/search?q=%23%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%8a%d8%af%d9%88%d9%84) | #سعودي_ايدول is a hashtag used by Saudi Arabian citizens to express their pride in their country and its achievements. In English, it translates to "Saudi Arabia is Awesome". |
+| 14 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 15 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
+| 16 | [الغاء الهدف](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a7%d8%a1+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
+| 17 | [فهد الحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | فهد الحمد is an Arabic name, which translates to "Fahd Al-Hamd" in English. It is composed of two parts: Fahd, which means "lion" and Al-Hamd, which means "praise". |
+| 18 | [الجمعه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
+| 19 | [ماركو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%83%d9%88) | N/A |
+| 20 | [موسي نضاو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%86%d8%b6%d8%a7%d9%88) | N/A |
+| 21 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
+| 22 | [الحنفوش](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%86%d9%81%d9%88%d8%b4) | الحنفوش is an Arabic word that means "the wisecracker". It is used to describe someone who makes jokes or sarcastic remarks. |
+| 23 | [قول الثاني](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 24 | [غابرييل](http://twitter.com/search?q=%d8%ba%d8%a7%d8%a8%d8%b1%d9%8a%d9%8a%d9%84) | N/A |
+| 25 | [حصه السيف](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d9%81) | N/A |
+| 26 | [فهد حمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%ad%d9%85%d8%af) | N/A |
+| 27 | [فرانك كوم](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83+%d9%83%d9%88%d9%85) | N/A |
+| 28 | [دوري روشن](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%b1%d9%88%d8%b4%d9%86) | N/A |
+| 29 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 30 | [الهدف الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 31 | [فيصل بن طلال](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a8%d9%86+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
+| 32 | [زياد](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af) | زياد (pronounced zee-yad) is an Arabic word meaning "increase" or "more". It can also be used to refer to something that is greater in quantity or size. |
+| 33 | [عبدالباسط](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7) | N/A |
+| 34 | [عثمان باتو](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d8%a7%d8%aa%d9%88) | N/A |
+| 35 | [يوسف عنبر](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%b9%d9%86%d8%a8%d8%b1) | N/A |
 | 36 | [الدرجه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 37 | [هيثم عسيري](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | هيثم عسيري is a male Arabic name. It is composed of two elements: هيثم, which means "generous" or "benevolent", and عسيري, which means "enduring". In English, the name could be translated as "Generous and Enduring". |
-| 38 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 39 | [بيرلو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%84%d9%88) | N/A |
-| 40 | [الزهراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 41 | [الزبيدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%a8%d9%8a%d8%af%d9%8a) | N/A |
+| 37 | [الدور الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 38 | [لمدريد](http://twitter.com/search?q=%d9%84%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 39 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 40 | [المباريات القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 41 | [الشوون الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
 | 42 | [علي التحكيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85) | N/A |
 | 43 | [عثمان باري](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d8%a7%d8%b1%d9%8a) | N/A |
-| 44 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 45 | [محمد الربيعي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
-| 46 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
+| 44 | [كاس ايطاليا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 45 | [يزيد المواجع](http://twitter.com/search?q=%d9%8a%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%ac%d8%b9) | N/A |
+| 46 | [محمد الربيعي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
 | 47 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
-| 48 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 49 | [المباريات القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 50 | [المسيليم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d9%84%d9%8a%d9%85) | N/A |
+| 48 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
+| 49 | [هيثم عسيري](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | هيثم عسيري is a male Arabic name. It is composed of two elements: هيثم, which means "generous" or "benevolent", and عسيري, which means "enduring". In English, the name could be translated as "Generous and Enduring". |
+| 50 | [الزهراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
 
 
 

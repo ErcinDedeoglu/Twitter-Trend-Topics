@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-02-02 21:17:16 UTC`
+📆 Last Updated: `2023-02-02 22:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for Malaysia
 | 11 | [#SugarRushRide1stWin](http://twitter.com/search?q=%23SugarRushRide1stWin) | N/A |
 | 12 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 13 | [TAEYEON NIGHTS INTO DAYS](http://twitter.com/search?q=TAEYEON+NIGHTS+INTO+DAYS) | N/A |
-| 14 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 15 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 16 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
-| 17 | [Lady of Mercy](http://twitter.com/search?q=Lady+of+Mercy) | N/A |
-| 18 | [dUCkies](http://twitter.com/search?q=dUCkies) | N/A |
-| 19 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 20 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 21 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
-| 22 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 23 | [MACC](http://twitter.com/search?q=MACC) | N/A |
-| 24 | [KIM DOYOUNG](http://twitter.com/search?q=KIM+DOYOUNG) | N/A |
-| 25 | [mirae](http://twitter.com/search?q=mirae) | N/A |
-| 26 | [sinb](http://twitter.com/search?q=sinb) | N/A |
-| 27 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 28 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 29 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 30 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 31 | [menu rahmah](http://twitter.com/search?q=menu+rahmah) | N/A |
-| 32 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 33 | [Dex heller](http://twitter.com/search?q=Dex+heller) | N/A |
-| 34 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 35 | [Bringer of Death](http://twitter.com/search?q=Bringer+of+Death) | N/A |
-| 36 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
-| 37 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 38 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 39 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 40 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
-| 41 | [Bersatu](http://twitter.com/search?q=Bersatu) | N/A |
-| 42 | [inseong](http://twitter.com/search?q=inseong) | N/A |
-| 43 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [taetae](http://twitter.com/search?q=taetae) | Taetae is a Korean term of endearment used to refer to someone close, such as a family member, friend, or significant other. It is similar to the English terms "honey" or "sweetheart". |
-| 46 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 47 | [THANK U](http://twitter.com/search?q=THANK+U) | N/A |
-| 48 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 49 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 14 | [dUCkies](http://twitter.com/search?q=dUCkies) | N/A |
+| 15 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
+| 16 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 17 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
+| 18 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 19 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 20 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
+| 21 | [MACC](http://twitter.com/search?q=MACC) | N/A |
+| 22 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 23 | [KIM DOYOUNG](http://twitter.com/search?q=KIM+DOYOUNG) | N/A |
+| 24 | [mirae](http://twitter.com/search?q=mirae) | N/A |
+| 25 | [sinb](http://twitter.com/search?q=sinb) | N/A |
+| 26 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 27 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 28 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 29 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 30 | [menu rahmah](http://twitter.com/search?q=menu+rahmah) | N/A |
+| 31 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 32 | [Dex heller](http://twitter.com/search?q=Dex+heller) | N/A |
+| 33 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 34 | [Bringer of Death](http://twitter.com/search?q=Bringer+of+Death) | N/A |
+| 35 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
+| 36 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 37 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 38 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 39 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
+| 40 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
+| 41 | [Inseong](http://twitter.com/search?q=Inseong) | N/A |
+| 42 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [taetae](http://twitter.com/search?q=taetae) | Taetae is a Korean term of endearment used to refer to someone close, such as a family member, friend, or significant other. It is similar to the English terms "honey" or "sweetheart". |
+| 45 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 46 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 47 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 48 | [Praying](http://twitter.com/search?q=Praying) | Praying is the act of communicating with a higher power, such as God, in order to express gratitude, ask for guidance, or seek forgiveness. It is an important part of many religions and spiritual practices. |
+| 49 | [THANK U](http://twitter.com/search?q=THANK+U) | N/A |
 | 50 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
 
 

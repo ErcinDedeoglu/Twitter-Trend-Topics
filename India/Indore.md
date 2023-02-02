@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-02-02 21:16:59 UTC`
+📆 Last Updated: `2023-02-02 22:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,48 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#KVishwanath](http://twitter.com/search?q=%23KVishwanath) | N/A |
 | 2 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
-| 3 | [#HBDSilambarasanTR](http://twitter.com/search?q=%23HBDSilambarasanTR) | N/A |
-| 4 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 5 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
-| 6 | [Om Shanthi](http://twitter.com/search?q=Om+Shanthi) | N/A |
-| 7 | [INVINCIBLE SHIV THAKARE](http://twitter.com/search?q=INVINCIBLE+SHIV+THAKARE) | N/A |
-| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 9 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 10 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
+| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 4 | [#HBDSilambarasanTR](http://twitter.com/search?q=%23HBDSilambarasanTR) | N/A |
+| 5 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
+| 6 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 8 | [Om Shanthi](http://twitter.com/search?q=Om+Shanthi) | N/A |
+| 9 | [INVINCIBLE SHIV THAKARE](http://twitter.com/search?q=INVINCIBLE+SHIV+THAKARE) | N/A |
+| 10 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 11 | [Eagle](http://twitter.com/search?q=Eagle) | N/A |
 | 12 | [Matchless Sushant](http://twitter.com/search?q=Matchless+Sushant) | N/A |
-| 13 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 14 | [Black Friday](http://twitter.com/search?q=Black+Friday) | N/A |
-| 15 | [AUDIENCE LOVE SHILPA SHINDE](http://twitter.com/search?q=AUDIENCE+LOVE+SHILPA+SHINDE) | N/A |
-| 16 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 17 | [Wired](http://twitter.com/search?q=Wired) | N/A |
-| 18 | [REIGNING ERA OF SUMBUL](http://twitter.com/search?q=REIGNING+ERA+OF+SUMBUL) | N/A |
-| 19 | [इस्लाम नगर](http://twitter.com/search?q=%e0%a4%87%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%a8%e0%a4%97%e0%a4%b0) | N/A |
-| 20 | [#NammaSatham](http://twitter.com/search?q=%23NammaSatham) | N/A |
-| 21 | [#SunMaahi_TheEP](http://twitter.com/search?q=%23SunMaahi_TheEP) | N/A |
-| 22 | [#PawanKalyanOnUnstoppable](http://twitter.com/search?q=%23PawanKalyanOnUnstoppable) | N/A |
-| 23 | [#HBDSTR](http://twitter.com/search?q=%23HBDSTR) | N/A |
-| 24 | [#ArchanaGautam](http://twitter.com/search?q=%23ArchanaGautam) | N/A |
-| 25 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
-| 26 | [#SumbulTouqeerKhan](http://twitter.com/search?q=%23SumbulTouqeerKhan) | N/A |
-| 27 | [#PawanKalyanOnAHA](http://twitter.com/search?q=%23PawanKalyanOnAHA) | N/A |
-| 28 | [#HappyBirthdaySTR](http://twitter.com/search?q=%23HappyBirthdaySTR) | N/A |
-| 29 | [#என்றென்றும்_அண்ணா](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%af%86%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%85%e0%ae%a3%e0%af%8d%e0%ae%a3%e0%ae%be) | N/A |
-| 30 | [#UnstoppableWithNBK](http://twitter.com/search?q=%23UnstoppableWithNBK) | N/A |
-| 31 | [#Thalapathy67TitleReveal](http://twitter.com/search?q=%23Thalapathy67TitleReveal) | N/A |
-| 32 | [#चौकीदार_ही_चोर_है](http://twitter.com/search?q=%23%e0%a4%9a%e0%a5%8c%e0%a4%95%e0%a5%80%e0%a4%a6%e0%a4%be%e0%a4%b0_%e0%a4%b9%e0%a5%80_%e0%a4%9a%e0%a5%8b%e0%a4%b0_%e0%a4%b9%e0%a5%88) | "#चौकीदार_ही_चोर_है" is a Hindi proverb which translates to "The watchman is the thief". It is used to express the idea that those in positions of authority are often the ones who are most likely to abuse their power. |
-| 33 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 34 | [#MCStan𓃵](http://twitter.com/search?q=%23MCStan%f0%93%83%b5) | N/A |
-| 35 | [#11YearsOfPrinceSKism](http://twitter.com/search?q=%2311YearsOfPrinceSKism) | N/A |
-| 36 | [#BBKingMCStan](http://twitter.com/search?q=%23BBKingMCStan) | N/A |
+| 13 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 14 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 15 | [Wired](http://twitter.com/search?q=Wired) | N/A |
+| 16 | [REIGNING ERA OF SUMBUL](http://twitter.com/search?q=REIGNING+ERA+OF+SUMBUL) | N/A |
+| 17 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
+| 18 | [#RIPVishwanathGaru](http://twitter.com/search?q=%23RIPVishwanathGaru) | N/A |
+| 19 | [#NammaSatham](http://twitter.com/search?q=%23NammaSatham) | N/A |
+| 20 | [#PawanKalyanOnUnstoppable](http://twitter.com/search?q=%23PawanKalyanOnUnstoppable) | N/A |
+| 21 | [#HBDSTR](http://twitter.com/search?q=%23HBDSTR) | N/A |
+| 22 | [#ArchanaGautam](http://twitter.com/search?q=%23ArchanaGautam) | N/A |
+| 23 | [#SumbulTouqeerKhan](http://twitter.com/search?q=%23SumbulTouqeerKhan) | N/A |
+| 24 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
+| 25 | [#UnstoppableWithNBK](http://twitter.com/search?q=%23UnstoppableWithNBK) | N/A |
+| 26 | [#HappyBirthdaySTR](http://twitter.com/search?q=%23HappyBirthdaySTR) | N/A |
+| 27 | [#என்றென்றும்_அண்ணா](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%af%86%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%85%e0%ae%a3%e0%af%8d%e0%ae%a3%e0%ae%be) | N/A |
+| 28 | [#PawanKalyanOnAHA](http://twitter.com/search?q=%23PawanKalyanOnAHA) | N/A |
+| 29 | [#चौकीदार_ही_चोर_है](http://twitter.com/search?q=%23%e0%a4%9a%e0%a5%8c%e0%a4%95%e0%a5%80%e0%a4%a6%e0%a4%be%e0%a4%b0_%e0%a4%b9%e0%a5%80_%e0%a4%9a%e0%a5%8b%e0%a4%b0_%e0%a4%b9%e0%a5%88) | "#चौकीदार_ही_चोर_है" is a Hindi proverb which translates to "The watchman is the thief". It is used to express the idea that those in positions of authority are often the ones who are most likely to abuse their power. |
+| 30 | [#Thalapathy67TitleReveal](http://twitter.com/search?q=%23Thalapathy67TitleReveal) | N/A |
+| 31 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 32 | [#MCStan𓃵](http://twitter.com/search?q=%23MCStan%f0%93%83%b5) | N/A |
+| 33 | [#11YearsOfPrinceSKism](http://twitter.com/search?q=%2311YearsOfPrinceSKism) | N/A |
+| 34 | [#BBKingMCStan](http://twitter.com/search?q=%23BBKingMCStan) | N/A |
+| 35 | [#NimritKaurAhluwalia](http://twitter.com/search?q=%23NimritKaurAhluwalia) | N/A |
+| 36 | [#ShivIsTheBoss](http://twitter.com/search?q=%23ShivIsTheBoss) | N/A |
 | 37 | [#ShivThakare𓃵](http://twitter.com/search?q=%23ShivThakare%f0%93%83%b5) | N/A |
-| 38 | [#TereIshqMeinGhayal](http://twitter.com/search?q=%23TereIshqMeinGhayal) | N/A |
-| 39 | [#PathToGod](http://twitter.com/search?q=%23PathToGod) | N/A |
-| 40 | [#ShivIsTheBoss](http://twitter.com/search?q=%23ShivIsTheBoss) | N/A |
-| 41 | [#SidharthKiaraWedding](http://twitter.com/search?q=%23SidharthKiaraWedding) | N/A |
-| 42 | [#WriterPadmabhushan](http://twitter.com/search?q=%23WriterPadmabhushan) | N/A |
-| 43 | [#11YearsOfDULQUERISM](http://twitter.com/search?q=%2311YearsOfDULQUERISM) | N/A |
-| 44 | [#Mandali](http://twitter.com/search?q=%23Mandali) | N/A |
-| 45 | [#BBKingShiv](http://twitter.com/search?q=%23BBKingShiv) | N/A |
-| 46 | [#NimritKaurAhluwalia](http://twitter.com/search?q=%23NimritKaurAhluwalia) | N/A |
-| 47 | [#Thalapathy67Promo](http://twitter.com/search?q=%23Thalapathy67Promo) | N/A |
-| 48 | [#OnePlusBudsPro2](http://twitter.com/search?q=%23OnePlusBudsPro2) | N/A |
-| 49 | [#WahajAli](http://twitter.com/search?q=%23WahajAli) | N/A |
+| 38 | [#WriterPadmabhushan](http://twitter.com/search?q=%23WriterPadmabhushan) | N/A |
+| 39 | [#Mandali](http://twitter.com/search?q=%23Mandali) | N/A |
+| 40 | [#BBKingShiv](http://twitter.com/search?q=%23BBKingShiv) | N/A |
+| 41 | [#OnePlusBudsPro2](http://twitter.com/search?q=%23OnePlusBudsPro2) | N/A |
+| 42 | [#WahajAli](http://twitter.com/search?q=%23WahajAli) | N/A |
+| 43 | [#SAvIND](http://twitter.com/search?q=%23SAvIND) | N/A |
+| 44 | [#PriyankaPaltan](http://twitter.com/search?q=%23PriyankaPaltan) | N/A |
 
 
 

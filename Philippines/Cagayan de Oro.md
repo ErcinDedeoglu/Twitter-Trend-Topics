@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-02 21:16:48 UTC`
+📆 Last Updated: `2023-02-02 22:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [#MCIMulingPaghaharap](http://twitter.com/search?q=%23MCIMulingPaghaharap) | N/A |
 | 4 | [#DLCleaners](http://twitter.com/search?q=%23DLCleaners) | N/A |
-| 5 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 6 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
+| 5 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
+| 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 7 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
 | 8 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 9 | [sila idol pala](http://twitter.com/search?q=sila+idol+pala) | N/A |
-| 10 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
+| 9 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
+| 10 | [SILA IDOL PALA](http://twitter.com/search?q=SILA+IDOL+PALA) | SILA IDOL PALA is a Malaysian phrase that translates to "You are my idol". It is often used as a term of endearment or admiration for someone. |
 | 11 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 12 | [DRINKSMOKE](http://twitter.com/search?q=DRINKSMOKE) | N/A |
-| 13 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
-| 14 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 15 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
-| 16 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
-| 17 | [WALANG IWANAN KD](http://twitter.com/search?q=WALANG+IWANAN+KD) | N/A |
-| 18 | [SHOPEE SULIT BRANDS SALE 2DAY](http://twitter.com/search?q=SHOPEE+SULIT+BRANDS+SALE+2DAY) | N/A |
-| 19 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
-| 20 | [donny for mega man](http://twitter.com/search?q=donny+for+mega+man) | N/A |
-| 21 | [MICTEST](http://twitter.com/search?q=MICTEST) | N/A |
-| 22 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 23 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
-| 24 | [alamat jamming with rappler](http://twitter.com/search?q=alamat+jamming+with+rappler) | N/A |
-| 25 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
+| 12 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
+| 13 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 14 | [walang iwanan kd](http://twitter.com/search?q=walang+iwanan+kd) | N/A |
+| 15 | [SHOPEE SULIT BRANDS SALE 2DAY](http://twitter.com/search?q=SHOPEE+SULIT+BRANDS+SALE+2DAY) | N/A |
+| 16 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 17 | [donny for mega man](http://twitter.com/search?q=donny+for+mega+man) | N/A |
+| 18 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 19 | [MICTEST](http://twitter.com/search?q=MICTEST) | N/A |
+| 20 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
+| 21 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 22 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
+| 23 | [alamat jamming with rappler](http://twitter.com/search?q=alamat+jamming+with+rappler) | N/A |
+| 24 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
+| 25 | [DARREN FOR KANNAWIDAN2023](http://twitter.com/search?q=DARREN+FOR+KANNAWIDAN2023) | N/A |
 | 26 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
-| 27 | [DARREN FOR KANNAWIDAN2023](http://twitter.com/search?q=DARREN+FOR+KANNAWIDAN2023) | N/A |
-| 28 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 29 | [Vice](http://twitter.com/search?q=Vice) | N/A |
-| 30 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
-| 31 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 32 | [4 years with kim doyoung](http://twitter.com/search?q=4+years+with+kim+doyoung) | N/A |
+| 27 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
+| 28 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
+| 29 | [WELCOME TO NYC JANENELLA](http://twitter.com/search?q=WELCOME+TO+NYC+JANENELLA) | N/A |
+| 30 | [Vice](http://twitter.com/search?q=Vice) | N/A |
+| 31 | [bellentines withdunkin](http://twitter.com/search?q=bellentines+withdunkin) | N/A |
+| 32 | [powerfuldonbelle withsmart](http://twitter.com/search?q=powerfuldonbelle+withsmart) | N/A |
 | 33 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 34 | [bellentines withdunkin](http://twitter.com/search?q=bellentines+withdunkin) | N/A |
-| 35 | [powerfuldonbelle withsmart](http://twitter.com/search?q=powerfuldonbelle+withsmart) | N/A |
-| 36 | [Dirty Linen](http://twitter.com/search?q=Dirty+Linen) | N/A |
-| 37 | [Superiority](http://twitter.com/search?q=Superiority) | N/A |
-| 38 | [may pogi na sa pinas](http://twitter.com/search?q=may+pogi+na+sa+pinas) | N/A |
-| 39 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 40 | [d2 choreograstell](http://twitter.com/search?q=d2+choreograstell) | N/A |
-| 41 | [bss highlight medley](http://twitter.com/search?q=bss+highlight+medley) | N/A |
-| 42 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 43 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 44 | [Angel Aquino](http://twitter.com/search?q=Angel+Aquino) | N/A |
-| 45 | [Ni-ki](http://twitter.com/search?q=Ni-ki) | N/A |
-| 46 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 47 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 48 | [together 4ever yoshi](http://twitter.com/search?q=together+4ever+yoshi) | N/A |
+| 34 | [may pogi na sa pinas](http://twitter.com/search?q=may+pogi+na+sa+pinas) | N/A |
+| 35 | [Dirty Linen](http://twitter.com/search?q=Dirty+Linen) | N/A |
+| 36 | [Superiority](http://twitter.com/search?q=Superiority) | N/A |
+| 37 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 38 | [d2 choreograstell](http://twitter.com/search?q=d2+choreograstell) | N/A |
+| 39 | [bss highlight medley](http://twitter.com/search?q=bss+highlight+medley) | N/A |
+| 40 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 41 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 42 | [Angel Aquino](http://twitter.com/search?q=Angel+Aquino) | N/A |
+| 43 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 44 | [together 4ever yoshi](http://twitter.com/search?q=together+4ever+yoshi) | N/A |
+| 45 | [Xyriel](http://twitter.com/search?q=Xyriel) | N/A |
+| 46 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 47 | [Enha](http://twitter.com/search?q=Enha) | N/A |
+| 48 | [HeeHoon](http://twitter.com/search?q=HeeHoon) | N/A |
 
 
 

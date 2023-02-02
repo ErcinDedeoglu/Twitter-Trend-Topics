@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-02-02 21:17:03 UTC`
+📆 Last Updated: `2023-02-02 22:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#SeniorBowl](http://twitter.com/search?q=%23SeniorBowl) | N/A |
 | 2 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 3 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
-| 4 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 5 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
-| 6 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
-| 7 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 8 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
-| 9 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
-| 10 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
-| 11 | [#NationalCatchersDay](http://twitter.com/search?q=%23NationalCatchersDay) | N/A |
-| 12 | [Playoff 13s](http://twitter.com/search?q=Playoff+13s) | N/A |
-| 13 | [Rees](http://twitter.com/search?q=Rees) | N/A |
+| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 4 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 5 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 6 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 7 | [$AAPL](http://twitter.com/search?q=%24AAPL) | N/A |
+| 8 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
+| 9 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
+| 10 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
+| 11 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 12 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
+| 13 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
 | 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 15 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
-| 16 | [Crumbl](http://twitter.com/search?q=Crumbl) | N/A |
-| 17 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
-| 18 | [Superbad](http://twitter.com/search?q=Superbad) | N/A |
-| 19 | [#RedTaylorsVersionVinyl](http://twitter.com/search?q=%23RedTaylorsVersionVinyl) | N/A |
-| 20 | [Hard R](http://twitter.com/search?q=Hard+R) | N/A |
-| 21 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 22 | [Elway](http://twitter.com/search?q=Elway) | N/A |
-| 23 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
-| 24 | [$AMZN](http://twitter.com/search?q=%24AMZN) | N/A |
-| 25 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 26 | [Booksmart](http://twitter.com/search?q=Booksmart) | N/A |
-| 27 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 28 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
-| 29 | [Kinky Boots](http://twitter.com/search?q=Kinky+Boots) | N/A |
-| 30 | [Shock Drop](http://twitter.com/search?q=Shock+Drop) | N/A |
-| 31 | [Jew-ish](http://twitter.com/search?q=Jew-ish) | N/A |
-| 32 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 33 | [Bomani](http://twitter.com/search?q=Bomani) | N/A |
-| 34 | [Aces](http://twitter.com/search?q=Aces) | Aces is a term used to refer to something that is of the highest quality or excellence. It can also be used to describe someone who is very skilled or talented at something. |
-| 35 | [Marino](http://twitter.com/search?q=Marino) | N/A |
-| 36 | [Sarah Huckabee Sanders](http://twitter.com/search?q=Sarah+Huckabee+Sanders) | N/A |
-| 37 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 38 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 39 | [Macho Man](http://twitter.com/search?q=Macho+Man) | N/A |
-| 40 | [Rescue Me](http://twitter.com/search?q=Rescue+Me) | N/A |
-| 41 | [Musah](http://twitter.com/search?q=Musah) | Musah is a term used in the West African language of Hausa, and it means "friend" or "companion". |
-| 42 | [Liberty](http://twitter.com/search?q=Liberty) | N/A |
-| 43 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 44 | [The Day Before](http://twitter.com/search?q=The+Day+Before) | N/A |
-| 45 | [Sloot](http://twitter.com/search?q=Sloot) | N/A |
-| 46 | [Semitic](http://twitter.com/search?q=Semitic) | N/A |
-| 47 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 48 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 49 | [The Squad](http://twitter.com/search?q=The+Squad) | N/A |
+| 15 | [#NationalCatchersDay](http://twitter.com/search?q=%23NationalCatchersDay) | N/A |
+| 16 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
+| 17 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 18 | [$AMZN](http://twitter.com/search?q=%24AMZN) | N/A |
+| 19 | [Playoff 13s](http://twitter.com/search?q=Playoff+13s) | N/A |
+| 20 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 21 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 22 | [Crumbl](http://twitter.com/search?q=Crumbl) | N/A |
+| 23 | [100 Democrats](http://twitter.com/search?q=100+Democrats) | N/A |
+| 24 | [Rees](http://twitter.com/search?q=Rees) | N/A |
+| 25 | [Guerdy](http://twitter.com/search?q=Guerdy) | N/A |
+| 26 | [Bomani](http://twitter.com/search?q=Bomani) | N/A |
+| 27 | [Elway](http://twitter.com/search?q=Elway) | N/A |
+| 28 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
+| 29 | [#ewgc](http://twitter.com/search?q=%23ewgc) | N/A |
+| 30 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 31 | [Superbad](http://twitter.com/search?q=Superbad) | N/A |
+| 32 | [Epic Meal Time](http://twitter.com/search?q=Epic+Meal+Time) | N/A |
+| 33 | [Hard R](http://twitter.com/search?q=Hard+R) | N/A |
+| 34 | [OANN](http://twitter.com/search?q=OANN) | N/A |
+| 35 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 36 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 37 | [$GOOG](http://twitter.com/search?q=%24GOOG) | N/A |
+| 38 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 39 | [Caleb Plant](http://twitter.com/search?q=Caleb+Plant) | N/A |
+| 40 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
+| 41 | [Marino](http://twitter.com/search?q=Marino) | N/A |
+| 42 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 43 | [Cori Bush](http://twitter.com/search?q=Cori+Bush) | Cori Bush is an American politician and activist from Missouri. She is a member of the Democratic Party and was elected to the United States House of Representatives in 2020, representing Missouri's 1st congressional district. She is the first African-American woman to represent Missouri in Congress. |
+| 44 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 45 | [Jew-ish](http://twitter.com/search?q=Jew-ish) | N/A |
+| 46 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
+| 47 | [Bradshaw](http://twitter.com/search?q=Bradshaw) | N/A |
+| 48 | [Kinky Boots](http://twitter.com/search?q=Kinky+Boots) | N/A |
+| 49 | [Shock Drop](http://twitter.com/search?q=Shock+Drop) | N/A |
 
 
 

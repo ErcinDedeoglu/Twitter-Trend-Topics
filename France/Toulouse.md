@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-02 21:16:34 UTC`
+📆 Last Updated: `2023-02-02 22:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#Levenement](http://twitter.com/search?q=%23Levenement) | N/A |
 | 2 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 3 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 4 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
-| 5 | [FUT 23](http://twitter.com/search?q=FUT+23) | N/A |
-| 6 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
-| 7 | [FUT 17](http://twitter.com/search?q=FUT+17) | N/A |
-| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 9 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 10 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 11 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
-| 12 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 13 | [France 2](http://twitter.com/search?q=France+2) | N/A |
-| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 15 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
-| 16 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 17 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
-| 18 | [Bridget Jones](http://twitter.com/search?q=Bridget+Jones) | N/A |
-| 19 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
+| 3 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 4 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 5 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 6 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 7 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
+| 8 | [Clémentine Autain](http://twitter.com/search?q=Cl%c3%a9mentine+Autain) | N/A |
+| 9 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
+| 10 | [#RMAVAL](http://twitter.com/search?q=%23RMAVAL) | N/A |
+| 11 | [FUT 23](http://twitter.com/search?q=FUT+23) | N/A |
+| 12 | [FUT 19](http://twitter.com/search?q=FUT+19) | N/A |
+| 13 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 14 | [Tayc](http://twitter.com/search?q=Tayc) | N/A |
+| 15 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 16 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
+| 17 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
+| 18 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 19 | [Bridget Jones](http://twitter.com/search?q=Bridget+Jones) | N/A |
 | 20 | [Caroline Roux](http://twitter.com/search?q=Caroline+Roux) | N/A |
-| 21 | [Jean-Pierre Jabouille](http://twitter.com/search?q=Jean-Pierre+Jabouille) | N/A |
-| 22 | [Robert Hue](http://twitter.com/search?q=Robert+Hue) | N/A |
-| 23 | [Saken](http://twitter.com/search?q=Saken) | N/A |
-| 24 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 25 | [Valence](http://twitter.com/search?q=Valence) | N/A |
-| 26 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 27 | [Izidream](http://twitter.com/search?q=Izidream) | N/A |
-| 28 | [Luidji](http://twitter.com/search?q=Luidji) | N/A |
-| 29 | [Matrix](http://twitter.com/search?q=Matrix) | N/A |
-| 30 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 31 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
-| 32 | [Renault](http://twitter.com/search?q=Renault) | N/A |
-| 33 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 34 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 35 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 21 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 22 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 23 | [Robert Hue](http://twitter.com/search?q=Robert+Hue) | N/A |
+| 24 | [Valence](http://twitter.com/search?q=Valence) | N/A |
+| 25 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 26 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 27 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 28 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 29 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 30 | [Jean-Pierre Jabouille](http://twitter.com/search?q=Jean-Pierre+Jabouille) | N/A |
+| 31 | [Saken](http://twitter.com/search?q=Saken) | N/A |
+| 32 | [Luidji](http://twitter.com/search?q=Luidji) | N/A |
+| 33 | [Étienne](http://twitter.com/search?q=%c3%89tienne) | N/A |
+| 34 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 35 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
 | 36 | [Aya Nakamura](http://twitter.com/search?q=Aya+Nakamura) | N/A |
-| 37 | [Clarisse](http://twitter.com/search?q=Clarisse) | N/A |
-| 38 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 39 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 40 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 41 | [Vendée Globe](http://twitter.com/search?q=Vend%c3%a9e+Globe) | N/A |
-| 42 | [Stalingrad](http://twitter.com/search?q=Stalingrad) | N/A |
-| 43 | [Lola](http://twitter.com/search?q=Lola) | N/A |
-| 44 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 45 | [Miam](http://twitter.com/search?q=Miam) | N/A |
-| 46 | [Amine](http://twitter.com/search?q=Amine) | N/A |
-| 47 | [Chandeleur](http://twitter.com/search?q=Chandeleur) | N/A |
-| 48 | [Salomé](http://twitter.com/search?q=Salom%c3%a9) | N/A |
+| 37 | [Renault](http://twitter.com/search?q=Renault) | N/A |
+| 38 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 39 | [Matrix](http://twitter.com/search?q=Matrix) | N/A |
+| 40 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 41 | [Matthieu](http://twitter.com/search?q=Matthieu) | N/A |
+| 42 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 43 | [Clarisse](http://twitter.com/search?q=Clarisse) | N/A |
+| 44 | [Vendée Globe](http://twitter.com/search?q=Vend%c3%a9e+Globe) | N/A |
+| 45 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
+| 46 | [Stalingrad](http://twitter.com/search?q=Stalingrad) | N/A |
+| 47 | [Miam](http://twitter.com/search?q=Miam) | N/A |
+| 48 | [Lola](http://twitter.com/search?q=Lola) | N/A |
 
 
 
