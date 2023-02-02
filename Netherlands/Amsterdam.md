@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-02 08:18:30 UTC`
+📆 Last Updated: `2023-02-02 09:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
 | 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 3 | [#rkcgae](http://twitter.com/search?q=%23rkcgae) | N/A |
-| 4 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
-| 5 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
-| 6 | [#mafsnl](http://twitter.com/search?q=%23mafsnl) | N/A |
-| 7 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
-| 8 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 3 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
+| 4 | [#rkcgae](http://twitter.com/search?q=%23rkcgae) | N/A |
+| 5 | [#watersnoodramp](http://twitter.com/search?q=%23watersnoodramp) | N/A |
+| 6 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 7 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
+| 8 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
 | 9 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
-| 10 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Moord](http://twitter.com/search?q=Moord) | N/A |
+| 11 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
 | 12 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 13 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
-| 14 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 15 | [Moord](http://twitter.com/search?q=Moord) | N/A |
-| 16 | [gekkekoeienziekte](http://twitter.com/search?q=gekkekoeienziekte) | N/A |
+| 13 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 14 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
+| 15 | [gekkekoeienziekte](http://twitter.com/search?q=gekkekoeienziekte) | N/A |
+| 16 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
 | 17 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 18 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
+| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 19 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
 | 20 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
 | 21 | [zerrouki](http://twitter.com/search?q=zerrouki) | N/A |
 | 22 | [lelystad airport](http://twitter.com/search?q=lelystad+airport) | N/A |
-| 23 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
-| 24 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 25 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 26 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
+| 23 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 24 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
+| 25 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 26 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
 | 27 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
-| 28 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 31 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
-| 32 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
-| 33 | [Anja](http://twitter.com/search?q=Anja) | N/A |
-| 34 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
-| 35 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
-| 36 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 37 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
-| 38 | [groningers](http://twitter.com/search?q=groningers) | N/A |
-| 39 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 40 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
-| 41 | [financiën](http://twitter.com/search?q=financi%c3%abn) | N/A |
-| 42 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
-| 43 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
-| 44 | [labyad](http://twitter.com/search?q=labyad) | N/A |
-| 45 | [rechten van de mens](http://twitter.com/search?q=rechten+van+de+mens) | N/A |
+| 28 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
+| 29 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 30 | [Anja](http://twitter.com/search?q=Anja) | N/A |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [Jolien](http://twitter.com/search?q=Jolien) | N/A |
+| 33 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 34 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
+| 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 36 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
+| 37 | [financiën](http://twitter.com/search?q=financi%c3%abn) | N/A |
+| 38 | [Bullaude](http://twitter.com/search?q=Bullaude) | N/A |
+| 39 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 40 | [labyad](http://twitter.com/search?q=labyad) | N/A |
+| 41 | [rechten van de mens](http://twitter.com/search?q=rechten+van+de+mens) | N/A |
+| 42 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 43 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
+| 44 | [Randstad](http://twitter.com/search?q=Randstad) | N/A |
+| 45 | [Raisa](http://twitter.com/search?q=Raisa) | N/A |
 | 46 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 47 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
+| 47 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
 | 48 | [te wierik](http://twitter.com/search?q=te+wierik) | N/A |
-| 49 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 49 | [Sander Schimmelpenninck](http://twitter.com/search?q=Sander+Schimmelpenninck) | N/A |
 
 
 

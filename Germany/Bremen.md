@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-02 08:18:28 UTC`
+📆 Last Updated: `2023-02-02 09:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 2 | [#M05FCB](http://twitter.com/search?q=%23M05FCB) | N/A |
 | 3 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
-| 4 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 5 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 4 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
+| 5 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 6 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 7 | [Maske](http://twitter.com/search?q=Maske) | N/A |
 | 8 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
 | 9 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 10 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 12 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 13 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 14 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 15 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 16 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 17 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
-| 20 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
-| 21 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 22 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
-| 23 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
-| 24 | [Wein](http://twitter.com/search?q=Wein) | N/A |
-| 25 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
-| 26 | [Clip](http://twitter.com/search?q=Clip) | N/A |
-| 27 | [GRAVENBERCH](http://twitter.com/search?q=GRAVENBERCH) | N/A |
-| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 29 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
-| 30 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 31 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 32 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
-| 33 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
-| 34 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 35 | [Boykott](http://twitter.com/search?q=Boykott) | N/A |
-| 36 | [Streamer](http://twitter.com/search?q=Streamer) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 12 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
+| 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 14 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
+| 17 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 18 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
+| 19 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 20 | [Gerichtstermin](http://twitter.com/search?q=Gerichtstermin) | N/A |
+| 21 | [Wein](http://twitter.com/search?q=Wein) | N/A |
+| 22 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 23 | [GRAVENBERCH](http://twitter.com/search?q=GRAVENBERCH) | N/A |
+| 24 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 25 | [Clip](http://twitter.com/search?q=Clip) | N/A |
+| 26 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 27 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
+| 28 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 29 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
+| 30 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 31 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 32 | [Boykott](http://twitter.com/search?q=Boykott) | N/A |
+| 33 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
+| 34 | [Streamer](http://twitter.com/search?q=Streamer) | N/A |
+| 35 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 36 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
 | 37 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 38 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 39 | [Dieter Nuhr](http://twitter.com/search?q=Dieter+Nuhr) | N/A |
-| 40 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
-| 41 | [Franchise](http://twitter.com/search?q=Franchise) | N/A |
-| 42 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 43 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 44 | [Erik](http://twitter.com/search?q=Erik) | N/A |
-| 45 | [Bärendienst](http://twitter.com/search?q=B%c3%a4rendienst) | N/A |
-| 46 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 47 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 48 | [Blizzard](http://twitter.com/search?q=Blizzard) | N/A |
+| 38 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 39 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 40 | [Dieter Nuhr](http://twitter.com/search?q=Dieter+Nuhr) | N/A |
+| 41 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
+| 42 | [Whataboutism](http://twitter.com/search?q=Whataboutism) | N/A |
+| 43 | [Bärendienst](http://twitter.com/search?q=B%c3%a4rendienst) | N/A |
+| 44 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 45 | [Fernverkehr](http://twitter.com/search?q=Fernverkehr) | N/A |
+| 46 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 47 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 48 | [Autorin](http://twitter.com/search?q=Autorin) | N/A |
 
 
 

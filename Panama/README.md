@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-02 08:19:12 UTC`
+📆 Last Updated: `2023-02-02 09:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Panama
 | 15 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 17 | [Birria](http://twitter.com/search?q=Birria) | N/A |
-| 18 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Coclé](http://twitter.com/search?q=Cocl%c3%a9) | N/A |
-| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 22 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 23 | [Carrizo](http://twitter.com/search?q=Carrizo) | N/A |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 20 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 21 | [Carrizo](http://twitter.com/search?q=Carrizo) | N/A |
+| 22 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 23 | [Coclé](http://twitter.com/search?q=Cocl%c3%a9) | N/A |
 | 24 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
 | 25 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 26 | [panameña](http://twitter.com/search?q=paname%c3%b1a) | N/A |
-| 27 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 28 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 29 | [#Colombia](http://twitter.com/search?q=%23Colombia) | N/A |
-| 30 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
-| 31 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
-| 32 | [ismael rivera](http://twitter.com/search?q=ismael+rivera) | N/A |
-| 33 | [aguadulce](http://twitter.com/search?q=aguadulce) | N/A |
-| 34 | [Pura](http://twitter.com/search?q=Pura) | N/A |
-| 35 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 36 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 37 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
-| 38 | [Carnavales](http://twitter.com/search?q=Carnavales) | N/A |
-| 39 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
-| 40 | [Hazlo](http://twitter.com/search?q=Hazlo) | N/A |
-| 41 | [Enserio](http://twitter.com/search?q=Enserio) | N/A |
+| 26 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 27 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 28 | [#TebasOut](http://twitter.com/search?q=%23TebasOut) | N/A |
+| 29 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
+| 30 | [ismael rivera](http://twitter.com/search?q=ismael+rivera) | N/A |
+| 31 | [aguadulce](http://twitter.com/search?q=aguadulce) | N/A |
+| 32 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 33 | [Pura](http://twitter.com/search?q=Pura) | N/A |
+| 34 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 35 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
+| 36 | [#Colombia](http://twitter.com/search?q=%23Colombia) | N/A |
+| 37 | [Carnavales](http://twitter.com/search?q=Carnavales) | N/A |
+| 38 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
+| 39 | [Hazlo](http://twitter.com/search?q=Hazlo) | N/A |
+| 40 | [Enserio](http://twitter.com/search?q=Enserio) | N/A |
+| 41 | [penonomé](http://twitter.com/search?q=penonom%c3%a9) | N/A |
 | 42 | [Mateo](http://twitter.com/search?q=Mateo) | N/A |
-| 43 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
-| 44 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 45 | [#BuildurluvexBuild](http://twitter.com/search?q=%23BuildurluvexBuild) | N/A |
-| 46 | [penonomé](http://twitter.com/search?q=penonom%c3%a9) | N/A |
-| 47 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 48 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
-| 49 | [#dumasinforma](http://twitter.com/search?q=%23dumasinforma) | N/A |
-| 50 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 43 | [gobierno nacional](http://twitter.com/search?q=gobierno+nacional) | N/A |
+| 44 | [#BuildurluvexBuild](http://twitter.com/search?q=%23BuildurluvexBuild) | N/A |
+| 45 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 46 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
+| 47 | [#dumasinforma](http://twitter.com/search?q=%23dumasinforma) | N/A |
+| 48 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 49 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 50 | [CEN del PRD](http://twitter.com/search?q=CEN+del+PRD) | N/A |
 
 
 
