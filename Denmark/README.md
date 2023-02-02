@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-02 03:18:14 UTC`
+📆 Last Updated: `2023-02-02 04:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,12 +19,12 @@ This is top 50 for Denmark
 | 2 | [Coop](http://twitter.com/search?q=Coop) | N/A |
 | 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 5 | [kvickly](http://twitter.com/search?q=kvickly) | N/A |
-| 6 | [Winther](http://twitter.com/search?q=Winther) | N/A |
-| 7 | [meny](http://twitter.com/search?q=meny) | N/A |
-| 8 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
-| 9 | [superbrugsen](http://twitter.com/search?q=superbrugsen) | N/A |
-| 10 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 5 | [winther](http://twitter.com/search?q=winther) | N/A |
+| 6 | [meny](http://twitter.com/search?q=meny) | N/A |
+| 7 | [#transferdk](http://twitter.com/search?q=%23transferdk) | N/A |
+| 8 | [superbrugsen](http://twitter.com/search?q=superbrugsen) | N/A |
+| 9 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 10 | [Kvickly](http://twitter.com/search?q=Kvickly) | N/A |
 | 11 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
 | 12 | [#andellerej](http://twitter.com/search?q=%23andellerej) | N/A |
 | 13 | [københavn](http://twitter.com/search?q=k%c3%b8benhavn) | N/A |
@@ -35,14 +35,14 @@ This is top 50 for Denmark
 | 18 | [gammelby](http://twitter.com/search?q=gammelby) | N/A |
 | 19 | [tshiembe](http://twitter.com/search?q=tshiembe) | N/A |
 | 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 21 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 21 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
 | 22 | [jelert](http://twitter.com/search?q=jelert) | N/A |
 | 23 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 24 | [føtex](http://twitter.com/search?q=f%c3%b8tex) | N/A |
 | 25 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
 | 26 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 27 | [#sundpol](http://twitter.com/search?q=%23sundpol) | N/A |
-| 28 | [Odense](http://twitter.com/search?q=Odense) | N/A |
+| 28 | [odense](http://twitter.com/search?q=odense) | N/A |
 | 29 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
 | 30 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
 | 31 | [salling super](http://twitter.com/search?q=salling+super) | N/A |

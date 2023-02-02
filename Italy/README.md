@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-02 03:18:16 UTC`
+📆 Last Updated: `2023-02-02 04:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,15 +22,15 @@ This is top 50 for Italy
 | 5 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
 | 6 | [Cagliostro](http://twitter.com/search?q=Cagliostro) | N/A |
 | 7 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 8 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 9 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 10 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 8 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 9 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
+| 10 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
 | 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 12 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
 | 13 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
 | 14 | [Ballardini](http://twitter.com/search?q=Ballardini) | N/A |
-| 15 | [Paoletto](http://twitter.com/search?q=Paoletto) | N/A |
-| 16 | [Copasir](http://twitter.com/search?q=Copasir) | N/A |
+| 15 | [paoletto](http://twitter.com/search?q=paoletto) | N/A |
+| 16 | [copasir](http://twitter.com/search?q=copasir) | N/A |
 | 17 | [Luca](http://twitter.com/search?q=Luca) | N/A |
 | 18 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
 | 19 | [Celik](http://twitter.com/search?q=Celik) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for Italy
 | 28 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 29 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
 | 30 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
-| 31 | [La Diamond](http://twitter.com/search?q=La+Diamond) | N/A |
+| 31 | [la diamond](http://twitter.com/search?q=la+diamond) | N/A |
 | 32 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
 | 33 | [Luana](http://twitter.com/search?q=Luana) | Luana is a female given name of Italian origin, derived from the Latin word luna, meaning "moon". It is also used as a Hawaiian name, where it means "enjoyment". |
 | 34 | [Palombelli](http://twitter.com/search?q=Palombelli) | N/A |
 | 35 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 36 | [Angelo Duro](http://twitter.com/search?q=Angelo+Duro) | N/A |
-| 37 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 38 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 39 | [dimissioni](http://twitter.com/search?q=dimissioni) | N/A |
-| 40 | [todaro](http://twitter.com/search?q=todaro) | N/A |
-| 41 | [Chiesa e Vlahovic](http://twitter.com/search?q=Chiesa+e+Vlahovic) | N/A |
-| 42 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
-| 43 | [Eleonora](http://twitter.com/search?q=Eleonora) | N/A |
-| 44 | [Gardini](http://twitter.com/search?q=Gardini) | N/A |
-| 45 | [thomas bricca](http://twitter.com/search?q=thomas+bricca) | N/A |
-| 46 | [Il 41](http://twitter.com/search?q=Il+41) | N/A |
-| 47 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
-| 48 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 49 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 50 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 37 | [dimissioni](http://twitter.com/search?q=dimissioni) | N/A |
+| 38 | [todaro](http://twitter.com/search?q=todaro) | N/A |
+| 39 | [Chiesa e Vlahovic](http://twitter.com/search?q=Chiesa+e+Vlahovic) | N/A |
+| 40 | [Jovic](http://twitter.com/search?q=Jovic) | N/A |
+| 41 | [Eleonora](http://twitter.com/search?q=Eleonora) | N/A |
+| 42 | [Gardini](http://twitter.com/search?q=Gardini) | N/A |
+| 43 | [thomas bricca](http://twitter.com/search?q=thomas+bricca) | N/A |
+| 44 | [il 41](http://twitter.com/search?q=il+41) | N/A |
+| 45 | [ALBA](http://twitter.com/search?q=ALBA) | N/A |
+| 46 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 47 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
+| 48 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 49 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 50 | [Davide](http://twitter.com/search?q=Davide) | N/A |
 
 
 

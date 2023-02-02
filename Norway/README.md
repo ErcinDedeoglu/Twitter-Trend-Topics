@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-02 03:18:18 UTC`
+📆 Last Updated: `2023-02-02 04:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Norway
 | 1 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
 | 2 | [Coop](http://twitter.com/search?q=Coop) | N/A |
 | 3 | [#af2023](http://twitter.com/search?q=%23af2023) | N/A |
-| 4 | [#deadlineday](http://twitter.com/search?q=%23deadlineday) | N/A |
+| 4 | [#DeadlineDay](http://twitter.com/search?q=%23DeadlineDay) | Deadline Day is a term used in the sports world to refer to the last day of a transfer window, when teams must complete any transfers before the window closes. It is usually the last day of the month in which the transfer window closes. |
 | 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 6 | [Flyr](http://twitter.com/search?q=Flyr) | N/A |
 | 7 | [karlsbakk](http://twitter.com/search?q=karlsbakk) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for Norway
 | 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 28 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 29 | [lurer](http://twitter.com/search?q=lurer) | N/A |
-| 30 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 32 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
-| 33 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 34 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 35 | [russlands](http://twitter.com/search?q=russlands) | N/A |
-| 36 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
-| 37 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
-| 38 | [Jupp](http://twitter.com/search?q=Jupp) | N/A |
-| 39 | [berisha](http://twitter.com/search?q=berisha) | N/A |
-| 40 | [Kommer](http://twitter.com/search?q=Kommer) | N/A |
-| 41 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |
-| 42 | [herlig](http://twitter.com/search?q=herlig) | N/A |
-| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 45 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 48 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 49 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
-| 50 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 30 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 31 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
+| 32 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 33 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 34 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
+| 35 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
+| 36 | [Jupp](http://twitter.com/search?q=Jupp) | N/A |
+| 37 | [berisha](http://twitter.com/search?q=berisha) | N/A |
+| 38 | [kommer](http://twitter.com/search?q=kommer) | N/A |
+| 39 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |
+| 40 | [herlig](http://twitter.com/search?q=herlig) | N/A |
+| 41 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 43 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 44 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 45 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 46 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 47 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 48 | [sæter](http://twitter.com/search?q=s%c3%a6ter) | N/A |
+| 49 | [Trist](http://twitter.com/search?q=Trist) | N/A |
+| 50 | [russlands](http://twitter.com/search?q=russlands) | N/A |
 
 
 

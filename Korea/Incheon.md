@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Incheon
 
-📆 Last Updated: `2023-02-02 03:17:46 UTC`
+📆 Last Updated: `2023-02-02 04:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Korea](</Korea>)
 | 5 | [나의 변태력](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%eb%b3%80%ed%83%9c%eb%a0%a5) | 나의 변태력 is a Korean phrase that literally translates to "my laziness". It is used to describe someone who is very lazy or unmotivated. |
 | 6 | [#누구보다_빠른_2월_최애_선점](http://twitter.com/search?q=%23%eb%88%84%ea%b5%ac%eb%b3%b4%eb%8b%a4_%eb%b9%a0%eb%a5%b8_2%ec%9b%94_%ec%b5%9c%ec%95%a0_%ec%84%a0%ec%a0%90) | "#누구보다_빠른_2월_최애_선점" is a hashtag used by fans of K-pop group BTS to express their excitement for the group's upcoming February comeback. It translates to "Faster than anyone else, February's favorite pre-order". |
 | 7 | [슬램덩크 테스트 결과](http://twitter.com/search?q=%ec%8a%ac%eb%9e%a8%eb%8d%a9%ed%81%ac+%ed%85%8c%ec%8a%a4%ed%8a%b8+%ea%b2%b0%ea%b3%bc) | 슬램덩크 테스트 결과 is a term used to refer to the results of a Slum Dunk Test, which is a type of physical fitness test used to measure an individual's overall physical strength and agility. The test consists of various exercises such as jumping, running, and throwing. The results of the test are used to assess an individual's physical fitness level. In English, the phrase "Slum Dunk Test Results" can be used. |
-| 8 | [비밀의 화원](http://twitter.com/search?q=%eb%b9%84%eb%b0%80%ec%9d%98+%ed%99%94%ec%9b%90) | N/A |
-| 9 | [정동극장](http://twitter.com/search?q=%ec%a0%95%eb%8f%99%ea%b7%b9%ec%9e%a5) | N/A |
-| 10 | [얼마정도](http://twitter.com/search?q=%ec%96%bc%eb%a7%88%ec%a0%95%eb%8f%84) | 얼마정도 is a phrase in Korean that means "about how much" or "approximately how much". It is used to ask someone for an estimate of a certain amount. |
-| 11 | [아인 4라인](http://twitter.com/search?q=%ec%95%84%ec%9d%b8+4%eb%9d%bc%ec%9d%b8) | N/A |
-| 12 | [#심테공방](http://twitter.com/search?q=%23%ec%8b%ac%ed%85%8c%ea%b3%b5%eb%b0%a9) | N/A |
-| 13 | [#유저가만든심테](http://twitter.com/search?q=%23%ec%9c%a0%ec%a0%80%ea%b0%80%eb%a7%8c%eb%93%a0%ec%8b%ac%ed%85%8c) | N/A |
-| 14 | [입덕 이유](http://twitter.com/search?q=%ec%9e%85%eb%8d%95+%ec%9d%b4%ec%9c%a0) | N/A |
-| 15 | [입덕 멤버](http://twitter.com/search?q=%ec%9e%85%eb%8d%95+%eb%a9%a4%eb%b2%84) | N/A |
-| 16 | [하이큐 게임](http://twitter.com/search?q=%ed%95%98%ec%9d%b4%ed%81%90+%ea%b2%8c%ec%9e%84) | N/A |
-| 17 | [트친 메뉴판](http://twitter.com/search?q=%ed%8a%b8%ec%b9%9c+%eb%a9%94%eb%89%b4%ed%8c%90) | N/A |
-| 18 | [정구기 라이브](http://twitter.com/search?q=%ec%a0%95%ea%b5%ac%ea%b8%b0+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | N/A |
-| 19 | [인스타 라이브](http://twitter.com/search?q=%ec%9d%b8%ec%8a%a4%ed%83%80+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | 인스타 라이브 (Insta Live) is a feature on the Instagram app that allows users to broadcast live video streams. It allows users to interact with their followers in real-time, as well as share their thoughts and experiences with them. The English translation of 인스타 라이브 is Instagram Live. |
-| 20 | [대운동회](http://twitter.com/search?q=%eb%8c%80%ec%9a%b4%eb%8f%99%ed%9a%8c) | 대운동회 is a large-scale sports event in Korea. It is usually held once a year and involves athletes from all over the country competing in various sports. The English translation of 대운동회 is "National Sports Festival". |
-| 21 | [꼬들 397](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+397) | N/A |
-| 22 | [이베르카나](http://twitter.com/search?q=%ec%9d%b4%eb%b2%a0%eb%a5%b4%ec%b9%b4%eb%82%98) | N/A |
-| 23 | [#따끈따끈_도영빵_생일이_왔옹](http://twitter.com/search?q=%23%eb%94%b0%eb%81%88%eb%94%b0%eb%81%88_%eb%8f%84%ec%98%81%eb%b9%b5_%ec%83%9d%ec%9d%bc%ec%9d%b4_%ec%99%94%ec%98%b9) | "#따끈따끈_도영빵_생일이_왔옹" is a hashtag used to celebrate the birthday of Do Young Bang, a South Korean singer and member of the boy band TXT. In English, it translates to "It's Do Young Bang's Birthday - Let's Celebrate!" |
-| 24 | [#심리테스트](http://twitter.com/search?q=%23%ec%8b%ac%eb%a6%ac%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
-| 25 | [우린 여러분](http://twitter.com/search?q=%ec%9a%b0%eb%a6%b0+%ec%97%ac%eb%9f%ac%eb%b6%84) | 우린 여러분 is a Korean phrase meaning "we all" or "all of us". It is used to refer to a group of people in a collective sense. |
-| 26 | [고잉부석순](http://twitter.com/search?q=%ea%b3%a0%ec%9e%89%eb%b6%80%ec%84%9d%ec%88%9c) | 고잉부석순 is a Korean phrase that literally translates to "high-end analysis first." It is used to describe a situation in which the most important or complex tasks are tackled first. In other words, it is a way of prioritizing tasks based on their importance or complexity. |
-| 27 | [슬램덩크 캐릭터](http://twitter.com/search?q=%ec%8a%ac%eb%9e%a8%eb%8d%a9%ed%81%ac+%ec%ba%90%eb%a6%ad%ed%84%b0) | N/A |
-| 28 | [도영날 도영시](http://twitter.com/search?q=%eb%8f%84%ec%98%81%eb%82%a0+%eb%8f%84%ec%98%81%ec%8b%9c) | 도영날 도영시 is a Korean phrase that literally translates to "the day and hour of dawn." It is used to refer to the moment when the sun rises, symbolizing a new beginning. |
-| 29 | [햄스터 성격 테스트](http://twitter.com/search?q=%ed%96%84%ec%8a%a4%ed%84%b0+%ec%84%b1%ea%b2%a9+%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
-| 30 | [나쁜자석](http://twitter.com/search?q=%eb%82%98%ec%81%9c%ec%9e%90%ec%84%9d) | N/A |
+| 8 | [얼마정도](http://twitter.com/search?q=%ec%96%bc%eb%a7%88%ec%a0%95%eb%8f%84) | 얼마정도 is a phrase in Korean that means "about how much" or "approximately how much". It is used to ask someone for an estimate of a certain amount. |
+| 9 | [#유저가만든심테](http://twitter.com/search?q=%23%ec%9c%a0%ec%a0%80%ea%b0%80%eb%a7%8c%eb%93%a0%ec%8b%ac%ed%85%8c) | N/A |
+| 10 | [#심테공방](http://twitter.com/search?q=%23%ec%8b%ac%ed%85%8c%ea%b3%b5%eb%b0%a9) | N/A |
+| 11 | [입덕 이유](http://twitter.com/search?q=%ec%9e%85%eb%8d%95+%ec%9d%b4%ec%9c%a0) | N/A |
+| 12 | [트친 메뉴판](http://twitter.com/search?q=%ed%8a%b8%ec%b9%9c+%eb%a9%94%eb%89%b4%ed%8c%90) | N/A |
+| 13 | [하이큐 게임](http://twitter.com/search?q=%ed%95%98%ec%9d%b4%ed%81%90+%ea%b2%8c%ec%9e%84) | N/A |
+| 14 | [입덕 멤버](http://twitter.com/search?q=%ec%9e%85%eb%8d%95+%eb%a9%a4%eb%b2%84) | N/A |
+| 15 | [정구기 라이브](http://twitter.com/search?q=%ec%a0%95%ea%b5%ac%ea%b8%b0+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | N/A |
+| 16 | [인스타 라이브](http://twitter.com/search?q=%ec%9d%b8%ec%8a%a4%ed%83%80+%eb%9d%bc%ec%9d%b4%eb%b8%8c) | 인스타 라이브 (Insta Live) is a feature on the Instagram app that allows users to broadcast live video streams. It allows users to interact with their followers in real-time, as well as share their thoughts and experiences with them. The English translation of 인스타 라이브 is Instagram Live. |
+| 17 | [아인 4라인](http://twitter.com/search?q=%ec%95%84%ec%9d%b8+4%eb%9d%bc%ec%9d%b8) | N/A |
+| 18 | [꼬들 397](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+397) | N/A |
+| 19 | [#심리테스트](http://twitter.com/search?q=%23%ec%8b%ac%eb%a6%ac%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
+| 20 | [#따끈따끈_도영빵_생일이_왔옹](http://twitter.com/search?q=%23%eb%94%b0%eb%81%88%eb%94%b0%eb%81%88_%eb%8f%84%ec%98%81%eb%b9%b5_%ec%83%9d%ec%9d%bc%ec%9d%b4_%ec%99%94%ec%98%b9) | "#따끈따끈_도영빵_생일이_왔옹" is a hashtag used to celebrate the birthday of Do Young Bang, a South Korean singer and member of the boy band TXT. In English, it translates to "It's Do Young Bang's Birthday - Let's Celebrate!" |
+| 21 | [대운동회](http://twitter.com/search?q=%eb%8c%80%ec%9a%b4%eb%8f%99%ed%9a%8c) | 대운동회 is a large-scale sports event in Korea. It is usually held once a year and involves athletes from all over the country competing in various sports. The English translation of 대운동회 is "National Sports Festival". |
+| 22 | [우린 여러분](http://twitter.com/search?q=%ec%9a%b0%eb%a6%b0+%ec%97%ac%eb%9f%ac%eb%b6%84) | 우린 여러분 is a Korean phrase meaning "we all" or "all of us". It is used to refer to a group of people in a collective sense. |
+| 23 | [정동극장](http://twitter.com/search?q=%ec%a0%95%eb%8f%99%ea%b7%b9%ec%9e%a5) | N/A |
+| 24 | [가로동공](http://twitter.com/search?q=%ea%b0%80%eb%a1%9c%eb%8f%99%ea%b3%b5) | N/A |
+| 25 | [비밀의 화원](http://twitter.com/search?q=%eb%b9%84%eb%b0%80%ec%9d%98+%ed%99%94%ec%9b%90) | N/A |
+| 26 | [도영날 도영시](http://twitter.com/search?q=%eb%8f%84%ec%98%81%eb%82%a0+%eb%8f%84%ec%98%81%ec%8b%9c) | 도영날 도영시 is a Korean phrase that literally translates to "the day and hour of dawn." It is used to refer to the moment when the sun rises, symbolizing a new beginning. |
+| 27 | [고잉부석순](http://twitter.com/search?q=%ea%b3%a0%ec%9e%89%eb%b6%80%ec%84%9d%ec%88%9c) | 고잉부석순 is a Korean phrase that literally translates to "high-end analysis first." It is used to describe a situation in which the most important or complex tasks are tackled first. In other words, it is a way of prioritizing tasks based on their importance or complexity. |
+| 28 | [슬램덩크 캐릭터](http://twitter.com/search?q=%ec%8a%ac%eb%9e%a8%eb%8d%a9%ed%81%ac+%ec%ba%90%eb%a6%ad%ed%84%b0) | N/A |
+| 29 | [나쁜자석](http://twitter.com/search?q=%eb%82%98%ec%81%9c%ec%9e%90%ec%84%9d) | N/A |
+| 30 | [햄스터 성격 테스트](http://twitter.com/search?q=%ed%96%84%ec%8a%a4%ed%84%b0+%ec%84%b1%ea%b2%a9+%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
 | 31 | [딸기케이크](http://twitter.com/search?q=%eb%94%b8%ea%b8%b0%ec%bc%80%ec%9d%b4%ed%81%ac) | N/A |
-| 32 | [가로동공](http://twitter.com/search?q=%ea%b0%80%eb%a1%9c%eb%8f%99%ea%b3%b5) | N/A |
-| 33 | [부석순이](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c%ec%9d%b4) | N/A |
+| 32 | [이베르카나](http://twitter.com/search?q=%ec%9d%b4%eb%b2%a0%eb%a5%b4%ec%b9%b4%eb%82%98) | N/A |
+| 33 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
 | 34 | [치즈케이크](http://twitter.com/search?q=%ec%b9%98%ec%a6%88%ec%bc%80%ec%9d%b4%ed%81%ac) | N/A |
 | 35 | [티라미수](http://twitter.com/search?q=%ed%8b%b0%eb%9d%bc%eb%af%b8%ec%88%98) | N/A |
-| 36 | [더블라이브](http://twitter.com/search?q=%eb%8d%94%eb%b8%94%eb%9d%bc%ec%9d%b4%eb%b8%8c) | 더블라이브 (Double Live) is a Korean term used to describe a live performance that is broadcast simultaneously on two different platforms, such as television and the internet. It is a way for artists to reach a wider audience and create more engagement with their fans. In English, it can be translated as "dual live broadcast". |
-| 37 | [우리 정구기](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ec%a0%95%ea%b5%ac%ea%b8%b0) | N/A |
-| 38 | [S23 울트라](http://twitter.com/search?q=S23+%ec%9a%b8%ed%8a%b8%eb%9d%bc) | N/A |
-| 39 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
-| 40 | [엘리오스](http://twitter.com/search?q=%ec%97%98%eb%a6%ac%ec%98%a4%ec%8a%a4) | N/A |
-| 41 | [쫀아에용](http://twitter.com/search?q=%ec%ab%80%ec%95%84%ec%97%90%ec%9a%a9) | N/A |
-| 42 | [은위 티켓팅](http://twitter.com/search?q=%ec%9d%80%ec%9c%84+%ed%8b%b0%ec%bc%93%ed%8c%85) | N/A |
-| 43 | [초코파이](http://twitter.com/search?q=%ec%b4%88%ec%bd%94%ed%8c%8c%ec%9d%b4) | N/A |
-| 44 | [시간의 지평선](http://twitter.com/search?q=%ec%8b%9c%ea%b0%84%ec%9d%98+%ec%a7%80%ed%8f%89%ec%84%a0) | N/A |
-| 45 | [찰떡파이](http://twitter.com/search?q=%ec%b0%b0%eb%96%a1%ed%8c%8c%ec%9d%b4) | N/A |
-| 46 | [제작발표회](http://twitter.com/search?q=%ec%a0%9c%ec%9e%91%eb%b0%9c%ed%91%9c%ed%9a%8c) | N/A |
-| 47 | [산왕공고 2학년](http://twitter.com/search?q=%ec%82%b0%ec%99%95%ea%b3%b5%ea%b3%a0+2%ed%95%99%eb%85%84) | N/A |
-| 48 | [기준금리](http://twitter.com/search?q=%ea%b8%b0%ec%a4%80%ea%b8%88%eb%a6%ac) | N/A |
-| 49 | [루카스 복귀](http://twitter.com/search?q=%eb%a3%a8%ec%b9%b4%ec%8a%a4+%eb%b3%b5%ea%b7%80) | N/A |
+| 36 | [부석순이](http://twitter.com/search?q=%eb%b6%80%ec%84%9d%ec%88%9c%ec%9d%b4) | N/A |
+| 37 | [더블라이브](http://twitter.com/search?q=%eb%8d%94%eb%b8%94%eb%9d%bc%ec%9d%b4%eb%b8%8c) | 더블라이브 (Double Live) is a Korean term used to describe a live performance that is broadcast simultaneously on two different platforms, such as television and the internet. It is a way for artists to reach a wider audience and create more engagement with their fans. In English, it can be translated as "dual live broadcast". |
+| 38 | [우리 정구기](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ec%a0%95%ea%b5%ac%ea%b8%b0) | N/A |
+| 39 | [초코파이](http://twitter.com/search?q=%ec%b4%88%ec%bd%94%ed%8c%8c%ec%9d%b4) | N/A |
+| 40 | [은위 티켓팅](http://twitter.com/search?q=%ec%9d%80%ec%9c%84+%ed%8b%b0%ec%bc%93%ed%8c%85) | N/A |
+| 41 | [찰떡파이](http://twitter.com/search?q=%ec%b0%b0%eb%96%a1%ed%8c%8c%ec%9d%b4) | N/A |
+| 42 | [시간의 지평선](http://twitter.com/search?q=%ec%8b%9c%ea%b0%84%ec%9d%98+%ec%a7%80%ed%8f%89%ec%84%a0) | N/A |
+| 43 | [리서치뷰](http://twitter.com/search?q=%eb%a6%ac%ec%84%9c%ec%b9%98%eb%b7%b0) | N/A |
+| 44 | [메모리즈](http://twitter.com/search?q=%eb%a9%94%eb%aa%a8%eb%a6%ac%ec%a6%88) | N/A |
+| 45 | [산왕공고 2학년](http://twitter.com/search?q=%ec%82%b0%ec%99%95%ea%b3%b5%ea%b3%a0+2%ed%95%99%eb%85%84) | N/A |
+| 46 | [기준금리](http://twitter.com/search?q=%ea%b8%b0%ec%a4%80%ea%b8%88%eb%a6%ac) | N/A |
+| 47 | [루카스 복귀](http://twitter.com/search?q=%eb%a3%a8%ec%b9%b4%ec%8a%a4+%eb%b3%b5%ea%b7%80) | N/A |
+| 48 | [S23 울트라](http://twitter.com/search?q=S23+%ec%9a%b8%ed%8a%b8%eb%9d%bc) | N/A |
+| 49 | [나츠메 생일](http://twitter.com/search?q=%eb%82%98%ec%b8%a0%eb%a9%94+%ec%83%9d%ec%9d%bc) | N/A |
 | 50 | [우주공장](http://twitter.com/search?q=%ec%9a%b0%ec%a3%bc%ea%b3%b5%ec%9e%a5) | N/A |
 
 

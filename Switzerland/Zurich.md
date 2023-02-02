@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-02 03:17:39 UTC`
+📆 Last Updated: `2023-02-02 04:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 3 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 4 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 5 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 6 | [zürich](http://twitter.com/search?q=z%c3%bcrich) | N/A |
-| 7 | [#eb152](http://twitter.com/search?q=%23eb152) | N/A |
+| 6 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 7 | [#EB152](http://twitter.com/search?q=%23EB152) | N/A |
 | 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 9 | [#HumanRights](http://twitter.com/search?q=%23HumanRights) | N/A |
 | 10 | [Russen](http://twitter.com/search?q=Russen) | N/A |
@@ -30,12 +30,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 13 | [#genève](http://twitter.com/search?q=%23gen%c3%a8ve) | N/A |
 | 14 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 15 | [Februar 2023](http://twitter.com/search?q=Februar+2023) | N/A |
-| 16 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 18 | [Bund](http://twitter.com/search?q=Bund) | N/A |
-| 19 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 20 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 21 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 17 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 18 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 19 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 20 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 21 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 22 | [aromat](http://twitter.com/search?q=aromat) | N/A |
 | 23 | [Themen](http://twitter.com/search?q=Themen) | N/A |
 | 24 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
@@ -43,16 +43,16 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 26 | [Dommage](http://twitter.com/search?q=Dommage) | N/A |
 | 27 | [Roger](http://twitter.com/search?q=Roger) | N/A |
 | 28 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 29 | [mühe](http://twitter.com/search?q=m%c3%bche) | N/A |
-| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 31 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 31 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
 | 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 33 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
 | 34 | [Lage](http://twitter.com/search?q=Lage) | N/A |
 | 35 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
 | 36 | [Bern](http://twitter.com/search?q=Bern) | N/A |
 | 37 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 38 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 38 | [strasse](http://twitter.com/search?q=strasse) | N/A |
 | 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 40 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
 | 41 | [Satire](http://twitter.com/search?q=Satire) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kolkata
 
-📆 Last Updated: `2023-02-02 03:17:59 UTC`
+📆 Last Updated: `2023-02-02 04:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
 | 2 | [#SpendWisely](http://twitter.com/search?q=%23SpendWisely) | N/A |
-| 3 | [#Historical_Injustice](http://twitter.com/search?q=%23Historical_Injustice) | N/A |
-| 4 | [Hinduism On Target](http://twitter.com/search?q=Hinduism+On+Target) | Hinduism On Target is a term used to describe the modern approach to Hinduism, which emphasizes the importance of understanding and living in accordance with the core values and teachings of Hinduism. It is an effort to make Hinduism more accessible and relevant to contemporary life. The phrase is often used in reference to initiatives that seek to promote greater understanding of Hinduism, such as educational programs, public events, and interfaith dialogues. |
-| 5 | [Nyay Kahan Hai](http://twitter.com/search?q=Nyay+Kahan+Hai) | Nyay Kahan Hai is a Hindi phrase that translates to "Where is justice?". It is often used as a rallying cry for those seeking justice or to express frustration with the lack of justice in a particular situation. |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#incometax](http://twitter.com/search?q=%23incometax) | #Incometax is a hashtag used on social media to refer to the taxes that individuals and businesses must pay on their income. It is often used in discussions about tax policy, filing taxes, and other related topics. |
-| 8 | [#NirmalaSitharaman](http://twitter.com/search?q=%23NirmalaSitharaman) | #NirmalaSitharaman is the name of India's current Finance Minister. In English, it means "Goddess of Prosperity". |
+| 3 | [#AdaniStandsWithInvestors](http://twitter.com/search?q=%23AdaniStandsWithInvestors) | N/A |
+| 4 | [#Historical_Injustice](http://twitter.com/search?q=%23Historical_Injustice) | N/A |
+| 5 | [#NaanKadavulillaiFromTomorrow](http://twitter.com/search?q=%23NaanKadavulillaiFromTomorrow) | N/A |
+| 6 | [Nyay Kahan Hai](http://twitter.com/search?q=Nyay+Kahan+Hai) | Nyay Kahan Hai is a Hindi phrase that translates to "Where is justice?". It is often used as a rallying cry for those seeking justice or to express frustration with the lack of justice in a particular situation. |
+| 7 | [Hinduism On Target](http://twitter.com/search?q=Hinduism+On+Target) | Hinduism On Target is a term used to describe the modern approach to Hinduism, which emphasizes the importance of understanding and living in accordance with the core values and teachings of Hinduism. It is an effort to make Hinduism more accessible and relevant to contemporary life. The phrase is often used in reference to initiatives that seek to promote greater understanding of Hinduism, such as educational programs, public events, and interfaith dialogues. |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 9 | [MahaBJP Update DishaSIT Status](http://twitter.com/search?q=MahaBJP+Update+DishaSIT+Status) | N/A |
-| 10 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 11 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 12 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 13 | [वित्त मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | वित्त मंत्री is a Hindi phrase meaning "Finance Minister". It is used to refer to the minister responsible for managing the government's financial affairs. |
+| 10 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 11 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 12 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 13 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
 | 14 | [आसाराम बापू](http://twitter.com/search?q=%e0%a4%86%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a5%82) | N/A |
-| 15 | [fielder with most catches](http://twitter.com/search?q=fielder+with+most+catches) | N/A |
-| 16 | [Rs 7](http://twitter.com/search?q=Rs+7) | Rs 7 is the abbreviation for Indian Rupee 7, which is the currency of India. In English, it would be equivalent to seven Indian Rupees. |
-| 17 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
+| 15 | [वित्त मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | वित्त मंत्री is a Hindi phrase meaning "Finance Minister". It is used to refer to the minister responsible for managing the government's financial affairs. |
+| 16 | [fielder with most catches](http://twitter.com/search?q=fielder+with+most+catches) | N/A |
+| 17 | [Rs 7](http://twitter.com/search?q=Rs+7) | Rs 7 is the abbreviation for Indian Rupee 7, which is the currency of India. In English, it would be equivalent to seven Indian Rupees. |
 | 18 | [कल्पना चावला](http://twitter.com/search?q=%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa%e0%a4%a8%e0%a4%be+%e0%a4%9a%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a4%be) | कल्पना चावला is a popular Marathi phrase which translates to "Imaginary Rice" in English. It is used to describe something that is impossible or too good to be true. |
-| 19 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
-| 20 | [केंद्रीय शिक्षा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 21 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
-| 22 | [New Tax Regime](http://twitter.com/search?q=New+Tax+Regime) | New Tax Regime is a term used to describe a new set of tax laws or regulations that have been introduced by a government. It typically refers to changes in the way taxes are collected, the types of taxes imposed, and the rates at which they are applied. The purpose of introducing a new tax regime is usually to increase revenue for the government, reduce inequality, or encourage certain types of economic activity. |
-| 23 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
-| 24 | [bowler with worst er](http://twitter.com/search?q=bowler+with+worst+er) | N/A |
-| 25 | [cnbctv18 live](http://twitter.com/search?q=cnbctv18+live) | N/A |
-| 26 | [batsman with most fours](http://twitter.com/search?q=batsman+with+most+fours) | N/A |
-| 27 | [Rahul Tripathi](http://twitter.com/search?q=Rahul+Tripathi) | Rahul Tripathi is a name of Indian origin. It is derived from the Sanskrit words "Rahu" (sun) and "Tripathi" (lord). The literal meaning of the name is "Lord of the Sun". |
-| 28 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 29 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 30 | [main khiladi outnow](http://twitter.com/search?q=main+khiladi+outnow) | N/A |
-| 31 | [7 Lakhs](http://twitter.com/search?q=7+Lakhs) | 7 Lakhs is a term used in India to refer to 700,000. It is equal to 7,00,000 in the Indian numbering system. In English, it would be equivalent to 700,000 or seven hundred thousand. |
-| 32 | [मोदी सरकार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 33 | [श्री लक्ष्मी नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 34 | [Sushant Real Foodie](http://twitter.com/search?q=Sushant+Real+Foodie) | N/A |
-| 35 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 36 | [1st innings score](http://twitter.com/search?q=1st+innings+score) | N/A |
-| 37 | [बड़ी राहत](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4) | बड़ी राहत (Badi Rahat) is a Hindi phrase that translates to "great relief" in English. It is used to express a feeling of relief or comfort after a difficult situation. |
-| 38 | [बाबू जगदेव प्रसाद](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82+%e0%a4%9c%e0%a4%97%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
-| 39 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 40 | [rashami desai birthday month](http://twitter.com/search?q=rashami+desai+birthday+month) | N/A |
-| 41 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 42 | [Own $2.5 Billion Share Sale](http://twitter.com/search?q=Own+%242.5+Billion+Share+Sale) | N/A |
-| 43 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 44 | [हरि गोविंदा](http://twitter.com/search?q=%e0%a4%b9%e0%a4%b0%e0%a4%bf+%e0%a4%97%e0%a5%8b%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a4%be) | N/A |
+| 19 | [Sohail Khan](http://twitter.com/search?q=Sohail+Khan) | N/A |
+| 20 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
+| 21 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 22 | [अमृत काल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%95%e0%a4%be%e0%a4%b2) | N/A |
+| 23 | [केंद्रीय शिक्षा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 24 | [New Tax Regime](http://twitter.com/search?q=New+Tax+Regime) | New Tax Regime is a term used to describe a new set of tax laws or regulations that have been introduced by a government. It typically refers to changes in the way taxes are collected, the types of taxes imposed, and the rates at which they are applied. The purpose of introducing a new tax regime is usually to increase revenue for the government, reduce inequality, or encourage certain types of economic activity. |
+| 25 | [bowler with worst er](http://twitter.com/search?q=bowler+with+worst+er) | N/A |
+| 26 | [cnbctv18 live](http://twitter.com/search?q=cnbctv18+live) | N/A |
+| 27 | [batsman with most fours](http://twitter.com/search?q=batsman+with+most+fours) | N/A |
+| 28 | [बाबू जगदेव प्रसाद](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82+%e0%a4%9c%e0%a4%97%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
+| 29 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 30 | [Citigroup](http://twitter.com/search?q=Citigroup) | N/A |
+| 31 | [बिहार लेनिन](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%b2%e0%a5%87%e0%a4%a8%e0%a4%bf%e0%a4%a8) | N/A |
+| 32 | [Rahul Tripathi](http://twitter.com/search?q=Rahul+Tripathi) | Rahul Tripathi is a name of Indian origin. It is derived from the Sanskrit words "Rahu" (sun) and "Tripathi" (lord). The literal meaning of the name is "Lord of the Sun". |
+| 33 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 34 | [मोदी सरकार](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 35 | [main khiladi outnow](http://twitter.com/search?q=main+khiladi+outnow) | N/A |
+| 36 | [अमर शहीद](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%b0+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
+| 37 | [7 Lakhs](http://twitter.com/search?q=7+Lakhs) | 7 Lakhs is a term used in India to refer to 700,000. It is equal to 7,00,000 in the Indian numbering system. In English, it would be equivalent to 700,000 or seven hundred thousand. |
+| 38 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 39 | [1st innings score](http://twitter.com/search?q=1st+innings+score) | N/A |
+| 40 | [sushant real foodie](http://twitter.com/search?q=sushant+real+foodie) | N/A |
+| 41 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 42 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 43 | [rashami desai birthday month](http://twitter.com/search?q=rashami+desai+birthday+month) | N/A |
+| 44 | [बड़ी राहत](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4) | बड़ी राहत (Badi Rahat) is a Hindi phrase that translates to "great relief" in English. It is used to express a feeling of relief or comfort after a difficult situation. |
 | 45 | [HAPPY BIRTHDAY SHAMITA](http://twitter.com/search?q=HAPPY+BIRTHDAY+SHAMITA) | N/A |
-| 46 | [roopkumar crucial inssrcase](http://twitter.com/search?q=roopkumar+crucial+inssrcase) | N/A |
-| 47 | [Height Of INJUSTICE](http://twitter.com/search?q=Height+Of+INJUSTICE) | Height of Injustice is a phrase used to describe an extreme or egregious example of unfairness or inequity. It is often used to describe a situation where someone has been treated unfairly or has been denied their rights. |
-| 48 | [New Regime](http://twitter.com/search?q=New+Regime) | N/A |
-| 49 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 50 | [Public Sab Janti Hai](http://twitter.com/search?q=Public+Sab+Janti+Hai) | Public Sab Janti Hai is a popular Hindi phrase that translates to "the public knows everything". It is often used to express the idea that people are aware of the truth, even if it is not openly acknowledged. |
+| 46 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
+| 47 | [Happy Birthday Boss](http://twitter.com/search?q=Happy+Birthday+Boss) | N/A |
+| 48 | [श्री लक्ष्मी नारायण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 49 | [roopkumar crucial inssrcase](http://twitter.com/search?q=roopkumar+crucial+inssrcase) | N/A |
+| 50 | [Height Of INJUSTICE](http://twitter.com/search?q=Height+Of+INJUSTICE) | Height of Injustice is a phrase used to describe an extreme or egregious example of unfairness or inequity. It is often used to describe a situation where someone has been treated unfairly or has been denied their rights. |
 
 
 

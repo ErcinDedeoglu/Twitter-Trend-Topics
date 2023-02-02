@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-02 03:17:40 UTC`
+📆 Last Updated: `2023-02-02 04:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for [Sweden](</Sweden>)
 | 15 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 16 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 | 17 | [natomedlemskap](http://twitter.com/search?q=natomedlemskap) | N/A |
-| 18 | [nato-länder](http://twitter.com/search?q=nato-l%c3%a4nder) | N/A |
-| 19 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 20 | [Ola Bini](http://twitter.com/search?q=Ola+Bini) | N/A |
-| 21 | [#ibsilly](http://twitter.com/search?q=%23ibsilly) | N/A |
-| 22 | [Erik](http://twitter.com/search?q=Erik) | N/A |
-| 23 | [boyce](http://twitter.com/search?q=boyce) | N/A |
-| 24 | [Miele](http://twitter.com/search?q=Miele) | N/A |
-| 25 | [borlänge](http://twitter.com/search?q=borl%c3%a4nge) | N/A |
-| 26 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 27 | [deadline day](http://twitter.com/search?q=deadline+day) | N/A |
-| 28 | [börjes](http://twitter.com/search?q=b%c3%b6rjes) | N/A |
-| 29 | [Jonna](http://twitter.com/search?q=Jonna) | N/A |
-| 30 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 32 | [micke](http://twitter.com/search?q=micke) | N/A |
-| 33 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 34 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 35 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 36 | [Rapport](http://twitter.com/search?q=Rapport) | N/A |
-| 37 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 38 | [Nobels](http://twitter.com/search?q=Nobels) | N/A |
-| 39 | [nato-processen](http://twitter.com/search?q=nato-processen) | N/A |
-| 40 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
-| 41 | [elfsborg](http://twitter.com/search?q=elfsborg) | N/A |
-| 42 | [Murre](http://twitter.com/search?q=Murre) | N/A |
-| 43 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 44 | [vårbynätverket](http://twitter.com/search?q=v%c3%a5rbyn%c3%a4tverket) | N/A |
-| 45 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
-| 46 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
-| 47 | [adam carlén](http://twitter.com/search?q=adam+carl%c3%a9n) | N/A |
-| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 49 | [Bedrövligt](http://twitter.com/search?q=Bedr%c3%b6vligt) | N/A |
-| 50 | [världens](http://twitter.com/search?q=v%c3%a4rldens) | N/A |
+| 18 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 19 | [nato-länder](http://twitter.com/search?q=nato-l%c3%a4nder) | N/A |
+| 20 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 21 | [Ola Bini](http://twitter.com/search?q=Ola+Bini) | N/A |
+| 22 | [#ibsilly](http://twitter.com/search?q=%23ibsilly) | N/A |
+| 23 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 24 | [Boyce](http://twitter.com/search?q=Boyce) | N/A |
+| 25 | [Miele](http://twitter.com/search?q=Miele) | N/A |
+| 26 | [borlänge](http://twitter.com/search?q=borl%c3%a4nge) | N/A |
+| 27 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 28 | [deadline day](http://twitter.com/search?q=deadline+day) | N/A |
+| 29 | [börjes](http://twitter.com/search?q=b%c3%b6rjes) | N/A |
+| 30 | [jonna](http://twitter.com/search?q=jonna) | N/A |
+| 31 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 33 | [micke](http://twitter.com/search?q=micke) | N/A |
+| 34 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 35 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 36 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 37 | [Rapport](http://twitter.com/search?q=Rapport) | N/A |
+| 38 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 39 | [Nobels](http://twitter.com/search?q=Nobels) | N/A |
+| 40 | [nato-processen](http://twitter.com/search?q=nato-processen) | N/A |
+| 41 | [hugo larsson](http://twitter.com/search?q=hugo+larsson) | N/A |
+| 42 | [elfsborg](http://twitter.com/search?q=elfsborg) | N/A |
+| 43 | [murre](http://twitter.com/search?q=murre) | N/A |
+| 44 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 45 | [vårbynätverket](http://twitter.com/search?q=v%c3%a5rbyn%c3%a4tverket) | N/A |
+| 46 | [almtuna](http://twitter.com/search?q=almtuna) | N/A |
+| 47 | [kakabaveh](http://twitter.com/search?q=kakabaveh) | N/A |
+| 48 | [adam carlén](http://twitter.com/search?q=adam+carl%c3%a9n) | N/A |
+| 49 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 50 | [bedrövligt](http://twitter.com/search?q=bedr%c3%b6vligt) | N/A |
 
 
 

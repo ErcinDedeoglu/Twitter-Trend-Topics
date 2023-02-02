@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-02 03:17:40 UTC`
+📆 Last Updated: `2023-02-02 04:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,21 +44,21 @@ This is top 50 for [Norway](</Norway>)
 | 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 28 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 29 | [lurer](http://twitter.com/search?q=lurer) | N/A |
-| 30 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 32 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
-| 33 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 34 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 35 | [russlands](http://twitter.com/search?q=russlands) | N/A |
-| 36 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
-| 37 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
-| 38 | [Jupp](http://twitter.com/search?q=Jupp) | N/A |
-| 39 | [berisha](http://twitter.com/search?q=berisha) | N/A |
-| 40 | [Kommer](http://twitter.com/search?q=Kommer) | N/A |
-| 41 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |
-| 42 | [herlig](http://twitter.com/search?q=herlig) | N/A |
-| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 30 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 31 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
+| 32 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 33 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 34 | [russlands](http://twitter.com/search?q=russlands) | N/A |
+| 35 | [eliteserien](http://twitter.com/search?q=eliteserien) | N/A |
+| 36 | [trøndelag](http://twitter.com/search?q=tr%c3%b8ndelag) | N/A |
+| 37 | [Jupp](http://twitter.com/search?q=Jupp) | N/A |
+| 38 | [berisha](http://twitter.com/search?q=berisha) | N/A |
+| 39 | [kommer](http://twitter.com/search?q=kommer) | N/A |
+| 40 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |
+| 41 | [herlig](http://twitter.com/search?q=herlig) | N/A |
+| 42 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 44 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 | 45 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
