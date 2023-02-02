@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-02 10:17:46 UTC`
+📆 Last Updated: `2023-02-02 11:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 2 | [Magic](http://twitter.com/search?q=Magic) | N/A |
-| 3 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | N/A |
-| 4 | [#Wordle593](http://twitter.com/search?q=%23Wordle593) | N/A |
-| 5 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
-| 6 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 7 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
-| 8 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 10 | [#HourlyComicDay2023](http://twitter.com/search?q=%23HourlyComicDay2023) | N/A |
-| 11 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 3 | [Magic](http://twitter.com/search?q=Magic) | N/A |
+| 4 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | N/A |
+| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 6 | [#Wordle593](http://twitter.com/search?q=%23Wordle593) | N/A |
+| 7 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
+| 8 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | N/A |
+| 9 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 10 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 11 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
 | 12 | [Pauli](http://twitter.com/search?q=Pauli) | Pauli is a German surname derived from the Latin name Paulus, meaning "small" or "humble". It is also a nickname for someone named Paul. |
-| 13 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 14 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 15 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 16 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
-| 17 | [Namor](http://twitter.com/search?q=Namor) | N/A |
-| 18 | [Orange Krush](http://twitter.com/search?q=Orange+Krush) | N/A |
-| 19 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 20 | [Gullveig](http://twitter.com/search?q=Gullveig) | N/A |
+| 13 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 14 | [Namor](http://twitter.com/search?q=Namor) | N/A |
+| 15 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 16 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 17 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 18 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 19 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 20 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
 | 21 | [Soren](http://twitter.com/search?q=Soren) | N/A |
-| 22 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 23 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | N/A |
-| 24 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 25 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
-| 26 | [Corrin](http://twitter.com/search?q=Corrin) | N/A |
-| 27 | [Pamela Anderson](http://twitter.com/search?q=Pamela+Anderson) | N/A |
-| 28 | [Samoa Joe](http://twitter.com/search?q=Samoa+Joe) | Samoa Joe is a professional wrestler who is currently signed to WWE. His real name is Nuufolau Joel Seanoa and he is known for his hard-hitting style and high-impact moves. The name Samoa Joe comes from his Samoan heritage, as well as the fact that he was born in California, which is sometimes referred to as the "Island of Samoa". |
-| 29 | [HARRYS](http://twitter.com/search?q=HARRYS) | N/A |
-| 30 | [Sharpton](http://twitter.com/search?q=Sharpton) | N/A |
-| 31 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 32 | [Laurence](http://twitter.com/search?q=Laurence) | N/A |
-| 33 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 34 | [Proud Family](http://twitter.com/search?q=Proud+Family) | N/A |
-| 35 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 36 | [Tari Eason](http://twitter.com/search?q=Tari+Eason) | N/A |
-| 37 | [DeGrom](http://twitter.com/search?q=DeGrom) | N/A |
-| 38 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 39 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 40 | [Chadwick](http://twitter.com/search?q=Chadwick) | N/A |
-| 41 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
-| 42 | [Titanfall](http://twitter.com/search?q=Titanfall) | N/A |
-| 43 | [Black Panther 2](http://twitter.com/search?q=Black+Panther+2) | N/A |
-| 44 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 45 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
-| 46 | [Shuri](http://twitter.com/search?q=Shuri) | N/A |
-| 47 | [Patti](http://twitter.com/search?q=Patti) | N/A |
-| 48 | [$5.1 Billion](http://twitter.com/search?q=%245.1+Billion) | N/A |
-| 49 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 50 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 22 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 23 | [Corrin](http://twitter.com/search?q=Corrin) | N/A |
+| 24 | [Derek Jeter](http://twitter.com/search?q=Derek+Jeter) | N/A |
+| 25 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
+| 26 | [Samoa Joe](http://twitter.com/search?q=Samoa+Joe) | Samoa Joe is a professional wrestler who is currently signed to WWE. His real name is Nuufolau Joel Seanoa and he is known for his hard-hitting style and high-impact moves. The name Samoa Joe comes from his Samoan heritage, as well as the fact that he was born in California, which is sometimes referred to as the "Island of Samoa". |
+| 27 | [HARRYS](http://twitter.com/search?q=HARRYS) | N/A |
+| 28 | [Blockbuster](http://twitter.com/search?q=Blockbuster) | N/A |
+| 29 | [Laurence](http://twitter.com/search?q=Laurence) | N/A |
+| 30 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 31 | [Proud Family](http://twitter.com/search?q=Proud+Family) | N/A |
+| 32 | [Tari Eason](http://twitter.com/search?q=Tari+Eason) | N/A |
+| 33 | [degrom](http://twitter.com/search?q=degrom) | N/A |
+| 34 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 35 | [Titanfall](http://twitter.com/search?q=Titanfall) | N/A |
+| 36 | [Black Panther 2](http://twitter.com/search?q=Black+Panther+2) | N/A |
+| 37 | [#HourlyComicDay2023](http://twitter.com/search?q=%23HourlyComicDay2023) | N/A |
+| 38 | [#RHOSLC](http://twitter.com/search?q=%23RHOSLC) | #RHOSLC stands for "Real Housewives of Salt Lake City," a reality television series that follows the lives of six women living in Salt Lake City, Utah. The show premiered on November 11, 2020 on Bravo. |
+| 39 | [#TexasFreeze](http://twitter.com/search?q=%23TexasFreeze) | N/A |
+| 40 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 41 | [#LoveOnTourPalmSprings](http://twitter.com/search?q=%23LoveOnTourPalmSprings) | N/A |
+| 42 | [#greencomet](http://twitter.com/search?q=%23greencomet) | N/A |
+| 43 | [#HunterBiden](http://twitter.com/search?q=%23HunterBiden) | N/A |
+| 44 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 45 | [#SchoolhouseRock50Singalong](http://twitter.com/search?q=%23SchoolhouseRock50Singalong) | N/A |
+| 46 | [#PamelaALoveStory](http://twitter.com/search?q=%23PamelaALoveStory) | N/A |
 
 
 

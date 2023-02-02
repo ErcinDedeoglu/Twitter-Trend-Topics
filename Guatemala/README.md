@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-02 10:17:51 UTC`
+📆 Last Updated: `2023-02-02 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Guatemala
 | 5 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
 | 6 | [Fama](http://twitter.com/search?q=Fama) | N/A |
 | 7 | [Cobán Imperial](http://twitter.com/search?q=Cob%c3%a1n+Imperial) | N/A |
-| 8 | [#Publinews12años](http://twitter.com/search?q=%23Publinews12a%c3%b1os) | N/A |
+| 8 | [#publinews12años](http://twitter.com/search?q=%23publinews12a%c3%b1os) | N/A |
 | 9 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
 | 10 | [bryan lemus](http://twitter.com/search?q=bryan+lemus) | N/A |
 | 11 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
@@ -33,10 +33,10 @@ This is top 50 for Guatemala
 | 16 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 17 | [#HappyBirthdayHarry](http://twitter.com/search?q=%23HappyBirthdayHarry) | "#HappyBirthdayHarry" is a hashtag used on social media to wish Harry a happy birthday. It is a way of sending birthday wishes to Harry in a public forum. |
 | 18 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
-| 19 | [#todoelmundohabladejamie](http://twitter.com/search?q=%23todoelmundohabladejamie) | N/A |
+| 19 | [#TodoElMundoHablaDeJamie](http://twitter.com/search?q=%23TodoElMundoHablaDeJamie) | N/A |
 | 20 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
 | 21 | [jornada 3](http://twitter.com/search?q=jornada+3) | N/A |
-| 22 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
+| 22 | [achuapa](http://twitter.com/search?q=achuapa) | N/A |
 | 23 | [xelajú mc](http://twitter.com/search?q=xelaj%c3%ba+mc) | N/A |
 | 24 | [el morón](http://twitter.com/search?q=el+mor%c3%b3n) | N/A |
 | 25 | [deportivo mixco](http://twitter.com/search?q=deportivo+mixco) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for Guatemala
 | 36 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 | 37 | [Feci](http://twitter.com/search?q=Feci) | N/A |
 | 38 | [Barsa](http://twitter.com/search?q=Barsa) | N/A |
-| 39 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 39 | [san josé](http://twitter.com/search?q=san+jos%c3%a9) | N/A |
 | 40 | [Irene](http://twitter.com/search?q=Irene) | N/A |
 | 41 | [baldizon](http://twitter.com/search?q=baldizon) | N/A |
 | 42 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
 | 43 | [Marc Anthony](http://twitter.com/search?q=Marc+Anthony) | N/A |
 | 44 | [Embajada de España](http://twitter.com/search?q=Embajada+de+Espa%c3%b1a) | N/A |
 | 45 | [chiquimula](http://twitter.com/search?q=chiquimula) | N/A |
-| 46 | [Maje](http://twitter.com/search?q=Maje) | N/A |
-| 47 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 48 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
-| 49 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 47 | [Acepto](http://twitter.com/search?q=Acepto) | N/A |
+| 48 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
 
 
 

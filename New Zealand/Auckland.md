@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-02 10:17:41 UTC`
+📆 Last Updated: `2023-02-02 11:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [New Zealand](</New Zealand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 2 | [Wellington Central](http://twitter.com/search?q=Wellington+Central) | N/A |
-| 3 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
+| 2 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
+| 3 | [Wellington Central](http://twitter.com/search?q=Wellington+Central) | N/A |
 | 4 | [Brad](http://twitter.com/search?q=Brad) | N/A |
 | 5 | [Tamatha Paul](http://twitter.com/search?q=Tamatha+Paul) | N/A |
 | 6 | [Herdman](http://twitter.com/search?q=Herdman) | N/A |
@@ -34,7 +34,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 17 | [Ufuk](http://twitter.com/search?q=Ufuk) | N/A |
 | 18 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 19 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 20 | [#nzpolitics](http://twitter.com/search?q=%23nzpolitics) | N/A |
+| 20 | [#NZPolitics](http://twitter.com/search?q=%23NZPolitics) | N/A |
 | 21 | [Nationals](http://twitter.com/search?q=Nationals) | N/A |
 | 22 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 23 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
@@ -42,24 +42,24 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 25 | [Palmy](http://twitter.com/search?q=Palmy) | N/A |
 | 26 | [Katrina](http://twitter.com/search?q=Katrina) | N/A |
 | 27 | [grant robertson](http://twitter.com/search?q=grant+robertson) | N/A |
-| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 29 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 30 | [Andrew Kirton](http://twitter.com/search?q=Andrew+Kirton) | N/A |
-| 31 | [Waitangi](http://twitter.com/search?q=Waitangi) | N/A |
-| 32 | [Tova](http://twitter.com/search?q=Tova) | N/A |
-| 33 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 34 | [Otago](http://twitter.com/search?q=Otago) | N/A |
-| 35 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 36 | [Drongo](http://twitter.com/search?q=Drongo) | N/A |
-| 37 | [Orca](http://twitter.com/search?q=Orca) | N/A |
-| 38 | [Surprised](http://twitter.com/search?q=Surprised) | N/A |
-| 39 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
-| 40 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 41 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 42 | [Aotearoa New Zealand](http://twitter.com/search?q=Aotearoa+New+Zealand) | N/A |
-| 43 | [Minister for Auckland](http://twitter.com/search?q=Minister+for+Auckland) | N/A |
-| 44 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 45 | [#iavcei2023](http://twitter.com/search?q=%23iavcei2023) | N/A |
+| 28 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 29 | [Andrew Kirton](http://twitter.com/search?q=Andrew+Kirton) | N/A |
+| 30 | [Tova](http://twitter.com/search?q=Tova) | N/A |
+| 31 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 32 | [Otago](http://twitter.com/search?q=Otago) | N/A |
+| 33 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 34 | [Waitangi](http://twitter.com/search?q=Waitangi) | N/A |
+| 35 | [Orca](http://twitter.com/search?q=Orca) | N/A |
+| 36 | [Surprised](http://twitter.com/search?q=Surprised) | N/A |
+| 37 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
+| 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 39 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 40 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 41 | [#iavcei2023](http://twitter.com/search?q=%23iavcei2023) | N/A |
+| 42 | [Drongo](http://twitter.com/search?q=Drongo) | N/A |
+| 43 | [Aotearoa New Zealand](http://twitter.com/search?q=Aotearoa+New+Zealand) | N/A |
+| 44 | [Minister for Auckland](http://twitter.com/search?q=Minister+for+Auckland) | N/A |
+| 45 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
 | 46 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
 | 47 | [#AucklandFloods](http://twitter.com/search?q=%23AucklandFloods) | N/A |
 | 48 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |

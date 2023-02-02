@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-02 10:17:14 UTC`
+📆 Last Updated: `2023-02-02 11:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,26 +16,26 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ambato](http://twitter.com/search?q=Ambato) | N/A |
-| 2 | [Ola Bini](http://twitter.com/search?q=Ola+Bini) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [Ola Bini](http://twitter.com/search?q=Ola+Bini) | N/A |
 | 4 | [alvarado](http://twitter.com/search?q=alvarado) | N/A |
 | 5 | [#copadecampeonesedgardobauza](http://twitter.com/search?q=%23copadecampeonesedgardobauza) | N/A |
 | 6 | [jhojan julio](http://twitter.com/search?q=jhojan+julio) | N/A |
 | 7 | [#cometaverde](http://twitter.com/search?q=%23cometaverde) | N/A |
 | 8 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
 | 9 | [aucas](http://twitter.com/search?q=aucas) | N/A |
-| 10 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 11 | [renato ibarra](http://twitter.com/search?q=renato+ibarra) | N/A |
-| 12 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 13 | [Farias](http://twitter.com/search?q=Farias) | N/A |
+| 10 | [Farias](http://twitter.com/search?q=Farias) | N/A |
+| 11 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 12 | [renato ibarra](http://twitter.com/search?q=renato+ibarra) | N/A |
+| 13 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
 | 14 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
-| 15 | [#LaPosta](http://twitter.com/search?q=%23LaPosta) | N/A |
-| 16 | [Tuti](http://twitter.com/search?q=Tuti) | N/A |
-| 17 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 18 | [#DURAN](http://twitter.com/search?q=%23DURAN) | N/A |
-| 19 | [veris](http://twitter.com/search?q=veris) | N/A |
-| 20 | [Queso](http://twitter.com/search?q=Queso) | N/A |
-| 21 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 15 | [Tuti](http://twitter.com/search?q=Tuti) | N/A |
+| 16 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 17 | [#DURAN](http://twitter.com/search?q=%23DURAN) | N/A |
+| 18 | [veris](http://twitter.com/search?q=veris) | N/A |
+| 19 | [Queso](http://twitter.com/search?q=Queso) | N/A |
+| 20 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 21 | [#LaPosta](http://twitter.com/search?q=%23LaPosta) | N/A |
 | 22 | [Figueroa](http://twitter.com/search?q=Figueroa) | N/A |
 | 23 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
 | 24 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
@@ -57,14 +57,14 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 40 | [mikaella](http://twitter.com/search?q=mikaella) | N/A |
 | 41 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 42 | [Cura](http://twitter.com/search?q=Cura) | N/A |
-| 43 | [Lenin Moreno](http://twitter.com/search?q=Lenin+Moreno) | N/A |
-| 44 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 45 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 46 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 47 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 48 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 49 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 50 | [andino](http://twitter.com/search?q=andino) | N/A |
+| 43 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 44 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 45 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 46 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 47 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 48 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 49 | [Andino](http://twitter.com/search?q=Andino) | N/A |
+| 50 | [Quito](http://twitter.com/search?q=Quito) | N/A |
 
 
 
