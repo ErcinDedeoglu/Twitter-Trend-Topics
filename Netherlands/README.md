@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-02 11:16:48 UTC`
+📆 Last Updated: `2023-02-02 12:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 2 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
+| 1 | [Thijs](http://twitter.com/search?q=Thijs) | N/A |
+| 2 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
 | 3 | [#RKCGAE](http://twitter.com/search?q=%23RKCGAE) | N/A |
 | 4 | [Esther](http://twitter.com/search?q=Esther) | N/A |
 | 5 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
-| 6 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 7 | [#watersnoodramp](http://twitter.com/search?q=%23watersnoodramp) | N/A |
-| 8 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
+| 6 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
+| 7 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
+| 8 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 9 | [Moord](http://twitter.com/search?q=Moord) | N/A |
-| 10 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 12 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 13 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
-| 14 | [richard de mos](http://twitter.com/search?q=richard+de+mos) | N/A |
-| 15 | [Gekkekoeienziekte](http://twitter.com/search?q=Gekkekoeienziekte) | N/A |
-| 16 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [#watersnoodramp](http://twitter.com/search?q=%23watersnoodramp) | N/A |
+| 11 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 12 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
+| 13 | [Gekkekoeienziekte](http://twitter.com/search?q=Gekkekoeienziekte) | N/A |
+| 14 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 15 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 16 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
+| 17 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
 | 18 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
-| 19 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 20 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 21 | [lelystad airport](http://twitter.com/search?q=lelystad+airport) | N/A |
+| 19 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 20 | [lelystad airport](http://twitter.com/search?q=lelystad+airport) | N/A |
+| 21 | [Danny](http://twitter.com/search?q=Danny) | N/A |
 | 22 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
-| 23 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
-| 24 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 25 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 26 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
-| 27 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
-| 28 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 29 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
-| 30 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 31 | [huub](http://twitter.com/search?q=huub) | N/A |
-| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 33 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
-| 34 | [Hallo](http://twitter.com/search?q=Hallo) | N/A |
-| 35 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
-| 36 | [labyad](http://twitter.com/search?q=labyad) | N/A |
-| 37 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 38 | [Interrail](http://twitter.com/search?q=Interrail) | N/A |
-| 39 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
-| 40 | [te wierik](http://twitter.com/search?q=te+wierik) | N/A |
-| 41 | [Martin Bosma](http://twitter.com/search?q=Martin+Bosma) | N/A |
-| 42 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 43 | [Sander Schimmelpenninck](http://twitter.com/search?q=Sander+Schimmelpenninck) | N/A |
-| 44 | [Hoorn](http://twitter.com/search?q=Hoorn) | N/A |
-| 45 | [blauw](http://twitter.com/search?q=blauw) | N/A |
-| 46 | [jinek](http://twitter.com/search?q=jinek) | N/A |
-| 47 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 48 | [inflatie](http://twitter.com/search?q=inflatie) | N/A |
-| 49 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
-| 50 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 23 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
+| 24 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 25 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
+| 26 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 27 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
+| 30 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 31 | [donderdag](http://twitter.com/search?q=donderdag) | N/A |
+| 32 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
+| 33 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 34 | [Hoorn](http://twitter.com/search?q=Hoorn) | N/A |
+| 35 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 36 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
+| 37 | [Sander Schimmelpenninck](http://twitter.com/search?q=Sander+Schimmelpenninck) | N/A |
+| 38 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 39 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 40 | [labyad](http://twitter.com/search?q=labyad) | N/A |
+| 41 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
+| 42 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 43 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 44 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 45 | [Interrail](http://twitter.com/search?q=Interrail) | N/A |
+| 46 | [te wierik](http://twitter.com/search?q=te+wierik) | N/A |
+| 47 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 48 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 49 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 50 | [Martin Bosma](http://twitter.com/search?q=Martin+Bosma) | N/A |
 
 
 

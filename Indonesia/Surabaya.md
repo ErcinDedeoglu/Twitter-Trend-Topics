@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-02 11:16:19 UTC`
+📆 Last Updated: `2023-02-02 12:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PelaksanaTertib](http://twitter.com/search?q=%23PelaksanaTertib) | N/A |
-| 2 | [Dukung Bola RI](http://twitter.com/search?q=Dukung+Bola+RI) | N/A |
-| 3 | [#SugarRushRide1stWin](http://twitter.com/search?q=%23SugarRushRide1stWin) | N/A |
-| 4 | [#TXT15thWin](http://twitter.com/search?q=%23TXT15thWin) | N/A |
+| 1 | [#HariBUMDesa](http://twitter.com/search?q=%23HariBUMDesa) | N/A |
+| 2 | [#SugarRushRide1stWin](http://twitter.com/search?q=%23SugarRushRide1stWin) | N/A |
+| 3 | [#TXT15thWin](http://twitter.com/search?q=%23TXT15thWin) | N/A |
+| 4 | [#eaJLaughingInInsomnia](http://twitter.com/search?q=%23eaJLaughingInInsomnia) | N/A |
 | 5 | [#투바투_엠카_1위_문을_열어](http://twitter.com/search?q=%23%ed%88%ac%eb%b0%94%ed%88%ac_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%eb%ac%b8%ec%9d%84_%ec%97%b4%ec%96%b4) | "#투바투_엠카_1위_문을_열어" is a hashtag used to celebrate the first place ranking of the song "Two-Three-M-C-A" on the Korean music chart Mnet. The phrase translates to "Open the door to Two-Three-M-C-A's first place ranking". |
-| 6 | [#eaJLaughingInInsomnia](http://twitter.com/search?q=%23eaJLaughingInInsomnia) | N/A |
-| 7 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 8 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 9 | [Collect Book](http://twitter.com/search?q=Collect+Book) | N/A |
-| 10 | [Pentel](http://twitter.com/search?q=Pentel) | N/A |
-| 11 | [TAEYEON NIGHTS INTO DAYS](http://twitter.com/search?q=TAEYEON+NIGHTS+INTO+DAYS) | N/A |
-| 12 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | N/A |
-| 13 | [Musra Jokowi Jogja](http://twitter.com/search?q=Musra+Jokowi+Jogja) | N/A |
-| 14 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 6 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 7 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 8 | [HUU YAALLAH](http://twitter.com/search?q=HUU+YAALLAH) | N/A |
+| 9 | [Pentel](http://twitter.com/search?q=Pentel) | N/A |
+| 10 | [Hirotada](http://twitter.com/search?q=Hirotada) | N/A |
+| 11 | [Collect Book](http://twitter.com/search?q=Collect+Book) | N/A |
+| 12 | [TAEYEON NIGHTS INTO DAYS](http://twitter.com/search?q=TAEYEON+NIGHTS+INTO+DAYS) | N/A |
+| 13 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 14 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
 | 15 | [Coret](http://twitter.com/search?q=Coret) | N/A |
 | 16 | [Pak Prabowo Konsisten](http://twitter.com/search?q=Pak+Prabowo+Konsisten) | N/A |
-| 17 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
-| 18 | [Pertama](http://twitter.com/search?q=Pertama) | N/A |
-| 19 | [OPEN PO](http://twitter.com/search?q=OPEN+PO) | N/A |
-| 20 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
-| 21 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 22 | [YOON JEONGHAN](http://twitter.com/search?q=YOON+JEONGHAN) | N/A |
-| 23 | [Best Trio](http://twitter.com/search?q=Best+Trio) | N/A |
-| 24 | [Best Duo](http://twitter.com/search?q=Best+Duo) | N/A |
-| 25 | [Usir](http://twitter.com/search?q=Usir) | N/A |
-| 26 | [DP 100k](http://twitter.com/search?q=DP+100k) | N/A |
-| 27 | [BERSIH INA](http://twitter.com/search?q=BERSIH+INA) | N/A |
-| 28 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 17 | [Pertama](http://twitter.com/search?q=Pertama) | N/A |
+| 18 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
+| 19 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 20 | [Dukung Bola RI](http://twitter.com/search?q=Dukung+Bola+RI) | N/A |
+| 21 | [BIG NO](http://twitter.com/search?q=BIG+NO) | N/A |
+| 22 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 23 | [Oreo](http://twitter.com/search?q=Oreo) | N/A |
+| 24 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | N/A |
+| 25 | [Musra Jokowi Jogja](http://twitter.com/search?q=Musra+Jokowi+Jogja) | N/A |
+| 26 | [Yoon Jeonghan](http://twitter.com/search?q=Yoon+Jeonghan) | N/A |
+| 27 | [Bersih INA](http://twitter.com/search?q=Bersih+INA) | N/A |
+| 28 | [DP 100k](http://twitter.com/search?q=DP+100k) | N/A |
 | 29 | [GO LINE](http://twitter.com/search?q=GO+LINE) | N/A |
-| 30 | [Unhar](http://twitter.com/search?q=Unhar) | N/A |
-| 31 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
-| 32 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
-| 33 | [Bias](http://twitter.com/search?q=Bias) | N/A |
-| 34 | [Golkar](http://twitter.com/search?q=Golkar) | N/A |
-| 35 | [LIVE IG](http://twitter.com/search?q=LIVE+IG) | N/A |
-| 36 | [HAECHAN LUCAS KANGEN BANGET](http://twitter.com/search?q=HAECHAN+LUCAS+KANGEN+BANGET) | N/A |
-| 37 | [#GalaxyxBTS](http://twitter.com/search?q=%23GalaxyxBTS) | N/A |
-| 38 | [#HariBUMDesa](http://twitter.com/search?q=%23HariBUMDesa) | N/A |
+| 30 | [Best Duo](http://twitter.com/search?q=Best+Duo) | N/A |
+| 31 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 32 | [best trio](http://twitter.com/search?q=best+trio) | N/A |
+| 33 | [Formula E](http://twitter.com/search?q=Formula+E) | N/A |
+| 34 | [Nikah di KUA](http://twitter.com/search?q=Nikah+di+KUA) | N/A |
+| 35 | [UNHAR](http://twitter.com/search?q=UNHAR) | N/A |
+| 36 | [OPEN PO](http://twitter.com/search?q=OPEN+PO) | N/A |
+| 37 | [LIVE IG](http://twitter.com/search?q=LIVE+IG) | N/A |
+| 38 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
 | 39 | [#BlibliAjaYuk](http://twitter.com/search?q=%23BlibliAjaYuk) | N/A |
-| 40 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 41 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 40 | [#Lazada22xZeeNunew](http://twitter.com/search?q=%23Lazada22xZeeNunew) | #Lazada22xZeeNunew is a hashtag used to promote a collaboration between Lazada, an online shopping platform, and ZeeNu, a fashion brand. The hashtag is used to promote the collaboration and its associated products. In English, it means "Lazada and ZeeNu Collaboration". |
+| 41 | [#GalaxyxBTS](http://twitter.com/search?q=%23GalaxyxBTS) | N/A |
 | 42 | [#SiPalingBTS200Show](http://twitter.com/search?q=%23SiPalingBTS200Show) | N/A |
-| 43 | [#JusticeForSoJunghwan](http://twitter.com/search?q=%23JusticeForSoJunghwan) | N/A |
-| 44 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | N/A |
-| 45 | [#zonajajanᅠᅠᅠ](http://twitter.com/search?q=%23zonajajan%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 46 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 47 | [#barugajian](http://twitter.com/search?q=%23barugajian) | N/A |
-| 48 | [#ThailandMasters2023](http://twitter.com/search?q=%23ThailandMasters2023) | N/A |
-| 49 | [#WeLoveYouLucas](http://twitter.com/search?q=%23WeLoveYouLucas) | #WeLoveYouLucas is a hashtag used to show support and appreciation for Lucas, a person whose identity is not specified. It is typically used on social media platforms such as Twitter and Instagram to express love and admiration for Lucas. |
+| 43 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 44 | [#ShiningWithBoysPlanet](http://twitter.com/search?q=%23ShiningWithBoysPlanet) | N/A |
+| 45 | [#JusticeForSoJunghwan](http://twitter.com/search?q=%23JusticeForSoJunghwan) | N/A |
+| 46 | [#zonajajanᅠᅠᅠ](http://twitter.com/search?q=%23zonajajan%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
+| 47 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 48 | [#PelaksanaTertib](http://twitter.com/search?q=%23PelaksanaTertib) | N/A |
+| 49 | [#EXOSC_BackToBackJakarta](http://twitter.com/search?q=%23EXOSC_BackToBackJakarta) | N/A |
+| 50 | [#barugajian](http://twitter.com/search?q=%23barugajian) | N/A |
 
 
 

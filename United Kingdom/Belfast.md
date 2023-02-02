@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-02 11:16:04 UTC`
+📆 Last Updated: `2023-02-02 12:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,48 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#TimeToTalkDay](http://twitter.com/search?q=%23TimeToTalkDay) | N/A |
 | 2 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 3 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 4 | [O2 Priority](http://twitter.com/search?q=O2+Priority) | N/A |
-| 5 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
-| 6 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
-| 7 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 8 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 9 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 10 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
-| 11 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
-| 12 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 13 | [BBC News - Shell](http://twitter.com/search?q=BBC+News+-+Shell) | N/A |
-| 14 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 15 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 3 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
+| 4 | [#O2Priority](http://twitter.com/search?q=%23O2Priority) | N/A |
+| 5 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 6 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 7 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 8 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 9 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
+| 10 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 11 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
+| 12 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 13 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 14 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 15 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
 | 16 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 17 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 18 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
-| 19 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 20 | [Greed](http://twitter.com/search?q=Greed) | N/A |
-| 21 | [McCann](http://twitter.com/search?q=McCann) | McCann is a surname of Irish origin. It is an anglicized form of the Gaelic Mac Cana, meaning "son of Cana". |
-| 22 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 17 | [Greed](http://twitter.com/search?q=Greed) | N/A |
+| 18 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 19 | [McCann](http://twitter.com/search?q=McCann) | McCann is a surname of Irish origin. It is an anglicized form of the Gaelic Mac Cana, meaning "son of Cana". |
+| 20 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
+| 21 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 22 | [St Mirren](http://twitter.com/search?q=St+Mirren) | N/A |
 | 23 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
-| 24 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 25 | [Uxbridge](http://twitter.com/search?q=Uxbridge) | N/A |
-| 26 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
+| 24 | [#mentalhealth](http://twitter.com/search?q=%23mentalhealth) | N/A |
+| 25 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 26 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
 | 27 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 28 | [#itv7inittowinit](http://twitter.com/search?q=%23itv7inittowinit) | N/A |
-| 29 | [#mentalhealth](http://twitter.com/search?q=%23mentalhealth) | N/A |
-| 30 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | N/A |
-| 31 | [#ASongOrMovieForSchoolTeachers](http://twitter.com/search?q=%23ASongOrMovieForSchoolTeachers) | N/A |
-| 32 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 33 | [#CostOfLivingCrisis](http://twitter.com/search?q=%23CostOfLivingCrisis) | N/A |
-| 34 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 35 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 36 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 37 | [#ToriesOut210](http://twitter.com/search?q=%23ToriesOut210) | N/A |
-| 38 | [#RAJAR](http://twitter.com/search?q=%23RAJAR) | N/A |
-| 39 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
-| 40 | [#windfalltax](http://twitter.com/search?q=%23windfalltax) | N/A |
-| 41 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 42 | [#Lorraine](http://twitter.com/search?q=%23Lorraine) | N/A |
-| 43 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
-| 44 | [#EnergyCrisis](http://twitter.com/search?q=%23EnergyCrisis) | N/A |
-| 45 | [#ToryBrokenBritain](http://twitter.com/search?q=%23ToryBrokenBritain) | N/A |
-| 46 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
-| 47 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
+| 28 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | N/A |
+| 29 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 30 | [#CostOfLivingCrisis](http://twitter.com/search?q=%23CostOfLivingCrisis) | N/A |
+| 31 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 32 | [#ASongOrMovieForSchoolTeachers](http://twitter.com/search?q=%23ASongOrMovieForSchoolTeachers) | N/A |
+| 33 | [#ToriesOut210](http://twitter.com/search?q=%23ToriesOut210) | N/A |
+| 34 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 35 | [#windfalltax](http://twitter.com/search?q=%23windfalltax) | N/A |
+| 36 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 37 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
+| 38 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
+| 39 | [#Lorraine](http://twitter.com/search?q=%23Lorraine) | N/A |
+| 40 | [#RAJAR](http://twitter.com/search?q=%23RAJAR) | N/A |
+| 41 | [#EnergyCrisis](http://twitter.com/search?q=%23EnergyCrisis) | N/A |
+| 42 | [#ToryBrokenBritain](http://twitter.com/search?q=%23ToryBrokenBritain) | N/A |
+| 43 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
+| 44 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 
 
 

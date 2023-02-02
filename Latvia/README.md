@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-02 11:16:48 UTC`
+📆 Last Updated: `2023-02-02 12:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for Latvia
 | 3 | [Avena](http://twitter.com/search?q=Avena) | N/A |
 | 4 | [PMLP](http://twitter.com/search?q=PMLP) | N/A |
 | 5 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 6 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 7 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 8 | [Ogrē](http://twitter.com/search?q=Ogr%c4%93) | N/A |
+| 6 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 7 | [ogrē](http://twitter.com/search?q=ogr%c4%93) | N/A |
+| 8 | [Interesanti](http://twitter.com/search?q=Interesanti) | N/A |
 | 9 | [grevcovas](http://twitter.com/search?q=grevcovas) | N/A |
-| 10 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 11 | [Interesanti](http://twitter.com/search?q=Interesanti) | N/A |
+| 10 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 11 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 12 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
 | 13 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
-| 14 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
-| 15 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
+| 14 | [Rīta Panorāmā](http://twitter.com/search?q=R%c4%abta+Panor%c4%81m%c4%81) | N/A |
+| 15 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
 | 16 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
 | 17 | [Putina](http://twitter.com/search?q=Putina) | N/A |
 | 18 | [Krieviju](http://twitter.com/search?q=Krieviju) | N/A |
 | 19 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 20 | [Latgalē](http://twitter.com/search?q=Latgal%c4%93) | N/A |
-| 21 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 22 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
-| 23 | [#Barbecue](http://twitter.com/search?q=%23Barbecue) | N/A |
-| 24 | [eiropas](http://twitter.com/search?q=eiropas) | N/A |
-| 25 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
-| 26 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 21 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 22 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 23 | [lidl](http://twitter.com/search?q=lidl) | N/A |
+| 24 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
+| 25 | [#Barbecue](http://twitter.com/search?q=%23Barbecue) | N/A |
+| 26 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
 | 27 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
-| 28 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 29 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
-| 30 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 31 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
-| 32 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 33 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 34 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
-| 35 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | N/A |
-| 36 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
-| 37 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 38 | [#wfc2023](http://twitter.com/search?q=%23wfc2023) | N/A |
-| 39 | [#valmierasnovads](http://twitter.com/search?q=%23valmierasnovads) | N/A |
-| 40 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
-| 41 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 42 | [Neesmu](http://twitter.com/search?q=Neesmu) | N/A |
-| 43 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
-| 44 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 45 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
-| 46 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 28 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 29 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
+| 30 | [Zinu](http://twitter.com/search?q=Zinu) | N/A |
+| 31 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 32 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
+| 33 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
+| 34 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 35 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
+| 36 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | N/A |
+| 37 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
+| 38 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 39 | [#wfc2023](http://twitter.com/search?q=%23wfc2023) | N/A |
+| 40 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 41 | [#valmierasnovads](http://twitter.com/search?q=%23valmierasnovads) | N/A |
+| 42 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
+| 43 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
+| 44 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
+| 45 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 46 | [Lietuvas](http://twitter.com/search?q=Lietuvas) | N/A |
 | 47 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
 | 48 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
-| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 49 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
 
 
 
