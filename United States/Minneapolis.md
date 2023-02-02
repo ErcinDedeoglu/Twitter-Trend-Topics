@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-02 14:17:56 UTC`
+📆 Last Updated: `2023-02-02 15:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
 | 2 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 3 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 4 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 5 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 6 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 7 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
-| 8 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
-| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 10 | [Hoshi](http://twitter.com/search?q=Hoshi) | N/A |
-| 11 | [Gobbler's Knob](http://twitter.com/search?q=Gobbler%27s+Knob) | N/A |
-| 12 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 13 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 14 | [Staten Island Chuck](http://twitter.com/search?q=Staten+Island+Chuck) | N/A |
-| 15 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 16 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 17 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 18 | [SIX MORE WEEKS OF WINTER](http://twitter.com/search?q=SIX+MORE+WEEKS+OF+WINTER) | N/A |
-| 19 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 20 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
-| 21 | [#NationalCatchersDay](http://twitter.com/search?q=%23NationalCatchersDay) | N/A |
-| 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 23 | [Buckeye Chuck](http://twitter.com/search?q=Buckeye+Chuck) | N/A |
-| 24 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
-| 25 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 26 | [Ned Ryerson](http://twitter.com/search?q=Ned+Ryerson) | N/A |
-| 27 | [Early Spring](http://twitter.com/search?q=Early+Spring) | N/A |
-| 28 | [Dan Rather](http://twitter.com/search?q=Dan+Rather) | N/A |
-| 29 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 30 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
-| 31 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 32 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 33 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 34 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 35 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
-| 36 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
-| 37 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
-| 38 | [Austin Energy](http://twitter.com/search?q=Austin+Energy) | N/A |
-| 39 | [Socialism](http://twitter.com/search?q=Socialism) | N/A |
-| 40 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
-| 41 | [Serena Williams](http://twitter.com/search?q=Serena+Williams) | N/A |
-| 42 | [Nadler](http://twitter.com/search?q=Nadler) | N/A |
-| 43 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 44 | [HIPAA](http://twitter.com/search?q=HIPAA) | N/A |
-| 45 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 46 | [$META](http://twitter.com/search?q=%24META) | META is an acronym for "Most Effective Tactics Available." It is used to refer to strategies or tactics that are considered to be the most effective or efficient way of achieving a desired outcome. |
-| 47 | [Barry Sanders](http://twitter.com/search?q=Barry+Sanders) | N/A |
-| 48 | [Orange Krush](http://twitter.com/search?q=Orange+Krush) | N/A |
-| 49 | [Gretzky](http://twitter.com/search?q=Gretzky) | N/A |
-| 50 | [$5.1 Billion](http://twitter.com/search?q=%245.1+Billion) | N/A |
+| 3 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 4 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
+| 5 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
+| 6 | [Greenwood](http://twitter.com/search?q=Greenwood) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 9 | [Gobbler's Knob](http://twitter.com/search?q=Gobbler%27s+Knob) | N/A |
+| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 11 | [Staten Island Chuck](http://twitter.com/search?q=Staten+Island+Chuck) | N/A |
+| 12 | [Dre Bly](http://twitter.com/search?q=Dre+Bly) | N/A |
+| 13 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 14 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 15 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
+| 16 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 17 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 18 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
+| 19 | [Julian Love](http://twitter.com/search?q=Julian+Love) | N/A |
+| 20 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 21 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
+| 22 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 23 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 25 | [buckeye chuck](http://twitter.com/search?q=buckeye+chuck) | N/A |
+| 26 | [National Prayer Breakfast](http://twitter.com/search?q=National+Prayer+Breakfast) | N/A |
+| 27 | [Bill de Blasio](http://twitter.com/search?q=Bill+de+Blasio) | N/A |
+| 28 | [General Beauregard Lee](http://twitter.com/search?q=General+Beauregard+Lee) | N/A |
+| 29 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
+| 30 | [Eunice Dwumfour](http://twitter.com/search?q=Eunice+Dwumfour) | N/A |
+| 31 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
+| 32 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 33 | [Gromit](http://twitter.com/search?q=Gromit) | Gromit is a fictional character from the British stop-motion animated comedy series Wallace and Gromit. He is a loyal, intelligent, anthropomorphic dog and the best friend of Wallace, a cheese-loving inventor. The name "Gromit" is derived from the English verb "to grumble". |
+| 34 | [Early Spring](http://twitter.com/search?q=Early+Spring) | N/A |
+| 35 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 36 | [Ned Ryerson](http://twitter.com/search?q=Ned+Ryerson) | N/A |
+| 37 | [Charlie Munger](http://twitter.com/search?q=Charlie+Munger) | N/A |
+| 38 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
+| 39 | [Dan Rather](http://twitter.com/search?q=Dan+Rather) | N/A |
+| 40 | [Ray Dalio](http://twitter.com/search?q=Ray+Dalio) | N/A |
+| 41 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
+| 42 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
+| 43 | [Christie Brinkley](http://twitter.com/search?q=Christie+Brinkley) | N/A |
+| 44 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 45 | [APIs](http://twitter.com/search?q=APIs) | N/A |
+| 46 | [James Joyce](http://twitter.com/search?q=James+Joyce) | N/A |
+| 47 | [First Job](http://twitter.com/search?q=First+Job) | N/A |
+| 48 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 49 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 50 | [Austin Energy](http://twitter.com/search?q=Austin+Energy) | N/A |
 
 
 

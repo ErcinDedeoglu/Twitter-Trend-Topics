@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-02 14:17:40 UTC`
+📆 Last Updated: `2023-02-02 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
-| 2 | [#MCIMulingPaghaharap](http://twitter.com/search?q=%23MCIMulingPaghaharap) | N/A |
-| 3 | [#DLCleaners](http://twitter.com/search?q=%23DLCleaners) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
-| 6 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 7 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
-| 8 | [SILA IDOL PALA](http://twitter.com/search?q=SILA+IDOL+PALA) | SILA IDOL PALA is a Malaysian phrase that translates to "You are my idol". It is often used as a term of endearment or admiration for someone. |
+| 1 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 2 | [#DLCleaners](http://twitter.com/search?q=%23DLCleaners) | N/A |
+| 3 | [#MCIMulingPaghaharap](http://twitter.com/search?q=%23MCIMulingPaghaharap) | N/A |
+| 4 | [#SECONDWIND_D3](http://twitter.com/search?q=%23SECONDWIND_D3) | N/A |
+| 5 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
+| 6 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
+| 7 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 8 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
 | 9 | [D-1 COMPLEX EP RELEASE](http://twitter.com/search?q=D-1+COMPLEX+EP+RELEASE) | N/A |
-| 10 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 10 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
 | 11 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
-| 12 | [The Right Way to Pray](http://twitter.com/search?q=The+Right+Way+to+Pray) | N/A |
-| 13 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 14 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | N/A |
-| 15 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 16 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 17 | [WALANG IWANAN KD](http://twitter.com/search?q=WALANG+IWANAN+KD) | N/A |
-| 18 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
-| 19 | [SHOPEE SULIT BRANDS SALE 2DAY](http://twitter.com/search?q=SHOPEE+SULIT+BRANDS+SALE+2DAY) | N/A |
-| 20 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
-| 21 | [DARREN FOR KANNAWIDAN2023](http://twitter.com/search?q=DARREN+FOR+KANNAWIDAN2023) | N/A |
-| 22 | [welcome to nyc janenella](http://twitter.com/search?q=welcome+to+nyc+janenella) | N/A |
-| 23 | [we gotchu always kd](http://twitter.com/search?q=we+gotchu+always+kd) | N/A |
-| 24 | [alexas bday in25days](http://twitter.com/search?q=alexas+bday+in25days) | N/A |
-| 25 | [donny for mega man](http://twitter.com/search?q=donny+for+mega+man) | N/A |
-| 26 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
-| 27 | [safe skies](http://twitter.com/search?q=safe+skies) | N/A |
-| 28 | [THURSloveBlast KIANOs](http://twitter.com/search?q=THURSloveBlast+KIANOs) | N/A |
-| 29 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 30 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 31 | [en-vaders goes to mnl](http://twitter.com/search?q=en-vaders+goes+to+mnl) | N/A |
-| 32 | [stell the song birdie](http://twitter.com/search?q=stell+the+song+birdie) | N/A |
-| 33 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 34 | [BELLEntines WithDUNKIN](http://twitter.com/search?q=BELLEntines+WithDUNKIN) | N/A |
-| 35 | [andrea gemofastar](http://twitter.com/search?q=andrea+gemofastar) | N/A |
-| 36 | [Xyriel](http://twitter.com/search?q=Xyriel) | N/A |
-| 37 | [MAY POGI NA SA PINAS](http://twitter.com/search?q=MAY+POGI+NA+SA+PINAS) | N/A |
-| 38 | [WAITING FOR US](http://twitter.com/search?q=WAITING+FOR+US) | N/A |
-| 39 | [NARIAN TESTED LOVE](http://twitter.com/search?q=NARIAN+TESTED+LOVE) | N/A |
-| 40 | [powerfuldonbelle withsmart](http://twitter.com/search?q=powerfuldonbelle+withsmart) | N/A |
-| 41 | [d2 choreograstell](http://twitter.com/search?q=d2+choreograstell) | N/A |
-| 42 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 43 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
-| 44 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 45 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 46 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 47 | [BSS HIGHLIGHT MEDLEY](http://twitter.com/search?q=BSS+HIGHLIGHT+MEDLEY) | BSS HIGHLIGHT MEDLEY is a compilation of songs from the Japanese pop group BSS (BananaLemon, SmileYa, and SevenOops). It is a collection of some of their most popular and memorable songs. The English translation of the phrase would be "BSS Best Hits Medley". |
-| 48 | [Baek](http://twitter.com/search?q=Baek) | N/A |
+| 12 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
+| 13 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 14 | [ALAMAT JAMMING WITH RAPPLER](http://twitter.com/search?q=ALAMAT+JAMMING+WITH+RAPPLER) | N/A |
+| 15 | [DARREN FOR KANNAWIDAN2023](http://twitter.com/search?q=DARREN+FOR+KANNAWIDAN2023) | N/A |
+| 16 | [suchwita](http://twitter.com/search?q=suchwita) | N/A |
+| 17 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
+| 18 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 19 | [Angel Aquino](http://twitter.com/search?q=Angel+Aquino) | N/A |
+| 20 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 21 | [Vice](http://twitter.com/search?q=Vice) | N/A |
+| 22 | [soonyoung](http://twitter.com/search?q=soonyoung) | N/A |
+| 23 | [Walang Iwanan Kd](http://twitter.com/search?q=Walang+Iwanan+Kd) | N/A |
+| 24 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 25 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 26 | [Ador](http://twitter.com/search?q=Ador) | N/A |
+| 27 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 28 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
+| 29 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
+| 30 | [simoun](http://twitter.com/search?q=simoun) | N/A |
+| 31 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 32 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 33 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 34 | [#BSS_Fighting_Teaser1](http://twitter.com/search?q=%23BSS_Fighting_Teaser1) | N/A |
+| 35 | [#OurREInbowDay](http://twitter.com/search?q=%23OurREInbowDay) | N/A |
+| 36 | [#레이가있어_콩닥콩닥한_2월](http://twitter.com/search?q=%23%eb%a0%88%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%ec%bd%a9%eb%8b%a5%ec%bd%a9%eb%8b%a5%ed%95%9c_2%ec%9b%94) | N/A |
+| 37 | [#오직_규현만을_사랑해](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%ea%b7%9c%ed%98%84%eb%a7%8c%ec%9d%84_%ec%82%ac%eb%9e%91%ed%95%b4) | "#오직_규현만을_사랑해" is a hashtag used by fans of South Korean singer Kyuhyun. It translates to "Love only Kyuhyun". |
+| 38 | [#ItsBeomtifulDay](http://twitter.com/search?q=%23ItsBeomtifulDay) | N/A |
+| 39 | [#JonaxxACTYAKab41](http://twitter.com/search?q=%23JonaxxACTYAKab41) | N/A |
+| 40 | [#골든차일드](http://twitter.com/search?q=%23%ea%b3%a8%eb%93%a0%ec%b0%a8%ec%9d%bc%eb%93%9c) | N/A |
+| 41 | [#GoldenChild](http://twitter.com/search?q=%23GoldenChild) | N/A |
+| 42 | [#LISAxBVLGARI](http://twitter.com/search?q=%23LISAxBVLGARI) | #LISAxBVLGARI is a hashtag used to promote the collaboration between South Korean singer-songwriter Lisa and Italian luxury brand Bvlgari. The hashtag is used to promote the collaboration on social media platforms such as Twitter and Instagram. In English, it means "Lisa and Bvlgari". |
+| 43 | [#ALAMATxRapplerLiveJam](http://twitter.com/search?q=%23ALAMATxRapplerLiveJam) | N/A |
+| 44 | [#LuvIsLangitAtLupa](http://twitter.com/search?q=%23LuvIsLangitAtLupa) | N/A |
+| 45 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 46 | [#ENHYPEN_IN_MANILA](http://twitter.com/search?q=%23ENHYPEN_IN_MANILA) | N/A |
 
 
 

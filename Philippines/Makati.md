@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-02 14:17:40 UTC`
+📆 Last Updated: `2023-02-02 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
-| 2 | [#MCIMulingPaghaharap](http://twitter.com/search?q=%23MCIMulingPaghaharap) | N/A |
-| 3 | [#DLCleaners](http://twitter.com/search?q=%23DLCleaners) | N/A |
-| 4 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
-| 5 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
-| 6 | [#LISAxBVLGARI](http://twitter.com/search?q=%23LISAxBVLGARI) | N/A |
-| 7 | [#ALAMATxRapplerLiveJam](http://twitter.com/search?q=%23ALAMATxRapplerLiveJam) | N/A |
-| 8 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
-| 9 | [ALAMAT JAMMING WITH RAPPLER](http://twitter.com/search?q=ALAMAT+JAMMING+WITH+RAPPLER) | N/A |
-| 10 | [D-1 COMPLEX EP RELEASE](http://twitter.com/search?q=D-1+COMPLEX+EP+RELEASE) | N/A |
-| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 12 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 13 | [The Right Way to Pray](http://twitter.com/search?q=The+Right+Way+to+Pray) | N/A |
-| 14 | [#LuvIsLangitAtLupa](http://twitter.com/search?q=%23LuvIsLangitAtLupa) | N/A |
-| 15 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
-| 16 | [WALANG IWANAN KD](http://twitter.com/search?q=WALANG+IWANAN+KD) | N/A |
-| 17 | [VXON PPOPCON2023 REVEAL](http://twitter.com/search?q=VXON+PPOPCON2023+REVEAL) | N/A |
-| 18 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
-| 19 | [Baek](http://twitter.com/search?q=Baek) | N/A |
-| 20 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 21 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 22 | [Angel Aquino](http://twitter.com/search?q=Angel+Aquino) | N/A |
-| 23 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
-| 24 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 25 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 26 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 27 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
-| 28 | [Ador](http://twitter.com/search?q=Ador) | N/A |
-| 29 | [welcome to nyc janenella](http://twitter.com/search?q=welcome+to+nyc+janenella) | N/A |
-| 30 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 31 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 32 | [Hoon](http://twitter.com/search?q=Hoon) | N/A |
-| 33 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 34 | [SHOPEE SULIT BRANDS SALE 2DAY](http://twitter.com/search?q=SHOPEE+SULIT+BRANDS+SALE+2DAY) | N/A |
-| 35 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | N/A |
-| 36 | [#TXT15thWin](http://twitter.com/search?q=%23TXT15thWin) | N/A |
-| 37 | [#VXONonPPopCon2023](http://twitter.com/search?q=%23VXONonPPopCon2023) | N/A |
-| 38 | [#투바투_엠카_1위_문을_열어](http://twitter.com/search?q=%23%ed%88%ac%eb%b0%94%ed%88%ac_%ec%97%a0%ec%b9%b4_1%ec%9c%84_%eb%ac%b8%ec%9d%84_%ec%97%b4%ec%96%b4) | "#투바투_엠카_1위_문을_열어" is a hashtag used to celebrate the first place ranking of the song "Two-Three-M-C-A" on the Korean music chart Mnet. The phrase translates to "Open the door to Two-Three-M-C-A's first place ranking". |
-| 39 | [#Lazada22xZeeNunew](http://twitter.com/search?q=%23Lazada22xZeeNunew) | #Lazada22xZeeNunew is a hashtag used to promote a collaboration between Lazada, an online shopping platform, and ZeeNu, a fashion brand. The hashtag is used to promote the collaboration and its associated products. In English, it means "Lazada and ZeeNu Collaboration". |
-| 40 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 41 | [#SethFedelin](http://twitter.com/search?q=%23SethFedelin) | N/A |
-| 42 | [#MNL48](http://twitter.com/search?q=%23MNL48) | N/A |
-| 43 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
-| 44 | [#enhypen_in_manila](http://twitter.com/search?q=%23enhypen_in_manila) | N/A |
-| 45 | [#LazadaPH22](http://twitter.com/search?q=%23LazadaPH22) | N/A |
-| 46 | [#BOYCOTTMZETxAPTxGMA694](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA694) | N/A |
-| 47 | [#Darlentina](http://twitter.com/search?q=%23Darlentina) | N/A |
+| 1 | [#FrancineDiaz](http://twitter.com/search?q=%23FrancineDiaz) | N/A |
+| 2 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
+| 3 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 4 | [#DLCleaners](http://twitter.com/search?q=%23DLCleaners) | N/A |
+| 5 | [#MCIMulingPaghaharap](http://twitter.com/search?q=%23MCIMulingPaghaharap) | N/A |
+| 6 | [#SECONDWIND_D3](http://twitter.com/search?q=%23SECONDWIND_D3) | N/A |
+| 7 | [#BSS_Fighting_Teaser1](http://twitter.com/search?q=%23BSS_Fighting_Teaser1) | N/A |
+| 8 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
+| 9 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
+| 10 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 11 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 12 | [D-1 COMPLEX EP RELEASE](http://twitter.com/search?q=D-1+COMPLEX+EP+RELEASE) | N/A |
+| 13 | [MY ARMYCARAT HEART](http://twitter.com/search?q=MY+ARMYCARAT+HEART) | N/A |
+| 14 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
+| 15 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
+| 16 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 17 | [ALAMAT JAMMING WITH RAPPLER](http://twitter.com/search?q=ALAMAT+JAMMING+WITH+RAPPLER) | N/A |
+| 18 | [DARREN FOR KANNAWIDAN2023](http://twitter.com/search?q=DARREN+FOR+KANNAWIDAN2023) | N/A |
+| 19 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 20 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
+| 21 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 23 | [Angel Aquino](http://twitter.com/search?q=Angel+Aquino) | N/A |
+| 24 | [Vice](http://twitter.com/search?q=Vice) | N/A |
+| 25 | [soonyoung](http://twitter.com/search?q=soonyoung) | N/A |
+| 26 | [Walang Iwanan Kd](http://twitter.com/search?q=Walang+Iwanan+Kd) | N/A |
+| 27 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 28 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 29 | [Ador](http://twitter.com/search?q=Ador) | N/A |
+| 30 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 31 | [Showtime](http://twitter.com/search?q=Showtime) | N/A |
+| 32 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
+| 33 | [simoun](http://twitter.com/search?q=simoun) | N/A |
+| 34 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 35 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 36 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
+| 37 | [#OurREInbowDay](http://twitter.com/search?q=%23OurREInbowDay) | N/A |
+| 38 | [#레이가있어_콩닥콩닥한_2월](http://twitter.com/search?q=%23%eb%a0%88%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%ec%bd%a9%eb%8b%a5%ec%bd%a9%eb%8b%a5%ed%95%9c_2%ec%9b%94) | N/A |
+| 39 | [#오직_규현만을_사랑해](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%ea%b7%9c%ed%98%84%eb%a7%8c%ec%9d%84_%ec%82%ac%eb%9e%91%ed%95%b4) | "#오직_규현만을_사랑해" is a hashtag used by fans of South Korean singer Kyuhyun. It translates to "Love only Kyuhyun". |
+| 40 | [#ItsBeomtifulDay](http://twitter.com/search?q=%23ItsBeomtifulDay) | N/A |
+| 41 | [#JonaxxACTYAKab41](http://twitter.com/search?q=%23JonaxxACTYAKab41) | N/A |
+| 42 | [#골든차일드](http://twitter.com/search?q=%23%ea%b3%a8%eb%93%a0%ec%b0%a8%ec%9d%bc%eb%93%9c) | N/A |
+| 43 | [#GoldenChild](http://twitter.com/search?q=%23GoldenChild) | N/A |
+| 44 | [#LISAxBVLGARI](http://twitter.com/search?q=%23LISAxBVLGARI) | #LISAxBVLGARI is a hashtag used to promote the collaboration between South Korean singer-songwriter Lisa and Italian luxury brand Bvlgari. The hashtag is used to promote the collaboration on social media platforms such as Twitter and Instagram. In English, it means "Lisa and Bvlgari". |
+| 45 | [#ALAMATxRapplerLiveJam](http://twitter.com/search?q=%23ALAMATxRapplerLiveJam) | N/A |
+| 46 | [#LuvIsLangitAtLupa](http://twitter.com/search?q=%23LuvIsLangitAtLupa) | N/A |
+| 47 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 48 | [#ENHYPEN_IN_MANILA](http://twitter.com/search?q=%23ENHYPEN_IN_MANILA) | N/A |
+| 49 | [#VXONonPPopCon2023](http://twitter.com/search?q=%23VXONonPPopCon2023) | N/A |
+| 50 | [#Lazada22xZeeNunew](http://twitter.com/search?q=%23Lazada22xZeeNunew) | #Lazada22xZeeNunew is a hashtag used to promote a collaboration between Lazada, an online shopping platform, and ZeeNu, a fashion brand. The hashtag is used to promote the collaboration and its associated products. In English, it means "Lazada and ZeeNu Collaboration". |
 
 
 

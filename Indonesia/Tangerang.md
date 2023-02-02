@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-02 14:17:35 UTC`
+📆 Last Updated: `2023-02-02 15:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HariBUMDesa](http://twitter.com/search?q=%23HariBUMDesa) | N/A |
-| 2 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
-| 3 | [#PerindoPacuLapanganKerja](http://twitter.com/search?q=%23PerindoPacuLapanganKerja) | N/A |
-| 4 | [#eaJSmilingInInsomnia](http://twitter.com/search?q=%23eaJSmilingInInsomnia) | N/A |
-| 5 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
-| 6 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 7 | [#eaJ1stEP](http://twitter.com/search?q=%23eaJ1stEP) | N/A |
-| 8 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 9 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 10 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 11 | [Lirik](http://twitter.com/search?q=Lirik) | N/A |
-| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 13 | [Pentel](http://twitter.com/search?q=Pentel) | N/A |
-| 14 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 15 | [HUU YAALLAH](http://twitter.com/search?q=HUU+YAALLAH) | N/A |
-| 16 | [Kris](http://twitter.com/search?q=Kris) | N/A |
-| 17 | [Hirotada](http://twitter.com/search?q=Hirotada) | N/A |
-| 18 | [Pak Prabowo Konsisten](http://twitter.com/search?q=Pak+Prabowo+Konsisten) | N/A |
-| 19 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
-| 20 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 21 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 22 | [Purwokerto](http://twitter.com/search?q=Purwokerto) | N/A |
+| 1 | [#MalamJumatKliwon](http://twitter.com/search?q=%23MalamJumatKliwon) | N/A |
+| 2 | [#HariBUMDesa](http://twitter.com/search?q=%23HariBUMDesa) | N/A |
+| 3 | [#오직_규현만을_사랑해](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%ea%b7%9c%ed%98%84%eb%a7%8c%ec%9d%84_%ec%82%ac%eb%9e%91%ed%95%b4) | "#오직_규현만을_사랑해" is a hashtag used by fans of South Korean singer Kyuhyun. It translates to "Love only Kyuhyun". |
+| 4 | [#SharetheEpic](http://twitter.com/search?q=%23SharetheEpic) | N/A |
+| 5 | [Happy Birthday Kyuhyun](http://twitter.com/search?q=Happy+Birthday+Kyuhyun) | N/A |
+| 6 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
+| 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 8 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 9 | [Suzzanna](http://twitter.com/search?q=Suzzanna) | N/A |
+| 10 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 11 | [Greenwood](http://twitter.com/search?q=Greenwood) | N/A |
+| 12 | [MOUSE](http://twitter.com/search?q=MOUSE) | N/A |
+| 13 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 14 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
+| 15 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 16 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 17 | [Tadashi](http://twitter.com/search?q=Tadashi) | N/A |
+| 18 | [Pentel](http://twitter.com/search?q=Pentel) | N/A |
+| 19 | [Lirik](http://twitter.com/search?q=Lirik) | N/A |
+| 20 | [Kris](http://twitter.com/search?q=Kris) | N/A |
+| 21 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 22 | [HUU YAALLAH](http://twitter.com/search?q=HUU+YAALLAH) | N/A |
 | 23 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
-| 24 | [TAEYEON NIGHTS INTO DAYS](http://twitter.com/search?q=TAEYEON+NIGHTS+INTO+DAYS) | N/A |
-| 25 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 26 | [Coret](http://twitter.com/search?q=Coret) | N/A |
-| 27 | [Musra Jokowi Jogja](http://twitter.com/search?q=Musra+Jokowi+Jogja) | N/A |
-| 28 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 29 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | N/A |
-| 30 | [Pertama](http://twitter.com/search?q=Pertama) | N/A |
-| 31 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 32 | [BIG NO](http://twitter.com/search?q=BIG+NO) | N/A |
-| 33 | [Collect Book](http://twitter.com/search?q=Collect+Book) | N/A |
-| 34 | [Oreo](http://twitter.com/search?q=Oreo) | N/A |
-| 35 | [Bersih INA](http://twitter.com/search?q=Bersih+INA) | N/A |
-| 36 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 37 | [Usir](http://twitter.com/search?q=Usir) | N/A |
-| 38 | [Kampus](http://twitter.com/search?q=Kampus) | N/A |
-| 39 | [Jakarta Selatan](http://twitter.com/search?q=Jakarta+Selatan) | N/A |
-| 40 | [Unhar](http://twitter.com/search?q=Unhar) | N/A |
-| 41 | [GO LINE](http://twitter.com/search?q=GO+LINE) | N/A |
-| 42 | [#eaJPark](http://twitter.com/search?q=%23eaJPark) | N/A |
-| 43 | [#eaJLaughingInInsomnia](http://twitter.com/search?q=%23eaJLaughingInInsomnia) | N/A |
-| 44 | [#mspselcaday](http://twitter.com/search?q=%23mspselcaday) | N/A |
-| 45 | [#LISAxBVLGARI](http://twitter.com/search?q=%23LISAxBVLGARI) | N/A |
-| 46 | [#SugarRushRide1stWin](http://twitter.com/search?q=%23SugarRushRide1stWin) | N/A |
-| 47 | [#BlibliAjaYuk](http://twitter.com/search?q=%23BlibliAjaYuk) | N/A |
-| 48 | [#SiPalingBTS200Show](http://twitter.com/search?q=%23SiPalingBTS200Show) | N/A |
+| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 25 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 26 | [Purwokerto](http://twitter.com/search?q=Purwokerto) | N/A |
+| 27 | [series 5g](http://twitter.com/search?q=series+5g) | N/A |
+| 28 | [pak prabowo konsisten](http://twitter.com/search?q=pak+prabowo+konsisten) | N/A |
+| 29 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 30 | [Coret](http://twitter.com/search?q=Coret) | N/A |
+| 31 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
+| 32 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 33 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
+| 34 | [musra jokowi jogja](http://twitter.com/search?q=musra+jokowi+jogja) | N/A |
+| 35 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 36 | [Bersih INA](http://twitter.com/search?q=Bersih+INA) | N/A |
+| 37 | [BIG NO](http://twitter.com/search?q=BIG+NO) | N/A |
+| 38 | [Collect Book](http://twitter.com/search?q=Collect+Book) | N/A |
+| 39 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 40 | [Oreo](http://twitter.com/search?q=Oreo) | N/A |
+| 41 | [Jakarta Selatan](http://twitter.com/search?q=Jakarta+Selatan) | N/A |
+| 42 | [GO Line](http://twitter.com/search?q=GO+Line) | N/A |
+| 43 | [#GalaxyxBTS](http://twitter.com/search?q=%23GalaxyxBTS) | N/A |
+| 44 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
+| 45 | [#PerindoPacuLapanganKerja](http://twitter.com/search?q=%23PerindoPacuLapanganKerja) | N/A |
+| 46 | [#eaJSmilingInInsomnia](http://twitter.com/search?q=%23eaJSmilingInInsomnia) | N/A |
+| 47 | [#SECONDWIND_D3](http://twitter.com/search?q=%23SECONDWIND_D3) | N/A |
+| 48 | [#BSS_Fighting_Teaser1](http://twitter.com/search?q=%23BSS_Fighting_Teaser1) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-02 14:18:04 UTC`
+📆 Last Updated: `2023-02-02 15:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Netherlands
 | 1 | [Thijs](http://twitter.com/search?q=Thijs) | Thijs is a Dutch given name, derived from the Greek name Matthias. It is a variant of the English name Matthew. The meaning of Thijs in English is "gift of God". |
 | 2 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
 | 3 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
-| 4 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 5 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
-| 6 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
+| 4 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
+| 5 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 6 | [#RKCGAE](http://twitter.com/search?q=%23RKCGAE) | N/A |
 | 7 | [Moord](http://twitter.com/search?q=Moord) | N/A |
-| 8 | [#RKCgae](http://twitter.com/search?q=%23RKCgae) | N/A |
-| 9 | [#watersnoodramp](http://twitter.com/search?q=%23watersnoodramp) | N/A |
-| 10 | [#kleurindenatuur](http://twitter.com/search?q=%23kleurindenatuur) | N/A |
+| 8 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
+| 9 | [#KleurInDeNatuur](http://twitter.com/search?q=%23KleurInDeNatuur) | N/A |
+| 10 | [#watersnoodramp](http://twitter.com/search?q=%23watersnoodramp) | N/A |
 | 11 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 12 | [gerda](http://twitter.com/search?q=gerda) | N/A |
+| 12 | [Eritreeërs](http://twitter.com/search?q=Eritree%c3%abrs) | N/A |
 | 13 | [Gekkekoeienziekte](http://twitter.com/search?q=Gekkekoeienziekte) | N/A |
-| 14 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
-| 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 16 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 17 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
-| 18 | [Dwight Lodeweges](http://twitter.com/search?q=Dwight+Lodeweges) | N/A |
-| 19 | [lelystad airport](http://twitter.com/search?q=lelystad+airport) | N/A |
-| 20 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
-| 21 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 22 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
-| 23 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 26 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
-| 27 | [ongehoord nederland](http://twitter.com/search?q=ongehoord+nederland) | N/A |
-| 28 | [kwint](http://twitter.com/search?q=kwint) | N/A |
-| 29 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 30 | [Vreselijk](http://twitter.com/search?q=Vreselijk) | N/A |
-| 31 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 32 | [donderdag](http://twitter.com/search?q=donderdag) | N/A |
-| 33 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 34 | [John Heitinga](http://twitter.com/search?q=John+Heitinga) | N/A |
-| 35 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 36 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 37 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 38 | [Sander Schimmelpenninck](http://twitter.com/search?q=Sander+Schimmelpenninck) | N/A |
+| 14 | [dwight lodeweges](http://twitter.com/search?q=dwight+lodeweges) | N/A |
+| 15 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
+| 16 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
+| 17 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
+| 18 | [richard de mos](http://twitter.com/search?q=richard+de+mos) | N/A |
+| 19 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
+| 20 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 21 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
+| 22 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
+| 23 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
+| 24 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 25 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
+| 28 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 29 | [donderdag](http://twitter.com/search?q=donderdag) | N/A |
+| 30 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 31 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 32 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 33 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
+| 34 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 35 | [sander schimmelpenninck](http://twitter.com/search?q=sander+schimmelpenninck) | N/A |
+| 36 | [Malek F.](http://twitter.com/search?q=Malek+F.) | N/A |
+| 37 | [rabobank](http://twitter.com/search?q=rabobank) | N/A |
+| 38 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
 | 39 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
-| 40 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 41 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
+| 40 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 41 | [Regiobank](http://twitter.com/search?q=Regiobank) | N/A |
 | 42 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
-| 43 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 44 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 45 | [Zenith](http://twitter.com/search?q=Zenith) | N/A |
-| 46 | [Martin Bosma](http://twitter.com/search?q=Martin+Bosma) | N/A |
+| 43 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
+| 44 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 45 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 46 | [Topjaar](http://twitter.com/search?q=Topjaar) | N/A |
 | 47 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 48 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 49 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
-| 50 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 48 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 49 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 50 | [Interrail](http://twitter.com/search?q=Interrail) | N/A |
 
 
 

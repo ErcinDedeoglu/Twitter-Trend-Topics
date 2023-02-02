@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-02 14:17:17 UTC`
+📆 Last Updated: `2023-02-02 15:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 1 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
 | 2 | [#TimeToTalkDay](http://twitter.com/search?q=%23TimeToTalkDay) | N/A |
-| 3 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 4 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 5 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
-| 6 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
-| 7 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
-| 8 | [#mentalhealth](http://twitter.com/search?q=%23mentalhealth) | N/A |
-| 9 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 10 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
-| 11 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 12 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
-| 13 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 14 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 15 | [Greed](http://twitter.com/search?q=Greed) | N/A |
-| 16 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 17 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 18 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 19 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 20 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
-| 21 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 22 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
-| 23 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 24 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
-| 25 | [Neil McCann](http://twitter.com/search?q=Neil+McCann) | N/A |
-| 26 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
-| 27 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 28 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 29 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
-| 30 | [#O2Priority](http://twitter.com/search?q=%23O2Priority) | N/A |
-| 31 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 32 | [#CostOfLivingCrisis](http://twitter.com/search?q=%23CostOfLivingCrisis) | N/A |
-| 33 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 34 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
-| 35 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 36 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 37 | [#ASongOrMovieForSchoolTeachers](http://twitter.com/search?q=%23ASongOrMovieForSchoolTeachers) | N/A |
-| 38 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 39 | [#windfalltax](http://twitter.com/search?q=%23windfalltax) | N/A |
-| 40 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 41 | [#RAJAR](http://twitter.com/search?q=%23RAJAR) | N/A |
-| 42 | [#ToriesOut210](http://twitter.com/search?q=%23ToriesOut210) | N/A |
-| 43 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
-| 44 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 45 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
-| 46 | [#EnergyCrisis](http://twitter.com/search?q=%23EnergyCrisis) | N/A |
+| 3 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 4 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 5 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
+| 6 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 7 | [Kell](http://twitter.com/search?q=Kell) | N/A |
+| 8 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 9 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
+| 10 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 11 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
+| 12 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 13 | [DROPPED](http://twitter.com/search?q=DROPPED) | N/A |
+| 14 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 15 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 16 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
+| 17 | [#mentalhealth](http://twitter.com/search?q=%23mentalhealth) | N/A |
+| 18 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 19 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 20 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
+| 21 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 22 | [Legally](http://twitter.com/search?q=Legally) | N/A |
+| 23 | [Greed](http://twitter.com/search?q=Greed) | N/A |
+| 24 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
+| 25 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
+| 26 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
+| 27 | [O2 Priority](http://twitter.com/search?q=O2+Priority) | N/A |
+| 28 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 29 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 30 | [MUFC](http://twitter.com/search?q=MUFC) | N/A |
+| 31 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 32 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 33 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 34 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 35 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 36 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 37 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 38 | [Neil McCann](http://twitter.com/search?q=Neil+McCann) | N/A |
+| 39 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 40 | [Title](http://twitter.com/search?q=Title) | N/A |
+| 41 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
+| 42 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 43 | [Chilwell](http://twitter.com/search?q=Chilwell) | N/A |
+| 44 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
+| 45 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 46 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | #GroundhogDay is an annual event celebrated in the United States and Canada on February 2nd. It is based on a legend that if a groundhog (a type of rodent) emerges from its burrow on this day and sees its shadow, there will be six more weeks of winter weather. If the groundhog does not see its shadow, it is said to be an indication of an early spring. |
+| 47 | [#fmqs](http://twitter.com/search?q=%23fmqs) | N/A |
 
 
 

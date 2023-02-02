@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-02 14:17:18 UTC`
+📆 Last Updated: `2023-02-02 15:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TimeToTalkDay](http://twitter.com/search?q=%23TimeToTalkDay) | N/A |
-| 2 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 3 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 4 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
-| 5 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
-| 6 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
-| 7 | [#mentalhealth](http://twitter.com/search?q=%23mentalhealth) | N/A |
-| 8 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 9 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 10 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
-| 11 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 12 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | N/A |
-| 13 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 14 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 15 | [Greed](http://twitter.com/search?q=Greed) | N/A |
-| 16 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 17 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 18 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 19 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 20 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
-| 21 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 22 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
-| 23 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 24 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
-| 25 | [Neil McCann](http://twitter.com/search?q=Neil+McCann) | N/A |
-| 26 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
-| 27 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 28 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
-| 29 | [#O2Priority](http://twitter.com/search?q=%23O2Priority) | N/A |
-| 30 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 31 | [#CostOfLivingCrisis](http://twitter.com/search?q=%23CostOfLivingCrisis) | N/A |
-| 32 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 33 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
-| 34 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 35 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 36 | [#ASongOrMovieForSchoolTeachers](http://twitter.com/search?q=%23ASongOrMovieForSchoolTeachers) | N/A |
-| 37 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 38 | [#windfalltax](http://twitter.com/search?q=%23windfalltax) | N/A |
-| 39 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 40 | [#RAJAR](http://twitter.com/search?q=%23RAJAR) | N/A |
-| 41 | [#ToriesOut210](http://twitter.com/search?q=%23ToriesOut210) | N/A |
-| 42 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
-| 43 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 44 | [#EnergyBills](http://twitter.com/search?q=%23EnergyBills) | N/A |
-| 45 | [#EnergyCrisis](http://twitter.com/search?q=%23EnergyCrisis) | N/A |
+| 1 | [#fmqs](http://twitter.com/search?q=%23fmqs) | N/A |
+| 2 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
+| 3 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 4 | [#TimeToTalkDay](http://twitter.com/search?q=%23TimeToTalkDay) | N/A |
+| 5 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 6 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 7 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
+| 8 | [Kell](http://twitter.com/search?q=Kell) | N/A |
+| 9 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 10 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
+| 11 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
+| 12 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 13 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
+| 14 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 15 | [DROPPED](http://twitter.com/search?q=DROPPED) | N/A |
+| 16 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 17 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
+| 18 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 19 | [#mentalhealth](http://twitter.com/search?q=%23mentalhealth) | N/A |
+| 20 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 21 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 22 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 23 | [Legally](http://twitter.com/search?q=Legally) | N/A |
+| 24 | [Greed](http://twitter.com/search?q=Greed) | N/A |
+| 25 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
+| 26 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
+| 27 | [Les Dennis](http://twitter.com/search?q=Les+Dennis) | N/A |
+| 28 | [O2 Priority](http://twitter.com/search?q=O2+Priority) | N/A |
+| 29 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 30 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 31 | [MUFC](http://twitter.com/search?q=MUFC) | N/A |
+| 32 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 33 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 34 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 35 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 36 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 37 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 38 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 39 | [Neil McCann](http://twitter.com/search?q=Neil+McCann) | N/A |
+| 40 | [Candlemas](http://twitter.com/search?q=Candlemas) | N/A |
+| 41 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 42 | [Title](http://twitter.com/search?q=Title) | N/A |
+| 43 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 44 | [Chilwell](http://twitter.com/search?q=Chilwell) | N/A |
+| 45 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 46 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
+| 47 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
 
 
 

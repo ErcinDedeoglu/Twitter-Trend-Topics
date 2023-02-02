@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Aguascalientes
 
-📆 Last Updated: `2023-02-02 14:17:20 UTC`
+📆 Last Updated: `2023-02-02 15:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 2 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
+| 1 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
+| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 3 | [#KornoDeDulce](http://twitter.com/search?q=%23KornoDeDulce) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#salariorosaenlasmejoresmanos](http://twitter.com/search?q=%23salariorosaenlasmejoresmanos) | N/A |
-| 6 | [#DetonadorVivo](http://twitter.com/search?q=%23DetonadorVivo) | N/A |
+| 5 | [#DetonadorVivo](http://twitter.com/search?q=%23DetonadorVivo) | N/A |
+| 6 | [#MundoMañanero](http://twitter.com/search?q=%23MundoMa%c3%b1anero) | N/A |
 | 7 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 8 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 9 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 10 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
+| 8 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 9 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
+| 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 11 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 12 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
-| 13 | [Cuauhtémoc Cárdenas](http://twitter.com/search?q=Cuauht%c3%a9moc+C%c3%a1rdenas) | N/A |
-| 14 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
-| 15 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 16 | [Maxine](http://twitter.com/search?q=Maxine) | N/A |
-| 17 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 18 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 19 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 21 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 22 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 23 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
-| 24 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 25 | [Victor Trujillo](http://twitter.com/search?q=Victor+Trujillo) | N/A |
-| 26 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 27 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
-| 28 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 29 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 30 | [Edgar Báez](http://twitter.com/search?q=Edgar+B%c3%a1ez) | Edgar Báez is a Spanish surname. In English, it means "son of Báez". |
-| 31 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 32 | [Yon de Luisa](http://twitter.com/search?q=Yon+de+Luisa) | Yon de Luisa is a traditional Cuban folk song. It is a love song about a woman named Luisa, and it is sung in the style of a bolero. The English translation of the title is "Luisa's Song". |
-| 33 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 34 | [Kenia Os](http://twitter.com/search?q=Kenia+Os) | N/A |
-| 35 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 36 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
-| 37 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
+| 12 | [Cárdenas](http://twitter.com/search?q=C%c3%a1rdenas) | N/A |
+| 13 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
+| 14 | [Plan Sonora](http://twitter.com/search?q=Plan+Sonora) | N/A |
+| 15 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 16 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 17 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 18 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
+| 19 | [Victor Trujillo](http://twitter.com/search?q=Victor+Trujillo) | N/A |
+| 20 | [Maxine](http://twitter.com/search?q=Maxine) | N/A |
+| 21 | [Hoy 2](http://twitter.com/search?q=Hoy+2) | N/A |
+| 22 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 23 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 24 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 25 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 26 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 27 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
+| 28 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
+| 29 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 30 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 31 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
+| 32 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
+| 33 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 34 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 35 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 36 | [Yon de Luisa](http://twitter.com/search?q=Yon+de+Luisa) | Yon de Luisa is a traditional Cuban folk song. It is a love song about a woman named Luisa, and it is sung in the style of a bolero. The English translation of the title is "Luisa's Song". |
+| 37 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
 | 38 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 39 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
-| 40 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 41 | [Ana María Alvarado](http://twitter.com/search?q=Ana+Mar%c3%ada+Alvarado) | N/A |
-| 42 | [Paco Gabriel](http://twitter.com/search?q=Paco+Gabriel) | N/A |
-| 43 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
-| 44 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
-| 45 | [Pauli](http://twitter.com/search?q=Pauli) | Pauli is a German surname derived from the Latin name Paulus, meaning "small" or "humble". It is also a nickname for someone named Paul. |
-| 46 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 47 | [José Saturnino Cardozo](http://twitter.com/search?q=Jos%c3%a9+Saturnino+Cardozo) | N/A |
-| 48 | [Atlas VS Toluca](http://twitter.com/search?q=Atlas+VS+Toluca) | N/A |
-| 49 | [Olivieri](http://twitter.com/search?q=Olivieri) | N/A |
+| 39 | [Edgar Báez](http://twitter.com/search?q=Edgar+B%c3%a1ez) | Edgar Báez is a Spanish surname. In English, it means "son of Báez". |
+| 40 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 41 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 42 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
+| 43 | [Ana María Alvarado](http://twitter.com/search?q=Ana+Mar%c3%ada+Alvarado) | N/A |
+| 44 | [Kenia](http://twitter.com/search?q=Kenia) | Kenia is the name of a country in East Africa. It is bordered by Tanzania, Uganda, South Sudan, Ethiopia, and Somalia. The official name of the country is the Republic of Kenya. The meaning of Kenia in English is "burning" or "place of the open-faced spear". |
+| 45 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 46 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
+| 47 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
+| 48 | [José Saturnino Cardozo](http://twitter.com/search?q=Jos%c3%a9+Saturnino+Cardozo) | N/A |
+| 49 | [Pauli](http://twitter.com/search?q=Pauli) | Pauli is a German surname derived from the Latin name Paulus, meaning "small" or "humble". It is also a nickname for someone named Paul. |
 
 
 
