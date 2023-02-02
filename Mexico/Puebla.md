@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-02-02 16:16:46 UTC`
+📆 Last Updated: `2023-02-02 17:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,44 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
 | 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [#KornoDeDulce](http://twitter.com/search?q=%23KornoDeDulce) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [#Tamales](http://twitter.com/search?q=%23Tamales) | N/A |
-| 6 | [#PoderosoBuenaOnda](http://twitter.com/search?q=%23PoderosoBuenaOnda) | N/A |
-| 7 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 3 | [#Tamales](http://twitter.com/search?q=%23Tamales) | N/A |
+| 4 | [#KornoDeDulce](http://twitter.com/search?q=%23KornoDeDulce) | N/A |
+| 5 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
+| 6 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 7 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
 | 8 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 9 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
-| 10 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 11 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
-| 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 13 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 14 | [Cárdenas](http://twitter.com/search?q=C%c3%a1rdenas) | N/A |
-| 15 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 16 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
-| 17 | [Plan Sonora](http://twitter.com/search?q=Plan+Sonora) | N/A |
-| 18 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 19 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 20 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 21 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
-| 22 | [Maxine](http://twitter.com/search?q=Maxine) | N/A |
-| 23 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 24 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
-| 25 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 26 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 27 | [Mesa de Coordinación Estatal](http://twitter.com/search?q=Mesa+de+Coordinaci%c3%b3n+Estatal) | N/A |
-| 28 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 29 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
-| 30 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 31 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
-| 32 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
-| 33 | [Victor Trujillo](http://twitter.com/search?q=Victor+Trujillo) | N/A |
-| 34 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 35 | [Yon de Luisa](http://twitter.com/search?q=Yon+de+Luisa) | Yon de Luisa is a traditional Cuban folk song. It is a love song about a woman named Luisa, and it is sung in the style of a bolero. The English translation of the title is "Luisa's Song". |
-| 36 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 37 | [El Capital](http://twitter.com/search?q=El+Capital) | N/A |
-| 38 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 39 | [Baker Hughes](http://twitter.com/search?q=Baker+Hughes) | N/A |
-| 40 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
-| 41 | [Edgar Báez](http://twitter.com/search?q=Edgar+B%c3%a1ez) | Edgar Báez is a Spanish surname. In English, it means "son of Báez". |
-| 42 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 43 | [Ana María Alvarado](http://twitter.com/search?q=Ana+Mar%c3%ada+Alvarado) | N/A |
-| 44 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 45 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 46 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 47 | [José Saturnino Cardozo](http://twitter.com/search?q=Jos%c3%a9+Saturnino+Cardozo) | N/A |
-| 48 | [La Casa Gris](http://twitter.com/search?q=La+Casa+Gris) | N/A |
-| 49 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 50 | [Paco Gabriel](http://twitter.com/search?q=Paco+Gabriel) | N/A |
+| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 10 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
+| 11 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
+| 12 | [Plan Sonora](http://twitter.com/search?q=Plan+Sonora) | N/A |
+| 13 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 14 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
+| 15 | [Michelle Rodríguez](http://twitter.com/search?q=Michelle+Rodr%c3%adguez) | N/A |
+| 16 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 17 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
+| 18 | [Victor Trujillo](http://twitter.com/search?q=Victor+Trujillo) | N/A |
+| 19 | [Niño Dios](http://twitter.com/search?q=Ni%c3%b1o+Dios) | N/A |
+| 20 | [El 2](http://twitter.com/search?q=El+2) | N/A |
+| 21 | [Jueves 2](http://twitter.com/search?q=Jueves+2) | N/A |
+| 22 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 23 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
+| 24 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 25 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 26 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
+| 27 | [Reino Unido](http://twitter.com/search?q=Reino+Unido) | N/A |
+| 28 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 29 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
+| 30 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
+| 31 | [#PoderosoBuenaOnda](http://twitter.com/search?q=%23PoderosoBuenaOnda) | N/A |
+| 32 | [#2DeFebrero](http://twitter.com/search?q=%232DeFebrero) | N/A |
+| 33 | [#HappyKyuhyunDay](http://twitter.com/search?q=%23HappyKyuhyunDay) | N/A |
+| 34 | [#오직_규현만을_사랑해](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%ea%b7%9c%ed%98%84%eb%a7%8c%ec%9d%84_%ec%82%ac%eb%9e%91%ed%95%b4) | "#오직_규현만을_사랑해" is a hashtag used by fans of South Korean singer Kyuhyun. It translates to "Love only Kyuhyun". |
+| 35 | [#LaPaz](http://twitter.com/search?q=%23LaPaz) | N/A |
+| 36 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
+| 37 | [#HappyBirthdayShakira](http://twitter.com/search?q=%23HappyBirthdayShakira) | N/A |
+| 38 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 39 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
+| 40 | [#DetonadorVivo](http://twitter.com/search?q=%23DetonadorVivo) | N/A |
 
 
 

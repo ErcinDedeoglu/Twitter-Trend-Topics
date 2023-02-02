@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-02-02 16:17:00 UTC`
+📆 Last Updated: `2023-02-02 17:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [#MalamJumatKliwon](http://twitter.com/search?q=%23MalamJumatKliwon) | #MalamJumatKliwon is an Indonesian phrase that translates to "Friday Night of the Fifth Week". It is a phrase used to refer to the fifth Friday night of the month, which is considered a special night in Indonesian culture. |
 | 3 | [Ikon Horor](http://twitter.com/search?q=Ikon+Horor) | Ikon Horor is a term used in Indonesian culture to refer to horror icons. It is a combination of the words "ikon" (icon) and "horor" (horror). The term is used to describe popular horror characters, such as Freddy Krueger, Michael Myers, and Jason Voorhees. |
 | 4 | [#오직_규현만을_사랑해](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%ea%b7%9c%ed%98%84%eb%a7%8c%ec%9d%84_%ec%82%ac%eb%9e%91%ed%95%b4) | "#오직_규현만을_사랑해" is a hashtag used by fans of South Korean singer Kyuhyun. It translates to "Love only Kyuhyun". |
-| 5 | [#HariBUMDesa](http://twitter.com/search?q=%23HariBUMDesa) | N/A |
-| 6 | [Suzzanna](http://twitter.com/search?q=Suzzanna) | Suzzanna is a 2018 Indonesian horror film directed by Rocky Soraya. The film follows the story of Suzzanna, a woman who is murdered by her husband and his mistress, only to return from the dead to seek revenge. The title of the film is derived from the name of its protagonist. In English, the name Suzzanna means "lily". |
-| 7 | [#eaJSmilingInInsomnia](http://twitter.com/search?q=%23eaJSmilingInInsomnia) | N/A |
-| 8 | [HAPPY BIRTHDAY KYUHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+KYUHYUN) | N/A |
-| 9 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
-| 10 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 11 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
-| 12 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 13 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 14 | [Lempuyangan](http://twitter.com/search?q=Lempuyangan) | N/A |
-| 15 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 16 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 17 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 18 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
-| 19 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 20 | [Pentel](http://twitter.com/search?q=Pentel) | N/A |
-| 21 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
-| 22 | [Kris](http://twitter.com/search?q=Kris) | N/A |
-| 23 | [Lirik](http://twitter.com/search?q=Lirik) | N/A |
-| 24 | [Hirotada](http://twitter.com/search?q=Hirotada) | N/A |
-| 25 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 26 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 27 | [Purwokerto](http://twitter.com/search?q=Purwokerto) | N/A |
-| 28 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
-| 29 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 30 | [Kampus](http://twitter.com/search?q=Kampus) | N/A |
-| 31 | [Bersih INA](http://twitter.com/search?q=Bersih+INA) | N/A |
-| 32 | [Oreo](http://twitter.com/search?q=Oreo) | N/A |
-| 33 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
-| 34 | [Collect Book](http://twitter.com/search?q=Collect+Book) | N/A |
-| 35 | [BIG NO](http://twitter.com/search?q=BIG+NO) | N/A |
-| 36 | [Jakarta Selatan](http://twitter.com/search?q=Jakarta+Selatan) | N/A |
-| 37 | [#SharetheEpic](http://twitter.com/search?q=%23SharetheEpic) | N/A |
-| 38 | [#eaJ1stEP](http://twitter.com/search?q=%23eaJ1stEP) | N/A |
-| 39 | [#GalaxyxBTS](http://twitter.com/search?q=%23GalaxyxBTS) | N/A |
-| 40 | [#eaJPark](http://twitter.com/search?q=%23eaJPark) | N/A |
-| 41 | [#레이가있어_콩닥콩닥한_2월](http://twitter.com/search?q=%23%eb%a0%88%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%ec%bd%a9%eb%8b%a5%ec%bd%a9%eb%8b%a5%ed%95%9c_2%ec%9b%94) | N/A |
-| 42 | [#OurREInbowDay](http://twitter.com/search?q=%23OurREInbowDay) | N/A |
+| 5 | [#eaJSmilingInInsomnia](http://twitter.com/search?q=%23eaJSmilingInInsomnia) | N/A |
+| 6 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
+| 7 | [Suzzanna](http://twitter.com/search?q=Suzzanna) | Suzzanna is a 2018 Indonesian horror film directed by Rocky Soraya. The film follows the story of Suzzanna, a woman who is murdered by her husband and his mistress, only to return from the dead to seek revenge. The title of the film is derived from the name of its protagonist. In English, the name Suzzanna means "lily". |
+| 8 | [#eaJPark](http://twitter.com/search?q=%23eaJPark) | N/A |
+| 9 | [#eaJ1stEP](http://twitter.com/search?q=%23eaJ1stEP) | N/A |
+| 10 | [Lempuyangan](http://twitter.com/search?q=Lempuyangan) | N/A |
+| 11 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
+| 12 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 13 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 14 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 15 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
+| 16 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 17 | [Calum](http://twitter.com/search?q=Calum) | N/A |
+| 18 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 19 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 20 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 21 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 22 | [Selamat 200](http://twitter.com/search?q=Selamat+200) | N/A |
+| 23 | [SEE YOU SOON](http://twitter.com/search?q=SEE+YOU+SOON) | N/A |
+| 24 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 25 | [Tadashi](http://twitter.com/search?q=Tadashi) | N/A |
+| 26 | [Purwokerto](http://twitter.com/search?q=Purwokerto) | N/A |
+| 27 | [Pentel](http://twitter.com/search?q=Pentel) | N/A |
+| 28 | [Kris](http://twitter.com/search?q=Kris) | N/A |
+| 29 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
+| 30 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
+| 31 | [suga](http://twitter.com/search?q=suga) | N/A |
+| 32 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 33 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 34 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 35 | [Kampus](http://twitter.com/search?q=Kampus) | N/A |
+| 36 | [Oreo](http://twitter.com/search?q=Oreo) | N/A |
+| 37 | [Tempe](http://twitter.com/search?q=Tempe) | N/A |
+| 38 | [#SharetheEpic](http://twitter.com/search?q=%23SharetheEpic) | N/A |
+| 39 | [#HariBUMDesa](http://twitter.com/search?q=%23HariBUMDesa) | N/A |
+| 40 | [#KYUHYUN](http://twitter.com/search?q=%23KYUHYUN) | N/A |
+| 41 | [#eaJLaughingInInsomnia](http://twitter.com/search?q=%23eaJLaughingInInsomnia) | N/A |
+| 42 | [#GalaxyxBTS](http://twitter.com/search?q=%23GalaxyxBTS) | N/A |
 | 43 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
-| 44 | [#BSS_Fighting_Teaser1](http://twitter.com/search?q=%23BSS_Fighting_Teaser1) | N/A |
-| 45 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
-| 46 | [#규현아_사랑해](http://twitter.com/search?q=%23%ea%b7%9c%ed%98%84%ec%95%84_%ec%82%ac%eb%9e%91%ed%95%b4) | N/A |
-| 47 | [#SECONDWIND_D3](http://twitter.com/search?q=%23SECONDWIND_D3) | N/A |
-| 48 | [#10YearsTicketFinalEP](http://twitter.com/search?q=%2310YearsTicketFinalEP) | N/A |
+| 44 | [#레이가있어_콩닥콩닥한_2월](http://twitter.com/search?q=%23%eb%a0%88%ec%9d%b4%ea%b0%80%ec%9e%88%ec%96%b4_%ec%bd%a9%eb%8b%a5%ec%bd%a9%eb%8b%a5%ed%95%9c_2%ec%9b%94) | N/A |
+| 45 | [#OurREInbowDay](http://twitter.com/search?q=%23OurREInbowDay) | N/A |
+| 46 | [#TheInterestOfLoveEp14](http://twitter.com/search?q=%23TheInterestOfLoveEp14) | N/A |
+| 47 | [#OrgsmDay](http://twitter.com/search?q=%23OrgsmDay) | N/A |
+| 48 | [#규현아_사랑해](http://twitter.com/search?q=%23%ea%b7%9c%ed%98%84%ec%95%84_%ec%82%ac%eb%9e%91%ed%95%b4) | N/A |
+| 49 | [#10YearsTicketFinalEP](http://twitter.com/search?q=%2310YearsTicketFinalEP) | N/A |
 
 
 

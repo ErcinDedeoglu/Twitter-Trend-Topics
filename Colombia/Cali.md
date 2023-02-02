@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-02 16:16:48 UTC`
+📆 Last Updated: `2023-02-02 17:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [#TengoReparosA](http://twitter.com/search?q=%23TengoReparosA) | N/A |
 | 3 | [Hugo Ospina](http://twitter.com/search?q=Hugo+Ospina) | Hugo Ospina is a Colombian footballer who currently plays for the Colombian national team. He is known for his defensive skills and his ability to read the game. In English, Hugo Ospina means "Hugo of the Ospina family". |
 | 4 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 5 | [#HappyBirthdayShakira](http://twitter.com/search?q=%23HappyBirthdayShakira) | N/A |
-| 6 | [#DíaMundialDeLosHumedales](http://twitter.com/search?q=%23D%c3%adaMundialDeLosHumedales) | N/A |
-| 7 | [invamer](http://twitter.com/search?q=invamer) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 10 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 11 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 12 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 13 | [Niko Arredondo](http://twitter.com/search?q=Niko+Arredondo) | N/A |
-| 14 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 15 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
-| 16 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
-| 17 | [Claudia López](http://twitter.com/search?q=Claudia+L%c3%b3pez) | N/A |
-| 18 | [Pedro Santana](http://twitter.com/search?q=Pedro+Santana) | N/A |
-| 19 | [PXNDX](http://twitter.com/search?q=PXNDX) | N/A |
-| 20 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
-| 21 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 22 | [Mejorarlo](http://twitter.com/search?q=Mejorarlo) | N/A |
-| 23 | [EPSs](http://twitter.com/search?q=EPSs) | N/A |
-| 24 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
-| 25 | [Encuesta](http://twitter.com/search?q=Encuesta) | N/A |
+| 5 | [Invamer](http://twitter.com/search?q=Invamer) | N/A |
+| 6 | [Alejandro Gaviria](http://twitter.com/search?q=Alejandro+Gaviria) | N/A |
+| 7 | [#HappyBirthdayShakira](http://twitter.com/search?q=%23HappyBirthdayShakira) | N/A |
+| 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 11 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 12 | [Niko Arredondo](http://twitter.com/search?q=Niko+Arredondo) | N/A |
+| 13 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 14 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
+| 15 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
+| 16 | [Liendra](http://twitter.com/search?q=Liendra) | N/A |
+| 17 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
+| 18 | [Claudia López](http://twitter.com/search?q=Claudia+L%c3%b3pez) | N/A |
+| 19 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
+| 20 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
+| 21 | [PXNDX](http://twitter.com/search?q=PXNDX) | N/A |
+| 22 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 23 | [Encuesta](http://twitter.com/search?q=Encuesta) | N/A |
+| 24 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 25 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
 | 26 | [PowerPoint](http://twitter.com/search?q=PowerPoint) | N/A |
-| 27 | [Bienvenido Febrero](http://twitter.com/search?q=Bienvenido+Febrero) | N/A |
-| 28 | [Empresario](http://twitter.com/search?q=Empresario) | N/A |
-| 29 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 27 | [EPS e IPS](http://twitter.com/search?q=EPS+e+IPS) | N/A |
+| 28 | [empresario](http://twitter.com/search?q=empresario) | N/A |
+| 29 | [Pedro Santana](http://twitter.com/search?q=Pedro+Santana) | N/A |
 | 30 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 31 | [falque](http://twitter.com/search?q=falque) | N/A |
-| 32 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 33 | [La Liendra](http://twitter.com/search?q=La+Liendra) | N/A |
-| 34 | [establecimiento](http://twitter.com/search?q=establecimiento) | N/A |
-| 35 | [EPS e IPS](http://twitter.com/search?q=EPS+e+IPS) | N/A |
-| 36 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
-| 37 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 38 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 39 | [Suero](http://twitter.com/search?q=Suero) | N/A |
-| 40 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 31 | [Suero](http://twitter.com/search?q=Suero) | N/A |
+| 32 | [Falque](http://twitter.com/search?q=Falque) | N/A |
+| 33 | [EPSs](http://twitter.com/search?q=EPSs) | N/A |
+| 34 | [Establecimiento](http://twitter.com/search?q=Establecimiento) | N/A |
+| 35 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 36 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 37 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 38 | [Bogota](http://twitter.com/search?q=Bogota) | N/A |
+| 39 | [Hoy 2](http://twitter.com/search?q=Hoy+2) | N/A |
+| 40 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
 | 41 | [Remedios](http://twitter.com/search?q=Remedios) | N/A |
-| 42 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
-| 43 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 44 | [Apps](http://twitter.com/search?q=Apps) | N/A |
-| 45 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 46 | [Hoy 2](http://twitter.com/search?q=Hoy+2) | N/A |
-| 47 | [MinSalud](http://twitter.com/search?q=MinSalud) | N/A |
+| 42 | [Externado](http://twitter.com/search?q=Externado) | N/A |
+| 43 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 44 | [RAP Caribe](http://twitter.com/search?q=RAP+Caribe) | N/A |
+| 45 | [Apps](http://twitter.com/search?q=Apps) | N/A |
+| 46 | [MinSalud](http://twitter.com/search?q=MinSalud) | N/A |
+| 47 | [Sanitas](http://twitter.com/search?q=Sanitas) | N/A |
 
 
 
