@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-02 12:18:07 UTC`
+📆 Last Updated: `2023-02-02 13:21:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Austin Energy](http://twitter.com/search?q=Austin+Energy) | N/A |
-| 2 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
-| 3 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 4 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 5 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#CashAppSavings](http://twitter.com/search?q=%23CashAppSavings) | #CashAppSavings is a hashtag used on social media to promote Cash App, a mobile payment service. It is used to encourage people to save money using the app. |
-| 8 | [#NGWSD](http://twitter.com/search?q=%23NGWSD) | N/A |
-| 9 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 10 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | N/A |
-| 11 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 12 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 2 | [#GroundhogDay](http://twitter.com/search?q=%23GroundhogDay) | N/A |
+| 3 | [Punxsutawney Phil](http://twitter.com/search?q=Punxsutawney+Phil) | Punxsutawney Phil is a groundhog that lives in Punxsutawney, Pennsylvania. Every February 2nd, on Groundhog Day, Phil emerges from his burrow and predicts the weather for the coming season. If he sees his shadow, it is said to mean six more weeks of winter; if he does not see his shadow, it is said to mean an early spring. |
+| 4 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 5 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 6 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 7 | [Gobbler's Knob](http://twitter.com/search?q=Gobbler%27s+Knob) | N/A |
+| 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 9 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 10 | [Staten Island Chuck](http://twitter.com/search?q=Staten+Island+Chuck) | N/A |
+| 11 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 12 | [#Wordle593](http://twitter.com/search?q=%23Wordle593) | N/A |
 | 13 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 14 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 15 | [Ozzy](http://twitter.com/search?q=Ozzy) | Ozzy is a nickname for the English musician and former lead singer of the heavy metal band Black Sabbath, Ozzy Osbourne. |
-| 16 | [Pledge of Allegiance](http://twitter.com/search?q=Pledge+of+Allegiance) | The Pledge of Allegiance is a patriotic oath to the United States of America. It is typically recited in unison at public events and school assemblies. The Pledge reads: "I pledge allegiance to the Flag of the United States of America, and to the Republic for which it stands, one Nation under God, indivisible, with liberty and justice for all." The Pledge is a promise of loyalty and commitment to the United States and its values. |
-| 17 | [TB12](http://twitter.com/search?q=TB12) | TB12 is an acronym for Tom Brady's lifestyle brand, which stands for "Tom Brady 12". It is a lifestyle brand that promotes healthy living and wellness through nutrition, hydration, and exercise. The brand also sells products such as apparel, supplements, and equipment. |
-| 18 | [College Board](http://twitter.com/search?q=College+Board) | College Board is a non-profit organization in the United States that provides services to students, parents, and educators related to college admissions. It administers standardized tests such as the SAT and Advanced Placement Program (AP) exams. College Board also provides resources for college planning, such as financial aid information and college search tools. |
-| 19 | [Gobbler's Knob](http://twitter.com/search?q=Gobbler%27s+Knob) | N/A |
-| 20 | [Nikki Haley](http://twitter.com/search?q=Nikki+Haley) | Nikki Haley is the former United States Ambassador to the United Nations. She served in this role from 2017 to 2018. Her full name is Nimrata Nikki Randhawa Haley. She is a Republican politician who previously served as the 116th Governor of South Carolina from 2011 to 2017. |
-| 21 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 22 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 23 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 24 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 25 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 26 | [National Signing Day](http://twitter.com/search?q=National+Signing+Day) | National Signing Day is an annual event in which high school athletes sign a binding letter of intent to play a sport at a college or university. It is the first day that a high school senior can sign a binding National Letter of Intent for college football. The day usually falls on the first Wednesday of February, and marks the end of the recruiting process for many student-athletes. |
-| 27 | [Waterfall](http://twitter.com/search?q=Waterfall) | N/A |
-| 28 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 29 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 30 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
-| 31 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 32 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
-| 33 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 34 | [Nadler](http://twitter.com/search?q=Nadler) | N/A |
-| 35 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 36 | [MISS YOU ALBA](http://twitter.com/search?q=MISS+YOU+ALBA) | MISS YOU ALBA is an expression of affection and longing for someone named Alba. It is a way of expressing that the speaker misses them and wishes they were there. In English, it would be translated as "I miss you, Alba". |
-| 37 | [Arian Foster](http://twitter.com/search?q=Arian+Foster) | N/A |
-| 38 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 39 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
-| 40 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 41 | [MASON GILLIS](http://twitter.com/search?q=MASON+GILLIS) | N/A |
-| 42 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 43 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 44 | [hanbin](http://twitter.com/search?q=hanbin) | N/A |
-| 45 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 46 | [5.1 Billion](http://twitter.com/search?q=5.1+Billion) | N/A |
-| 47 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 48 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 49 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 50 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
+| 14 | [Jesus Christ is Lord](http://twitter.com/search?q=Jesus+Christ+is+Lord) | N/A |
+| 15 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
+| 16 | [Daily Quordle 374](http://twitter.com/search?q=Daily+Quordle+374) | N/A |
+| 17 | [Bill Murray](http://twitter.com/search?q=Bill+Murray) | N/A |
+| 18 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 19 | [HOSHI](http://twitter.com/search?q=HOSHI) | N/A |
+| 20 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 21 | [Dan Rather](http://twitter.com/search?q=Dan+Rather) | N/A |
+| 22 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 23 | [Al Sharpton](http://twitter.com/search?q=Al+Sharpton) | N/A |
+| 24 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 25 | [Socialism](http://twitter.com/search?q=Socialism) | N/A |
+| 26 | [Maxine Waters](http://twitter.com/search?q=Maxine+Waters) | N/A |
+| 27 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 28 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 29 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
+| 30 | [Nadler](http://twitter.com/search?q=Nadler) | N/A |
+| 31 | [Safer](http://twitter.com/search?q=Safer) | N/A |
+| 32 | [$META](http://twitter.com/search?q=%24META) | META is an acronym for "Most Effective Tactics Available." It is used to refer to strategies or tactics that are considered to be the most effective or efficient way of achieving a desired outcome. |
+| 33 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 34 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 35 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 36 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 37 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 38 | [Namor](http://twitter.com/search?q=Namor) | N/A |
+| 39 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
+| 40 | [#ThursdayVibes](http://twitter.com/search?q=%23ThursdayVibes) | N/A |
+| 41 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | N/A |
+| 42 | [#thankfulthursday](http://twitter.com/search?q=%23thankfulthursday) | N/A |
+| 43 | [#MorningJoe](http://twitter.com/search?q=%23MorningJoe) | N/A |
+| 44 | [#blackhistorymonth2023](http://twitter.com/search?q=%23blackhistorymonth2023) | N/A |
+| 45 | [#HunterBiden](http://twitter.com/search?q=%23HunterBiden) | N/A |
+| 46 | [#TexasFreeze](http://twitter.com/search?q=%23TexasFreeze) | N/A |
+| 47 | [#TheChallenge38](http://twitter.com/search?q=%23TheChallenge38) | #TheChallenge38 is a hashtag used to promote a challenge that encourages people to make 38 positive changes in their lives. The challenge encourages people to make small changes that can have a big impact on their lives, such as eating healthier, exercising more, or taking time for self-care. |
+| 48 | [#HourlyComicDay2023](http://twitter.com/search?q=%23HourlyComicDay2023) | N/A |
+| 49 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
 
 
 

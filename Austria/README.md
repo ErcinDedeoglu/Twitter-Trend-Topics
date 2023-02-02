@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-02 12:18:14 UTC`
+📆 Last Updated: `2023-02-02 13:21:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Austria
 | 4 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
 | 5 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
 | 6 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 7 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
-| 8 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 9 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 10 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 13 | [rassisten](http://twitter.com/search?q=rassisten) | N/A |
-| 14 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 15 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 16 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 17 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
+| 7 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
+| 8 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
+| 9 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 10 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 11 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 12 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 15 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 16 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 17 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
 | 18 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 19 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 20 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
-| 21 | [#Corona](http://twitter.com/search?q=%23Corona) | N/A |
-| 22 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 23 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 24 | [Studio](http://twitter.com/search?q=Studio) | N/A |
-| 25 | [#LetzteGeneration](http://twitter.com/search?q=%23LetzteGeneration) | N/A |
-| 26 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 27 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 28 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 19 | [Landesrat](http://twitter.com/search?q=Landesrat) | N/A |
+| 20 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 21 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 22 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 23 | [schwurbler](http://twitter.com/search?q=schwurbler) | N/A |
+| 24 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
+| 25 | [Studio](http://twitter.com/search?q=Studio) | N/A |
+| 26 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 27 | [#Corona](http://twitter.com/search?q=%23Corona) | N/A |
+| 28 | [Virus](http://twitter.com/search?q=Virus) | N/A |
 | 29 | [Hetze](http://twitter.com/search?q=Hetze) | N/A |
-| 30 | [#puls24](http://twitter.com/search?q=%23puls24) | N/A |
-| 31 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 30 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 31 | [#puls24](http://twitter.com/search?q=%23puls24) | N/A |
 | 32 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 33 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 34 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 35 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 36 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
-| 37 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 33 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 34 | [Masken](http://twitter.com/search?q=Masken) | N/A |
+| 35 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 36 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 37 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
 | 38 | [Gerne](http://twitter.com/search?q=Gerne) | N/A |
-| 39 | [babler](http://twitter.com/search?q=babler) | N/A |
-| 40 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 41 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
-| 42 | [Landes](http://twitter.com/search?q=Landes) | N/A |
-| 43 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 44 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
-| 45 | [Jänner](http://twitter.com/search?q=J%c3%a4nner) | N/A |
-| 46 | [Solange](http://twitter.com/search?q=Solange) | N/A |
-| 47 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 48 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
-| 49 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 50 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
+| 39 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 40 | [babler](http://twitter.com/search?q=babler) | N/A |
+| 41 | [Zugang](http://twitter.com/search?q=Zugang) | N/A |
+| 42 | [Aufarbeitung](http://twitter.com/search?q=Aufarbeitung) | N/A |
+| 43 | [Jänner](http://twitter.com/search?q=J%c3%a4nner) | N/A |
+| 44 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 45 | [Solange](http://twitter.com/search?q=Solange) | N/A |
+| 46 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 47 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 48 | [Schuld](http://twitter.com/search?q=Schuld) | N/A |
+| 49 | [Bereichen](http://twitter.com/search?q=Bereichen) | N/A |
+| 50 | [Logik](http://twitter.com/search?q=Logik) | N/A |
 
 
 

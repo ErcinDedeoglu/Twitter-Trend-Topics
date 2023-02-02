@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-02 12:18:05 UTC`
+📆 Last Updated: `2023-02-02 13:21:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MilyonlarınGözüKomisyonda](http://twitter.com/search?q=%23Milyonlar%c4%b1nG%c3%b6z%c3%bcKomisyonda) | #MilyonlarınGözüKomisyonda is a hashtag used in Turkey to refer to the Parliamentary Investigation Commission, which was established in 2018 to investigate the alleged misuse of public funds. The phrase translates to "The Eyes of Millions on the Commission" in English. |
-| 2 | [Metin Uca](http://twitter.com/search?q=Metin+Uca) | N/A |
-| 3 | [Malsa](http://twitter.com/search?q=Malsa) | N/A |
-| 4 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
-| 5 | [Zühtü Arslan](http://twitter.com/search?q=Z%c3%bcht%c3%bc+Arslan) | Zühtü Arslan is a Turkish name that means "noble lion". It is derived from the Turkish words züht (noble) and arslan (lion). |
-| 6 | [#HakkımıHelalEtmiyorum](http://twitter.com/search?q=%23Hakk%c4%b1m%c4%b1HelalEtmiyorum) | N/A |
-| 7 | [İsmail Demir](http://twitter.com/search?q=%c4%b0smail+Demir) | İsmail Demir is a Turkish name. It is composed of two parts: İsmail, which is a common male given name in Turkey, and Demir, which means "iron" in Turkish. In English, the name would be translated as "Ismail Iron". |
-| 8 | [Kıble](http://twitter.com/search?q=K%c4%b1ble) | N/A |
-| 9 | [Fatih Sultan Mehmet](http://twitter.com/search?q=Fatih+Sultan+Mehmet) | N/A |
-| 10 | [İrfan Fidan](http://twitter.com/search?q=%c4%b0rfan+Fidan) | N/A |
-| 11 | [Anayasa Mahkemesi Başkanlığına](http://twitter.com/search?q=Anayasa+Mahkemesi+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1na) | N/A |
-| 12 | [İsviçre](http://twitter.com/search?q=%c4%b0svi%c3%a7re) | N/A |
-| 13 | [Evlenmeyin](http://twitter.com/search?q=Evlenmeyin) | N/A |
-| 14 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
-| 15 | [Kılıçdaroğlu EhliyetAffı](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu+EhliyetAff%c4%b1) | N/A |
-| 16 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 17 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
-| 18 | [Seferi](http://twitter.com/search?q=Seferi) | N/A |
-| 19 | [AYM Başkanı](http://twitter.com/search?q=AYM+Ba%c5%9fkan%c4%b1) | N/A |
-| 20 | [CNN Türk](http://twitter.com/search?q=CNN+T%c3%bcrk) | N/A |
-| 21 | [Adana Demirspor - Fenerbahçe](http://twitter.com/search?q=Adana+Demirspor+-+Fenerbah%c3%a7e) | N/A |
-| 22 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
-| 23 | [Deniz Çoban](http://twitter.com/search?q=Deniz+%c3%87oban) | N/A |
-| 24 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
-| 25 | [Hakan Bayrakçı](http://twitter.com/search?q=Hakan+Bayrak%c3%a7%c4%b1) | N/A |
-| 26 | [14 şubat](http://twitter.com/search?q=14+%c5%9fubat) | N/A |
-| 27 | [İçişleri](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri) | N/A |
-| 28 | [2 Şubat](http://twitter.com/search?q=2+%c5%9eubat) | N/A |
-| 29 | [Kademeli](http://twitter.com/search?q=Kademeli) | N/A |
+| 2 | [#ŞartınHesabınıSorarız](http://twitter.com/search?q=%23%c5%9eart%c4%b1nHesab%c4%b1n%c4%b1Sorar%c4%b1z) | N/A |
+| 3 | [Metin Uca](http://twitter.com/search?q=Metin+Uca) | N/A |
+| 4 | [Sultanbeyli Açılış](http://twitter.com/search?q=Sultanbeyli+A%c3%a7%c4%b1l%c4%b1%c5%9f) | N/A |
+| 5 | [Malsa](http://twitter.com/search?q=Malsa) | N/A |
+| 6 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 7 | [Barbaros Şansal](http://twitter.com/search?q=Barbaros+%c5%9eansal) | N/A |
+| 8 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
+| 9 | [İsviçre Başkonsolosluğu](http://twitter.com/search?q=%c4%b0svi%c3%a7re+Ba%c5%9fkonsoloslu%c4%9fu) | N/A |
+| 10 | [Zühtü Arslan](http://twitter.com/search?q=Z%c3%bcht%c3%bc+Arslan) | Zühtü Arslan is a Turkish name that means "noble lion". It is derived from the Turkish words züht (noble) and arslan (lion). |
+| 11 | [İngiltere Merkez Bankası](http://twitter.com/search?q=%c4%b0ngiltere+Merkez+Bankas%c4%b1) | N/A |
+| 12 | [Fatih Sultan Mehmet](http://twitter.com/search?q=Fatih+Sultan+Mehmet) | N/A |
+| 13 | [İsmail Demir](http://twitter.com/search?q=%c4%b0smail+Demir) | İsmail Demir is a Turkish name. It is composed of two parts: İsmail, which is a common male given name in Turkey, and Demir, which means "iron" in Turkish. In English, the name would be translated as "Ismail Iron". |
+| 14 | [Kıble](http://twitter.com/search?q=K%c4%b1ble) | N/A |
+| 15 | [Anayasa Mahkemesi Başkanlığına](http://twitter.com/search?q=Anayasa+Mahkemesi+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1na) | N/A |
+| 16 | [Kılıçdaroğlu EhliyetAffı](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu+EhliyetAff%c4%b1) | N/A |
+| 17 | [3 Şubat Cuma](http://twitter.com/search?q=3+%c5%9eubat+Cuma) | N/A |
+| 18 | [İrfan Fidan](http://twitter.com/search?q=%c4%b0rfan+Fidan) | N/A |
+| 19 | [Erbakan](http://twitter.com/search?q=Erbakan) | N/A |
+| 20 | [Adana Demirspor - Fenerbahçe](http://twitter.com/search?q=Adana+Demirspor+-+Fenerbah%c3%a7e) | N/A |
+| 21 | [Seferi](http://twitter.com/search?q=Seferi) | N/A |
+| 22 | [Evlenmeyin](http://twitter.com/search?q=Evlenmeyin) | N/A |
+| 23 | [AYM Başkanı](http://twitter.com/search?q=AYM+Ba%c5%9fkan%c4%b1) | N/A |
+| 24 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
+| 25 | [Deniz Çoban](http://twitter.com/search?q=Deniz+%c3%87oban) | N/A |
+| 26 | [CNN Türk](http://twitter.com/search?q=CNN+T%c3%bcrk) | N/A |
+| 27 | [Şeriat](http://twitter.com/search?q=%c5%9eeriat) | N/A |
+| 28 | [Hakan Bayrakçı](http://twitter.com/search?q=Hakan+Bayrak%c3%a7%c4%b1) | N/A |
+| 29 | [Fikret Orman](http://twitter.com/search?q=Fikret+Orman) | N/A |
 | 30 | [Prim](http://twitter.com/search?q=Prim) | N/A |
-| 31 | [Aferin Ali](http://twitter.com/search?q=Aferin+Ali) | N/A |
-| 32 | [Dinde](http://twitter.com/search?q=Dinde) | N/A |
-| 33 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 34 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
-| 35 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
-| 36 | [#BayBayHepiniz](http://twitter.com/search?q=%23BayBayHepiniz) | N/A |
-| 37 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 38 | [#ADSvFB](http://twitter.com/search?q=%23ADSvFB) | N/A |
-| 39 | [#AKPyeTakılanlar](http://twitter.com/search?q=%23AKPyeTak%c4%b1lanlar) | N/A |
-| 40 | [#Persembe](http://twitter.com/search?q=%23Persembe) | #Persembe is a Turkish word meaning Thursday. |
-| 41 | [#KıvançTatlıtuğ](http://twitter.com/search?q=%23K%c4%b1van%c3%a7Tatl%c4%b1tu%c4%9f) | N/A |
+| 31 | [Dinde](http://twitter.com/search?q=Dinde) | N/A |
+| 32 | [2 Şubat](http://twitter.com/search?q=2+%c5%9eubat) | N/A |
+| 33 | [Kademeli](http://twitter.com/search?q=Kademeli) | N/A |
+| 34 | [İçişleri](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri) | N/A |
+| 35 | [Aferin Ali](http://twitter.com/search?q=Aferin+Ali) | N/A |
+| 36 | [Netice](http://twitter.com/search?q=Netice) | N/A |
+| 37 | [#bıst100](http://twitter.com/search?q=%23b%c4%b1st100) | N/A |
+| 38 | [#borsadasoygunvar](http://twitter.com/search?q=%23borsadasoygunvar) | N/A |
+| 39 | [#ADSvFB](http://twitter.com/search?q=%23ADSvFB) | N/A |
+| 40 | [#HakkımıHelalEtmiyorum](http://twitter.com/search?q=%23Hakk%c4%b1m%c4%b1HelalEtmiyorum) | N/A |
+| 41 | [#GenelAf](http://twitter.com/search?q=%23GenelAf) | N/A |
 | 42 | [#EYTdeSartlariKaldirin](http://twitter.com/search?q=%23EYTdeSartlariKaldirin) | N/A |
-| 43 | [#HÜRJET](http://twitter.com/search?q=%23H%c3%9cRJET) | N/A |
-| 44 | [#StajaAdalet](http://twitter.com/search?q=%23StajaAdalet) | N/A |
-| 45 | [#AdaletsizOMK](http://twitter.com/search?q=%23AdaletsizOMK) | N/A |
-| 46 | [#2000LereKADEME](http://twitter.com/search?q=%232000LereKADEME) | N/A |
-| 47 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
+| 43 | [#BayBayHepiniz](http://twitter.com/search?q=%23BayBayHepiniz) | N/A |
+| 44 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 45 | [#AKPyeTakılanlar](http://twitter.com/search?q=%23AKPyeTak%c4%b1lanlar) | N/A |
+| 46 | [#StajaAdalet](http://twitter.com/search?q=%23StajaAdalet) | N/A |
+| 47 | [#KıvançTatlıtuğ](http://twitter.com/search?q=%23K%c4%b1van%c3%a7Tatl%c4%b1tu%c4%9f) | N/A |
 
 
 

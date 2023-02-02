@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-02 12:17:46 UTC`
+📆 Last Updated: `2023-02-02 13:21:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 2 | [#RKCGAE](http://twitter.com/search?q=%23RKCGAE) | N/A |
+| 1 | [Thijs](http://twitter.com/search?q=Thijs) | N/A |
+| 2 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
 | 3 | [Esther](http://twitter.com/search?q=Esther) | N/A |
 | 4 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
-| 5 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
-| 6 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
-| 7 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 8 | [Moord](http://twitter.com/search?q=Moord) | N/A |
-| 9 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 10 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
-| 11 | [Gekkekoeienziekte](http://twitter.com/search?q=Gekkekoeienziekte) | N/A |
-| 12 | [Thijs](http://twitter.com/search?q=Thijs) | N/A |
-| 13 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
-| 16 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 17 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 5 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
+| 6 | [#ingstoring](http://twitter.com/search?q=%23ingstoring) | N/A |
+| 7 | [Verschrikkelijk](http://twitter.com/search?q=Verschrikkelijk) | N/A |
+| 8 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 9 | [Moord](http://twitter.com/search?q=Moord) | N/A |
+| 10 | [#RKCGAE](http://twitter.com/search?q=%23RKCGAE) | N/A |
+| 11 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 12 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
+| 13 | [Gekkekoeienziekte](http://twitter.com/search?q=Gekkekoeienziekte) | N/A |
+| 14 | [tjeerd](http://twitter.com/search?q=tjeerd) | N/A |
+| 15 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 16 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
+| 17 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
 | 18 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
-| 19 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 20 | [lelystad airport](http://twitter.com/search?q=lelystad+airport) | N/A |
+| 19 | [lelystad airport](http://twitter.com/search?q=lelystad+airport) | N/A |
+| 20 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
 | 21 | [van ginkel](http://twitter.com/search?q=van+ginkel) | N/A |
-| 22 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 23 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
+| 22 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 23 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
 | 24 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 25 | [Ongehoord Nederland](http://twitter.com/search?q=Ongehoord+Nederland) | N/A |
 | 26 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
 | 27 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
-| 28 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
-| 29 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 30 | [donderdag](http://twitter.com/search?q=donderdag) | N/A |
-| 31 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [Kwint](http://twitter.com/search?q=Kwint) | N/A |
+| 30 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 31 | [donderdag](http://twitter.com/search?q=donderdag) | N/A |
 | 32 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 33 | [Hoorn](http://twitter.com/search?q=Hoorn) | N/A |
-| 34 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 35 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
+| 33 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 34 | [Hoorn](http://twitter.com/search?q=Hoorn) | N/A |
+| 35 | [Vreselijk](http://twitter.com/search?q=Vreselijk) | N/A |
 | 36 | [Sander Schimmelpenninck](http://twitter.com/search?q=Sander+Schimmelpenninck) | N/A |
-| 37 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
-| 38 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 39 | [labyad](http://twitter.com/search?q=labyad) | N/A |
-| 40 | [Welkom](http://twitter.com/search?q=Welkom) | N/A |
-| 41 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
-| 42 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 43 | [Interrail](http://twitter.com/search?q=Interrail) | N/A |
-| 44 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 45 | [te wierik](http://twitter.com/search?q=te+wierik) | N/A |
-| 46 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 47 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 48 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 49 | [Martin Bosma](http://twitter.com/search?q=Martin+Bosma) | N/A |
+| 37 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 38 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
+| 39 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 40 | [Rabobank](http://twitter.com/search?q=Rabobank) | N/A |
+| 41 | [bullaude](http://twitter.com/search?q=bullaude) | N/A |
+| 42 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 43 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 44 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 45 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 46 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 47 | [Interrail](http://twitter.com/search?q=Interrail) | N/A |
+| 48 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 49 | [te wierik](http://twitter.com/search?q=te+wierik) | N/A |
 
 
 
