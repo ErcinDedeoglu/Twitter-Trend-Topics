@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-03 21:17:00 UTC`
+📆 Last Updated: `2023-02-03 22:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 2 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 3 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 4 | [Brea Frank](http://twitter.com/search?q=Brea+Frank) | N/A |
-| 5 | [Rita Indiana](http://twitter.com/search?q=Rita+Indiana) | N/A |
-| 6 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
-| 7 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 8 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 9 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | N/A |
-| 10 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 11 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
-| 12 | [Bonifacio](http://twitter.com/search?q=Bonifacio) | N/A |
-| 13 | [Abogado](http://twitter.com/search?q=Abogado) | N/A |
-| 14 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 15 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 16 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 17 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 18 | [Jairo Asencio](http://twitter.com/search?q=Jairo+Asencio) | N/A |
-| 19 | [Prestige](http://twitter.com/search?q=Prestige) | N/A |
-| 20 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
-| 21 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
-| 22 | [Pedernales](http://twitter.com/search?q=Pedernales) | N/A |
-| 23 | [prieto](http://twitter.com/search?q=prieto) | N/A |
-| 24 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 25 | [La 42](http://twitter.com/search?q=La+42) | N/A |
-| 26 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 27 | [Noelia](http://twitter.com/search?q=Noelia) | N/A |
-| 28 | [manny garcía](http://twitter.com/search?q=manny+garc%c3%ada) | N/A |
-| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [Caamaño](http://twitter.com/search?q=Caama%c3%b1o) | N/A |
-| 31 | [Plátano Power](http://twitter.com/search?q=Pl%c3%a1tano+Power) | N/A |
-| 32 | [Dominicanidad](http://twitter.com/search?q=Dominicanidad) | N/A |
-| 33 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 34 | [Ministerio de la Juventud](http://twitter.com/search?q=Ministerio+de+la+Juventud) | N/A |
+| 1 | [#SerieDelCaribeGranCaracas2023](http://twitter.com/search?q=%23SerieDelCaribeGranCaracas2023) | N/A |
+| 2 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
+| 3 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 4 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 5 | [Jonathan Aro](http://twitter.com/search?q=Jonathan+Aro) | N/A |
+| 6 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 7 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 8 | [Brea Frank](http://twitter.com/search?q=Brea+Frank) | N/A |
+| 9 | [Rita Indiana](http://twitter.com/search?q=Rita+Indiana) | N/A |
+| 10 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 11 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 12 | [Jairo](http://twitter.com/search?q=Jairo) | N/A |
+| 13 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 14 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 15 | [#PlatanoPower](http://twitter.com/search?q=%23PlatanoPower) | N/A |
+| 16 | [Día Internacional del Abogado](http://twitter.com/search?q=D%c3%ada+Internacional+del+Abogado) | N/A |
+| 17 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 18 | [Bonifacio](http://twitter.com/search?q=Bonifacio) | N/A |
+| 19 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 20 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 21 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 22 | [Domingo Robles](http://twitter.com/search?q=Domingo+Robles) | N/A |
+| 23 | [Prestige](http://twitter.com/search?q=Prestige) | N/A |
+| 24 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
+| 25 | [Pedernales](http://twitter.com/search?q=Pedernales) | N/A |
+| 26 | [Licey](http://twitter.com/search?q=Licey) | N/A |
+| 27 | [La 42](http://twitter.com/search?q=La+42) | N/A |
+| 28 | [Dominicanidad](http://twitter.com/search?q=Dominicanidad) | N/A |
+| 29 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 30 | [manny garcía](http://twitter.com/search?q=manny+garc%c3%ada) | N/A |
+| 31 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
+| 32 | [Noelia](http://twitter.com/search?q=Noelia) | N/A |
+| 33 | [Caamaño](http://twitter.com/search?q=Caama%c3%b1o) | N/A |
+| 34 | [Cervecería](http://twitter.com/search?q=Cervecer%c3%ada) | N/A |
 | 35 | [Freddy Peralta](http://twitter.com/search?q=Freddy+Peralta) | N/A |
-| 36 | [UASD](http://twitter.com/search?q=UASD) | N/A |
-| 37 | [Día Mundial de los Humedales](http://twitter.com/search?q=D%c3%ada+Mundial+de+los+Humedales) | N/A |
-| 38 | [Cervecería](http://twitter.com/search?q=Cervecer%c3%ada) | N/A |
-| 39 | [Euric](http://twitter.com/search?q=Euric) | N/A |
-| 40 | [Fideicomiso Público](http://twitter.com/search?q=Fideicomiso+P%c3%bablico) | N/A |
-| 41 | [#estrellasdelaopinion](http://twitter.com/search?q=%23estrellasdelaopinion) | N/A |
-| 42 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
-| 43 | [#ZDigital](http://twitter.com/search?q=%23ZDigital) | N/A |
-| 44 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 45 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 47 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 48 | [caracoles](http://twitter.com/search?q=caracoles) | N/A |
-| 49 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 50 | [Piantini](http://twitter.com/search?q=Piantini) | N/A |
+| 36 | [Caballeros](http://twitter.com/search?q=Caballeros) | N/A |
+| 37 | [UASD](http://twitter.com/search?q=UASD) | N/A |
+| 38 | [RD$500](http://twitter.com/search?q=RD%24500) | N/A |
+| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [Día Mundial de los Humedales](http://twitter.com/search?q=D%c3%ada+Mundial+de+los+Humedales) | N/A |
+| 41 | [Ministerio de la Juventud](http://twitter.com/search?q=Ministerio+de+la+Juventud) | N/A |
+| 42 | [Euric](http://twitter.com/search?q=Euric) | N/A |
+| 43 | [Fideicomiso Público](http://twitter.com/search?q=Fideicomiso+P%c3%bablico) | N/A |
+| 44 | [prieto](http://twitter.com/search?q=prieto) | N/A |
+| 45 | [Chanel](http://twitter.com/search?q=Chanel) | N/A |
+| 46 | [Choco Rica](http://twitter.com/search?q=Choco+Rica) | N/A |
+| 47 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
+| 48 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 49 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 50 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
 
 
 

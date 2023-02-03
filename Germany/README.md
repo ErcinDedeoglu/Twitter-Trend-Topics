@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-03 21:17:01 UTC`
+📆 Last Updated: `2023-02-03 22:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#wodieliebehinfällt](http://twitter.com/search?q=%23wodieliebehinf%c3%a4llt) | N/A |
-| 2 | [#FCAB04](http://twitter.com/search?q=%23FCAB04) | N/A |
-| 3 | [#GronkhTV](http://twitter.com/search?q=%23GronkhTV) | N/A |
-| 4 | [#Faeser](http://twitter.com/search?q=%23Faeser) | N/A |
-| 5 | [#SCPF95](http://twitter.com/search?q=%23SCPF95) | N/A |
-| 6 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 7 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 8 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 9 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
-| 10 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 11 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 12 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 13 | [Obert](http://twitter.com/search?q=Obert) | N/A |
-| 14 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 15 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 16 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 17 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 18 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
-| 19 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 20 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 21 | [Jägerschnitzel](http://twitter.com/search?q=J%c3%a4gerschnitzel) | N/A |
-| 22 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
-| 23 | [Manuel Neuer](http://twitter.com/search?q=Manuel+Neuer) | N/A |
-| 24 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 28 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 29 | [KRISTINA](http://twitter.com/search?q=KRISTINA) | N/A |
-| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 31 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 32 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 33 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 34 | [Flughafen Hahn](http://twitter.com/search?q=Flughafen+Hahn) | N/A |
-| 35 | [Glas](http://twitter.com/search?q=Glas) | N/A |
-| 36 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Tapalovic](http://twitter.com/search?q=Tapalovic) | N/A |
-| 39 | [Subs](http://twitter.com/search?q=Subs) | N/A |
-| 40 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 41 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 42 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 43 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 44 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 45 | [Grundängsten](http://twitter.com/search?q=Grund%c3%a4ngsten) | N/A |
-| 46 | [Schwebe](http://twitter.com/search?q=Schwebe) | N/A |
-| 47 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 48 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 49 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 50 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 1 | [#FCAB04](http://twitter.com/search?q=%23FCAB04) | N/A |
+| 2 | [#wodieliebehinfällt](http://twitter.com/search?q=%23wodieliebehinf%c3%a4llt) | N/A |
+| 3 | [#heuteshow](http://twitter.com/search?q=%23heuteshow) | N/A |
+| 4 | [#salzstangen](http://twitter.com/search?q=%23salzstangen) | N/A |
+| 5 | [#CHEFUL](http://twitter.com/search?q=%23CHEFUL) | #CHEFUL is a hashtag used on social media to refer to food that is prepared by a professional chef. It is often used to showcase the work of chefs, highlight their culinary skills, and promote their businesses. |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 8 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 9 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 10 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 11 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 16 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 17 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 18 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 19 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 20 | [Manuel Neuer](http://twitter.com/search?q=Manuel+Neuer) | N/A |
+| 21 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
+| 22 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 23 | [Jägerschnitzel](http://twitter.com/search?q=J%c3%a4gerschnitzel) | N/A |
+| 24 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
+| 25 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 26 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 27 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
+| 28 | [Berisha](http://twitter.com/search?q=Berisha) | N/A |
+| 29 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 31 | [Glas](http://twitter.com/search?q=Glas) | N/A |
+| 32 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 33 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 34 | [Obert](http://twitter.com/search?q=Obert) | N/A |
+| 35 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 38 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 39 | [Grundängsten](http://twitter.com/search?q=Grund%c3%a4ngsten) | N/A |
+| 40 | [Hahn](http://twitter.com/search?q=Hahn) | N/A |
+| 41 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 42 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 43 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 44 | [Koffein](http://twitter.com/search?q=Koffein) | N/A |
+| 45 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 46 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 47 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 49 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 50 | [Asta](http://twitter.com/search?q=Asta) | N/A |
 
 
 

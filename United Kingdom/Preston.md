@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-03 21:16:06 UTC`
+📆 Last Updated: `2023-02-03 22:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 2 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 3 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 4 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 5 | [#twitchstreamer](http://twitter.com/search?q=%23twitchstreamer) | N/A |
-| 6 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
-| 7 | [#juniorbakeoff](http://twitter.com/search?q=%23juniorbakeoff) | N/A |
-| 8 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 9 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 10 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 11 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 12 | [Oasis](http://twitter.com/search?q=Oasis) | N/A |
-| 13 | [#GreenFootballWeekend](http://twitter.com/search?q=%23GreenFootballWeekend) | N/A |
-| 14 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 18 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 19 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 20 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 21 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 24 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 25 | [Kevin Sinfield](http://twitter.com/search?q=Kevin+Sinfield) | Kevin Sinfield is a former professional rugby league footballer who played for Leeds Rhinos in the Super League. He is widely regarded as one of the greatest players of all time and was the first player to win seven Super League titles. He is also the current director of rugby at Leeds Rhinos. The meaning of Kevin Sinfield in English is a legendary rugby league player and current director of rugby at Leeds Rhinos. |
-| 26 | [Jadon](http://twitter.com/search?q=Jadon) | Jadon is a Hebrew name meaning "God has heard". It is also a variant of the name Jadon, which is derived from the Biblical name Jadon. |
-| 27 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 28 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 29 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 30 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
-| 31 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 33 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 34 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
-| 35 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | N/A |
-| 36 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 37 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 38 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 39 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 40 | [Beck](http://twitter.com/search?q=Beck) | N/A |
-| 41 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 42 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 43 | [Chilwell](http://twitter.com/search?q=Chilwell) | N/A |
-| 44 | [Grady](http://twitter.com/search?q=Grady) | N/A |
-| 45 | [Crowded House](http://twitter.com/search?q=Crowded+House) | N/A |
-| 46 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 47 | [Bernice](http://twitter.com/search?q=Bernice) | N/A |
-| 48 | [Curby](http://twitter.com/search?q=Curby) | N/A |
-| 49 | [Sinead](http://twitter.com/search?q=Sinead) | N/A |
-| 50 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 1 | [Bernice](http://twitter.com/search?q=Bernice) | N/A |
+| 2 | [Mack](http://twitter.com/search?q=Mack) | N/A |
+| 3 | [Beck](http://twitter.com/search?q=Beck) | N/A |
+| 4 | [Crowded House](http://twitter.com/search?q=Crowded+House) | N/A |
+| 5 | [Curby](http://twitter.com/search?q=Curby) | N/A |
+| 6 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 7 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 8 | [Sting](http://twitter.com/search?q=Sting) | N/A |
+| 9 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 10 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 11 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [#CHEFUL](http://twitter.com/search?q=%23CHEFUL) | #CHEFUL is a hashtag used on social media to refer to food that is prepared by a professional chef. It is often used to showcase the work of chefs, highlight their culinary skills, and promote their businesses. |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 17 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 18 | [Spencer](http://twitter.com/search?q=Spencer) | N/A |
+| 19 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 20 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 21 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 22 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 23 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 24 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 25 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 27 | [Kenny Tete](http://twitter.com/search?q=Kenny+Tete) | Kenny Tete is a Dutch professional footballer who plays as a right back for Premier League club Fulham. The phrase "Kenny Tete" is simply the name of the player in English. |
+| 28 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 29 | [#eurosong2023](http://twitter.com/search?q=%23eurosong2023) | N/A |
+| 30 | [Tom and Ron](http://twitter.com/search?q=Tom+and+Ron) | N/A |
+| 31 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
+| 32 | [Casey](http://twitter.com/search?q=Casey) | N/A |
+| 33 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 34 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 35 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 36 | [Jadon](http://twitter.com/search?q=Jadon) | Jadon is a Hebrew name meaning "God has heard". It is also a variant of the name Jadon, which is derived from the Biblical name Jadon. |
+| 37 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 38 | [Tim Ream](http://twitter.com/search?q=Tim+Ream) | Tim Ream is an American soccer player who currently plays for Fulham in the English Premier League. He is a defender who has also played for the United States men's national team. The name "Tim Ream" is derived from his given name, Timothy. |
+| 39 | [Marco Silva](http://twitter.com/search?q=Marco+Silva) | N/A |
+| 40 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 41 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
+| 42 | [Kevin Sinfield](http://twitter.com/search?q=Kevin+Sinfield) | Kevin Sinfield is a former professional rugby league footballer who played for Leeds Rhinos in the Super League. He is widely regarded as one of the greatest players of all time and was the first player to win seven Super League titles. He is also the current director of rugby at Leeds Rhinos. The meaning of Kevin Sinfield in English is a legendary rugby league player and current director of rugby at Leeds Rhinos. |
+| 43 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
+| 44 | [Leno](http://twitter.com/search?q=Leno) | N/A |
+| 45 | [Ron and Tom](http://twitter.com/search?q=Ron+and+Tom) | N/A |
+| 46 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 47 | [Derek](http://twitter.com/search?q=Derek) | N/A |
+| 48 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 49 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 50 | [Button](http://twitter.com/search?q=Button) | N/A |
 
 
 

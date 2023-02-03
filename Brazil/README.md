@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-03 21:16:59 UTC`
+📆 Last Updated: `2023-02-03 22:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 2 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
-| 3 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 4 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 5 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 6 | [#1ANODONI](http://twitter.com/search?q=%231ANODONI) | N/A |
-| 7 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 8 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 9 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 10 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 11 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 12 | [#CoronadoNoFlamengo](http://twitter.com/search?q=%23CoronadoNoFlamengo) | N/A |
-| 13 | [Liziero](http://twitter.com/search?q=Liziero) | Liziero is a Portuguese word meaning "happy". It is often used as a term of endearment or to express joy. |
-| 14 | [Furia](http://twitter.com/search?q=Furia) | N/A |
-| 15 | [#ADona043](http://twitter.com/search?q=%23ADona043) | N/A |
-| 16 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 17 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 18 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 19 | [Tabajara](http://twitter.com/search?q=Tabajara) | N/A |
-| 20 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 21 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
-| 22 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 23 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 24 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 25 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
-| 26 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 27 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 28 | [Conselho de Ética](http://twitter.com/search?q=Conselho+de+%c3%89tica) | N/A |
-| 29 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 30 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 31 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 32 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 33 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 34 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 35 | [LAVENDER HAZE BRASIL](http://twitter.com/search?q=LAVENDER+HAZE+BRASIL) | N/A |
-| 36 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 37 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 38 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 39 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
-| 40 | [Naldo Benny](http://twitter.com/search?q=Naldo+Benny) | N/A |
-| 41 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 42 | [Casseta e Planeta](http://twitter.com/search?q=Casseta+e+Planeta) | N/A |
-| 43 | [Monstros SA](http://twitter.com/search?q=Monstros+SA) | N/A |
-| 44 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
-| 45 | [Marisa Letícia](http://twitter.com/search?q=Marisa+Let%c3%adcia) | N/A |
-| 46 | [Os Incríveis](http://twitter.com/search?q=Os+Incr%c3%adveis) | N/A |
-| 47 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
-| 48 | [Ice Cube](http://twitter.com/search?q=Ice+Cube) | N/A |
-| 49 | [Wolverine](http://twitter.com/search?q=Wolverine) | N/A |
-| 50 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 1 | [MAIARA E MARAISA DVD PORTUGAL](http://twitter.com/search?q=MAIARA+E+MARAISA+DVD+PORTUGAL) | MAIARA E MARAISA DVD PORTUGAL is a DVD release of the Brazilian country music duo Maiara & Maraisa. The DVD was released in Portugal and features live performances of their songs. In English, it means "Maiara & Maraisa DVD Portugal". |
+| 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
+| 5 | [jake peralta](http://twitter.com/search?q=jake+peralta) | N/A |
+| 6 | [#TresVezesAna005](http://twitter.com/search?q=%23TresVezesAna005) | N/A |
+| 7 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 8 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 11 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 12 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 13 | [#1ANODONI](http://twitter.com/search?q=%231ANODONI) | N/A |
+| 14 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 15 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 16 | [#MardoSertao](http://twitter.com/search?q=%23MardoSertao) | N/A |
+| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 18 | [Michael Scott](http://twitter.com/search?q=Michael+Scott) | N/A |
+| 19 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 20 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 21 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 22 | [Tobey](http://twitter.com/search?q=Tobey) | N/A |
+| 23 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 24 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 25 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 26 | [valeria almeida](http://twitter.com/search?q=valeria+almeida) | N/A |
+| 27 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 28 | [Wolverine](http://twitter.com/search?q=Wolverine) | N/A |
+| 29 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 30 | [Furia](http://twitter.com/search?q=Furia) | N/A |
+| 31 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 32 | [Liziero](http://twitter.com/search?q=Liziero) | Liziero is a Portuguese word meaning "happy". It is often used as a term of endearment or to express joy. |
+| 33 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 34 | [Grazi](http://twitter.com/search?q=Grazi) | N/A |
+| 35 | [Janaína Paschoal](http://twitter.com/search?q=Jana%c3%adna+Paschoal) | N/A |
+| 36 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 37 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 38 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
+| 39 | [Tabajara](http://twitter.com/search?q=Tabajara) | N/A |
+| 40 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 41 | [Conselho de Ética](http://twitter.com/search?q=Conselho+de+%c3%89tica) | N/A |
+| 42 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
+| 43 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 44 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 45 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 46 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 47 | [Motoqueiro](http://twitter.com/search?q=Motoqueiro) | N/A |
+| 48 | [LAVENDER HAZE BRASIL](http://twitter.com/search?q=LAVENDER+HAZE+BRASIL) | N/A |
+| 49 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 50 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
 
 
 
