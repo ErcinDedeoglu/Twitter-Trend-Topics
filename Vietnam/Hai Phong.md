@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-03 06:16:52 UTC`
+📆 Last Updated: `2023-02-03 07:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 8 | [#BOCtreat15actorsbetter](http://twitter.com/search?q=%23BOCtreat15actorsbetter) | N/A |
 | 9 | [#10YearsTicketFinalEP](http://twitter.com/search?q=%2310YearsTicketFinalEP) | N/A |
 | 10 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 11 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
+| 11 | [Fantom](http://twitter.com/search?q=Fantom) | N/A |
 | 12 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
 | 13 | [Philadelphia Eagles](http://twitter.com/search?q=Philadelphia+Eagles) | N/A |
-| 14 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 14 | [Gulf](http://twitter.com/search?q=Gulf) | N/A |
 | 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 17 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 18 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 19 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 20 | [$aurora](http://twitter.com/search?q=%24aurora) | N/A |
-| 21 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 16 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 17 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 18 | [$aurora](http://twitter.com/search?q=%24aurora) | N/A |
+| 19 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 20 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
+| 21 | [massage in riaydh](http://twitter.com/search?q=massage+in+riaydh) | N/A |
 | 22 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
-| 23 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 24 | [China](http://twitter.com/search?q=China) | N/A |
-| 25 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 23 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
+| 24 | [Daikin](http://twitter.com/search?q=Daikin) | N/A |
+| 25 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
 | 26 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 27 | [5 xCapx](http://twitter.com/search?q=5+xCapx) | N/A |
-| 28 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 29 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
-| 30 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 31 | [kiyoshi's seeds](http://twitter.com/search?q=kiyoshi%27s+seeds) | N/A |
-| 32 | [Giao](http://twitter.com/search?q=Giao) | N/A |
-| 33 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 34 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 35 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 36 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 37 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 38 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 39 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 40 | [Okie](http://twitter.com/search?q=Okie) | N/A |
-| 41 | [Trên](http://twitter.com/search?q=Tr%c3%aan) | N/A |
-| 42 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 45 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 46 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 47 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 48 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
-| 49 | [linh](http://twitter.com/search?q=linh) | N/A |
-| 50 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 27 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
+| 28 | [Kiyoshi's Seeds](http://twitter.com/search?q=Kiyoshi%27s+Seeds) | N/A |
+| 29 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 30 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
+| 31 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 32 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 33 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 34 | [Giao](http://twitter.com/search?q=Giao) | N/A |
+| 35 | [Tưởng](http://twitter.com/search?q=T%c6%b0%e1%bb%9fng) | N/A |
+| 36 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
+| 37 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 38 | [Trên](http://twitter.com/search?q=Tr%c3%aan) | N/A |
+| 39 | [Okie](http://twitter.com/search?q=Okie) | N/A |
+| 40 | [thầy](http://twitter.com/search?q=th%e1%ba%a7y) | N/A |
+| 41 | [Source Link](http://twitter.com/search?q=Source+Link) | N/A |
+| 42 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 43 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
+| 44 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
+| 45 | [linh](http://twitter.com/search?q=linh) | N/A |
+| 46 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 47 | [Liên](http://twitter.com/search?q=Li%c3%aan) | N/A |
+| 48 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
+| 49 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
+| 50 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 
 
 
