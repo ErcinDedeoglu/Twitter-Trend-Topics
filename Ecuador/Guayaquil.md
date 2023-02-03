@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-03 17:16:05 UTC`
+📆 Last Updated: `2023-02-03 18:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Eber Caicedo](http://twitter.com/search?q=Eber+Caicedo) | N/A |
-| 2 | [#VotoEnCasa](http://twitter.com/search?q=%23VotoEnCasa) | N/A |
-| 3 | [Tabacchi](http://twitter.com/search?q=Tabacchi) | N/A |
-| 4 | [LOUIS COME TO ECUADOR](http://twitter.com/search?q=LOUIS+COME+TO+ECUADOR) | N/A |
-| 5 | [#ElPRO](http://twitter.com/search?q=%23ElPRO) | N/A |
-| 6 | [Ricardo Adé](http://twitter.com/search?q=Ricardo+Ad%c3%a9) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 9 | [William Pacho](http://twitter.com/search?q=William+Pacho) | N/A |
-| 10 | [Roberto De Zerbi](http://twitter.com/search?q=Roberto+De+Zerbi) | N/A |
-| 11 | [Ambato](http://twitter.com/search?q=Ambato) | N/A |
-| 12 | [#Elecciones2023Ec](http://twitter.com/search?q=%23Elecciones2023Ec) | N/A |
-| 13 | [omar cevallos](http://twitter.com/search?q=omar+cevallos) | N/A |
-| 14 | [Javier Burrai](http://twitter.com/search?q=Javier+Burrai) | N/A |
-| 15 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
-| 16 | [#mipanasportbet](http://twitter.com/search?q=%23mipanasportbet) | N/A |
-| 17 | [#CNCOxSteveAoki](http://twitter.com/search?q=%23CNCOxSteveAoki) | N/A |
-| 18 | [Beccacece](http://twitter.com/search?q=Beccacece) | N/A |
-| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 1 | [#losdesiempre](http://twitter.com/search?q=%23losdesiempre) | N/A |
+| 2 | [Eber Caicedo](http://twitter.com/search?q=Eber+Caicedo) | N/A |
+| 3 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 4 | [#VotoEnCasa](http://twitter.com/search?q=%23VotoEnCasa) | N/A |
+| 5 | [Tabacchi](http://twitter.com/search?q=Tabacchi) | N/A |
+| 6 | [Roberto De Zerbi](http://twitter.com/search?q=Roberto+De+Zerbi) | N/A |
+| 7 | [#EcuadorVota2023](http://twitter.com/search?q=%23EcuadorVota2023) | N/A |
+| 8 | [Ricardo Adé](http://twitter.com/search?q=Ricardo+Ad%c3%a9) | N/A |
+| 9 | [#ElPRO](http://twitter.com/search?q=%23ElPRO) | N/A |
+| 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 11 | [#Elecciones2023Ec](http://twitter.com/search?q=%23Elecciones2023Ec) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [javier burrai](http://twitter.com/search?q=javier+burrai) | N/A |
+| 14 | [Ambato](http://twitter.com/search?q=Ambato) | N/A |
+| 15 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 17 | [Omar Cevallos](http://twitter.com/search?q=Omar+Cevallos) | N/A |
+| 18 | [beccacece](http://twitter.com/search?q=beccacece) | N/A |
+| 19 | [César Farías](http://twitter.com/search?q=C%c3%a9sar+Far%c3%adas) | N/A |
 | 20 | [DIFERENTE OUT NOW](http://twitter.com/search?q=DIFERENTE+OUT+NOW) | N/A |
-| 21 | [carlos cuero](http://twitter.com/search?q=carlos+cuero) | N/A |
-| 22 | [César Farías](http://twitter.com/search?q=C%c3%a9sar+Far%c3%adas) | N/A |
-| 23 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 24 | [Freile](http://twitter.com/search?q=Freile) | N/A |
-| 25 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
-| 26 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 27 | [Lorenzo Faravelli](http://twitter.com/search?q=Lorenzo+Faravelli) | N/A |
-| 28 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
-| 29 | [kaviedes](http://twitter.com/search?q=kaviedes) | N/A |
-| 30 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 31 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 32 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 33 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 34 | [pedro ortiz](http://twitter.com/search?q=pedro+ortiz) | N/A |
-| 35 | [Víctor Figueroa](http://twitter.com/search?q=V%c3%adctor+Figueroa) | N/A |
-| 36 | [adrián h.](http://twitter.com/search?q=adri%c3%a1n+h.) | N/A |
-| 37 | [Aguiñaga](http://twitter.com/search?q=Agui%c3%b1aga) | N/A |
-| 38 | [Campana](http://twitter.com/search?q=Campana) | N/A |
-| 39 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 40 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
-| 41 | [Ola Bini](http://twitter.com/search?q=Ola+Bini) | N/A |
-| 42 | [Guschmer](http://twitter.com/search?q=Guschmer) | N/A |
-| 43 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 44 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | N/A |
-| 45 | [alcaldía de quito](http://twitter.com/search?q=alcald%c3%ada+de+quito) | N/A |
-| 46 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 48 | [Concejal](http://twitter.com/search?q=Concejal) | N/A |
-| 49 | [vannesa](http://twitter.com/search?q=vannesa) | N/A |
-| 50 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
+| 21 | [Freile](http://twitter.com/search?q=Freile) | N/A |
+| 22 | [Arnaldo](http://twitter.com/search?q=Arnaldo) | N/A |
+| 23 | [William Pacho](http://twitter.com/search?q=William+Pacho) | N/A |
+| 24 | [Kaviedes](http://twitter.com/search?q=Kaviedes) | N/A |
+| 25 | [lorenzo faravelli](http://twitter.com/search?q=lorenzo+faravelli) | N/A |
+| 26 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 27 | [Eugenio Espejo](http://twitter.com/search?q=Eugenio+Espejo) | N/A |
+| 28 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 29 | [pedro ortiz](http://twitter.com/search?q=pedro+ortiz) | N/A |
+| 30 | [adrián h.](http://twitter.com/search?q=adri%c3%a1n+h.) | N/A |
+| 31 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 32 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 33 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | N/A |
+| 34 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 35 | [Aguiñaga](http://twitter.com/search?q=Agui%c3%b1aga) | N/A |
+| 36 | [Guschmer](http://twitter.com/search?q=Guschmer) | N/A |
+| 37 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 38 | [Carlos Cuero](http://twitter.com/search?q=Carlos+Cuero) | N/A |
+| 39 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 40 | [Ola Bini](http://twitter.com/search?q=Ola+Bini) | N/A |
+| 41 | [En 1917](http://twitter.com/search?q=En+1917) | N/A |
+| 42 | [Liga Pro 2022](http://twitter.com/search?q=Liga+Pro+2022) | N/A |
+| 43 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 44 | [Vannesa](http://twitter.com/search?q=Vannesa) | N/A |
+| 45 | [Gustavo Alfaro](http://twitter.com/search?q=Gustavo+Alfaro) | Gustavo Alfaro is a Spanish surname. It is derived from the Germanic personal name Alfaro, which means "nobleman". In English, the name Gustavo Alfaro would translate to "nobleman of Alfaro". |
+| 46 | [Víctor Figueroa](http://twitter.com/search?q=V%c3%adctor+Figueroa) | N/A |
+| 47 | [Zamora](http://twitter.com/search?q=Zamora) | N/A |
+| 48 | [Copa Davis](http://twitter.com/search?q=Copa+Davis) | N/A |
+| 49 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 50 | [Queso](http://twitter.com/search?q=Queso) | N/A |
 
 
 

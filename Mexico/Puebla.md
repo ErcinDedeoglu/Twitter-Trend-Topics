@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-02-03 17:16:03 UTC`
+📆 Last Updated: `2023-02-03 18:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 2 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
-| 3 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 4 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
-| 5 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 6 | [#PoderosoSuplente](http://twitter.com/search?q=%23PoderosoSuplente) | N/A |
-| 7 | [#KornoPasaElAuxiliar](http://twitter.com/search?q=%23KornoPasaElAuxiliar) | N/A |
-| 8 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 9 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 10 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 11 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 14 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 2 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 3 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
+| 4 | [#PoderosoSuplente](http://twitter.com/search?q=%23PoderosoSuplente) | N/A |
+| 5 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
+| 6 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 7 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
+| 8 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 9 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 10 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 13 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 14 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 15 | [Gerardo Islas](http://twitter.com/search?q=Gerardo+Islas) | N/A |
-| 16 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 17 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 18 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
-| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 20 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
-| 21 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 22 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
-| 23 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 24 | [José Saramago](http://twitter.com/search?q=Jos%c3%a9+Saramago) | N/A |
-| 25 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
-| 26 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
-| 27 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 28 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 29 | [Colegio Rébsamen](http://twitter.com/search?q=Colegio+R%c3%a9bsamen) | N/A |
-| 30 | [El 3](http://twitter.com/search?q=El+3) | N/A |
-| 31 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
-| 32 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 33 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 34 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 35 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 36 | [Portstall](http://twitter.com/search?q=Portstall) | N/A |
-| 37 | [DIFERENTE OUT NOW](http://twitter.com/search?q=DIFERENTE+OUT+NOW) | N/A |
-| 38 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 39 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 40 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
-| 41 | [Velvet](http://twitter.com/search?q=Velvet) | N/A |
-| 42 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 43 | [Sherlyn](http://twitter.com/search?q=Sherlyn) | N/A |
-| 44 | [Zopi](http://twitter.com/search?q=Zopi) | N/A |
-| 45 | [Chucho Salinas](http://twitter.com/search?q=Chucho+Salinas) | N/A |
-| 46 | [La Barbie](http://twitter.com/search?q=La+Barbie) | N/A |
-| 47 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
-| 48 | [El Capital](http://twitter.com/search?q=El+Capital) | N/A |
-| 49 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
-| 50 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 16 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 17 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 18 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 19 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 20 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 21 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 22 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 23 | [Calzada Zavaleta](http://twitter.com/search?q=Calzada+Zavaleta) | N/A |
+| 24 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
+| 25 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
+| 26 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
+| 27 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 28 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
+| 29 | [Terminal 1](http://twitter.com/search?q=Terminal+1) | N/A |
+| 30 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
+| 31 | [Super Show 9](http://twitter.com/search?q=Super+Show+9) | N/A |
+| 32 | [Max Verstappen](http://twitter.com/search?q=Max+Verstappen) | N/A |
+| 33 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 34 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 35 | [Colegio Rébsamen](http://twitter.com/search?q=Colegio+R%c3%a9bsamen) | N/A |
+| 36 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 37 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 38 | [La Barbie](http://twitter.com/search?q=La+Barbie) | N/A |
+| 39 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 40 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
+| 41 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 42 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 43 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
+| 44 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 45 | [Velvet](http://twitter.com/search?q=Velvet) | N/A |
+| 46 | [DIFERENTE OUT NOW](http://twitter.com/search?q=DIFERENTE+OUT+NOW) | N/A |
+| 47 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
+| 48 | [Cámara](http://twitter.com/search?q=C%c3%a1mara) | N/A |
+| 49 | [Chucho Salinas](http://twitter.com/search?q=Chucho+Salinas) | N/A |
+| 50 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
 
 
 

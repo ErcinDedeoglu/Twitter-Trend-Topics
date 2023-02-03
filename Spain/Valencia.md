@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-03 17:16:14 UTC`
+📆 Last Updated: `2023-02-03 18:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 2 | [#ExpertosPcComponentes](http://twitter.com/search?q=%23ExpertosPcComponentes) | N/A |
+| 1 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 2 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
 | 3 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 4 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
-| 5 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
-| 6 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 7 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 8 | [#HONOR70](http://twitter.com/search?q=%23HONOR70) | N/A |
-| 9 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 10 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 11 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [Terelu](http://twitter.com/search?q=Terelu) | N/A |
-| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 15 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 16 | [Patiño](http://twitter.com/search?q=Pati%c3%b1o) | N/A |
-| 17 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 18 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
-| 19 | [Bochornoso](http://twitter.com/search?q=Bochornoso) | N/A |
-| 20 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 21 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 22 | [Rabocop](http://twitter.com/search?q=Rabocop) | N/A |
-| 23 | [William Carvalho](http://twitter.com/search?q=William+Carvalho) | N/A |
-| 24 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
-| 25 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 26 | [Figo](http://twitter.com/search?q=Figo) | N/A |
-| 27 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
-| 28 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 29 | [Maica](http://twitter.com/search?q=Maica) | N/A |
-| 30 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 31 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 32 | [Chapote](http://twitter.com/search?q=Chapote) | N/A |
-| 33 | [CaixaBank](http://twitter.com/search?q=CaixaBank) | N/A |
-| 34 | [Consuelo Ordóñez](http://twitter.com/search?q=Consuelo+Ord%c3%b3%c3%b1ez) | N/A |
-| 35 | [Cajas](http://twitter.com/search?q=Cajas) | N/A |
-| 36 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 37 | [#QueTeVoteTxapote](http://twitter.com/search?q=%23QueTeVoteTxapote) | N/A |
-| 38 | [#Solos3F](http://twitter.com/search?q=%23Solos3F) | N/A |
-| 39 | [#VCV2023](http://twitter.com/search?q=%23VCV2023) | N/A |
-| 40 | [#DiaMundialContraElCancer](http://twitter.com/search?q=%23DiaMundialContraElCancer) | N/A |
-| 41 | [#APOYOROCIO3F](http://twitter.com/search?q=%23APOYOROCIO3F) | N/A |
-| 42 | [#CopaDeLaReina](http://twitter.com/search?q=%23CopaDeLaReina) | N/A |
-| 43 | [#yomerebelo3f](http://twitter.com/search?q=%23yomerebelo3f) | N/A |
-| 44 | [#LosMartian](http://twitter.com/search?q=%23LosMartian) | N/A |
+| 4 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 5 | [Terelu](http://twitter.com/search?q=Terelu) | N/A |
+| 6 | [#TierraAmarga3Feb](http://twitter.com/search?q=%23TierraAmarga3Feb) | N/A |
+| 7 | [#ExpertosPcComponentes](http://twitter.com/search?q=%23ExpertosPcComponentes) | N/A |
+| 8 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
+| 9 | [#HONOR70](http://twitter.com/search?q=%23HONOR70) | N/A |
+| 10 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 11 | [Juan Velarde](http://twitter.com/search?q=Juan+Velarde) | N/A |
+| 12 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 13 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 14 | [Rafa Mora](http://twitter.com/search?q=Rafa+Mora) | N/A |
+| 15 | [Patiño](http://twitter.com/search?q=Pati%c3%b1o) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Coto](http://twitter.com/search?q=Coto) | N/A |
+| 18 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 19 | [Cantabria](http://twitter.com/search?q=Cantabria) | N/A |
+| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 21 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
+| 22 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
+| 23 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
+| 24 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 25 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 26 | [ADIF](http://twitter.com/search?q=ADIF) | N/A |
+| 27 | [Bochornoso](http://twitter.com/search?q=Bochornoso) | N/A |
+| 28 | [Operación](http://twitter.com/search?q=Operaci%c3%b3n) | N/A |
+| 29 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
+| 30 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 31 | [Rabocop](http://twitter.com/search?q=Rabocop) | N/A |
+| 32 | [William Carvalho](http://twitter.com/search?q=William+Carvalho) | N/A |
+| 33 | [Hassan II](http://twitter.com/search?q=Hassan+II) | N/A |
+| 34 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
+| 35 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 36 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 37 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 38 | [Figo](http://twitter.com/search?q=Figo) | N/A |
+| 39 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 40 | [Maica](http://twitter.com/search?q=Maica) | N/A |
+| 41 | [Chapote](http://twitter.com/search?q=Chapote) | N/A |
+| 42 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
+| 43 | [Casquero](http://twitter.com/search?q=Casquero) | N/A |
+| 44 | [Consuelo Ordóñez](http://twitter.com/search?q=Consuelo+Ord%c3%b3%c3%b1ez) | N/A |
+| 45 | [#QueTeVoteTxapote](http://twitter.com/search?q=%23QueTeVoteTxapote) | N/A |
+| 46 | [#Solos3F](http://twitter.com/search?q=%23Solos3F) | N/A |
+| 47 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 48 | [#VCV2023](http://twitter.com/search?q=%23VCV2023) | N/A |
+| 49 | [#APOYOROCIO3F](http://twitter.com/search?q=%23APOYOROCIO3F) | N/A |
+| 50 | [#DiaMundialContraElCancer](http://twitter.com/search?q=%23DiaMundialContraElCancer) | N/A |
 
 
 

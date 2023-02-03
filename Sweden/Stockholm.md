@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-03 17:16:15 UTC`
+📆 Last Updated: `2023-02-03 18:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
-| 2 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
-| 3 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 4 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
-| 5 | [Centern](http://twitter.com/search?q=Centern) | N/A |
-| 6 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 1 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 2 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
+| 3 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
+| 4 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
+| 5 | [Otto Drakenberg](http://twitter.com/search?q=Otto+Drakenberg) | N/A |
+| 6 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
 | 7 | [Nyans](http://twitter.com/search?q=Nyans) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Murre](http://twitter.com/search?q=Murre) | N/A |
-| 10 | [Centerpartiet](http://twitter.com/search?q=Centerpartiet) | N/A |
+| 8 | [Lewicki](http://twitter.com/search?q=Lewicki) | N/A |
+| 9 | [Centerpartiet](http://twitter.com/search?q=Centerpartiet) | N/A |
+| 10 | [Centern](http://twitter.com/search?q=Centern) | N/A |
 | 11 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 12 | [#FPLSverige](http://twitter.com/search?q=%23FPLSverige) | N/A |
-| 13 | [Anna Kinberg Batra](http://twitter.com/search?q=Anna+Kinberg+Batra) | N/A |
-| 14 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 16 | [Avenyn](http://twitter.com/search?q=Avenyn) | N/A |
-| 17 | [#lhchockey](http://twitter.com/search?q=%23lhchockey) | N/A |
-| 18 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 19 | [Öberg](http://twitter.com/search?q=%c3%96berg) | N/A |
-| 20 | [Morgan Johansson](http://twitter.com/search?q=Morgan+Johansson) | N/A |
-| 21 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
-| 22 | [Lindbäck](http://twitter.com/search?q=Lindb%c3%a4ck) | N/A |
-| 23 | [palve](http://twitter.com/search?q=palve) | N/A |
-| 24 | [karhunen](http://twitter.com/search?q=karhunen) | N/A |
-| 25 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
-| 28 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
-| 29 | [Jimmie Åkesson](http://twitter.com/search?q=Jimmie+%c3%85kesson) | N/A |
-| 30 | [#cstämma](http://twitter.com/search?q=%23cst%c3%a4mma) | N/A |
-| 31 | [Komarov](http://twitter.com/search?q=Komarov) | N/A |
-| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 33 | [Rosseli](http://twitter.com/search?q=Rosseli) | N/A |
-| 34 | [robot 17](http://twitter.com/search?q=robot+17) | N/A |
-| 35 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
-| 36 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 37 | [ortio](http://twitter.com/search?q=ortio) | N/A |
-| 38 | [Sigge](http://twitter.com/search?q=Sigge) | N/A |
-| 39 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 40 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
-| 41 | [Gods](http://twitter.com/search?q=Gods) | N/A |
-| 42 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 43 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
-| 44 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | N/A |
-| 45 | [PEAB](http://twitter.com/search?q=PEAB) | N/A |
-| 46 | [Varmt](http://twitter.com/search?q=Varmt) | N/A |
-| 47 | [förolämpning](http://twitter.com/search?q=f%c3%b6rol%c3%a4mpning) | N/A |
-| 48 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 49 | [Mikail](http://twitter.com/search?q=Mikail) | N/A |
-| 50 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 12 | [Anna Kinberg Batra](http://twitter.com/search?q=Anna+Kinberg+Batra) | N/A |
+| 13 | [Murre](http://twitter.com/search?q=Murre) | N/A |
+| 14 | [#FPLSverige](http://twitter.com/search?q=%23FPLSverige) | N/A |
+| 15 | [Avenyn](http://twitter.com/search?q=Avenyn) | N/A |
+| 16 | [Botkyrka](http://twitter.com/search?q=Botkyrka) | N/A |
+| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 18 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
+| 19 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 20 | [Öberg](http://twitter.com/search?q=%c3%96berg) | N/A |
+| 21 | [palve](http://twitter.com/search?q=palve) | N/A |
+| 22 | [lindbäck](http://twitter.com/search?q=lindb%c3%a4ck) | N/A |
+| 23 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
+| 24 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 25 | [Morgan Johansson](http://twitter.com/search?q=Morgan+Johansson) | N/A |
+| 26 | [NATO-processen](http://twitter.com/search?q=NATO-processen) | N/A |
+| 27 | [karhunen](http://twitter.com/search?q=karhunen) | N/A |
+| 28 | [Skyttedal](http://twitter.com/search?q=Skyttedal) | N/A |
+| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 30 | [Komarov](http://twitter.com/search?q=Komarov) | N/A |
+| 31 | [rosseli](http://twitter.com/search?q=rosseli) | N/A |
+| 32 | [Annika](http://twitter.com/search?q=Annika) | N/A |
+| 33 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 34 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 35 | [Jimmie Åkesson](http://twitter.com/search?q=Jimmie+%c3%85kesson) | N/A |
+| 36 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 37 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 38 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
+| 39 | [ortio](http://twitter.com/search?q=ortio) | N/A |
+| 40 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 41 | [#vårpåminplanet](http://twitter.com/search?q=%23v%c3%a5rp%c3%a5minplanet) | N/A |
+| 42 | [Svante](http://twitter.com/search?q=Svante) | N/A |
+| 43 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
+| 44 | [Gods](http://twitter.com/search?q=Gods) | N/A |
+| 45 | [Sigge](http://twitter.com/search?q=Sigge) | N/A |
+| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 47 | [Baudin](http://twitter.com/search?q=Baudin) | N/A |
+| 48 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 49 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 50 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | N/A |
 
 
 
