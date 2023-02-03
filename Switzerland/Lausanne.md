@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-03 09:16:06 UTC`
+📆 Last Updated: `2023-02-03 10:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
-| 2 | [#JuveLazio](http://twitter.com/search?q=%23JuveLazio) | #JuveLazio is a hashtag used to refer to the Italian football rivalry between Juventus and Lazio. It is used to show support for either team or to discuss the rivalry between them. In English, it means "Juventus vs Lazio". |
-| 3 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 4 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 5 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 6 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 7 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 8 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 9 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 10 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 2 | [Moral](http://twitter.com/search?q=Moral) | N/A |
+| 3 | [#JuveLazio](http://twitter.com/search?q=%23JuveLazio) | #JuveLazio is a hashtag used to refer to the Italian football rivalry between Juventus and Lazio. It is used to show support for either team or to discuss the rivalry between them. In English, it means "Juventus vs Lazio". |
+| 4 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 5 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 6 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 7 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 8 | [zürich](http://twitter.com/search?q=z%c3%bcrich) | N/A |
+| 9 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 10 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
 | 11 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 12 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 13 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 14 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 15 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 16 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 17 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 18 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 12 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 13 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 14 | [Dach](http://twitter.com/search?q=Dach) | N/A |
+| 15 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 17 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 18 | [Boden](http://twitter.com/search?q=Boden) | N/A |
 | 19 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 21 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 22 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 23 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 24 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
-| 25 | [America](http://twitter.com/search?q=America) | N/A |
-| 26 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 27 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 28 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
-| 29 | [China](http://twitter.com/search?q=China) | N/A |
-| 30 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 31 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 32 | [Logik](http://twitter.com/search?q=Logik) | N/A |
-| 33 | [Arzt](http://twitter.com/search?q=Arzt) | N/A |
-| 34 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 35 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 36 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 37 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
-| 38 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 39 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 40 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
-| 41 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
-| 42 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
-| 43 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 44 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 45 | [#Swiss](http://twitter.com/search?q=%23Swiss) | N/A |
-| 46 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 47 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 20 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 21 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 22 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 23 | [#Switzerland](http://twitter.com/search?q=%23Switzerland) | N/A |
+| 24 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 25 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 26 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
+| 27 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 28 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 29 | [Intelligenz](http://twitter.com/search?q=Intelligenz) | N/A |
+| 30 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 31 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 32 | [Arzt](http://twitter.com/search?q=Arzt) | N/A |
+| 33 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 34 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 35 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 36 | [America](http://twitter.com/search?q=America) | N/A |
+| 37 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
+| 40 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 41 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
+| 42 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
+| 43 | [Logik](http://twitter.com/search?q=Logik) | N/A |
+| 44 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 45 | [#cryptocurrency](http://twitter.com/search?q=%23cryptocurrency) | N/A |
+| 46 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
+| 47 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 48 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
 
 
 

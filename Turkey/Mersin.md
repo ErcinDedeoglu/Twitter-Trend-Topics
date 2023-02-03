@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-03 09:16:23 UTC`
+📆 Last Updated: `2023-02-03 10:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ADSvsFB](http://twitter.com/search?q=%23ADSvsFB) | #ADSvsFB is a hashtag used to refer to the rivalry between the Australian Football League (AFL) and the National Football League (NFL). It is used to compare and contrast the two leagues, as well as to discuss which one is better. |
-| 2 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 3 | [Ümit Özlale](http://twitter.com/search?q=%c3%9cmit+%c3%96zlale) | Ümit Özlale is a Turkish name, composed of two words: "Ümit" and "Özlale". "Ümit" means "hope" in Turkish, while "Özlale" is a combination of the words "öz" (meaning "self") and "lale" (meaning "tulip"). Therefore, the literal translation of Ümit Özlale is "Hope Tulip". |
-| 4 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 5 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
-| 6 | [#MilleteŞartKoyamazsınız](http://twitter.com/search?q=%23Millete%c5%9eartKoyamazs%c4%b1n%c4%b1z) | N/A |
+| 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 3 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
+| 4 | [Ümit Özlale](http://twitter.com/search?q=%c3%9cmit+%c3%96zlale) | Ümit Özlale is a Turkish name, composed of two words: "Ümit" and "Özlale". "Ümit" means "hope" in Turkish, while "Özlale" is a combination of the words "öz" (meaning "self") and "lale" (meaning "tulip"). Therefore, the literal translation of Ümit Özlale is "Hope Tulip". |
+| 5 | [#MilleteŞartKoyamazsınız](http://twitter.com/search?q=%23Millete%c5%9eartKoyamazs%c4%b1n%c4%b1z) | N/A |
+| 6 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
 | 7 | [Ataşehir Belediyesi'ne](http://twitter.com/search?q=Ata%c5%9fehir+Belediyesi%27ne) | Ataşehir Belediyesi'ne is the name of a municipality in Istanbul, Turkey. In English, it translates to Ataşehir Municipality. |
-| 8 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 9 | [ENAG](http://twitter.com/search?q=ENAG) | N/A |
+| 8 | [#GSBYurtlarıKampta](http://twitter.com/search?q=%23GSBYurtlar%c4%b1Kampta) | N/A |
+| 9 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
 | 10 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
-| 11 | [EbruÇimen Osurdu](http://twitter.com/search?q=Ebru%c3%87imen+Osurdu) | EbruÇimen Osurdu is a Turkish phrase that translates to "the painting has dried". It is used to describe the process of a painting drying after it has been completed. |
-| 12 | [#KılıçdaroğluÇalarSaatte](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9flu%c3%87alarSaatte) | N/A |
+| 11 | [ENAG](http://twitter.com/search?q=ENAG) | N/A |
+| 12 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
 | 13 | [#StajınAdıYok](http://twitter.com/search?q=%23Staj%c4%b1nAd%c4%b1Yok) | N/A |
-| 14 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
-| 15 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
+| 14 | [EbruÇimen Osurdu](http://twitter.com/search?q=Ebru%c3%87imen+Osurdu) | EbruÇimen Osurdu is a Turkish phrase that translates to "the painting has dried". It is used to describe the process of a painting drying after it has been completed. |
+| 15 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
 | 16 | [TÜFE](http://twitter.com/search?q=T%c3%9cFE) | N/A |
-| 17 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 18 | [Murat Sancak](http://twitter.com/search?q=Murat+Sancak) | N/A |
-| 19 | [BETER OLUN](http://twitter.com/search?q=BETER+OLUN) | N/A |
-| 20 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
-| 21 | [Çavuşoğlu](http://twitter.com/search?q=%c3%87avu%c5%9fo%c4%9flu) | N/A |
-| 22 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
-| 23 | [Tencere](http://twitter.com/search?q=Tencere) | N/A |
+| 17 | [Murat Sancak](http://twitter.com/search?q=Murat+Sancak) | N/A |
+| 18 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 19 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
+| 20 | [Çavuşoğlu](http://twitter.com/search?q=%c3%87avu%c5%9fo%c4%9flu) | N/A |
+| 21 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
+| 22 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
+| 23 | [Ligden](http://twitter.com/search?q=Ligden) | Ligden is a Tibetan Buddhist term that refers to the process of liberation from the cycle of death and rebirth. It is the goal of many Buddhists to achieve this state, which is seen as a form of enlightenment. In English, it can be translated as "liberation from samsara". |
 | 24 | [Lütfü](http://twitter.com/search?q=L%c3%bctf%c3%bc) | N/A |
-| 25 | [Günaydın Can](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Can) | N/A |
-| 26 | [Hakemlerde](http://twitter.com/search?q=Hakemlerde) | N/A |
-| 27 | [Taner](http://twitter.com/search?q=Taner) | N/A |
-| 28 | [Şike](http://twitter.com/search?q=%c5%9eike) | N/A |
-| 29 | [Pembe](http://twitter.com/search?q=Pembe) | N/A |
-| 30 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 31 | [Galatasaray Alanya](http://twitter.com/search?q=Galatasaray+Alanya) | N/A |
-| 32 | [İlker](http://twitter.com/search?q=%c4%b0lker) | N/A |
-| 33 | [3 Şubat](http://twitter.com/search?q=3+%c5%9eubat) | N/A |
-| 34 | [YIPRATACAĞIMIZ ADAYINIZ KİM](http://twitter.com/search?q=YIPRATACA%c4%9eIMIZ+ADAYINIZ+K%c4%b0M) | N/A |
-| 35 | [GS Alanya](http://twitter.com/search?q=GS+Alanya) | N/A |
-| 36 | [Kanada](http://twitter.com/search?q=Kanada) | N/A |
-| 37 | [#TürkiyeBilmeli](http://twitter.com/search?q=%23T%c3%bcrkiyeBilmeli) | N/A |
-| 38 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
-| 39 | [#Seçime100GünVar](http://twitter.com/search?q=%23Se%c3%a7ime100G%c3%bcnVar) | N/A |
-| 40 | [#AdanadaKapKaraGece](http://twitter.com/search?q=%23AdanadaKapKaraGece) | N/A |
-| 41 | [#gubrf](http://twitter.com/search?q=%23gubrf) | N/A |
-| 42 | [#hakkımıhelaletmiyorum](http://twitter.com/search?q=%23hakk%c4%b1m%c4%b1helaletmiyorum) | N/A |
-| 43 | [#USTC](http://twitter.com/search?q=%23USTC) | N/A |
-| 44 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
-| 45 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
-| 46 | [#TOASO](http://twitter.com/search?q=%23TOASO) | N/A |
-| 47 | [#2000sonrasiKADEME](http://twitter.com/search?q=%232000sonrasiKADEME) | N/A |
-| 48 | [#ykbnk](http://twitter.com/search?q=%23ykbnk) | N/A |
-| 49 | [#SartınHesabınıSorarız](http://twitter.com/search?q=%23Sart%c4%b1nHesab%c4%b1n%c4%b1Sorar%c4%b1z) | N/A |
+| 25 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
+| 26 | [Tencere](http://twitter.com/search?q=Tencere) | N/A |
+| 27 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
+| 28 | [BETER OLUN](http://twitter.com/search?q=BETER+OLUN) | N/A |
+| 29 | [Taner](http://twitter.com/search?q=Taner) | N/A |
+| 30 | [Kısır](http://twitter.com/search?q=K%c4%b1s%c4%b1r) | N/A |
+| 31 | [Görevini](http://twitter.com/search?q=G%c3%b6revini) | N/A |
+| 32 | [Hakemi](http://twitter.com/search?q=Hakemi) | N/A |
+| 33 | [Günaydın Can](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Can) | N/A |
+| 34 | [Dünkü](http://twitter.com/search?q=D%c3%bcnk%c3%bc) | N/A |
+| 35 | [Hakemlerde](http://twitter.com/search?q=Hakemlerde) | N/A |
+| 36 | [Şike](http://twitter.com/search?q=%c5%9eike) | N/A |
+| 37 | [Pembe](http://twitter.com/search?q=Pembe) | N/A |
+| 38 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 39 | [İlker](http://twitter.com/search?q=%c4%b0lker) | N/A |
+| 40 | [GS Alanya](http://twitter.com/search?q=GS+Alanya) | N/A |
+| 41 | [3 Şubat](http://twitter.com/search?q=3+%c5%9eubat) | N/A |
+| 42 | [Kanada](http://twitter.com/search?q=Kanada) | N/A |
+| 43 | [#SporAjansı](http://twitter.com/search?q=%23SporAjans%c4%b1) | N/A |
+| 44 | [#KılıçdaroğluÇalarSaatte](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9flu%c3%87alarSaatte) | N/A |
+| 45 | [#gubrf](http://twitter.com/search?q=%23gubrf) | N/A |
+| 46 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
+| 47 | [#CürufTehlikedir](http://twitter.com/search?q=%23C%c3%bcrufTehlikedir) | N/A |
+| 48 | [#hakkımıhelaletmiyorum](http://twitter.com/search?q=%23hakk%c4%b1m%c4%b1helaletmiyorum) | N/A |
 
 
 

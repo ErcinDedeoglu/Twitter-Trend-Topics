@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-03 09:16:34 UTC`
+📆 Last Updated: `2023-02-03 10:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Guatemala
 | 6 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
 | 7 | [#yoquierolaplayera](http://twitter.com/search?q=%23yoquierolaplayera) | N/A |
 | 8 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 9 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
-| 10 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 11 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 9 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 10 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 11 | [Café Tacvba](http://twitter.com/search?q=Caf%c3%a9+Tacvba) | N/A |
 | 12 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 13 | [Café Tacvba](http://twitter.com/search?q=Caf%c3%a9+Tacvba) | N/A |
-| 14 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
+| 13 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
+| 14 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 16 | [bryan lemus](http://twitter.com/search?q=bryan+lemus) | N/A |
 | 17 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
 | 18 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
 | 19 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 20 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 21 | [londoño](http://twitter.com/search?q=londo%c3%b1o) | N/A |
-| 22 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 23 | [charles fernández](http://twitter.com/search?q=charles+fern%c3%a1ndez) | N/A |
+| 20 | [londoño](http://twitter.com/search?q=londo%c3%b1o) | N/A |
+| 21 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
+| 22 | [charles fernández](http://twitter.com/search?q=charles+fern%c3%a1ndez) | N/A |
+| 23 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
 | 24 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
 | 25 | [fuerzas de tierra](http://twitter.com/search?q=fuerzas+de+tierra) | N/A |
 | 26 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
 | 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 28 | [Feci](http://twitter.com/search?q=Feci) | N/A |
-| 29 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
-| 30 | [BWL DOMINATE ON SPOTIFY](http://twitter.com/search?q=BWL+DOMINATE+ON+SPOTIFY) | N/A |
+| 28 | [BWL DOMINATE ON SPOTIFY](http://twitter.com/search?q=BWL+DOMINATE+ON+SPOTIFY) | N/A |
+| 29 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 30 | [Feci](http://twitter.com/search?q=Feci) | N/A |
 | 31 | [batalla de la arada](http://twitter.com/search?q=batalla+de+la+arada) | N/A |
 | 32 | [Mora](http://twitter.com/search?q=Mora) | N/A |
 | 33 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
 | 34 | [méxico y república dominicana](http://twitter.com/search?q=m%c3%a9xico+y+rep%c3%bablica+dominicana) | N/A |
 | 35 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
 | 36 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 37 | [baldizon](http://twitter.com/search?q=baldizon) | N/A |
-| 38 | [deportivo achuapa](http://twitter.com/search?q=deportivo+achuapa) | N/A |
-| 39 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
+| 37 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 38 | [baldizon](http://twitter.com/search?q=baldizon) | N/A |
+| 39 | [deportivo achuapa](http://twitter.com/search?q=deportivo+achuapa) | N/A |
 | 40 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 41 | [Registro de Ciudadanos](http://twitter.com/search?q=Registro+de+Ciudadanos) | N/A |
-| 42 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 43 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
-| 44 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
-| 45 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 46 | [mariscal zavala](http://twitter.com/search?q=mariscal+zavala) | N/A |
-| 47 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 48 | [jaime viñals](http://twitter.com/search?q=jaime+vi%c3%b1als) | N/A |
-| 49 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 50 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | N/A |
+| 41 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 42 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
+| 43 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 44 | [congreso de la república](http://twitter.com/search?q=congreso+de+la+rep%c3%bablica) | N/A |
+| 45 | [mariscal zavala](http://twitter.com/search?q=mariscal+zavala) | N/A |
+| 46 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
+| 47 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
+| 48 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 49 | [jaime viñals](http://twitter.com/search?q=jaime+vi%c3%b1als) | N/A |
+| 50 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 
 
 
