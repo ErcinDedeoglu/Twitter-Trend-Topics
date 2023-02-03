@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-03 00:29:29 UTC`
+📆 Last Updated: `2023-02-03 01:48:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Italy](</Italy>)
 | 5 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
 | 6 | [Milena](http://twitter.com/search?q=Milena) | N/A |
 | 7 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 8 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 9 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 10 | [Ollivier](http://twitter.com/search?q=Ollivier) | N/A |
-| 11 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 12 | [Cedric](http://twitter.com/search?q=Cedric) | N/A |
-| 13 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
-| 14 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 15 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 16 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
-| 17 | [Maximiano](http://twitter.com/search?q=Maximiano) | N/A |
-| 18 | [Suor Teresa](http://twitter.com/search?q=Suor+Teresa) | N/A |
-| 19 | [Suor Angela](http://twitter.com/search?q=Suor+Angela) | N/A |
-| 20 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
-| 21 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 22 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 23 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 24 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 25 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 26 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 27 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 28 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 29 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 30 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 31 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 32 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 33 | [Maresca](http://twitter.com/search?q=Maresca) | Maresca is an Italian surname derived from the Latin word "marescalcus," which means "horseman" or "knight." It is also a place name in Italy, derived from the same root. |
-| 34 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 35 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 37 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 38 | [Borgonovo](http://twitter.com/search?q=Borgonovo) | N/A |
-| 39 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 40 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 41 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
-| 42 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 43 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 44 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 45 | [Daniele e Oriana](http://twitter.com/search?q=Daniele+e+Oriana) | N/A |
-| 46 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 47 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 48 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 49 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
-| 50 | [Calderoli](http://twitter.com/search?q=Calderoli) | N/A |
+| 8 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 9 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 10 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 11 | [Ollivier](http://twitter.com/search?q=Ollivier) | N/A |
+| 12 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 13 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
+| 14 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 15 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 16 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
+| 17 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 18 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 19 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 20 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 21 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 22 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 23 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 24 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 25 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 26 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 27 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 28 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 29 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 30 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 31 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 32 | [#incorvassi](http://twitter.com/search?q=%23incorvassi) | N/A |
+| 33 | [#drittoerovescio](http://twitter.com/search?q=%23drittoerovescio) | N/A |
+| 34 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 35 | [#Bremer](http://twitter.com/search?q=%23Bremer) | N/A |
+| 36 | [#CoppaItaliaFrecciarossa](http://twitter.com/search?q=%23CoppaItaliaFrecciarossa) | N/A |
+| 37 | [#portaaporta](http://twitter.com/search?q=%23portaaporta) | N/A |
+| 38 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
+| 39 | [#andarVia](http://twitter.com/search?q=%23andarVia) | N/A |
+| 40 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 41 | [#ForzaJuve](http://twitter.com/search?q=%23ForzaJuve) | N/A |
+| 42 | [#gfvipgamenight](http://twitter.com/search?q=%23gfvipgamenight) | N/A |
+| 43 | [#donnavassi](http://twitter.com/search?q=%23donnavassi) | N/A |
+| 44 | [#iostoconnikita](http://twitter.com/search?q=%23iostoconnikita) | N/A |
+| 45 | [#Calenda](http://twitter.com/search?q=%23Calenda) | N/A |
+| 46 | [#Chiesa](http://twitter.com/search?q=%23Chiesa) | N/A |
+| 47 | [#donzellispoileracose](http://twitter.com/search?q=%23donzellispoileracose) | N/A |
+| 48 | [#nikivip](http://twitter.com/search?q=%23nikivip) | N/A |
+| 49 | [#Tuzak](http://twitter.com/search?q=%23Tuzak) | N/A |
+| 50 | [#autonomiadifferenziata](http://twitter.com/search?q=%23autonomiadifferenziata) | N/A |
 
 
 

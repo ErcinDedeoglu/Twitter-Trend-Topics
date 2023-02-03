@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-02-03 00:29:53 UTC`
+📆 Last Updated: `2023-02-03 01:48:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Turkey](</Turkey>)
 | 6 | [#ADSvsFB](http://twitter.com/search?q=%23ADSvsFB) | #ADSvsFB is a hashtag used to refer to the rivalry between the Australian Football League (AFL) and the National Football League (NFL). It is used to compare and contrast the two leagues, as well as to discuss which one is better. |
 | 7 | [#yüzdeyüzmüzik](http://twitter.com/search?q=%23y%c3%bczdey%c3%bczm%c3%bczik) | N/A |
 | 8 | [#AdanadaKapKaraGece](http://twitter.com/search?q=%23AdanadaKapKaraGece) | N/A |
-| 9 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 10 | [Ligden](http://twitter.com/search?q=Ligden) | Ligden is a Tibetan Buddhist term that refers to the process of liberation from the cycle of death and rebirth. It is the goal of many Buddhists to achieve this state, which is seen as a form of enlightenment. In English, it can be translated as "liberation from samsara". |
-| 11 | [Selahattin Baki](http://twitter.com/search?q=Selahattin+Baki) | Selahattin Baki is a Turkish male name. It is derived from the Arabic words selah (meaning “peace”) and attin (meaning “servant of”). The name can be translated to mean “servant of peace” in English. |
+| 9 | [Hakemlerde](http://twitter.com/search?q=Hakemlerde) | N/A |
+| 10 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
+| 11 | [Ligden](http://twitter.com/search?q=Ligden) | Ligden is a Tibetan Buddhist term that refers to the process of liberation from the cycle of death and rebirth. It is the goal of many Buddhists to achieve this state, which is seen as a form of enlightenment. In English, it can be translated as "liberation from samsara". |
 | 12 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
-| 13 | [Hakemlerde](http://twitter.com/search?q=Hakemlerde) | N/A |
+| 13 | [Selahattin Baki](http://twitter.com/search?q=Selahattin+Baki) | Selahattin Baki is a Turkish male name. It is derived from the Arabic words selah (meaning “peace”) and attin (meaning “servant of”). The name can be translated to mean “servant of peace” in English. |
 | 14 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 15 | [Takımı](http://twitter.com/search?q=Tak%c4%b1m%c4%b1) | Takımı is a Turkish word that means "team". It is used to refer to a group of people who work together to achieve a common goal. |
-| 16 | [Serdar Ali Çelikler](http://twitter.com/search?q=Serdar+Ali+%c3%87elikler) | N/A |
+| 15 | [Serdar Ali Çelikler](http://twitter.com/search?q=Serdar+Ali+%c3%87elikler) | N/A |
+| 16 | [Takımı](http://twitter.com/search?q=Tak%c4%b1m%c4%b1) | Takımı is a Turkish word that means "team". It is used to refer to a group of people who work together to achieve a common goal. |
 | 17 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
-| 18 | [Çekin](http://twitter.com/search?q=%c3%87ekin) | N/A |
-| 19 | [Hadise](http://twitter.com/search?q=Hadise) | N/A |
-| 20 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
-| 21 | [Bülent](http://twitter.com/search?q=B%c3%bclent) | N/A |
-| 22 | [Ivan Bebek](http://twitter.com/search?q=Ivan+Bebek) | N/A |
-| 23 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
-| 24 | [Çekilin](http://twitter.com/search?q=%c3%87ekilin) | N/A |
-| 25 | [Şimşek](http://twitter.com/search?q=%c5%9eim%c5%9fek) | N/A |
-| 26 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
-| 27 | [Erol](http://twitter.com/search?q=Erol) | N/A |
-| 28 | [Alper](http://twitter.com/search?q=Alper) | N/A |
-| 29 | [Koray](http://twitter.com/search?q=Koray) | N/A |
-| 30 | [Ligi](http://twitter.com/search?q=Ligi) | N/A |
-| 31 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
-| 32 | [Herkesİçin EvrenselHukuk](http://twitter.com/search?q=Herkes%c4%b0%c3%a7in+EvrenselHukuk) | Herkesİçin EvrenselHukuk is a Turkish phrase that translates to "Universal Law for Everyone" in English. It is a concept that suggests that all people should be subject to the same laws and regulations, regardless of their social or economic status. |
+| 18 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
+| 19 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
+| 20 | [Çekin](http://twitter.com/search?q=%c3%87ekin) | N/A |
+| 21 | [Hadise](http://twitter.com/search?q=Hadise) | N/A |
+| 22 | [Çekilin](http://twitter.com/search?q=%c3%87ekilin) | N/A |
+| 23 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
+| 24 | [Bülent Uslu](http://twitter.com/search?q=B%c3%bclent+Uslu) | N/A |
+| 25 | [Ivan Bebek](http://twitter.com/search?q=Ivan+Bebek) | N/A |
+| 26 | [Alper](http://twitter.com/search?q=Alper) | N/A |
+| 27 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 28 | [Ligi](http://twitter.com/search?q=Ligi) | N/A |
+| 29 | [Koray Gençerler](http://twitter.com/search?q=Koray+Gen%c3%a7erler) | N/A |
+| 30 | [Herkesİçin EvrenselHukuk](http://twitter.com/search?q=Herkes%c4%b0%c3%a7in+EvrenselHukuk) | Herkesİçin EvrenselHukuk is a Turkish phrase that translates to "Universal Law for Everyone" in English. It is a concept that suggests that all people should be subject to the same laws and regulations, regardless of their social or economic status. |
+| 31 | [Kadıköy'de](http://twitter.com/search?q=Kad%c4%b1k%c3%b6y%27de) | Kadıköy'de is a Turkish phrase meaning "in Kadıköy". Kadıköy is a district of Istanbul, Turkey. |
+| 32 | [Erol](http://twitter.com/search?q=Erol) | N/A |
 | 33 | [Batshuayi](http://twitter.com/search?q=Batshuayi) | Batshuayi is the surname of Belgian professional footballer Michy Batshuayi. It is not an English word and does not have a direct translation. |
-| 34 | [Mahmut Uslu](http://twitter.com/search?q=Mahmut+Uslu) | N/A |
-| 35 | [Kadıköy'de](http://twitter.com/search?q=Kad%c4%b1k%c3%b6y%27de) | Kadıköy'de is a Turkish phrase meaning "in Kadıköy". Kadıköy is a district of Istanbul, Turkey. |
-| 36 | [Kol Bozuk](http://twitter.com/search?q=Kol+Bozuk) | N/A |
-| 37 | [Megafon](http://twitter.com/search?q=Megafon) | N/A |
-| 38 | [Oyna](http://twitter.com/search?q=Oyna) | N/A |
-| 39 | [Fark 6](http://twitter.com/search?q=Fark+6) | N/A |
-| 40 | [ALLAH BELANIZI VERSİN](http://twitter.com/search?q=ALLAH+BELANIZI+VERS%c4%b0N) | ALLAH BELANIZI VERSİN is a Turkish phrase that translates to "May God protect us from misfortune". It is often used as a blessing or prayer for protection. |
-| 41 | [YIPRATACAĞIMIZ ADAYINIZ KİM](http://twitter.com/search?q=YIPRATACA%c4%9eIMIZ+ADAYINIZ+K%c4%b0M) | N/A |
-| 42 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
-| 43 | [Şike](http://twitter.com/search?q=%c5%9eike) | N/A |
-| 44 | [Düdük](http://twitter.com/search?q=D%c3%bcd%c3%bck) | N/A |
-| 45 | [Türk Futbolu](http://twitter.com/search?q=T%c3%bcrk+Futbolu) | N/A |
-| 46 | [Görevini](http://twitter.com/search?q=G%c3%b6revini) | N/A |
-| 47 | [İcraat](http://twitter.com/search?q=%c4%b0craat) | N/A |
-| 48 | [#picemiyeti](http://twitter.com/search?q=%23picemiyeti) | N/A |
-| 49 | [#erdentimursezonu](http://twitter.com/search?q=%23erdentimursezonu) | N/A |
+| 34 | [Fark 6](http://twitter.com/search?q=Fark+6) | N/A |
+| 35 | [YIPRATACAĞIMIZ ADAYINIZ KİM](http://twitter.com/search?q=YIPRATACA%c4%9eIMIZ+ADAYINIZ+K%c4%b0M) | N/A |
+| 36 | [Görevini](http://twitter.com/search?q=G%c3%b6revini) | N/A |
+| 37 | [Şike](http://twitter.com/search?q=%c5%9eike) | N/A |
+| 38 | [Türk Futbolu](http://twitter.com/search?q=T%c3%bcrk+Futbolu) | N/A |
+| 39 | [İcraat](http://twitter.com/search?q=%c4%b0craat) | N/A |
+| 40 | [OYNA DEVAM](http://twitter.com/search?q=OYNA+DEVAM) | N/A |
+| 41 | [Ağlayın](http://twitter.com/search?q=A%c4%9flay%c4%b1n) | N/A |
+| 42 | [İETT](http://twitter.com/search?q=%c4%b0ETT) | N/A |
+| 43 | [#picemiyeti](http://twitter.com/search?q=%23picemiyeti) | N/A |
+| 44 | [#ErdenTimurSezonu](http://twitter.com/search?q=%23ErdenTimurSezonu) | N/A |
+| 45 | [#StajınAdıYok](http://twitter.com/search?q=%23Staj%c4%b1nAd%c4%b1Yok) | N/A |
+| 46 | [#BayBayHepiniz](http://twitter.com/search?q=%23BayBayHepiniz) | N/A |
+| 47 | [#jorgejesus](http://twitter.com/search?q=%23jorgejesus) | N/A |
+| 48 | [#adanademirspor](http://twitter.com/search?q=%23adanademirspor) | N/A |
+| 49 | [#dolunay](http://twitter.com/search?q=%23dolunay) | N/A |
 
 
 

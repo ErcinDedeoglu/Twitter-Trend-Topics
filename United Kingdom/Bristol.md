@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-02-03 00:29:13 UTC`
+📆 Last Updated: `2023-02-03 01:47:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
 | 2 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
-| 3 | [#OverlapOnTour](http://twitter.com/search?q=%23OverlapOnTour) | N/A |
-| 4 | [#GraysonPerry](http://twitter.com/search?q=%23GraysonPerry) | N/A |
-| 5 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 6 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 7 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 8 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 9 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 10 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
-| 11 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 12 | [Kell](http://twitter.com/search?q=Kell) | N/A |
-| 13 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 14 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 15 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 16 | [Greed](http://twitter.com/search?q=Greed) | N/A |
-| 17 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
-| 18 | [Ford](http://twitter.com/search?q=Ford) | N/A |
-| 19 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 20 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 21 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
-| 22 | [Ella Whelan](http://twitter.com/search?q=Ella+Whelan) | N/A |
-| 23 | [Shazia](http://twitter.com/search?q=Shazia) | Shazia is a female given name of Arabic origin, meaning "brilliant". |
-| 24 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
-| 25 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 26 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 27 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 28 | [Zip Zap](http://twitter.com/search?q=Zip+Zap) | Zip Zap is an expression used to describe a quick, energetic movement or action. It can also be used to express excitement or enthusiasm. In other words, it is a way of expressing that something happened quickly and with energy. |
+| 3 | [Spencer](http://twitter.com/search?q=Spencer) | N/A |
+| 4 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 5 | [Mason](http://twitter.com/search?q=Mason) | N/A |
+| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 7 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
+| 8 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
+| 9 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 11 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 12 | [Bosh](http://twitter.com/search?q=Bosh) | N/A |
+| 13 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 14 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 15 | [Ella Whelan](http://twitter.com/search?q=Ella+Whelan) | N/A |
+| 16 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
+| 17 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 18 | [Shazia](http://twitter.com/search?q=Shazia) | Shazia is a female given name of Arabic origin, meaning "brilliant". |
+| 19 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 20 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
+| 21 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 22 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 23 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 24 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 25 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 26 | [Zip Zap](http://twitter.com/search?q=Zip+Zap) | Zip Zap is an expression used to describe a quick, energetic movement or action. It can also be used to express excitement or enthusiasm. In other words, it is a way of expressing that something happened quickly and with energy. |
+| 27 | [Jenny Gilruth](http://twitter.com/search?q=Jenny+Gilruth) | N/A |
+| 28 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
 | 29 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 30 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 31 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 32 | [Casey](http://twitter.com/search?q=Casey) | N/A |
-| 33 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
-| 34 | [Jenny Gilruth](http://twitter.com/search?q=Jenny+Gilruth) | N/A |
-| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 36 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 37 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 38 | [Spencer](http://twitter.com/search?q=Spencer) | N/A |
-| 39 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 40 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 41 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 42 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 43 | [Zif Zaf](http://twitter.com/search?q=Zif+Zaf) | N/A |
-| 44 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
-| 45 | [Kai and Ron](http://twitter.com/search?q=Kai+and+Ron) | N/A |
-| 46 | [Simba](http://twitter.com/search?q=Simba) | N/A |
-| 47 | [Tanyel and Ron](http://twitter.com/search?q=Tanyel+and+Ron) | N/A |
-| 48 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 49 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 50 | [Roasted](http://twitter.com/search?q=Roasted) | N/A |
+| 30 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 31 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 32 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 33 | [Casey](http://twitter.com/search?q=Casey) | N/A |
+| 34 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 35 | [Raye](http://twitter.com/search?q=Raye) | N/A |
+| 36 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 37 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 38 | [Zif Zaf](http://twitter.com/search?q=Zif+Zaf) | N/A |
+| 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 40 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 41 | [Roasted](http://twitter.com/search?q=Roasted) | N/A |
+| 42 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 43 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 44 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 45 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 46 | [Pamela Anderson](http://twitter.com/search?q=Pamela+Anderson) | N/A |
+| 47 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 48 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 49 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
+| 50 | [Crossroads](http://twitter.com/search?q=Crossroads) | N/A |
 
 
 

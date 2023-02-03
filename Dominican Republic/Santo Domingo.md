@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-03 00:29:16 UTC`
+📆 Last Updated: `2023-02-03 01:47:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 2 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
 | 3 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
 | 4 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
-| 5 | [Digital 15](http://twitter.com/search?q=Digital+15) | N/A |
-| 6 | [Raúl Valdés](http://twitter.com/search?q=Ra%c3%bal+Vald%c3%a9s) | N/A |
+| 5 | [Brea Frank](http://twitter.com/search?q=Brea+Frank) | N/A |
+| 6 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
 | 7 | [Bonifacio](http://twitter.com/search?q=Bonifacio) | N/A |
 | 8 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 9 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
-| 10 | [Jairo Asencio](http://twitter.com/search?q=Jairo+Asencio) | N/A |
-| 11 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
-| 12 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 9 | [Jairo Asencio](http://twitter.com/search?q=Jairo+Asencio) | N/A |
+| 10 | [Raúl Valdés](http://twitter.com/search?q=Ra%c3%bal+Vald%c3%a9s) | N/A |
+| 11 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 12 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
 | 13 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 14 | [#porla22](http://twitter.com/search?q=%23porla22) | N/A |
-| 15 | [Ramón Hernández](http://twitter.com/search?q=Ram%c3%b3n+Hern%c3%a1ndez) | N/A |
-| 16 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 17 | [Manny García](http://twitter.com/search?q=Manny+Garc%c3%ada) | N/A |
-| 18 | [San Pedro de Macorís](http://twitter.com/search?q=San+Pedro+de+Macor%c3%ads) | N/A |
-| 19 | [Brea Frank](http://twitter.com/search?q=Brea+Frank) | N/A |
-| 20 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 21 | [Octavio](http://twitter.com/search?q=Octavio) | N/A |
-| 22 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 23 | [#estrellasdelaopinion](http://twitter.com/search?q=%23estrellasdelaopinion) | N/A |
-| 24 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 25 | [Caamaño](http://twitter.com/search?q=Caama%c3%b1o) | N/A |
-| 26 | [Abogado](http://twitter.com/search?q=Abogado) | N/A |
-| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 28 | [Milton Ray Guevara](http://twitter.com/search?q=Milton+Ray+Guevara) | N/A |
-| 29 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 30 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
-| 31 | [Matanzas](http://twitter.com/search?q=Matanzas) | N/A |
-| 32 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 33 | [Hipólito Mejía](http://twitter.com/search?q=Hip%c3%b3lito+Mej%c3%ada) | N/A |
-| 34 | [peravia](http://twitter.com/search?q=peravia) | N/A |
-| 35 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 36 | [La Rinconada](http://twitter.com/search?q=La+Rinconada) | N/A |
-| 37 | [Profesor](http://twitter.com/search?q=Profesor) | N/A |
-| 38 | [Bani](http://twitter.com/search?q=Bani) | N/A |
-| 39 | [Playa Caracoles](http://twitter.com/search?q=Playa+Caracoles) | N/A |
-| 40 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
-| 41 | [el seibo y duarte](http://twitter.com/search?q=el+seibo+y+duarte) | N/A |
-| 42 | [Tonton](http://twitter.com/search?q=Tonton) | N/A |
-| 43 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 44 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 45 | [Pedernales](http://twitter.com/search?q=Pedernales) | N/A |
-| 46 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 47 | [Nagua](http://twitter.com/search?q=Nagua) | N/A |
-| 48 | [Velo](http://twitter.com/search?q=Velo) | N/A |
-| 49 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 50 | [marañón](http://twitter.com/search?q=mara%c3%b1%c3%b3n) | N/A |
+| 14 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 15 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 16 | [#porla22](http://twitter.com/search?q=%23porla22) | N/A |
+| 17 | [Ramón Hernández](http://twitter.com/search?q=Ram%c3%b3n+Hern%c3%a1ndez) | N/A |
+| 18 | [Digital 15](http://twitter.com/search?q=Digital+15) | N/A |
+| 19 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 20 | [Manny García](http://twitter.com/search?q=Manny+Garc%c3%ada) | N/A |
+| 21 | [San Pedro de Macorís](http://twitter.com/search?q=San+Pedro+de+Macor%c3%ads) | N/A |
+| 22 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 23 | [Octavio](http://twitter.com/search?q=Octavio) | N/A |
+| 24 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 25 | [#estrellasdelaopinion](http://twitter.com/search?q=%23estrellasdelaopinion) | N/A |
+| 26 | [Euric](http://twitter.com/search?q=Euric) | N/A |
+| 27 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 28 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 29 | [Caamaño](http://twitter.com/search?q=Caama%c3%b1o) | N/A |
+| 30 | [Rita Indiana](http://twitter.com/search?q=Rita+Indiana) | N/A |
+| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 32 | [Fideicomiso Público](http://twitter.com/search?q=Fideicomiso+P%c3%bablico) | N/A |
+| 33 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 34 | [Matanzas](http://twitter.com/search?q=Matanzas) | N/A |
+| 35 | [Playa Caracoles](http://twitter.com/search?q=Playa+Caracoles) | N/A |
+| 36 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 37 | [Hipólito Mejía](http://twitter.com/search?q=Hip%c3%b3lito+Mej%c3%ada) | N/A |
+| 38 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 39 | [peravia](http://twitter.com/search?q=peravia) | N/A |
+| 40 | [UASD](http://twitter.com/search?q=UASD) | N/A |
+| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 42 | [Abogado](http://twitter.com/search?q=Abogado) | N/A |
+| 43 | [La Rinconada](http://twitter.com/search?q=La+Rinconada) | N/A |
+| 44 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
+| 45 | [Profesor](http://twitter.com/search?q=Profesor) | N/A |
+| 46 | [el seibo y duarte](http://twitter.com/search?q=el+seibo+y+duarte) | N/A |
+| 47 | [Tonton](http://twitter.com/search?q=Tonton) | N/A |
+| 48 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
+| 49 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 50 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 
 
 

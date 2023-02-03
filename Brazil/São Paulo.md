@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-03 00:29:23 UTC`
+📆 Last Updated: `2023-02-03 01:48:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Daniel Silveira](http://twitter.com/search?q=Daniel+Silveira) | Daniel Silveira is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”. |
-| 2 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 3 | [Alexandre de Moraes](http://twitter.com/search?q=Alexandre+de+Moraes) | Alexandre de Moraes is a Brazilian lawyer and politician who served as the Minister of Justice and Public Security from 2016 to 2018. In English, his name translates to Alexander of Moraes. |
-| 4 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 5 | [COME TO BRAZIL](http://twitter.com/search?q=COME+TO+BRAZIL) | N/A |
-| 6 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 7 | [pardo](http://twitter.com/search?q=pardo) | N/A |
-| 8 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
-| 9 | [Augusto](http://twitter.com/search?q=Augusto) | N/A |
-| 10 | [senai](http://twitter.com/search?q=senai) | N/A |
-| 11 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 12 | [Luiz Araújo](http://twitter.com/search?q=Luiz+Ara%c3%bajo) | N/A |
-| 13 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 14 | [Serasa](http://twitter.com/search?q=Serasa) | N/A |
-| 15 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
-| 16 | [#GloriaEterna](http://twitter.com/search?q=%23GloriaEterna) | N/A |
-| 17 | [#tellonym](http://twitter.com/search?q=%23tellonym) | N/A |
-| 18 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 19 | [Etec](http://twitter.com/search?q=Etec) | Etec is an acronym for Escola Técnica Estadual, which is a type of technical school in Brazil. It provides technical and vocational education to students. In English, Etec stands for State Technical School. |
-| 20 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 21 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 22 | [São Pedro](http://twitter.com/search?q=S%c3%a3o+Pedro) | N/A |
-| 23 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
-| 24 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
-| 25 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 26 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 27 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 28 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 29 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 30 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 31 | [Ribeirão](http://twitter.com/search?q=Ribeir%c3%a3o) | N/A |
-| 32 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
-| 33 | [Traíra](http://twitter.com/search?q=Tra%c3%adra) | N/A |
-| 34 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 35 | [The Sims](http://twitter.com/search?q=The+Sims) | N/A |
-| 36 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 37 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 38 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 39 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
-| 40 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 41 | [Lionel Pec](http://twitter.com/search?q=Lionel+Pec) | Lionel Pec is a French expression meaning "to be completely exhausted". It is derived from the phrase "être à bout de souffle", which literally translates to "to be out of breath". |
-| 42 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
-| 43 | [#AeroFla](http://twitter.com/search?q=%23AeroFla) | N/A |
-| 44 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
-| 45 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
-| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 47 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 48 | [CEM DIAS DE TRAVESSIA](http://twitter.com/search?q=CEM+DIAS+DE+TRAVESSIA) | N/A |
-| 49 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | N/A |
-| 50 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
+| 1 | [Marcos do Val](http://twitter.com/search?q=Marcos+do+Val) | Marcos do Val is a Portuguese expression that literally translates to “Mark of the Valley”. It is used to describe someone who is from a rural area and has a simple, rustic lifestyle. |
+| 2 | [Calegari](http://twitter.com/search?q=Calegari) | Calegari is an Italian surname derived from the Latin word caligarius, meaning "soldier in boots". It is most commonly found in northern Italy, particularly in the regions of Lombardy and Piedmont. In English, the name can be translated to mean "booted soldier". |
+| 3 | [Saúde](http://twitter.com/search?q=Sa%c3%bade) | N/A |
+| 4 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 5 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 6 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 7 | [Poze](http://twitter.com/search?q=Poze) | N/A |
+| 8 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 9 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 10 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 11 | [pardo](http://twitter.com/search?q=pardo) | N/A |
+| 12 | [Augusto](http://twitter.com/search?q=Augusto) | N/A |
+| 13 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 14 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
+| 15 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
+| 16 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 17 | [Alexandre de Moraes](http://twitter.com/search?q=Alexandre+de+Moraes) | Alexandre de Moraes is a Brazilian lawyer and politician who served as the Minister of Justice and Public Security from 2016 to 2018. In English, his name translates to Alexander of Moraes. |
+| 18 | [COME TO BRAZIL](http://twitter.com/search?q=COME+TO+BRAZIL) | N/A |
+| 19 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 20 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 21 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
+| 22 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
+| 23 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 24 | [veigh](http://twitter.com/search?q=veigh) | N/A |
+| 25 | [senai](http://twitter.com/search?q=senai) | N/A |
+| 26 | [Serasa](http://twitter.com/search?q=Serasa) | N/A |
+| 27 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
+| 28 | [Luiz Araújo](http://twitter.com/search?q=Luiz+Ara%c3%bajo) | N/A |
+| 29 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 30 | [TV Globo](http://twitter.com/search?q=TV+Globo) | N/A |
+| 31 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 32 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 33 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 34 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 35 | [#tellonym](http://twitter.com/search?q=%23tellonym) | N/A |
+| 36 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
+| 37 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 38 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
+| 39 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
+| 40 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 41 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 42 | [CEM DIAS DE TRAVESSIA](http://twitter.com/search?q=CEM+DIAS+DE+TRAVESSIA) | N/A |
+| 43 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 44 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
+| 45 | [DOIS ANOS SARIETTE](http://twitter.com/search?q=DOIS+ANOS+SARIETTE) | N/A |
+| 46 | [Juliano](http://twitter.com/search?q=Juliano) | N/A |
+| 47 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
+| 48 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 49 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
+| 50 | [Nino](http://twitter.com/search?q=Nino) | N/A |
 
 
 

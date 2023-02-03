@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-03 00:29:54 UTC`
+📆 Last Updated: `2023-02-03 01:48:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 2 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
 | 3 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 4 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 5 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 6 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 7 | [All-Star](http://twitter.com/search?q=All-Star) | All-Star is an adjective used to describe someone or something that is considered to be the best of the best. It is often used to refer to athletes, celebrities, or other people who have achieved a high level of success in their field. It can also be used to describe products or services that are considered to be the best in their category. |
-| 8 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 9 | [Jaren Jackson Jr](http://twitter.com/search?q=Jaren+Jackson+Jr) | N/A |
-| 10 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 11 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 12 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 13 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | N/A |
-| 14 | [Chinese Spy Balloon](http://twitter.com/search?q=Chinese+Spy+Balloon) | N/A |
-| 15 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 4 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 5 | [All-Star](http://twitter.com/search?q=All-Star) | All-Star is an adjective used to describe someone or something that is considered to be the best of the best. It is often used to refer to athletes, celebrities, or other people who have achieved a high level of success in their field. It can also be used to describe products or services that are considered to be the best in their category. |
+| 6 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 7 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 8 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | #ProBowlGames is a hashtag used on social media to refer to the annual National Football League (NFL) all-star game, the Pro Bowl. The Pro Bowl is an exhibition game featuring the best players from the NFL's two conferences, the American Football Conference (AFC) and the National Football Conference (NFC). |
+| 9 | [#BestCatch](http://twitter.com/search?q=%23BestCatch) | N/A |
+| 10 | [Chinese Spy Balloon](http://twitter.com/search?q=Chinese+Spy+Balloon) | Chinese Spy Balloon is a term used to describe a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activities on the ground from high altitudes. The balloons are also capable of relaying data back to a central command center. |
+| 11 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 12 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 13 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
+| 14 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 15 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
 | 16 | [#Pfertility](http://twitter.com/search?q=%23Pfertility) | N/A |
 | 17 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
 | 18 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 19 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
-| 20 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 21 | [No AD](http://twitter.com/search?q=No+AD) | N/A |
-| 22 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
-| 23 | [No Fox](http://twitter.com/search?q=No+Fox) | N/A |
-| 24 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
-| 25 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 26 | [OANN](http://twitter.com/search?q=OANN) | N/A |
-| 27 | [Billings](http://twitter.com/search?q=Billings) | N/A |
-| 28 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 29 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 30 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
-| 31 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
-| 32 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 33 | [#NationalCatchersDay](http://twitter.com/search?q=%23NationalCatchersDay) | N/A |
-| 34 | [Suspected Chinese](http://twitter.com/search?q=Suspected+Chinese) | N/A |
-| 35 | [First Amendment](http://twitter.com/search?q=First+Amendment) | N/A |
-| 36 | [Shai Gilgeous-Alexander](http://twitter.com/search?q=Shai+Gilgeous-Alexander) | N/A |
-| 37 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 38 | [Aggravated Menacing](http://twitter.com/search?q=Aggravated+Menacing) | N/A |
-| 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 40 | [$AAPL](http://twitter.com/search?q=%24AAPL) | N/A |
-| 41 | [#MaddenBowl](http://twitter.com/search?q=%23MaddenBowl) | N/A |
-| 42 | [Plant](http://twitter.com/search?q=Plant) | N/A |
-| 43 | [Darius Garland](http://twitter.com/search?q=Darius+Garland) | N/A |
-| 44 | [Bomani](http://twitter.com/search?q=Bomani) | N/A |
-| 45 | [Thanks Satan](http://twitter.com/search?q=Thanks+Satan) | N/A |
-| 46 | [100 Democrats](http://twitter.com/search?q=100+Democrats) | N/A |
-| 47 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
-| 48 | [Little Giants](http://twitter.com/search?q=Little+Giants) | N/A |
-| 49 | [Cole Tucker](http://twitter.com/search?q=Cole+Tucker) | N/A |
-| 50 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
+| 19 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 20 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
+| 21 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 22 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 23 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 24 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 25 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 26 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 27 | [No Fox](http://twitter.com/search?q=No+Fox) | N/A |
+| 28 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
+| 29 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
+| 30 | [Darius Garland](http://twitter.com/search?q=Darius+Garland) | N/A |
+| 31 | [#JSFamilyVacation](http://twitter.com/search?q=%23JSFamilyVacation) | N/A |
+| 32 | [Knockout City](http://twitter.com/search?q=Knockout+City) | N/A |
+| 33 | [Holtmann](http://twitter.com/search?q=Holtmann) | N/A |
+| 34 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
+| 35 | [No AD](http://twitter.com/search?q=No+AD) | N/A |
+| 36 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 37 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 38 | [Amon-Ra St. Brown](http://twitter.com/search?q=Amon-Ra+St.+Brown) | N/A |
+| 39 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 40 | [PG and JJJ](http://twitter.com/search?q=PG+and+JJJ) | N/A |
+| 41 | [Jimmy Clausen](http://twitter.com/search?q=Jimmy+Clausen) | N/A |
+| 42 | [Fox and Ant](http://twitter.com/search?q=Fox+and+Ant) | N/A |
+| 43 | [Udonis Haslem](http://twitter.com/search?q=Udonis+Haslem) | N/A |
+| 44 | [Trey Hendrickson](http://twitter.com/search?q=Trey+Hendrickson) | N/A |
+| 45 | [Billings](http://twitter.com/search?q=Billings) | N/A |
+| 46 | [JJJ and PG](http://twitter.com/search?q=JJJ+and+PG) | N/A |
+| 47 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 48 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 49 | [OANN](http://twitter.com/search?q=OANN) | N/A |
+| 50 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
 
 
 

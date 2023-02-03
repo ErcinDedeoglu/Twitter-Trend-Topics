@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-03 00:30:04 UTC`
+📆 Last Updated: `2023-02-03 01:48:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 1 | [#GranHermanoAR](http://twitter.com/search?q=%23GranHermanoAR) | N/A |
 | 2 | [#SupremosEnElBanquillo](http://twitter.com/search?q=%23SupremosEnElBanquillo) | N/A |
-| 3 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
-| 4 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
-| 5 | [#BilleteDe2000](http://twitter.com/search?q=%23BilleteDe2000) | N/A |
-| 6 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 7 | [#CreoEnArgentina](http://twitter.com/search?q=%23CreoEnArgentina) | N/A |
-| 8 | [QUIERO CREER OUT NOW](http://twitter.com/search?q=QUIERO+CREER+OUT+NOW) | N/A |
-| 9 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 10 | [Juan Bisanz](http://twitter.com/search?q=Juan+Bisanz) | N/A |
-| 11 | [Árbol](http://twitter.com/search?q=%c3%81rbol) | N/A |
-| 12 | [Cecilia Grierson](http://twitter.com/search?q=Cecilia+Grierson) | N/A |
-| 13 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 14 | [Garay](http://twitter.com/search?q=Garay) | N/A |
-| 15 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
-| 16 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 17 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
-| 18 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 19 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
-| 20 | [Pillud](http://twitter.com/search?q=Pillud) | Pillud is a Spanish slang term that means "stupid" or "idiot." |
-| 21 | [#tncentral](http://twitter.com/search?q=%23tncentral) | N/A |
-| 22 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 23 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 24 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 25 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 26 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 27 | [Lovera](http://twitter.com/search?q=Lovera) | N/A |
-| 28 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 29 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 30 | [Miguel Merentiel](http://twitter.com/search?q=Miguel+Merentiel) | N/A |
-| 31 | [Instituto Malbrán](http://twitter.com/search?q=Instituto+Malbr%c3%a1n) | N/A |
-| 32 | [Davo](http://twitter.com/search?q=Davo) | N/A |
-| 33 | [Jodete](http://twitter.com/search?q=Jodete) | N/A |
-| 34 | [Gauchos](http://twitter.com/search?q=Gauchos) | N/A |
-| 35 | [Caruzzo](http://twitter.com/search?q=Caruzzo) | N/A |
-| 36 | [PROPIEDAD PRIVADA](http://twitter.com/search?q=PROPIEDAD+PRIVADA) | N/A |
-| 37 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 38 | [BCRA](http://twitter.com/search?q=BCRA) | N/A |
-| 39 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 40 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 41 | [Chinos](http://twitter.com/search?q=Chinos) | N/A |
+| 3 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
+| 4 | [Sol Perez](http://twitter.com/search?q=Sol+Perez) | Sol Perez is a nickname given to an Argentinian weather presenter and model. It translates to "Sun Perez" in English. |
+| 5 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [Alfa y Romina](http://twitter.com/search?q=Alfa+y+Romina) | N/A |
+| 8 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 9 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
+| 10 | [Alfa al 9009](http://twitter.com/search?q=Alfa+al+9009) | N/A |
+| 11 | [#BilleteDe2000](http://twitter.com/search?q=%23BilleteDe2000) | N/A |
+| 12 | [All Star](http://twitter.com/search?q=All+Star) | N/A |
+| 13 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
+| 14 | [Rogel](http://twitter.com/search?q=Rogel) | N/A |
+| 15 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 16 | [Si a Messi](http://twitter.com/search?q=Si+a+Messi) | N/A |
+| 17 | [#CreoEnArgentina](http://twitter.com/search?q=%23CreoEnArgentina) | N/A |
+| 18 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 19 | [Chocotorta](http://twitter.com/search?q=Chocotorta) | N/A |
+| 20 | [Juan Bisanz](http://twitter.com/search?q=Juan+Bisanz) | N/A |
+| 21 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 22 | [QUIERO CREER OUT NOW](http://twitter.com/search?q=QUIERO+CREER+OUT+NOW) | N/A |
+| 23 | [Árbol](http://twitter.com/search?q=%c3%81rbol) | N/A |
+| 24 | [Pillud](http://twitter.com/search?q=Pillud) | Pillud is a Spanish slang term that means "stupid" or "idiot." |
+| 25 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
+| 26 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
+| 27 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 28 | [Garay](http://twitter.com/search?q=Garay) | N/A |
+| 29 | [Cecilia Grierson](http://twitter.com/search?q=Cecilia+Grierson) | N/A |
+| 30 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
+| 31 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 32 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 33 | [Ojalá Camila](http://twitter.com/search?q=Ojal%c3%a1+Camila) | N/A |
+| 34 | [Lovera](http://twitter.com/search?q=Lovera) | N/A |
+| 35 | [Miguel Merentiel](http://twitter.com/search?q=Miguel+Merentiel) | N/A |
+| 36 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 37 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 38 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 39 | [Davo](http://twitter.com/search?q=Davo) | N/A |
+| 40 | [Sarlo](http://twitter.com/search?q=Sarlo) | N/A |
+| 41 | [Papa](http://twitter.com/search?q=Papa) | N/A |
 | 42 | [Rosario Central](http://twitter.com/search?q=Rosario+Central) | N/A |
-| 43 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 44 | [Lago](http://twitter.com/search?q=Lago) | N/A |
-| 45 | [Recondo](http://twitter.com/search?q=Recondo) | N/A |
-| 46 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
-| 47 | [#AmorDeFamilia](http://twitter.com/search?q=%23AmorDeFamilia) | N/A |
-| 48 | [#VanACorrer](http://twitter.com/search?q=%23VanACorrer) | N/A |
-| 49 | [#Ferro](http://twitter.com/search?q=%23Ferro) | N/A |
-| 50 | [#LeyDeHumedalesYa](http://twitter.com/search?q=%23LeyDeHumedalesYa) | N/A |
+| 43 | [Jodete](http://twitter.com/search?q=Jodete) | N/A |
+| 44 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 45 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 46 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 47 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 48 | [Lucios](http://twitter.com/search?q=Lucios) | N/A |
+| 49 | [Caruzzo](http://twitter.com/search?q=Caruzzo) | N/A |
+| 50 | [PROPIEDAD PRIVADA](http://twitter.com/search?q=PROPIEDAD+PRIVADA) | N/A |
 
 
 

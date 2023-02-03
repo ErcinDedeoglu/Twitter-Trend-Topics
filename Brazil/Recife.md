@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-03 00:29:22 UTC`
+📆 Last Updated: `2023-02-03 01:48:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 2 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 3 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 4 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 5 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
-| 6 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 7 | [Lionel Pec](http://twitter.com/search?q=Lionel+Pec) | Lionel Pec is a French expression meaning "to be completely exhausted". It is derived from the phrase "être à bout de souffle", which literally translates to "to be out of breath". |
-| 8 | [#AeroFla](http://twitter.com/search?q=%23AeroFla) | N/A |
-| 9 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
-| 10 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
-| 11 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
-| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 13 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 14 | [CEM DIAS DE TRAVESSIA](http://twitter.com/search?q=CEM+DIAS+DE+TRAVESSIA) | N/A |
-| 15 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
-| 16 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | N/A |
-| 17 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 18 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 19 | [STRAY KIDS NO BRASIL](http://twitter.com/search?q=STRAY+KIDS+NO+BRASIL) | STRAY KIDS NO BRASIL is a fan event held in Brazil for the South Korean boy band Stray Kids. The event was held in 2019 and featured a live performance by the group, as well as a meet-and-greet with fans. The phrase "no Brasil" translates to "in Brazil" in English. |
-| 20 | [HEJ TO BE AO VIVO EM BRASILIA](http://twitter.com/search?q=HEJ+TO+BE+AO+VIVO+EM+BRASILIA) | N/A |
-| 21 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 22 | [STOP COMING TO BRAZIL](http://twitter.com/search?q=STOP+COMING+TO+BRAZIL) | N/A |
-| 23 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 24 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
-| 25 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 26 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 27 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
-| 28 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 29 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 30 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 31 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 32 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
-| 33 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 34 | [Juliano](http://twitter.com/search?q=Juliano) | N/A |
-| 35 | [Bruninho](http://twitter.com/search?q=Bruninho) | N/A |
-| 36 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
-| 37 | [Adele](http://twitter.com/search?q=Adele) | N/A |
-| 38 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 39 | [Vascão](http://twitter.com/search?q=Vasc%c3%a3o) | N/A |
-| 40 | [#AcusticoMTVManu](http://twitter.com/search?q=%23AcusticoMTVManu) | N/A |
-| 41 | [Péo Lelé](http://twitter.com/search?q=P%c3%a9o+Lel%c3%a9) | N/A |
-| 42 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 43 | [FELIPE ARAUJO ESQUENTA DOIS](http://twitter.com/search?q=FELIPE+ARAUJO+ESQUENTA+DOIS) | N/A |
-| 44 | [Pinho](http://twitter.com/search?q=Pinho) | Pinho is a Portuguese word meaning "pine tree". It is often used to refer to the Pinus species of trees, which are native to the Mediterranean region. |
-| 45 | [Cianorte](http://twitter.com/search?q=Cianorte) | N/A |
-| 46 | [Bife](http://twitter.com/search?q=Bife) | Bife is a Portuguese word meaning steak. It is used to refer to a cut of beef that is usually grilled or fried. |
-| 47 | [PAULA MERECE RESPEITO](http://twitter.com/search?q=PAULA+MERECE+RESPEITO) | N/A |
-| 48 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 49 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 50 | [AI BRANCO](http://twitter.com/search?q=AI+BRANCO) | N/A |
+| 1 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 2 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 3 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 4 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 5 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
+| 6 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
+| 7 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 8 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 9 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 10 | [CEM DIAS DE TRAVESSIA](http://twitter.com/search?q=CEM+DIAS+DE+TRAVESSIA) | N/A |
+| 11 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 12 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
+| 13 | [DOIS ANOS SARIETTE](http://twitter.com/search?q=DOIS+ANOS+SARIETTE) | N/A |
+| 14 | [Juliano](http://twitter.com/search?q=Juliano) | N/A |
+| 15 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 16 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
+| 17 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 18 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
+| 19 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 20 | [Bonner](http://twitter.com/search?q=Bonner) | Bonner is a surname of German origin. It is derived from the Middle High German word "boner" which means "one who lives in a hollow". In English, it can be translated to mean "dweller in a hollow". |
+| 21 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
+| 22 | [#AeroFla](http://twitter.com/search?q=%23AeroFla) | N/A |
+| 23 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 24 | [Lionel Pec](http://twitter.com/search?q=Lionel+Pec) | Lionel Pec is a French expression meaning "to be completely exhausted". It is derived from the phrase "être à bout de souffle", which literally translates to "to be out of breath". |
+| 25 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 26 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 27 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 28 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
+| 29 | [STOP COMING TO BRAZIL](http://twitter.com/search?q=STOP+COMING+TO+BRAZIL) | N/A |
+| 30 | [LAGUM OLHA BELA](http://twitter.com/search?q=LAGUM+OLHA+BELA) | N/A |
+| 31 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 32 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 33 | [HEJ TO BE AO VIVO EM BRASILIA](http://twitter.com/search?q=HEJ+TO+BE+AO+VIVO+EM+BRASILIA) | N/A |
+| 34 | [#TinderSariette](http://twitter.com/search?q=%23TinderSariette) | N/A |
+| 35 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 36 | [PAULA MERECE RESPEITO](http://twitter.com/search?q=PAULA+MERECE+RESPEITO) | N/A |
+| 37 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 38 | [All Star](http://twitter.com/search?q=All+Star) | N/A |
+| 39 | [STRAY KIDS NO BRASIL](http://twitter.com/search?q=STRAY+KIDS+NO+BRASIL) | STRAY KIDS NO BRASIL is a fan event held in Brazil for the South Korean boy band Stray Kids. The event was held in 2019 and featured a live performance by the group, as well as a meet-and-greet with fans. The phrase "no Brasil" translates to "in Brazil" in English. |
+| 40 | [O JN](http://twitter.com/search?q=O+JN) | N/A |
+| 41 | [Jrue Holiday](http://twitter.com/search?q=Jrue+Holiday) | N/A |
+| 42 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
+| 43 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 44 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 45 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 46 | [Bruninho](http://twitter.com/search?q=Bruninho) | N/A |
+| 47 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 48 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
+| 49 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 50 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
 
 
 

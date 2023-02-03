@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-03 00:29:27 UTC`
+📆 Last Updated: `2023-02-03 01:48:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [Maske](http://twitter.com/search?q=Maske) | N/A |
 | 3 | [#Faeser](http://twitter.com/search?q=%23Faeser) | N/A |
 | 4 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 5 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
-| 6 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 5 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 6 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
 | 7 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 8 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 9 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 9 | [doppelmoral](http://twitter.com/search?q=doppelmoral) | N/A |
 | 10 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
 | 11 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
 | 12 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 13 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 14 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 15 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
-| 16 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
-| 17 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 18 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
-| 19 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 21 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 22 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
-| 23 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 24 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 13 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 14 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 15 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 16 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 17 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
+| 18 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 19 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 20 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
+| 21 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
+| 22 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
+| 23 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
+| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 25 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
 | 26 | [Ministerpräsidentin](http://twitter.com/search?q=Ministerpr%c3%a4sidentin) | N/A |
 | 27 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
-| 28 | [Drohmails](http://twitter.com/search?q=Drohmails) | N/A |
-| 29 | [Paolo Pinkel](http://twitter.com/search?q=Paolo+Pinkel) | N/A |
+| 28 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 29 | [Drohmails](http://twitter.com/search?q=Drohmails) | N/A |
 | 30 | [Wein](http://twitter.com/search?q=Wein) | N/A |
-| 31 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 32 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
-| 33 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 34 | [Kandidatur](http://twitter.com/search?q=Kandidatur) | N/A |
+| 31 | [Paolo Pinkel](http://twitter.com/search?q=Paolo+Pinkel) | N/A |
+| 32 | [Kandidatur](http://twitter.com/search?q=Kandidatur) | N/A |
+| 33 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
+| 34 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 35 | [Transmenschen](http://twitter.com/search?q=Transmenschen) | N/A |
-| 36 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 37 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 38 | [Hochzeiten](http://twitter.com/search?q=Hochzeiten) | N/A |
-| 39 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
+| 36 | [Röttgen](http://twitter.com/search?q=R%c3%b6ttgen) | N/A |
+| 37 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
+| 38 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
+| 39 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
 | 40 | [Whataboutism](http://twitter.com/search?q=Whataboutism) | N/A |
-| 41 | [Röttgen](http://twitter.com/search?q=R%c3%b6ttgen) | N/A |
-| 42 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
-| 43 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
-| 44 | [Friedmann](http://twitter.com/search?q=Friedmann) | N/A |
-| 45 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 46 | [Haar in der Suppe](http://twitter.com/search?q=Haar+in+der+Suppe) | N/A |
-| 47 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
-| 48 | [CDU und FDP](http://twitter.com/search?q=CDU+und+FDP) | N/A |
+| 41 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 42 | [Friedmann](http://twitter.com/search?q=Friedmann) | N/A |
+| 43 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 44 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
+| 45 | [Discounter](http://twitter.com/search?q=Discounter) | N/A |
+| 46 | [CDU und FDP](http://twitter.com/search?q=CDU+und+FDP) | N/A |
+| 47 | [Haar in der Suppe](http://twitter.com/search?q=Haar+in+der+Suppe) | N/A |
+| 48 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 
 
 

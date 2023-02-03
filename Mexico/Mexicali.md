@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-02-03 00:29:17 UTC`
+📆 Last Updated: `2023-02-03 01:48:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,52 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 2 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
+| 2 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
 | 3 | [Gerardo Islas Maldonado](http://twitter.com/search?q=Gerardo+Islas+Maldonado) | N/A |
-| 4 | [#QuéPasóOlallo](http://twitter.com/search?q=%23Qu%c3%a9Pas%c3%b3Olallo) | N/A |
-| 5 | [#NiñezSinSeguridad](http://twitter.com/search?q=%23Ni%c3%b1ezSinSeguridad) | N/A |
-| 6 | [#enhorabuenaverde](http://twitter.com/search?q=%23enhorabuenaverde) | N/A |
-| 7 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 8 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 9 | [Sherlyn](http://twitter.com/search?q=Sherlyn) | N/A |
-| 10 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 11 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
-| 12 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 13 | [#IntegracionTripoier](http://twitter.com/search?q=%23IntegracionTripoier) | N/A |
-| 14 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
-| 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 5 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
+| 6 | [#NiñezSinSeguridad](http://twitter.com/search?q=%23Ni%c3%b1ezSinSeguridad) | N/A |
+| 7 | [#QuéPasóOlallo](http://twitter.com/search?q=%23Qu%c3%a9Pas%c3%b3Olallo) | N/A |
+| 8 | [Velvet](http://twitter.com/search?q=Velvet) | N/A |
+| 9 | [#enhorabuenaverde](http://twitter.com/search?q=%23enhorabuenaverde) | N/A |
+| 10 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 11 | [La Barbie](http://twitter.com/search?q=La+Barbie) | N/A |
+| 12 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
+| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 14 | [Sherlyn](http://twitter.com/search?q=Sherlyn) | N/A |
+| 15 | [#ladofdefrankenvivo](http://twitter.com/search?q=%23ladofdefrankenvivo) | N/A |
 | 16 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 17 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 18 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 19 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 20 | [Iker](http://twitter.com/search?q=Iker) | N/A |
-| 21 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
-| 22 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
-| 23 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 24 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 25 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
-| 26 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 27 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
-| 28 | [Embajador](http://twitter.com/search?q=Embajador) | N/A |
-| 29 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 30 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
-| 31 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
-| 32 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
-| 33 | [Mesa Directiva](http://twitter.com/search?q=Mesa+Directiva) | N/A |
-| 34 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 35 | [Niño Dios](http://twitter.com/search?q=Ni%c3%b1o+Dios) | N/A |
-| 36 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 37 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
-| 38 | [The Smile](http://twitter.com/search?q=The+Smile) | N/A |
-| 39 | [El 2](http://twitter.com/search?q=El+2) | N/A |
-| 40 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
-| 41 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
-| 42 | [#DíaMundialDeLosHumedales](http://twitter.com/search?q=%23D%c3%adaMundialDeLosHumedales) | N/A |
-| 43 | [#Tamales](http://twitter.com/search?q=%23Tamales) | N/A |
-| 44 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 45 | [#MichelleRodriguez](http://twitter.com/search?q=%23MichelleRodriguez) | N/A |
-| 46 | [#PlanSonora](http://twitter.com/search?q=%23PlanSonora) | N/A |
-| 47 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
-| 48 | [#2DeFebrero](http://twitter.com/search?q=%232DeFebrero) | N/A |
-| 49 | [#LaPaz](http://twitter.com/search?q=%23LaPaz) | N/A |
+| 17 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 18 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
+| 19 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 20 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 21 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 22 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 23 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
+| 24 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
+| 25 | [Iker](http://twitter.com/search?q=Iker) | N/A |
+| 26 | [Tamales](http://twitter.com/search?q=Tamales) | N/A |
+| 27 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
+| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 29 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
+| 30 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
+| 31 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
+| 32 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 33 | [Día Mundial de los Humedales](http://twitter.com/search?q=D%c3%ada+Mundial+de+los+Humedales) | N/A |
+| 34 | [Plan Sonora](http://twitter.com/search?q=Plan+Sonora) | N/A |
+| 35 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 36 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
+| 37 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 38 | [Niño Dios](http://twitter.com/search?q=Ni%c3%b1o+Dios) | N/A |
+| 39 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 40 | [#Rebsamen](http://twitter.com/search?q=%23Rebsamen) | N/A |
+| 41 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
+| 42 | [#integraciontripoier](http://twitter.com/search?q=%23integraciontripoier) | N/A |
+| 43 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
+| 44 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
+| 45 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 46 | [#HappyBirthdayShakira](http://twitter.com/search?q=%23HappyBirthdayShakira) | N/A |
+| 47 | [#MichelleRodriguez](http://twitter.com/search?q=%23MichelleRodriguez) | N/A |
 
 
 
