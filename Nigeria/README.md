@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-03 02:42:08 UTC`
+📆 Last Updated: `2023-02-03 03:19:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Nigeria
 | 9 | [Blaqbonez](http://twitter.com/search?q=Blaqbonez) | N/A |
 | 10 | [#Danlil](http://twitter.com/search?q=%23Danlil) | N/A |
 | 11 | [Naira](http://twitter.com/search?q=Naira) | N/A |
-| 12 | [Nigerian Army](http://twitter.com/search?q=Nigerian+Army) | N/A |
-| 13 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 14 | [#jellybeanbybigozed](http://twitter.com/search?q=%23jellybeanbybigozed) | N/A |
-| 15 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 12 | [#jellybeanbybigozed](http://twitter.com/search?q=%23jellybeanbybigozed) | N/A |
+| 13 | [Nigerian Army](http://twitter.com/search?q=Nigerian+Army) | N/A |
+| 14 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 15 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 16 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 17 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
 | 18 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
 | 19 | [Benin](http://twitter.com/search?q=Benin) | N/A |
-| 20 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 21 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
-| 22 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 23 | [Access](http://twitter.com/search?q=Access) | N/A |
-| 24 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 25 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 26 | [P.O.S](http://twitter.com/search?q=P.O.S) | N/A |
-| 27 | [El Rufai](http://twitter.com/search?q=El+Rufai) | N/A |
-| 28 | [Alabi](http://twitter.com/search?q=Alabi) | N/A |
-| 29 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 30 | [YEMI CREGX OUR OWN](http://twitter.com/search?q=YEMI+CREGX+OUR+OWN) | N/A |
-| 31 | [QUESTION PHYNA](http://twitter.com/search?q=QUESTION+PHYNA) | N/A |
-| 32 | [Victor Umeh](http://twitter.com/search?q=Victor+Umeh) | N/A |
-| 33 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
-| 34 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 35 | [PATRONIZE PHYNATION MERCHANT](http://twitter.com/search?q=PATRONIZE+PHYNATION+MERCHANT) | N/A |
+| 20 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
+| 21 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 22 | [Access](http://twitter.com/search?q=Access) | N/A |
+| 23 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 24 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 25 | [El Rufai](http://twitter.com/search?q=El+Rufai) | N/A |
+| 26 | [Alabi](http://twitter.com/search?q=Alabi) | N/A |
+| 27 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 28 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 29 | [P.O.S](http://twitter.com/search?q=P.O.S) | N/A |
+| 30 | [#BlackHistoryMonth](http://twitter.com/search?q=%23BlackHistoryMonth) | #BlackHistoryMonth is an annual celebration of the achievements and contributions of African Americans throughout history. It is observed in the United States, Canada, and the United Kingdom during the month of February. The purpose of Black History Month is to recognize and honor the struggles, accomplishments, and contributions of African Americans to society. |
+| 31 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 32 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
+| 33 | [YEMI CREGX OUR OWN](http://twitter.com/search?q=YEMI+CREGX+OUR+OWN) | N/A |
+| 34 | [QUESTION PHYNA](http://twitter.com/search?q=QUESTION+PHYNA) | N/A |
+| 35 | [Victor Umeh](http://twitter.com/search?q=Victor+Umeh) | N/A |
 | 36 | [Peter Obi is a Nollywood](http://twitter.com/search?q=Peter+Obi+is+a+Nollywood) | N/A |
-| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 38 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 39 | [big bella once said](http://twitter.com/search?q=big+bella+once+said) | N/A |
-| 40 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
-| 41 | [Joe Igbokwe](http://twitter.com/search?q=Joe+Igbokwe) | N/A |
-| 42 | [Kebbi](http://twitter.com/search?q=Kebbi) | N/A |
-| 43 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
-| 44 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 45 | [Chair](http://twitter.com/search?q=Chair) | N/A |
-| 46 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 47 | [oyetola](http://twitter.com/search?q=oyetola) | N/A |
-| 48 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 49 | [Chike](http://twitter.com/search?q=Chike) | N/A |
-| 50 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 37 | [PATRONIZE PHYNATION MERCHANT](http://twitter.com/search?q=PATRONIZE+PHYNATION+MERCHANT) | N/A |
+| 38 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 39 | [Joe Igbokwe](http://twitter.com/search?q=Joe+Igbokwe) | N/A |
+| 40 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
+| 41 | [Kebbi](http://twitter.com/search?q=Kebbi) | N/A |
+| 42 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
+| 43 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 44 | [big bella once said](http://twitter.com/search?q=big+bella+once+said) | N/A |
+| 45 | [Oyetola](http://twitter.com/search?q=Oyetola) | Oyetola is a Yoruba name which means "God has done it". It is a popular name in Nigeria and other West African countries. |
+| 46 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
+| 47 | [Chair](http://twitter.com/search?q=Chair) | N/A |
+| 48 | [Chike](http://twitter.com/search?q=Chike) | N/A |
+| 49 | [ebubu is not small](http://twitter.com/search?q=ebubu+is+not+small) | N/A |
+| 50 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
 
 
 

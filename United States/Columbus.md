@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-02-03 02:41:55 UTC`
+📆 Last Updated: `2023-02-03 03:19:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 2 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 4 | [Sensabaugh](http://twitter.com/search?q=Sensabaugh) | N/A |
-| 5 | [#Buckeyes](http://twitter.com/search?q=%23Buckeyes) | N/A |
-| 6 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 7 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 8 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 9 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 10 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 1 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 2 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 3 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 4 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 5 | [Sensabaugh](http://twitter.com/search?q=Sensabaugh) | N/A |
+| 6 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 7 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 8 | [#Buckeyes](http://twitter.com/search?q=%23Buckeyes) | N/A |
+| 9 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 10 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
 | 11 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 12 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
-| 13 | [All-Star](http://twitter.com/search?q=All-Star) | All-Star is an adjective used to describe someone or something that is considered to be the best of the best. It is often used to refer to athletes, celebrities, or other people who have achieved a high level of success in their field. It can also be used to describe products or services that are considered to be the best in their category. |
-| 14 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 15 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 16 | [Chinese Spy Balloon](http://twitter.com/search?q=Chinese+Spy+Balloon) | Chinese Spy Balloon is a term used to describe a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activities on the ground from high altitudes. The balloons are also capable of relaying data back to a central command center. |
-| 17 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 18 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | #ProBowlGames is a hashtag used on social media to refer to the annual National Football League (NFL) all-star game, the Pro Bowl. The Pro Bowl is an exhibition game featuring the best players from the NFL's two conferences, the American Football Conference (AFC) and the National Football Conference (NFC). |
-| 19 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 12 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 13 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 14 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 15 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
+| 16 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
+| 17 | [All-Star](http://twitter.com/search?q=All-Star) | All-Star is an adjective used to describe someone or something that is considered to be the best of the best. It is often used to refer to athletes, celebrities, or other people who have achieved a high level of success in their field. It can also be used to describe products or services that are considered to be the best in their category. |
+| 18 | [Chinese Spy Balloon](http://twitter.com/search?q=Chinese+Spy+Balloon) | Chinese Spy Balloon is a term used to describe a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activities on the ground from high altitudes. The balloons are also capable of relaying data back to a central command center. |
+| 19 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
 | 20 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 21 | [#BestCatch](http://twitter.com/search?q=%23BestCatch) | N/A |
-| 22 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
-| 23 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 24 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
-| 25 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 26 | [cavs](http://twitter.com/search?q=cavs) | N/A |
-| 27 | [#Pfertility](http://twitter.com/search?q=%23Pfertility) | N/A |
-| 28 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
-| 29 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 30 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 31 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
-| 32 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 21 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 22 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 23 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
+| 24 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | #ProBowlGames is a hashtag used on social media to refer to the annual National Football League (NFL) all-star game, the Pro Bowl. The Pro Bowl is an exhibition game featuring the best players from the NFL's two conferences, the American Football Conference (AFC) and the National Football Conference (NFC). |
+| 25 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 26 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 27 | [#BestCatch](http://twitter.com/search?q=%23BestCatch) | N/A |
+| 28 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 29 | [#Pfertility](http://twitter.com/search?q=%23Pfertility) | N/A |
+| 30 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 31 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 32 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
 | 33 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 34 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
-| 35 | [Dashy](http://twitter.com/search?q=Dashy) | Dashy is a slang term used to describe someone or something that is cool, stylish, or fashionable. It can also be used to describe someone who is confident and outgoing. |
-| 36 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 37 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 38 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 39 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
-| 40 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 41 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
-| 42 | [LAKERS WIN](http://twitter.com/search?q=LAKERS+WIN) | "LAKERS WIN" is a phrase used to express excitement and enthusiasm when the Los Angeles Lakers basketball team wins a game. It is typically used by Lakers fans to celebrate the team's victory. |
+| 34 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
+| 35 | [Ricky Rubio](http://twitter.com/search?q=Ricky+Rubio) | N/A |
+| 36 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 37 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
+| 38 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 39 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 40 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 41 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 42 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
 | 43 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
-| 44 | [D Mitch](http://twitter.com/search?q=D+Mitch) | D Mitch is a slang term used to refer to someone who is a “douchebag” or someone who is arrogant and annoying. It is derived from the phrase “douchebag Mitch”. |
-| 45 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 46 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 47 | [Knockout City](http://twitter.com/search?q=Knockout+City) | N/A |
-| 48 | [Brian Dawkins](http://twitter.com/search?q=Brian+Dawkins) | N/A |
-| 49 | [Holtmann](http://twitter.com/search?q=Holtmann) | N/A |
-| 50 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 44 | [Dashy](http://twitter.com/search?q=Dashy) | Dashy is a slang term used to describe someone or something that is cool, stylish, or fashionable. It can also be used to describe someone who is confident and outgoing. |
+| 45 | [Darius Garland](http://twitter.com/search?q=Darius+Garland) | N/A |
+| 46 | [Brian Dawkins](http://twitter.com/search?q=Brian+Dawkins) | N/A |
+| 47 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
+| 48 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 49 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 50 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 
 
 

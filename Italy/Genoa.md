@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-03 02:41:25 UTC`
+📆 Last Updated: `2023-02-03 03:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,12 +26,12 @@ This is top 50 for [Italy](</Italy>)
 | 9 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
 | 10 | [41bis](http://twitter.com/search?q=41bis) | N/A |
 | 11 | [Edoardo e Micol](http://twitter.com/search?q=Edoardo+e+Micol) | N/A |
-| 12 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 13 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 14 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 12 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 13 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
+| 14 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
 | 15 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
 | 16 | [Maximiano](http://twitter.com/search?q=Maximiano) | N/A |
-| 17 | [Suor Angela](http://twitter.com/search?q=Suor+Angela) | N/A |
+| 17 | [suor angela](http://twitter.com/search?q=suor+angela) | N/A |
 | 18 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
 | 19 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
 | 20 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
@@ -41,30 +41,30 @@ This is top 50 for [Italy](</Italy>)
 | 24 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 | 25 | [Scarpinato](http://twitter.com/search?q=Scarpinato) | N/A |
 | 26 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
-| 27 | [Candelora](http://twitter.com/search?q=Candelora) | N/A |
-| 28 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 27 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 28 | [Candelora](http://twitter.com/search?q=Candelora) | N/A |
 | 29 | [Cedric](http://twitter.com/search?q=Cedric) | N/A |
 | 30 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 31 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 32 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 33 | [Oriana e Daniele](http://twitter.com/search?q=Oriana+e+Daniele) | N/A |
+| 31 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 32 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 33 | [patric](http://twitter.com/search?q=patric) | N/A |
 | 34 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
 | 35 | [Ollivier](http://twitter.com/search?q=Ollivier) | N/A |
-| 36 | [Suor Teresa](http://twitter.com/search?q=Suor+Teresa) | N/A |
+| 36 | [Oriana e Daniele](http://twitter.com/search?q=Oriana+e+Daniele) | N/A |
 | 37 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 38 | [clea](http://twitter.com/search?q=clea) | N/A |
+| 38 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
 | 39 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 40 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 41 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 42 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
-| 43 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 40 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 41 | [Clea](http://twitter.com/search?q=Clea) | N/A |
+| 42 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 43 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 | 44 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
 | 45 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
 | 46 | [Palombelli](http://twitter.com/search?q=Palombelli) | N/A |
 | 47 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 48 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 49 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 50 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 48 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
+| 49 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 50 | [Dodino](http://twitter.com/search?q=Dodino) | N/A |
 
 
 
