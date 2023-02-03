@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-03 15:17:37 UTC`
+📆 Last Updated: `2023-02-03 16:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 2 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 3 | [#ابومنير_يقذف_امهات_المغردين](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%88%d9%85%d9%86%d9%8a%d8%b1_%d9%8a%d9%82%d8%b0%d9%81_%d8%a7%d9%85%d9%87%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%af%d9%8a%d9%86) | N/A |
-| 4 | [#ريالتي_مع_نواف](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84%d8%aa%d9%8a_%d9%85%d8%b9_%d9%86%d9%88%d8%a7%d9%81) | N/A |
-| 5 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
-| 6 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
-| 7 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
-| 8 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
-| 9 | [#النصر_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
-| 10 | [#مهرجان_الملك_عبدالعزيز_للابل](http://twitter.com/search?q=%23%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2_%d9%84%d9%84%d8%a7%d8%a8%d9%84) | N/A |
-| 11 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 12 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 13 | [مهرجان الابل](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%a8%d9%84) | N/A |
-| 14 | [نادي الابل](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d9%84) | N/A |
-| 15 | [جعفر الصليح](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%ad) | N/A |
-| 16 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
-| 17 | [جيمين](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d9%8a%d9%86) | N/A |
-| 18 | [الفهيد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%87%d9%8a%d8%af) | N/A |
-| 19 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 20 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 21 | [النصر اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 22 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 23 | [يابو راكان](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b1%d8%a7%d9%83%d8%a7%d9%86) | N/A |
-| 24 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
-| 25 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 26 | [الاحساء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b3%d8%a7%d8%a1) | N/A |
-| 27 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 28 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [بشري تشبه الغيث](http://twitter.com/search?q=%d8%a8%d8%b4%d8%b1%d9%8a+%d8%aa%d8%b4%d8%a8%d9%87+%d8%a7%d9%84%d8%ba%d9%8a%d8%ab) | N/A |
-| 31 | [نعيم الجنه](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 32 | [نعيم دايم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
-| 33 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 34 | [المومنات الاحياء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1) | N/A |
-| 35 | [جمعه جامعه](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%87+%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
-| 36 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
-| 37 | [خيري الدنيا](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 38 | [اسعد السعداء](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d8%a7%d8%a1) | N/A |
-| 39 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 40 | [هتان](http://twitter.com/search?q=%d9%87%d8%aa%d8%a7%d9%86) | هتان is an Arabic word that means "two". |
-| 41 | [الحفل الختامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%81%d9%84+%d8%a7%d9%84%d8%ae%d8%aa%d8%a7%d9%85%d9%8a) | N/A |
-| 42 | [قبر ابي](http://twitter.com/search?q=%d9%82%d8%a8%d8%b1+%d8%a7%d8%a8%d9%8a) | N/A |
-| 43 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 44 | [النقاط الثلاث](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab) | N/A |
-| 45 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 46 | [عزيز ينسي](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2+%d9%8a%d9%86%d8%b3%d9%8a) | N/A |
-| 47 | [الانفس الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b3+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
-| 48 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 49 | [ابو احمد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
-| 50 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 1 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 2 | [#ابومنير_يقذف_امهات_المغردين](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%88%d9%85%d9%86%d9%8a%d8%b1_%d9%8a%d9%82%d8%b0%d9%81_%d8%a7%d9%85%d9%87%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%af%d9%8a%d9%86) | N/A |
+| 3 | [#مقاطع_زدرصيدك_مطلبنا_ياشاهد3](http://twitter.com/search?q=%23%d9%85%d9%82%d8%a7%d8%b7%d8%b9_%d8%b2%d8%af%d8%b1%d8%b5%d9%8a%d8%af%d9%83_%d9%85%d8%b7%d9%84%d8%a8%d9%86%d8%a7_%d9%8a%d8%a7%d8%b4%d8%a7%d9%87%d8%af3) | N/A |
+| 4 | [صانع لعب](http://twitter.com/search?q=%d8%b5%d8%a7%d9%86%d8%b9+%d9%84%d8%b9%d8%a8) | N/A |
+| 5 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 6 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 7 | [#جمعه_طيبه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 8 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 9 | [ابو احمد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 10 | [#النصر_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | #النصر_الفتح is an Arabic hashtag that translates to "Victory of Liberation" in English. It is often used to celebrate a victory or success, particularly in the context of a political or military struggle. |
+| 11 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | تاليسكا is a type of traditional dance from the Middle East. It is an energetic, fast-paced dance that involves spinning and clapping. In English, it is sometimes referred to as the "Tahleekah Dance". |
+| 12 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
+| 13 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
+| 14 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
+| 15 | [اوسبينا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a8%d9%8a%d9%86%d8%a7) | اوسبينا (Osbena) is an Arabic word that means "to be patient". It is used to encourage someone to remain calm and not give up in the face of adversity. |
+| 16 | [حارس النصر](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | حارس النصر is an Arabic phrase meaning "Guardian of Victory". It is often used to refer to someone who is a protector or defender of a cause or victory. |
+| 17 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 18 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 19 | [وليد عبدالله](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | وليد عبدالله is an Arabic name meaning "Walid Abdullah" in English. It is a common name in the Middle East and North Africa. |
+| 20 | [كريس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3) | كريس (Kris) is a masculine given name of Greek origin, meaning "Christ-bearer". In English, it is usually spelled Chris. |
+| 21 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
+| 22 | [الصليهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d9%87%d9%85) | N/A |
+| 23 | [جعفر الصليح](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%ad) | N/A |
+| 24 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
+| 25 | [الجهه اليمني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%87+%d8%a7%d9%84%d9%8a%d9%85%d9%86%d9%8a) | N/A |
+| 26 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 27 | [علي العقيدي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | N/A |
+| 28 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 29 | [علي الحسن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
+| 30 | [مهرجان الابل](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%a8%d9%84) | N/A |
+| 31 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 32 | [النصر اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 33 | [نادي الابل](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d9%84) | N/A |
+| 34 | [عبدالرحمن غريب](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
+| 35 | [جيمين](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d9%8a%d9%86) | N/A |
+| 36 | [الاحساء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b3%d8%a7%d8%a1) | N/A |
+| 37 | [نواف بوشل](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a8%d9%88%d8%b4%d9%84) | N/A |
+| 38 | [لعب النصر](http://twitter.com/search?q=%d9%84%d8%b9%d8%a8+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 39 | [يابو راكان](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b1%d8%a7%d9%83%d8%a7%d9%86) | N/A |
+| 40 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 41 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 42 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 43 | [نعيم دايم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 44 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 45 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 46 | [المسلمات الاحياء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1) | N/A |
+| 47 | [خيري الدنيا](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 48 | [بشري تشبه الغيث](http://twitter.com/search?q=%d8%a8%d8%b4%d8%b1%d9%8a+%d8%aa%d8%b4%d8%a8%d9%87+%d8%a7%d9%84%d8%ba%d9%8a%d8%ab) | N/A |
+| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 50 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
 
 
 

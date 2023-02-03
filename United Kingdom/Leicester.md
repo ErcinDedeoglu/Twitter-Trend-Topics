@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-02-03 15:17:09 UTC`
+📆 Last Updated: `2023-02-03 16:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
-| 2 | [#CheFul](http://twitter.com/search?q=%23CheFul) | N/A |
-| 3 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 4 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 5 | [Autumnwatch](http://twitter.com/search?q=Autumnwatch) | N/A |
-| 6 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 7 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 10 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 11 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 12 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 13 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 14 | [Lyanco](http://twitter.com/search?q=Lyanco) | Lyanco is a Portuguese name derived from the Latin name "Livianus", which means "belonging to the Roman family of Livius". In English, it can be translated to mean "belonging to the Livius family". |
-| 15 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
-| 16 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 17 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 18 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 19 | [Russell Martin](http://twitter.com/search?q=Russell+Martin) | N/A |
-| 20 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 21 | [Gina Miller](http://twitter.com/search?q=Gina+Miller) | N/A |
-| 22 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 23 | [POTM](http://twitter.com/search?q=POTM) | N/A |
-| 24 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
-| 25 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 26 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
-| 27 | [Russian Oligarchs](http://twitter.com/search?q=Russian+Oligarchs) | N/A |
-| 28 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 29 | [Young Fathers](http://twitter.com/search?q=Young+Fathers) | N/A |
-| 30 | [Yorkshire Tea](http://twitter.com/search?q=Yorkshire+Tea) | N/A |
-| 31 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 32 | [Windsor Castle](http://twitter.com/search?q=Windsor+Castle) | N/A |
-| 33 | [Gabriel Martinelli](http://twitter.com/search?q=Gabriel+Martinelli) | N/A |
-| 34 | [Willoughby](http://twitter.com/search?q=Willoughby) | N/A |
-| 35 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 36 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
-| 37 | [Raye](http://twitter.com/search?q=Raye) | N/A |
-| 38 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 39 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
-| 40 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 41 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 42 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
-| 43 | [#NumberDay](http://twitter.com/search?q=%23NumberDay) | N/A |
-| 44 | [#VibePayFriday](http://twitter.com/search?q=%23VibePayFriday) | N/A |
-| 45 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
-| 46 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 1 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
+| 2 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 3 | [Lyanco](http://twitter.com/search?q=Lyanco) | Lyanco is a Portuguese name derived from the Latin name "Livianus", which means "belonging to the Roman family of Livius". In English, it can be translated to mean "belonging to the Livius family". |
+| 4 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 5 | [#GreenFootballWeekend](http://twitter.com/search?q=%23GreenFootballWeekend) | N/A |
+| 6 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 7 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
+| 8 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 9 | [Autumnwatch](http://twitter.com/search?q=Autumnwatch) | N/A |
+| 10 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 11 | [Kerby](http://twitter.com/search?q=Kerby) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Curby](http://twitter.com/search?q=Curby) | N/A |
+| 14 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 15 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 16 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 17 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 18 | [Year 2](http://twitter.com/search?q=Year+2) | N/A |
+| 19 | [UK Athletics](http://twitter.com/search?q=UK+Athletics) | N/A |
+| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 21 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 22 | [Horner](http://twitter.com/search?q=Horner) | N/A |
+| 23 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 24 | [Welsh Government](http://twitter.com/search?q=Welsh+Government) | N/A |
+| 25 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 26 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 27 | [Cabin](http://twitter.com/search?q=Cabin) | N/A |
+| 28 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 29 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
+| 30 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 31 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
+| 32 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 33 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 34 | [Russell Martin](http://twitter.com/search?q=Russell+Martin) | N/A |
+| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 36 | [National Apprenticeship Week](http://twitter.com/search?q=National+Apprenticeship+Week) | N/A |
+| 37 | [Gina Miller](http://twitter.com/search?q=Gina+Miller) | N/A |
+| 38 | [POTM](http://twitter.com/search?q=POTM) | N/A |
+| 39 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 40 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
+| 41 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 42 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
+| 43 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 44 | [Raye](http://twitter.com/search?q=Raye) | N/A |
+| 45 | [Society](http://twitter.com/search?q=Society) | N/A |
+| 46 | [National Storytelling Week](http://twitter.com/search?q=National+Storytelling+Week) | N/A |
+| 47 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
 
 
 

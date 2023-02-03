@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-03 15:17:56 UTC`
+📆 Last Updated: `2023-02-03 16:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 2 | [#BellaPier](http://twitter.com/search?q=%23BellaPier) | N/A |
-| 3 | [#3febbraio](http://twitter.com/search?q=%233febbraio) | N/A |
-| 4 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 5 | [#juvelazio](http://twitter.com/search?q=%23juvelazio) | N/A |
+| 1 | [#BellaPier](http://twitter.com/search?q=%23BellaPier) | N/A |
+| 2 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 3 | [#bellama](http://twitter.com/search?q=%23bellama) | N/A |
+| 4 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 5 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
 | 6 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
-| 7 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 7 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 8 | [#redbullracing](http://twitter.com/search?q=%23redbullracing) | N/A |
+| 9 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
 | 10 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
-| 11 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
-| 12 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 13 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
-| 14 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 15 | [suor angela](http://twitter.com/search?q=suor+angela) | N/A |
-| 16 | [San Biagio](http://twitter.com/search?q=San+Biagio) | N/A |
-| 17 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 11 | [Moggi](http://twitter.com/search?q=Moggi) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 14 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 15 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
+| 16 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 17 | [Diaco](http://twitter.com/search?q=Diaco) | N/A |
 | 18 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 19 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
-| 20 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
-| 21 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 22 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 23 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
-| 24 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 25 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 26 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 27 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
-| 28 | [Magda](http://twitter.com/search?q=Magda) | N/A |
-| 29 | [Cinzia](http://twitter.com/search?q=Cinzia) | N/A |
-| 30 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 32 | [Edoardo e Micol](http://twitter.com/search?q=Edoardo+e+Micol) | N/A |
-| 33 | [Calderoli](http://twitter.com/search?q=Calderoli) | N/A |
-| 34 | [Maximiano](http://twitter.com/search?q=Maximiano) | N/A |
-| 35 | [Foti](http://twitter.com/search?q=Foti) | N/A |
-| 36 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 37 | [locatelli](http://twitter.com/search?q=locatelli) | N/A |
-| 38 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 39 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 40 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
-| 41 | [Investcorp](http://twitter.com/search?q=Investcorp) | N/A |
-| 42 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 43 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 44 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
-| 45 | [Scarpinato](http://twitter.com/search?q=Scarpinato) | N/A |
-| 46 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 47 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 48 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 49 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 50 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 19 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 20 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 21 | [Eleonora](http://twitter.com/search?q=Eleonora) | N/A |
+| 22 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 23 | [Sardegna](http://twitter.com/search?q=Sardegna) | N/A |
+| 24 | [Cinzia](http://twitter.com/search?q=Cinzia) | N/A |
+| 25 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 26 | [Stefania](http://twitter.com/search?q=Stefania) | N/A |
+| 27 | [San Valentino](http://twitter.com/search?q=San+Valentino) | N/A |
+| 28 | [Campania](http://twitter.com/search?q=Campania) | N/A |
+| 29 | [#prelemi](http://twitter.com/search?q=%23prelemi) | N/A |
+| 30 | [#ilparadisodellesignore](http://twitter.com/search?q=%23ilparadisodellesignore) | N/A |
+| 31 | [#stopcensuraoriele](http://twitter.com/search?q=%23stopcensuraoriele) | N/A |
+| 32 | [#DisdetteSkyDazn](http://twitter.com/search?q=%23DisdetteSkyDazn) | N/A |
+| 33 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
+| 34 | [#3febbraio](http://twitter.com/search?q=%233febbraio) | N/A |
+| 35 | [#fuoritavassi](http://twitter.com/search?q=%23fuoritavassi) | N/A |
+| 36 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 37 | [#Ford](http://twitter.com/search?q=%23Ford) | N/A |
+| 38 | [#SergioSolli](http://twitter.com/search?q=%23SergioSolli) | N/A |
+| 39 | [#calzinispaiati2023](http://twitter.com/search?q=%23calzinispaiati2023) | N/A |
+| 40 | [#Cucchi](http://twitter.com/search?q=%23Cucchi) | N/A |
+| 41 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
+| 42 | [#Chinè](http://twitter.com/search?q=%23Chin%c3%a8) | N/A |
+| 43 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
+| 44 | [#tzvip](http://twitter.com/search?q=%23tzvip) | N/A |
+| 45 | [#laPeggiore_DESTRA_diSempre](http://twitter.com/search?q=%23laPeggiore_DESTRA_diSempre) | N/A |
+| 46 | [#Cina](http://twitter.com/search?q=%23Cina) | N/A |
 
 
 

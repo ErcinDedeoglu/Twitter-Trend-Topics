@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-03 15:17:26 UTC`
+📆 Last Updated: `2023-02-03 16:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Krekling](http://twitter.com/search?q=Krekling) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 1 | [krekling](http://twitter.com/search?q=krekling) | N/A |
+| 2 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 3 | [Kondolerer](http://twitter.com/search?q=Kondolerer) | N/A |
-| 4 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 5 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 4 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 6 | [Sian](http://twitter.com/search?q=Sian) | N/A |
 | 7 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 8 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
-| 9 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 10 | [Benestad](http://twitter.com/search?q=Benestad) | N/A |
-| 11 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
-| 12 | [#helsepersonellkommisjonen](http://twitter.com/search?q=%23helsepersonellkommisjonen) | N/A |
-| 13 | [Vedum](http://twitter.com/search?q=Vedum) | N/A |
-| 14 | [Koranen](http://twitter.com/search?q=Koranen) | N/A |
-| 15 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
-| 16 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 17 | [LSK-hallen](http://twitter.com/search?q=LSK-hallen) | N/A |
-| 18 | [lillehammer](http://twitter.com/search?q=lillehammer) | N/A |
-| 19 | [Bedre](http://twitter.com/search?q=Bedre) | N/A |
+| 9 | [Benestad](http://twitter.com/search?q=Benestad) | N/A |
+| 10 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
+| 11 | [#helsepersonellkommisjonen](http://twitter.com/search?q=%23helsepersonellkommisjonen) | N/A |
+| 12 | [Vedum](http://twitter.com/search?q=Vedum) | N/A |
+| 13 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
+| 14 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 15 | [LSK-hallen](http://twitter.com/search?q=LSK-hallen) | N/A |
+| 16 | [lillehammer](http://twitter.com/search?q=lillehammer) | N/A |
+| 17 | [Bedre](http://twitter.com/search?q=Bedre) | N/A |
+| 18 | [Usikker](http://twitter.com/search?q=Usikker) | N/A |
+| 19 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 21 | [Majo](http://twitter.com/search?q=Majo) | N/A |
-| 22 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 23 | [#NNPF](http://twitter.com/search?q=%23NNPF) | N/A |
-| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 25 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
-| 26 | [Deilig](http://twitter.com/search?q=Deilig) | N/A |
-| 27 | [Acer](http://twitter.com/search?q=Acer) | N/A |
-| 28 | [Faktisk](http://twitter.com/search?q=Faktisk) | N/A |
-| 29 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 30 | [Marbella](http://twitter.com/search?q=Marbella) | N/A |
-| 31 | [Riksen](http://twitter.com/search?q=Riksen) | N/A |
-| 32 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 33 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 21 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
+| 22 | [#NNPF](http://twitter.com/search?q=%23NNPF) | N/A |
+| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 24 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 25 | [Koranen](http://twitter.com/search?q=Koranen) | N/A |
+| 26 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 27 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
+| 28 | [deilig](http://twitter.com/search?q=deilig) | N/A |
+| 29 | [Acer](http://twitter.com/search?q=Acer) | N/A |
+| 30 | [Majo](http://twitter.com/search?q=Majo) | N/A |
+| 31 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 32 | [Faktisk](http://twitter.com/search?q=Faktisk) | N/A |
+| 33 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
 | 34 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 35 | [Norwegians](http://twitter.com/search?q=Norwegians) | N/A |
 | 36 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
-| 37 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
-| 38 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 39 | [Correct](http://twitter.com/search?q=Correct) | N/A |
-| 40 | [Aasland](http://twitter.com/search?q=Aasland) | N/A |
-| 41 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
-| 42 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 43 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 44 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 45 | [stortinget](http://twitter.com/search?q=stortinget) | N/A |
-| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 47 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |
-| 48 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
-| 49 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 37 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 38 | [zalo](http://twitter.com/search?q=zalo) | N/A |
+| 39 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 40 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
+| 41 | [Correct](http://twitter.com/search?q=Correct) | N/A |
+| 42 | [Aasland](http://twitter.com/search?q=Aasland) | N/A |
+| 43 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 44 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 45 | [Statnett](http://twitter.com/search?q=Statnett) | N/A |
+| 46 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 47 | [Turkey](http://twitter.com/search?q=Turkey) | N/A |
+| 48 | [mvuka](http://twitter.com/search?q=mvuka) | N/A |
+| 49 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
 
 
 

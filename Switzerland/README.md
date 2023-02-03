@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-03 15:18:00 UTC`
+📆 Last Updated: `2023-02-03 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Switzerland
 | 2 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 3 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
 | 4 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 5 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 6 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 7 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 8 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 9 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 10 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 11 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 12 | [wahlkampf](http://twitter.com/search?q=wahlkampf) | N/A |
-| 13 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
-| 14 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
-| 15 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 16 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 17 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 18 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 19 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 20 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 21 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 22 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
-| 23 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 24 | [Exact](http://twitter.com/search?q=Exact) | N/A |
-| 25 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 5 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 6 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 7 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 8 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 9 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 10 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
+| 11 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 12 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
+| 13 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 14 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 15 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 16 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 17 | [America](http://twitter.com/search?q=America) | N/A |
+| 18 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 20 | [China](http://twitter.com/search?q=China) | N/A |
+| 21 | [ausbildung](http://twitter.com/search?q=ausbildung) | N/A |
+| 22 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 23 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 24 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 25 | [Exact](http://twitter.com/search?q=Exact) | N/A |
 | 26 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 27 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 28 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
-| 29 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 30 | [#ForWetlands](http://twitter.com/search?q=%23ForWetlands) | N/A |
+| 27 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 28 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 29 | [#ForWetlands](http://twitter.com/search?q=%23ForWetlands) | N/A |
+| 30 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
 | 31 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
-| 32 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 33 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 34 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 35 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | N/A |
-| 37 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
-| 38 | [#MECFS](http://twitter.com/search?q=%23MECFS) | N/A |
-| 39 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 40 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 41 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 42 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 43 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 44 | [America](http://twitter.com/search?q=America) | N/A |
+| 32 | [#MECFS](http://twitter.com/search?q=%23MECFS) | N/A |
+| 33 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 34 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
+| 35 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 36 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 37 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 38 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 39 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 40 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
+| 41 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
+| 42 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 43 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 44 | [Tatsache](http://twitter.com/search?q=Tatsache) | N/A |
 | 45 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 47 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
-| 48 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
-| 49 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
-| 50 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 46 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 47 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 48 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 49 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
+| 50 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
 
 
 

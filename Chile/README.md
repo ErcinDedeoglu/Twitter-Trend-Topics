@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-03 15:17:54 UTC`
+📆 Last Updated: `2023-02-03 16:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,33 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#IncendiosForestales](http://twitter.com/search?q=%23IncendiosForestales) | N/A |
-| 2 | [Ñuble](http://twitter.com/search?q=%c3%91uble) | N/A |
-| 3 | [Santa Juana](http://twitter.com/search?q=Santa+Juana) | N/A |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Tomé](http://twitter.com/search?q=Tom%c3%a9) | N/A |
-| 6 | [Parived](http://twitter.com/search?q=Parived) | Parived is a Sanskrit word that means "to be attained" or "to be realized". It is often used in the context of spiritual enlightenment or realization. |
-| 7 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 8 | [Arauco](http://twitter.com/search?q=Arauco) | N/A |
+| 2 | [Santa Juana](http://twitter.com/search?q=Santa+Juana) | N/A |
+| 3 | [Tomé](http://twitter.com/search?q=Tom%c3%a9) | N/A |
+| 4 | [Gonzalo Ramírez](http://twitter.com/search?q=Gonzalo+Ram%c3%adrez) | N/A |
+| 5 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 8 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
 | 9 | [Estado de Catástrofe](http://twitter.com/search?q=Estado+de+Cat%c3%a1strofe) | N/A |
-| 10 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
-| 11 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 12 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 13 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 14 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
-| 15 | [#HijosDelDesierto](http://twitter.com/search?q=%23HijosDelDesierto) | N/A |
-| 16 | [#EstoEsAutopiZta](http://twitter.com/search?q=%23EstoEsAutopiZta) | N/A |
-| 17 | [Arturo Sanhueza](http://twitter.com/search?q=Arturo+Sanhueza) | N/A |
-| 18 | [Suspendió](http://twitter.com/search?q=Suspendi%c3%b3) | N/A |
-| 19 | [tonka](http://twitter.com/search?q=tonka) | N/A |
-| 20 | [Gonzalo Ramírez](http://twitter.com/search?q=Gonzalo+Ram%c3%adrez) | N/A |
-| 21 | [Senapred](http://twitter.com/search?q=Senapred) | N/A |
-| 22 | [Itata](http://twitter.com/search?q=Itata) | N/A |
-| 23 | [Barti](http://twitter.com/search?q=Barti) | N/A |
-| 24 | [Nueva Aldea](http://twitter.com/search?q=Nueva+Aldea) | N/A |
-| 25 | [Punta Lavapie](http://twitter.com/search?q=Punta+Lavapie) | N/A |
-| 26 | [Conaf](http://twitter.com/search?q=Conaf) | N/A |
-| 27 | [Isdin](http://twitter.com/search?q=Isdin) | N/A |
-| 28 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 29 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 30 | [Partido Liberal](http://twitter.com/search?q=Partido+Liberal) | N/A |
-| 31 | [El PPD](http://twitter.com/search?q=El+PPD) | N/A |
-| 32 | [Supertanker](http://twitter.com/search?q=Supertanker) | N/A |
-| 33 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 34 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 35 | [Agua Amarilla](http://twitter.com/search?q=Agua+Amarilla) | N/A |
-| 36 | [Alerta Roja](http://twitter.com/search?q=Alerta+Roja) | N/A |
-| 37 | [Villa Doña Francisca](http://twitter.com/search?q=Villa+Do%c3%b1a+Francisca) | N/A |
-| 38 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 39 | [natalia piergentili](http://twitter.com/search?q=natalia+piergentili) | N/A |
-| 40 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 41 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 42 | [Anoche](http://twitter.com/search?q=Anoche) | N/A |
-| 43 | [Hanbin](http://twitter.com/search?q=Hanbin) | N/A |
-| 44 | [Emergencia](http://twitter.com/search?q=Emergencia) | N/A |
-| 45 | [Guillermo Teillier](http://twitter.com/search?q=Guillermo+Teillier) | N/A |
-| 46 | [Nerón](http://twitter.com/search?q=Ner%c3%b3n) | N/A |
-| 47 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
-| 48 | [Sata](http://twitter.com/search?q=Sata) | N/A |
-| 49 | [RRSS](http://twitter.com/search?q=RRSS) | N/A |
-| 50 | [Quirihue](http://twitter.com/search?q=Quirihue) | N/A |
+| 10 | [Biobío](http://twitter.com/search?q=Biob%c3%ado) | N/A |
+| 11 | [Arturo Sanhueza](http://twitter.com/search?q=Arturo+Sanhueza) | N/A |
+| 12 | [Conaf](http://twitter.com/search?q=Conaf) | N/A |
+| 13 | [#EstoEsAutopiZta](http://twitter.com/search?q=%23EstoEsAutopiZta) | N/A |
+| 14 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
+| 15 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
+| 16 | [Concepción](http://twitter.com/search?q=Concepci%c3%b3n) | N/A |
+| 17 | [Gabriel Boric](http://twitter.com/search?q=Gabriel+Boric) | N/A |
+| 18 | [#DerechaMiserableyCorrupta](http://twitter.com/search?q=%23DerechaMiserableyCorrupta) | N/A |
+| 19 | [#boricestadestuyendochile](http://twitter.com/search?q=%23boricestadestuyendochile) | N/A |
+| 20 | [Arauco](http://twitter.com/search?q=Arauco) | N/A |
+| 21 | [Maule](http://twitter.com/search?q=Maule) | N/A |
+| 22 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
+| 23 | [Tellier](http://twitter.com/search?q=Tellier) | N/A |
+| 24 | [#GobiernoDeIncompetentes](http://twitter.com/search?q=%23GobiernoDeIncompetentes) | N/A |
+| 25 | [#Incendiochillan](http://twitter.com/search?q=%23Incendiochillan) | N/A |
+| 26 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
+| 27 | [#GobiernoDeInutiles](http://twitter.com/search?q=%23GobiernoDeInutiles) | N/A |
+| 28 | [#RenunciaBoricCTM](http://twitter.com/search?q=%23RenunciaBoricCTM) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-03 15:17:18 UTC`
+📆 Last Updated: `2023-02-03 16:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
 | 2 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 3 | [Dia 18](http://twitter.com/search?q=Dia+18) | N/A |
-| 4 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
-| 5 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
-| 6 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 7 | [SE ELE SOUBESSE](http://twitter.com/search?q=SE+ELE+SOUBESSE) | SE ELE SOUBESSE is a Portuguese phrase that translates to "If He Knew" in English. It is used to express a hypothetical situation in which someone has knowledge of something. |
-| 8 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 9 | [Compro](http://twitter.com/search?q=Compro) | N/A |
-| 10 | [#RBDTour](http://twitter.com/search?q=%23RBDTour) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [JOGA O RABETÃO NO YT](http://twitter.com/search?q=JOGA+O+RABET%c3%83O+NO+YT) | N/A |
+| 3 | [#SoyRebeldeWorldTour](http://twitter.com/search?q=%23SoyRebeldeWorldTour) | N/A |
+| 4 | [Dia 18](http://twitter.com/search?q=Dia+18) | N/A |
+| 5 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
+| 6 | [Coldplay](http://twitter.com/search?q=Coldplay) | N/A |
+| 7 | [Ribeirão](http://twitter.com/search?q=Ribeir%c3%a3o) | N/A |
+| 8 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 9 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
+| 10 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 11 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 12 | [SE ELE SOUBESSE](http://twitter.com/search?q=SE+ELE+SOUBESSE) | SE ELE SOUBESSE is a Portuguese phrase that translates to "If He Knew" in English. It is used to express a hypothetical situation in which someone has knowledge of something. |
 | 13 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 14 | [EU VOU NO SHOW DO RBD](http://twitter.com/search?q=EU+VOU+NO+SHOW+DO+RBD) | N/A |
-| 15 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 16 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
-| 17 | [#Comfort10xMaisPerfume](http://twitter.com/search?q=%23Comfort10xMaisPerfume) | N/A |
-| 18 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 19 | [TUDO ESGOTADO](http://twitter.com/search?q=TUDO+ESGOTADO) | N/A |
-| 20 | [Operação Tabajara](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Tabajara) | N/A |
-| 21 | [Horner](http://twitter.com/search?q=Horner) | N/A |
-| 22 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 23 | [mc marcinho](http://twitter.com/search?q=mc+marcinho) | N/A |
-| 24 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
-| 25 | [Esgotou](http://twitter.com/search?q=Esgotou) | N/A |
-| 26 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
-| 27 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 28 | [EU VOU VER O RBD](http://twitter.com/search?q=EU+VOU+VER+O+RBD) | N/A |
-| 29 | [SANTA CRUZ FUTEBOL CLUBE](http://twitter.com/search?q=SANTA+CRUZ+FUTEBOL+CLUBE) | N/A |
-| 30 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 31 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 32 | [O Bam](http://twitter.com/search?q=O+Bam) | N/A |
-| 33 | [Gilmar Mendes](http://twitter.com/search?q=Gilmar+Mendes) | N/A |
-| 34 | [Morte Morte Morte](http://twitter.com/search?q=Morte+Morte+Morte) | N/A |
-| 35 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
-| 36 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
-| 37 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
-| 38 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 39 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 40 | [COAF](http://twitter.com/search?q=COAF) | N/A |
-| 41 | [São Brás](http://twitter.com/search?q=S%c3%a3o+Br%c3%a1s) | N/A |
-| 42 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
-| 43 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 44 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 45 | [Roubou](http://twitter.com/search?q=Roubou) | N/A |
-| 46 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 47 | [aespa](http://twitter.com/search?q=aespa) | N/A |
-| 48 | [Abin](http://twitter.com/search?q=Abin) | N/A |
-| 49 | [Traíra](http://twitter.com/search?q=Tra%c3%adra) | N/A |
+| 14 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
+| 15 | [Compro](http://twitter.com/search?q=Compro) | N/A |
+| 16 | [#RBDTour](http://twitter.com/search?q=%23RBDTour) | N/A |
+| 17 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 18 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
+| 19 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 20 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [JOGA O RABETÃO NO YT](http://twitter.com/search?q=JOGA+O+RABET%c3%83O+NO+YT) | N/A |
+| 23 | [Operação Tabajara](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Tabajara) | N/A |
+| 24 | [eu vou no show do rbd](http://twitter.com/search?q=eu+vou+no+show+do+rbd) | N/A |
+| 25 | [Talisca](http://twitter.com/search?q=Talisca) | Talisca is a Portuguese name derived from the Latin word talis, meaning “such” or “so much.” It is also a surname in some parts of Portugal. In English, it can be translated to mean “so much” or “so great.” |
+| 26 | [DESPEDIDA DE SOFRIMENTO](http://twitter.com/search?q=DESPEDIDA+DE+SOFRIMENTO) | N/A |
+| 27 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 28 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
+| 29 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
+| 30 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 31 | [TUDO ESGOTADO](http://twitter.com/search?q=TUDO+ESGOTADO) | N/A |
+| 32 | [Horner](http://twitter.com/search?q=Horner) | N/A |
+| 33 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
+| 34 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 35 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 36 | [Esgotou](http://twitter.com/search?q=Esgotou) | N/A |
+| 37 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
+| 38 | [Porão](http://twitter.com/search?q=Por%c3%a3o) | N/A |
+| 39 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 40 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 41 | [Daniel Ricciardo](http://twitter.com/search?q=Daniel+Ricciardo) | N/A |
+| 42 | [CADEIRA INFERIOR](http://twitter.com/search?q=CADEIRA+INFERIOR) | N/A |
+| 43 | [Narcisa](http://twitter.com/search?q=Narcisa) | N/A |
+| 44 | [O Jimin](http://twitter.com/search?q=O+Jimin) | N/A |
+| 45 | [Gilmar Mendes](http://twitter.com/search?q=Gilmar+Mendes) | N/A |
+| 46 | [Traíra](http://twitter.com/search?q=Tra%c3%adra) | N/A |
+| 47 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 48 | [O Bam](http://twitter.com/search?q=O+Bam) | N/A |
+| 49 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
 
 
 
