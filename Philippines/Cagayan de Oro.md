@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-03 18:17:12 UTC`
+📆 Last Updated: `2023-02-03 19:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Philippines](</Philippines>)
 | 6 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
 | 7 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
 | 8 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
-| 9 | [d-1 complex ep release](http://twitter.com/search?q=d-1+complex+ep+release) | N/A |
-| 10 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 11 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 9 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 10 | [d-1 complex ep release](http://twitter.com/search?q=d-1+complex+ep+release) | N/A |
+| 11 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
 | 12 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 13 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
-| 14 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
+| 13 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
+| 14 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
 | 15 | [juliever pagibignakayaep1](http://twitter.com/search?q=juliever+pagibignakayaep1) | N/A |
-| 16 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 17 | [FRANSETHChiCo MulingPagkikita](http://twitter.com/search?q=FRANSETHChiCo+MulingPagkikita) | N/A |
-| 18 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 19 | [HAPPY ZACHAM FE13sarry](http://twitter.com/search?q=HAPPY+ZACHAM+FE13sarry) | N/A |
-| 20 | [KDLEX PETAWalangAraySoon](http://twitter.com/search?q=KDLEX+PETAWalangAraySoon) | N/A |
-| 21 | [FILAY AkingBinibini](http://twitter.com/search?q=FILAY+AkingBinibini) | N/A |
-| 22 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
+| 16 | [fransethchico mulingpagkikita](http://twitter.com/search?q=fransethchico+mulingpagkikita) | N/A |
+| 17 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 18 | [HAPPY ZACHAM FE13sarry](http://twitter.com/search?q=HAPPY+ZACHAM+FE13sarry) | N/A |
+| 19 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 20 | [FILAY AkingBinibini](http://twitter.com/search?q=FILAY+AkingBinibini) | N/A |
+| 21 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
+| 22 | [KDLEX PETAWalangAraySoon](http://twitter.com/search?q=KDLEX+PETAWalangAraySoon) | N/A |
 | 23 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 24 | [LALISA THE KPOP HEROINE](http://twitter.com/search?q=LALISA+THE+KPOP+HEROINE) | N/A |
-| 25 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 24 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 25 | [LALISA THE KPOP HEROINE](http://twitter.com/search?q=LALISA+THE+KPOP+HEROINE) | N/A |
 | 26 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
 | 27 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 28 | [darren for kannawidan2023](http://twitter.com/search?q=darren+for+kannawidan2023) | N/A |
-| 29 | [FIGHTING TEASER 2](http://twitter.com/search?q=FIGHTING+TEASER+2) | N/A |
-| 30 | [Michaeng](http://twitter.com/search?q=Michaeng) | N/A |
-| 31 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 28 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 29 | [darren for kannawidan2023](http://twitter.com/search?q=darren+for+kannawidan2023) | N/A |
+| 30 | [FIGHTING TEASER 2](http://twitter.com/search?q=FIGHTING+TEASER+2) | N/A |
+| 31 | [Michaeng](http://twitter.com/search?q=Michaeng) | N/A |
 | 32 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
 | 33 | [1STONE ON WISHBUS](http://twitter.com/search?q=1STONE+ON+WISHBUS) | N/A |
-| 34 | [Vice](http://twitter.com/search?q=Vice) | N/A |
-| 35 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 36 | [MICTEST](http://twitter.com/search?q=MICTEST) | N/A |
-| 37 | [DJ YUE IN DA RADIO'n US](http://twitter.com/search?q=DJ+YUE+IN+DA+RADIO%27n+US) | N/A |
-| 38 | [POPPY KR VERSION OUT NOW](http://twitter.com/search?q=POPPY+KR+VERSION+OUT+NOW) | N/A |
-| 39 | [DrinkSmoke](http://twitter.com/search?q=DrinkSmoke) | N/A |
+| 34 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 35 | [mictest](http://twitter.com/search?q=mictest) | N/A |
+| 36 | [DJ YUE IN DA RADIO'n US](http://twitter.com/search?q=DJ+YUE+IN+DA+RADIO%27n+US) | N/A |
+| 37 | [POPPY KR VERSION OUT NOW](http://twitter.com/search?q=POPPY+KR+VERSION+OUT+NOW) | N/A |
+| 38 | [DrinkSmoke](http://twitter.com/search?q=DrinkSmoke) | N/A |
+| 39 | [Vice](http://twitter.com/search?q=Vice) | N/A |
 | 40 | [ALEXAs BDAY in23DAYS](http://twitter.com/search?q=ALEXAs+BDAY+in23DAYS) | N/A |
 | 41 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
 | 42 | [JAYrassic PIEdate](http://twitter.com/search?q=JAYrassic+PIEdate) | N/A |
 | 43 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 44 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 45 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 46 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
-| 47 | [SEE YOU TOMORROW](http://twitter.com/search?q=SEE+YOU+TOMORROW) | N/A |
+| 44 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
+| 45 | [SEE YOU TOMORROW](http://twitter.com/search?q=SEE+YOU+TOMORROW) | N/A |
+| 46 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 47 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
 
 
 

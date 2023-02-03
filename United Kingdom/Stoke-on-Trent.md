@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-02-03 18:16:51 UTC`
+📆 Last Updated: `2023-02-03 19:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 2 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 3 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 4 | [#GreenFootballWeekend](http://twitter.com/search?q=%23GreenFootballWeekend) | N/A |
-| 5 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
-| 6 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 7 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 8 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
-| 9 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 10 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
-| 11 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 12 | [Curby](http://twitter.com/search?q=Curby) | N/A |
-| 13 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 14 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 15 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 16 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 17 | [UK Athletics](http://twitter.com/search?q=UK+Athletics) | N/A |
-| 18 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 19 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 20 | [FTSE](http://twitter.com/search?q=FTSE) | N/A |
-| 21 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 22 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 23 | [Kerbie](http://twitter.com/search?q=Kerbie) | N/A |
-| 24 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 25 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 28 | [Year 2](http://twitter.com/search?q=Year+2) | N/A |
-| 29 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 30 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 31 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 32 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 33 | [Pret](http://twitter.com/search?q=Pret) | N/A |
-| 34 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 35 | [Fitbit](http://twitter.com/search?q=Fitbit) | N/A |
-| 36 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 37 | [Old Testament](http://twitter.com/search?q=Old+Testament) | N/A |
-| 38 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 39 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 40 | [The Last Wish](http://twitter.com/search?q=The+Last+Wish) | N/A |
-| 41 | [Welsh Government](http://twitter.com/search?q=Welsh+Government) | N/A |
-| 42 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
-| 43 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 44 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
-| 45 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 46 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 47 | [National Storytelling Week](http://twitter.com/search?q=National+Storytelling+Week) | N/A |
-| 48 | [#STEM](http://twitter.com/search?q=%23STEM) | N/A |
+| 1 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 2 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 3 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 4 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 5 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 6 | [#VibePayFriday](http://twitter.com/search?q=%23VibePayFriday) | N/A |
+| 7 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 8 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 9 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
+| 10 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 11 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 12 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
+| 13 | [Button](http://twitter.com/search?q=Button) | N/A |
+| 14 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 15 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 16 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 17 | [Curby](http://twitter.com/search?q=Curby) | N/A |
+| 18 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 19 | [UK Athletics](http://twitter.com/search?q=UK+Athletics) | N/A |
+| 20 | [KRISTINA](http://twitter.com/search?q=KRISTINA) | N/A |
+| 21 | [Enzo and Mudryk](http://twitter.com/search?q=Enzo+and+Mudryk) | N/A |
+| 22 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 23 | [FTSE 100](http://twitter.com/search?q=FTSE+100) | N/A |
+| 24 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 25 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 26 | [Kerbie](http://twitter.com/search?q=Kerbie) | N/A |
+| 27 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 29 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 30 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 31 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 33 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 34 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 35 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 36 | [Almiron](http://twitter.com/search?q=Almiron) | N/A |
+| 37 | [Year 6](http://twitter.com/search?q=Year+6) | N/A |
+| 38 | [Biggie](http://twitter.com/search?q=Biggie) | Biggie is a nickname for the late American rapper and songwriter, Notorious B.I.G., whose real name was Christopher Wallace. The term is often used to refer to his music or legacy. |
+| 39 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 40 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 41 | [Pret](http://twitter.com/search?q=Pret) | N/A |
+| 42 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 43 | [Old Testament](http://twitter.com/search?q=Old+Testament) | N/A |
+| 44 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 45 | [The Last Wish](http://twitter.com/search?q=The+Last+Wish) | N/A |
+| 46 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 47 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 48 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
 
 
 

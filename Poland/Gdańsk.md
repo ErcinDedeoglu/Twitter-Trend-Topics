@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-03 18:16:59 UTC`
+📆 Last Updated: `2023-02-03 19:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 2 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
-| 3 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 4 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
-| 5 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 6 | [#WPŁWAR](http://twitter.com/search?q=%23WP%c5%81WAR) | N/A |
-| 7 | [#TuskZnaczyBieda](http://twitter.com/search?q=%23TuskZnaczyBieda) | N/A |
-| 8 | [Zajca](http://twitter.com/search?q=Zajca) | N/A |
-| 9 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
-| 10 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
+| 1 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
+| 2 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
+| 3 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
+| 4 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 5 | [#WPŁWAR](http://twitter.com/search?q=%23WP%c5%81WAR) | N/A |
+| 6 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 7 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
+| 8 | [#TuskZnaczyBieda](http://twitter.com/search?q=%23TuskZnaczyBieda) | N/A |
+| 9 | [Zajca](http://twitter.com/search?q=Zajca) | N/A |
+| 10 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
 | 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 12 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
 | 13 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 14 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 14 | [Media Narodowe](http://twitter.com/search?q=Media+Narodowe) | N/A |
 | 15 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 16 | ["Znachora"](http://twitter.com/search?q=%22Znachora%22) | N/A |
+| 16 | [Red Bulla](http://twitter.com/search?q=Red+Bulla) | N/A |
 | 17 | [GROT](http://twitter.com/search?q=GROT) | N/A |
-| 18 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 18 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
 | 19 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
-| 20 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 21 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 22 | [Rząd](http://twitter.com/search?q=Rz%c4%85d) | N/A |
-| 23 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 24 | [Łodzi](http://twitter.com/search?q=%c5%81odzi) | N/A |
-| 25 | [Pisiory](http://twitter.com/search?q=Pisiory) | N/A |
-| 26 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
-| 27 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 28 | [Leszka Czarneckiego](http://twitter.com/search?q=Leszka+Czarneckiego) | N/A |
+| 20 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 21 | [Rząd](http://twitter.com/search?q=Rz%c4%85d) | N/A |
+| 22 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 23 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 24 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 25 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 26 | [Pisiory](http://twitter.com/search?q=Pisiory) | N/A |
+| 27 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
+| 28 | [Złodzieje](http://twitter.com/search?q=Z%c5%82odzieje) | N/A |
 | 29 | [Dulkiewicz](http://twitter.com/search?q=Dulkiewicz) | N/A |
-| 30 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 31 | [Rafał](http://twitter.com/search?q=Rafa%c5%82) | N/A |
-| 32 | [normalny](http://twitter.com/search?q=normalny) | N/A |
-| 33 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 34 | [NCBR](http://twitter.com/search?q=NCBR) | N/A |
-| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 36 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 37 | [dzien](http://twitter.com/search?q=dzien) | N/A |
-| 38 | [Wartą Poznań](http://twitter.com/search?q=Wart%c4%85+Pozna%c5%84) | N/A |
-| 39 | [Jasiu](http://twitter.com/search?q=Jasiu) | N/A |
-| 40 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 41 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
-| 42 | [Forda](http://twitter.com/search?q=Forda) | N/A |
-| 43 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 44 | [Jejku](http://twitter.com/search?q=Jejku) | N/A |
+| 30 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
+| 31 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 32 | [Rafał](http://twitter.com/search?q=Rafa%c5%82) | N/A |
+| 33 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 34 | [normalny](http://twitter.com/search?q=normalny) | N/A |
+| 35 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 36 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 37 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 38 | [dzien](http://twitter.com/search?q=dzien) | N/A |
+| 39 | [Wartą Poznań](http://twitter.com/search?q=Wart%c4%85+Pozna%c5%84) | N/A |
+| 40 | [NCBR](http://twitter.com/search?q=NCBR) | N/A |
+| 41 | [Leszka Czarneckiego](http://twitter.com/search?q=Leszka+Czarneckiego) | N/A |
+| 42 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 43 | [Forda](http://twitter.com/search?q=Forda) | N/A |
+| 44 | [DOSLOWNIE](http://twitter.com/search?q=DOSLOWNIE) | N/A |
 | 45 | [Viniego](http://twitter.com/search?q=Viniego) | N/A |
-| 46 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 47 | [Oddaj](http://twitter.com/search?q=Oddaj) | N/A |
-| 48 | [Banaś](http://twitter.com/search?q=Bana%c5%9b) | N/A |
-| 49 | [Robert Kubica](http://twitter.com/search?q=Robert+Kubica) | N/A |
+| 46 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 47 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 48 | [Robert Kubica](http://twitter.com/search?q=Robert+Kubica) | N/A |
+| 49 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-03 18:17:33 UTC`
+📆 Last Updated: `2023-02-03 19:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Guatemala
 | 4 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
 | 5 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#sismogt](http://twitter.com/search?q=%23sismogt) | N/A |
-| 8 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 9 | [#YoQuieroLaPlayera](http://twitter.com/search?q=%23YoQuieroLaPlayera) | N/A |
-| 10 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 11 | [Café Tacvba](http://twitter.com/search?q=Caf%c3%a9+Tacvba) | N/A |
-| 12 | [#SteveAoki](http://twitter.com/search?q=%23SteveAoki) | N/A |
-| 13 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
+| 7 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 8 | [#SismoGT](http://twitter.com/search?q=%23SismoGT) | N/A |
+| 9 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 10 | [#SteveAoki](http://twitter.com/search?q=%23SteveAoki) | N/A |
+| 11 | [#CaravanaDelZorro](http://twitter.com/search?q=%23CaravanaDelZorro) | N/A |
+| 12 | [Café Tacvba](http://twitter.com/search?q=Caf%c3%a9+Tacvba) | N/A |
+| 13 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
 | 14 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 15 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 15 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
 | 16 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
 | 17 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 18 | [Londoño](http://twitter.com/search?q=Londo%c3%b1o) | N/A |
-| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 20 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
+| 18 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
+| 19 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 20 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
 | 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 22 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 23 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
-| 24 | [Virgen de Candelaria](http://twitter.com/search?q=Virgen+de+Candelaria) | N/A |
+| 22 | [Virgen de Candelaria](http://twitter.com/search?q=Virgen+de+Candelaria) | N/A |
+| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 24 | [Blanca Alfaro](http://twitter.com/search?q=Blanca+Alfaro) | N/A |
 | 25 | [Miguel Ángel Gálvez](http://twitter.com/search?q=Miguel+%c3%81ngel+G%c3%a1lvez) | N/A |
-| 26 | [CODECA](http://twitter.com/search?q=CODECA) | N/A |
-| 27 | [BWL DOMINATE ON SPOTIFY](http://twitter.com/search?q=BWL+DOMINATE+ON+SPOTIFY) | N/A |
-| 28 | [BOY WITH LUV TO 1B](http://twitter.com/search?q=BOY+WITH+LUV+TO+1B) | N/A |
-| 29 | [batalla de la arada](http://twitter.com/search?q=batalla+de+la+arada) | N/A |
-| 30 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 26 | [BWL DOMINATE ON SPOTIFY](http://twitter.com/search?q=BWL+DOMINATE+ON+SPOTIFY) | N/A |
+| 27 | [BOY WITH LUV TO 1B](http://twitter.com/search?q=BOY+WITH+LUV+TO+1B) | N/A |
+| 28 | [batalla de la arada](http://twitter.com/search?q=batalla+de+la+arada) | N/A |
+| 29 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 30 | [CODECA](http://twitter.com/search?q=CODECA) | N/A |
 | 31 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 32 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 33 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 34 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 36 | [Muriel](http://twitter.com/search?q=Muriel) | N/A |
-| 37 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
-| 38 | [Deportivo Achuapa](http://twitter.com/search?q=Deportivo+Achuapa) | N/A |
-| 39 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 40 | [Charles Fernández](http://twitter.com/search?q=Charles+Fern%c3%a1ndez) | N/A |
-| 41 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | N/A |
-| 42 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 43 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 44 | [Fuerzas de Tierra](http://twitter.com/search?q=Fuerzas+de+Tierra) | N/A |
-| 45 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 46 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
-| 47 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 48 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 49 | [Esquipulas](http://twitter.com/search?q=Esquipulas) | N/A |
-| 50 | [Marce](http://twitter.com/search?q=Marce) | N/A |
+| 32 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 33 | [Londoño](http://twitter.com/search?q=Londo%c3%b1o) | N/A |
+| 34 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 35 | [Muriel](http://twitter.com/search?q=Muriel) | N/A |
+| 36 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 37 | [Centroamérica](http://twitter.com/search?q=Centroam%c3%a9rica) | N/A |
+| 38 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
+| 39 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 40 | [Deportivo Achuapa](http://twitter.com/search?q=Deportivo+Achuapa) | N/A |
+| 41 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 42 | [Charles Fernández](http://twitter.com/search?q=Charles+Fern%c3%a1ndez) | N/A |
+| 43 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | N/A |
+| 44 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 45 | [Fuerzas de Tierra](http://twitter.com/search?q=Fuerzas+de+Tierra) | N/A |
+| 46 | [CORRUPTOS](http://twitter.com/search?q=CORRUPTOS) | N/A |
+| 47 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 48 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 49 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
+| 50 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 
 
 

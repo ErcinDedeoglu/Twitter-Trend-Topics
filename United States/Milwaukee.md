@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-03 18:17:27 UTC`
+📆 Last Updated: `2023-02-03 19:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 2 | [#FearTheDeer](http://twitter.com/search?q=%23FearTheDeer) | N/A |
-| 3 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 3 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 4 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 5 | [#GiftOfSox](http://twitter.com/search?q=%23GiftOfSox) | #GiftOfSox is a hashtag used to promote the Boston Red Sox baseball team. It is used to encourage fans to give the gift of Red Sox tickets, apparel, and other merchandise to friends and family. The hashtag is meant to emphasize the team's commitment to giving back to its fans. |
-| 6 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 7 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 5 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 6 | [#GiftOfSox](http://twitter.com/search?q=%23GiftOfSox) | #GiftOfSox is a hashtag used to promote the Boston Red Sox baseball team. It is used to encourage fans to give the gift of Red Sox tickets, apparel, and other merchandise to friends and family. The hashtag is meant to emphasize the team's commitment to giving back to its fans. |
+| 7 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
 | 8 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
 | 9 | [#WearRedDay](http://twitter.com/search?q=%23WearRedDay) | N/A |
-| 10 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 11 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 12 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 13 | [Mrs. Worldwide](http://twitter.com/search?q=Mrs.+Worldwide) | N/A |
-| 14 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 15 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 16 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 17 | [Sixto George](http://twitter.com/search?q=Sixto+George) | N/A |
-| 18 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 21 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 22 | [Tzero](http://twitter.com/search?q=Tzero) | N/A |
-| 23 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 24 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 25 | [Educated](http://twitter.com/search?q=Educated) | N/A |
-| 26 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 27 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 28 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 29 | [Indoctrinated](http://twitter.com/search?q=Indoctrinated) | N/A |
-| 30 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
-| 31 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | N/A |
-| 32 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 33 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 34 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 35 | [U Don't Know](http://twitter.com/search?q=U+Don%27t+Know) | N/A |
-| 36 | [517,000 in January](http://twitter.com/search?q=517%2c000+in+January) | N/A |
-| 37 | [Strome](http://twitter.com/search?q=Strome) | N/A |
-| 38 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 39 | [Song Cry](http://twitter.com/search?q=Song+Cry) | N/A |
-| 40 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 41 | [Saturday Night Fever](http://twitter.com/search?q=Saturday+Night+Fever) | N/A |
-| 42 | [Heart of the City](http://twitter.com/search?q=Heart+of+the+City) | N/A |
-| 43 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
-| 44 | [ICBM](http://twitter.com/search?q=ICBM) | N/A |
-| 45 | [Culpable](http://twitter.com/search?q=Culpable) | N/A |
-| 46 | [Enlightened](http://twitter.com/search?q=Enlightened) | N/A |
-| 47 | [Big Pimpin](http://twitter.com/search?q=Big+Pimpin) | N/A |
-| 48 | [Can I Live](http://twitter.com/search?q=Can+I+Live) | N/A |
-| 49 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 50 | [Face Off](http://twitter.com/search?q=Face+Off) | N/A |
+| 10 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | N/A |
+| 11 | [#BidenBoom](http://twitter.com/search?q=%23BidenBoom) | N/A |
+| 12 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 13 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 14 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 15 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 16 | [Russ and KD](http://twitter.com/search?q=Russ+and+KD) | N/A |
+| 17 | [Mrs. Worldwide](http://twitter.com/search?q=Mrs.+Worldwide) | Mrs. Worldwide is a nickname given to singer/songwriter Armando Christian Perez, better known as Pitbull. The nickname is a reference to his global success and influence in the music industry. It is also a play on words of his stage name, which is often shortened to "Mr. Worldwide." |
+| 18 | [Joe Tsai](http://twitter.com/search?q=Joe+Tsai) | N/A |
+| 19 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
+| 20 | [Tzero](http://twitter.com/search?q=Tzero) | N/A |
+| 21 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | N/A |
+| 22 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | N/A |
+| 23 | [Space Force](http://twitter.com/search?q=Space+Force) | Space Force is a branch of the United States Armed Forces that was established in December 2019. It is responsible for organizing, training, and equipping military personnel to protect U.S. and allied interests in space. The mission of Space Force is to defend America’s interests in space, deter aggression in the final frontier, and conduct prompt and sustained space operations. |
+| 24 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
+| 25 | [He's a Laker](http://twitter.com/search?q=He%27s+a+Laker) | N/A |
+| 26 | [KD and Russ](http://twitter.com/search?q=KD+and+Russ) | N/A |
+| 27 | [Sixto George](http://twitter.com/search?q=Sixto+George) | N/A |
+| 28 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 29 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 30 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 31 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 32 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 33 | [Labaron Philon](http://twitter.com/search?q=Labaron+Philon) | N/A |
+| 34 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
+| 35 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 36 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 37 | [Educated](http://twitter.com/search?q=Educated) | N/A |
+| 38 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 39 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 40 | [Bill Simmons](http://twitter.com/search?q=Bill+Simmons) | N/A |
+| 41 | [Todd Grantham](http://twitter.com/search?q=Todd+Grantham) | N/A |
+| 42 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 43 | [Saturday Night Fever](http://twitter.com/search?q=Saturday+Night+Fever) | N/A |
+| 44 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 45 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 46 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 47 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 48 | [Face Off](http://twitter.com/search?q=Face+Off) | N/A |
+| 49 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
 
 
 
