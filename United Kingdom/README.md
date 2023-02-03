@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-03 10:18:40 UTC`
+📆 Last Updated: `2023-02-03 11:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 1 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
 | 2 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
 | 3 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
 | 4 | [#NumberDay](http://twitter.com/search?q=%23NumberDay) | N/A |
-| 5 | [#ASongOrMovieForAnythingRed](http://twitter.com/search?q=%23ASongOrMovieForAnythingRed) | N/A |
-| 6 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 7 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 8 | [Gabriel Martinelli](http://twitter.com/search?q=Gabriel+Martinelli) | N/A |
-| 9 | [Saka and Saliba](http://twitter.com/search?q=Saka+and+Saliba) | N/A |
-| 10 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 11 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
+| 5 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 7 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
+| 8 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 9 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 10 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 11 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 12 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
-| 13 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 14 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
-| 15 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 16 | [morning andy](http://twitter.com/search?q=morning+andy) | N/A |
-| 17 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 18 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
-| 19 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 20 | [Raye](http://twitter.com/search?q=Raye) | N/A |
-| 21 | [Willoughby](http://twitter.com/search?q=Willoughby) | N/A |
-| 22 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
-| 23 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
-| 24 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 25 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
-| 26 | [Autumnwatch](http://twitter.com/search?q=Autumnwatch) | N/A |
-| 27 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 28 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 29 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 30 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 31 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
-| 32 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 33 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 34 | [#GMMoving](http://twitter.com/search?q=%23GMMoving) | N/A |
-| 35 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 36 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 37 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 38 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | N/A |
-| 39 | [#flowersonfriday](http://twitter.com/search?q=%23flowersonfriday) | N/A |
-| 40 | [#Fridaymotivation](http://twitter.com/search?q=%23Fridaymotivation) | N/A |
-| 41 | [#fallfriday](http://twitter.com/search?q=%23fallfriday) | N/A |
-| 42 | [#ToriesOut211](http://twitter.com/search?q=%23ToriesOut211) | N/A |
-| 43 | [#wolpertinger](http://twitter.com/search?q=%23wolpertinger) | N/A |
-| 44 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
-| 45 | [#CHEFUL](http://twitter.com/search?q=%23CHEFUL) | N/A |
-| 46 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 47 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
-| 48 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 49 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | N/A |
-| 50 | [#LUNC](http://twitter.com/search?q=%23LUNC) | N/A |
+| 13 | [Saka and Saliba](http://twitter.com/search?q=Saka+and+Saliba) | N/A |
+| 14 | [Gabriel Martinelli](http://twitter.com/search?q=Gabriel+Martinelli) | N/A |
+| 15 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 16 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
+| 17 | [Friyay](http://twitter.com/search?q=Friyay) | N/A |
+| 18 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 19 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 20 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
+| 21 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 22 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 23 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 24 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
+| 25 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
+| 26 | [Raye](http://twitter.com/search?q=Raye) | N/A |
+| 27 | [Autumnwatch](http://twitter.com/search?q=Autumnwatch) | N/A |
+| 28 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
+| 29 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
+| 30 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
+| 31 | [Willoughby](http://twitter.com/search?q=Willoughby) | N/A |
+| 32 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 33 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 34 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 35 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
+| 36 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 37 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 38 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 39 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 40 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 41 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 42 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 43 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 44 | [#GMMoving](http://twitter.com/search?q=%23GMMoving) | N/A |
+| 45 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 46 | [#ASongOrMovieForAnythingRed](http://twitter.com/search?q=%23ASongOrMovieForAnythingRed) | N/A |
+| 47 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 48 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | N/A |
+| 49 | [#EmailsICantSendTour](http://twitter.com/search?q=%23EmailsICantSendTour) | N/A |
+| 50 | [#FridayThoughts](http://twitter.com/search?q=%23FridayThoughts) | N/A |
 
 
 

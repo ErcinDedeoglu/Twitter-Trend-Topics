@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-03 10:18:33 UTC`
+📆 Last Updated: `2023-02-03 11:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Ireland
 | 3 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
 | 4 | [Katie Taylor](http://twitter.com/search?q=Katie+Taylor) | N/A |
 | 5 | [Eddie Hearn](http://twitter.com/search?q=Eddie+Hearn) | N/A |
-| 6 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 7 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 8 | [#FirstDatesIRL](http://twitter.com/search?q=%23FirstDatesIRL) | N/A |
-| 9 | [#laochragael](http://twitter.com/search?q=%23laochragael) | N/A |
-| 10 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
-| 11 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 12 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 13 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 14 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 15 | [Dail](http://twitter.com/search?q=Dail) | N/A |
-| 16 | [The GAA](http://twitter.com/search?q=The+GAA) | N/A |
-| 17 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 18 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 19 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 20 | [Colm](http://twitter.com/search?q=Colm) | N/A |
-| 21 | [mcanespie](http://twitter.com/search?q=mcanespie) | N/A |
-| 22 | [Number 15](http://twitter.com/search?q=Number+15) | N/A |
-| 23 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
-| 24 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 25 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 26 | [Eurosong](http://twitter.com/search?q=Eurosong) | N/A |
+| 6 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 7 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 8 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 10 | [#FirstDatesIRL](http://twitter.com/search?q=%23FirstDatesIRL) | N/A |
+| 11 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 12 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 13 | [#laochragael](http://twitter.com/search?q=%23laochragael) | N/A |
+| 14 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
+| 15 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
+| 16 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 17 | [The GAA](http://twitter.com/search?q=The+GAA) | N/A |
+| 18 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 19 | [Eurosong](http://twitter.com/search?q=Eurosong) | N/A |
+| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 21 | [Colm](http://twitter.com/search?q=Colm) | N/A |
+| 22 | [McAnespie](http://twitter.com/search?q=McAnespie) | N/A |
+| 23 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 24 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 25 | [Number 15](http://twitter.com/search?q=Number+15) | N/A |
+| 26 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
 | 27 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
-| 28 | [3arena](http://twitter.com/search?q=3arena) | N/A |
-| 29 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 30 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
-| 31 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 32 | [Garth Brooks](http://twitter.com/search?q=Garth+Brooks) | N/A |
-| 33 | [Happy New Month](http://twitter.com/search?q=Happy+New+Month) | Happy New Month is a phrase used to express good wishes for the start of a new month. It is typically used as a greeting or salutation to friends, family, and colleagues. The phrase is usually accompanied by wishes for health, happiness, and success in the upcoming month. |
-| 34 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 28 | [Garth Brooks](http://twitter.com/search?q=Garth+Brooks) | N/A |
+| 29 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 30 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
+| 31 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 32 | [dublin city council](http://twitter.com/search?q=dublin+city+council) | N/A |
+| 33 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 34 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
 | 35 | [Typical](http://twitter.com/search?q=Typical) | N/A |
-| 36 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
+| 36 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 37 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 38 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 39 | [dublin city council](http://twitter.com/search?q=dublin+city+council) | N/A |
-| 40 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 41 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
-| 42 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 43 | [Long Room](http://twitter.com/search?q=Long+Room) | N/A |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 46 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 47 | [Natalie McNally](http://twitter.com/search?q=Natalie+McNally) | N/A |
-| 48 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 49 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 50 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
+| 38 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
+| 39 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 40 | [natalie mcnally](http://twitter.com/search?q=natalie+mcnally) | N/A |
+| 41 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 42 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
+| 43 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
+| 44 | [Atlantic](http://twitter.com/search?q=Atlantic) | N/A |
+| 45 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
+| 46 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
+| 47 | [James Joyce](http://twitter.com/search?q=James+Joyce) | N/A |
+| 48 | [Roberta Metsola](http://twitter.com/search?q=Roberta+Metsola) | N/A |
+| 49 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
+| 50 | [Casey](http://twitter.com/search?q=Casey) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-03 10:17:55 UTC`
+📆 Last Updated: `2023-02-03 11:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 5 | [#TXT16thWin](http://twitter.com/search?q=%23TXT16thWin) | #TXT16thWin is a hashtag used by fans of the South Korean boy band, TXT (Tomorrow X Together). It is used to celebrate the group's 16th win on a music show. The hashtag translates to "TXT's 16th Win". |
 | 6 | [#EverfitFibewell](http://twitter.com/search?q=%23EverfitFibewell) | #EverfitFibewell is a hashtag used to promote Everfit Fibewell, a brand of health and wellness products. The phrase "Everfit Fibewell" is a combination of the words "ever fit" and "well," which together mean to be in good physical and mental health. |
 | 7 | [#TepangPamirso](http://twitter.com/search?q=%23TepangPamirso) | N/A |
-| 8 | [Wayangnya Kita](http://twitter.com/search?q=Wayangnya+Kita) | N/A |
-| 9 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | Prabowo Makin Dipilih is an Indonesian phrase that translates to "Prabowo is getting elected". It is a slogan used by supporters of Prabowo Subianto, a former Indonesian military general and politician who ran for president in the 2019 Indonesian presidential election. |
-| 10 | [Musra Jokowi Jogja](http://twitter.com/search?q=Musra+Jokowi+Jogja) | Musra Jokowi Jogja is a popular slogan used by supporters of Indonesian President Joko Widodo in the city of Yogyakarta. It translates to "Long Live Jokowi in Yogyakarta". |
-| 11 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
-| 12 | [GBLA](http://twitter.com/search?q=GBLA) | N/A |
-| 13 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
+| 8 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | Prabowo Makin Dipilih is an Indonesian phrase that translates to "Prabowo is getting elected". It is a slogan used by supporters of Prabowo Subianto, a former Indonesian military general and politician who ran for president in the 2019 Indonesian presidential election. |
+| 9 | [Musra Jokowi Jogja](http://twitter.com/search?q=Musra+Jokowi+Jogja) | Musra Jokowi Jogja is a popular slogan used by supporters of Indonesian President Joko Widodo in the city of Yogyakarta. It translates to "Long Live Jokowi in Yogyakarta". |
+| 10 | [Wayangnya Kita](http://twitter.com/search?q=Wayangnya+Kita) | N/A |
+| 11 | [GBLA](http://twitter.com/search?q=GBLA) | N/A |
+| 12 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
+| 13 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
 | 14 | [QRIS](http://twitter.com/search?q=QRIS) | N/A |
 | 15 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 | 16 | [Jalan Trunojoyo](http://twitter.com/search?q=Jalan+Trunojoyo) | N/A |
-| 17 | [Jantan](http://twitter.com/search?q=Jantan) | N/A |
-| 18 | [XD INA](http://twitter.com/search?q=XD+INA) | N/A |
-| 19 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
-| 20 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
-| 21 | [Cicak](http://twitter.com/search?q=Cicak) | N/A |
-| 22 | [HAVE A SAFE FLIGHT EXO-SC](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+EXO-SC) | N/A |
-| 23 | [Multigrain](http://twitter.com/search?q=Multigrain) | N/A |
-| 24 | [Kris](http://twitter.com/search?q=Kris) | N/A |
-| 25 | [WELCOME BACK BAEKHYUN](http://twitter.com/search?q=WELCOME+BACK+BAEKHYUN) | N/A |
-| 26 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 27 | [Sechan](http://twitter.com/search?q=Sechan) | N/A |
-| 28 | [Kolbuk](http://twitter.com/search?q=Kolbuk) | N/A |
-| 29 | [Kecoa](http://twitter.com/search?q=Kecoa) | N/A |
-| 30 | [Gelar](http://twitter.com/search?q=Gelar) | N/A |
-| 31 | [Sanggup](http://twitter.com/search?q=Sanggup) | Sanggup is an Indonesian word that means "able" or "willing". It is used to express one's ability or willingness to do something. |
-| 32 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
-| 33 | [Kyuris](http://twitter.com/search?q=Kyuris) | N/A |
-| 34 | [Lempuyangan](http://twitter.com/search?q=Lempuyangan) | N/A |
-| 35 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 36 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 37 | [Brimob](http://twitter.com/search?q=Brimob) | N/A |
-| 38 | [Fitur](http://twitter.com/search?q=Fitur) | N/A |
-| 39 | [Tugu](http://twitter.com/search?q=Tugu) | N/A |
-| 40 | [Jakarta Selatan](http://twitter.com/search?q=Jakarta+Selatan) | N/A |
-| 41 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 42 | [Stasiun](http://twitter.com/search?q=Stasiun) | N/A |
+| 17 | [XD INA](http://twitter.com/search?q=XD+INA) | N/A |
+| 18 | [Jantan](http://twitter.com/search?q=Jantan) | N/A |
+| 19 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 20 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
+| 21 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 22 | [Multigrain](http://twitter.com/search?q=Multigrain) | N/A |
+| 23 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 24 | [Cicak](http://twitter.com/search?q=Cicak) | N/A |
+| 25 | [Gelar](http://twitter.com/search?q=Gelar) | N/A |
+| 26 | [Sechan](http://twitter.com/search?q=Sechan) | N/A |
+| 27 | [Kris](http://twitter.com/search?q=Kris) | N/A |
+| 28 | [WELCOME BACK BAEKHYUN](http://twitter.com/search?q=WELCOME+BACK+BAEKHYUN) | N/A |
+| 29 | [Kolbuk](http://twitter.com/search?q=Kolbuk) | N/A |
+| 30 | [Kecoa](http://twitter.com/search?q=Kecoa) | N/A |
+| 31 | [Aceh](http://twitter.com/search?q=Aceh) | N/A |
+| 32 | [Sanggup](http://twitter.com/search?q=Sanggup) | Sanggup is an Indonesian word that means "able" or "willing". It is used to express one's ability or willingness to do something. |
+| 33 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
+| 34 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 35 | [Lempuyangan](http://twitter.com/search?q=Lempuyangan) | N/A |
+| 36 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 37 | [Kyuris](http://twitter.com/search?q=Kyuris) | N/A |
+| 38 | [Brimob](http://twitter.com/search?q=Brimob) | N/A |
+| 39 | [Fitur](http://twitter.com/search?q=Fitur) | N/A |
+| 40 | [Tugu](http://twitter.com/search?q=Tugu) | N/A |
+| 41 | [Jakarta Selatan](http://twitter.com/search?q=Jakarta+Selatan) | N/A |
+| 42 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | #oneสนั่นจอ2023 is a hashtag used in Thailand to promote the 2023 Asian Cup, which will be held in Thailand. In English, it translates to "#OneCheerScreen2023". |
 | 43 | [#Miratashi](http://twitter.com/search?q=%23Miratashi) | N/A |
-| 44 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | #oneสนั่นจอ2023 is a hashtag used in Thailand to promote the 2023 Asian Cup, which will be held in Thailand. In English, it translates to "#OneCheerScreen2023". |
-| 45 | [#EXOSC_BackToBack](http://twitter.com/search?q=%23EXOSC_BackToBack) | #EXOSC_BackToBack is a hashtag used by fans of the South Korean boy band EXO to show their support for the group's back-to-back concerts. The hashtag is used to share photos, videos, and messages related to the concerts. |
-| 46 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
-| 47 | [#EUNCHAE_MusicBank](http://twitter.com/search?q=%23EUNCHAE_MusicBank) | N/A |
-| 48 | [#TXTatMusicBank](http://twitter.com/search?q=%23TXTatMusicBank) | N/A |
-| 49 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
+| 44 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
+| 45 | [#TXTatMusicBank](http://twitter.com/search?q=%23TXTatMusicBank) | N/A |
+| 46 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 47 | [#EXOSC_BackToBack](http://twitter.com/search?q=%23EXOSC_BackToBack) | #EXOSC_BackToBack is a hashtag used by fans of the South Korean boy band EXO to show their support for the group's back-to-back concerts. The hashtag is used to share photos, videos, and messages related to the concerts. |
+| 48 | [#POPPY_KoreanVersion](http://twitter.com/search?q=%23POPPY_KoreanVersion) | N/A |
+| 49 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
 
 
 

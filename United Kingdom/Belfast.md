@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-03 10:17:33 UTC`
+📆 Last Updated: `2023-02-03 11:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BelfastHour](http://twitter.com/search?q=%23BelfastHour) | N/A |
-| 2 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 1 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 2 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
 | 3 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 4 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 4 | [#NumberDay](http://twitter.com/search?q=%23NumberDay) | N/A |
 | 5 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 6 | [Gabriel Martinelli](http://twitter.com/search?q=Gabriel+Martinelli) | N/A |
-| 7 | [Saka and Saliba](http://twitter.com/search?q=Saka+and+Saliba) | N/A |
-| 8 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
-| 9 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
-| 10 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 11 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
-| 12 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 13 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 14 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 15 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
-| 16 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 17 | [Raye](http://twitter.com/search?q=Raye) | N/A |
-| 18 | [Willoughby](http://twitter.com/search?q=Willoughby) | N/A |
-| 19 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
-| 20 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 21 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 22 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
-| 23 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
-| 24 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 25 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 26 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 27 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
-| 28 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 29 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 30 | [#NSPCCNumberDay](http://twitter.com/search?q=%23NSPCCNumberDay) | N/A |
-| 31 | [#ASongOrMovieForAnythingRed](http://twitter.com/search?q=%23ASongOrMovieForAnythingRed) | N/A |
-| 32 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 33 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 34 | [#GMMoving](http://twitter.com/search?q=%23GMMoving) | N/A |
-| 35 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 36 | [#fallfriday](http://twitter.com/search?q=%23fallfriday) | N/A |
-| 37 | [#flowersonfriday](http://twitter.com/search?q=%23flowersonfriday) | N/A |
-| 38 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | N/A |
-| 39 | [#Fridaymotivation](http://twitter.com/search?q=%23Fridaymotivation) | N/A |
-| 40 | [#wolpertinger](http://twitter.com/search?q=%23wolpertinger) | N/A |
-| 41 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
-| 42 | [#ToriesOut211](http://twitter.com/search?q=%23ToriesOut211) | N/A |
-| 43 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 44 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
-| 45 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 46 | [#NAW2023](http://twitter.com/search?q=%23NAW2023) | N/A |
-| 47 | [#LUNC](http://twitter.com/search?q=%23LUNC) | N/A |
-| 48 | [#BeyonceRenaissanceTour](http://twitter.com/search?q=%23BeyonceRenaissanceTour) | N/A |
+| 6 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 7 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 8 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 9 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 10 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
+| 11 | [Saka and Saliba](http://twitter.com/search?q=Saka+and+Saliba) | N/A |
+| 12 | [Gabriel Martinelli](http://twitter.com/search?q=Gabriel+Martinelli) | N/A |
+| 13 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
+| 14 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 15 | [Friyay](http://twitter.com/search?q=Friyay) | N/A |
+| 16 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 17 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 18 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 19 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 20 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 21 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
+| 22 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
+| 23 | [Raye](http://twitter.com/search?q=Raye) | N/A |
+| 24 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
+| 25 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
+| 26 | [Willoughby](http://twitter.com/search?q=Willoughby) | N/A |
+| 27 | [Autumnwatch](http://twitter.com/search?q=Autumnwatch) | N/A |
+| 28 | [Ashfield](http://twitter.com/search?q=Ashfield) | N/A |
+| 29 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
+| 30 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 31 | [Penny](http://twitter.com/search?q=Penny) | N/A |
+| 32 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
+| 33 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 34 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 35 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 36 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 37 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 38 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 39 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 40 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 41 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 42 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
+| 43 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 44 | [#GMMoving](http://twitter.com/search?q=%23GMMoving) | N/A |
+| 45 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 46 | [#ASongOrMovieForAnythingRed](http://twitter.com/search?q=%23ASongOrMovieForAnythingRed) | N/A |
+| 47 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
 
 
 

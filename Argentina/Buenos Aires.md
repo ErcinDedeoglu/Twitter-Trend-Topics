@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-03 10:17:43 UTC`
+📆 Last Updated: `2023-02-03 11:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
 | 2 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 3 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 4 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 3 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 4 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
 | 5 | [Lewis](http://twitter.com/search?q=Lewis) | Lewis is a masculine given name of English origin. It is derived from the Old French name Louis, which is derived from the Germanic name Chlodowig, meaning "famous warrior". |
-| 6 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 7 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
+| 6 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
+| 7 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
 | 8 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 9 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 10 | [#GranHermanoAR](http://twitter.com/search?q=%23GranHermanoAR) | N/A |
-| 11 | [Lago Escondido](http://twitter.com/search?q=Lago+Escondido) | N/A |
-| 12 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 13 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 14 | [#AndaAFreirChurrosElTopo](http://twitter.com/search?q=%23AndaAFreirChurrosElTopo) | N/A |
-| 15 | [Árbol](http://twitter.com/search?q=%c3%81rbol) | N/A |
-| 16 | [Gauchos](http://twitter.com/search?q=Gauchos) | N/A |
+| 9 | [#GranHermanoAR](http://twitter.com/search?q=%23GranHermanoAR) | N/A |
+| 10 | [Lago Escondido](http://twitter.com/search?q=Lago+Escondido) | N/A |
+| 11 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 12 | [#andaafreirchurroseltopo](http://twitter.com/search?q=%23andaafreirchurroseltopo) | N/A |
+| 13 | [Árbol](http://twitter.com/search?q=%c3%81rbol) | N/A |
+| 14 | [Gauchos](http://twitter.com/search?q=Gauchos) | N/A |
+| 15 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 16 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
 | 17 | [Arietto](http://twitter.com/search?q=Arietto) | N/A |
-| 18 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
-| 19 | [Davo](http://twitter.com/search?q=Davo) | N/A |
-| 20 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 18 | [Arietto](http://twitter.com/search?q=Arietto) | N/A |
+| 19 | [Nacho al 9009](http://twitter.com/search?q=Nacho+al+9009) | N/A |
+| 20 | [Davo](http://twitter.com/search?q=Davo) | N/A |
 | 21 | [Big Ari](http://twitter.com/search?q=Big+Ari) | Big Ari is a nickname for the American rapper and singer Ariana Grande. It is a play on her name, with "big" referring to her fame and success. |
-| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 23 | [PROPIEDAD PRIVADA](http://twitter.com/search?q=PROPIEDAD+PRIVADA) | N/A |
-| 24 | [walter al 9009](http://twitter.com/search?q=walter+al+9009) | N/A |
-| 25 | [#supremosenelbanquillo](http://twitter.com/search?q=%23supremosenelbanquillo) | N/A |
-| 26 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 27 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 30 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 31 | [Caruzzo](http://twitter.com/search?q=Caruzzo) | N/A |
-| 32 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 33 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
-| 34 | [se hizo justicia](http://twitter.com/search?q=se+hizo+justicia) | N/A |
-| 35 | [Cecilia Grierson](http://twitter.com/search?q=Cecilia+Grierson) | N/A |
-| 36 | [Vayan](http://twitter.com/search?q=Vayan) | N/A |
-| 37 | [Abigail Páez](http://twitter.com/search?q=Abigail+P%c3%a1ez) | N/A |
-| 38 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 39 | [Jodete](http://twitter.com/search?q=Jodete) | N/A |
-| 40 | [El Banco Central](http://twitter.com/search?q=El+Banco+Central) | N/A |
-| 41 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 42 | [Merolla](http://twitter.com/search?q=Merolla) | N/A |
-| 43 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 44 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 22 | [Propiedad Privada](http://twitter.com/search?q=Propiedad+Privada) | N/A |
+| 23 | [walter al 9009](http://twitter.com/search?q=walter+al+9009) | N/A |
+| 24 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 25 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
+| 28 | [Caruzzo](http://twitter.com/search?q=Caruzzo) | N/A |
+| 29 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
+| 30 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 31 | [Cecilia Grierson](http://twitter.com/search?q=Cecilia+Grierson) | N/A |
+| 32 | [se hizo justicia](http://twitter.com/search?q=se+hizo+justicia) | N/A |
+| 33 | [Vayan](http://twitter.com/search?q=Vayan) | N/A |
+| 34 | [Abigail Páez](http://twitter.com/search?q=Abigail+P%c3%a1ez) | N/A |
+| 35 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 36 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 37 | [Lolis](http://twitter.com/search?q=Lolis) | N/A |
+| 38 | [El Banco Central](http://twitter.com/search?q=El+Banco+Central) | N/A |
+| 39 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
+| 40 | [Jodete](http://twitter.com/search?q=Jodete) | N/A |
+| 41 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 42 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 43 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 44 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
 | 45 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 46 | [Viva la Patria](http://twitter.com/search?q=Viva+la+Patria) | N/A |
-| 47 | [Magdalena Espósito Valenti](http://twitter.com/search?q=Magdalena+Esp%c3%b3sito+Valenti) | N/A |
+| 47 | [Merolla](http://twitter.com/search?q=Merolla) | N/A |
 | 48 | [China](http://twitter.com/search?q=China) | N/A |
-| 49 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 50 | [abel pintos](http://twitter.com/search?q=abel+pintos) | N/A |
+| 49 | [magdalena espósito valenti](http://twitter.com/search?q=magdalena+esp%c3%b3sito+valenti) | N/A |
+| 50 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-02-03 10:18:08 UTC`
+📆 Last Updated: `2023-02-03 11:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
+| 1 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
 | 2 | [#SharetheEpic](http://twitter.com/search?q=%23SharetheEpic) | N/A |
-| 3 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 4 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 5 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 6 | [#GigaNathi](http://twitter.com/search?q=%23GigaNathi) | N/A |
-| 7 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 8 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 9 | [Lady Zamar](http://twitter.com/search?q=Lady+Zamar) | N/A |
-| 10 | [GOATED THABANG](http://twitter.com/search?q=GOATED+THABANG) | N/A |
+| 3 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
+| 4 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 5 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 6 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 7 | [#FFSeltzer](http://twitter.com/search?q=%23FFSeltzer) | N/A |
+| 8 | [GOATED THABANG](http://twitter.com/search?q=GOATED+THABANG) | N/A |
+| 9 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 10 | [Lady Zamar](http://twitter.com/search?q=Lady+Zamar) | N/A |
 | 11 | [Business Evolve Core](http://twitter.com/search?q=Business+Evolve+Core) | N/A |
-| 12 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 13 | [Shop U50A](http://twitter.com/search?q=Shop+U50A) | N/A |
-| 14 | [meneer cee](http://twitter.com/search?q=meneer+cee) | N/A |
-| 15 | [Identifies as African](http://twitter.com/search?q=Identifies+as+African) | N/A |
-| 16 | [Themba Khumalo](http://twitter.com/search?q=Themba+Khumalo) | N/A |
-| 17 | [Cinnabon](http://twitter.com/search?q=Cinnabon) | N/A |
-| 18 | [Kabza](http://twitter.com/search?q=Kabza) | N/A |
-| 19 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 20 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 21 | [Happy Jele](http://twitter.com/search?q=Happy+Jele) | N/A |
+| 12 | [meneer cee](http://twitter.com/search?q=meneer+cee) | N/A |
+| 13 | [Kabza](http://twitter.com/search?q=Kabza) | N/A |
+| 14 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 15 | [Themba Khumalo](http://twitter.com/search?q=Themba+Khumalo) | N/A |
+| 16 | [Cinnabon](http://twitter.com/search?q=Cinnabon) | N/A |
+| 17 | [Shop U50A](http://twitter.com/search?q=Shop+U50A) | N/A |
+| 18 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 19 | [Happy Jele](http://twitter.com/search?q=Happy+Jele) | N/A |
+| 20 | [Rekere](http://twitter.com/search?q=Rekere) | N/A |
+| 21 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
 | 22 | [Bassie](http://twitter.com/search?q=Bassie) | N/A |
-| 23 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 24 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
-| 25 | [SABC](http://twitter.com/search?q=SABC) | N/A |
-| 26 | [Rekere](http://twitter.com/search?q=Rekere) | N/A |
+| 23 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
+| 24 | [Identifies as African](http://twitter.com/search?q=Identifies+as+African) | N/A |
+| 25 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 26 | [SABC](http://twitter.com/search?q=SABC) | N/A |
 | 27 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
-| 28 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 29 | [Tourists](http://twitter.com/search?q=Tourists) | N/A |
-| 30 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 31 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 32 | [Vuyo](http://twitter.com/search?q=Vuyo) | N/A |
-| 33 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
-| 34 | [Orania](http://twitter.com/search?q=Orania) | N/A |
-| 35 | [Acting CEO](http://twitter.com/search?q=Acting+CEO) | N/A |
+| 28 | [Tourists](http://twitter.com/search?q=Tourists) | N/A |
+| 29 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
+| 30 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 31 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
+| 32 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 33 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 34 | [Acting CEO](http://twitter.com/search?q=Acting+CEO) | N/A |
+| 35 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
 | 36 | [Toss](http://twitter.com/search?q=Toss) | N/A |
 | 37 | [Jonathan Jansen](http://twitter.com/search?q=Jonathan+Jansen) | N/A |
 | 38 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
 | 39 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
-| 40 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
-| 41 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 42 | [Grootman](http://twitter.com/search?q=Grootman) | N/A |
-| 43 | [DJ 8Milli](http://twitter.com/search?q=DJ+8Milli) | N/A |
-| 44 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 45 | [Zolani](http://twitter.com/search?q=Zolani) | N/A |
-| 46 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
-| 47 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 48 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 49 | [Umbuzo](http://twitter.com/search?q=Umbuzo) | N/A |
+| 40 | [dj 8milli](http://twitter.com/search?q=dj+8milli) | N/A |
+| 41 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 42 | [Zolani](http://twitter.com/search?q=Zolani) | N/A |
+| 43 | [Grootman](http://twitter.com/search?q=Grootman) | N/A |
+| 44 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
+| 45 | [THEMBA MY INKED WORLD](http://twitter.com/search?q=THEMBA+MY+INKED+WORLD) | N/A |
+| 46 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 47 | [Umbuzo](http://twitter.com/search?q=Umbuzo) | N/A |
+| 48 | [THEMBABROLY ON MZANSI MAGIC](http://twitter.com/search?q=THEMBABROLY+ON+MZANSI+MAGIC) | N/A |
+| 49 | [orania](http://twitter.com/search?q=orania) | N/A |
 
 
 
