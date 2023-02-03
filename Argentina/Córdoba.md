@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-02-03 05:16:38 UTC`
+📆 Last Updated: `2023-02-03 06:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,33 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 2 | [#GranHermano2023](http://twitter.com/search?q=%23GranHermano2023) | #GranHermano2023 is a hashtag used on social media to refer to the 20th season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2023". |
-| 3 | [ARIEL AL 9009](http://twitter.com/search?q=ARIEL+AL+9009) | ARIEL AL 9009 is a type of aluminum alloy. It is an aluminum-lithium alloy that is used in aerospace applications due to its high strength-to-weight ratio and excellent corrosion resistance. In English, it means "Ariel Aluminum Alloy 9009". |
-| 4 | [Big Ari](http://twitter.com/search?q=Big+Ari) | Big Ari is a nickname for the American rapper and singer Ariana Grande. It is a play on her name, with "big" referring to her fame and success. |
-| 5 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
-| 6 | [Luciano Pereyra](http://twitter.com/search?q=Luciano+Pereyra) | N/A |
-| 7 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
-| 8 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 9 | [Inesperado](http://twitter.com/search?q=Inesperado) | N/A |
-| 10 | [Sol Perez](http://twitter.com/search?q=Sol+Perez) | Sol Perez is a nickname given to an Argentinian weather presenter and model. It translates to "Sun Perez" in English. |
-| 11 | [Rogel](http://twitter.com/search?q=Rogel) | N/A |
-| 12 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
+| 2 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 3 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 4 | [#GranHermano2023](http://twitter.com/search?q=%23GranHermano2023) | #GranHermano2023 is a hashtag used on social media to refer to the 20th season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2023". |
+| 5 | [ARIEL AL 9009](http://twitter.com/search?q=ARIEL+AL+9009) | ARIEL AL 9009 is a type of aluminum alloy. It is an aluminum-lithium alloy that is used in aerospace applications due to its high strength-to-weight ratio and excellent corrosion resistance. In English, it means "Ariel Aluminum Alloy 9009". |
+| 6 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
+| 7 | [Big Ari](http://twitter.com/search?q=Big+Ari) | Big Ari is a nickname for the American rapper and singer Ariana Grande. It is a play on her name, with "big" referring to her fame and success. |
+| 8 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
+| 9 | [Luciano Pereyra](http://twitter.com/search?q=Luciano+Pereyra) | N/A |
+| 10 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
+| 11 | [Sol Perez](http://twitter.com/search?q=Sol+Perez) | Sol Perez is a nickname given to an Argentinian weather presenter and model. It translates to "Sun Perez" in English. |
+| 12 | [Rogel](http://twitter.com/search?q=Rogel) | N/A |
 | 13 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
-| 14 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 15 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
-| 16 | [Chocotorta](http://twitter.com/search?q=Chocotorta) | N/A |
-| 17 | [Popoggio](http://twitter.com/search?q=Popoggio) | N/A |
-| 18 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 19 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 20 | [All Star](http://twitter.com/search?q=All+Star) | "All Star" is a song by American rock band Smash Mouth, released in 1999. It is best known for its chorus, "Hey now, you're an all star, get your game on, go play". The phrase "all star" is used to describe someone who is exceptionally talented or successful in their field. |
-| 21 | [Chau Ariel](http://twitter.com/search?q=Chau+Ariel) | N/A |
-| 22 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 23 | [Alfita](http://twitter.com/search?q=Alfita) | N/A |
-| 24 | [Laucha](http://twitter.com/search?q=Laucha) | N/A |
-| 25 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 26 | [Árbol](http://twitter.com/search?q=%c3%81rbol) | N/A |
-| 27 | [Garay](http://twitter.com/search?q=Garay) | N/A |
-| 28 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
-| 29 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
-| 30 | [Salamanca](http://twitter.com/search?q=Salamanca) | N/A |
-| 31 | [#BilleteDe2000](http://twitter.com/search?q=%23BilleteDe2000) | N/A |
-| 32 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
-| 33 | [Cecilia Grierson](http://twitter.com/search?q=Cecilia+Grierson) | N/A |
-| 34 | [Sarlo](http://twitter.com/search?q=Sarlo) | N/A |
-| 35 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 36 | [Marcos al 9009](http://twitter.com/search?q=Marcos+al+9009) | N/A |
+| 14 | [Chocotorta](http://twitter.com/search?q=Chocotorta) | N/A |
+| 15 | [El 14](http://twitter.com/search?q=El+14) | N/A |
+| 16 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 17 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Popoggio](http://twitter.com/search?q=Popoggio) | N/A |
+| 20 | [Laucha](http://twitter.com/search?q=Laucha) | N/A |
+| 21 | [Alfita](http://twitter.com/search?q=Alfita) | N/A |
+| 22 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
+| 23 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 24 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 25 | [#SupremosEnElBanquillo](http://twitter.com/search?q=%23SupremosEnElBanquillo) | N/A |
+| 26 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
+| 27 | [Salamanca](http://twitter.com/search?q=Salamanca) | N/A |
+| 28 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 
 
 
