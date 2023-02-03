@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-03 16:16:50 UTC`
+📆 Last Updated: `2023-02-03 17:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#ShaheenShahAfridi](http://twitter.com/search?q=%23ShaheenShahAfridi) | N/A |
 | 4 | [#خیبرپختونخواہ_امن_مارچ](http://twitter.com/search?q=%23%d8%ae%db%8c%d8%a8%d8%b1%d9%be%d8%ae%d8%aa%d9%88%d9%86%d8%ae%d9%88%d8%a7%db%81_%d8%a7%d9%85%d9%86_%d9%85%d8%a7%d8%b1%da%86) | N/A |
 | 5 | [#پاکستان_امن_مارچ](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%a7%d9%85%d9%86_%d9%85%d8%a7%d8%b1%da%86) | N/A |
-| 6 | [Port Qasim Power Project](http://twitter.com/search?q=Port+Qasim+Power+Project) | N/A |
-| 7 | [Mr. Guo Guangling](http://twitter.com/search?q=Mr.+Guo+Guangling) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [PQEPC](http://twitter.com/search?q=PQEPC) | N/A |
-| 10 | [happy birthday bibi](http://twitter.com/search?q=happy+birthday+bibi) | N/A |
-| 11 | [power china](http://twitter.com/search?q=power+china) | N/A |
-| 12 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
+| 6 | [PQEPC](http://twitter.com/search?q=PQEPC) | N/A |
+| 7 | [CEO Port Qasim Power Project](http://twitter.com/search?q=CEO+Port+Qasim+Power+Project) | N/A |
+| 8 | [Happy Birthday Bibi](http://twitter.com/search?q=Happy+Birthday+Bibi) | N/A |
+| 9 | [Power China](http://twitter.com/search?q=Power+China) | N/A |
+| 10 | [Mr. Guo Guangling](http://twitter.com/search?q=Mr.+Guo+Guangling) | N/A |
+| 11 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 13 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 14 | [uk and pakistan](http://twitter.com/search?q=uk+and+pakistan) | N/A |
-| 15 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
+| 15 | [maria B](http://twitter.com/search?q=maria+B) | N/A |
 | 16 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 17 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
-| 18 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 19 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
+| 17 | [ASIM'S FASTEST 15M RECORD DAY](http://twitter.com/search?q=ASIM%27S+FASTEST+15M+RECORD+DAY) | N/A |
+| 18 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
+| 19 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
 | 20 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
-| 21 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 22 | [ASIM'S FASTEST 15M RECORD DAY](http://twitter.com/search?q=ASIM%27S+FASTEST+15M+RECORD+DAY) | N/A |
-| 23 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 24 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 25 | [Kaaba](http://twitter.com/search?q=Kaaba) | N/A |
-| 26 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
-| 27 | [Sahab](http://twitter.com/search?q=Sahab) | N/A |
-| 28 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 29 | [Relatable](http://twitter.com/search?q=Relatable) | N/A |
-| 30 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
-| 31 | [Haider](http://twitter.com/search?q=Haider) | N/A |
-| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 33 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 34 | [Ameer](http://twitter.com/search?q=Ameer) | N/A |
-| 35 | [Ameeeeen](http://twitter.com/search?q=Ameeeeen) | N/A |
-| 36 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 37 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 38 | [Momineen](http://twitter.com/search?q=Momineen) | N/A |
-| 39 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 40 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
-| 41 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 42 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 43 | [signal](http://twitter.com/search?q=signal) | N/A |
-| 44 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 45 | [Phir](http://twitter.com/search?q=Phir) | N/A |
-| 46 | [Rana Sanaullah](http://twitter.com/search?q=Rana+Sanaullah) | N/A |
-| 47 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 48 | [Bundle](http://twitter.com/search?q=Bundle) | N/A |
-| 49 | [MashaAllah](http://twitter.com/search?q=MashaAllah) | N/A |
-| 50 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 21 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
+| 22 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 23 | [Momineen](http://twitter.com/search?q=Momineen) | N/A |
+| 24 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
+| 25 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 26 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 27 | [Kaaba](http://twitter.com/search?q=Kaaba) | N/A |
+| 28 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 30 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 31 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 32 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 33 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 34 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 35 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
+| 36 | [Ameer](http://twitter.com/search?q=Ameer) | N/A |
+| 37 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 38 | [Bundle](http://twitter.com/search?q=Bundle) | N/A |
+| 39 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 40 | [European](http://twitter.com/search?q=European) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 42 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
+| 43 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 44 | [Bitmoji](http://twitter.com/search?q=Bitmoji) | N/A |
+| 45 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 46 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 47 | [Relatable](http://twitter.com/search?q=Relatable) | N/A |
+| 48 | [America](http://twitter.com/search?q=America) | N/A |
+| 49 | [Signal](http://twitter.com/search?q=Signal) | N/A |
+| 50 | [Ameeeeen](http://twitter.com/search?q=Ameeeeen) | N/A |
 
 
 

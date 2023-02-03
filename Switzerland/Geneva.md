@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-03 16:16:32 UTC`
+📆 Last Updated: `2023-02-03 17:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 3 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 2 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 3 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 4 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 5 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 6 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 7 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 8 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 9 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 10 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
-| 11 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 12 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
-| 13 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 14 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 15 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 16 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 17 | [America](http://twitter.com/search?q=America) | N/A |
+| 5 | [#Zurich](http://twitter.com/search?q=%23Zurich) | N/A |
+| 6 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 7 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 8 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 9 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 10 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 11 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
+| 12 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 13 | [Basel](http://twitter.com/search?q=Basel) | N/A |
+| 14 | [America](http://twitter.com/search?q=America) | N/A |
+| 15 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 16 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 17 | [Corona](http://twitter.com/search?q=Corona) | N/A |
 | 18 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 20 | [China](http://twitter.com/search?q=China) | N/A |
-| 21 | [ausbildung](http://twitter.com/search?q=ausbildung) | N/A |
-| 22 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 23 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 24 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 25 | [Exact](http://twitter.com/search?q=Exact) | N/A |
-| 26 | [Risiko](http://twitter.com/search?q=Risiko) | N/A |
-| 27 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
-| 28 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 29 | [#ForWetlands](http://twitter.com/search?q=%23ForWetlands) | N/A |
-| 30 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 19 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 20 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
+| 21 | [risiko](http://twitter.com/search?q=risiko) | N/A |
+| 22 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 23 | [China](http://twitter.com/search?q=China) | N/A |
+| 24 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 25 | [Tatsache](http://twitter.com/search?q=Tatsache) | N/A |
+| 26 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 27 | [Exact](http://twitter.com/search?q=Exact) | N/A |
+| 28 | [#ForWetlands](http://twitter.com/search?q=%23ForWetlands) | N/A |
+| 29 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 30 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
 | 31 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
-| 32 | [#MECFS](http://twitter.com/search?q=%23MECFS) | N/A |
+| 32 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
 | 33 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 34 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 35 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 36 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
-| 37 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 38 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 39 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 40 | [Tatsache](http://twitter.com/search?q=Tatsache) | N/A |
-| 41 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
-| 42 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 43 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 44 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 45 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 46 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
-| 47 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 48 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 34 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 35 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 36 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 37 | [Öffentlichkeit](http://twitter.com/search?q=%c3%96ffentlichkeit) | N/A |
+| 38 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 39 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 40 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 41 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
+| 42 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 43 | [Gespräch](http://twitter.com/search?q=Gespr%c3%a4ch) | N/A |
+| 44 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
+| 45 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 46 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 47 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 48 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 
 
 

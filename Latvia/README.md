@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-03 16:17:10 UTC`
+📆 Last Updated: `2023-02-03 17:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Latvia
 | 1 | [PMLP](http://twitter.com/search?q=PMLP) | N/A |
 | 2 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
 | 3 | [kijivā](http://twitter.com/search?q=kijiv%c4%81) | N/A |
-| 4 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
-| 5 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 6 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 9 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
-| 10 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
-| 11 | [Latvian](http://twitter.com/search?q=Latvian) | N/A |
-| 12 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 13 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 14 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
-| 15 | [Eiropas Savienības](http://twitter.com/search?q=Eiropas+Savien%c4%abbas) | N/A |
-| 16 | [Interesanti](http://twitter.com/search?q=Interesanti) | N/A |
-| 17 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 18 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 4 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 5 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
+| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 7 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
+| 8 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
+| 9 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
+| 10 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
+| 11 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
+| 12 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
+| 13 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 14 | [Problēma](http://twitter.com/search?q=Probl%c4%93ma) | N/A |
+| 15 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 16 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 17 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 18 | [Vairāk](http://twitter.com/search?q=Vair%c4%81k) | N/A |
 | 19 | [Vācijas](http://twitter.com/search?q=V%c4%81cijas) | N/A |
-| 20 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 21 | [Cerams](http://twitter.com/search?q=Cerams) | N/A |
-| 22 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
-| 23 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
-| 24 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
-| 25 | [Zinu](http://twitter.com/search?q=Zinu) | N/A |
-| 26 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
-| 27 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 28 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
-| 29 | [polijas](http://twitter.com/search?q=polijas) | N/A |
-| 30 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 31 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 32 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
-| 33 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 34 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
-| 35 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 36 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 37 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 38 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
-| 39 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 40 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
-| 41 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 42 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
+| 20 | [Zinu](http://twitter.com/search?q=Zinu) | N/A |
+| 21 | [Nopietni](http://twitter.com/search?q=Nopietni) | N/A |
+| 22 | [interesanti](http://twitter.com/search?q=interesanti) | N/A |
+| 23 | [Cerams](http://twitter.com/search?q=Cerams) | N/A |
+| 24 | [Eiropas Savienības](http://twitter.com/search?q=Eiropas+Savien%c4%abbas) | N/A |
+| 25 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
+| 26 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 27 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 28 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
+| 29 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
+| 30 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 31 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 32 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 33 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
+| 34 | [polijas](http://twitter.com/search?q=polijas) | N/A |
+| 35 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 36 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 37 | [#hkzemgale](http://twitter.com/search?q=%23hkzemgale) | N/A |
+| 38 | [Nevar](http://twitter.com/search?q=Nevar) | N/A |
+| 39 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
+| 40 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 41 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
+| 42 | [Mans](http://twitter.com/search?q=Mans) | N/A |
 | 43 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 44 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | N/A |
-| 45 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 46 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
-| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 48 | [somijas](http://twitter.com/search?q=somijas) | N/A |
-| 49 | [#HockeyTwitter](http://twitter.com/search?q=%23HockeyTwitter) | N/A |
-| 50 | [#tonsilstones](http://twitter.com/search?q=%23tonsilstones) | N/A |
+| 44 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 45 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 46 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 47 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 49 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
+| 50 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
 
 
 

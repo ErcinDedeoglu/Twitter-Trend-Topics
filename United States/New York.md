@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-03 16:17:02 UTC`
+📆 Last Updated: `2023-02-03 17:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 2 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 3 | [#GiftOfSox](http://twitter.com/search?q=%23GiftOfSox) | #GiftOfSox is a hashtag used to promote the Boston Red Sox baseball team. It is used to encourage fans to give the gift of Red Sox tickets, apparel, and other merchandise to friends and family. The hashtag is meant to emphasize the team's commitment to giving back to its fans. |
-| 4 | [China](http://twitter.com/search?q=China) | N/A |
+| 1 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 2 | [#GiftOfSox](http://twitter.com/search?q=%23GiftOfSox) | #GiftOfSox is a hashtag used to promote the Boston Red Sox baseball team. It is used to encourage fans to give the gift of Red Sox tickets, apparel, and other merchandise to friends and family. The hashtag is meant to emphasize the team's commitment to giving back to its fans. |
+| 3 | [China](http://twitter.com/search?q=China) | N/A |
+| 4 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
 | 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 7 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 8 | [#WearRedDay](http://twitter.com/search?q=%23WearRedDay) | N/A |
-| 9 | [#JobsReport](http://twitter.com/search?q=%23JobsReport) | N/A |
+| 6 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 7 | [#WearRedDay](http://twitter.com/search?q=%23WearRedDay) | N/A |
+| 8 | [#NationalWomenPhysiciansDay](http://twitter.com/search?q=%23NationalWomenPhysiciansDay) | N/A |
+| 9 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
 | 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 11 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 12 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
-| 13 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 15 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 16 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 17 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 18 | [517,000 in January](http://twitter.com/search?q=517%2c000+in+January) | N/A |
-| 19 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 20 | [Big Pimpin](http://twitter.com/search?q=Big+Pimpin) | N/A |
-| 21 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 12 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 13 | [Mrs. Worldwide](http://twitter.com/search?q=Mrs.+Worldwide) | N/A |
+| 14 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 15 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 16 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 17 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 19 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 20 | [517,000 in January](http://twitter.com/search?q=517%2c000+in+January) | N/A |
+| 21 | [Charles](http://twitter.com/search?q=Charles) | N/A |
 | 22 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 23 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 24 | [Song Cry](http://twitter.com/search?q=Song+Cry) | N/A |
-| 25 | [Mrs. Worldwide](http://twitter.com/search?q=Mrs.+Worldwide) | N/A |
-| 26 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 27 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 28 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
-| 29 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 30 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 31 | [Launcher XL](http://twitter.com/search?q=Launcher+XL) | N/A |
-| 32 | [U Don't Know](http://twitter.com/search?q=U+Don%27t+Know) | N/A |
-| 33 | [Imaginary Players](http://twitter.com/search?q=Imaginary+Players) | N/A |
-| 34 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 35 | [Buddy Holly](http://twitter.com/search?q=Buddy+Holly) | N/A |
-| 36 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
-| 37 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 38 | [Dylan Strome](http://twitter.com/search?q=Dylan+Strome) | N/A |
-| 39 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 40 | [The Big Bopper](http://twitter.com/search?q=The+Big+Bopper) | N/A |
-| 41 | [Riley Cooper](http://twitter.com/search?q=Riley+Cooper) | N/A |
-| 42 | [Given to Fly](http://twitter.com/search?q=Given+to+Fly) | N/A |
-| 43 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 44 | [517k](http://twitter.com/search?q=517k) | N/A |
-| 45 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
-| 46 | [ICBM](http://twitter.com/search?q=ICBM) | N/A |
-| 47 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 48 | [Senior Night](http://twitter.com/search?q=Senior+Night) | N/A |
-| 49 | [$AAPL](http://twitter.com/search?q=%24AAPL) | N/A |
-| 50 | [Jeff Fisher](http://twitter.com/search?q=Jeff+Fisher) | N/A |
+| 23 | [Song Cry](http://twitter.com/search?q=Song+Cry) | N/A |
+| 24 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 25 | [Big Pimpin](http://twitter.com/search?q=Big+Pimpin) | N/A |
+| 26 | [U Don't Know](http://twitter.com/search?q=U+Don%27t+Know) | N/A |
+| 27 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 28 | [Dylan Strome](http://twitter.com/search?q=Dylan+Strome) | N/A |
+| 29 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 30 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
+| 31 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
+| 32 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 33 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
+| 34 | [All Along the Watchtower](http://twitter.com/search?q=All+Along+the+Watchtower) | N/A |
+| 35 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 36 | [Face Off](http://twitter.com/search?q=Face+Off) | N/A |
+| 37 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 38 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
+| 39 | [Imaginary Players](http://twitter.com/search?q=Imaginary+Players) | N/A |
+| 40 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 41 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 42 | [Buddy Holly](http://twitter.com/search?q=Buddy+Holly) | N/A |
+| 43 | [517k](http://twitter.com/search?q=517k) | N/A |
+| 44 | [Given to Fly](http://twitter.com/search?q=Given+to+Fly) | N/A |
+| 45 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 46 | [Skol](http://twitter.com/search?q=Skol) | N/A |
+| 47 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
+| 48 | [Brian Cardinal](http://twitter.com/search?q=Brian+Cardinal) | N/A |
+| 49 | [Saturday Night Fever](http://twitter.com/search?q=Saturday+Night+Fever) | N/A |
+| 50 | [Public Service Announcement](http://twitter.com/search?q=Public+Service+Announcement) | N/A |
 
 
 

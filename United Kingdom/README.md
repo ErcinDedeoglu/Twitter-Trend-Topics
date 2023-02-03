@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-03 16:17:14 UTC`
+📆 Last Updated: `2023-02-03 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 2 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
-| 3 | [Kerby](http://twitter.com/search?q=Kerby) | N/A |
-| 4 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
+| 2 | [Kerby](http://twitter.com/search?q=Kerby) | N/A |
+| 3 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 4 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
 | 5 | [Curby](http://twitter.com/search?q=Curby) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#NSPCCNumberDay](http://twitter.com/search?q=%23NSPCCNumberDay) | N/A |
-| 8 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 9 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 10 | [#MovingAGeographicalPlace](http://twitter.com/search?q=%23MovingAGeographicalPlace) | N/A |
-| 11 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 12 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 13 | [#VibePayFriday](http://twitter.com/search?q=%23VibePayFriday) | N/A |
-| 14 | [Year 2](http://twitter.com/search?q=Year+2) | N/A |
+| 6 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
+| 7 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 8 | [#MovingAGeographicalPlace](http://twitter.com/search?q=%23MovingAGeographicalPlace) | N/A |
+| 9 | [#NumberDay](http://twitter.com/search?q=%23NumberDay) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 12 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 13 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 14 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
 | 15 | [UK Athletics](http://twitter.com/search?q=UK+Athletics) | N/A |
-| 16 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 17 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 18 | [Horner](http://twitter.com/search?q=Horner) | N/A |
-| 19 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 20 | [Welsh Government](http://twitter.com/search?q=Welsh+Government) | N/A |
-| 21 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
-| 22 | [Cabin](http://twitter.com/search?q=Cabin) | N/A |
-| 23 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 24 | [Lyanco](http://twitter.com/search?q=Lyanco) | Lyanco is a Portuguese name derived from the Latin name "Livianus", which means "belonging to the Roman family of Livius". In English, it can be translated to mean "belonging to the Livius family". |
-| 25 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
-| 26 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 27 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
-| 28 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 29 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 30 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 31 | [The Last Wish](http://twitter.com/search?q=The+Last+Wish) | N/A |
-| 32 | [Russell Martin](http://twitter.com/search?q=Russell+Martin) | N/A |
-| 33 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 34 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 35 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 36 | [National Apprenticeship Week](http://twitter.com/search?q=National+Apprenticeship+Week) | N/A |
-| 37 | [Gina Miller](http://twitter.com/search?q=Gina+Miller) | N/A |
-| 38 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 39 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
-| 40 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 41 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 42 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
-| 43 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 44 | [Raye](http://twitter.com/search?q=Raye) | N/A |
-| 45 | [National Storytelling Week](http://twitter.com/search?q=National+Storytelling+Week) | N/A |
-| 46 | [Society](http://twitter.com/search?q=Society) | N/A |
-| 47 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 48 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
-| 49 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 50 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | N/A |
+| 16 | [Year 2](http://twitter.com/search?q=Year+2) | N/A |
+| 17 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
+| 18 | [FTSE](http://twitter.com/search?q=FTSE) | N/A |
+| 19 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 20 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 21 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 22 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 23 | [Welsh Government](http://twitter.com/search?q=Welsh+Government) | N/A |
+| 24 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 25 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
+| 26 | [Haas](http://twitter.com/search?q=Haas) | Haas is a German surname derived from the Middle High German word "hals" meaning "neck". It is also a Dutch and Low German word meaning "hare". |
+| 27 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
+| 28 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 29 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 30 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 31 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 32 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 33 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 34 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 35 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 36 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
+| 37 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
+| 38 | [Society](http://twitter.com/search?q=Society) | N/A |
+| 39 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 40 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 41 | [#VibePayFriday](http://twitter.com/search?q=%23VibePayFriday) | N/A |
+| 42 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
+| 43 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 44 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 45 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 46 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | N/A |
+| 47 | [#GMMoving](http://twitter.com/search?q=%23GMMoving) | N/A |
+| 48 | [#CheFul](http://twitter.com/search?q=%23CheFul) | N/A |
+| 49 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 50 | [#Formula1](http://twitter.com/search?q=%23Formula1) | N/A |
 
 
 

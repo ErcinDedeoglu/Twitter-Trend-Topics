@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-03 16:16:19 UTC`
+📆 Last Updated: `2023-02-03 17:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,38 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [RRSS](http://twitter.com/search?q=RRSS) | N/A |
-| 2 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
-| 3 | [toha](http://twitter.com/search?q=toha) | N/A |
-| 4 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 5 | [#IncendiosForestales](http://twitter.com/search?q=%23IncendiosForestales) | N/A |
-| 6 | [Santa Juana](http://twitter.com/search?q=Santa+Juana) | N/A |
-| 7 | [Tomé](http://twitter.com/search?q=Tom%c3%a9) | N/A |
-| 8 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 9 | [Gonzalo Ramírez](http://twitter.com/search?q=Gonzalo+Ram%c3%adrez) | N/A |
-| 10 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 13 | [Estado de Catástrofe](http://twitter.com/search?q=Estado+de+Cat%c3%a1strofe) | N/A |
-| 14 | [Biobío](http://twitter.com/search?q=Biob%c3%ado) | N/A |
-| 15 | [Arturo Sanhueza](http://twitter.com/search?q=Arturo+Sanhueza) | N/A |
-| 16 | [#EstoEsAutopiZta](http://twitter.com/search?q=%23EstoEsAutopiZta) | N/A |
-| 17 | [Conaf](http://twitter.com/search?q=Conaf) | N/A |
-| 18 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 19 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
-| 20 | [#Concepción](http://twitter.com/search?q=%23Concepci%c3%b3n) | N/A |
-| 21 | [Gabriel Boric](http://twitter.com/search?q=Gabriel+Boric) | N/A |
-| 22 | [Arauco](http://twitter.com/search?q=Arauco) | N/A |
-| 23 | [Maule](http://twitter.com/search?q=Maule) | N/A |
-| 24 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
-| 25 | [Tellier](http://twitter.com/search?q=Tellier) | N/A |
-| 26 | [El PPD](http://twitter.com/search?q=El+PPD) | N/A |
-| 27 | [#boricestadestuyendochile](http://twitter.com/search?q=%23boricestadestuyendochile) | N/A |
-| 28 | [#DerechaMiserableyCorrupta](http://twitter.com/search?q=%23DerechaMiserableyCorrupta) | N/A |
-| 29 | [#Incendiochillan](http://twitter.com/search?q=%23Incendiochillan) | N/A |
-| 30 | [#GobiernoDeIncompetentes](http://twitter.com/search?q=%23GobiernoDeIncompetentes) | N/A |
-| 31 | [#GobiernoDeInutiles](http://twitter.com/search?q=%23GobiernoDeInutiles) | N/A |
-| 32 | [#RenunciaBoricCTM](http://twitter.com/search?q=%23RenunciaBoricCTM) | N/A |
+| 1 | [#IncendiosForestales](http://twitter.com/search?q=%23IncendiosForestales) | N/A |
+| 2 | [Ñuble](http://twitter.com/search?q=%c3%91uble) | N/A |
+| 3 | [Santa Juana](http://twitter.com/search?q=Santa+Juana) | N/A |
+| 4 | [Parived](http://twitter.com/search?q=Parived) | Parived is a Sanskrit word that means "to be attained" or "to be realized". It is often used in the context of spiritual enlightenment or realization. |
+| 5 | [Estado de Catástrofe](http://twitter.com/search?q=Estado+de+Cat%c3%a1strofe) | N/A |
+| 6 | [Tomé](http://twitter.com/search?q=Tom%c3%a9) | N/A |
+| 7 | [Arauco](http://twitter.com/search?q=Arauco) | N/A |
+| 8 | [#OlaDeCalor](http://twitter.com/search?q=%23OlaDeCalor) | N/A |
+| 9 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 10 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 11 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
+| 12 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [#HijosDelDesierto](http://twitter.com/search?q=%23HijosDelDesierto) | N/A |
+| 15 | [Colun](http://twitter.com/search?q=Colun) | N/A |
+| 16 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 17 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
+| 18 | [#Quillon](http://twitter.com/search?q=%23Quillon) | N/A |
+| 19 | [#lavidadenosotrasentvn](http://twitter.com/search?q=%23lavidadenosotrasentvn) | N/A |
+| 20 | [Conaf](http://twitter.com/search?q=Conaf) | N/A |
+| 21 | [Gonzalo Ramírez](http://twitter.com/search?q=Gonzalo+Ram%c3%adrez) | N/A |
+| 22 | [SENAPRED](http://twitter.com/search?q=SENAPRED) | N/A |
+| 23 | [Sanhueza](http://twitter.com/search?q=Sanhueza) | N/A |
+| 24 | [Nueva Aldea](http://twitter.com/search?q=Nueva+Aldea) | N/A |
+| 25 | [Itata](http://twitter.com/search?q=Itata) | N/A |
+| 26 | [Girardi](http://twitter.com/search?q=Girardi) | Girardi is an Italian surname. It is derived from the Latin word "girardus," which means "brave spearman." The name is most commonly associated with former New York Yankees manager Joe Girardi. |
+| 27 | [Ana Albornoz](http://twitter.com/search?q=Ana+Albornoz) | N/A |
+| 28 | [Suspendió](http://twitter.com/search?q=Suspendi%c3%b3) | N/A |
+| 29 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
+| 30 | [Supertanker](http://twitter.com/search?q=Supertanker) | N/A |
+| 31 | [El PPD](http://twitter.com/search?q=El+PPD) | N/A |
+| 32 | [Tere](http://twitter.com/search?q=Tere) | N/A |
+| 33 | [Kalule](http://twitter.com/search?q=Kalule) | N/A |
+| 34 | [Agua Amarilla](http://twitter.com/search?q=Agua+Amarilla) | N/A |
+| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 36 | [Punta Lavapie](http://twitter.com/search?q=Punta+Lavapie) | N/A |
+| 37 | [Partido Liberal](http://twitter.com/search?q=Partido+Liberal) | N/A |
+| 38 | [Concepción](http://twitter.com/search?q=Concepci%c3%b3n) | N/A |
+| 39 | [twitch chile](http://twitter.com/search?q=twitch+chile) | N/A |
+| 40 | [Alerta Roja](http://twitter.com/search?q=Alerta+Roja) | N/A |
+| 41 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 42 | [Villa Doña Francisca](http://twitter.com/search?q=Villa+Do%c3%b1a+Francisca) | N/A |
+| 43 | [Lota](http://twitter.com/search?q=Lota) | N/A |
+| 44 | [Mientras Chile](http://twitter.com/search?q=Mientras+Chile) | N/A |
+| 45 | [Valentín Trujillo](http://twitter.com/search?q=Valent%c3%adn+Trujillo) | N/A |
+| 46 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 47 | [Rey Arturo](http://twitter.com/search?q=Rey+Arturo) | N/A |
+| 48 | [Guillermo Teillier](http://twitter.com/search?q=Guillermo+Teillier) | N/A |
+| 49 | [Barti](http://twitter.com/search?q=Barti) | N/A |
+| 50 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
 
 
 
