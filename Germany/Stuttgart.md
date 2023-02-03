@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-03 08:16:35 UTC`
+📆 Last Updated: `2023-02-03 09:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 2 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 3 | [#Faeser](http://twitter.com/search?q=%23Faeser) | N/A |
+| 2 | [#Faeser](http://twitter.com/search?q=%23Faeser) | N/A |
+| 3 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
 | 4 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 5 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 6 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 5 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 7 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 8 | [Schwebe](http://twitter.com/search?q=Schwebe) | N/A |
-| 9 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
-| 10 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 11 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
-| 12 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 13 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 14 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 15 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 16 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 9 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
+| 10 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
+| 11 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
+| 12 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 13 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 14 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 15 | [Guten Morgen Dietmar](http://twitter.com/search?q=Guten+Morgen+Dietmar) | N/A |
+| 16 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 17 | [#Stalingrad](http://twitter.com/search?q=%23Stalingrad) | N/A |
-| 18 | [Bildungsnotstand](http://twitter.com/search?q=Bildungsnotstand) | N/A |
-| 19 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 20 | [Filz](http://twitter.com/search?q=Filz) | N/A |
-| 21 | [Start in den Freitag](http://twitter.com/search?q=Start+in+den+Freitag) | N/A |
-| 22 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 23 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 24 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 25 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 26 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 27 | [Guten Morgen Paul](http://twitter.com/search?q=Guten+Morgen+Paul) | N/A |
-| 28 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 29 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
-| 30 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 31 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
-| 32 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 33 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 34 | [Ministerpräsidentin](http://twitter.com/search?q=Ministerpr%c3%a4sidentin) | N/A |
-| 35 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
-| 36 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 37 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 38 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 39 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
-| 40 | [Hannelore](http://twitter.com/search?q=Hannelore) | N/A |
-| 41 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
-| 42 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 43 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 44 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 45 | [Paolo Pinkel](http://twitter.com/search?q=Paolo+Pinkel) | N/A |
-| 46 | [Praktikum](http://twitter.com/search?q=Praktikum) | N/A |
-| 47 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 48 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
-| 49 | [Flug](http://twitter.com/search?q=Flug) | N/A |
+| 18 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 19 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
+| 20 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 21 | [Bildungsnotstand](http://twitter.com/search?q=Bildungsnotstand) | N/A |
+| 22 | [Filz](http://twitter.com/search?q=Filz) | N/A |
+| 23 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 24 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 25 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
+| 26 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
+| 27 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 28 | [Guten Morgen Jan](http://twitter.com/search?q=Guten+Morgen+Jan) | N/A |
+| 29 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
+| 30 | [Ministerpräsidentin](http://twitter.com/search?q=Ministerpr%c3%a4sidentin) | N/A |
+| 31 | [Groninger](http://twitter.com/search?q=Groninger) | N/A |
+| 32 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 33 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 34 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
+| 35 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
+| 36 | [Guten Morgen Petra](http://twitter.com/search?q=Guten+Morgen+Petra) | N/A |
+| 37 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 38 | [Paolo Pinkel](http://twitter.com/search?q=Paolo+Pinkel) | N/A |
+| 39 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 40 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 41 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
+| 42 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
+| 43 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 44 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 45 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 46 | [Grupp](http://twitter.com/search?q=Grupp) | N/A |
+| 47 | [Gysi](http://twitter.com/search?q=Gysi) | N/A |
+| 48 | [Federn](http://twitter.com/search?q=Federn) | N/A |
+| 49 | [Transmenschen](http://twitter.com/search?q=Transmenschen) | N/A |
 
 
 

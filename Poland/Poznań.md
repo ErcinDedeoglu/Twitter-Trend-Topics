@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-03 08:16:31 UTC`
+📆 Last Updated: `2023-02-03 09:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
 | 2 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 3 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 4 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 5 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 6 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
-| 7 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 8 | [#minęła8](http://twitter.com/search?q=%23min%c4%99%c5%82a8) | N/A |
-| 9 | [#BlackLies](http://twitter.com/search?q=%23BlackLies) | N/A |
-| 10 | [Piątek](http://twitter.com/search?q=Pi%c4%85tek) | N/A |
+| 3 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 4 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 5 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 6 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
+| 7 | [#minęła8](http://twitter.com/search?q=%23min%c4%99%c5%82a8) | N/A |
+| 8 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 9 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
+| 10 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
 | 11 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 12 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
-| 13 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 14 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 15 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 16 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 17 | [Kanady](http://twitter.com/search?q=Kanady) | N/A |
-| 18 | [bednarek](http://twitter.com/search?q=bednarek) | N/A |
-| 19 | [Wilczur](http://twitter.com/search?q=Wilczur) | N/A |
-| 20 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 21 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 22 | [Jezus Chrystus](http://twitter.com/search?q=Jezus+Chrystus) | N/A |
-| 23 | [Normalny](http://twitter.com/search?q=Normalny) | N/A |
-| 24 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 25 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 26 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 27 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 28 | [Beverly](http://twitter.com/search?q=Beverly) | N/A |
-| 29 | [Kacper Tomasiak](http://twitter.com/search?q=Kacper+Tomasiak) | N/A |
-| 30 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 31 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
-| 32 | [Łyżwy](http://twitter.com/search?q=%c5%81y%c5%bcwy) | N/A |
-| 33 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 34 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
-| 35 | [Jan Habdas](http://twitter.com/search?q=Jan+Habdas) | N/A |
-| 36 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
-| 37 | [Podróże](http://twitter.com/search?q=Podr%c3%b3%c5%bce) | N/A |
+| 12 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 13 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 14 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 15 | [Unii Europejskiej](http://twitter.com/search?q=Unii+Europejskiej) | N/A |
+| 16 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 17 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 18 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 19 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 20 | [Wilczur](http://twitter.com/search?q=Wilczur) | N/A |
+| 21 | [Jezus Chrystus](http://twitter.com/search?q=Jezus+Chrystus) | N/A |
+| 22 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 23 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 24 | [Piątek](http://twitter.com/search?q=Pi%c4%85tek) | N/A |
+| 25 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 26 | [Beverly](http://twitter.com/search?q=Beverly) | N/A |
+| 27 | [Iwonko](http://twitter.com/search?q=Iwonko) | N/A |
+| 28 | [Kacper Tomasiak](http://twitter.com/search?q=Kacper+Tomasiak) | N/A |
+| 29 | [Greenwooda](http://twitter.com/search?q=Greenwooda) | N/A |
+| 30 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
+| 31 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
+| 32 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 33 | [Normalny](http://twitter.com/search?q=Normalny) | N/A |
+| 34 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 35 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
+| 36 | [Jan Habdas](http://twitter.com/search?q=Jan+Habdas) | N/A |
+| 37 | [Łyżwy](http://twitter.com/search?q=%c5%81y%c5%bcwy) | N/A |
 | 38 | [ceballosa](http://twitter.com/search?q=ceballosa) | N/A |
-| 39 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
-| 40 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 41 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 42 | [Agnieszko](http://twitter.com/search?q=Agnieszko) | N/A |
-| 43 | [Kochani](http://twitter.com/search?q=Kochani) | N/A |
-| 44 | [Kowal](http://twitter.com/search?q=Kowal) | N/A |
-| 45 | ["Agrounia"](http://twitter.com/search?q=%22Agrounia%22) | N/A |
-| 46 | [Spokojnego](http://twitter.com/search?q=Spokojnego) | N/A |
-| 47 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 48 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 49 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 50 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 39 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 40 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
+| 41 | [Kochani](http://twitter.com/search?q=Kochani) | N/A |
+| 42 | [Kowal](http://twitter.com/search?q=Kowal) | N/A |
+| 43 | [Spokojnego](http://twitter.com/search?q=Spokojnego) | N/A |
+| 44 | [AgroUnia](http://twitter.com/search?q=AgroUnia) | N/A |
+| 45 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
+| 46 | [Dulkiewicz](http://twitter.com/search?q=Dulkiewicz) | N/A |
+| 47 | [Podróże](http://twitter.com/search?q=Podr%c3%b3%c5%bce) | N/A |
+| 48 | [Polskę](http://twitter.com/search?q=Polsk%c4%99) | N/A |
+| 49 | [To Pan](http://twitter.com/search?q=To+Pan) | N/A |
+| 50 | [Zazdro](http://twitter.com/search?q=Zazdro) | N/A |
 
 
 

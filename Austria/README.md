@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-03 08:17:05 UTC`
+📆 Last Updated: `2023-02-03 09:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Austria
 | 1 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
 | 2 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
 | 3 | [Wien](http://twitter.com/search?q=Wien) | N/A |
-| 4 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 5 | [Linz](http://twitter.com/search?q=Linz) | N/A |
-| 6 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 7 | [Katze](http://twitter.com/search?q=Katze) | N/A |
-| 8 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 9 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 10 | [#Starbirth](http://twitter.com/search?q=%23Starbirth) | N/A |
-| 11 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
-| 12 | [Sager](http://twitter.com/search?q=Sager) | N/A |
+| 4 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 5 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 6 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 7 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 8 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 9 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
+| 10 | [Sager](http://twitter.com/search?q=Sager) | N/A |
+| 11 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 12 | [Freude](http://twitter.com/search?q=Freude) | N/A |
 | 13 | [Schülerinnen](http://twitter.com/search?q=Sch%c3%bclerinnen) | N/A |
-| 14 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 15 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
-| 16 | [Inhalt](http://twitter.com/search?q=Inhalt) | N/A |
-| 17 | [SOS Mitmensch](http://twitter.com/search?q=SOS+Mitmensch) | N/A |
-| 18 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 19 | [#steiermark](http://twitter.com/search?q=%23steiermark) | N/A |
-| 20 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
-| 21 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
-| 22 | [#Klimakatastrophe](http://twitter.com/search?q=%23Klimakatastrophe) | N/A |
-| 23 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
-| 24 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
-| 25 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 26 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 27 | [Strecke](http://twitter.com/search?q=Strecke) | N/A |
-| 28 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
-| 29 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 30 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 31 | [Heuchler](http://twitter.com/search?q=Heuchler) | N/A |
-| 32 | [Jänner](http://twitter.com/search?q=J%c3%a4nner) | N/A |
-| 33 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 34 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
-| 35 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 36 | [Freude](http://twitter.com/search?q=Freude) | N/A |
-| 37 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 38 | [Landesrat](http://twitter.com/search?q=Landesrat) | N/A |
-| 39 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
-| 40 | [#zib1](http://twitter.com/search?q=%23zib1) | N/A |
-| 41 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 42 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 43 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 14 | [#Starbirth](http://twitter.com/search?q=%23Starbirth) | N/A |
+| 15 | [SOS Mitmensch](http://twitter.com/search?q=SOS+Mitmensch) | N/A |
+| 16 | [Masken](http://twitter.com/search?q=Masken) | N/A |
+| 17 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 18 | [Achso](http://twitter.com/search?q=Achso) | N/A |
+| 19 | [Inhalt](http://twitter.com/search?q=Inhalt) | N/A |
+| 20 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 21 | [Heuchler](http://twitter.com/search?q=Heuchler) | N/A |
+| 22 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
+| 23 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 24 | [Strecke](http://twitter.com/search?q=Strecke) | N/A |
+| 25 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
+| 26 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 27 | [Jänner](http://twitter.com/search?q=J%c3%a4nner) | N/A |
+| 28 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
+| 29 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
+| 30 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 31 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
+| 32 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 33 | [Landesrat](http://twitter.com/search?q=Landesrat) | N/A |
+| 34 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 35 | [Regime](http://twitter.com/search?q=Regime) | N/A |
+| 36 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
+| 37 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 38 | [Motivation](http://twitter.com/search?q=Motivation) | N/A |
+| 39 | [#zib1](http://twitter.com/search?q=%23zib1) | N/A |
+| 40 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 41 | [#WildUmstritten](http://twitter.com/search?q=%23WildUmstritten) | N/A |
+| 42 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
+| 43 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
 | 44 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 45 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 46 | [Lied](http://twitter.com/search?q=Lied) | N/A |
-| 47 | [Wein](http://twitter.com/search?q=Wein) | N/A |
-| 48 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
-| 49 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 50 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 45 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 46 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 47 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 48 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
+| 49 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 50 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 
 
 

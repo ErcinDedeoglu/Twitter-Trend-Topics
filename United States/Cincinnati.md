@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-02-03 08:16:58 UTC`
+📆 Last Updated: `2023-02-03 09:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cedi](http://twitter.com/search?q=Cedi) | N/A |
-| 2 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 3 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 6 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 7 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 8 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 9 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 10 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
-| 11 | [#undertheweather](http://twitter.com/search?q=%23undertheweather) | N/A |
-| 12 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 13 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 1 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 4 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 5 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 6 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 7 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
+| 8 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 9 | [#undertheweather](http://twitter.com/search?q=%23undertheweather) | N/A |
+| 10 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 11 | [#Wordle594](http://twitter.com/search?q=%23Wordle594) | N/A |
+| 12 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 13 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
 | 14 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 15 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 16 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | N/A |
-| 17 | [#FearTheDeer](http://twitter.com/search?q=%23FearTheDeer) | N/A |
-| 18 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 19 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 20 | [#Wordle594](http://twitter.com/search?q=%23Wordle594) | N/A |
-| 21 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
-| 22 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
+| 15 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 16 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 17 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
+| 18 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | N/A |
+| 19 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 20 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 21 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
+| 22 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
 | 23 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 24 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
-| 25 | [Wes Matthews](http://twitter.com/search?q=Wes+Matthews) | N/A |
-| 26 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 27 | [Skinamarink](http://twitter.com/search?q=Skinamarink) | N/A |
-| 28 | [Azuolas Tubelis](http://twitter.com/search?q=Azuolas+Tubelis) | N/A |
-| 29 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 30 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 31 | [Vicks](http://twitter.com/search?q=Vicks) | N/A |
-| 32 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 33 | [Wesley Matthews](http://twitter.com/search?q=Wesley+Matthews) | N/A |
-| 34 | [All-Star](http://twitter.com/search?q=All-Star) | All-Star is an adjective used to describe someone or something that is considered to be the best of the best. It is often used to refer to athletes, celebrities, or other people who have achieved a high level of success in their field. It can also be used to describe products or services that are considered to be the best in their category. |
-| 35 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 36 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
-| 37 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
+| 24 | [Vicks](http://twitter.com/search?q=Vicks) | N/A |
+| 25 | [Skinamarink](http://twitter.com/search?q=Skinamarink) | N/A |
+| 26 | [Azuolas Tubelis](http://twitter.com/search?q=Azuolas+Tubelis) | N/A |
+| 27 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 28 | [Maki](http://twitter.com/search?q=Maki) | N/A |
+| 29 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 30 | [Wesley Matthews](http://twitter.com/search?q=Wesley+Matthews) | N/A |
+| 31 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 32 | [Wes Matthews](http://twitter.com/search?q=Wes+Matthews) | N/A |
+| 33 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
+| 34 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
+| 35 | [All Star](http://twitter.com/search?q=All+Star) | "All Star" is a song by American rock band Smash Mouth, released in 1999. It is best known for its chorus, "Hey now, you're an all star, get your game on, go play". The phrase "all star" is used to describe someone who is exceptionally talented or successful in their field. |
+| 36 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 37 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 38 | [Raye](http://twitter.com/search?q=Raye) | N/A |
-| 39 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 40 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 41 | [Khris](http://twitter.com/search?q=Khris) | N/A |
-| 42 | [Maki](http://twitter.com/search?q=Maki) | N/A |
-| 43 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
-| 44 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 45 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 39 | [ICBM](http://twitter.com/search?q=ICBM) | N/A |
+| 40 | [Corpse](http://twitter.com/search?q=Corpse) | N/A |
+| 41 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 42 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 43 | [Brian Dawkins](http://twitter.com/search?q=Brian+Dawkins) | N/A |
+| 44 | [Khris](http://twitter.com/search?q=Khris) | N/A |
+| 45 | [Knockout City](http://twitter.com/search?q=Knockout+City) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-02-03 08:17:12 UTC`
+📆 Last Updated: `2023-02-03 09:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 6 | [#ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | #ليله_صوت_الارض is an Arabic hashtag that translates to "The Night of the Earth's Voice". It is used to promote environmental awareness and activism. |
 | 7 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
 | 8 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 9 | [فهد الحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | فهد الحمد is an Arabic name, which translates to "Fahd Al-Hamd" in English. It is composed of two parts: Fahd, which means "lion" and Al-Hamd, which means "praise". |
+| 9 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
 | 10 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 11 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
-| 12 | [الحنفوش](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%86%d9%81%d9%88%d8%b4) | الحنفوش is an Arabic word that means "the wisecracker". It is used to describe someone who makes jokes or sarcastic remarks. |
-| 13 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 14 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 15 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 16 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 17 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 18 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 19 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 20 | [زياد الجهني](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a) | N/A |
-| 21 | [ابو احمد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
-| 22 | [حصه السيف](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d9%81) | N/A |
-| 23 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 24 | [المناسبات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 25 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 11 | [فهد الحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | فهد الحمد is an Arabic name, which translates to "Fahd Al-Hamd" in English. It is composed of two parts: Fahd, which means "lion" and Al-Hamd, which means "praise". |
+| 12 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 13 | [الحنفوش](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%86%d9%81%d9%88%d8%b4) | الحنفوش is an Arabic word that means "the wisecracker". It is used to describe someone who makes jokes or sarcastic remarks. |
+| 14 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 15 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 16 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 17 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 18 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 19 | [ابو احمد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 20 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 21 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 22 | [زياد الجهني](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a) | N/A |
+| 23 | [حصه السيف](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d9%81) | N/A |
+| 24 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 25 | [المناسبات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
 | 26 | [موسي نضاو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%86%d8%b6%d8%a7%d9%88) | N/A |
-| 27 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 27 | [قول باستوس](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a8%d8%a7%d8%b3%d8%aa%d9%88%d8%b3) | N/A |
 | 28 | [عثمان باتو](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d8%a7%d8%aa%d9%88) | N/A |
-| 29 | [قول باستوس](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a8%d8%a7%d8%b3%d8%aa%d9%88%d8%b3) | N/A |
-| 30 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 31 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 32 | [فهد حمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%ad%d9%85%d8%af) | N/A |
-| 33 | [الحبيب الزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b2%d9%8a%d9%86) | N/A |
+| 29 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 30 | [الحبيب الزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b2%d9%8a%d9%86) | N/A |
+| 31 | [فهد حمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%ad%d9%85%d8%af) | N/A |
+| 32 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 33 | [نعيم دايم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
 | 34 | [يرجي الاتصال](http://twitter.com/search?q=%d9%8a%d8%b1%d8%ac%d9%8a+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84) | N/A |
-| 35 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 36 | [عبدالباسط](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7) | N/A |
-| 37 | [الهدف الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 38 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
-| 39 | [علي غيث القلوب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ba%d9%8a%d8%ab+%d8%a7%d9%84%d9%82%d9%84%d9%88%d8%a8) | N/A |
-| 40 | [لبس الجميل](http://twitter.com/search?q=%d9%84%d8%a8%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 41 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 42 | [فرانك كوم](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83+%d9%83%d9%88%d9%85) | N/A |
-| 43 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 44 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 45 | [الدور الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 46 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 47 | [عبادي الجوهر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1) | "عبادي الجوهر" is an Arabic phrase that translates to "My Beloved Gem". It is a term of endearment used to express love and admiration for someone. |
-| 48 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 35 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 36 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 37 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 38 | [الهدف الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 39 | [عبدالباسط](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7) | N/A |
+| 40 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
+| 41 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 42 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 43 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | N/A |
+| 44 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
+| 45 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
+| 46 | [فرانك كوم](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83+%d9%83%d9%88%d9%85) | N/A |
+| 47 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 48 | [لبس الجميل](http://twitter.com/search?q=%d9%84%d8%a8%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
 | 49 | [علي الرسول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%84) | N/A |
-| 50 | [مابين طرفه عين](http://twitter.com/search?q=%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 50 | [الدور الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 
 
 

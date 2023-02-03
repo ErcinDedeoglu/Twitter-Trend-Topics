@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-02-03 08:16:25 UTC`
+📆 Last Updated: `2023-02-03 09:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Mexico](</Mexico>)
 | 4 | [#tamales](http://twitter.com/search?q=%23tamales) | N/A |
 | 5 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
 | 6 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 7 | [DIFERENTE OUT NOW](http://twitter.com/search?q=DIFERENTE+OUT+NOW) | N/A |
-| 8 | [Gerardo Islas](http://twitter.com/search?q=Gerardo+Islas) | N/A |
-| 9 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
-| 10 | [Arce](http://twitter.com/search?q=Arce) | N/A |
-| 11 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 12 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 13 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 14 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 15 | [EUNCHAE MUSIC BANK MC](http://twitter.com/search?q=EUNCHAE+MUSIC+BANK+MC) | N/A |
-| 16 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 17 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 18 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 19 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
-| 20 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 21 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
-| 22 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 23 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 7 | [Gerardo Islas](http://twitter.com/search?q=Gerardo+Islas) | N/A |
+| 8 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
+| 9 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 10 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 11 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 12 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 13 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 14 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
+| 15 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 16 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
+| 17 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 18 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 19 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 20 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
+| 21 | [DIFERENTE OUT NOW](http://twitter.com/search?q=DIFERENTE+OUT+NOW) | N/A |
+| 22 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 24 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
-| 27 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 25 | [ausencio cruz](http://twitter.com/search?q=ausencio+cruz) | N/A |
+| 26 | [ReadyToBe Worldwide PreOrder](http://twitter.com/search?q=ReadyToBe+Worldwide+PreOrder) | N/A |
+| 27 | [Colegio Rébsamen](http://twitter.com/search?q=Colegio+R%c3%a9bsamen) | N/A |
 | 28 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
-| 29 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
-| 30 | [ReadyToBe Worldwide PreOrder](http://twitter.com/search?q=ReadyToBe+Worldwide+PreOrder) | N/A |
-| 31 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 32 | [Colegio Rébsamen](http://twitter.com/search?q=Colegio+R%c3%a9bsamen) | N/A |
-| 33 | [Güemez](http://twitter.com/search?q=G%c3%bcemez) | N/A |
-| 34 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
-| 35 | [Chucho Salinas](http://twitter.com/search?q=Chucho+Salinas) | N/A |
-| 36 | [Sherlyn](http://twitter.com/search?q=Sherlyn) | N/A |
-| 37 | [Velvet](http://twitter.com/search?q=Velvet) | N/A |
-| 38 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 39 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
-| 40 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
-| 41 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
-| 42 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 43 | [Victor Trujillo](http://twitter.com/search?q=Victor+Trujillo) | N/A |
-| 44 | [Plan Sonora](http://twitter.com/search?q=Plan+Sonora) | N/A |
-| 45 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 46 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 47 | [Cardozo](http://twitter.com/search?q=Cardozo) | N/A |
-| 48 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
+| 29 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 30 | [Güemez](http://twitter.com/search?q=G%c3%bcemez) | N/A |
+| 31 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
+| 32 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 33 | [Sherlyn](http://twitter.com/search?q=Sherlyn) | N/A |
+| 34 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
+| 35 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
+| 36 | [Velvet](http://twitter.com/search?q=Velvet) | N/A |
+| 37 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
+| 38 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 39 | [EUNCHAE MUSIC BANK MC](http://twitter.com/search?q=EUNCHAE+MUSIC+BANK+MC) | N/A |
+| 40 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 41 | [Victor Trujillo](http://twitter.com/search?q=Victor+Trujillo) | N/A |
+| 42 | [Plan Sonora](http://twitter.com/search?q=Plan+Sonora) | N/A |
+| 43 | [Chucho Salinas](http://twitter.com/search?q=Chucho+Salinas) | N/A |
+| 44 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
+| 45 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
+| 46 | [excelente jueves](http://twitter.com/search?q=excelente+jueves) | N/A |
+| 47 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 48 | [Paco Gabriel](http://twitter.com/search?q=Paco+Gabriel) | N/A |
 
 
 

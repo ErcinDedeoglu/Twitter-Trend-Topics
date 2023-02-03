@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-03 08:17:07 UTC`
+📆 Last Updated: `2023-02-03 09:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,21 +21,21 @@ This is top 50 for Guatemala
 | 4 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
 | 5 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 6 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
-| 7 | [#YoQuieroLaPlayera](http://twitter.com/search?q=%23YoQuieroLaPlayera) | N/A |
+| 7 | [#yoquierolaplayera](http://twitter.com/search?q=%23yoquierolaplayera) | N/A |
 | 8 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 10 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
-| 11 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 12 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
-| 13 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 14 | [#sismogt](http://twitter.com/search?q=%23sismogt) | N/A |
-| 15 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
-| 16 | [Café Tacvba](http://twitter.com/search?q=Caf%c3%a9+Tacvba) | N/A |
-| 17 | [bryan lemus](http://twitter.com/search?q=bryan+lemus) | N/A |
-| 18 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
+| 9 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
+| 10 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 11 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 12 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 13 | [Café Tacvba](http://twitter.com/search?q=Caf%c3%a9+Tacvba) | N/A |
+| 14 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
+| 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 16 | [bryan lemus](http://twitter.com/search?q=bryan+lemus) | N/A |
+| 17 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
+| 18 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
 | 19 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 20 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 21 | [LONDOÑO](http://twitter.com/search?q=LONDO%c3%91O) | N/A |
+| 21 | [londoño](http://twitter.com/search?q=londo%c3%b1o) | N/A |
 | 22 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
 | 23 | [charles fernández](http://twitter.com/search?q=charles+fern%c3%a1ndez) | N/A |
 | 24 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
@@ -51,8 +51,8 @@ This is top 50 for Guatemala
 | 34 | [méxico y república dominicana](http://twitter.com/search?q=m%c3%a9xico+y+rep%c3%bablica+dominicana) | N/A |
 | 35 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
 | 36 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 37 | [Baldizon](http://twitter.com/search?q=Baldizon) | N/A |
-| 38 | [Deportivo Achuapa](http://twitter.com/search?q=Deportivo+Achuapa) | N/A |
+| 37 | [baldizon](http://twitter.com/search?q=baldizon) | N/A |
+| 38 | [deportivo achuapa](http://twitter.com/search?q=deportivo+achuapa) | N/A |
 | 39 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
 | 40 | [Army](http://twitter.com/search?q=Army) | N/A |
 | 41 | [Registro de Ciudadanos](http://twitter.com/search?q=Registro+de+Ciudadanos) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Guatemala
 | 43 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
 | 44 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
 | 45 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 46 | [Mariscal Zavala](http://twitter.com/search?q=Mariscal+Zavala) | N/A |
+| 46 | [mariscal zavala](http://twitter.com/search?q=mariscal+zavala) | N/A |
 | 47 | [Alvarito](http://twitter.com/search?q=Alvarito) | N/A |
 | 48 | [jaime viñals](http://twitter.com/search?q=jaime+vi%c3%b1als) | N/A |
 | 49 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 50 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 50 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | N/A |
 
 
 

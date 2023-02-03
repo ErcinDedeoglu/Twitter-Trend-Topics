@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-02-03 08:16:21 UTC`
+📆 Last Updated: `2023-02-03 09:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 2 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 6 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 7 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 8 | [Shazia](http://twitter.com/search?q=Shazia) | Shazia is a female given name of Arabic origin, meaning "brilliant". |
-| 9 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
-| 10 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
-| 11 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 12 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
-| 13 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
+| 1 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 2 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 3 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 4 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 5 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 6 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 7 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 8 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 9 | [British Gas](http://twitter.com/search?q=British+Gas) | N/A |
+| 10 | [Shazia](http://twitter.com/search?q=Shazia) | Shazia is a female given name of Arabic origin, meaning "brilliant". |
+| 11 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
+| 12 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 13 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
 | 14 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 15 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
-| 16 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 17 | [Kell](http://twitter.com/search?q=Kell) | N/A |
-| 18 | [Friyay](http://twitter.com/search?q=Friyay) | N/A |
+| 15 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
+| 16 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
+| 17 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
+| 18 | [Kell](http://twitter.com/search?q=Kell) | N/A |
 | 19 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 20 | [Zip Zap](http://twitter.com/search?q=Zip+Zap) | Zip Zap is an expression used to describe a quick, energetic movement or action. It can also be used to express excitement or enthusiasm. In other words, it is a way of expressing that something happened quickly and with energy. |
-| 21 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
+| 20 | [Ella Whelan](http://twitter.com/search?q=Ella+Whelan) | N/A |
+| 21 | [Friyay](http://twitter.com/search?q=Friyay) | N/A |
 | 22 | [Bank of England](http://twitter.com/search?q=Bank+of+England) | N/A |
-| 23 | [Ella Whelan](http://twitter.com/search?q=Ella+Whelan) | N/A |
-| 24 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 25 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
-| 26 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
-| 27 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
-| 28 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 29 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 30 | [Casey](http://twitter.com/search?q=Casey) | N/A |
-| 31 | [Greed](http://twitter.com/search?q=Greed) | N/A |
-| 32 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 33 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 34 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 23 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
+| 24 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
+| 25 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
+| 26 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 27 | [Zip Zap](http://twitter.com/search?q=Zip+Zap) | Zip Zap is an expression used to describe a quick, energetic movement or action. It can also be used to express excitement or enthusiasm. In other words, it is a way of expressing that something happened quickly and with energy. |
+| 28 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 29 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 30 | [The CPS](http://twitter.com/search?q=The+CPS) | N/A |
+| 31 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 32 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 33 | [Greed](http://twitter.com/search?q=Greed) | N/A |
+| 34 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
 | 35 | [Cliff](http://twitter.com/search?q=Cliff) | N/A |
-| 36 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 36 | [St Blaise](http://twitter.com/search?q=St+Blaise) | N/A |
 | 37 | [Kai and Olivia](http://twitter.com/search?q=Kai+and+Olivia) | N/A |
-| 38 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 39 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 40 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
-| 41 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 42 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
-| 43 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 44 | [Ched Evans](http://twitter.com/search?q=Ched+Evans) | N/A |
-| 45 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
-| 46 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 47 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 48 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 49 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 38 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 39 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 40 | [Casey](http://twitter.com/search?q=Casey) | N/A |
+| 41 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 42 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
+| 43 | [Ched Evans](http://twitter.com/search?q=Ched+Evans) | N/A |
+| 44 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
+| 45 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 46 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 47 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 48 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 49 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
 
 
 

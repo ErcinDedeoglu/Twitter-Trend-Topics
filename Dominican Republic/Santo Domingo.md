@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-03 08:16:23 UTC`
+📆 Last Updated: `2023-02-03 09:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 3 | [Offerman](http://twitter.com/search?q=Offerman) | N/A |
 | 4 | [Osiris](http://twitter.com/search?q=Osiris) | N/A |
 | 5 | [Brea Frank](http://twitter.com/search?q=Brea+Frank) | N/A |
-| 6 | [Bonifacio](http://twitter.com/search?q=Bonifacio) | N/A |
+| 6 | [bonifacio](http://twitter.com/search?q=bonifacio) | N/A |
 | 7 | [Raúl Valdés](http://twitter.com/search?q=Ra%c3%bal+Vald%c3%a9s) | N/A |
 | 8 | [jairo asencio](http://twitter.com/search?q=jairo+asencio) | N/A |
 | 9 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
@@ -29,14 +29,14 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 12 | [digital 15](http://twitter.com/search?q=digital+15) | N/A |
 | 13 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 14 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 15 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 15 | [presidente](http://twitter.com/search?q=presidente) | N/A |
 | 16 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
 | 17 | [UASD](http://twitter.com/search?q=UASD) | N/A |
 | 18 | [san pedro de macorís](http://twitter.com/search?q=san+pedro+de+macor%c3%ads) | N/A |
 | 19 | [Octavio](http://twitter.com/search?q=Octavio) | N/A |
 | 20 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 21 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
-| 22 | [Rita Indiana](http://twitter.com/search?q=Rita+Indiana) | N/A |
+| 22 | [rita indiana](http://twitter.com/search?q=rita+indiana) | N/A |
 | 23 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
 | 24 | [caamaño](http://twitter.com/search?q=caama%c3%b1o) | N/A |
 | 25 | [fideicomiso público](http://twitter.com/search?q=fideicomiso+p%c3%bablico) | N/A |
@@ -50,11 +50,11 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 33 | [peravia](http://twitter.com/search?q=peravia) | N/A |
 | 34 | [#JusticeForBuildJakapan](http://twitter.com/search?q=%23JusticeForBuildJakapan) | N/A |
 | 35 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 36 | [#platanopower](http://twitter.com/search?q=%23platanopower) | N/A |
+| 36 | [#PlatanoPower](http://twitter.com/search?q=%23PlatanoPower) | N/A |
 | 37 | [Profesor](http://twitter.com/search?q=Profesor) | N/A |
 | 38 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
 | 39 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 40 | [Abogado](http://twitter.com/search?q=Abogado) | N/A |
+| 40 | [abogado](http://twitter.com/search?q=abogado) | N/A |
 | 41 | [Paliza](http://twitter.com/search?q=Paliza) | N/A |
 | 42 | [Suiza](http://twitter.com/search?q=Suiza) | N/A |
 | 43 | [el seibo y duarte](http://twitter.com/search?q=el+seibo+y+duarte) | N/A |

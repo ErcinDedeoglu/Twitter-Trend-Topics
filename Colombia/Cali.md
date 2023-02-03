@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-03 08:16:27 UTC`
+📆 Last Updated: `2023-02-03 09:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,26 +31,26 @@ This is top 50 for [Colombia](</Colombia>)
 | 14 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
 | 15 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 16 | [Chantaje](http://twitter.com/search?q=Chantaje) | N/A |
-| 17 | [Cambiando](http://twitter.com/search?q=Cambiando) | N/A |
-| 18 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 19 | [Liendra](http://twitter.com/search?q=Liendra) | N/A |
+| 17 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 18 | [Liendra](http://twitter.com/search?q=Liendra) | N/A |
+| 19 | [Cambiando](http://twitter.com/search?q=Cambiando) | N/A |
 | 20 | [Encuesta](http://twitter.com/search?q=Encuesta) | N/A |
 | 21 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
 | 22 | [Niko Arredondo](http://twitter.com/search?q=Niko+Arredondo) | N/A |
 | 23 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
 | 24 | [Camilo Triana](http://twitter.com/search?q=Camilo+Triana) | N/A |
 | 25 | [extorsión](http://twitter.com/search?q=extorsi%c3%b3n) | N/A |
-| 26 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
-| 27 | [EPSs](http://twitter.com/search?q=EPSs) | N/A |
+| 26 | [EPSs](http://twitter.com/search?q=EPSs) | N/A |
+| 27 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
 | 28 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
-| 29 | [EPS e IPS](http://twitter.com/search?q=EPS+e+IPS) | N/A |
-| 30 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 31 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 32 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 33 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 34 | [Twitch Colombia](http://twitter.com/search?q=Twitch+Colombia) | N/A |
+| 29 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 30 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 31 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 32 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 33 | [Twitch Colombia](http://twitter.com/search?q=Twitch+Colombia) | N/A |
+| 34 | [EPS e IPS](http://twitter.com/search?q=EPS+e+IPS) | N/A |
 | 35 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 36 | [Suero](http://twitter.com/search?q=Suero) | N/A |
+| 36 | [suero](http://twitter.com/search?q=suero) | N/A |
 | 37 | [karol g ft romeo](http://twitter.com/search?q=karol+g+ft+romeo) | N/A |
 | 38 | [Viejas](http://twitter.com/search?q=Viejas) | N/A |
 | 39 | [Carmen Villalobos](http://twitter.com/search?q=Carmen+Villalobos) | N/A |
@@ -60,7 +60,7 @@ This is top 50 for [Colombia](</Colombia>)
 | 43 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
 | 44 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 45 | [Eucerin](http://twitter.com/search?q=Eucerin) | N/A |
-| 46 | [Empresario](http://twitter.com/search?q=Empresario) | N/A |
+| 46 | [federico andueza](http://twitter.com/search?q=federico+andueza) | N/A |
 
 
 

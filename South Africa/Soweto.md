@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-02-03 08:16:48 UTC`
+📆 Last Updated: `2023-02-03 09:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
 | 2 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
-| 3 | [Business Evolve Core](http://twitter.com/search?q=Business+Evolve+Core) | N/A |
-| 4 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 5 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 3 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 4 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 5 | [#GigaNathi](http://twitter.com/search?q=%23GigaNathi) | N/A |
 | 6 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 7 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 8 | [Kabza](http://twitter.com/search?q=Kabza) | N/A |
-| 9 | [Happy Jele](http://twitter.com/search?q=Happy+Jele) | N/A |
-| 10 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 7 | [Business Evolve Core](http://twitter.com/search?q=Business+Evolve+Core) | N/A |
+| 8 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
+| 9 | [#SharetheEpic](http://twitter.com/search?q=%23SharetheEpic) | N/A |
+| 10 | [#sharethelove](http://twitter.com/search?q=%23sharethelove) | N/A |
 | 11 | [Umbuzo](http://twitter.com/search?q=Umbuzo) | N/A |
-| 12 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 13 | [#SONA2023](http://twitter.com/search?q=%23SONA2023) | N/A |
-| 14 | [#powerbreakfast](http://twitter.com/search?q=%23powerbreakfast) | N/A |
+| 12 | [Cinnabon](http://twitter.com/search?q=Cinnabon) | N/A |
+| 13 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 14 | [Kabza](http://twitter.com/search?q=Kabza) | N/A |
 | 15 | [meneer cee](http://twitter.com/search?q=meneer+cee) | N/A |
-| 16 | [Themba Khumalo](http://twitter.com/search?q=Themba+Khumalo) | N/A |
-| 17 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 18 | [SABC](http://twitter.com/search?q=SABC) | N/A |
+| 16 | [Rekere](http://twitter.com/search?q=Rekere) | N/A |
+| 17 | [Happy Jele](http://twitter.com/search?q=Happy+Jele) | N/A |
+| 18 | [Themba Khumalo](http://twitter.com/search?q=Themba+Khumalo) | N/A |
 | 19 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
-| 20 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 21 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 22 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 23 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 24 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 25 | [Gqom](http://twitter.com/search?q=Gqom) | N/A |
-| 26 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
-| 27 | [Rekere](http://twitter.com/search?q=Rekere) | N/A |
-| 28 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
-| 29 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
-| 30 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 20 | [SABC](http://twitter.com/search?q=SABC) | N/A |
+| 21 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 22 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 23 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 24 | [Lady Zamar](http://twitter.com/search?q=Lady+Zamar) | N/A |
+| 25 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 26 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 27 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
+| 28 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 29 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
+| 30 | [Tourists](http://twitter.com/search?q=Tourists) | N/A |
 | 31 | [Toss](http://twitter.com/search?q=Toss) | N/A |
-| 32 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 32 | [Jonathan Jansen](http://twitter.com/search?q=Jonathan+Jansen) | N/A |
 | 33 | [atchaar](http://twitter.com/search?q=atchaar) | N/A |
-| 34 | [DJ 8Milli](http://twitter.com/search?q=DJ+8Milli) | N/A |
-| 35 | [Acting CEO](http://twitter.com/search?q=Acting+CEO) | N/A |
-| 36 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
-| 37 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
+| 34 | [Acting CEO](http://twitter.com/search?q=Acting+CEO) | N/A |
+| 35 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 36 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
+| 37 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
 | 38 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
-| 39 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
-| 40 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
-| 41 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 42 | [block 16](http://twitter.com/search?q=block+16) | N/A |
-| 43 | [Zolani](http://twitter.com/search?q=Zolani) | N/A |
-| 44 | [supersport park](http://twitter.com/search?q=supersport+park) | N/A |
-| 45 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
-| 46 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 47 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 48 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 49 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
-| 50 | [Friyay](http://twitter.com/search?q=Friyay) | N/A |
+| 39 | [Gqom](http://twitter.com/search?q=Gqom) | N/A |
+| 40 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
+| 41 | [DJ 8Milli](http://twitter.com/search?q=DJ+8Milli) | N/A |
+| 42 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 43 | [Vuyo](http://twitter.com/search?q=Vuyo) | N/A |
+| 44 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 45 | [Grootman](http://twitter.com/search?q=Grootman) | N/A |
+| 46 | [block 16](http://twitter.com/search?q=block+16) | N/A |
+| 47 | [Zolani](http://twitter.com/search?q=Zolani) | N/A |
+| 48 | [supersport park](http://twitter.com/search?q=supersport+park) | N/A |
+| 49 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 50 | [NEW KEYS](http://twitter.com/search?q=NEW+KEYS) | N/A |
 
 
 

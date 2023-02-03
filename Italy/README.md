@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-03 08:17:08 UTC`
+📆 Last Updated: `2023-02-03 09:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#3febbraio](http://twitter.com/search?q=%233febbraio) | N/A |
-| 2 | [#JuveLazio](http://twitter.com/search?q=%23JuveLazio) | #JuveLazio is a hashtag used to refer to the Italian football rivalry between Juventus and Lazio. It is used to show support for either team or to discuss the rivalry between them. In English, it means "Juventus vs Lazio". |
+| 1 | [#JuveLazio](http://twitter.com/search?q=%23JuveLazio) | #JuveLazio is a hashtag used to refer to the Italian football rivalry between Juventus and Lazio. It is used to show support for either team or to discuss the rivalry between them. In English, it means "Juventus vs Lazio". |
+| 2 | [#3febbraio](http://twitter.com/search?q=%233febbraio) | N/A |
 | 3 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
-| 4 | [#andarVia](http://twitter.com/search?q=%23andarVia) | N/A |
-| 5 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 6 | [San Biagio](http://twitter.com/search?q=San+Biagio) | N/A |
-| 7 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
-| 8 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 9 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 10 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 11 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 12 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 13 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 14 | [Edoardo e Micol](http://twitter.com/search?q=Edoardo+e+Micol) | N/A |
+| 4 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
+| 5 | [#andarVia](http://twitter.com/search?q=%23andarVia) | N/A |
+| 6 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
+| 7 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 8 | [San Biagio](http://twitter.com/search?q=San+Biagio) | N/A |
+| 9 | [41bis](http://twitter.com/search?q=41bis) | N/A |
+| 10 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 11 | [Magda](http://twitter.com/search?q=Magda) | N/A |
+| 12 | [edoardo e micol](http://twitter.com/search?q=edoardo+e+micol) | N/A |
+| 13 | [Investcorp](http://twitter.com/search?q=Investcorp) | N/A |
+| 14 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
 | 15 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 16 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
-| 17 | [suor angela](http://twitter.com/search?q=suor+angela) | N/A |
-| 18 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 16 | [suor angela](http://twitter.com/search?q=suor+angela) | N/A |
+| 17 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
+| 18 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
 | 19 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
-| 20 | [azzurra](http://twitter.com/search?q=azzurra) | N/A |
-| 21 | [Magda](http://twitter.com/search?q=Magda) | N/A |
-| 22 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
-| 23 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 24 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
-| 25 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 26 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
-| 27 | [Buongiorno Roby](http://twitter.com/search?q=Buongiorno+Roby) | N/A |
-| 28 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 29 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 30 | [Cedric](http://twitter.com/search?q=Cedric) | N/A |
-| 31 | [Scarpinato](http://twitter.com/search?q=Scarpinato) | N/A |
-| 32 | [Maximiano](http://twitter.com/search?q=Maximiano) | N/A |
-| 33 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 34 | [Buongiorno Angelo](http://twitter.com/search?q=Buongiorno+Angelo) | N/A |
-| 35 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
-| 36 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 20 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 21 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
+| 22 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 23 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 24 | [Cedric](http://twitter.com/search?q=Cedric) | N/A |
+| 25 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 26 | [Maximiano](http://twitter.com/search?q=Maximiano) | N/A |
+| 27 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
+| 28 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
+| 29 | [Scarpinato](http://twitter.com/search?q=Scarpinato) | N/A |
+| 30 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
+| 31 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 32 | [Buongiorno Roby](http://twitter.com/search?q=Buongiorno+Roby) | N/A |
+| 33 | [Giusi](http://twitter.com/search?q=Giusi) | N/A |
+| 34 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
+| 35 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 36 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
 | 37 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
-| 38 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 39 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 40 | [Ollivier](http://twitter.com/search?q=Ollivier) | N/A |
-| 41 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 42 | [Buongiorno Carmen](http://twitter.com/search?q=Buongiorno+Carmen) | N/A |
-| 43 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 44 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 45 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
-| 46 | [barbieri](http://twitter.com/search?q=barbieri) | N/A |
-| 47 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 48 | [Oriana e Daniele](http://twitter.com/search?q=Oriana+e+Daniele) | N/A |
-| 49 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 50 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
+| 38 | [Campania](http://twitter.com/search?q=Campania) | N/A |
+| 39 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 40 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 41 | [Buongiorno Carmen](http://twitter.com/search?q=Buongiorno+Carmen) | N/A |
+| 42 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 43 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 44 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 45 | [Patric](http://twitter.com/search?q=Patric) | N/A |
+| 46 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 47 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 48 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 49 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 50 | [Cinzia](http://twitter.com/search?q=Cinzia) | N/A |
 
 
 

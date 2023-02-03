@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-03 08:17:10 UTC`
+📆 Last Updated: `2023-02-03 09:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,13 +16,13 @@ This is top 50 for Panama
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 2 | [Karen Peralta](http://twitter.com/search?q=Karen+Peralta) | N/A |
+| 2 | [karen peralta](http://twitter.com/search?q=karen+peralta) | N/A |
 | 3 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
 | 4 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 5 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 6 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 7 | [Lucy Quintero](http://twitter.com/search?q=Lucy+Quintero) | N/A |
-| 8 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 7 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 8 | [Lucy Quintero](http://twitter.com/search?q=Lucy+Quintero) | N/A |
 | 9 | [Juan Diego](http://twitter.com/search?q=Juan+Diego) | N/A |
 | 10 | [ph pass](http://twitter.com/search?q=ph+pass) | N/A |
 | 11 | [Carrizo](http://twitter.com/search?q=Carrizo) | N/A |
@@ -40,11 +40,11 @@ This is top 50 for Panama
 | 23 | [bugaba](http://twitter.com/search?q=bugaba) | N/A |
 | 24 | [tomás herrera](http://twitter.com/search?q=tom%c3%a1s+herrera) | N/A |
 | 25 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
-| 26 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | N/A |
+| 26 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
 | 27 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
 | 28 | [Dania](http://twitter.com/search?q=Dania) | N/A |
 | 29 | [laurentino cortizo](http://twitter.com/search?q=laurentino+cortizo) | N/A |
-| 30 | [Cinta Costera](http://twitter.com/search?q=Cinta+Costera) | N/A |
+| 30 | [cinta costera](http://twitter.com/search?q=cinta+costera) | N/A |
 | 31 | [consejo de gabinete](http://twitter.com/search?q=consejo+de+gabinete) | N/A |
 | 32 | [ministro de la presidencia](http://twitter.com/search?q=ministro+de+la+presidencia) | N/A |
 | 33 | [Supongo](http://twitter.com/search?q=Supongo) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for Panama
 | 36 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 | 37 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
 | 38 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
-| 39 | [Presidente de la República](http://twitter.com/search?q=Presidente+de+la+Rep%c3%bablica) | N/A |
-| 40 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 41 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 42 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 43 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
-| 44 | [California](http://twitter.com/search?q=California) | N/A |
-| 45 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 46 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 48 | [Jooo](http://twitter.com/search?q=Jooo) | N/A |
-| 49 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 50 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 39 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 40 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 41 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 42 | [San Valentín](http://twitter.com/search?q=San+Valent%c3%adn) | N/A |
+| 43 | [California](http://twitter.com/search?q=California) | N/A |
+| 44 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 45 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 47 | [Jooo](http://twitter.com/search?q=Jooo) | N/A |
+| 48 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 49 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 50 | [Transparencia Internacional](http://twitter.com/search?q=Transparencia+Internacional) | N/A |
 
 
 

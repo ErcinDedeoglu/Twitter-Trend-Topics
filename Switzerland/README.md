@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-03 08:17:11 UTC`
+📆 Last Updated: `2023-02-03 09:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldWetlandsDay](http://twitter.com/search?q=%23WorldWetlandsDay) | N/A |
-| 2 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 3 | [#JuveLazio](http://twitter.com/search?q=%23JuveLazio) | #JuveLazio is a hashtag used to refer to the Italian football rivalry between Juventus and Lazio. It is used to show support for either team or to discuss the rivalry between them. In English, it means "Juventus vs Lazio". |
-| 4 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 5 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 6 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 2 | [#JuveLazio](http://twitter.com/search?q=%23JuveLazio) | #JuveLazio is a hashtag used to refer to the Italian football rivalry between Juventus and Lazio. It is used to show support for either team or to discuss the rivalry between them. In English, it means "Juventus vs Lazio". |
+| 3 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 4 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 5 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 6 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
 | 7 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 8 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 9 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 10 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 11 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 12 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 13 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
-| 14 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
-| 15 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 16 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 17 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 18 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 19 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 20 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 21 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 22 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 23 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 24 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 25 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | N/A |
-| 27 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
-| 28 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
-| 29 | [America](http://twitter.com/search?q=America) | N/A |
-| 30 | [Erde](http://twitter.com/search?q=Erde) | N/A |
-| 31 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 32 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 33 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 34 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 35 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
-| 36 | [Arzt](http://twitter.com/search?q=Arzt) | N/A |
-| 37 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 38 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 39 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 40 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 41 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 42 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 43 | [Realität](http://twitter.com/search?q=Realit%c3%a4t) | N/A |
-| 44 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
-| 45 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
-| 46 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 47 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 48 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 49 | [En Suisse](http://twitter.com/search?q=En+Suisse) | N/A |
-| 50 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 9 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 10 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 11 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 12 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 13 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 14 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 15 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 16 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 17 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 18 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 19 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 20 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 21 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 22 | [Satire](http://twitter.com/search?q=Satire) | N/A |
+| 23 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 24 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 25 | [America](http://twitter.com/search?q=America) | N/A |
+| 26 | [Themen](http://twitter.com/search?q=Themen) | N/A |
+| 27 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 28 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
+| 29 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 30 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
+| 31 | [Logik](http://twitter.com/search?q=Logik) | N/A |
+| 32 | [Arzt](http://twitter.com/search?q=Arzt) | N/A |
+| 33 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 34 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 35 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 36 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
+| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 38 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 39 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
+| 40 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
+| 41 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
+| 42 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
+| 43 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 44 | [#Swiss](http://twitter.com/search?q=%23Swiss) | N/A |
+| 45 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 46 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 47 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 48 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 49 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 50 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
 
 
 
