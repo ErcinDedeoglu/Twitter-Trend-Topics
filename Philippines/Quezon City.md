@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-02-03 14:17:17 UTC`
+📆 Last Updated: `2023-02-03 15:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIAkingPuso](http://twitter.com/search?q=%23MCIAkingPuso) | N/A |
-| 2 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 3 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
-| 4 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 5 | [#DLOutOfSight](http://twitter.com/search?q=%23DLOutOfSight) | N/A |
-| 6 | [FILAY AkingBinibini](http://twitter.com/search?q=FILAY+AkingBinibini) | N/A |
-| 7 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 8 | [#DunkinPHxSB19](http://twitter.com/search?q=%23DunkinPHxSB19) | N/A |
-| 9 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
-| 10 | [Are Your Prayers Heard](http://twitter.com/search?q=Are+Your+Prayers+Heard) | N/A |
-| 11 | [JULIEVER PagIbigNaKayaEP1](http://twitter.com/search?q=JULIEVER+PagIbigNaKayaEP1) | N/A |
-| 12 | [#PNKJulieVer](http://twitter.com/search?q=%23PNKJulieVer) | N/A |
-| 13 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 14 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
-| 15 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 16 | [DJ YUE IN DA RADIO'n US](http://twitter.com/search?q=DJ+YUE+IN+DA+RADIO%27n+US) | N/A |
-| 17 | [JAYrassic PIEdate](http://twitter.com/search?q=JAYrassic+PIEdate) | N/A |
-| 18 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
-| 19 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
-| 20 | [MiChaeng](http://twitter.com/search?q=MiChaeng) | N/A |
-| 21 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 22 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 23 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 24 | [JANENELLA ROCKS](http://twitter.com/search?q=JANENELLA+ROCKS) | N/A |
-| 25 | [HAPPY ZACHAM FE13sarry](http://twitter.com/search?q=HAPPY+ZACHAM+FE13sarry) | N/A |
-| 26 | [FRANSETHChiCo MulingPagkikita](http://twitter.com/search?q=FRANSETHChiCo+MulingPagkikita) | N/A |
-| 27 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
-| 28 | [Pasend](http://twitter.com/search?q=Pasend) | N/A |
-| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 30 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
-| 31 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
-| 32 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
-| 33 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 34 | [Engenes](http://twitter.com/search?q=Engenes) | N/A |
-| 35 | [KDLEX PETAWalangAraySoon](http://twitter.com/search?q=KDLEX+PETAWalangAraySoon) | N/A |
-| 36 | [#DarnaSuperValentina](http://twitter.com/search?q=%23DarnaSuperValentina) | N/A |
-| 37 | [#FELIPRadioTourCebuDay1](http://twitter.com/search?q=%23FELIPRadioTourCebuDay1) | N/A |
-| 38 | [#ENHYPEN_IN_MANILA](http://twitter.com/search?q=%23ENHYPEN_IN_MANILA) | N/A |
-| 39 | [#NewUniverseWithYUE](http://twitter.com/search?q=%23NewUniverseWithYUE) | N/A |
-| 40 | [#DreamMakerPIEfridate](http://twitter.com/search?q=%23DreamMakerPIEfridate) | N/A |
-| 41 | [#SugarRushRide2ndWin](http://twitter.com/search?q=%23SugarRushRide2ndWin) | #SugarRushRide2ndWin is a hashtag used to celebrate a second win in the Sugar Rush Ride game. It is used to share excitement and congratulate the winner. |
-| 42 | [#DunkinPHValentines](http://twitter.com/search?q=%23DunkinPHValentines) | N/A |
-| 43 | [#ShinewithJay](http://twitter.com/search?q=%23ShinewithJay) | N/A |
-| 44 | [#TXT16thWin](http://twitter.com/search?q=%23TXT16thWin) | #TXT16thWin is a hashtag used by fans of the South Korean boy band, TXT (Tomorrow X Together). It is used to celebrate the group's 16th win on a music show. The hashtag translates to "TXT's 16th Win". |
-| 45 | [#YetToComeInCinema](http://twitter.com/search?q=%23YetToComeInCinema) | N/A |
-| 46 | [#KIMSEJEONG](http://twitter.com/search?q=%23KIMSEJEONG) | N/A |
-| 47 | [#MANIFESTO_IN_MANILA_D1](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_D1) | N/A |
-| 48 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 49 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
-| 50 | [#PPOPCON2023](http://twitter.com/search?q=%23PPOPCON2023) | N/A |
+| 1 | [#txt16thwin](http://twitter.com/search?q=%23txt16thwin) | N/A |
+| 2 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
+| 5 | [#MCIAkingPuso](http://twitter.com/search?q=%23MCIAkingPuso) | N/A |
+| 6 | [#1YEARwithCHILD](http://twitter.com/search?q=%231YEARwithCHILD) | N/A |
+| 7 | [#영원한소년_마크의차일드_1주년](http://twitter.com/search?q=%23%ec%98%81%ec%9b%90%ed%95%9c%ec%86%8c%eb%85%84_%eb%a7%88%ed%81%ac%ec%9d%98%ec%b0%a8%ec%9d%bc%eb%93%9c_1%ec%a3%bc%eb%85%84) | "#영원한소년_마크의차일드_1주년" is a hashtag used to celebrate the first anniversary of Mark's "Eternal Boy" project. It is a celebration of Mark's music and the impact it has had on fans over the past year. In English, it translates to "#EternalBoy_Mark'sChild_1Year". |
+| 8 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 9 | [FIGHTING TEASER 2](http://twitter.com/search?q=FIGHTING+TEASER+2) | N/A |
+| 10 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 11 | [Physical 100](http://twitter.com/search?q=Physical+100) | N/A |
+| 12 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 13 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 14 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
+| 15 | [FILAY AkingBinibini](http://twitter.com/search?q=FILAY+AkingBinibini) | N/A |
+| 16 | [I LOVE YOU SO MUCH](http://twitter.com/search?q=I+LOVE+YOU+SO+MUCH) | N/A |
+| 17 | [MY BABY](http://twitter.com/search?q=MY+BABY) | N/A |
+| 18 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
+| 19 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 20 | [SEE YOU TOMORROW](http://twitter.com/search?q=SEE+YOU+TOMORROW) | N/A |
+| 21 | [Padre Salvi](http://twitter.com/search?q=Padre+Salvi) | N/A |
+| 22 | [DJ YUE IN DA RADIO'n US](http://twitter.com/search?q=DJ+YUE+IN+DA+RADIO%27n+US) | N/A |
+| 23 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 24 | [El Fili](http://twitter.com/search?q=El+Fili) | N/A |
+| 25 | [MAHAL KITA](http://twitter.com/search?q=MAHAL+KITA) | N/A |
+| 26 | [JAYrassic PIEdate](http://twitter.com/search?q=JAYrassic+PIEdate) | N/A |
+| 27 | [Michaeng](http://twitter.com/search?q=Michaeng) | N/A |
+| 28 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 29 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
+| 30 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 31 | [FRANSETHChiCo MulingPagkikita](http://twitter.com/search?q=FRANSETHChiCo+MulingPagkikita) | N/A |
+| 32 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 33 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
+| 34 | [HAPPY ZACHAM FE13sarry](http://twitter.com/search?q=HAPPY+ZACHAM+FE13sarry) | N/A |
+| 35 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
+| 36 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
+| 37 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 38 | [Tzuyu](http://twitter.com/search?q=Tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Chinese characters for "jade" and "beauty". In English, her name means "beautiful jade". |
+| 39 | [Pasend](http://twitter.com/search?q=Pasend) | N/A |
+| 40 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 41 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 42 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 43 | [Aking Binibining Klay](http://twitter.com/search?q=Aking+Binibining+Klay) | N/A |
+| 44 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 45 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
+| 46 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
+| 47 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 48 | [#DLOutOfSight](http://twitter.com/search?q=%23DLOutOfSight) | N/A |
+| 49 | [#MANIFESTO_IN_MANILA_D1](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_D1) | N/A |
+| 50 | [#BSS_Fighting_Teaser2](http://twitter.com/search?q=%23BSS_Fighting_Teaser2) | N/A |
 
 
 

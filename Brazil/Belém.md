@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-03 14:17:00 UTC`
+📆 Last Updated: `2023-02-03 15:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
 | 3 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
 | 4 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 5 | [#RBDTour](http://twitter.com/search?q=%23RBDTour) | N/A |
-| 6 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 7 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
-| 8 | [EU VOU NO SHOW DO RBD](http://twitter.com/search?q=EU+VOU+NO+SHOW+DO+RBD) | N/A |
-| 9 | [Ford](http://twitter.com/search?q=Ford) | N/A |
-| 10 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
-| 11 | [Mc Marcinho](http://twitter.com/search?q=Mc+Marcinho) | N/A |
-| 12 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 13 | [Operação Tabajara](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Tabajara) | N/A |
-| 14 | [EU VOU VER O RBD](http://twitter.com/search?q=EU+VOU+VER+O+RBD) | N/A |
-| 15 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 16 | [SANTA CRUZ FUTEBOL CLUBE](http://twitter.com/search?q=SANTA+CRUZ+FUTEBOL+CLUBE) | N/A |
-| 17 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 18 | [Red Bull](http://twitter.com/search?q=Red+Bull) | N/A |
-| 19 | [Morte Morte Morte](http://twitter.com/search?q=Morte+Morte+Morte) | N/A |
-| 20 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 21 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
-| 22 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
-| 23 | [COAF](http://twitter.com/search?q=COAF) | N/A |
-| 24 | [Gilmar Mendes](http://twitter.com/search?q=Gilmar+Mendes) | N/A |
-| 25 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
-| 26 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 27 | [Compro](http://twitter.com/search?q=Compro) | N/A |
-| 28 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 29 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
-| 30 | [Machismo](http://twitter.com/search?q=Machismo) | N/A |
-| 31 | [São Brás](http://twitter.com/search?q=S%c3%a3o+Br%c3%a1s) | N/A |
-| 32 | [Dia 18](http://twitter.com/search?q=Dia+18) | N/A |
-| 33 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 34 | [ABIN](http://twitter.com/search?q=ABIN) | N/A |
-| 35 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 36 | [Roubou](http://twitter.com/search?q=Roubou) | N/A |
-| 37 | [TJSP](http://twitter.com/search?q=TJSP) | N/A |
-| 38 | [aespa](http://twitter.com/search?q=aespa) | N/A |
-| 39 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
-| 40 | [mc paiva](http://twitter.com/search?q=mc+paiva) | Mc Paiva is a Brazilian rap artist from Rio de Janeiro. His name is a combination of his first name, Marcos, and his last name, Paiva. His music focuses on themes of social justice and inequality in Brazil. In English, Mc Paiva means "Marcos Paiva". |
-| 41 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 42 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
-| 43 | [Maria Bethânia](http://twitter.com/search?q=Maria+Beth%c3%a2nia) | N/A |
-| 44 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
-| 45 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 46 | [Serasa](http://twitter.com/search?q=Serasa) | N/A |
-| 47 | [Traíra](http://twitter.com/search?q=Tra%c3%adra) | N/A |
-| 48 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 49 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
+| 5 | [SE ELE SOUBESSE](http://twitter.com/search?q=SE+ELE+SOUBESSE) | SE ELE SOUBESSE is a Portuguese phrase that translates to "If He Knew" in English. It is used to express a hypothetical situation in which someone has knowledge of something. |
+| 6 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 7 | [#RBDTour](http://twitter.com/search?q=%23RBDTour) | N/A |
+| 8 | [Compro](http://twitter.com/search?q=Compro) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [JOGA O RABETÃO NO YT](http://twitter.com/search?q=JOGA+O+RABET%c3%83O+NO+YT) | N/A |
+| 11 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 12 | [EU VOU NO SHOW DO RBD](http://twitter.com/search?q=EU+VOU+NO+SHOW+DO+RBD) | N/A |
+| 13 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 14 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
+| 15 | [#Comfort10xMaisPerfume](http://twitter.com/search?q=%23Comfort10xMaisPerfume) | N/A |
+| 16 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
+| 17 | [TUDO ESGOTADO](http://twitter.com/search?q=TUDO+ESGOTADO) | N/A |
+| 18 | [Operação Tabajara](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Tabajara) | N/A |
+| 19 | [Horner](http://twitter.com/search?q=Horner) | N/A |
+| 20 | [Cauly](http://twitter.com/search?q=Cauly) | N/A |
+| 21 | [mc marcinho](http://twitter.com/search?q=mc+marcinho) | N/A |
+| 22 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
+| 23 | [Esgotou](http://twitter.com/search?q=Esgotou) | N/A |
+| 24 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
+| 25 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 26 | [EU VOU VER O RBD](http://twitter.com/search?q=EU+VOU+VER+O+RBD) | N/A |
+| 27 | [SANTA CRUZ FUTEBOL CLUBE](http://twitter.com/search?q=SANTA+CRUZ+FUTEBOL+CLUBE) | N/A |
+| 28 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 29 | [Dia 18](http://twitter.com/search?q=Dia+18) | N/A |
+| 30 | [chaeyoung](http://twitter.com/search?q=chaeyoung) | Chaeyoung is a Korean given name, usually for females. It is composed of two characters: "Chae" meaning "beauty" and "Young" meaning "eternal". In English, it can be translated to mean "eternal beauty". |
+| 31 | [O Bam](http://twitter.com/search?q=O+Bam) | N/A |
+| 32 | [Gilmar Mendes](http://twitter.com/search?q=Gilmar+Mendes) | N/A |
+| 33 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 34 | [Morte Morte Morte](http://twitter.com/search?q=Morte+Morte+Morte) | N/A |
+| 35 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
+| 36 | [Operação Lesa Pátria](http://twitter.com/search?q=Opera%c3%a7%c3%a3o+Lesa+P%c3%a1tria) | N/A |
+| 37 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 38 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 39 | [COAF](http://twitter.com/search?q=COAF) | N/A |
+| 40 | [São Brás](http://twitter.com/search?q=S%c3%a3o+Br%c3%a1s) | N/A |
+| 41 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
+| 42 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 43 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 44 | [Roubou](http://twitter.com/search?q=Roubou) | N/A |
+| 45 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 46 | [aespa](http://twitter.com/search?q=aespa) | N/A |
+| 47 | [Abin](http://twitter.com/search?q=Abin) | N/A |
+| 48 | [Traíra](http://twitter.com/search?q=Tra%c3%adra) | N/A |
+| 49 | [Machismo](http://twitter.com/search?q=Machismo) | N/A |
 
 
 

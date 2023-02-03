@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-02-03 14:17:08 UTC`
+📆 Last Updated: `2023-02-03 15:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ExpertosPcComponentes](http://twitter.com/search?q=%23ExpertosPcComponentes) | N/A |
-| 2 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 3 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 4 | [Red Bull](http://twitter.com/search?q=Red+Bull) | N/A |
-| 5 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
-| 6 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
-| 7 | [#EquipoReyesJuego](http://twitter.com/search?q=%23EquipoReyesJuego) | N/A |
-| 8 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 9 | [Cáncer](http://twitter.com/search?q=C%c3%a1ncer) | N/A |
-| 10 | [Ford](http://twitter.com/search?q=Ford) | N/A |
-| 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 12 | [#APOYOROCIO3F](http://twitter.com/search?q=%23APOYOROCIO3F) | N/A |
-| 13 | [Copa de la Reina](http://twitter.com/search?q=Copa+de+la+Reina) | N/A |
+| 1 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 2 | [#ExpertosPcComponentes](http://twitter.com/search?q=%23ExpertosPcComponentes) | N/A |
+| 3 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
+| 6 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 7 | [#HONOR70](http://twitter.com/search?q=%23HONOR70) | N/A |
+| 8 | [Honda](http://twitter.com/search?q=Honda) | N/A |
+| 9 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
+| 10 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
+| 11 | [Iván Villar](http://twitter.com/search?q=Iv%c3%a1n+Villar) | N/A |
+| 12 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 13 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 14 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 15 | [Bochornoso](http://twitter.com/search?q=Bochornoso) | N/A |
-| 16 | [#Solos3F](http://twitter.com/search?q=%23Solos3F) | N/A |
-| 17 | [Sanchís](http://twitter.com/search?q=Sanch%c3%ads) | N/A |
-| 18 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 15 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 16 | [Cáncer](http://twitter.com/search?q=C%c3%a1ncer) | N/A |
+| 17 | [Operación](http://twitter.com/search?q=Operaci%c3%b3n) | N/A |
+| 18 | [#APOYOROCIO3F](http://twitter.com/search?q=%23APOYOROCIO3F) | N/A |
 | 19 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 20 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
-| 21 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
-| 22 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 23 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 24 | [Casquero](http://twitter.com/search?q=Casquero) | N/A |
-| 25 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
-| 26 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 27 | [Figo](http://twitter.com/search?q=Figo) | N/A |
-| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 29 | [CaixaBank](http://twitter.com/search?q=CaixaBank) | N/A |
-| 30 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
-| 31 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
-| 32 | [Rabocop](http://twitter.com/search?q=Rabocop) | N/A |
-| 33 | [Maica](http://twitter.com/search?q=Maica) | N/A |
-| 34 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 35 | [Consuelo Ordóñez](http://twitter.com/search?q=Consuelo+Ord%c3%b3%c3%b1ez) | N/A |
-| 36 | [Aquiles](http://twitter.com/search?q=Aquiles) | N/A |
+| 20 | [Fórmula 1](http://twitter.com/search?q=F%c3%b3rmula+1) | N/A |
+| 21 | [Figo](http://twitter.com/search?q=Figo) | N/A |
+| 22 | [Bochornoso](http://twitter.com/search?q=Bochornoso) | N/A |
+| 23 | [Copa de la Reina](http://twitter.com/search?q=Copa+de+la+Reina) | N/A |
+| 24 | [William Carvalho](http://twitter.com/search?q=William+Carvalho) | N/A |
+| 25 | [Rabocop](http://twitter.com/search?q=Rabocop) | N/A |
+| 26 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 27 | [Isco](http://twitter.com/search?q=Isco) | Isco is a Spanish nickname for Francisco, a popular name in Spain. In English, it is pronounced "EE-sko". |
+| 28 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 29 | [Sanchís](http://twitter.com/search?q=Sanch%c3%ads) | N/A |
+| 30 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 31 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 32 | [Maica](http://twitter.com/search?q=Maica) | N/A |
+| 33 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 34 | [Hufflepuff](http://twitter.com/search?q=Hufflepuff) | N/A |
+| 35 | [Casquero](http://twitter.com/search?q=Casquero) | N/A |
+| 36 | [Gryffindor](http://twitter.com/search?q=Gryffindor) | N/A |
 | 37 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 38 | [Paulista a Vinicius](http://twitter.com/search?q=Paulista+a+Vinicius) | N/A |
-| 39 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 40 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
-| 41 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 42 | [Chapote](http://twitter.com/search?q=Chapote) | N/A |
-| 43 | [Viernes 3](http://twitter.com/search?q=Viernes+3) | N/A |
-| 44 | [Ana Rosa Quintana](http://twitter.com/search?q=Ana+Rosa+Quintana) | N/A |
-| 45 | [Domingo 5](http://twitter.com/search?q=Domingo+5) | N/A |
-| 46 | [Cajas](http://twitter.com/search?q=Cajas) | N/A |
-| 47 | [#findesemana](http://twitter.com/search?q=%23findesemana) | N/A |
-| 48 | [#CEMD2023](http://twitter.com/search?q=%23CEMD2023) | N/A |
+| 38 | [CaixaBank](http://twitter.com/search?q=CaixaBank) | N/A |
+| 39 | [Hassan II](http://twitter.com/search?q=Hassan+II) | N/A |
+| 40 | [Paulista a Vinicius](http://twitter.com/search?q=Paulista+a+Vinicius) | N/A |
+| 41 | [Ana Rosa Quintana](http://twitter.com/search?q=Ana+Rosa+Quintana) | N/A |
+| 42 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 43 | [Aquiles](http://twitter.com/search?q=Aquiles) | N/A |
+| 44 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 45 | [Consuelo Ordóñez](http://twitter.com/search?q=Consuelo+Ord%c3%b3%c3%b1ez) | N/A |
+| 46 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 47 | [Chapote](http://twitter.com/search?q=Chapote) | N/A |
+| 48 | [Bancos](http://twitter.com/search?q=Bancos) | N/A |
 
 
 

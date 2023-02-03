@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-03 14:17:35 UTC`
+📆 Last Updated: `2023-02-03 15:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 2 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 3 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 6 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 7 | [#JobsReport](http://twitter.com/search?q=%23JobsReport) | N/A |
-| 8 | [#WearRedDay](http://twitter.com/search?q=%23WearRedDay) | N/A |
-| 9 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 10 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 11 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 12 | [Buddy Holly](http://twitter.com/search?q=Buddy+Holly) | N/A |
-| 13 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 1 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 3 | [#GiftOfSox](http://twitter.com/search?q=%23GiftOfSox) | N/A |
+| 4 | [China](http://twitter.com/search?q=China) | N/A |
+| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 8 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 9 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 10 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 11 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 12 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 13 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
 | 14 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
-| 15 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 16 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 17 | [The Big Bopper](http://twitter.com/search?q=The+Big+Bopper) | N/A |
-| 18 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
-| 19 | [Ritchie Valens](http://twitter.com/search?q=Ritchie+Valens) | N/A |
-| 20 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
-| 21 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
-| 22 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 24 | [Senior Night](http://twitter.com/search?q=Senior+Night) | N/A |
-| 25 | [Debate](http://twitter.com/search?q=Debate) | N/A |
-| 26 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 27 | [ICBM](http://twitter.com/search?q=ICBM) | N/A |
-| 28 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 29 | [SHOOT IT DOWN](http://twitter.com/search?q=SHOOT+IT+DOWN) | N/A |
-| 30 | [Vicks](http://twitter.com/search?q=Vicks) | N/A |
-| 31 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
-| 32 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 33 | [Ilhan](http://twitter.com/search?q=Ilhan) | N/A |
-| 34 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 35 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 36 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 37 | [Sixto](http://twitter.com/search?q=Sixto) | N/A |
-| 38 | [The Squad](http://twitter.com/search?q=The+Squad) | N/A |
-| 39 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 40 | [Green Acres](http://twitter.com/search?q=Green+Acres) | N/A |
-| 41 | [The CCP](http://twitter.com/search?q=The+CCP) | N/A |
-| 42 | [Dodgeball](http://twitter.com/search?q=Dodgeball) | N/A |
-| 43 | [Drama Queen](http://twitter.com/search?q=Drama+Queen) | N/A |
-| 44 | [Semitic](http://twitter.com/search?q=Semitic) | N/A |
-| 45 | [Dawkins](http://twitter.com/search?q=Dawkins) | N/A |
-| 46 | [FMLA](http://twitter.com/search?q=FMLA) | N/A |
-| 47 | [Foreign](http://twitter.com/search?q=Foreign) | N/A |
-| 48 | [Billings](http://twitter.com/search?q=Billings) | N/A |
-| 49 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 15 | [517,000 in January](http://twitter.com/search?q=517%2c000+in+January) | N/A |
+| 16 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 17 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 18 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 19 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 20 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 21 | [Big Pimpin](http://twitter.com/search?q=Big+Pimpin) | N/A |
+| 22 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 23 | [Buddy Holly](http://twitter.com/search?q=Buddy+Holly) | N/A |
+| 24 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
+| 25 | [The Day the Music Died](http://twitter.com/search?q=The+Day+the+Music+Died) | N/A |
+| 26 | [Ashli Babbitt](http://twitter.com/search?q=Ashli+Babbitt) | Ashli Babbitt was an American Air Force veteran who was fatally shot by police during the storming of the US Capitol on January 6, 2021. Her death has become a symbol of the political unrest in the United States. The name "Ashli Babbitt" is now used to refer to her and her death, as well as to the political unrest it represents. |
+| 27 | [The Big Bopper](http://twitter.com/search?q=The+Big+Bopper) | N/A |
+| 28 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
+| 29 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 30 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 31 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 32 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 33 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
+| 34 | [Brian Cardinal](http://twitter.com/search?q=Brian+Cardinal) | N/A |
+| 35 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
+| 36 | [Ritchie Valens](http://twitter.com/search?q=Ritchie+Valens) | N/A |
+| 37 | [ICBM](http://twitter.com/search?q=ICBM) | N/A |
+| 38 | [Senior Night](http://twitter.com/search?q=Senior+Night) | N/A |
+| 39 | [Jeff Fisher](http://twitter.com/search?q=Jeff+Fisher) | N/A |
+| 40 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 41 | [St. Blaise](http://twitter.com/search?q=St.+Blaise) | N/A |
+| 42 | [Andrew Clyde](http://twitter.com/search?q=Andrew+Clyde) | N/A |
+| 43 | [Riley Cooper](http://twitter.com/search?q=Riley+Cooper) | N/A |
+| 44 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 45 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 46 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 47 | [Truck Day](http://twitter.com/search?q=Truck+Day) | N/A |
+| 48 | [Yellowstone](http://twitter.com/search?q=Yellowstone) | N/A |
+| 49 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
 
 
 
