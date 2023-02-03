@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-03 19:17:01 UTC`
+📆 Last Updated: `2023-02-03 20:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ProsperLove](http://twitter.com/search?q=%23ProsperLove) | N/A |
-| 2 | [#ProsperProud](http://twitter.com/search?q=%23ProsperProud) | N/A |
-| 3 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 4 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 1 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 2 | [Carr](http://twitter.com/search?q=Carr) | Carr is a Scottish surname derived from the Gaelic word "carraig" meaning "rock". It is also an English surname derived from the Old Norse word "kjaerr" meaning "marsh". |
+| 3 | [#ProsperLove](http://twitter.com/search?q=%23ProsperLove) | N/A |
+| 4 | [#ProsperProud](http://twitter.com/search?q=%23ProsperProud) | N/A |
 | 5 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 6 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 7 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 8 | [#GiftOfSox](http://twitter.com/search?q=%23GiftOfSox) | #GiftOfSox is a hashtag used to promote the Boston Red Sox baseball team. It is used to encourage fans to give the gift of Red Sox tickets, apparel, and other merchandise to friends and family. The hashtag is meant to emphasize the team's commitment to giving back to its fans. |
-| 9 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 10 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 11 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | N/A |
-| 12 | [#WearRedDay](http://twitter.com/search?q=%23WearRedDay) | N/A |
-| 13 | [#BidenBoom](http://twitter.com/search?q=%23BidenBoom) | N/A |
-| 14 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 15 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
-| 16 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 17 | [Russ and KD](http://twitter.com/search?q=Russ+and+KD) | N/A |
-| 18 | [Mrs. Worldwide](http://twitter.com/search?q=Mrs.+Worldwide) | Mrs. Worldwide is a nickname given to singer/songwriter Armando Christian Perez, better known as Pitbull. The nickname is a reference to his global success and influence in the music industry. It is also a play on words of his stage name, which is often shortened to "Mr. Worldwide." |
-| 19 | [Joe Tsai](http://twitter.com/search?q=Joe+Tsai) | N/A |
-| 20 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
-| 21 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | N/A |
-| 22 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | N/A |
-| 23 | [Tzero](http://twitter.com/search?q=Tzero) | N/A |
-| 24 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
-| 25 | [Space Force](http://twitter.com/search?q=Space+Force) | Space Force is a branch of the United States Armed Forces that was established in December 2019. It is responsible for organizing, training, and equipping military personnel to protect U.S. and allied interests in space. The mission of Space Force is to defend America’s interests in space, deter aggression in the final frontier, and conduct prompt and sustained space operations. |
-| 26 | [He's a Laker](http://twitter.com/search?q=He%27s+a+Laker) | N/A |
-| 27 | [KD and Russ](http://twitter.com/search?q=KD+and+Russ) | N/A |
-| 28 | [Sixto George](http://twitter.com/search?q=Sixto+George) | N/A |
-| 29 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
-| 30 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 31 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 32 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 33 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 34 | [Labaron Philon](http://twitter.com/search?q=Labaron+Philon) | N/A |
-| 35 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
-| 36 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 37 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 38 | [Educated](http://twitter.com/search?q=Educated) | N/A |
-| 39 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 40 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 41 | [Bill Simmons](http://twitter.com/search?q=Bill+Simmons) | N/A |
-| 42 | [Todd Grantham](http://twitter.com/search?q=Todd+Grantham) | N/A |
-| 43 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 44 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 45 | [Saturday Night Fever](http://twitter.com/search?q=Saturday+Night+Fever) | N/A |
-| 46 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 47 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 48 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 49 | [Face Off](http://twitter.com/search?q=Face+Off) | N/A |
+| 6 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 7 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 8 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 9 | [#GiftOfSox](http://twitter.com/search?q=%23GiftOfSox) | #GiftOfSox is a hashtag used to promote the Boston Red Sox baseball team. It is used to encourage fans to give the gift of Red Sox tickets, apparel, and other merchandise to friends and family. The hashtag is meant to emphasize the team's commitment to giving back to its fans. |
+| 10 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 11 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 12 | [#BidenBoom](http://twitter.com/search?q=%23BidenBoom) | N/A |
+| 13 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 14 | [Joe Tsai](http://twitter.com/search?q=Joe+Tsai) | Joe Tsai is the co-founder and executive vice chairman of the Chinese technology company Alibaba Group. He is also a Taiwanese-Canadian billionaire businessman. The name Joe Tsai is derived from his given name, Jui-Hsiang Tsai. |
+| 15 | [#WearRedDay](http://twitter.com/search?q=%23WearRedDay) | N/A |
+| 16 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 17 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 18 | [Space Force](http://twitter.com/search?q=Space+Force) | Space Force is a branch of the United States Armed Forces that was established in December 2019. It is responsible for organizing, training, and equipping military personnel to protect U.S. and allied interests in space. The mission of Space Force is to defend America’s interests in space, deter aggression in the final frontier, and conduct prompt and sustained space operations. |
+| 19 | [Sean Marks](http://twitter.com/search?q=Sean+Marks) | Sean Marks is a professional basketball executive who currently serves as the general manager of the Brooklyn Nets of the National Basketball Association (NBA). He is also a former NBA player who played for several teams during his 12-year career. The phrase "Sean Marks" is used to refer to his role as an executive in the NBA. |
+| 20 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | N/A |
+| 21 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 22 | [Shoot](http://twitter.com/search?q=Shoot) | N/A |
+| 23 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
+| 24 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 25 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 26 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
+| 27 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 28 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 29 | [Mrs. Worldwide](http://twitter.com/search?q=Mrs.+Worldwide) | Mrs. Worldwide is a nickname given to singer/songwriter Armando Christian Perez, better known as Pitbull. The nickname is a reference to his global success and influence in the music industry. It is also a play on words of his stage name, which is often shortened to "Mr. Worldwide." |
+| 30 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 31 | [Tzero](http://twitter.com/search?q=Tzero) | N/A |
+| 32 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 33 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 34 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 35 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 36 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 37 | [MAKE IT HAPPEN](http://twitter.com/search?q=MAKE+IT+HAPPEN) | N/A |
+| 38 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 39 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 40 | [Sixto George](http://twitter.com/search?q=Sixto+George) | N/A |
+| 41 | [Educated](http://twitter.com/search?q=Educated) | N/A |
+| 42 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 43 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
+| 44 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 45 | [LeGM](http://twitter.com/search?q=LeGM) | N/A |
+| 46 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 47 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 48 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 49 | [GAAS](http://twitter.com/search?q=GAAS) | N/A |
+| 50 | [Bill Simmons](http://twitter.com/search?q=Bill+Simmons) | N/A |
 
 
 

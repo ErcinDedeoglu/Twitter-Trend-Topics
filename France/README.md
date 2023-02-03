@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-03 19:17:11 UTC`
+📆 Last Updated: `2023-02-03 20:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 2 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 3 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 4 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
-| 5 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
-| 6 | [Tancrède](http://twitter.com/search?q=Tancr%c3%a8de) | N/A |
-| 7 | [#CombiParfait](http://twitter.com/search?q=%23CombiParfait) | N/A |
-| 8 | [KRISTINA](http://twitter.com/search?q=KRISTINA) | N/A |
-| 9 | [Mazel Tov](http://twitter.com/search?q=Mazel+Tov) | N/A |
-| 10 | [#Dussopt](http://twitter.com/search?q=%23Dussopt) | N/A |
-| 11 | [#4mariagespour1lunedemiel](http://twitter.com/search?q=%234mariagespour1lunedemiel) | N/A |
-| 12 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | N/A |
-| 13 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 14 | [Meyer Habib](http://twitter.com/search?q=Meyer+Habib) | N/A |
-| 15 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 16 | [#NationalFFF](http://twitter.com/search?q=%23NationalFFF) | N/A |
-| 17 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
-| 18 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 19 | [Arnaud De Lie](http://twitter.com/search?q=Arnaud+De+Lie) | N/A |
-| 20 | [Jafar Panahi](http://twitter.com/search?q=Jafar+Panahi) | N/A |
-| 21 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 22 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 23 | [Coupe Davis](http://twitter.com/search?q=Coupe+Davis) | N/A |
-| 24 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 25 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 26 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 27 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 30 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 31 | [Mexique](http://twitter.com/search?q=Mexique) | N/A |
-| 32 | [Salomé](http://twitter.com/search?q=Salom%c3%a9) | N/A |
-| 33 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 34 | [Clémentine Autain](http://twitter.com/search?q=Cl%c3%a9mentine+Autain) | N/A |
-| 35 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
-| 36 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
-| 37 | [#RB19](http://twitter.com/search?q=%23RB19) | #RB19 is a hashtag used to refer to the 2019 Rugby World Cup, which was held in Japan from September 20th to November 2nd. The hashtag is used to discuss the tournament and its results on social media. |
-| 38 | [#SecretStory](http://twitter.com/search?q=%23SecretStory) | N/A |
-| 39 | [#GreveGeneraleIllimitee](http://twitter.com/search?q=%23GreveGeneraleIllimitee) | N/A |
-| 40 | [#cancer](http://twitter.com/search?q=%23cancer) | N/A |
-| 41 | [#AsterixEtObelix](http://twitter.com/search?q=%23AsterixEtObelix) | N/A |
-| 42 | [#EDB2023](http://twitter.com/search?q=%23EDB2023) | N/A |
-| 43 | [#nucléaire](http://twitter.com/search?q=%23nucl%c3%a9aire) | N/A |
-| 44 | [#Paris2024](http://twitter.com/search?q=%23Paris2024) | N/A |
-| 45 | [#XVdeFrance](http://twitter.com/search?q=%23XVdeFrance) | N/A |
+| 2 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 3 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 4 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 7 | [#PAUFCFCGB](http://twitter.com/search?q=%23PAUFCFCGB) | N/A |
+| 8 | [Meyer Habib](http://twitter.com/search?q=Meyer+Habib) | N/A |
+| 9 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
+| 10 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
+| 11 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 12 | [#Levenement](http://twitter.com/search?q=%23Levenement) | N/A |
+| 13 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 14 | [Mazel Tov](http://twitter.com/search?q=Mazel+Tov) | N/A |
+| 15 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 16 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | N/A |
+| 17 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 18 | [Parquet](http://twitter.com/search?q=Parquet) | N/A |
+| 19 | [Tancrède](http://twitter.com/search?q=Tancr%c3%a8de) | N/A |
+| 20 | [El Arouch](http://twitter.com/search?q=El+Arouch) | El Arouch is a type of traditional Lebanese dish made with bulgur wheat, vegetables, and spices. It is typically served as a side dish or as part of a mezze platter. The name El Arouch comes from the Arabic phrase “al-arish” which means “the top layer”, referring to the top layer of bulgur wheat that is cooked in the dish. In English, El Arouch translates to "the top layer". |
+| 21 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 22 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 23 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 24 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 25 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 26 | [Saur](http://twitter.com/search?q=Saur) | N/A |
+| 27 | [Badji](http://twitter.com/search?q=Badji) | N/A |
+| 28 | [Sihem](http://twitter.com/search?q=Sihem) | N/A |
+| 29 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 31 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 32 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
+| 33 | [Niort](http://twitter.com/search?q=Niort) | N/A |
+| 34 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
+| 35 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 36 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 37 | [Clémentine Autain](http://twitter.com/search?q=Cl%c3%a9mentine+Autain) | N/A |
+| 38 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 39 | [Georgio](http://twitter.com/search?q=Georgio) | N/A |
+| 40 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 41 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 42 | [Mwanga](http://twitter.com/search?q=Mwanga) | N/A |
+| 43 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 44 | [Jafar Panahi](http://twitter.com/search?q=Jafar+Panahi) | N/A |
+| 45 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 46 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 49 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 50 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
 
 
 

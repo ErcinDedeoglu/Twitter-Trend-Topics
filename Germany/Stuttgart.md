@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-03 19:16:38 UTC`
+📆 Last Updated: `2023-02-03 20:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GronkhTV](http://twitter.com/search?q=%23GronkhTV) | N/A |
-| 2 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 3 | [#SCPF95](http://twitter.com/search?q=%23SCPF95) | N/A |
+| 1 | [#wodieliebehinfällt](http://twitter.com/search?q=%23wodieliebehinf%c3%a4llt) | N/A |
+| 2 | [#GronkhTV](http://twitter.com/search?q=%23GronkhTV) | N/A |
+| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 4 | [#Faeser](http://twitter.com/search?q=%23Faeser) | N/A |
 | 5 | [Günni](http://twitter.com/search?q=G%c3%bcnni) | N/A |
-| 6 | [Angelika](http://twitter.com/search?q=Angelika) | N/A |
-| 7 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 6 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 7 | [Maske](http://twitter.com/search?q=Maske) | N/A |
 | 8 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 9 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 9 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
 | 10 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 11 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 12 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
-| 13 | [KRISTINA](http://twitter.com/search?q=KRISTINA) | N/A |
-| 14 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 15 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 16 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 17 | [Jägerschnitzel](http://twitter.com/search?q=J%c3%a4gerschnitzel) | N/A |
+| 11 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 12 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 13 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
+| 14 | [KRISTINA](http://twitter.com/search?q=KRISTINA) | N/A |
+| 15 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 16 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 18 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 21 | [Manuel Neuer](http://twitter.com/search?q=Manuel+Neuer) | N/A |
-| 22 | [Hahn](http://twitter.com/search?q=Hahn) | N/A |
+| 19 | [Hahn](http://twitter.com/search?q=Hahn) | N/A |
+| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 21 | [Jägerschnitzel](http://twitter.com/search?q=J%c3%a4gerschnitzel) | N/A |
+| 22 | [Manuel Neuer](http://twitter.com/search?q=Manuel+Neuer) | N/A |
 | 23 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 24 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 25 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 26 | [Schwebe](http://twitter.com/search?q=Schwebe) | N/A |
-| 27 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 28 | [Asta](http://twitter.com/search?q=Asta) | N/A |
-| 29 | [Tobi](http://twitter.com/search?q=Tobi) | N/A |
+| 24 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 25 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
+| 26 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
+| 27 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 28 | [Subs](http://twitter.com/search?q=Subs) | N/A |
+| 29 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
 | 30 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 31 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 32 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
-| 33 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 34 | [Subs](http://twitter.com/search?q=Subs) | N/A |
-| 35 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 36 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 37 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
-| 38 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 39 | [Ministerpräsidentin](http://twitter.com/search?q=Ministerpr%c3%a4sidentin) | N/A |
-| 40 | [Dispo](http://twitter.com/search?q=Dispo) | N/A |
-| 41 | [Unruhe](http://twitter.com/search?q=Unruhe) | N/A |
-| 42 | [Bildungsnotstand](http://twitter.com/search?q=Bildungsnotstand) | N/A |
-| 43 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 44 | [Filz](http://twitter.com/search?q=Filz) | N/A |
-| 45 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
-| 46 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 47 | [Grupp](http://twitter.com/search?q=Grupp) | N/A |
-| 48 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 31 | [Schwebe](http://twitter.com/search?q=Schwebe) | N/A |
+| 32 | [Tapalovic](http://twitter.com/search?q=Tapalovic) | N/A |
+| 33 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 34 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
+| 35 | [Pelze](http://twitter.com/search?q=Pelze) | N/A |
+| 36 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 37 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 38 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 40 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
+| 41 | [Ministerpräsidentin](http://twitter.com/search?q=Ministerpr%c3%a4sidentin) | N/A |
+| 42 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 43 | [Asta](http://twitter.com/search?q=Asta) | N/A |
+| 44 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 45 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 46 | [Filz](http://twitter.com/search?q=Filz) | N/A |
+| 47 | [Grundängsten](http://twitter.com/search?q=Grund%c3%a4ngsten) | N/A |
+| 48 | [Grupp](http://twitter.com/search?q=Grupp) | N/A |
 | 49 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
 
 
