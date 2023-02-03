@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-03 20:17:18 UTC`
+📆 Last Updated: `2023-02-03 21:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Singapore
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
-| 3 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 1 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
 | 4 | [#鄂尔多斯](http://twitter.com/search?q=%23%e9%84%82%e5%b0%94%e5%a4%9a%e6%96%af) | N/A |
 | 5 | [#shootingstarinsingapore](http://twitter.com/search?q=%23shootingstarinsingapore) | N/A |
 | 6 | [louis tomlinson](http://twitter.com/search?q=louis+tomlinson) | N/A |
@@ -32,16 +32,16 @@ This is top 50 for Singapore
 | 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 16 | [READY TO BE](http://twitter.com/search?q=READY+TO+BE) | N/A |
 | 17 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 18 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 19 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
-| 20 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
-| 21 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 24 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 25 | [3rd Feb](http://twitter.com/search?q=3rd+Feb) | N/A |
-| 26 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 27 | [Grab](http://twitter.com/search?q=Grab) | N/A |
+| 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 19 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 20 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 21 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 22 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 24 | [3rd Feb](http://twitter.com/search?q=3rd+Feb) | N/A |
+| 25 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 26 | [Grab](http://twitter.com/search?q=Grab) | N/A |
+| 27 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
 | 28 | [COMPLEX EP OUT NOW](http://twitter.com/search?q=COMPLEX+EP+OUT+NOW) | "COMPLEX EP OUT NOW" is a phrase used to announce the release of an EP (Extended Play) album. It means that the EP is now available for purchase or streaming. |
 | 29 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
 | 30 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
@@ -49,12 +49,12 @@ This is top 50 for Singapore
 | 32 | [Meta](http://twitter.com/search?q=Meta) | N/A |
 | 33 | [Jackson Wang](http://twitter.com/search?q=Jackson+Wang) | Jackson Wang is a Chinese singer, rapper, dancer, and actor. He is a member of the South Korean boy band Got7 and is also a solo artist. The meaning of his name in English is "strong protector". |
 | 34 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 35 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 36 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 37 | [ON MY WAY](http://twitter.com/search?q=ON+MY+WAY) | N/A |
-| 38 | [Lots](http://twitter.com/search?q=Lots) | N/A |
-| 39 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 40 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 35 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 36 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 37 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 38 | [ON MY WAY](http://twitter.com/search?q=ON+MY+WAY) | N/A |
+| 39 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 40 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 41 | [England](http://twitter.com/search?q=England) | N/A |
 | 42 | [Epik High](http://twitter.com/search?q=Epik+High) | N/A |
 | 43 | [suga](http://twitter.com/search?q=suga) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Singapore
 | 46 | [HES SO](http://twitter.com/search?q=HES+SO) | N/A |
 | 47 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
 | 48 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 49 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 50 | [Official Music Video](http://twitter.com/search?q=Official+Music+Video) | N/A |
+| 49 | [Reminds](http://twitter.com/search?q=Reminds) | N/A |
+| 50 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 
 
 

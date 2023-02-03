@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-03 20:17:18 UTC`
+📆 Last Updated: `2023-02-03 21:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,12 +28,12 @@ This is top 50 for Philippines
 | 11 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
 | 12 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
 | 13 | [d-1 complex ep release](http://twitter.com/search?q=d-1+complex+ep+release) | N/A |
-| 14 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 15 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
-| 16 | [JULIEVER PagIbigNaKayaEP1](http://twitter.com/search?q=JULIEVER+PagIbigNaKayaEP1) | N/A |
-| 17 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
-| 18 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 19 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 14 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
+| 15 | [JULIEVER PagIbigNaKayaEP1](http://twitter.com/search?q=JULIEVER+PagIbigNaKayaEP1) | N/A |
+| 16 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
+| 17 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 18 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 19 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
 | 20 | [FRANSETHChiCo MulingPagkikita](http://twitter.com/search?q=FRANSETHChiCo+MulingPagkikita) | N/A |
 | 21 | [HAPPY ZACHAM FE13sarry](http://twitter.com/search?q=HAPPY+ZACHAM+FE13sarry) | N/A |
 | 22 | [KDLEX PETAWalangAraySoon](http://twitter.com/search?q=KDLEX+PETAWalangAraySoon) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Philippines
 | 40 | [JAYrassic PIEdate](http://twitter.com/search?q=JAYrassic+PIEdate) | N/A |
 | 41 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
 | 42 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 43 | [alamat jamming with rappler](http://twitter.com/search?q=alamat+jamming+with+rappler) | N/A |
-| 44 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 43 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 44 | [alamat jamming with rappler](http://twitter.com/search?q=alamat+jamming+with+rappler) | N/A |
 | 45 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
-| 46 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 47 | [chanty on popkorn](http://twitter.com/search?q=chanty+on+popkorn) | N/A |
-| 48 | [TAE ON VARIETY SHOW](http://twitter.com/search?q=TAE+ON+VARIETY+SHOW) | TAE ON VARIETY SHOW is a South Korean variety show hosted by singer and actor Kim Tae-hee. The show features celebrities from various fields, including music, film, television, and sports, as they compete in various challenges and activities. The show's title is a play on words that translates to "Let's Play Variety Show" in English. |
-| 49 | [JANENELLA ROCKS](http://twitter.com/search?q=JANENELLA+ROCKS) | N/A |
-| 50 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 46 | [TAE ON VARIETY SHOW](http://twitter.com/search?q=TAE+ON+VARIETY+SHOW) | TAE ON VARIETY SHOW is a South Korean variety show hosted by singer and actor Kim Tae-hee. The show features celebrities from various fields, including music, film, television, and sports, as they compete in various challenges and activities. The show's title is a play on words that translates to "Let's Play Variety Show" in English. |
+| 47 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 48 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 49 | [chanty on popkorn](http://twitter.com/search?q=chanty+on+popkorn) | N/A |
+| 50 | [JANENELLA ROCKS](http://twitter.com/search?q=JANENELLA+ROCKS) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-02-03 20:16:47 UTC`
+📆 Last Updated: `2023-02-03 21:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,8 +32,8 @@ This is top 50 for [Philippines](</Philippines>)
 | 15 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
 | 16 | [JULIEVER PagIbigNaKayaEP1](http://twitter.com/search?q=JULIEVER+PagIbigNaKayaEP1) | N/A |
 | 17 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
-| 18 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 19 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 18 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 19 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
 | 20 | [FRANSETHChiCo MulingPagkikita](http://twitter.com/search?q=FRANSETHChiCo+MulingPagkikita) | N/A |
 | 21 | [HAPPY ZACHAM FE13sarry](http://twitter.com/search?q=HAPPY+ZACHAM+FE13sarry) | N/A |
 | 22 | [KDLEX PETAWalangAraySoon](http://twitter.com/search?q=KDLEX+PETAWalangAraySoon) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Philippines](</Philippines>)
 | 40 | [JAYrassic PIEdate](http://twitter.com/search?q=JAYrassic+PIEdate) | N/A |
 | 41 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
 | 42 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 43 | [alamat jamming with rappler](http://twitter.com/search?q=alamat+jamming+with+rappler) | N/A |
-| 44 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
-| 45 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 46 | [chanty on popkorn](http://twitter.com/search?q=chanty+on+popkorn) | N/A |
-| 47 | [TAE ON VARIETY SHOW](http://twitter.com/search?q=TAE+ON+VARIETY+SHOW) | TAE ON VARIETY SHOW is a South Korean variety show hosted by singer and actor Kim Tae-hee. The show features celebrities from various fields, including music, film, television, and sports, as they compete in various challenges and activities. The show's title is a play on words that translates to "Let's Play Variety Show" in English. |
-| 48 | [JANENELLA ROCKS](http://twitter.com/search?q=JANENELLA+ROCKS) | N/A |
-| 49 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 50 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
+| 43 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 44 | [alamat jamming with rappler](http://twitter.com/search?q=alamat+jamming+with+rappler) | N/A |
+| 45 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 46 | [TAE ON VARIETY SHOW](http://twitter.com/search?q=TAE+ON+VARIETY+SHOW) | TAE ON VARIETY SHOW is a South Korean variety show hosted by singer and actor Kim Tae-hee. The show features celebrities from various fields, including music, film, television, and sports, as they compete in various challenges and activities. The show's title is a play on words that translates to "Let's Play Variety Show" in English. |
+| 47 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 48 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 49 | [chanty on popkorn](http://twitter.com/search?q=chanty+on+popkorn) | N/A |
+| 50 | [JANENELLA ROCKS](http://twitter.com/search?q=JANENELLA+ROCKS) | N/A |
 
 
 

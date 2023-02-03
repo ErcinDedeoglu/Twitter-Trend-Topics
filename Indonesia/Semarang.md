@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-03 20:16:40 UTC`
+📆 Last Updated: `2023-02-03 21:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FIONYCELEB21GHT](http://twitter.com/search?q=%23FIONYCELEB21GHT) | N/A |
-| 2 | [#MazdaNewVibrant](http://twitter.com/search?q=%23MazdaNewVibrant) | #MazdaNewVibrant is a hashtag used to promote Mazda's new vibrant line of vehicles. It is meant to emphasize the bold and energetic design of the cars, as well as their modern technology and features. |
-| 3 | [#EverfitFibewell](http://twitter.com/search?q=%23EverfitFibewell) | #EverfitFibewell is a hashtag used to promote Everfit Fibewell, a brand of health and wellness products. The phrase "Everfit Fibewell" is a combination of the words "ever fit" and "well," which together mean to be in good physical and mental health. |
+| 1 | [#MazdaNewVibrant](http://twitter.com/search?q=%23MazdaNewVibrant) | #MazdaNewVibrant is a hashtag used to promote Mazda's new vibrant line of vehicles. It is meant to emphasize the bold and energetic design of the cars, as well as their modern technology and features. |
+| 2 | [#EverfitFibewell](http://twitter.com/search?q=%23EverfitFibewell) | #EverfitFibewell is a hashtag used to promote Everfit Fibewell, a brand of health and wellness products. The phrase "Everfit Fibewell" is a combination of the words "ever fit" and "well," which together mean to be in good physical and mental health. |
+| 3 | [#FIONYCELEB21GHT](http://twitter.com/search?q=%23FIONYCELEB21GHT) | N/A |
 | 4 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
-| 5 | [musra jokowi jogja](http://twitter.com/search?q=musra+jokowi+jogja) | N/A |
-| 6 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
-| 7 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
-| 8 | [mending prabowo](http://twitter.com/search?q=mending+prabowo) | N/A |
-| 9 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [ikon horor](http://twitter.com/search?q=ikon+horor) | N/A |
-| 12 | [Lempuyangan](http://twitter.com/search?q=Lempuyangan) | N/A |
-| 13 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
-| 14 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
-| 15 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 16 | [QRIS](http://twitter.com/search?q=QRIS) | N/A |
-| 17 | [Kris](http://twitter.com/search?q=Kris) | N/A |
-| 18 | [WELCOME BACK BAEKHYUN](http://twitter.com/search?q=WELCOME+BACK+BAEKHYUN) | N/A |
-| 19 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
-| 20 | [EUNCHAE MUSIC BANK MC](http://twitter.com/search?q=EUNCHAE+MUSIC+BANK+MC) | N/A |
-| 21 | [PAK MUH](http://twitter.com/search?q=PAK+MUH) | N/A |
-| 22 | [GBLA](http://twitter.com/search?q=GBLA) | N/A |
-| 23 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
-| 24 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 25 | [WELCOME TO INDONESIA EXO-SC](http://twitter.com/search?q=WELCOME+TO+INDONESIA+EXO-SC) | N/A |
-| 26 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
-| 27 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 28 | [Wayangnya Kita](http://twitter.com/search?q=Wayangnya+Kita) | N/A |
-| 29 | [WELCOME TO JAKARTA EXO-SC](http://twitter.com/search?q=WELCOME+TO+JAKARTA+EXO-SC) | N/A |
-| 30 | [Kyuris](http://twitter.com/search?q=Kyuris) | N/A |
-| 31 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 32 | [Sanggup](http://twitter.com/search?q=Sanggup) | Sanggup is an Indonesian word that means "able" or "willing". It is used to express one's ability or willingness to do something. |
-| 33 | [CX-5 AWD](http://twitter.com/search?q=CX-5+AWD) | N/A |
-| 34 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
-| 35 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 36 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 37 | [Amethyst](http://twitter.com/search?q=Amethyst) | Amethyst is a type of purple quartz gemstone. It is the birthstone for February and is associated with protection, healing, and peace. The name comes from the Greek word "amethystos," which means "not intoxicated." |
-| 38 | [Jeki](http://twitter.com/search?q=Jeki) | N/A |
-| 39 | [Multigrain](http://twitter.com/search?q=Multigrain) | N/A |
-| 40 | [have a safe flight exo-sc](http://twitter.com/search?q=have+a+safe+flight+exo-sc) | N/A |
-| 41 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 42 | [Umur 12](http://twitter.com/search?q=Umur+12) | N/A |
-| 43 | [suzzanna](http://twitter.com/search?q=suzzanna) | N/A |
-| 44 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 45 | [Ganteng](http://twitter.com/search?q=Ganteng) | N/A |
-| 46 | [Brimob](http://twitter.com/search?q=Brimob) | N/A |
-| 47 | [Artisan Red Premium Metallic](http://twitter.com/search?q=Artisan+Red+Premium+Metallic) | N/A |
-| 48 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 49 | [Best Duo](http://twitter.com/search?q=Best+Duo) | N/A |
+| 5 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 6 | [musra jokowi jogja](http://twitter.com/search?q=musra+jokowi+jogja) | N/A |
+| 7 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
+| 8 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 11 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
+| 12 | [mending prabowo](http://twitter.com/search?q=mending+prabowo) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
+| 15 | [ikon horor](http://twitter.com/search?q=ikon+horor) | N/A |
+| 16 | [Lempuyangan](http://twitter.com/search?q=Lempuyangan) | N/A |
+| 17 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 18 | [Sechan](http://twitter.com/search?q=Sechan) | N/A |
+| 19 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 20 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 21 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
+| 22 | [QRIS](http://twitter.com/search?q=QRIS) | N/A |
+| 23 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 24 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
+| 25 | [Kris](http://twitter.com/search?q=Kris) | N/A |
+| 26 | [WELCOME BACK BAEKHYUN](http://twitter.com/search?q=WELCOME+BACK+BAEKHYUN) | N/A |
+| 27 | [EUNCHAE MUSIC BANK MC](http://twitter.com/search?q=EUNCHAE+MUSIC+BANK+MC) | N/A |
+| 28 | [PAK MUH](http://twitter.com/search?q=PAK+MUH) | N/A |
+| 29 | [GBLA](http://twitter.com/search?q=GBLA) | N/A |
+| 30 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 31 | [welcome to indonesia exo-sc](http://twitter.com/search?q=welcome+to+indonesia+exo-sc) | N/A |
+| 32 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 33 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
+| 34 | [Wayangnya Kita](http://twitter.com/search?q=Wayangnya+Kita) | N/A |
+| 35 | [WELCOME TO JAKARTA EXO-SC](http://twitter.com/search?q=WELCOME+TO+JAKARTA+EXO-SC) | N/A |
+| 36 | [Kyuris](http://twitter.com/search?q=Kyuris) | N/A |
+| 37 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 38 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 39 | [Sanggup](http://twitter.com/search?q=Sanggup) | Sanggup is an Indonesian word that means "able" or "willing". It is used to express one's ability or willingness to do something. |
+| 40 | [CX-5 AWD](http://twitter.com/search?q=CX-5+AWD) | N/A |
+| 41 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 42 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
+| 43 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 44 | [Amethyst](http://twitter.com/search?q=Amethyst) | Amethyst is a type of purple quartz gemstone. It is the birthstone for February and is associated with protection, healing, and peace. The name comes from the Greek word "amethystos," which means "not intoxicated." |
+| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 46 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 47 | [Jeki](http://twitter.com/search?q=Jeki) | N/A |
+| 48 | [Multigrain](http://twitter.com/search?q=Multigrain) | N/A |
+| 49 | [have a safe flight exo-sc](http://twitter.com/search?q=have+a+safe+flight+exo-sc) | N/A |
 
 
 

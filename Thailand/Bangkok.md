@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-03 20:16:48 UTC`
+📆 Last Updated: `2023-02-03 21:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,35 +36,35 @@ This is top 50 for [Thailand](</Thailand>)
 | 19 | [Gemini Norawit](http://twitter.com/search?q=Gemini+Norawit) | N/A |
 | 20 | [L'Oréal Paris TH With CL](http://twitter.com/search?q=L%27Or%c3%a9al+Paris+TH+With+CL) | N/A |
 | 21 | [LALISA THE KPOP HEROINE](http://twitter.com/search?q=LALISA+THE+KPOP+HEROINE) | N/A |
-| 22 | [#2ndWorldTour_MANIACTH](http://twitter.com/search?q=%232ndWorldTour_MANIACTH) | N/A |
-| 23 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | #oneสนั่นจอ2023 is a hashtag used in Thailand to promote the 2023 Asian Cup, which will be held in Thailand. In English, it translates to "#OneCheerScreen2023". |
-| 24 | [#ElseveHyaluronXCharlotte](http://twitter.com/search?q=%23ElseveHyaluronXCharlotte) | N/A |
-| 25 | [#หมอกินคนไข้](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b8%84%e0%b8%99%e0%b9%84%e0%b8%82%e0%b9%89) | N/A |
-| 26 | [#โอเอ็มจีลาษวรรณสนั่นจอ](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ad%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%a1%e0%b8%88%e0%b8%b5%e0%b8%a5%e0%b8%b2%e0%b8%a9%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad) | N/A |
-| 27 | [#BamHome_EP3](http://twitter.com/search?q=%23BamHome_EP3) | N/A |
-| 28 | [#BKPPxParkThonglor](http://twitter.com/search?q=%23BKPPxParkThonglor) | N/A |
-| 29 | [#TalkwithMeen8](http://twitter.com/search?q=%23TalkwithMeen8) | #TalkwithMeen8 is a hashtag used by the Indian YouTuber Meenakshi Agarwal to promote her YouTube channel. It encourages people to engage with her content and connect with her on social media. The hashtag translates to "talk with Meenakshi 8" in English. |
-| 30 | [#4ขวบลูกบอลของคุณบิ๊กกลัฟ](http://twitter.com/search?q=%234%e0%b8%82%e0%b8%a7%e0%b8%9a%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | #4ขวบลูกบอลของคุณบิ๊กกลั้ translates to "Your Big Gulp's fourth soccer ball". It is a phrase used to describe a situation where someone has achieved something after several attempts. |
-| 31 | [#FinalMissGrandMKM2023](http://twitter.com/search?q=%23FinalMissGrandMKM2023) | N/A |
-| 32 | [#ยืนงงในดงฟ้ามาตั้งนาน](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b7%e0%b8%99%e0%b8%87%e0%b8%87%e0%b9%83%e0%b8%99%e0%b8%94%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%99) | "#ยืนงงในดงฟ้ามาตั้งนาน" is a Thai phrase that translates to "Standing in the blue sky for a long time". It is used to express a feeling of determination and perseverance. |
-| 33 | [#พี่จะตีนะเนย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%88%e0%b8%b0%e0%b8%95%e0%b8%b5%e0%b8%99%e0%b8%b0%e0%b9%80%e0%b8%99%e0%b8%a2) | N/A |
-| 34 | [#뱀집_3화](http://twitter.com/search?q=%23%eb%b1%80%ec%a7%91_3%ed%99%94) | N/A |
-| 35 | [#BossNoeulxtaitaituan](http://twitter.com/search?q=%23BossNoeulxtaitaituan) | N/A |
-| 36 | [#EnglotAns10month](http://twitter.com/search?q=%23EnglotAns10month) | N/A |
-| 37 | [#พันพรถึงพรนับพัน](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%a3%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%9e%e0%b8%a3%e0%b8%99%e0%b8%b1%e0%b8%9a%e0%b8%9e%e0%b8%b1%e0%b8%99) | N/A |
-| 38 | [#609FinalEPS](http://twitter.com/search?q=%23609FinalEPS) | N/A |
-| 39 | [#BNK484thGEN_DebutStage](http://twitter.com/search?q=%23BNK484thGEN_DebutStage) | N/A |
-| 40 | [#609FinalVer1](http://twitter.com/search?q=%23609FinalVer1) | N/A |
-| 41 | [#เอ้วเริ่มเร้อะ](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ad%e0%b9%89%e0%b8%a7%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%b0) | N/A |
+| 22 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 23 | [K-pop](http://twitter.com/search?q=K-pop) | N/A |
+| 24 | [#2ndWorldTour_MANIACTH](http://twitter.com/search?q=%232ndWorldTour_MANIACTH) | N/A |
+| 25 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | #oneสนั่นจอ2023 is a hashtag used in Thailand to promote the 2023 Asian Cup, which will be held in Thailand. In English, it translates to "#OneCheerScreen2023". |
+| 26 | [#ElseveHyaluronXCharlotte](http://twitter.com/search?q=%23ElseveHyaluronXCharlotte) | N/A |
+| 27 | [#หมอกินคนไข้](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b8%84%e0%b8%99%e0%b9%84%e0%b8%82%e0%b9%89) | N/A |
+| 28 | [#โอเอ็มจีลาษวรรณสนั่นจอ](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ad%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%a1%e0%b8%88%e0%b8%b5%e0%b8%a5%e0%b8%b2%e0%b8%a9%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad) | N/A |
+| 29 | [#BamHome_EP3](http://twitter.com/search?q=%23BamHome_EP3) | N/A |
+| 30 | [#BKPPxParkThonglor](http://twitter.com/search?q=%23BKPPxParkThonglor) | N/A |
+| 31 | [#TalkwithMeen8](http://twitter.com/search?q=%23TalkwithMeen8) | #TalkwithMeen8 is a hashtag used by the Indian YouTuber Meenakshi Agarwal to promote her YouTube channel. It encourages people to engage with her content and connect with her on social media. The hashtag translates to "talk with Meenakshi 8" in English. |
+| 32 | [#4ขวบลูกบอลของคุณบิ๊กกลัฟ](http://twitter.com/search?q=%234%e0%b8%82%e0%b8%a7%e0%b8%9a%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | #4ขวบลูกบอลของคุณบิ๊กกลั้ translates to "Your Big Gulp's fourth soccer ball". It is a phrase used to describe a situation where someone has achieved something after several attempts. |
+| 33 | [#FinalMissGrandMKM2023](http://twitter.com/search?q=%23FinalMissGrandMKM2023) | N/A |
+| 34 | [#ยืนงงในดงฟ้ามาตั้งนาน](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b7%e0%b8%99%e0%b8%87%e0%b8%87%e0%b9%83%e0%b8%99%e0%b8%94%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%99) | "#ยืนงงในดงฟ้ามาตั้งนาน" is a Thai phrase that translates to "Standing in the blue sky for a long time". It is used to express a feeling of determination and perseverance. |
+| 35 | [#พี่จะตีนะเนย](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%88%e0%b8%b0%e0%b8%95%e0%b8%b5%e0%b8%99%e0%b8%b0%e0%b9%80%e0%b8%99%e0%b8%a2) | N/A |
+| 36 | [#뱀집_3화](http://twitter.com/search?q=%23%eb%b1%80%ec%a7%91_3%ed%99%94) | N/A |
+| 37 | [#BossNoeulxtaitaituan](http://twitter.com/search?q=%23BossNoeulxtaitaituan) | N/A |
+| 38 | [#พันพรถึงพรนับพัน](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%a3%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%9e%e0%b8%a3%e0%b8%99%e0%b8%b1%e0%b8%9a%e0%b8%9e%e0%b8%b1%e0%b8%99) | N/A |
+| 39 | [#609FinalEPS](http://twitter.com/search?q=%23609FinalEPS) | N/A |
+| 40 | [#BNK484thGEN_DebutStage](http://twitter.com/search?q=%23BNK484thGEN_DebutStage) | N/A |
+| 41 | [#609FinalVer1](http://twitter.com/search?q=%23609FinalVer1) | N/A |
 | 42 | [#EVEANDBOYXYORCH](http://twitter.com/search?q=%23EVEANDBOYXYORCH) | N/A |
 | 43 | [#TwoWorldsจ๋าภูผามาแล้ว](http://twitter.com/search?q=%23TwoWorlds%e0%b8%88%e0%b9%8b%e0%b8%b2%e0%b8%a0%e0%b8%b9%e0%b8%9c%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
 | 44 | [#เจอฟอร์ดที่บิวเทรี่ยม](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%94%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a1) | N/A |
-| 45 | [#26thORNmazingChapter](http://twitter.com/search?q=%2326thORNmazingChapter) | N/A |
-| 46 | [#เพลงรักMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81MV) | N/A |
-| 47 | [#มอนิ่งนะดุงจัง](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%ad%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b8%99%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%87%e0%b8%88%e0%b8%b1%e0%b8%87) | N/A |
-| 48 | [#AOMGWORLDTOUR2023inHK](http://twitter.com/search?q=%23AOMGWORLDTOUR2023inHK) | N/A |
-| 49 | [#MySchoolPresidentOnStage](http://twitter.com/search?q=%23MySchoolPresidentOnStage) | N/A |
-| 50 | [#leejaewookx247xiconsiam](http://twitter.com/search?q=%23leejaewookx247xiconsiam) | N/A |
+| 45 | [#EnglotAns10month](http://twitter.com/search?q=%23EnglotAns10month) | N/A |
+| 46 | [#26thORNmazingChapter](http://twitter.com/search?q=%2326thORNmazingChapter) | N/A |
+| 47 | [#เพลงรักMV](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81MV) | N/A |
+| 48 | [#มอนิ่งนะดุงจัง](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%ad%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b8%99%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%87%e0%b8%88%e0%b8%b1%e0%b8%87) | N/A |
+| 49 | [#AOMGWORLDTOUR2023inHK](http://twitter.com/search?q=%23AOMGWORLDTOUR2023inHK) | N/A |
+| 50 | [#MySchoolPresidentOnStage](http://twitter.com/search?q=%23MySchoolPresidentOnStage) | N/A |
 
 
 

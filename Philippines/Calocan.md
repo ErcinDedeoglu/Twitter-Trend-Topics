@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-02-03 20:16:46 UTC`
+📆 Last Updated: `2023-02-03 21:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for [Philippines](</Philippines>)
 | 5 | [#ENHYPEN_IN_MANILA](http://twitter.com/search?q=%23ENHYPEN_IN_MANILA) | N/A |
 | 6 | [#FELIP_COMPLEX](http://twitter.com/search?q=%23FELIP_COMPLEX) | #FELIP_COMPLEX is a term used to describe a person's tendency to overthink and overanalyze situations, leading to feelings of anxiety and stress. It is named after Felipe, a character in the novel The Alchemist by Paulo Coelho. |
 | 7 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
-| 8 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
-| 9 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 8 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 9 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
 | 10 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
 | 11 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
 | 12 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
@@ -32,8 +32,8 @@ This is top 50 for [Philippines](</Philippines>)
 | 15 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
 | 16 | [JULIEVER PagIbigNaKayaEP1](http://twitter.com/search?q=JULIEVER+PagIbigNaKayaEP1) | N/A |
 | 17 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
-| 18 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 19 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 18 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 19 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
 | 20 | [FRANSETHChiCo MulingPagkikita](http://twitter.com/search?q=FRANSETHChiCo+MulingPagkikita) | N/A |
 | 21 | [HAPPY ZACHAM FE13sarry](http://twitter.com/search?q=HAPPY+ZACHAM+FE13sarry) | N/A |
 | 22 | [KDLEX PETAWalangAraySoon](http://twitter.com/search?q=KDLEX+PETAWalangAraySoon) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Philippines](</Philippines>)
 | 40 | [JAYrassic PIEdate](http://twitter.com/search?q=JAYrassic+PIEdate) | N/A |
 | 41 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
 | 42 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 43 | [alamat jamming with rappler](http://twitter.com/search?q=alamat+jamming+with+rappler) | N/A |
-| 44 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
-| 45 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 46 | [chanty on popkorn](http://twitter.com/search?q=chanty+on+popkorn) | N/A |
-| 47 | [TAE ON VARIETY SHOW](http://twitter.com/search?q=TAE+ON+VARIETY+SHOW) | TAE ON VARIETY SHOW is a South Korean variety show hosted by singer and actor Kim Tae-hee. The show features celebrities from various fields, including music, film, television, and sports, as they compete in various challenges and activities. The show's title is a play on words that translates to "Let's Play Variety Show" in English. |
-| 48 | [JANENELLA ROCKS](http://twitter.com/search?q=JANENELLA+ROCKS) | N/A |
-| 49 | [Stella](http://twitter.com/search?q=Stella) | N/A |
-| 50 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
+| 43 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 44 | [alamat jamming with rappler](http://twitter.com/search?q=alamat+jamming+with+rappler) | N/A |
+| 45 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 46 | [TAE ON VARIETY SHOW](http://twitter.com/search?q=TAE+ON+VARIETY+SHOW) | TAE ON VARIETY SHOW is a South Korean variety show hosted by singer and actor Kim Tae-hee. The show features celebrities from various fields, including music, film, television, and sports, as they compete in various challenges and activities. The show's title is a play on words that translates to "Let's Play Variety Show" in English. |
+| 47 | [Stella](http://twitter.com/search?q=Stella) | N/A |
+| 48 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 49 | [chanty on popkorn](http://twitter.com/search?q=chanty+on+popkorn) | N/A |
+| 50 | [JANENELLA ROCKS](http://twitter.com/search?q=JANENELLA+ROCKS) | N/A |
 
 
 

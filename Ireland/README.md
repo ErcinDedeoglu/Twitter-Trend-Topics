@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-03 20:17:13 UTC`
+📆 Last Updated: `2023-02-03 21:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ireland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CCAD23](http://twitter.com/search?q=%23CCAD23) | N/A |
-| 2 | [#BlockRockinBeats](http://twitter.com/search?q=%23BlockRockinBeats) | N/A |
-| 3 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 4 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
-| 5 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 6 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 7 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 8 | [#U20SixNations](http://twitter.com/search?q=%23U20SixNations) | N/A |
+| 1 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 2 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
+| 3 | [#U20SixNations](http://twitter.com/search?q=%23U20SixNations) | N/A |
+| 4 | [#BlockRockinBeats](http://twitter.com/search?q=%23BlockRockinBeats) | N/A |
+| 5 | [#CHEFUL](http://twitter.com/search?q=%23CHEFUL) | #CHEFUL is a hashtag used on social media to refer to food that is prepared by a professional chef. It is often used to showcase the work of chefs, highlight their culinary skills, and promote their businesses. |
+| 6 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 7 | [#CCAD23](http://twitter.com/search?q=%23CCAD23) | N/A |
+| 8 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 9 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 10 | [Annual Dinner](http://twitter.com/search?q=Annual+Dinner) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 13 | [#HoarderMovies](http://twitter.com/search?q=%23HoarderMovies) | N/A |
-| 14 | [Graham Carey](http://twitter.com/search?q=Graham+Carey) | N/A |
-| 15 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 16 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 17 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
-| 18 | [Katie Taylor](http://twitter.com/search?q=Katie+Taylor) | N/A |
-| 19 | [Eddie Hearn](http://twitter.com/search?q=Eddie+Hearn) | N/A |
-| 20 | [Grand Canal Dock](http://twitter.com/search?q=Grand+Canal+Dock) | N/A |
-| 21 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 22 | [Glen](http://twitter.com/search?q=Glen) | N/A |
-| 23 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 24 | [Kerbs](http://twitter.com/search?q=Kerbs) | N/A |
-| 25 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 26 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
-| 27 | [Aidan McAnespie](http://twitter.com/search?q=Aidan+McAnespie) | N/A |
-| 28 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 29 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
-| 30 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 32 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
-| 33 | [6 Nations](http://twitter.com/search?q=6+Nations) | N/A |
-| 34 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 35 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 36 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 37 | [Pat Kenny](http://twitter.com/search?q=Pat+Kenny) | N/A |
-| 38 | [Number 15](http://twitter.com/search?q=Number+15) | N/A |
-| 39 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 40 | [The GAA](http://twitter.com/search?q=The+GAA) | N/A |
-| 41 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
-| 42 | [Shane Kearney](http://twitter.com/search?q=Shane+Kearney) | N/A |
-| 43 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 44 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
-| 45 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 46 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 47 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
-| 48 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
-| 49 | [Colm](http://twitter.com/search?q=Colm) | N/A |
-| 50 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 11 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 13 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 14 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 17 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
+| 18 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 19 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 20 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 21 | [Graham Carey](http://twitter.com/search?q=Graham+Carey) | N/A |
+| 22 | [Annual Dinner](http://twitter.com/search?q=Annual+Dinner) | N/A |
+| 23 | [Katie Taylor](http://twitter.com/search?q=Katie+Taylor) | N/A |
+| 24 | [Kilmacud](http://twitter.com/search?q=Kilmacud) | N/A |
+| 25 | [Eddie Hearn](http://twitter.com/search?q=Eddie+Hearn) | N/A |
+| 26 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
+| 27 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 28 | [Grand Canal Dock](http://twitter.com/search?q=Grand+Canal+Dock) | N/A |
+| 29 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 30 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 31 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
+| 32 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 33 | [Aidan McAnespie](http://twitter.com/search?q=Aidan+McAnespie) | N/A |
+| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 36 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 37 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 38 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
+| 39 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 40 | [Pat Kenny](http://twitter.com/search?q=Pat+Kenny) | N/A |
+| 41 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
+| 42 | [Number 15](http://twitter.com/search?q=Number+15) | N/A |
+| 43 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 44 | [Kerbs](http://twitter.com/search?q=Kerbs) | N/A |
+| 45 | [Keith](http://twitter.com/search?q=Keith) | N/A |
+| 46 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
+| 47 | [The GAA](http://twitter.com/search?q=The+GAA) | N/A |
+| 48 | [Shane Kearney](http://twitter.com/search?q=Shane+Kearney) | N/A |
+| 49 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 50 | [Aoife](http://twitter.com/search?q=Aoife) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-03 20:16:31 UTC`
+📆 Last Updated: `2023-02-03 21:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [#RBSSTU](http://twitter.com/search?q=%23RBSSTU) | N/A |
 | 2 | [#wacscr](http://twitter.com/search?q=%23wacscr) | N/A |
-| 3 | [#SCR2023](http://twitter.com/search?q=%23SCR2023) | N/A |
+| 3 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
 | 4 | [#oefbcup](http://twitter.com/search?q=%23oefbcup) | N/A |
-| 5 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
-| 6 | [Wien](http://twitter.com/search?q=Wien) | N/A |
+| 5 | [Wien](http://twitter.com/search?q=Wien) | N/A |
+| 6 | [#SCR2023](http://twitter.com/search?q=%23SCR2023) | N/A |
 | 7 | [Angriff](http://twitter.com/search?q=Angriff) | N/A |
 | 8 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 9 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
-| 10 | [Freude](http://twitter.com/search?q=Freude) | N/A |
-| 11 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
-| 12 | [Sager](http://twitter.com/search?q=Sager) | N/A |
-| 13 | [Weltbild](http://twitter.com/search?q=Weltbild) | N/A |
+| 9 | [#skrapid](http://twitter.com/search?q=%23skrapid) | N/A |
+| 10 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
+| 11 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 12 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
+| 13 | [Sager](http://twitter.com/search?q=Sager) | N/A |
 | 14 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 15 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 16 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 17 | [Inhalt](http://twitter.com/search?q=Inhalt) | N/A |
-| 18 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 19 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
+| 15 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 16 | [Staatsbürgerschaft](http://twitter.com/search?q=Staatsb%c3%bcrgerschaft) | N/A |
+| 17 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 18 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 19 | [Banner](http://twitter.com/search?q=Banner) | N/A |
 | 20 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
 | 21 | [Robert Ziegler](http://twitter.com/search?q=Robert+Ziegler) | N/A |
-| 22 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 23 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 22 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
+| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 24 | [Dorf](http://twitter.com/search?q=Dorf) | N/A |
-| 25 | [Profil](http://twitter.com/search?q=Profil) | N/A |
-| 26 | [#FPOE](http://twitter.com/search?q=%23FPOE) | N/A |
+| 25 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 26 | [Profil](http://twitter.com/search?q=Profil) | N/A |
 | 27 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 28 | [Satire](http://twitter.com/search?q=Satire) | N/A |
-| 29 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 28 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 29 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
 | 30 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 31 | [Banner](http://twitter.com/search?q=Banner) | N/A |
-| 32 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 33 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 34 | [Staatsbürgerschaft](http://twitter.com/search?q=Staatsb%c3%bcrgerschaft) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
-| 37 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 38 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 39 | [motivation](http://twitter.com/search?q=motivation) | N/A |
-| 40 | [Hunde](http://twitter.com/search?q=Hunde) | N/A |
-| 41 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
-| 42 | [Ebene](http://twitter.com/search?q=Ebene) | N/A |
-| 43 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 44 | [Fakt](http://twitter.com/search?q=Fakt) | N/A |
-| 45 | [Linz](http://twitter.com/search?q=Linz) | N/A |
-| 46 | [Titel](http://twitter.com/search?q=Titel) | N/A |
-| 47 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 48 | [Gewinne](http://twitter.com/search?q=Gewinne) | N/A |
-| 49 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 50 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
+| 31 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 32 | [Inhalt](http://twitter.com/search?q=Inhalt) | N/A |
+| 33 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 35 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
+| 36 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 37 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
+| 38 | [Motivation](http://twitter.com/search?q=Motivation) | N/A |
+| 39 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 40 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
+| 41 | [Ebene](http://twitter.com/search?q=Ebene) | N/A |
+| 42 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 43 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 44 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 45 | [Antrag](http://twitter.com/search?q=Antrag) | N/A |
+| 46 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 47 | [Zeug](http://twitter.com/search?q=Zeug) | N/A |
+| 48 | [Titel](http://twitter.com/search?q=Titel) | N/A |
+| 49 | [Hunde](http://twitter.com/search?q=Hunde) | N/A |
+| 50 | [Gewinne](http://twitter.com/search?q=Gewinne) | N/A |
 
 
 
