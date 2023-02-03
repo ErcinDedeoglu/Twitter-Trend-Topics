@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-03 01:48:14 UTC`
+📆 Last Updated: `2023-02-03 02:41:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#MalamJumatKliwon](http://twitter.com/search?q=%23MalamJumatKliwon) | #MalamJumatKliwon is an Indonesian phrase that translates to "Friday Night of the Fifth Week". It is a phrase used to refer to the fifth Friday night of the month, which is considered a special night in Indonesian culture. |
 | 2 | [#HariBUMDesa](http://twitter.com/search?q=%23HariBUMDesa) | N/A |
-| 3 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 4 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
-| 5 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 6 | [Ikon Horor](http://twitter.com/search?q=Ikon+Horor) | Ikon Horor is a term used in Indonesian culture to refer to horror icons. It is a combination of the words "ikon" (icon) and "horor" (horror). The term is used to describe popular horror characters, such as Freddy Krueger, Michael Myers, and Jason Voorhees. |
-| 7 | [#eaJSmilingInInsomnia](http://twitter.com/search?q=%23eaJSmilingInInsomnia) | N/A |
-| 8 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
-| 9 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | N/A |
-| 10 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
-| 13 | [Lempuyangan](http://twitter.com/search?q=Lempuyangan) | N/A |
-| 14 | [Aksi Bela Al Quran](http://twitter.com/search?q=Aksi+Bela+Al+Quran) | N/A |
+| 3 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
+| 4 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 5 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 6 | [#4ขวบลูกบอลของคุณบิ๊กกลัฟ](http://twitter.com/search?q=%234%e0%b8%82%e0%b8%a7%e0%b8%9a%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | N/A |
+| 7 | [Ikon Horor](http://twitter.com/search?q=Ikon+Horor) | Ikon Horor is a term used in Indonesian culture to refer to horror icons. It is a combination of the words "ikon" (icon) and "horor" (horror). The term is used to describe popular horror characters, such as Freddy Krueger, Michael Myers, and Jason Voorhees. |
+| 8 | [Fadil](http://twitter.com/search?q=Fadil) | N/A |
+| 9 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | 4th BIRTHDAY PHIBALLS is a type of party game that is popular in Japan. It involves throwing small balls at a target and trying to hit it. The game is usually played on the fourth birthday of a child, hence the name. The English translation of 4th BIRTHDAY PHIBALLS would be "Fourth Birthday Ball Toss". |
+| 10 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 11 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Series 5G](http://twitter.com/search?q=Series+5G) | N/A |
+| 14 | [Lempuyangan](http://twitter.com/search?q=Lempuyangan) | N/A |
 | 15 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | N/A |
-| 16 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
-| 17 | [Suzzanna](http://twitter.com/search?q=Suzzanna) | Suzzanna is a 2018 Indonesian horror film directed by Rocky Soraya. The film follows the story of Suzzanna, a woman who is murdered by her husband and his mistress, only to return from the dead to seek revenge. The title of the film is derived from the name of its protagonist. In English, the name Suzzanna means "lily". |
-| 18 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 16 | [Aksi Bela Al Quran](http://twitter.com/search?q=Aksi+Bela+Al+Quran) | N/A |
+| 17 | [Wangi](http://twitter.com/search?q=Wangi) | N/A |
+| 18 | [Suzzanna](http://twitter.com/search?q=Suzzanna) | Suzzanna is a 2018 Indonesian horror film directed by Rocky Soraya. The film follows the story of Suzzanna, a woman who is murdered by her husband and his mistress, only to return from the dead to seek revenge. The title of the film is derived from the name of its protagonist. In English, the name Suzzanna means "lily". |
 | 19 | [Nessie](http://twitter.com/search?q=Nessie) | N/A |
 | 20 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 21 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
-| 22 | [musra jokowi jogja](http://twitter.com/search?q=musra+jokowi+jogja) | N/A |
-| 23 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 24 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
-| 25 | [Life Goes On](http://twitter.com/search?q=Life+Goes+On) | N/A |
-| 26 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 21 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 22 | [PRINCESS KIREI DAY](http://twitter.com/search?q=PRINCESS+KIREI+DAY) | PRINCESS KIREI DAY is a Japanese holiday celebrated on April 29th. It is a day to celebrate the life and legacy of Princess Kirei, who was the daughter of Emperor Meiji and Empress Shoken. The day is meant to honor her memory and her contributions to society. In English, it is a day to remember and celebrate the life of Princess Kirei. |
+| 23 | [musra jokowi jogja](http://twitter.com/search?q=musra+jokowi+jogja) | N/A |
+| 24 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
+| 25 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 26 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
 | 27 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 28 | [Taichan](http://twitter.com/search?q=Taichan) | N/A |
-| 29 | [Tugu](http://twitter.com/search?q=Tugu) | N/A |
-| 30 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 31 | [Collect Book](http://twitter.com/search?q=Collect+Book) | N/A |
-| 32 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 33 | [Best Duo](http://twitter.com/search?q=Best+Duo) | N/A |
-| 34 | [Best Trio](http://twitter.com/search?q=Best+Trio) | N/A |
-| 35 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 36 | [pak prabowo konsisten](http://twitter.com/search?q=pak+prabowo+konsisten) | N/A |
-| 37 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
+| 28 | [Life goes on](http://twitter.com/search?q=Life+goes+on) | N/A |
+| 29 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
+| 30 | [haechan lucas kangen banget](http://twitter.com/search?q=haechan+lucas+kangen+banget) | N/A |
+| 31 | [Best Duo](http://twitter.com/search?q=Best+Duo) | N/A |
+| 32 | [Taichan](http://twitter.com/search?q=Taichan) | N/A |
+| 33 | [Collect Book](http://twitter.com/search?q=Collect+Book) | N/A |
+| 34 | [Tugu](http://twitter.com/search?q=Tugu) | N/A |
+| 35 | [FIGHTING TEASER 1](http://twitter.com/search?q=FIGHTING+TEASER+1) | Fighting Teaser 1 is a term used to describe a promotional video or trailer for a fighting game. It is usually used to showcase the characters, moves, and other features of the game. The purpose of the teaser is to generate excitement and anticipation for the game's release. |
+| 36 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 37 | [Best Trio](http://twitter.com/search?q=Best+Trio) | N/A |
 | 38 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 39 | [LIVE IG](http://twitter.com/search?q=LIVE+IG) | N/A |
-| 40 | [Sesungguhnya Allah](http://twitter.com/search?q=Sesungguhnya+Allah) | N/A |
-| 41 | [nikah di kua](http://twitter.com/search?q=nikah+di+kua) | N/A |
-| 42 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
-| 43 | [Serie B](http://twitter.com/search?q=Serie+B) | N/A |
-| 44 | [indonesia terus maju](http://twitter.com/search?q=indonesia+terus+maju) | N/A |
-| 45 | [bersatu bela al quran](http://twitter.com/search?q=bersatu+bela+al+quran) | N/A |
-| 46 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
-| 47 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
-| 48 | [Ganteng](http://twitter.com/search?q=Ganteng) | N/A |
-| 49 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
+| 39 | [pak prabowo konsisten](http://twitter.com/search?q=pak+prabowo+konsisten) | N/A |
+| 40 | [LIVE IG](http://twitter.com/search?q=LIVE+IG) | N/A |
+| 41 | [bersatu bela al quran](http://twitter.com/search?q=bersatu+bela+al+quran) | N/A |
+| 42 | [Kyuris](http://twitter.com/search?q=Kyuris) | N/A |
+| 43 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
+| 44 | [Kris](http://twitter.com/search?q=Kris) | N/A |
+| 45 | [Pentel](http://twitter.com/search?q=Pentel) | N/A |
+| 46 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 47 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 48 | [Cirebon](http://twitter.com/search?q=Cirebon) | N/A |
+| 49 | [UNHAR](http://twitter.com/search?q=UNHAR) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-03 01:48:04 UTC`
+📆 Last Updated: `2023-02-03 02:41:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
-| 2 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
+| 1 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 2 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
 | 3 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
 | 4 | [Nova Iguaçu](http://twitter.com/search?q=Nova+Igua%c3%a7u) | Nova Iguaçu is a city in the state of Rio de Janeiro, Brazil. The name Nova Iguaçu translates to "New Iguaçu" in English, referring to the nearby Iguaçu River. |
-| 5 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 6 | [Saúde](http://twitter.com/search?q=Sa%c3%bade) | N/A |
-| 7 | [GIGANTE](http://twitter.com/search?q=GIGANTE) | N/A |
-| 8 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 9 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 10 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
-| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 12 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
-| 13 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
-| 14 | [É o Vasco](http://twitter.com/search?q=%c3%89+o+Vasco) | N/A |
-| 15 | [#OusarSonhar](http://twitter.com/search?q=%23OusarSonhar) | N/A |
-| 16 | [Pumita](http://twitter.com/search?q=Pumita) | N/A |
-| 17 | [sao paulo](http://twitter.com/search?q=sao+paulo) | N/A |
-| 18 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 19 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 20 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 21 | [Clube de Regatas](http://twitter.com/search?q=Clube+de+Regatas) | N/A |
-| 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 23 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 24 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 25 | [Dutra](http://twitter.com/search?q=Dutra) | N/A |
-| 26 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 27 | [Poze](http://twitter.com/search?q=Poze) | N/A |
-| 28 | [De Lucca](http://twitter.com/search?q=De+Lucca) | N/A |
-| 29 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 30 | [pardo](http://twitter.com/search?q=pardo) | N/A |
-| 31 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 32 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 33 | [TV Globo](http://twitter.com/search?q=TV+Globo) | N/A |
-| 34 | [#CariocaNaBand](http://twitter.com/search?q=%23CariocaNaBand) | N/A |
-| 35 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
-| 36 | [#CariocaNoBS](http://twitter.com/search?q=%23CariocaNoBS) | #CariocaNoBS is a hashtag used on social media by people from Rio de Janeiro, Brazil. It translates to "No Bullshit Carioca," and is used to express a sense of pride in the city and its culture. |
-| 37 | [Dedé](http://twitter.com/search?q=Ded%c3%a9) | N/A |
-| 38 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
-| 39 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 40 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
-| 41 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
-| 42 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 43 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 44 | [CEM DIAS DE TRAVESSIA](http://twitter.com/search?q=CEM+DIAS+DE+TRAVESSIA) | N/A |
-| 45 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 46 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 47 | [DOIS ANOS SARIETTE](http://twitter.com/search?q=DOIS+ANOS+SARIETTE) | N/A |
-| 48 | [Juliano](http://twitter.com/search?q=Juliano) | N/A |
-| 49 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 50 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
+| 5 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 6 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
+| 7 | [Adele](http://twitter.com/search?q=Adele) | N/A |
+| 8 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 9 | [Saúde](http://twitter.com/search?q=Sa%c3%bade) | N/A |
+| 10 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 11 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 12 | [Fábio](http://twitter.com/search?q=F%c3%a1bio) | N/A |
+| 13 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
+| 14 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 15 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 16 | [Lima](http://twitter.com/search?q=Lima) | Lima is the capital city of Peru. In English, it means "talker". |
+| 17 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 18 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 19 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
+| 20 | [Orellano](http://twitter.com/search?q=Orellano) | Orellano is a Spanish surname. It is derived from the Latin name Aurelianus, which means "golden". In English, it can be translated to mean "golden one". |
+| 21 | [#OusarSonhar](http://twitter.com/search?q=%23OusarSonhar) | N/A |
+| 22 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 23 | [Lucas Piton](http://twitter.com/search?q=Lucas+Piton) | N/A |
+| 24 | [Vascão](http://twitter.com/search?q=Vasc%c3%a3o) | N/A |
+| 25 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
+| 26 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
+| 27 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 28 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
+| 29 | [#Mengo](http://twitter.com/search?q=%23Mengo) | N/A |
+| 30 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 31 | [sao paulo](http://twitter.com/search?q=sao+paulo) | N/A |
+| 32 | [Pumita](http://twitter.com/search?q=Pumita) | N/A |
+| 33 | [É o Vasco](http://twitter.com/search?q=%c3%89+o+Vasco) | N/A |
+| 34 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 35 | [Clube de Regatas](http://twitter.com/search?q=Clube+de+Regatas) | N/A |
+| 36 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 38 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 39 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 40 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 41 | [Dutra](http://twitter.com/search?q=Dutra) | N/A |
+| 42 | [Serasa](http://twitter.com/search?q=Serasa) | N/A |
+| 43 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 44 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 45 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 46 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
+| 47 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
+| 48 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 49 | [jade picon](http://twitter.com/search?q=jade+picon) | N/A |
+| 50 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
 
 
 

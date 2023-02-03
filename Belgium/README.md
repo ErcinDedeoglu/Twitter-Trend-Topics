@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-03 01:48:39 UTC`
+📆 Last Updated: `2023-02-03 02:42:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Belgium
 | 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 4 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 5 | [Demir](http://twitter.com/search?q=Demir) | N/A |
-| 6 | [#CrokyCup](http://twitter.com/search?q=%23CrokyCup) | N/A |
-| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 10 | [Zaventem](http://twitter.com/search?q=Zaventem) | N/A |
-| 11 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 6 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 7 | [#CrokyCup](http://twitter.com/search?q=%23CrokyCup) | N/A |
+| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 9 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 10 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 11 | [Zaventem](http://twitter.com/search?q=Zaventem) | N/A |
 | 12 | [#bigbrothernlbe](http://twitter.com/search?q=%23bigbrothernlbe) | N/A |
 | 13 | [Cercle](http://twitter.com/search?q=Cercle) | N/A |
-| 14 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 15 | [Deurne](http://twitter.com/search?q=Deurne) | N/A |
-| 16 | [Staat](http://twitter.com/search?q=Staat) | N/A |
-| 17 | [Dankje](http://twitter.com/search?q=Dankje) | N/A |
-| 18 | [Mooie](http://twitter.com/search?q=Mooie) | N/A |
-| 19 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 20 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 21 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 22 | [rivierenland](http://twitter.com/search?q=rivierenland) | N/A |
-| 23 | [Valence](http://twitter.com/search?q=Valence) | N/A |
-| 24 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 25 | [Limburg](http://twitter.com/search?q=Limburg) | N/A |
-| 26 | [Antwerp](http://twitter.com/search?q=Antwerp) | N/A |
-| 27 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 28 | [le parlement](http://twitter.com/search?q=le+parlement) | N/A |
-| 29 | [Kempen](http://twitter.com/search?q=Kempen) | N/A |
-| 30 | [Green Deal Industrial Plan](http://twitter.com/search?q=Green+Deal+Industrial+Plan) | N/A |
-| 31 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 14 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 15 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 16 | [deurne](http://twitter.com/search?q=deurne) | N/A |
+| 17 | [Staat](http://twitter.com/search?q=Staat) | N/A |
+| 18 | [Dankje](http://twitter.com/search?q=Dankje) | N/A |
+| 19 | [Mooie](http://twitter.com/search?q=Mooie) | N/A |
+| 20 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 21 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 22 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 23 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 24 | [Limburg](http://twitter.com/search?q=Limburg) | N/A |
+| 25 | [Valence](http://twitter.com/search?q=Valence) | N/A |
+| 26 | [le parlement](http://twitter.com/search?q=le+parlement) | N/A |
+| 27 | [Antwerp](http://twitter.com/search?q=Antwerp) | N/A |
+| 28 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 29 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 30 | [Kempen](http://twitter.com/search?q=Kempen) | N/A |
+| 31 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
 | 32 | [Justitie](http://twitter.com/search?q=Justitie) | N/A |
-| 33 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 34 | [Wallonië](http://twitter.com/search?q=Walloni%c3%ab) | N/A |
-| 35 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 36 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
-| 37 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 39 | [Chayron](http://twitter.com/search?q=Chayron) | N/A |
-| 40 | [Américains](http://twitter.com/search?q=Am%c3%a9ricains) | N/A |
-| 41 | [België](http://twitter.com/search?q=Belgi%c3%ab) | N/A |
+| 33 | [Green Deal Industrial Plan](http://twitter.com/search?q=Green+Deal+Industrial+Plan) | N/A |
+| 34 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
+| 35 | [Toby](http://twitter.com/search?q=Toby) | N/A |
+| 36 | [Wallonië](http://twitter.com/search?q=Walloni%c3%ab) | N/A |
+| 37 | [RivierenLAND](http://twitter.com/search?q=RivierenLAND) | N/A |
+| 38 | [Américains](http://twitter.com/search?q=Am%c3%a9ricains) | N/A |
+| 39 | [België](http://twitter.com/search?q=Belgi%c3%ab) | N/A |
+| 40 | [chayron](http://twitter.com/search?q=chayron) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 42 | [Dehaene](http://twitter.com/search?q=Dehaene) | N/A |
 | 43 | [D'où](http://twitter.com/search?q=D%27o%c3%b9) | N/A |
-| 44 | [Vandaag](http://twitter.com/search?q=Vandaag) | N/A |
-| 45 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 44 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 45 | [Nederlanders](http://twitter.com/search?q=Nederlanders) | N/A |
 | 46 | [Ptdrrrrr](http://twitter.com/search?q=Ptdrrrrr) | N/A |
 | 47 | [N'importe](http://twitter.com/search?q=N%27importe) | N/A |
-| 48 | [Lichtmis](http://twitter.com/search?q=Lichtmis) | N/A |
-| 49 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 50 | [Sihem](http://twitter.com/search?q=Sihem) | N/A |
+| 48 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 49 | [marc tarabella](http://twitter.com/search?q=marc+tarabella) | N/A |
+| 50 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
 
 
 

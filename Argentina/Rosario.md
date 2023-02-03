@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-03 01:48:05 UTC`
+📆 Last Updated: `2023-02-03 02:41:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GranHermanoAR](http://twitter.com/search?q=%23GranHermanoAR) | N/A |
-| 2 | [#SupremosEnElBanquillo](http://twitter.com/search?q=%23SupremosEnElBanquillo) | N/A |
-| 3 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
-| 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 5 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
-| 6 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 7 | [Alfa al 9009](http://twitter.com/search?q=Alfa+al+9009) | N/A |
-| 8 | [#BilleteDe2000](http://twitter.com/search?q=%23BilleteDe2000) | N/A |
-| 9 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
-| 10 | [Sol Perez](http://twitter.com/search?q=Sol+Perez) | Sol Perez is a nickname given to an Argentinian weather presenter and model. It translates to "Sun Perez" in English. |
-| 11 | [All Star](http://twitter.com/search?q=All+Star) | N/A |
-| 12 | [Alfa y Romina](http://twitter.com/search?q=Alfa+y+Romina) | N/A |
+| 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 2 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 3 | [#GranHermano2023](http://twitter.com/search?q=%23GranHermano2023) | #GranHermano2023 is a hashtag used on social media to refer to the 20th season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2023". |
+| 4 | [#GranHermanoAR](http://twitter.com/search?q=%23GranHermanoAR) | N/A |
+| 5 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
+| 6 | [#SupremosEnElBanquillo](http://twitter.com/search?q=%23SupremosEnElBanquillo) | N/A |
+| 7 | [Sol Perez](http://twitter.com/search?q=Sol+Perez) | Sol Perez is a nickname given to an Argentinian weather presenter and model. It translates to "Sun Perez" in English. |
+| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 9 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
+| 10 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
+| 11 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 12 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
 | 13 | [Rogel](http://twitter.com/search?q=Rogel) | N/A |
-| 14 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
-| 15 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 16 | [Si a Messi](http://twitter.com/search?q=Si+a+Messi) | N/A |
-| 17 | [#CreoEnArgentina](http://twitter.com/search?q=%23CreoEnArgentina) | N/A |
-| 18 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 19 | [Juan Bisanz](http://twitter.com/search?q=Juan+Bisanz) | N/A |
-| 20 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 21 | [QUIERO CREER OUT NOW](http://twitter.com/search?q=QUIERO+CREER+OUT+NOW) | N/A |
-| 22 | [Árbol](http://twitter.com/search?q=%c3%81rbol) | N/A |
-| 23 | [Pillud](http://twitter.com/search?q=Pillud) | Pillud is a Spanish slang term that means "stupid" or "idiot." |
-| 24 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
-| 25 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 26 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 27 | [Garay](http://twitter.com/search?q=Garay) | N/A |
-| 28 | [Cecilia Grierson](http://twitter.com/search?q=Cecilia+Grierson) | N/A |
-| 29 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 30 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 31 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 32 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 33 | [Lovera](http://twitter.com/search?q=Lovera) | N/A |
-| 34 | [Miguel Merentiel](http://twitter.com/search?q=Miguel+Merentiel) | N/A |
-| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 36 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 37 | [Davo](http://twitter.com/search?q=Davo) | N/A |
-| 38 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 39 | [Sarlo](http://twitter.com/search?q=Sarlo) | N/A |
-| 40 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 41 | [Rosario Central](http://twitter.com/search?q=Rosario+Central) | N/A |
-| 42 | [Jodete](http://twitter.com/search?q=Jodete) | N/A |
-| 43 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 44 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 45 | [Lucios](http://twitter.com/search?q=Lucios) | N/A |
-| 46 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
-| 47 | [Caruzzo](http://twitter.com/search?q=Caruzzo) | N/A |
-| 48 | [PROPIEDAD PRIVADA](http://twitter.com/search?q=PROPIEDAD+PRIVADA) | N/A |
-| 49 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 50 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 14 | [#BilleteDe2000](http://twitter.com/search?q=%23BilleteDe2000) | N/A |
+| 15 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 16 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
+| 17 | [Chocotorta](http://twitter.com/search?q=Chocotorta) | N/A |
+| 18 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 19 | [All Star](http://twitter.com/search?q=All+Star) | N/A |
+| 20 | [Juan Martino](http://twitter.com/search?q=Juan+Martino) | N/A |
+| 21 | [Si a Messi](http://twitter.com/search?q=Si+a+Messi) | N/A |
+| 22 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
+| 23 | [QUIERO CREER OUT NOW](http://twitter.com/search?q=QUIERO+CREER+OUT+NOW) | N/A |
+| 24 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 25 | [Pillud](http://twitter.com/search?q=Pillud) | Pillud is a Spanish slang term that means "stupid" or "idiot." |
+| 26 | [Juan Bisanz](http://twitter.com/search?q=Juan+Bisanz) | N/A |
+| 27 | [Árbol](http://twitter.com/search?q=%c3%81rbol) | N/A |
+| 28 | [Manchu](http://twitter.com/search?q=Manchu) | N/A |
+| 29 | [Big Ari](http://twitter.com/search?q=Big+Ari) | Big Ari is a nickname for the American rapper and singer Ariana Grande. It is a play on her name, with "big" referring to her fame and success. |
+| 30 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 31 | [Garay](http://twitter.com/search?q=Garay) | N/A |
+| 32 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
+| 33 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 34 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 35 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
+| 36 | [Cecilia Grierson](http://twitter.com/search?q=Cecilia+Grierson) | N/A |
+| 37 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 38 | [Lovera](http://twitter.com/search?q=Lovera) | N/A |
+| 39 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 40 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
+| 41 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 42 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 43 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 44 | [Sarlo](http://twitter.com/search?q=Sarlo) | N/A |
+| 45 | [Rosario Central](http://twitter.com/search?q=Rosario+Central) | N/A |
+| 46 | [El Banco Central](http://twitter.com/search?q=El+Banco+Central) | N/A |
+| 47 | [Lucios](http://twitter.com/search?q=Lucios) | N/A |
+| 48 | [Mujeres](http://twitter.com/search?q=Mujeres) | N/A |
+| 49 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 50 | [Báez](http://twitter.com/search?q=B%c3%a1ez) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-03 01:48:03 UTC`
+📆 Last Updated: `2023-02-03 02:41:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 2 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
-| 3 | [Do Val](http://twitter.com/search?q=Do+Val) | N/A |
-| 4 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
-| 5 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 6 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
-| 7 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
-| 8 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 9 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 10 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 11 | [CEM DIAS DE TRAVESSIA](http://twitter.com/search?q=CEM+DIAS+DE+TRAVESSIA) | N/A |
-| 12 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 13 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 14 | [DOIS ANOS SARIETTE](http://twitter.com/search?q=DOIS+ANOS+SARIETTE) | N/A |
-| 15 | [Juliano](http://twitter.com/search?q=Juliano) | N/A |
-| 16 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
-| 17 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 18 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 19 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 20 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 21 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
-| 22 | [Bonner](http://twitter.com/search?q=Bonner) | Bonner is a surname of German origin. It is derived from the Middle High German word "boner" which means "one who lives in a hollow". In English, it can be translated to mean "dweller in a hollow". |
-| 23 | [#AeroFla](http://twitter.com/search?q=%23AeroFla) | N/A |
-| 24 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
-| 25 | [Lionel Pec](http://twitter.com/search?q=Lionel+Pec) | Lionel Pec is a French expression meaning "to be completely exhausted". It is derived from the phrase "être à bout de souffle", which literally translates to "to be out of breath". |
-| 26 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
-| 27 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 28 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 29 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
-| 30 | [STOP COMING TO BRAZIL](http://twitter.com/search?q=STOP+COMING+TO+BRAZIL) | N/A |
-| 31 | [LAGUM OLHA BELA](http://twitter.com/search?q=LAGUM+OLHA+BELA) | N/A |
-| 32 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 33 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 34 | [HEJ TO BE AO VIVO EM BRASILIA](http://twitter.com/search?q=HEJ+TO+BE+AO+VIVO+EM+BRASILIA) | N/A |
-| 35 | [#TinderSariette](http://twitter.com/search?q=%23TinderSariette) | N/A |
-| 36 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 37 | [PAULA MERECE RESPEITO](http://twitter.com/search?q=PAULA+MERECE+RESPEITO) | N/A |
-| 38 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 39 | [All Star](http://twitter.com/search?q=All+Star) | N/A |
-| 40 | [STRAY KIDS NO BRASIL](http://twitter.com/search?q=STRAY+KIDS+NO+BRASIL) | STRAY KIDS NO BRASIL is a fan event held in Brazil for the South Korean boy band Stray Kids. The event was held in 2019 and featured a live performance by the group, as well as a meet-and-greet with fans. The phrase "no Brasil" translates to "in Brazil" in English. |
-| 41 | [Jrue Holiday](http://twitter.com/search?q=Jrue+Holiday) | N/A |
-| 42 | [O JN](http://twitter.com/search?q=O+JN) | N/A |
-| 43 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
-| 44 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 45 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 46 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 47 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 48 | [Bruninho](http://twitter.com/search?q=Bruninho) | N/A |
-| 49 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 50 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
+| 1 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 3 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 4 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
+| 5 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
+| 6 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
+| 7 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 8 | [Bife](http://twitter.com/search?q=Bife) | Bife is a Portuguese word meaning steak. It is used to refer to a cut of beef that is usually grilled or fried. |
+| 9 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
+| 10 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 11 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 12 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
+| 13 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
+| 14 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 15 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
+| 16 | [jade picon](http://twitter.com/search?q=jade+picon) | N/A |
+| 17 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 18 | [Calegari](http://twitter.com/search?q=Calegari) | Calegari is an Italian surname derived from the Latin word caligarius, meaning "soldier in boots". It is most commonly found in northern Italy, particularly in the regions of Lombardy and Piedmont. In English, the name can be translated to mean "booted soldier". |
+| 19 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 20 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 21 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 22 | [DOIS ANOS SARIETTE](http://twitter.com/search?q=DOIS+ANOS+SARIETTE) | N/A |
+| 23 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
+| 24 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 25 | [Juliano](http://twitter.com/search?q=Juliano) | N/A |
+| 26 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 27 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 28 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 29 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 30 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 31 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 32 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 33 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 34 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
+| 35 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 36 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
+| 37 | [jasmine](http://twitter.com/search?q=jasmine) | N/A |
+| 38 | [LAGUM OLHA BELA](http://twitter.com/search?q=LAGUM+OLHA+BELA) | N/A |
+| 39 | [Renata](http://twitter.com/search?q=Renata) | Renata is a feminine given name of Latin origin, derived from the word "renatus" meaning "born again". It is also a variant of the name Renée. |
+| 40 | [Bonner](http://twitter.com/search?q=Bonner) | Bonner is a surname of German origin. It is derived from the Middle High German word "boner" which means "one who lives in a hollow". In English, it can be translated to mean "dweller in a hollow". |
+| 41 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 42 | [white rose](http://twitter.com/search?q=white+rose) | N/A |
+| 43 | [Natinha](http://twitter.com/search?q=Natinha) | Natinha is a Portuguese nickname for the name Natalia. It is derived from the Latin word natalia, which means "birthday" or "Christmas Day". In English, it can be translated to mean "little Natalia". |
+| 44 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
+| 45 | [Voltaço](http://twitter.com/search?q=Volta%c3%a7o) | N/A |
+| 46 | [Beverley](http://twitter.com/search?q=Beverley) | N/A |
+| 47 | [STOP COMING TO BRAZIL](http://twitter.com/search?q=STOP+COMING+TO+BRAZIL) | N/A |
+| 48 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
+| 49 | [Bruninho](http://twitter.com/search?q=Bruninho) | N/A |
+| 50 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 
 
 

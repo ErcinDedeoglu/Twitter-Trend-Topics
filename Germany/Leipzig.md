@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-03 01:48:09 UTC`
+📆 Last Updated: `2023-02-03 02:41:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
 | 6 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 7 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 8 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
 | 9 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
 | 10 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
-| 11 | [#Reschkefernsehen](http://twitter.com/search?q=%23Reschkefernsehen) | N/A |
+| 11 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 12 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
 | 13 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 14 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 15 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 16 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
-| 17 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 18 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 19 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 20 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 21 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
-| 22 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
-| 23 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
-| 24 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
+| 14 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 15 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 16 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 17 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 18 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
+| 19 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 20 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
+| 21 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
+| 22 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
+| 23 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
+| 24 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
 | 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 27 | [Ministerpräsidentin](http://twitter.com/search?q=Ministerpr%c3%a4sidentin) | N/A |
-| 28 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
-| 29 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
-| 30 | [Drohmails](http://twitter.com/search?q=Drohmails) | N/A |
+| 26 | [Ministerpräsidentin](http://twitter.com/search?q=Ministerpr%c3%a4sidentin) | N/A |
+| 27 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
+| 28 | [Dosenöffner](http://twitter.com/search?q=Dosen%c3%b6ffner) | N/A |
+| 29 | [Paolo Pinkel](http://twitter.com/search?q=Paolo+Pinkel) | N/A |
+| 30 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 31 | [Wein](http://twitter.com/search?q=Wein) | N/A |
-| 32 | [Paolo Pinkel](http://twitter.com/search?q=Paolo+Pinkel) | N/A |
-| 33 | [Kandidatur](http://twitter.com/search?q=Kandidatur) | N/A |
+| 32 | [Kandidatur](http://twitter.com/search?q=Kandidatur) | N/A |
+| 33 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 34 | [Fliegen](http://twitter.com/search?q=Fliegen) | N/A |
-| 35 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 35 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
 | 36 | [Transmenschen](http://twitter.com/search?q=Transmenschen) | N/A |
 | 37 | [Röttgen](http://twitter.com/search?q=R%c3%b6ttgen) | N/A |
 | 38 | [Herr Restle](http://twitter.com/search?q=Herr+Restle) | N/A |
-| 39 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
-| 40 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 41 | [Whataboutism](http://twitter.com/search?q=Whataboutism) | N/A |
-| 42 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
-| 43 | [Friedmann](http://twitter.com/search?q=Friedmann) | N/A |
-| 44 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 45 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
-| 46 | [Discounter](http://twitter.com/search?q=Discounter) | N/A |
-| 47 | [CDU und FDP](http://twitter.com/search?q=CDU+und+FDP) | N/A |
-| 48 | [Haar in der Suppe](http://twitter.com/search?q=Haar+in+der+Suppe) | N/A |
-| 49 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 39 | [Drohmails](http://twitter.com/search?q=Drohmails) | N/A |
+| 40 | [Friedmann](http://twitter.com/search?q=Friedmann) | N/A |
+| 41 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 42 | [Whataboutism](http://twitter.com/search?q=Whataboutism) | N/A |
+| 43 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 44 | [Discounter](http://twitter.com/search?q=Discounter) | N/A |
+| 45 | [Heuchler](http://twitter.com/search?q=Heuchler) | N/A |
+| 46 | [Haar in der Suppe](http://twitter.com/search?q=Haar+in+der+Suppe) | N/A |
+| 47 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 48 | [CDU und FDP](http://twitter.com/search?q=CDU+und+FDP) | N/A |
+| 49 | [Ricarda Lang](http://twitter.com/search?q=Ricarda+Lang) | N/A |
 
 
 

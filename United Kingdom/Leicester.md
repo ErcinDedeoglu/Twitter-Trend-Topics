@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-02-03 01:47:57 UTC`
+📆 Last Updated: `2023-02-03 02:41:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
-| 3 | [Spencer](http://twitter.com/search?q=Spencer) | N/A |
-| 4 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 5 | [Mason](http://twitter.com/search?q=Mason) | N/A |
-| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 7 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
-| 8 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 9 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 11 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 12 | [Bosh](http://twitter.com/search?q=Bosh) | N/A |
-| 13 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 14 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 15 | [Ella Whelan](http://twitter.com/search?q=Ella+Whelan) | N/A |
-| 16 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
-| 17 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 18 | [Shazia](http://twitter.com/search?q=Shazia) | Shazia is a female given name of Arabic origin, meaning "brilliant". |
-| 19 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 20 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
-| 21 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 22 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 23 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 24 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 25 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 26 | [Zip Zap](http://twitter.com/search?q=Zip+Zap) | Zip Zap is an expression used to describe a quick, energetic movement or action. It can also be used to express excitement or enthusiasm. In other words, it is a way of expressing that something happened quickly and with energy. |
-| 27 | [Jenny Gilruth](http://twitter.com/search?q=Jenny+Gilruth) | N/A |
-| 28 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
-| 29 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 30 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 31 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 32 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 33 | [Casey](http://twitter.com/search?q=Casey) | N/A |
-| 34 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 35 | [Raye](http://twitter.com/search?q=Raye) | N/A |
-| 36 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 37 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 38 | [Zif Zaf](http://twitter.com/search?q=Zif+Zaf) | N/A |
-| 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 40 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 41 | [Roasted](http://twitter.com/search?q=Roasted) | N/A |
-| 42 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 43 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 44 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 45 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 46 | [Pamela Anderson](http://twitter.com/search?q=Pamela+Anderson) | N/A |
-| 47 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 48 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
-| 49 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
-| 50 | [Crossroads](http://twitter.com/search?q=Crossroads) | N/A |
+| 2 | [#BrickByBrick](http://twitter.com/search?q=%23BrickByBrick) | #BrickByBrick is a phrase that is used to describe a process of building something slowly and steadily, one step at a time. It is often used as an inspirational phrase to encourage people to keep working hard and not give up, even when the task seems daunting. |
+| 3 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
+| 4 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 5 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 6 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 7 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
+| 8 | [Ella Whelan](http://twitter.com/search?q=Ella+Whelan) | N/A |
+| 9 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 10 | [Chris Dobey](http://twitter.com/search?q=Chris+Dobey) | Chris Dobey is a professional darts player from England. He has been playing darts since he was a teenager and has won several tournaments, including the World Masters in 2018. The name "Chris Dobey" is derived from his full name, Christopher Dobey. |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 13 | [Shazia](http://twitter.com/search?q=Shazia) | Shazia is a female given name of Arabic origin, meaning "brilliant". |
+| 14 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 15 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
+| 16 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 17 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 18 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 19 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 20 | [Zip Zap](http://twitter.com/search?q=Zip+Zap) | Zip Zap is an expression used to describe a quick, energetic movement or action. It can also be used to express excitement or enthusiasm. In other words, it is a way of expressing that something happened quickly and with energy. |
+| 21 | [Jenny Gilruth](http://twitter.com/search?q=Jenny+Gilruth) | N/A |
+| 22 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 23 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 24 | [Raye](http://twitter.com/search?q=Raye) | N/A |
+| 25 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 26 | [Lord Sugar](http://twitter.com/search?q=Lord+Sugar) | N/A |
+| 27 | [Casey](http://twitter.com/search?q=Casey) | N/A |
+| 28 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 29 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 30 | [Spencer](http://twitter.com/search?q=Spencer) | N/A |
+| 31 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 32 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 33 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 34 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
+| 35 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 36 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 37 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
+| 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 39 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 40 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 41 | [#GreenWall](http://twitter.com/search?q=%23GreenWall) | #GreenWall is a hashtag used to promote environmental awareness and sustainability. It is used to draw attention to the need for green initiatives, such as renewable energy, conservation, and reducing carbon emissions. The hashtag is also used to show support for environmental causes and organizations that are working to protect the planet. |
+| 42 | [#OpTicTexas](http://twitter.com/search?q=%23OpTicTexas) | N/A |
+| 43 | [#m21cb](http://twitter.com/search?q=%23m21cb) | N/A |
+| 44 | [#QuestionTime](http://twitter.com/search?q=%23QuestionTime) | N/A |
+| 45 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 46 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | N/A |
+| 47 | [#TALKSWITHASHAFTERDARK](http://twitter.com/search?q=%23TALKSWITHASHAFTERDARK) | N/A |
+| 48 | [#Nolly](http://twitter.com/search?q=%23Nolly) | N/A |
+| 49 | [#PMandthePM](http://twitter.com/search?q=%23PMandthePM) | N/A |
+| 50 | [#Autumnwatch](http://twitter.com/search?q=%23Autumnwatch) | N/A |
 
 
 

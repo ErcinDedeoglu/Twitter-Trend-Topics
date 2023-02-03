@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-02-03 01:48:03 UTC`
+📆 Last Updated: `2023-02-03 02:41:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mantel](http://twitter.com/search?q=Mantel) | N/A |
-| 2 | [Wiphala](http://twitter.com/search?q=Wiphala) | N/A |
-| 3 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 4 | [Palta](http://twitter.com/search?q=Palta) | N/A |
-| 5 | [Adelantar](http://twitter.com/search?q=Adelantar) | N/A |
-| 6 | [Lizarzaburu](http://twitter.com/search?q=Lizarzaburu) | N/A |
-| 7 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
-| 8 | [Callao](http://twitter.com/search?q=Callao) | Callao is a port city located in Peru. It is the country's main port and the largest city in the Callao Region. The name "Callao" comes from a Spanish word meaning "cove" or "bay". In English, it can be translated to mean "a sheltered harbor". |
-| 9 | [Tahuantinsuyo](http://twitter.com/search?q=Tahuantinsuyo) | N/A |
-| 10 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 11 | [#NoalaAsambleaConstituyente](http://twitter.com/search?q=%23NoalaAsambleaConstituyente) | N/A |
-| 12 | [Boyka](http://twitter.com/search?q=Boyka) | N/A |
-| 13 | [Casal](http://twitter.com/search?q=Casal) | N/A |
-| 14 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 15 | [Raúl Molina](http://twitter.com/search?q=Ra%c3%bal+Molina) | N/A |
-| 16 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 17 | [Diroes](http://twitter.com/search?q=Diroes) | N/A |
-| 18 | [Lazarte](http://twitter.com/search?q=Lazarte) | N/A |
-| 19 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 20 | [#ขอโทษบิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b9%82%e0%b8%97%e0%b8%a9%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | #ขอโทษบิวจักรพันธ์ is a hashtag used in Thailand to express sympathy and regret for the death of King Bhumibol Adulyadej, who passed away in 2016. In English, it translates to "Sorry for the loss of King Bhumibol Adulyadej". |
-| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 22 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 23 | [Virgen de la Candelaria](http://twitter.com/search?q=Virgen+de+la+Candelaria) | N/A |
-| 24 | [Claudia Toro](http://twitter.com/search?q=Claudia+Toro) | N/A |
-| 25 | [Talara](http://twitter.com/search?q=Talara) | N/A |
-| 26 | [Whipala](http://twitter.com/search?q=Whipala) | N/A |
-| 27 | [Luis Abram](http://twitter.com/search?q=Luis+Abram) | N/A |
-| 28 | [Presidenta Dina Boluarte](http://twitter.com/search?q=Presidenta+Dina+Boluarte) | N/A |
-| 29 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 30 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 31 | [Liga 1](http://twitter.com/search?q=Liga+1) | N/A |
-| 32 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 33 | [Trapo](http://twitter.com/search?q=Trapo) | N/A |
-| 34 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
-| 35 | [Quito](http://twitter.com/search?q=Quito) | N/A |
-| 36 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 37 | [#AdelantoDeElecciones](http://twitter.com/search?q=%23AdelantoDeElecciones) | N/A |
-| 38 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 39 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 40 | [Cantolao](http://twitter.com/search?q=Cantolao) | N/A |
-| 41 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 42 | [#HappyBirthdayShakira](http://twitter.com/search?q=%23HappyBirthdayShakira) | N/A |
-| 43 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 44 | [Francisco Durand](http://twitter.com/search?q=Francisco+Durand) | N/A |
-| 45 | [Minúsculo](http://twitter.com/search?q=Min%c3%basculo) | N/A |
-| 46 | [Golperu](http://twitter.com/search?q=Golperu) | N/A |
-| 47 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
-| 48 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 49 | [Adriana Tudela](http://twitter.com/search?q=Adriana+Tudela) | N/A |
-| 50 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
+| 1 | [#BetoASaber](http://twitter.com/search?q=%23BetoASaber) | N/A |
+| 2 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 3 | [Mantel](http://twitter.com/search?q=Mantel) | N/A |
+| 4 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
+| 5 | [Wiphala](http://twitter.com/search?q=Wiphala) | N/A |
+| 6 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 7 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 8 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 9 | [Asamblea Constituyente](http://twitter.com/search?q=Asamblea+Constituyente) | N/A |
+| 10 | [Lizarzaburu](http://twitter.com/search?q=Lizarzaburu) | N/A |
+| 11 | [#OtarolaNoEsAnibal](http://twitter.com/search?q=%23OtarolaNoEsAnibal) | N/A |
+| 12 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 13 | [Palta](http://twitter.com/search?q=Palta) | N/A |
+| 14 | [Tahuantinsuyo](http://twitter.com/search?q=Tahuantinsuyo) | N/A |
+| 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 16 | [Cristobal](http://twitter.com/search?q=Cristobal) | N/A |
+| 17 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 18 | [Callao](http://twitter.com/search?q=Callao) | Callao is a port city located in Peru. It is the country's main port and the largest city in the Callao Region. The name "Callao" comes from a Spanish word meaning "cove" or "bay". In English, it can be translated to mean "a sheltered harbor". |
+| 19 | [Boyka](http://twitter.com/search?q=Boyka) | N/A |
+| 20 | [Raúl Molina](http://twitter.com/search?q=Ra%c3%bal+Molina) | N/A |
+| 21 | [Adelantar](http://twitter.com/search?q=Adelantar) | N/A |
+| 22 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 23 | [Casal](http://twitter.com/search?q=Casal) | N/A |
+| 24 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 25 | [Quito](http://twitter.com/search?q=Quito) | N/A |
+| 26 | [Valer](http://twitter.com/search?q=Valer) | N/A |
+| 27 | [Lazarte](http://twitter.com/search?q=Lazarte) | N/A |
+| 28 | [#AdelantoDeElecciones](http://twitter.com/search?q=%23AdelantoDeElecciones) | N/A |
+| 29 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 31 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 32 | [Diroes](http://twitter.com/search?q=Diroes) | N/A |
+| 33 | [Presidenta Dina Boluarte](http://twitter.com/search?q=Presidenta+Dina+Boluarte) | N/A |
+| 34 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
+| 35 | [Luis Abram](http://twitter.com/search?q=Luis+Abram) | N/A |
+| 36 | [Talara](http://twitter.com/search?q=Talara) | N/A |
+| 37 | [Claudia Toro](http://twitter.com/search?q=Claudia+Toro) | N/A |
+| 38 | [Virgen de la Candelaria](http://twitter.com/search?q=Virgen+de+la+Candelaria) | N/A |
+| 39 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 40 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 43 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 44 | [Whipala](http://twitter.com/search?q=Whipala) | N/A |
+| 45 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
+| 46 | [Liga 1](http://twitter.com/search?q=Liga+1) | N/A |
+| 47 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 48 | [cantolao](http://twitter.com/search?q=cantolao) | N/A |
+| 49 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 50 | [Cusco](http://twitter.com/search?q=Cusco) | N/A |
 
 
 
