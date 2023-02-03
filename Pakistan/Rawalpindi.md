@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-03 22:16:18 UTC`
+📆 Last Updated: `2023-02-03 23:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,12 +22,12 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#پاکستان_امن_مارچ](http://twitter.com/search?q=%23%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%a7%d9%85%d9%86_%d9%85%d8%a7%d8%b1%da%86) | N/A |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 8 | [Happy Birthday Bibi](http://twitter.com/search?q=Happy+Birthday+Bibi) | N/A |
-| 9 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
-| 10 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 8 | [British Council](http://twitter.com/search?q=British+Council) | N/A |
+| 9 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 10 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
 | 11 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 12 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 13 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 12 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 14 | [uk and pakistan](http://twitter.com/search?q=uk+and+pakistan) | N/A |
 | 15 | [port qasim power project](http://twitter.com/search?q=port+qasim+power+project) | N/A |
 | 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
@@ -40,31 +40,31 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 23 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
 | 24 | [aseefa bhutto zardari](http://twitter.com/search?q=aseefa+bhutto+zardari) | N/A |
 | 25 | [power china](http://twitter.com/search?q=power+china) | N/A |
-| 26 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
-| 27 | [Hafeez Zehri](http://twitter.com/search?q=Hafeez+Zehri) | N/A |
-| 28 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 29 | [Kaaba](http://twitter.com/search?q=Kaaba) | N/A |
-| 30 | [Momineen](http://twitter.com/search?q=Momineen) | N/A |
-| 31 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
-| 32 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 33 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 34 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 26 | [Momineen](http://twitter.com/search?q=Momineen) | N/A |
+| 27 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 28 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
+| 29 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
+| 30 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 31 | [Elia in the Bible](http://twitter.com/search?q=Elia+in+the+Bible) | N/A |
+| 32 | [Kabir by the Indians](http://twitter.com/search?q=Kabir+by+the+Indians) | N/A |
+| 33 | [Bariah in the Torah](http://twitter.com/search?q=Bariah+in+the+Torah) | N/A |
+| 34 | [Heya](http://twitter.com/search?q=Heya) | N/A |
 | 35 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 36 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 37 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 38 | [Khair](http://twitter.com/search?q=Khair) | N/A |
-| 39 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
-| 40 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 41 | [Awam](http://twitter.com/search?q=Awam) | N/A |
-| 42 | [Woah](http://twitter.com/search?q=Woah) | N/A |
-| 43 | [Bariah in the Torah](http://twitter.com/search?q=Bariah+in+the+Torah) | N/A |
-| 44 | [Kabir by the Indians](http://twitter.com/search?q=Kabir+by+the+Indians) | N/A |
-| 45 | [Nahi](http://twitter.com/search?q=Nahi) | N/A |
-| 46 | [Cutie](http://twitter.com/search?q=Cutie) | N/A |
-| 47 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 48 | [Elia in the Bible](http://twitter.com/search?q=Elia+in+the+Bible) | N/A |
-| 49 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 50 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 36 | [Khair](http://twitter.com/search?q=Khair) | N/A |
+| 37 | [Priyanka](http://twitter.com/search?q=Priyanka) | N/A |
+| 38 | [Woah](http://twitter.com/search?q=Woah) | N/A |
+| 39 | [Cutie](http://twitter.com/search?q=Cutie) | N/A |
+| 40 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 41 | [Okie](http://twitter.com/search?q=Okie) | N/A |
+| 42 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 43 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 44 | [Ayee](http://twitter.com/search?q=Ayee) | N/A |
+| 45 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 46 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 47 | [Dope](http://twitter.com/search?q=Dope) | N/A |
+| 48 | [Come DM](http://twitter.com/search?q=Come+DM) | N/A |
+| 49 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 
 

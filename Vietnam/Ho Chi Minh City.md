@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-03 22:16:12 UTC`
+📆 Last Updated: `2023-02-03 23:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mileapofanapologizetoVietNam](http://twitter.com/search?q=%23mileapofanapologizetoVietNam) | N/A |
-| 2 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 3 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
-| 4 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
-| 5 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | #oneสนั่นจอ2023 is a hashtag used in Thailand to promote the 2023 Asian Cup, which will be held in Thailand. In English, it translates to "#OneCheerScreen2023". |
-| 6 | [#방탄소년단지민](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%80%eb%af%bc) | N/A |
+| 1 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 2 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
+| 3 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
+| 4 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | #oneสนั่นจอ2023 is a hashtag used in Thailand to promote the 2023 Asian Cup, which will be held in Thailand. In English, it translates to "#OneCheerScreen2023". |
+| 5 | [#방탄소년단지민](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%80%eb%af%bc) | N/A |
+| 6 | [#mileapofanapologizetoVietNam](http://twitter.com/search?q=%23mileapofanapologizetoVietNam) | N/A |
 | 7 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | 4th BIRTHDAY PHIBALLS is a type of party game that is popular in Japan. It involves throwing small balls at a target and trying to hit it. The game is usually played on the fourth birthday of a child, hence the name. The English translation of 4th BIRTHDAY PHIBALLS would be "Fourth Birthday Ball Toss". |
 | 8 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
 | 9 | [làm 1 ly soju không jimin](http://twitter.com/search?q=l%c3%a0m+1+ly+soju+kh%c3%b4ng+jimin) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 33 | [Beta](http://twitter.com/search?q=Beta) | N/A |
 | 34 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
 | 35 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 36 | [Trên](http://twitter.com/search?q=Tr%c3%aan) | N/A |
+| 36 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
 | 37 | [Okie](http://twitter.com/search?q=Okie) | N/A |
 | 38 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
 | 39 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
@@ -58,12 +58,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 41 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 42 | [song phú](http://twitter.com/search?q=song+ph%c3%ba) | N/A |
 | 43 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 44 | [Nhưng](http://twitter.com/search?q=Nh%c6%b0ng) | N/A |
-| 45 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 46 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
-| 47 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
-| 48 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
-| 49 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 44 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 45 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
+| 46 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
+| 47 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 48 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 49 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
 | 50 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 
 
