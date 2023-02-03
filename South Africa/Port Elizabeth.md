@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-02-03 13:20:45 UTC`
+📆 Last Updated: `2023-02-03 14:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FlyDay](http://twitter.com/search?q=%23FlyDay) | N/A |
+| 1 | [#Redds](http://twitter.com/search?q=%23Redds) | N/A |
 | 2 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
-| 3 | [#SharetheEpic](http://twitter.com/search?q=%23SharetheEpic) | N/A |
-| 4 | [#giganathi](http://twitter.com/search?q=%23giganathi) | N/A |
+| 3 | [#FlyDay](http://twitter.com/search?q=%23FlyDay) | N/A |
+| 4 | [#SharetheEpic](http://twitter.com/search?q=%23SharetheEpic) | N/A |
 | 5 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
 | 6 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 7 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 8 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
 | 9 | [Lady Zamar](http://twitter.com/search?q=Lady+Zamar) | N/A |
-| 10 | [Raspberry](http://twitter.com/search?q=Raspberry) | N/A |
-| 11 | [BuffaloCity](http://twitter.com/search?q=BuffaloCity) | N/A |
-| 12 | [Business Evolve Core](http://twitter.com/search?q=Business+Evolve+Core) | N/A |
-| 13 | [meneer cee](http://twitter.com/search?q=meneer+cee) | N/A |
-| 14 | [Kabza](http://twitter.com/search?q=Kabza) | N/A |
-| 15 | [GOATED THABANG](http://twitter.com/search?q=GOATED+THABANG) | N/A |
+| 10 | [business evolve core](http://twitter.com/search?q=business+evolve+core) | N/A |
+| 11 | [Kabza](http://twitter.com/search?q=Kabza) | N/A |
+| 12 | [meneer cee](http://twitter.com/search?q=meneer+cee) | N/A |
+| 13 | [BuffaloCity](http://twitter.com/search?q=BuffaloCity) | N/A |
+| 14 | [GOATED THABANG](http://twitter.com/search?q=GOATED+THABANG) | N/A |
+| 15 | [Rekere](http://twitter.com/search?q=Rekere) | N/A |
 | 16 | [Themba Khumalo](http://twitter.com/search?q=Themba+Khumalo) | N/A |
-| 17 | [Rekere](http://twitter.com/search?q=Rekere) | N/A |
+| 17 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
 | 18 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 19 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
-| 20 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 21 | [Happy Jele](http://twitter.com/search?q=Happy+Jele) | N/A |
-| 22 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
-| 23 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
-| 24 | [SABC](http://twitter.com/search?q=SABC) | N/A |
-| 25 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 26 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
-| 27 | [Cinnabon](http://twitter.com/search?q=Cinnabon) | N/A |
-| 28 | [Shop U50A](http://twitter.com/search?q=Shop+U50A) | N/A |
-| 29 | [Identifies as African](http://twitter.com/search?q=Identifies+as+African) | N/A |
-| 30 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
-| 31 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 32 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 33 | [acting ceo](http://twitter.com/search?q=acting+ceo) | N/A |
-| 34 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
-| 35 | [Black Label](http://twitter.com/search?q=Black+Label) | N/A |
+| 19 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 20 | [Happy Jele](http://twitter.com/search?q=Happy+Jele) | N/A |
+| 21 | [Shop U50A](http://twitter.com/search?q=Shop+U50A) | N/A |
+| 22 | [SABC](http://twitter.com/search?q=SABC) | N/A |
+| 23 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
+| 24 | [Jonathan Jansen](http://twitter.com/search?q=Jonathan+Jansen) | N/A |
+| 25 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
+| 26 | [Cinnabon](http://twitter.com/search?q=Cinnabon) | N/A |
+| 27 | [Identifies as African](http://twitter.com/search?q=Identifies+as+African) | N/A |
+| 28 | [Acting CEO](http://twitter.com/search?q=Acting+CEO) | N/A |
+| 29 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
+| 30 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 31 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 32 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
+| 33 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 34 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 35 | [THEMBA MY INKED WORLD](http://twitter.com/search?q=THEMBA+MY+INKED+WORLD) | N/A |
 | 36 | [Zolani](http://twitter.com/search?q=Zolani) | N/A |
-| 37 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 38 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 37 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 38 | [Black Label](http://twitter.com/search?q=Black+Label) | N/A |
 | 39 | [dj 8milli](http://twitter.com/search?q=dj+8milli) | N/A |
-| 40 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
-| 41 | [Tourists](http://twitter.com/search?q=Tourists) | N/A |
-| 42 | [Grootman](http://twitter.com/search?q=Grootman) | N/A |
-| 43 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 44 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 45 | [SUSHI](http://twitter.com/search?q=SUSHI) | N/A |
-| 46 | [Sundowns](http://twitter.com/search?q=Sundowns) | Sundowns is a term used to refer to the time of day when the sun sets and the sky becomes dark. It is often used to describe the end of a day or the beginning of night. |
-| 47 | [Toss](http://twitter.com/search?q=Toss) | N/A |
-| 48 | [Jonathan Jansen](http://twitter.com/search?q=Jonathan+Jansen) | N/A |
-| 49 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 40 | [Grootman](http://twitter.com/search?q=Grootman) | N/A |
+| 41 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
+| 42 | [Tourists](http://twitter.com/search?q=Tourists) | N/A |
+| 43 | [THEMBABROLY ON MZANSI MAGIC](http://twitter.com/search?q=THEMBABROLY+ON+MZANSI+MAGIC) | N/A |
+| 44 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 45 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 46 | [Toss](http://twitter.com/search?q=Toss) | N/A |
+| 47 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
+| 48 | [Wanderers](http://twitter.com/search?q=Wanderers) | N/A |
+| 49 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 
 
 

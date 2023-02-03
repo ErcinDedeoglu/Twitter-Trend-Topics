@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-03 13:20:21 UTC`
+📆 Last Updated: `2023-02-03 14:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
 | 2 | [#VibePayFriday](http://twitter.com/search?q=%23VibePayFriday) | N/A |
-| 3 | [#NumberDay](http://twitter.com/search?q=%23NumberDay) | N/A |
-| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 6 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 7 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 8 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 9 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 3 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 4 | [#NumberDay](http://twitter.com/search?q=%23NumberDay) | N/A |
+| 5 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 6 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 7 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 8 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 9 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
 | 10 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
-| 11 | [Saka and Saliba](http://twitter.com/search?q=Saka+and+Saliba) | N/A |
-| 12 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 13 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 14 | [Young Fathers](http://twitter.com/search?q=Young+Fathers) | N/A |
+| 11 | [Sabrina Carpenter](http://twitter.com/search?q=Sabrina+Carpenter) | N/A |
+| 12 | [Red Bull](http://twitter.com/search?q=Red+Bull) | N/A |
+| 13 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 14 | [Ford](http://twitter.com/search?q=Ford) | N/A |
 | 15 | [Gina Miller](http://twitter.com/search?q=Gina+Miller) | N/A |
-| 16 | [Russian Oligarchs](http://twitter.com/search?q=Russian+Oligarchs) | N/A |
-| 17 | [Gabriel Martinelli](http://twitter.com/search?q=Gabriel+Martinelli) | N/A |
-| 18 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
-| 19 | [Yorkshire Tea](http://twitter.com/search?q=Yorkshire+Tea) | N/A |
-| 20 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 21 | [Windsor Castle](http://twitter.com/search?q=Windsor+Castle) | N/A |
-| 22 | [POTM](http://twitter.com/search?q=POTM) | N/A |
-| 23 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 24 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 25 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
-| 26 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
-| 27 | [Willoughby](http://twitter.com/search?q=Willoughby) | N/A |
-| 28 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 29 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
-| 30 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 16 | [Saka and Saliba](http://twitter.com/search?q=Saka+and+Saliba) | N/A |
+| 17 | [russell martin](http://twitter.com/search?q=russell+martin) | N/A |
+| 18 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 19 | [POTM](http://twitter.com/search?q=POTM) | N/A |
+| 20 | [Willoughby](http://twitter.com/search?q=Willoughby) | N/A |
+| 21 | [Russian Oligarchs](http://twitter.com/search?q=Russian+Oligarchs) | N/A |
+| 22 | [Young Fathers](http://twitter.com/search?q=Young+Fathers) | N/A |
+| 23 | [Yorkshire Tea](http://twitter.com/search?q=Yorkshire+Tea) | N/A |
+| 24 | [Windsor Castle](http://twitter.com/search?q=Windsor+Castle) | N/A |
+| 25 | [Gabriel Martinelli](http://twitter.com/search?q=Gabriel+Martinelli) | N/A |
+| 26 | [Unions](http://twitter.com/search?q=Unions) | N/A |
+| 27 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 28 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
+| 29 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 30 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
 | 31 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 32 | [Raye](http://twitter.com/search?q=Raye) | N/A |
-| 33 | [Autumnwatch](http://twitter.com/search?q=Autumnwatch) | N/A |
-| 34 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
-| 35 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 36 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 37 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 38 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 39 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
-| 40 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 41 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
-| 42 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 32 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 33 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 34 | [Raye](http://twitter.com/search?q=Raye) | N/A |
+| 35 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
+| 36 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 37 | [Autumnwatch](http://twitter.com/search?q=Autumnwatch) | N/A |
+| 38 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 39 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 40 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 41 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 42 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
 | 43 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
-| 44 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 45 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 46 | [#OurHeroShabazGill](http://twitter.com/search?q=%23OurHeroShabazGill) | #OurHeroShabazGill is a hashtag used to show support for Shabaz Gill, a Canadian politician who is currently serving as the Member of Provincial Parliament for Brampton East. The hashtag is used to express appreciation for his work and dedication to the people of Brampton East. |
-| 47 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 44 | [#RB19](http://twitter.com/search?q=%23RB19) | N/A |
+| 45 | [#NicolaBulley](http://twitter.com/search?q=%23NicolaBulley) | N/A |
+| 46 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 47 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 
 
 

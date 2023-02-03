@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-03 13:20:54 UTC`
+📆 Last Updated: `2023-02-03 14:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [New Zealand](</New Zealand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MVCvWEL](http://twitter.com/search?q=%23MVCvWEL) | N/A |
-| 2 | [Waitangi](http://twitter.com/search?q=Waitangi) | N/A |
+| 2 | [waitangi](http://twitter.com/search?q=waitangi) | N/A |
 | 3 | [Jane](http://twitter.com/search?q=Jane) | N/A |
 | 4 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
 | 5 | [Human Rights Commission](http://twitter.com/search?q=Human+Rights+Commission) | N/A |
-| 6 | [james shaw](http://twitter.com/search?q=james+shaw) | N/A |
+| 6 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
 | 7 | [te aroha](http://twitter.com/search?q=te+aroha) | N/A |
-| 8 | [#supersmashnz](http://twitter.com/search?q=%23supersmashnz) | N/A |
-| 9 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 10 | [Gore](http://twitter.com/search?q=Gore) | N/A |
-| 11 | [Wellington Central](http://twitter.com/search?q=Wellington+Central) | N/A |
-| 12 | [maisie](http://twitter.com/search?q=maisie) | N/A |
-| 13 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
-| 14 | [seventeen seas](http://twitter.com/search?q=seventeen+seas) | N/A |
-| 15 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 16 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 17 | [all whites](http://twitter.com/search?q=all+whites) | N/A |
+| 8 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 9 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 10 | [#supersmashnz](http://twitter.com/search?q=%23supersmashnz) | N/A |
+| 11 | [wellington central](http://twitter.com/search?q=wellington+central) | N/A |
+| 12 | [Gore](http://twitter.com/search?q=Gore) | N/A |
+| 13 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 14 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 15 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 16 | [all whites](http://twitter.com/search?q=all+whites) | N/A |
+| 17 | [seventeen seas](http://twitter.com/search?q=seventeen+seas) | N/A |
 | 18 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
 | 19 | [Whittakers](http://twitter.com/search?q=Whittakers) | N/A |
-| 20 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 20 | [#literaryfiction](http://twitter.com/search?q=%23literaryfiction) | N/A |
 | 21 | [#shortlandstreet](http://twitter.com/search?q=%23shortlandstreet) | N/A |
-| 22 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
-| 23 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 22 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 23 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
 | 24 | [infometrics](http://twitter.com/search?q=infometrics) | N/A |
-| 25 | [tamatha paul](http://twitter.com/search?q=tamatha+paul) | N/A |
-| 26 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
-| 27 | [palmerston north](http://twitter.com/search?q=palmerston+north) | N/A |
-| 28 | [backwards into the future](http://twitter.com/search?q=backwards+into+the+future) | N/A |
-| 29 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
-| 30 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
-| 31 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 32 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 33 | [RUSHTON ROULETTE](http://twitter.com/search?q=RUSHTON+ROULETTE) | N/A |
-| 34 | [Fatboy Slim](http://twitter.com/search?q=Fatboy+Slim) | N/A |
-| 35 | [China](http://twitter.com/search?q=China) | N/A |
+| 25 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 26 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 27 | [tamatha paul](http://twitter.com/search?q=tamatha+paul) | N/A |
+| 28 | [palmerston north](http://twitter.com/search?q=palmerston+north) | N/A |
+| 29 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 30 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 31 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
+| 32 | [Evil](http://twitter.com/search?q=Evil) | N/A |
+| 33 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
+| 34 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 35 | [Fatboy Slim](http://twitter.com/search?q=Fatboy+Slim) | N/A |
 | 36 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 37 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 38 | [Evil](http://twitter.com/search?q=Evil) | N/A |
-| 39 | [Crikey](http://twitter.com/search?q=Crikey) | N/A |
-| 40 | [Katrina](http://twitter.com/search?q=Katrina) | N/A |
-| 41 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 42 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 43 | [Tova](http://twitter.com/search?q=Tova) | N/A |
-| 44 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 45 | [Willie](http://twitter.com/search?q=Willie) | N/A |
+| 37 | [RUSHTON ROULETTE](http://twitter.com/search?q=RUSHTON+ROULETTE) | N/A |
+| 38 | [China](http://twitter.com/search?q=China) | N/A |
+| 39 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 40 | [backwards into the future](http://twitter.com/search?q=backwards+into+the+future) | N/A |
+| 41 | [Crikey](http://twitter.com/search?q=Crikey) | N/A |
+| 42 | [Katrina](http://twitter.com/search?q=Katrina) | N/A |
+| 43 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 44 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 45 | [Tova](http://twitter.com/search?q=Tova) | N/A |
 | 46 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 47 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 48 | [StinQy](http://twitter.com/search?q=StinQy) | N/A |
+| 48 | [ilam](http://twitter.com/search?q=ilam) | N/A |
 | 49 | [nz football](http://twitter.com/search?q=nz+football) | N/A |
 
 

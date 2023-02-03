@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-02-03 13:20:18 UTC`
+📆 Last Updated: `2023-02-03 14:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 2 | [Gabriel Martinelli](http://twitter.com/search?q=Gabriel+Martinelli) | N/A |
-| 3 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 4 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
-| 5 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 6 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 7 | [Carl](http://twitter.com/search?q=Carl) | N/A |
+| 2 | [#CheFul](http://twitter.com/search?q=%23CheFul) | N/A |
+| 3 | [Gabriel Martinelli](http://twitter.com/search?q=Gabriel+Martinelli) | N/A |
+| 4 | [#SixNations2023](http://twitter.com/search?q=%23SixNations2023) | N/A |
+| 5 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 6 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
+| 7 | [Autumnwatch](http://twitter.com/search?q=Autumnwatch) | N/A |
 | 8 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 9 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
-| 10 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
-| 11 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 12 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 9 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 10 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 12 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
 | 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
 | 14 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 15 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 16 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 15 | [Ford](http://twitter.com/search?q=Ford) | N/A |
+| 16 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
 | 17 | [David Davis](http://twitter.com/search?q=David+Davis) | N/A |
-| 18 | [Saka and Saliba](http://twitter.com/search?q=Saka+and+Saliba) | N/A |
-| 19 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 20 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 21 | [Young Fathers](http://twitter.com/search?q=Young+Fathers) | N/A |
-| 22 | [Gina Miller](http://twitter.com/search?q=Gina+Miller) | N/A |
-| 23 | [Russian Oligarchs](http://twitter.com/search?q=Russian+Oligarchs) | N/A |
-| 24 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
-| 25 | [Yorkshire Tea](http://twitter.com/search?q=Yorkshire+Tea) | N/A |
-| 26 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
-| 27 | [Windsor Castle](http://twitter.com/search?q=Windsor+Castle) | N/A |
-| 28 | [POTM](http://twitter.com/search?q=POTM) | N/A |
-| 29 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 18 | [Sabrina Carpenter](http://twitter.com/search?q=Sabrina+Carpenter) | N/A |
+| 19 | [Red Bull](http://twitter.com/search?q=Red+Bull) | N/A |
+| 20 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 21 | [Gina Miller](http://twitter.com/search?q=Gina+Miller) | N/A |
+| 22 | [Russell Martin](http://twitter.com/search?q=Russell+Martin) | N/A |
+| 23 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 24 | [POTM](http://twitter.com/search?q=POTM) | N/A |
+| 25 | [Willoughby](http://twitter.com/search?q=Willoughby) | N/A |
+| 26 | [Russian Oligarchs](http://twitter.com/search?q=Russian+Oligarchs) | N/A |
+| 27 | [Young Fathers](http://twitter.com/search?q=Young+Fathers) | N/A |
+| 28 | [Yorkshire Tea](http://twitter.com/search?q=Yorkshire+Tea) | N/A |
+| 29 | [Windsor Castle](http://twitter.com/search?q=Windsor+Castle) | N/A |
 | 30 | [Unions](http://twitter.com/search?q=Unions) | N/A |
-| 31 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
-| 32 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
-| 33 | [Willoughby](http://twitter.com/search?q=Willoughby) | N/A |
-| 34 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 35 | [Wordle 594 X](http://twitter.com/search?q=Wordle+594+X) | N/A |
-| 36 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 37 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 38 | [Raye](http://twitter.com/search?q=Raye) | N/A |
-| 39 | [Autumnwatch](http://twitter.com/search?q=Autumnwatch) | N/A |
-| 40 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
-| 41 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 42 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 43 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 44 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
-| 45 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
+| 31 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 32 | [Bohemian Rhapsody](http://twitter.com/search?q=Bohemian+Rhapsody) | N/A |
+| 33 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | N/A |
+| 34 | [Nick Kyrgios](http://twitter.com/search?q=Nick+Kyrgios) | Nick Kyrgios is a professional tennis player from Australia. He is known for his aggressive playing style and his on-court antics. He has won four ATP singles titles and reached the quarterfinals of the Australian Open in 2015. The name "Kyrgios" is derived from the Greek word for "lord". |
+| 35 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 36 | [Stormont](http://twitter.com/search?q=Stormont) | N/A |
+| 37 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 38 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 39 | [Raye](http://twitter.com/search?q=Raye) | N/A |
+| 40 | [Whitehall](http://twitter.com/search?q=Whitehall) | N/A |
+| 41 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 42 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 43 | [Adam Graham](http://twitter.com/search?q=Adam+Graham) | N/A |
+| 44 | [#bbcqt](http://twitter.com/search?q=%23bbcqt) | #bbcqt is a hashtag used on Twitter to refer to the BBC's political discussion show, Question Time. It stands for "BBC Question Time". |
+| 45 | [#TheApprentice](http://twitter.com/search?q=%23TheApprentice) | #TheApprentice is a reality television show created by Mark Burnett, in which a group of aspiring businesspeople compete for a job with a successful business executive. The show has been running since 2004 and has aired in many countries around the world. The show's title refers to the contestants being "apprentices" to the executive, learning from them and competing against each other for the job. |
 | 46 | [#VibePayFriday](http://twitter.com/search?q=%23VibePayFriday) | N/A |
 | 47 | [#NumberDay](http://twitter.com/search?q=%23NumberDay) | N/A |
-| 48 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 48 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-03 13:21:07 UTC`
+📆 Last Updated: `2023-02-03 14:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Poland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TuskZnaczyBieda](http://twitter.com/search?q=%23TuskZnaczyBieda) | N/A |
-| 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 3 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 4 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 5 | [Gimper](http://twitter.com/search?q=Gimper) | N/A |
+| 2 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 3 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 4 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 5 | [#willaplus](http://twitter.com/search?q=%23willaplus) | N/A |
 | 6 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 7 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 8 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
-| 9 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
+| 7 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
+| 8 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
+| 9 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 10 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
-| 11 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
-| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 13 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
-| 14 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 15 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 16 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 17 | [grot](http://twitter.com/search?q=grot) | N/A |
-| 18 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 19 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 20 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
-| 21 | [wilbur](http://twitter.com/search?q=wilbur) | N/A |
+| 11 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 12 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
+| 13 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 14 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
+| 15 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 16 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 17 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 18 | [Gual](http://twitter.com/search?q=Gual) | N/A |
+| 19 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
+| 20 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 21 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
 | 22 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
 | 23 | [łyżwy](http://twitter.com/search?q=%c5%82y%c5%bcwy) | N/A |
 | 24 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 25 | [Wilczura](http://twitter.com/search?q=Wilczura) | N/A |
+| 25 | [wilczura](http://twitter.com/search?q=wilczura) | N/A |
 | 26 | [Rząd](http://twitter.com/search?q=Rz%c4%85d) | N/A |
 | 27 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 28 | [agrounia](http://twitter.com/search?q=agrounia) | N/A |
-| 29 | [Gual](http://twitter.com/search?q=Gual) | N/A |
-| 30 | [Dulkiewicz](http://twitter.com/search?q=Dulkiewicz) | N/A |
-| 31 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 32 | [Pisiory](http://twitter.com/search?q=Pisiory) | N/A |
-| 33 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 34 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 35 | [Jan Habdas](http://twitter.com/search?q=Jan+Habdas) | N/A |
-| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 37 | [robert kubica](http://twitter.com/search?q=robert+kubica) | N/A |
-| 38 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 39 | [polsko](http://twitter.com/search?q=polsko) | N/A |
-| 40 | [Norwegii](http://twitter.com/search?q=Norwegii) | N/A |
-| 41 | [Pamiętamy](http://twitter.com/search?q=Pami%c4%99tamy) | N/A |
+| 28 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 29 | [agrounia](http://twitter.com/search?q=agrounia) | N/A |
+| 30 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 31 | [Jan Habdas](http://twitter.com/search?q=Jan+Habdas) | N/A |
+| 32 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
+| 33 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 34 | [Pisiory](http://twitter.com/search?q=Pisiory) | N/A |
+| 35 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 36 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 37 | [KPRM](http://twitter.com/search?q=KPRM) | N/A |
+| 38 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 39 | [PO-PSL](http://twitter.com/search?q=PO-PSL) | N/A |
+| 40 | [polsko](http://twitter.com/search?q=polsko) | N/A |
+| 41 | [Franciszka](http://twitter.com/search?q=Franciszka) | N/A |
 | 42 | [Złodzieje](http://twitter.com/search?q=Z%c5%82odzieje) | N/A |
-| 43 | [normalny](http://twitter.com/search?q=normalny) | N/A |
-| 44 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
-| 45 | [Setha](http://twitter.com/search?q=Setha) | N/A |
-| 46 | [Pinokio](http://twitter.com/search?q=Pinokio) | N/A |
-| 47 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 48 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 49 | [Piątek](http://twitter.com/search?q=Pi%c4%85tek) | N/A |
-| 50 | [paulisty](http://twitter.com/search?q=paulisty) | N/A |
+| 43 | [Robert Kubica](http://twitter.com/search?q=Robert+Kubica) | N/A |
+| 44 | [Dulkiewicz](http://twitter.com/search?q=Dulkiewicz) | N/A |
+| 45 | [piątek](http://twitter.com/search?q=pi%c4%85tek) | N/A |
+| 46 | [normalny](http://twitter.com/search?q=normalny) | N/A |
+| 47 | [Jasiu](http://twitter.com/search?q=Jasiu) | N/A |
+| 48 | [paulisty](http://twitter.com/search?q=paulisty) | N/A |
+| 49 | [Pamiętamy](http://twitter.com/search?q=Pami%c4%99tamy) | N/A |
+| 50 | [Podróże](http://twitter.com/search?q=Podr%c3%b3%c5%bce) | N/A |
 
 
 
