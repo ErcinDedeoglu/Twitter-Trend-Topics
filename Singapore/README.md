@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-03 04:16:38 UTC`
+📆 Last Updated: `2023-02-03 05:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Singapore
 | 9 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 11 | [I DONT](http://twitter.com/search?q=I+DONT) | N/A |
-| 12 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 13 | [goodbye he](http://twitter.com/search?q=goodbye+he) | N/A |
-| 14 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
-| 15 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 16 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
-| 17 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
-| 18 | [the high](http://twitter.com/search?q=the+high) | N/A |
-| 19 | [China](http://twitter.com/search?q=China) | N/A |
-| 20 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 22 | [Yeahh](http://twitter.com/search?q=Yeahh) | N/A |
-| 23 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 24 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
-| 25 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 26 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 27 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 28 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 29 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 32 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 33 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 34 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 12 | [goodbye he](http://twitter.com/search?q=goodbye+he) | N/A |
+| 13 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 14 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 15 | [Valentine's Day](http://twitter.com/search?q=Valentine%27s+Day) | N/A |
+| 16 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 17 | [Aquarius](http://twitter.com/search?q=Aquarius) | Aquarius is the eleventh astrological sign in the zodiac, represented by the Water Bearer. It is a fixed air sign, symbolized by two wavy lines of water. In English, Aquarius is associated with independence, creativity, and humanitarianism. People born under this sign are often seen as progressive thinkers who are open-minded and tolerant of others. |
+| 18 | [The High](http://twitter.com/search?q=The+High) | N/A |
+| 19 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 20 | [China](http://twitter.com/search?q=China) | N/A |
+| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 23 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 24 | [Yeahh](http://twitter.com/search?q=Yeahh) | N/A |
+| 25 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 26 | [Vijay](http://twitter.com/search?q=Vijay) | N/A |
+| 27 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 28 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 29 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 30 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 31 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 32 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
+| 33 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 34 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 35 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 36 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
-| 37 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 39 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 40 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 36 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 37 | [Hindenburg](http://twitter.com/search?q=Hindenburg) | N/A |
+| 38 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 39 | [APOLOGIZE TO BUILD](http://twitter.com/search?q=APOLOGIZE+TO+BUILD) | APOLOGIZE TO BUILD is a phrase used to encourage people to take responsibility for their actions and apologize for any wrongs they may have committed. It is a reminder that apologizing can help build relationships and foster understanding between people. |
+| 40 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
 | 41 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 42 | [SG GO](http://twitter.com/search?q=SG+GO) | N/A |
-| 43 | [On My Way](http://twitter.com/search?q=On+My+Way) | N/A |
-| 44 | [Epik High](http://twitter.com/search?q=Epik+High) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 43 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 44 | [SG GO](http://twitter.com/search?q=SG+GO) | N/A |
+| 45 | [ON MY WAY](http://twitter.com/search?q=ON+MY+WAY) | N/A |
 | 46 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 47 | [xiao](http://twitter.com/search?q=xiao) | Xiao is a Chinese word that means "little" or "small". It can also be used as an affectionate term for someone close to you, similar to the English word "dear". |
-| 48 | [suga](http://twitter.com/search?q=suga) | N/A |
-| 49 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 50 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 47 | [Epik High](http://twitter.com/search?q=Epik+High) | N/A |
+| 48 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 49 | [chris lee](http://twitter.com/search?q=chris+lee) | Chris Lee is a name, and it has no particular meaning in English. |
+| 50 | [Xiao](http://twitter.com/search?q=Xiao) | Xiao is a Chinese word that means "little" or "small". It is often used as an affectionate term for children or as a term of endearment. |
 
 
 
