@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-02-03 12:18:32 UTC`
+📆 Last Updated: `2023-02-03 13:20:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [China](http://twitter.com/search?q=China) | N/A |
-| 2 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 3 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 4 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 5 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 6 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
-| 7 | [#Wordle594](http://twitter.com/search?q=%23Wordle594) | N/A |
-| 8 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 9 | [#GoRedForWomen](http://twitter.com/search?q=%23GoRedForWomen) | N/A |
-| 10 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 11 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 12 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 13 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 3 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 5 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 6 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 7 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
+| 8 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 9 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 10 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 11 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 12 | [Buddy Holly](http://twitter.com/search?q=Buddy+Holly) | N/A |
+| 13 | [The Day the Music Died](http://twitter.com/search?q=The+Day+the+Music+Died) | N/A |
 | 14 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
-| 15 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 16 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
-| 17 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 18 | [Buddy Holly](http://twitter.com/search?q=Buddy+Holly) | N/A |
-| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 20 | [Vicks](http://twitter.com/search?q=Vicks) | N/A |
-| 21 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 22 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 23 | [Debate](http://twitter.com/search?q=Debate) | N/A |
-| 24 | [Dodgeball](http://twitter.com/search?q=Dodgeball) | N/A |
-| 25 | [Sixto](http://twitter.com/search?q=Sixto) | N/A |
-| 26 | [Ilhan](http://twitter.com/search?q=Ilhan) | N/A |
-| 27 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 28 | [Brian Dawkins](http://twitter.com/search?q=Brian+Dawkins) | N/A |
-| 29 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
-| 30 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 31 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 32 | [Maki](http://twitter.com/search?q=Maki) | N/A |
-| 33 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 34 | [The Squad](http://twitter.com/search?q=The+Squad) | N/A |
-| 35 | [Semitic](http://twitter.com/search?q=Semitic) | N/A |
-| 36 | [Skinamarink](http://twitter.com/search?q=Skinamarink) | N/A |
-| 37 | [corpse](http://twitter.com/search?q=corpse) | N/A |
-| 38 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 39 | [Knockout City](http://twitter.com/search?q=Knockout+City) | N/A |
-| 40 | [Drama](http://twitter.com/search?q=Drama) | N/A |
-| 41 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 42 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
-| 43 | [Billings](http://twitter.com/search?q=Billings) | N/A |
-| 44 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 45 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 46 | [#NationalWearRedDay](http://twitter.com/search?q=%23NationalWearRedDay) | N/A |
-| 47 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 48 | [#SugarRushRide2ndWin](http://twitter.com/search?q=%23SugarRushRide2ndWin) | #SugarRushRide2ndWin is a hashtag used to celebrate a second win in the Sugar Rush Ride game. It is used to share excitement and congratulate the winner. |
-| 49 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 15 | [The Big Bopper](http://twitter.com/search?q=The+Big+Bopper) | N/A |
+| 16 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 17 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
+| 18 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 19 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 20 | [Ritchie Valens](http://twitter.com/search?q=Ritchie+Valens) | N/A |
+| 21 | [Debate](http://twitter.com/search?q=Debate) | N/A |
+| 22 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 23 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 24 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 25 | [ICBM](http://twitter.com/search?q=ICBM) | N/A |
+| 26 | [Vicks](http://twitter.com/search?q=Vicks) | N/A |
+| 27 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 29 | [Ilhan](http://twitter.com/search?q=Ilhan) | N/A |
+| 30 | [Sixto](http://twitter.com/search?q=Sixto) | N/A |
+| 31 | [Dodgeball](http://twitter.com/search?q=Dodgeball) | N/A |
+| 32 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 33 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
+| 34 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 35 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 36 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 37 | [Brian Dawkins](http://twitter.com/search?q=Brian+Dawkins) | N/A |
+| 38 | [The CCP](http://twitter.com/search?q=The+CCP) | N/A |
+| 39 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 40 | [Semitic](http://twitter.com/search?q=Semitic) | N/A |
+| 41 | [The Squad](http://twitter.com/search?q=The+Squad) | N/A |
+| 42 | [Billings](http://twitter.com/search?q=Billings) | N/A |
+| 43 | [Eric Swalwell](http://twitter.com/search?q=Eric+Swalwell) | N/A |
+| 44 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 45 | [Congresswoman](http://twitter.com/search?q=Congresswoman) | N/A |
+| 46 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 47 | [Drama](http://twitter.com/search?q=Drama) | N/A |
+| 48 | [#GoRedForWomen](http://twitter.com/search?q=%23GoRedForWomen) | N/A |
+| 49 | [#FlashbackFriday](http://twitter.com/search?q=%23FlashbackFriday) | N/A |
 
 
 

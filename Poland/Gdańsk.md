@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-03 12:18:05 UTC`
+📆 Last Updated: `2023-02-03 13:20:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
 | 3 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
 | 4 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 5 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
+| 5 | [Gimper](http://twitter.com/search?q=Gimper) | N/A |
 | 6 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 7 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 7 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
 | 8 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 9 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 10 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 11 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 12 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 13 | [Grot](http://twitter.com/search?q=Grot) | N/A |
-| 14 | [Szczurek](http://twitter.com/search?q=Szczurek) | N/A |
-| 15 | [Wilczur](http://twitter.com/search?q=Wilczur) | N/A |
-| 16 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 17 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
-| 18 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 19 | [Norwegii](http://twitter.com/search?q=Norwegii) | N/A |
-| 20 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 21 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
-| 22 | [Łyżwy](http://twitter.com/search?q=%c5%81y%c5%bcwy) | N/A |
-| 23 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 9 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 10 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
+| 11 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 12 | ["Znachora"](http://twitter.com/search?q=%22Znachora%22) | N/A |
+| 13 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 14 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 15 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 16 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 17 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 18 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
+| 19 | [wilbur](http://twitter.com/search?q=wilbur) | N/A |
+| 20 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
+| 21 | [łyżwy](http://twitter.com/search?q=%c5%82y%c5%bcwy) | N/A |
+| 22 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 23 | [Wilczura](http://twitter.com/search?q=Wilczura) | N/A |
 | 24 | [Rząd](http://twitter.com/search?q=Rz%c4%85d) | N/A |
-| 25 | [kowal](http://twitter.com/search?q=kowal) | N/A |
-| 26 | [Dulkiewicz](http://twitter.com/search?q=Dulkiewicz) | N/A |
-| 27 | [Wojsko](http://twitter.com/search?q=Wojsko) | N/A |
-| 28 | [gual](http://twitter.com/search?q=gual) | N/A |
-| 29 | [AgroUnia](http://twitter.com/search?q=AgroUnia) | N/A |
-| 30 | [Greenwooda](http://twitter.com/search?q=Greenwooda) | N/A |
+| 25 | [agrounia](http://twitter.com/search?q=agrounia) | N/A |
+| 26 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 27 | [Gual](http://twitter.com/search?q=Gual) | N/A |
+| 28 | [greenwooda](http://twitter.com/search?q=greenwooda) | N/A |
+| 29 | [Dulkiewicz](http://twitter.com/search?q=Dulkiewicz) | N/A |
+| 30 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 31 | [Pisiory](http://twitter.com/search?q=Pisiory) | N/A |
-| 32 | [Robert Kubica](http://twitter.com/search?q=Robert+Kubica) | N/A |
-| 33 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 34 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |
-| 35 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 36 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 37 | [Dla Ciebie](http://twitter.com/search?q=Dla+Ciebie) | N/A |
+| 32 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 33 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 34 | [Jan Habdas](http://twitter.com/search?q=Jan+Habdas) | N/A |
+| 35 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 36 | [Norwegii](http://twitter.com/search?q=Norwegii) | N/A |
+| 37 | [Robert Kubica](http://twitter.com/search?q=Robert+Kubica) | N/A |
 | 38 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 40 | [Jan Habdas](http://twitter.com/search?q=Jan+Habdas) | N/A |
+| 39 | [polsko](http://twitter.com/search?q=polsko) | N/A |
+| 40 | [Pamiętamy](http://twitter.com/search?q=Pami%c4%99tamy) | N/A |
 | 41 | [Złodzieje](http://twitter.com/search?q=Z%c5%82odzieje) | N/A |
-| 42 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 43 | [syrii](http://twitter.com/search?q=syrii) | N/A |
-| 44 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 45 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 46 | [Podróże](http://twitter.com/search?q=Podr%c3%b3%c5%bce) | N/A |
-| 47 | [rzymkowski](http://twitter.com/search?q=rzymkowski) | N/A |
-| 48 | [POLSKO](http://twitter.com/search?q=POLSKO) | N/A |
+| 42 | [normalny](http://twitter.com/search?q=normalny) | N/A |
+| 43 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
+| 44 | [Setha](http://twitter.com/search?q=Setha) | N/A |
+| 45 | [Pinokio](http://twitter.com/search?q=Pinokio) | N/A |
+| 46 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
+| 47 | [Piątek](http://twitter.com/search?q=Pi%c4%85tek) | N/A |
+| 48 | [paulisty](http://twitter.com/search?q=paulisty) | N/A |
 
 
 

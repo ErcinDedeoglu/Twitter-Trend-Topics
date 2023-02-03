@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-03 12:18:29 UTC`
+📆 Last Updated: `2023-02-03 13:20:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,40 +19,40 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 2 | [Waitangi](http://twitter.com/search?q=Waitangi) | N/A |
 | 3 | [Jane](http://twitter.com/search?q=Jane) | N/A |
 | 4 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 5 | [human rights commission](http://twitter.com/search?q=human+rights+commission) | N/A |
-| 6 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
+| 5 | [Human Rights Commission](http://twitter.com/search?q=Human+Rights+Commission) | N/A |
+| 6 | [james shaw](http://twitter.com/search?q=james+shaw) | N/A |
 | 7 | [te aroha](http://twitter.com/search?q=te+aroha) | N/A |
 | 8 | [#supersmashnz](http://twitter.com/search?q=%23supersmashnz) | N/A |
 | 9 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 10 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 11 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
-| 12 | [Gore](http://twitter.com/search?q=Gore) | N/A |
-| 13 | [Wellington Central](http://twitter.com/search?q=Wellington+Central) | N/A |
-| 14 | [maisie](http://twitter.com/search?q=maisie) | N/A |
-| 15 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
-| 16 | [seventeen seas](http://twitter.com/search?q=seventeen+seas) | N/A |
-| 17 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 18 | [all whites](http://twitter.com/search?q=all+whites) | N/A |
-| 19 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
-| 20 | [Whittakers](http://twitter.com/search?q=Whittakers) | N/A |
-| 21 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 22 | [#shortlandstreet](http://twitter.com/search?q=%23shortlandstreet) | N/A |
-| 23 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
-| 24 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 25 | [infometrics](http://twitter.com/search?q=infometrics) | N/A |
-| 26 | [tamatha paul](http://twitter.com/search?q=tamatha+paul) | N/A |
+| 10 | [Gore](http://twitter.com/search?q=Gore) | N/A |
+| 11 | [Wellington Central](http://twitter.com/search?q=Wellington+Central) | N/A |
+| 12 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 13 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
+| 14 | [seventeen seas](http://twitter.com/search?q=seventeen+seas) | N/A |
+| 15 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 16 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 17 | [all whites](http://twitter.com/search?q=all+whites) | N/A |
+| 18 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 19 | [Whittakers](http://twitter.com/search?q=Whittakers) | N/A |
+| 20 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 21 | [#shortlandstreet](http://twitter.com/search?q=%23shortlandstreet) | N/A |
+| 22 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
+| 23 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 24 | [infometrics](http://twitter.com/search?q=infometrics) | N/A |
+| 25 | [tamatha paul](http://twitter.com/search?q=tamatha+paul) | N/A |
+| 26 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
 | 27 | [palmerston north](http://twitter.com/search?q=palmerston+north) | N/A |
 | 28 | [backwards into the future](http://twitter.com/search?q=backwards+into+the+future) | N/A |
 | 29 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
 | 30 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
 | 31 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
 | 32 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 33 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 34 | [RUSHTON ROULETTE](http://twitter.com/search?q=RUSHTON+ROULETTE) | N/A |
+| 33 | [RUSHTON ROULETTE](http://twitter.com/search?q=RUSHTON+ROULETTE) | N/A |
+| 34 | [Fatboy Slim](http://twitter.com/search?q=Fatboy+Slim) | N/A |
 | 35 | [China](http://twitter.com/search?q=China) | N/A |
-| 36 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 37 | [Evil](http://twitter.com/search?q=Evil) | N/A |
-| 38 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 36 | [Maori](http://twitter.com/search?q=Maori) | N/A |
+| 37 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 38 | [Evil](http://twitter.com/search?q=Evil) | N/A |
 | 39 | [Crikey](http://twitter.com/search?q=Crikey) | N/A |
 | 40 | [Katrina](http://twitter.com/search?q=Katrina) | N/A |
 | 41 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |

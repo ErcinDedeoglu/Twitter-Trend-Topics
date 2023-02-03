@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-03 12:18:12 UTC`
+📆 Last Updated: `2023-02-03 13:20:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MazdaNewVibrant](http://twitter.com/search?q=%23MazdaNewVibrant) | N/A |
-| 2 | [#SugarRushRide2ndWin](http://twitter.com/search?q=%23SugarRushRide2ndWin) | #SugarRushRide2ndWin is a hashtag used to celebrate a second win in the Sugar Rush Ride game. It is used to share excitement and congratulate the winner. |
-| 3 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 4 | [#TXT16thWin](http://twitter.com/search?q=%23TXT16thWin) | #TXT16thWin is a hashtag used by fans of the South Korean boy band, TXT (Tomorrow X Together). It is used to celebrate the group's 16th win on a music show. The hashtag translates to "TXT's 16th Win". |
-| 5 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
-| 6 | [#ziododol](http://twitter.com/search?q=%23ziododol) | N/A |
-| 7 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 8 | [Wayangnya Kita](http://twitter.com/search?q=Wayangnya+Kita) | N/A |
-| 9 | [GBLA](http://twitter.com/search?q=GBLA) | N/A |
-| 10 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
-| 11 | [Jeki](http://twitter.com/search?q=Jeki) | N/A |
+| 1 | [#MazdaNewVibrant](http://twitter.com/search?q=%23MazdaNewVibrant) | #MazdaNewVibrant is a hashtag used to promote Mazda's new vibrant line of vehicles. It is meant to emphasize the bold and energetic design of the cars, as well as their modern technology and features. |
+| 2 | [#holoIDKimonoDAY1](http://twitter.com/search?q=%23holoIDKimonoDAY1) | N/A |
+| 3 | [#AturanAntiCintaJKT48](http://twitter.com/search?q=%23AturanAntiCintaJKT48) | N/A |
+| 4 | [#kimonOLLIE](http://twitter.com/search?q=%23kimonOLLIE) | N/A |
+| 5 | [CX-5 AWD](http://twitter.com/search?q=CX-5+AWD) | N/A |
+| 6 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 7 | [Amethyst](http://twitter.com/search?q=Amethyst) | Amethyst is a type of purple quartz gemstone. It is the birthstone for February and is associated with protection, healing, and peace. The name comes from the Greek word "amethystos," which means "not intoxicated." |
+| 8 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
+| 9 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 10 | [JEKI](http://twitter.com/search?q=JEKI) | N/A |
+| 11 | [GBLA](http://twitter.com/search?q=GBLA) | N/A |
 | 12 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 13 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
+| 13 | [David Beckham](http://twitter.com/search?q=David+Beckham) | David Beckham is an English former professional soccer player. He is widely regarded as one of the greatest and most recognizable players in the history of the sport. He played for Manchester United, Real Madrid, LA Galaxy, Paris Saint-Germain, and the England national team. He is also a successful businessman and philanthropist. |
 | 14 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 15 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 15 | [Aplikasi](http://twitter.com/search?q=Aplikasi) | N/A |
 | 16 | [QRIS](http://twitter.com/search?q=QRIS) | N/A |
-| 17 | [Jantan](http://twitter.com/search?q=Jantan) | N/A |
-| 18 | [Pram](http://twitter.com/search?q=Pram) | N/A |
-| 19 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
-| 20 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 21 | [Gelar](http://twitter.com/search?q=Gelar) | N/A |
-| 22 | [Kris](http://twitter.com/search?q=Kris) | N/A |
-| 23 | [Kecoa](http://twitter.com/search?q=Kecoa) | N/A |
-| 24 | [pak muh](http://twitter.com/search?q=pak+muh) | N/A |
-| 25 | [Aceh](http://twitter.com/search?q=Aceh) | N/A |
-| 26 | [Sechan](http://twitter.com/search?q=Sechan) | N/A |
-| 27 | [CICAK](http://twitter.com/search?q=CICAK) | N/A |
-| 28 | [Sanggup](http://twitter.com/search?q=Sanggup) | Sanggup is an Indonesian word that means "able" or "willing". It is used to express one's ability or willingness to do something. |
-| 29 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
-| 30 | [WELCOME BACK BAEKHYUN](http://twitter.com/search?q=WELCOME+BACK+BAEKHYUN) | N/A |
-| 31 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
-| 32 | [Kyuris](http://twitter.com/search?q=Kyuris) | N/A |
-| 33 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 34 | [Fitur](http://twitter.com/search?q=Fitur) | N/A |
-| 35 | [#tepangpamirso](http://twitter.com/search?q=%23tepangpamirso) | N/A |
-| 36 | [#EverfitFibewell](http://twitter.com/search?q=%23EverfitFibewell) | #EverfitFibewell is a hashtag used to promote Everfit Fibewell, a brand of health and wellness products. The phrase "Everfit Fibewell" is a combination of the words "ever fit" and "well," which together mean to be in good physical and mental health. |
-| 37 | [#couplealay](http://twitter.com/search?q=%23couplealay) | N/A |
-| 38 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | #oneสนั่นจอ2023 is a hashtag used in Thailand to promote the 2023 Asian Cup, which will be held in Thailand. In English, it translates to "#OneCheerScreen2023". |
-| 39 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
-| 40 | [#Miratashi](http://twitter.com/search?q=%23Miratashi) | N/A |
-| 41 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
-| 42 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
-| 43 | [#POPPY_KoreanVersion](http://twitter.com/search?q=%23POPPY_KoreanVersion) | N/A |
-| 44 | [#EXOSCFANCONINJAKARTA](http://twitter.com/search?q=%23EXOSCFANCONINJAKARTA) | N/A |
-| 45 | [#persebayaDay](http://twitter.com/search?q=%23persebayaDay) | N/A |
-| 46 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
-| 47 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
+| 17 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
+| 18 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 19 | [Jantan](http://twitter.com/search?q=Jantan) | N/A |
+| 20 | [Pram](http://twitter.com/search?q=Pram) | N/A |
+| 21 | [Umur 25](http://twitter.com/search?q=Umur+25) | N/A |
+| 22 | [WELCOME BACK BAEKHYUN](http://twitter.com/search?q=WELCOME+BACK+BAEKHYUN) | N/A |
+| 23 | [Kris](http://twitter.com/search?q=Kris) | N/A |
+| 24 | [Pak Muh](http://twitter.com/search?q=Pak+Muh) | N/A |
+| 25 | [EUNCHAE MUSIC BANK MC](http://twitter.com/search?q=EUNCHAE+MUSIC+BANK+MC) | N/A |
+| 26 | [Aceh](http://twitter.com/search?q=Aceh) | N/A |
+| 27 | [Cicak](http://twitter.com/search?q=Cicak) | N/A |
+| 28 | [Gelar](http://twitter.com/search?q=Gelar) | N/A |
+| 29 | [Sechan](http://twitter.com/search?q=Sechan) | N/A |
+| 30 | [Sanggup](http://twitter.com/search?q=Sanggup) | Sanggup is an Indonesian word that means "able" or "willing". It is used to express one's ability or willingness to do something. |
+| 31 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
+| 32 | [JUNG HOSEOK](http://twitter.com/search?q=JUNG+HOSEOK) | Jung Hoseok is the stage name of South Korean singer, songwriter, and dancer, J-Hope. He is a member of the K-pop boy group BTS. The name "Jung Hoseok" translates to "One Hope" in English. |
+| 33 | [Kyuris](http://twitter.com/search?q=Kyuris) | N/A |
+| 34 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 35 | [#SugarRushRide2ndWin](http://twitter.com/search?q=%23SugarRushRide2ndWin) | #SugarRushRide2ndWin is a hashtag used to celebrate a second win in the Sugar Rush Ride game. It is used to share excitement and congratulate the winner. |
+| 36 | [#TXT16thWin](http://twitter.com/search?q=%23TXT16thWin) | #TXT16thWin is a hashtag used by fans of the South Korean boy band, TXT (Tomorrow X Together). It is used to celebrate the group's 16th win on a music show. The hashtag translates to "TXT's 16th Win". |
+| 37 | [#ziododol](http://twitter.com/search?q=%23ziododol) | N/A |
+| 38 | [#couplealay](http://twitter.com/search?q=%23couplealay) | N/A |
+| 39 | [#EverfitFibewell](http://twitter.com/search?q=%23EverfitFibewell) | #EverfitFibewell is a hashtag used to promote Everfit Fibewell, a brand of health and wellness products. The phrase "Everfit Fibewell" is a combination of the words "ever fit" and "well," which together mean to be in good physical and mental health. |
+| 40 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | N/A |
+| 41 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | #oneสนั่นจอ2023 is a hashtag used in Thailand to promote the 2023 Asian Cup, which will be held in Thailand. In English, it translates to "#OneCheerScreen2023". |
+| 42 | [#TepangPamirso](http://twitter.com/search?q=%23TepangPamirso) | N/A |
+| 43 | [#BrightWin](http://twitter.com/search?q=%23BrightWin) | N/A |
+| 44 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
+| 45 | [#Miratashi](http://twitter.com/search?q=%23Miratashi) | N/A |
+| 46 | [#EXOSCFANCONINJAKARTA](http://twitter.com/search?q=%23EXOSCFANCONINJAKARTA) | N/A |
+| 47 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
 | 48 | [#zonabaᅠᅠᅠ](http://twitter.com/search?q=%23zonaba%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
 
 
