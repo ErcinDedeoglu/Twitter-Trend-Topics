@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-03 03:19:42 UTC`
+📆 Last Updated: `2023-02-03 04:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for Qatar
 | ------- | ------------ | ------------ |
 | 1 | [#سنابات_راشد_المسردي](http://twitter.com/search?q=%23%d8%b3%d9%86%d8%a7%d8%a8%d8%a7%d8%aa_%d8%b1%d8%a7%d8%b4%d8%af_%d8%a7%d9%84%d9%85%d8%b3%d8%b1%d8%af%d9%8a) | N/A |
 | 2 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 3 | [احمد سهيل](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b3%d9%87%d9%8a%d9%84) | N/A |
-| 4 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 5 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 3 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 4 | [احمد سهيل](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b3%d9%87%d9%8a%d9%84) | N/A |
+| 5 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
 | 6 | [حمد بن خليفه بن احمد](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a8%d9%86+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
 | 7 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 8 | [الدفعه الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%b9%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
 | 9 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
 | 10 | [الطلبه المرشحين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%b1%d8%b4%d8%ad%d9%8a%d9%86) | N/A |
 | 11 | [#كالعاده_الديربي_رياني](http://twitter.com/search?q=%23%d9%83%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%87_%d8%a7%d9%84%d8%af%d9%8a%d8%b1%d8%a8%d9%8a_%d8%b1%d9%8a%d8%a7%d9%86%d9%8a) | N/A |
-| 12 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
-| 13 | [صوت الارض](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | صوت الارض (or "Sound of the Earth") is a term used to describe the natural sounds of the environment, such as birdsong, wind rustling through trees, and running water. In English, it can be translated as "the sound of nature". |
+| 12 | [صوت الارض](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | صوت الارض (or "Sound of the Earth") is a term used to describe the natural sounds of the environment, such as birdsong, wind rustling through trees, and running water. In English, it can be translated as "the sound of nature". |
+| 13 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
 | 14 | [#ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | #ليله_صوت_الارض is an Arabic hashtag that translates to "The Night of the Earth's Voice". It is used to promote environmental awareness and activism. |
 | 15 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 16 | [الخارجيه الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
@@ -35,10 +35,10 @@ This is top 50 for Qatar
 | 18 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 19 | [الاسبوع الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
 | 20 | [الشرطه التابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 21 | [#الخور](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%88%d8%b1) | N/A |
-| 22 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
-| 23 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 24 | [#كليه_الشرطه](http://twitter.com/search?q=%23%d9%83%d9%84%d9%8a%d9%87_%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%87) | N/A |
+| 21 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 22 | [#الخور](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%88%d8%b1) | N/A |
+| 23 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
+| 24 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 25 | [الخيل الجزيريه العربيه الاصيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d9%84+%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b5%d9%8a%d9%84%d9%87) | N/A |
 | 26 | [Doha](http://twitter.com/search?q=Doha) | N/A |
 | 27 | [باريس سان جيرمان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3+%d8%b3%d8%a7%d9%86+%d8%ac%d9%8a%d8%b1%d9%85%d8%a7%d9%86) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Qatar
 | 46 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
 | 47 | [2 فبراير 2023](http://twitter.com/search?q=2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
 | 48 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 49 | [عبدالله](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 50 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 49 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 50 | [عبدالله](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
 
 
 

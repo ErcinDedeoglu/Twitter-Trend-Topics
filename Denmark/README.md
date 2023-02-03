@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-03 03:19:38 UTC`
+📆 Last Updated: `2023-02-03 04:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Irma](http://twitter.com/search?q=Irma) | N/A |
+| 1 | [irma](http://twitter.com/search?q=irma) | N/A |
 | 2 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 3 | [#sportskongres2023](http://twitter.com/search?q=%23sportskongres2023) | N/A |
 | 4 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
@@ -24,11 +24,11 @@ This is top 50 for Denmark
 | 7 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 8 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
 | 9 | [St. Bededag](http://twitter.com/search?q=St.+Bededag) | N/A |
-| 10 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 10 | [viaplay](http://twitter.com/search?q=viaplay) | N/A |
 | 11 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 12 | [Københavns Kommune](http://twitter.com/search?q=K%c3%b8benhavns+Kommune) | N/A |
-| 13 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
-| 14 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 12 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 13 | [Københavns Kommune](http://twitter.com/search?q=K%c3%b8benhavns+Kommune) | N/A |
+| 14 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
 | 15 | [babacar](http://twitter.com/search?q=babacar) | N/A |
 | 16 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 17 | [Netto](http://twitter.com/search?q=Netto) | N/A |
@@ -56,14 +56,14 @@ This is top 50 for Denmark
 | 39 | [Nigerians](http://twitter.com/search?q=Nigerians) | Nigerians is a term used to refer to people who are citizens of Nigeria, a country located in West Africa. The official language of Nigeria is English. |
 | 40 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 41 | [nørrebro](http://twitter.com/search?q=n%c3%b8rrebro) | N/A |
-| 42 | [Bornholm](http://twitter.com/search?q=Bornholm) | N/A |
+| 42 | [bornholm](http://twitter.com/search?q=bornholm) | N/A |
 | 43 | [store bededag](http://twitter.com/search?q=store+bededag) | N/A |
 | 44 | [Davos](http://twitter.com/search?q=Davos) | Davos is a ski resort town in the Swiss Alps. It is also the name of an annual meeting of world leaders, business executives, and other influential people held in the town. The meeting is known as the World Economic Forum or simply Davos. |
 | 45 | [tusind](http://twitter.com/search?q=tusind) | N/A |
 | 46 | [brugsen](http://twitter.com/search?q=brugsen) | N/A |
-| 47 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
+| 47 | [viborg](http://twitter.com/search?q=viborg) | N/A |
 | 48 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 49 | [Spørgsmålet](http://twitter.com/search?q=Sp%c3%b8rgsm%c3%a5let) | N/A |
+| 49 | [spørgsmålet](http://twitter.com/search?q=sp%c3%b8rgsm%c3%a5let) | N/A |
 | 50 | [socialdemokratiet](http://twitter.com/search?q=socialdemokratiet) | N/A |
 
 

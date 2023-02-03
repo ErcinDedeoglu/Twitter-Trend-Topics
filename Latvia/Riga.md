@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-03 03:19:07 UTC`
+📆 Last Updated: `2023-02-03 04:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,7 +42,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 25 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
 | 26 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
 | 27 | [kāda](http://twitter.com/search?q=k%c4%81da) | N/A |
-| 28 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 28 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 29 | [eiropas](http://twitter.com/search?q=eiropas) | N/A |
 | 30 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
 | 31 | [#hkzemgale](http://twitter.com/search?q=%23hkzemgale) | N/A |
@@ -54,16 +54,16 @@ This is top 50 for [Latvia](</Latvia>)
 | 37 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
 | 38 | [pirms](http://twitter.com/search?q=pirms) | N/A |
 | 39 | [ZINU](http://twitter.com/search?q=ZINU) | N/A |
-| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 41 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 42 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 43 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
-| 44 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
-| 45 | [Krieviju](http://twitter.com/search?q=Krieviju) | N/A |
-| 46 | [valsts](http://twitter.com/search?q=valsts) | N/A |
-| 47 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
-| 48 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 49 | [somijas](http://twitter.com/search?q=somijas) | N/A |
+| 40 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 41 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 42 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
+| 43 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
+| 44 | [krieviju](http://twitter.com/search?q=krieviju) | N/A |
+| 45 | [valsts](http://twitter.com/search?q=valsts) | N/A |
+| 46 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
+| 47 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
+| 48 | [somijas](http://twitter.com/search?q=somijas) | N/A |
+| 49 | [neesmu](http://twitter.com/search?q=neesmu) | N/A |
 
 
 

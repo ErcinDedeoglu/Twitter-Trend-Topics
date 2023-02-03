@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-02-03 03:18:53 UTC`
+📆 Last Updated: `2023-02-03 04:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,50 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 2 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
-| 3 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
-| 4 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 5 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 6 | [#PlayoffColosal](http://twitter.com/search?q=%23PlayoffColosal) | N/A |
-| 7 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 8 | [Gerardo Islas](http://twitter.com/search?q=Gerardo+Islas) | N/A |
-| 9 | [#ClaudiaNuncaSeraPresidenta](http://twitter.com/search?q=%23ClaudiaNuncaSeraPresidenta) | N/A |
-| 10 | [Colegio Rébsamen](http://twitter.com/search?q=Colegio+R%c3%a9bsamen) | N/A |
-| 11 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
-| 12 | [Velvet](http://twitter.com/search?q=Velvet) | N/A |
-| 13 | [Ser de Luz](http://twitter.com/search?q=Ser+de+Luz) | N/A |
-| 14 | [Nicky](http://twitter.com/search?q=Nicky) | N/A |
-| 15 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 16 | [La Barbie](http://twitter.com/search?q=La+Barbie) | N/A |
-| 17 | [Sherlyn](http://twitter.com/search?q=Sherlyn) | N/A |
-| 18 | [Aristeo](http://twitter.com/search?q=Aristeo) | N/A |
-| 19 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 1 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
+| 2 | [#PlayoffColosal](http://twitter.com/search?q=%23PlayoffColosal) | N/A |
+| 3 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 4 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
+| 5 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
+| 6 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 7 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 8 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
+| 9 | [Colegio Rébsamen](http://twitter.com/search?q=Colegio+R%c3%a9bsamen) | N/A |
+| 10 | [Gerardo Islas](http://twitter.com/search?q=Gerardo+Islas) | N/A |
+| 11 | [San Luis vs Puebla](http://twitter.com/search?q=San+Luis+vs+Puebla) | N/A |
+| 12 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 13 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
+| 14 | [Ser de Luz](http://twitter.com/search?q=Ser+de+Luz) | N/A |
+| 15 | [Velvet](http://twitter.com/search?q=Velvet) | N/A |
+| 16 | [Sherlyn](http://twitter.com/search?q=Sherlyn) | N/A |
+| 17 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
+| 18 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
+| 19 | [La Barbie](http://twitter.com/search?q=La+Barbie) | N/A |
 | 20 | [Nicolasa](http://twitter.com/search?q=Nicolasa) | N/A |
-| 21 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
-| 22 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 23 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 24 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 25 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 26 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 27 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 28 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 29 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 30 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 31 | [Tamal](http://twitter.com/search?q=Tamal) | N/A |
-| 32 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
-| 33 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 34 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 35 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
-| 36 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 37 | [Verde](http://twitter.com/search?q=Verde) | N/A |
-| 38 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
+| 21 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 22 | [Aristeo](http://twitter.com/search?q=Aristeo) | N/A |
+| 23 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 24 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
+| 25 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 26 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 27 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 28 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
+| 29 | [Tamal](http://twitter.com/search?q=Tamal) | N/A |
+| 30 | [Cardozo](http://twitter.com/search?q=Cardozo) | N/A |
+| 31 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 32 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 33 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
+| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 35 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 36 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
+| 37 | [#ClaudiaNuncaSeraPresidenta](http://twitter.com/search?q=%23ClaudiaNuncaSeraPresidenta) | N/A |
+| 38 | [#LCDF3](http://twitter.com/search?q=%23LCDF3) | N/A |
 | 39 | [#cncoxsteveaoki](http://twitter.com/search?q=%23cncoxsteveaoki) | N/A |
 | 40 | [#twitchstreamer](http://twitter.com/search?q=%23twitchstreamer) | N/A |
-| 41 | [#ladofdefrankenvivo](http://twitter.com/search?q=%23ladofdefrankenvivo) | N/A |
-| 42 | [#NiñezSinSeguridad](http://twitter.com/search?q=%23Ni%c3%b1ezSinSeguridad) | N/A |
-| 43 | [#IntegracionTripoier](http://twitter.com/search?q=%23IntegracionTripoier) | N/A |
+| 41 | [#IntegracionTripoier](http://twitter.com/search?q=%23IntegracionTripoier) | N/A |
+| 42 | [#JoaquinBondoni](http://twitter.com/search?q=%23JoaquinBondoni) | N/A |
+| 43 | [#MichelleRodriguez](http://twitter.com/search?q=%23MichelleRodriguez) | N/A |
 | 44 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
-| 45 | [#DíaMundialDeLosHumedales](http://twitter.com/search?q=%23D%c3%adaMundialDeLosHumedales) | N/A |
-| 46 | [#HappyBirthdayShakira](http://twitter.com/search?q=%23HappyBirthdayShakira) | N/A |
-| 47 | [#MichelleRodriguez](http://twitter.com/search?q=%23MichelleRodriguez) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-03 03:18:58 UTC`
+📆 Last Updated: `2023-02-03 04:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 2 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 3 | [STRAY KIDS NO BRASIL](http://twitter.com/search?q=STRAY+KIDS+NO+BRASIL) | STRAY KIDS NO BRASIL is a fan event held in Brazil for the South Korean boy band Stray Kids. The event was held in 2019 and featured a live performance by the group, as well as a meet-and-greet with fans. The phrase "no Brasil" translates to "in Brazil" in English. |
-| 4 | [AI BRANCO](http://twitter.com/search?q=AI+BRANCO) | N/A |
-| 5 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 6 | [Adele](http://twitter.com/search?q=Adele) | N/A |
-| 7 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 8 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 9 | [Augusto](http://twitter.com/search?q=Augusto) | N/A |
-| 10 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 11 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 12 | [Serasa](http://twitter.com/search?q=Serasa) | N/A |
-| 13 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 14 | [Saúde](http://twitter.com/search?q=Sa%c3%bade) | N/A |
-| 15 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 16 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
-| 17 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
-| 18 | [Bife](http://twitter.com/search?q=Bife) | Bife is a Portuguese word meaning steak. It is used to refer to a cut of beef that is usually grilled or fried. |
-| 19 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
-| 20 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 21 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 22 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 23 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
-| 24 | [No. Scrobbles](http://twitter.com/search?q=No.+Scrobbles) | N/A |
-| 25 | [Rede Globo](http://twitter.com/search?q=Rede+Globo) | N/A |
-| 26 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 27 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 28 | [#PEITOAWARDS](http://twitter.com/search?q=%23PEITOAWARDS) | N/A |
-| 29 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
-| 30 | [pardo](http://twitter.com/search?q=pardo) | N/A |
-| 31 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
-| 32 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 33 | [veigh](http://twitter.com/search?q=veigh) | N/A |
-| 34 | [Come to Brazil](http://twitter.com/search?q=Come+to+Brazil) | N/A |
-| 35 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
-| 36 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 37 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 38 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 39 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 40 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | N/A |
-| 41 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
-| 42 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
-| 43 | [Volta Redonda](http://twitter.com/search?q=Volta+Redonda) | Volta Redonda is a city in the state of Rio de Janeiro, Brazil. The name translates to "Round Turn" in English, referring to the circular shape of the city's main industrial complex. It is known for its steel production and other industries. |
-| 44 | [jade picon](http://twitter.com/search?q=jade+picon) | N/A |
-| 45 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 46 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 47 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 48 | [jasmine](http://twitter.com/search?q=jasmine) | N/A |
-| 49 | [Calegari](http://twitter.com/search?q=Calegari) | Calegari is an Italian surname derived from the Latin word caligarius, meaning "soldier in boots". It is most commonly found in northern Italy, particularly in the regions of Lombardy and Piedmont. In English, the name can be translated to mean "booted soldier". |
-| 50 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
+| 1 | [O Tadeu](http://twitter.com/search?q=O+Tadeu) | N/A |
+| 2 | [Fred boco](http://twitter.com/search?q=Fred+boco) | N/A |
+| 3 | [capote](http://twitter.com/search?q=capote) | Capote is a type of French hat that is typically made of felt and has a flat top and wide brim. It is often associated with the French beret, but it is slightly different in shape. The word "capote" comes from the French word for cape or cloak. In English, it can refer to the hat itself or to a style of clothing that includes the hat. |
+| 4 | [#FicaAngelo](http://twitter.com/search?q=%23FicaAngelo) | N/A |
+| 5 | [Chay](http://twitter.com/search?q=Chay) | N/A |
+| 6 | [STOP COMING TO BRAZIL](http://twitter.com/search?q=STOP+COMING+TO+BRAZIL) | N/A |
+| 7 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 8 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 9 | [All Star](http://twitter.com/search?q=All+Star) | "All Star" is a song by American rock band Smash Mouth, released in 1999. It is best known for its chorus, "Hey now, you're an all star, get your game on, go play". The phrase "all star" is used to describe someone who is exceptionally talented or successful in their field. |
+| 10 | [Maroon 5](http://twitter.com/search?q=Maroon+5) | Maroon 5 is an American pop rock band from Los Angeles, California. The group was formed in 1994 and consists of lead vocalist Adam Levine, keyboardist and rhythm guitarist Jesse Carmichael, bassist Mickey Madden, lead guitarist James Valentine, drummer Matt Flynn, keyboardist PJ Morton and multi-instrumentalist Sam Farrar. The band's name is derived from a maroon color; Adam Levine chose it because it sounded "cool". |
+| 11 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 12 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 13 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 14 | [shawn mendes](http://twitter.com/search?q=shawn+mendes) | Shawn Mendes is a Canadian singer and songwriter. He is best known for his hit singles "Stitches", "Treat You Better", and "In My Blood". He has released three studio albums, Handwritten (2015), Illuminate (2016), and Shawn Mendes (2018). His music has been described as pop, pop rock, and folk-pop. |
+| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 16 | [Bonner](http://twitter.com/search?q=Bonner) | Bonner is a surname of German origin. It is derived from the Middle High German word "boner" which means "one who lives in a hollow". In English, it can be translated to mean "dweller in a hollow". |
+| 17 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 18 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 19 | [Adele](http://twitter.com/search?q=Adele) | N/A |
+| 20 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 21 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 22 | [Augusto](http://twitter.com/search?q=Augusto) | N/A |
+| 23 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 24 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
+| 25 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 26 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
+| 27 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 28 | [Saúde](http://twitter.com/search?q=Sa%c3%bade) | N/A |
+| 29 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
+| 30 | [AI BRANCO](http://twitter.com/search?q=AI+BRANCO) | N/A |
+| 31 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
+| 32 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
+| 33 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 34 | [Bife](http://twitter.com/search?q=Bife) | Bife is a Portuguese word meaning steak. It is used to refer to a cut of beef that is usually grilled or fried. |
+| 35 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 36 | [Serasa](http://twitter.com/search?q=Serasa) | N/A |
+| 37 | [Rede Globo](http://twitter.com/search?q=Rede+Globo) | N/A |
+| 38 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 39 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
+| 40 | [Coldplay](http://twitter.com/search?q=Coldplay) | N/A |
+| 41 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 42 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 43 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 44 | [domi](http://twitter.com/search?q=domi) | N/A |
+| 45 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 46 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
+| 47 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 48 | [O VAR](http://twitter.com/search?q=O+VAR) | N/A |
+| 49 | [Encostou](http://twitter.com/search?q=Encostou) | N/A |
+| 50 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 
 
 

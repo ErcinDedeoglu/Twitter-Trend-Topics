@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-03 03:19:16 UTC`
+📆 Last Updated: `2023-02-03 04:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,20 +20,20 @@ This is top 50 for [Algeria](</Algeria>)
 | 3 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
 | 4 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
 | 5 | [#نجوي_كرم_ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%86%d8%ac%d9%88%d9%8a_%d9%83%d8%b1%d9%85_%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 6 | [المقر الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 7 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 8 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
-| 9 | [القوات البحريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
-| 10 | [القمه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 11 | [#اسبانيا](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 12 | [الشخص الخطا](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%ae%d8%b5+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7) | N/A |
-| 13 | [بن عبد الرحمان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a7%d9%86) | N/A |
-| 14 | [#لافروف](http://twitter.com/search?q=%23%d9%84%d8%a7%d9%81%d8%b1%d9%88%d9%81) | N/A |
-| 15 | [رييس الفيفا](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 6 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 7 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
+| 8 | [القمه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 9 | [#اسبانيا](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 10 | [المقر الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 11 | [الشخص الخطا](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%ae%d8%b5+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7) | N/A |
+| 12 | [بن عبد الرحمان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a7%d9%86) | N/A |
+| 13 | [#لافروف](http://twitter.com/search?q=%23%d9%84%d8%a7%d9%81%d8%b1%d9%88%d9%81) | N/A |
+| 14 | [رييس الفيفا](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 15 | [القوات البحريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
 | 16 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
 | 17 | [تمويل المنشات](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%b4%d8%a7%d8%aa) | N/A |
 | 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Patrick Bruel](http://twitter.com/search?q=Patrick+Bruel) | N/A |
+| 19 | [patrick bruel](http://twitter.com/search?q=patrick+bruel) | N/A |
 | 20 | [وزير الخارجيه الروسي](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a) | N/A |
 | 21 | [02 فيفري 2023](http://twitter.com/search?q=02+%d9%81%d9%8a%d9%81%d8%b1%d9%8a+2023) | N/A |
 | 22 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for [Algeria](</Algeria>)
 | 39 | [ربيع بن هادي المدخلي](http://twitter.com/search?q=%d8%b1%d8%a8%d9%8a%d8%b9+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%af%d8%ae%d9%84%d9%8a) | N/A |
 | 40 | [كره قدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d9%82%d8%af%d9%85) | N/A |
 | 41 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 42 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 42 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
 | 43 | [عيد ميلاد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d9%8a%d9%84%d8%a7%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
 | 44 | [الإمام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
 | 45 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |

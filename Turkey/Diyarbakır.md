@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-03 03:19:27 UTC`
+📆 Last Updated: `2023-02-03 04:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ADSvsFB](http://twitter.com/search?q=%23ADSvsFB) | #ADSvsFB is a hashtag used to refer to the rivalry between the Australian Football League (AFL) and the National Football League (NFL). It is used to compare and contrast the two leagues, as well as to discuss which one is better. |
-| 2 | [#AdanadaOperasyonVAR](http://twitter.com/search?q=%23AdanadaOperasyonVAR) | #AdanadaOperasyonVAR is a hashtag used to promote the Adana Operation, a Turkish military operation in Syria. The hashtag translates to "Adana Operation is Here" in English. |
-| 3 | [Ali Palabıyık](http://twitter.com/search?q=Ali+Palab%c4%b1y%c4%b1k) | Ali Palabıyık is a Turkish folktale about a young man named Ali who is tricked by a fox. The story tells of how Ali is tricked into giving away his possessions and how he eventually outwits the fox. In English, the phrase "Ali Palabıyık" translates to "Ali the Trickster". |
+| 1 | [#AdanadaOperasyonVAR](http://twitter.com/search?q=%23AdanadaOperasyonVAR) | #AdanadaOperasyonVAR is a hashtag used to promote the Adana Operation, a Turkish military operation in Syria. The hashtag translates to "Adana Operation is Here" in English. |
+| 2 | [#ADSvsFB](http://twitter.com/search?q=%23ADSvsFB) | #ADSvsFB is a hashtag used to refer to the rivalry between the Australian Football League (AFL) and the National Football League (NFL). It is used to compare and contrast the two leagues, as well as to discuss which one is better. |
+| 3 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
 | 4 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 5 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
+| 5 | [#ŞartınHesabınıSorarız](http://twitter.com/search?q=%23%c5%9eart%c4%b1nHesab%c4%b1n%c4%b1Sorar%c4%b1z) | #ŞartınHesabınıSorarız is a Turkish hashtag that translates to "We Ask for the Terms of the Deal". It is used to express the idea of demanding transparency and accountability in any agreement or transaction. |
 | 6 | [Alanya](http://twitter.com/search?q=Alanya) | Alanya is a city and resort on the southern coast of Turkey. It is located in the province of Antalya and is a popular tourist destination. The name Alanya comes from the Arabic word for "peninsula" or "island". In English, it can be translated to mean "Island of the Sun". |
-| 7 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 8 | [#AdanadaKapKaraGece](http://twitter.com/search?q=%23AdanadaKapKaraGece) | N/A |
-| 9 | [#yüzdeyüzmüzik](http://twitter.com/search?q=%23y%c3%bczdey%c3%bczm%c3%bczik) | N/A |
-| 10 | [Hakemlerde](http://twitter.com/search?q=Hakemlerde) | N/A |
-| 11 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 12 | [Ligden](http://twitter.com/search?q=Ligden) | Ligden is a Tibetan Buddhist term that refers to the process of liberation from the cycle of death and rebirth. It is the goal of many Buddhists to achieve this state, which is seen as a form of enlightenment. In English, it can be translated as "liberation from samsara". |
-| 13 | [Selahattin Baki](http://twitter.com/search?q=Selahattin+Baki) | Selahattin Baki is a Turkish male name. It is derived from the Arabic words selah (meaning “peace”) and attin (meaning “servant of”). The name can be translated to mean “servant of peace” in English. |
-| 14 | [Serdar Ali Çelikler](http://twitter.com/search?q=Serdar+Ali+%c3%87elikler) | N/A |
-| 15 | [Bir Galatasaraylı](http://twitter.com/search?q=Bir+Galatasarayl%c4%b1) | N/A |
+| 7 | [#MilyonlarınGözüKomisyonda](http://twitter.com/search?q=%23Milyonlar%c4%b1nG%c3%b6z%c3%bcKomisyonda) | #MilyonlarınGözüKomisyonda is a hashtag used in Turkey to refer to the Parliamentary Investigation Commission, which was established in 2018 to investigate the alleged misuse of public funds. The phrase translates to "The Eyes of Millions on the Commission" in English. |
+| 8 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
+| 9 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
+| 10 | [Belhanda](http://twitter.com/search?q=Belhanda) | Belhanda is a Moroccan surname. It is derived from the Arabic word “balhand”, which means “one who has strength”. In English, it can be translated to mean “strong one”. |
+| 11 | [Ligden](http://twitter.com/search?q=Ligden) | Ligden is a Tibetan Buddhist term that refers to the process of liberation from the cycle of death and rebirth. It is the goal of many Buddhists to achieve this state, which is seen as a form of enlightenment. In English, it can be translated as "liberation from samsara". |
+| 12 | [turkuvaz](http://twitter.com/search?q=turkuvaz) | N/A |
+| 13 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
+| 14 | [allah belanizi versin](http://twitter.com/search?q=allah+belanizi+versin) | N/A |
+| 15 | [türkiye yüzyılı zirvesi](http://twitter.com/search?q=t%c3%bcrkiye+y%c3%bczy%c4%b1l%c4%b1+zirvesi) | N/A |
 | 16 | [Takımı](http://twitter.com/search?q=Tak%c4%b1m%c4%b1) | Takımı is a Turkish word that means "team". It is used to refer to a group of people who work together to achieve a common goal. |
-| 17 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
-| 18 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
-| 19 | [Galatasarayı](http://twitter.com/search?q=Galatasaray%c4%b1) | N/A |
-| 20 | [Çekilin](http://twitter.com/search?q=%c3%87ekilin) | N/A |
+| 17 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 18 | [Selahattin Baki](http://twitter.com/search?q=Selahattin+Baki) | Selahattin Baki is a Turkish male name. It is derived from the Arabic words selah (meaning “peace”) and attin (meaning “servant of”). The name can be translated to mean “servant of peace” in English. |
+| 19 | [herkesi̇çin evrenselhukuk](http://twitter.com/search?q=herkesi%cc%87%c3%a7in+evrenselhukuk) | N/A |
+| 20 | [Ndiaye](http://twitter.com/search?q=Ndiaye) | Ndiaye is a surname of West African origin. It is derived from the Wolof language and means "the great one". |
 | 21 | [Çekin](http://twitter.com/search?q=%c3%87ekin) | N/A |
-| 22 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
-| 23 | [Fenerliler](http://twitter.com/search?q=Fenerliler) | N/A |
-| 24 | [İvan Bebek](http://twitter.com/search?q=%c4%b0van+Bebek) | N/A |
-| 25 | [Alper](http://twitter.com/search?q=Alper) | N/A |
-| 26 | [Ligi](http://twitter.com/search?q=Ligi) | N/A |
-| 27 | [Koray](http://twitter.com/search?q=Koray) | N/A |
-| 28 | [Erol](http://twitter.com/search?q=Erol) | N/A |
-| 29 | [Şike](http://twitter.com/search?q=%c5%9eike) | N/A |
-| 30 | [#StajınAdıYok](http://twitter.com/search?q=%23Staj%c4%b1nAd%c4%b1Yok) | N/A |
-| 31 | [#picemiyeti](http://twitter.com/search?q=%23picemiyeti) | N/A |
-| 32 | [#ErdenTimurSezonu](http://twitter.com/search?q=%23ErdenTimurSezonu) | N/A |
-| 33 | [#BayBayHepiniz](http://twitter.com/search?q=%23BayBayHepiniz) | N/A |
-| 34 | [#jorgejesus](http://twitter.com/search?q=%23jorgejesus) | N/A |
-| 35 | [#feneraglama](http://twitter.com/search?q=%23feneraglama) | N/A |
-| 36 | [#Dolunay](http://twitter.com/search?q=%23Dolunay) | N/A |
-| 37 | [#SartınHesabınıSorarız](http://twitter.com/search?q=%23Sart%c4%b1nHesab%c4%b1n%c4%b1Sorar%c4%b1z) | N/A |
-| 38 | [#AKPyeTakılanlar](http://twitter.com/search?q=%23AKPyeTak%c4%b1lanlar) | N/A |
+| 22 | [Rıdvan Dilmen](http://twitter.com/search?q=R%c4%b1dvan+Dilmen) | Rıdvan Dilmen is a Turkish sports journalist and television presenter. His name is derived from the Arabic phrase "Ridwan al-Dilmani", which means "the pleasure of the heart". |
+| 23 | [yağmurkaraçay sıçtı](http://twitter.com/search?q=ya%c4%9fmurkara%c3%a7ay+s%c4%b1%c3%a7t%c4%b1) | N/A |
+| 24 | [ismail saymaz](http://twitter.com/search?q=ismail+saymaz) | N/A |
+| 25 | [Batshuayi](http://twitter.com/search?q=Batshuayi) | Batshuayi is the surname of Belgian professional footballer Michy Batshuayi. It is not an English word and does not have a direct translation. |
+| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 27 | [Metin Uca](http://twitter.com/search?q=Metin+Uca) | N/A |
+| 28 | [Onyekuru](http://twitter.com/search?q=Onyekuru) | Onyekuru is a Nigerian name derived from the Igbo language. It means “God's work” or “God's creation” in English. |
+| 29 | [Bay bay Kemal](http://twitter.com/search?q=Bay+bay+Kemal) | N/A |
+| 30 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 31 | [YIPRATACAĞIMIZ ADAYINIZ KİM](http://twitter.com/search?q=YIPRATACA%c4%9eIMIZ+ADAYINIZ+K%c4%b0M) | N/A |
+| 32 | [koray gençerler](http://twitter.com/search?q=koray+gen%c3%a7erler) | N/A |
+| 33 | [ivan bebek](http://twitter.com/search?q=ivan+bebek) | N/A |
+| 34 | [Serdar Ali Çelikler](http://twitter.com/search?q=Serdar+Ali+%c3%87elikler) | N/A |
+| 35 | [elimsi](http://twitter.com/search?q=elimsi) | N/A |
+| 36 | [i̇smail demir](http://twitter.com/search?q=i%cc%87smail+demir) | N/A |
+| 37 | [Çekilin](http://twitter.com/search?q=%c3%87ekilin) | N/A |
+| 38 | [bu 11](http://twitter.com/search?q=bu+11) | N/A |
+| 39 | [Zühtü Arslan](http://twitter.com/search?q=Z%c3%bcht%c3%bc+Arslan) | Zühtü Arslan is a Turkish name that means "noble lion". It is derived from the Turkish words züht (noble) and arslan (lion). |
+| 40 | [Yalnızsın SedatPolat](http://twitter.com/search?q=Yaln%c4%b1zs%c4%b1n+SedatPolat) | Yalnızsın SedatPolat is a Turkish phrase that translates to "You are alone, SedatPolat." It is a phrase of encouragement and support, suggesting that the person being addressed should not feel alone or isolated. |
+| 41 | [Gökkubbe](http://twitter.com/search?q=G%c3%b6kkubbe) | Gökkubbe is a Swedish term for a traditional dessert made with meringue, whipped cream, and fruit. The literal translation of Gökkubbe is "sky dome," which refers to the dome-like shape of the dessert. |
+| 42 | [Ertaç](http://twitter.com/search?q=Erta%c3%a7) | Ertaç is a Turkish word meaning "eternity" or "forever". It is often used to express a deep and lasting love. |
+| 43 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 44 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 45 | [YAZIKLAR OLSUN](http://twitter.com/search?q=YAZIKLAR+OLSUN) | N/A |
+| 46 | [yalnızdeğilsin sedatpolat](http://twitter.com/search?q=yaln%c4%b1zde%c4%9filsin+sedatpolat) | N/A |
+| 47 | [taraksana girsinzeyd](http://twitter.com/search?q=taraksana+girsinzeyd) | N/A |
+| 48 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
+| 49 | [Barbaros Şansal](http://twitter.com/search?q=Barbaros+%c5%9eansal) | N/A |
 
 
 

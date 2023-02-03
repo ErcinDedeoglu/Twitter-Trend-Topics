@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-03 03:19:06 UTC`
+📆 Last Updated: `2023-02-03 04:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,15 +22,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 5 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
 | 6 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
 | 7 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 8 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
+| 8 | [apéro](http://twitter.com/search?q=ap%c3%a9ro) | N/A |
 | 9 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 10 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 11 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 12 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 10 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 11 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 12 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 13 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
 | 14 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 15 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
-| 16 | [Verständnis](http://twitter.com/search?q=Verst%c3%a4ndnis) | N/A |
+| 15 | [zürich](http://twitter.com/search?q=z%c3%bcrich) | N/A |
+| 16 | [verständnis](http://twitter.com/search?q=verst%c3%a4ndnis) | N/A |
 | 17 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
 | 18 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 19 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
@@ -52,17 +52,17 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 35 | [Freude](http://twitter.com/search?q=Freude) | N/A |
 | 36 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 37 | [Themen](http://twitter.com/search?q=Themen) | N/A |
-| 38 | [Logik](http://twitter.com/search?q=Logik) | N/A |
-| 39 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
-| 40 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 41 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
-| 42 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
-| 43 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 44 | [Osten](http://twitter.com/search?q=Osten) | N/A |
-| 45 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 46 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 47 | [Discord](http://twitter.com/search?q=Discord) | N/A |
-| 48 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 38 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
+| 39 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 40 | [Gefahr](http://twitter.com/search?q=Gefahr) | N/A |
+| 41 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
+| 42 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 43 | [Osten](http://twitter.com/search?q=Osten) | N/A |
+| 44 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
+| 45 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 46 | [Discord](http://twitter.com/search?q=Discord) | N/A |
+| 47 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 48 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
 
 
 

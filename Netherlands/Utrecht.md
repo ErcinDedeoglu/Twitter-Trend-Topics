@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-03 03:19:05 UTC`
+📆 Last Updated: `2023-02-03 04:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,39 +26,39 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 9 | [Eritreeërs](http://twitter.com/search?q=Eritree%c3%abrs) | N/A |
 | 10 | [Esther](http://twitter.com/search?q=Esther) | N/A |
 | 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 12 | [Moord](http://twitter.com/search?q=Moord) | N/A |
-| 13 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
-| 14 | [EU-geld](http://twitter.com/search?q=EU-geld) | N/A |
+| 12 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
+| 13 | [EU-geld](http://twitter.com/search?q=EU-geld) | N/A |
+| 14 | [Moord](http://twitter.com/search?q=Moord) | N/A |
 | 15 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
-| 16 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 17 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 18 | [Adrie](http://twitter.com/search?q=Adrie) | N/A |
-| 19 | [kwint](http://twitter.com/search?q=kwint) | N/A |
-| 20 | [grote ing-storing](http://twitter.com/search?q=grote+ing-storing) | N/A |
-| 21 | [donderdag](http://twitter.com/search?q=donderdag) | N/A |
-| 22 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
-| 23 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
-| 24 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 25 | [Wetenschap](http://twitter.com/search?q=Wetenschap) | N/A |
-| 26 | [shell-winst](http://twitter.com/search?q=shell-winst) | N/A |
-| 27 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
+| 16 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 17 | [adrie](http://twitter.com/search?q=adrie) | N/A |
+| 18 | [kwint](http://twitter.com/search?q=kwint) | N/A |
+| 19 | [grote ing-storing](http://twitter.com/search?q=grote+ing-storing) | N/A |
+| 20 | [donderdag](http://twitter.com/search?q=donderdag) | N/A |
+| 21 | [bosma](http://twitter.com/search?q=bosma) | N/A |
+| 22 | [buijs](http://twitter.com/search?q=buijs) | N/A |
+| 23 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 24 | [Wetenschap](http://twitter.com/search?q=Wetenschap) | N/A |
+| 25 | [shell-winst](http://twitter.com/search?q=shell-winst) | N/A |
+| 26 | [het cda](http://twitter.com/search?q=het+cda) | N/A |
+| 27 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 28 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 29 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
 | 30 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
 | 31 | [janke](http://twitter.com/search?q=janke) | N/A |
-| 32 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 33 | [malek f.](http://twitter.com/search?q=malek+f.) | N/A |
-| 34 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 32 | [malek f.](http://twitter.com/search?q=malek+f.) | N/A |
+| 33 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 34 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
 | 35 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 36 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 36 | [bergkamp](http://twitter.com/search?q=bergkamp) | N/A |
 | 37 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
 | 38 | [Luister](http://twitter.com/search?q=Luister) | N/A |
 | 39 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 40 | [bikker](http://twitter.com/search?q=bikker) | N/A |
-| 41 | [van der burg](http://twitter.com/search?q=van+der+burg) | N/A |
-| 42 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 40 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 41 | [bikker](http://twitter.com/search?q=bikker) | N/A |
+| 42 | [van der burg](http://twitter.com/search?q=van+der+burg) | N/A |
 | 43 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
-| 44 | [Interrail](http://twitter.com/search?q=Interrail) | N/A |
+| 44 | [interrail](http://twitter.com/search?q=interrail) | N/A |
 | 45 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
 | 46 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
 | 47 | [financiën](http://twitter.com/search?q=financi%c3%abn) | N/A |

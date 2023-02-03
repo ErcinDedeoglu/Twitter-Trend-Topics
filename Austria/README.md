@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-03 03:19:37 UTC`
+📆 Last Updated: `2023-02-03 04:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,18 +31,18 @@ This is top 50 for Austria
 | 14 | [SOS Mitmensch](http://twitter.com/search?q=SOS+Mitmensch) | N/A |
 | 15 | [Masken](http://twitter.com/search?q=Masken) | N/A |
 | 16 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 17 | [anstand](http://twitter.com/search?q=anstand) | N/A |
-| 18 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 19 | [Heuchler](http://twitter.com/search?q=Heuchler) | N/A |
-| 20 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
-| 21 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
-| 22 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
+| 17 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 18 | [Heuchler](http://twitter.com/search?q=Heuchler) | N/A |
+| 19 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
+| 20 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
+| 21 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
+| 22 | [#Starbirth](http://twitter.com/search?q=%23Starbirth) | N/A |
 | 23 | [#wildumstritten](http://twitter.com/search?q=%23wildumstritten) | N/A |
-| 24 | [Landesrat](http://twitter.com/search?q=Landesrat) | N/A |
+| 24 | [landesrat](http://twitter.com/search?q=landesrat) | N/A |
 | 25 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
-| 26 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 27 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
-| 28 | [#Starbirth](http://twitter.com/search?q=%23Starbirth) | N/A |
+| 26 | [rassisten](http://twitter.com/search?q=rassisten) | N/A |
+| 27 | [Schülerinnen](http://twitter.com/search?q=Sch%c3%bclerinnen) | N/A |
+| 28 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
 | 29 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
 | 30 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
 | 31 | [#steiermark](http://twitter.com/search?q=%23steiermark) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Austria
 | 44 | [strecke](http://twitter.com/search?q=strecke) | N/A |
 | 45 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 46 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
-| 47 | [Schulklasse](http://twitter.com/search?q=Schulklasse) | N/A |
+| 47 | [schulklasse](http://twitter.com/search?q=schulklasse) | N/A |
 | 48 | [bundesheer](http://twitter.com/search?q=bundesheer) | N/A |
 | 49 | [Profil](http://twitter.com/search?q=Profil) | N/A |
-| 50 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 50 | [Faschisten](http://twitter.com/search?q=Faschisten) | N/A |
 
 
 

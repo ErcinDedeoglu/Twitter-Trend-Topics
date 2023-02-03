@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-03 03:19:40 UTC`
+📆 Last Updated: `2023-02-03 04:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#صار_الوقت](http://twitter.com/search?q=%23%d8%b5%d8%a7%d8%b1_%d8%a7%d9%84%d9%88%d9%82%d8%aa) | N/A |
-| 2 | [#عشره_الفجر](http://twitter.com/search?q=%23%d8%b9%d8%b4%d8%b1%d9%87_%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
-| 3 | [#احمر_بالخط_العريض](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%b1_%d8%a8%d8%a7%d9%84%d8%ae%d8%b7_%d8%a7%d9%84%d8%b9%d8%b1%d9%8a%d8%b6) | N/A |
-| 4 | [#حلو_ده](http://twitter.com/search?q=%23%d8%ad%d9%84%d9%88_%d8%af%d9%87) | N/A |
-| 5 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 1 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 2 | [#صار_الوقت](http://twitter.com/search?q=%23%d8%b5%d8%a7%d8%b1_%d8%a7%d9%84%d9%88%d9%82%d8%aa) | N/A |
+| 3 | [#عشره_الفجر](http://twitter.com/search?q=%23%d8%b9%d8%b4%d8%b1%d9%87_%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
+| 4 | [#احمر_بالخط_العريض](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%b1_%d8%a8%d8%a7%d9%84%d8%ae%d8%b7_%d8%a7%d9%84%d8%b9%d8%b1%d9%8a%d8%b6) | N/A |
+| 5 | [#حلو_ده](http://twitter.com/search?q=%23%d8%ad%d9%84%d9%88_%d8%af%d9%87) | N/A |
 | 6 | [الطوايف المسيحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%87) | N/A |
 | 7 | [عبد السلام](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
 | 8 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 | 9 | [اكرم بركات](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
-| 10 | [محمد رعد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d8%b9%d8%af) | N/A |
+| 10 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 11 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
 | 12 | [المدارس الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
 | 13 | [بيار دوكان](http://twitter.com/search?q=%d8%a8%d9%8a%d8%a7%d8%b1+%d8%af%d9%88%d9%83%d8%a7%d9%86) | N/A |

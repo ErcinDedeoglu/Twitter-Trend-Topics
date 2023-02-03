@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-02-03 03:19:41 UTC`
+📆 Last Updated: `2023-02-03 04:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Oman
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 2 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 1 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 2 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
 | 3 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 4 | [#نطالب_حذف_الايلتس](http://twitter.com/search?q=%23%d9%86%d8%b7%d8%a7%d9%84%d8%a8_%d8%ad%d8%b0%d9%81_%d8%a7%d9%84%d8%a7%d9%8a%d9%84%d8%aa%d8%b3) | N/A |
 | 5 | [#البزنس58](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b358) | N/A |
@@ -27,8 +27,8 @@ This is top 50 for Oman
 | 10 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 11 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 12 | [التوحد التابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ad%d8%af+%d8%a7%d9%84%d8%aa%d8%a7%d8%a8%d8%b9) | N/A |
-| 13 | [اختبار الايلتس](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d9%8a%d9%84%d8%aa%d8%b3) | N/A |
-| 14 | [طلال مداح](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d9%85%d8%af%d8%a7%d8%ad) | طلال مداح is an Arabic phrase that translates to "praise the generous one". It is often used as a way to express gratitude and appreciation for someone's generosity. |
+| 13 | [طلال مداح](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d9%85%d8%af%d8%a7%d8%ad) | طلال مداح is an Arabic phrase that translates to "praise the generous one". It is often used as a way to express gratitude and appreciation for someone's generosity. |
+| 14 | [اختبار الايلتس](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d9%8a%d9%84%d8%aa%d8%b3) | N/A |
 | 15 | [علي راس العمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
 | 16 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 17 | [السلطان المعظم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b9%d8%b8%d9%85) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for Oman
 | 23 | [السيده الجليله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84%d9%87) | N/A |
 | 24 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
 | 25 | [رييس مجلس](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3) | N/A |
-| 26 | [سعيد المقيمي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%82%d9%8a%d9%85%d9%8a) | N/A |
-| 27 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 28 | [منار الجهوريه](http://twitter.com/search?q=%d9%85%d9%86%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 29 | [علي المنصه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%87) | N/A |
-| 30 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
-| 31 | [صوت الارض](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | صوت الارض (or "Sound of the Earth") is a term used to describe the natural sounds of the environment, such as birdsong, wind rustling through trees, and running water. In English, it can be translated as "the sound of nature". |
-| 32 | [البرنامج التدريبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8%d9%8a) | N/A |
-| 33 | [ايفون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d9%88%d9%86) | N/A |
-| 34 | [المنطقه الاقتصاديه المتكامله](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
-| 35 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
-| 36 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 37 | [التحديات التمويليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84%d9%8a%d9%87) | N/A |
-| 38 | [سالم العريمي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d9%8a%d9%85%d9%8a) | N/A |
-| 39 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 26 | [منار الجهوريه](http://twitter.com/search?q=%d9%85%d9%86%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 27 | [سعيد المقيمي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%82%d9%8a%d9%85%d9%8a) | N/A |
+| 28 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 29 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 30 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
+| 31 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
+| 32 | [صوت الارض](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | صوت الارض (or "Sound of the Earth") is a term used to describe the natural sounds of the environment, such as birdsong, wind rustling through trees, and running water. In English, it can be translated as "the sound of nature". |
+| 33 | [البرنامج التدريبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac+%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8%d9%8a) | N/A |
+| 34 | [ايفون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d9%88%d9%86) | N/A |
+| 35 | [المنطقه الاقتصاديه المتكامله](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
+| 36 | [سالم العريمي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d9%8a%d9%85%d9%8a) | N/A |
+| 37 | [علي المنصه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%87) | N/A |
+| 38 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 39 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 40 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
 | 41 | [خليل](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 42 | [الالعاب الكهرباييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 43 | [الرييس التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
-| 44 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 45 | [منتزه المنيال](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%b2%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%8a%d8%a7%d9%84) | N/A |
-| 46 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 42 | [الرييس التنفيذي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a) | N/A |
+| 43 | [منتزه المنيال](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%b2%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%8a%d8%a7%d9%84) | N/A |
+| 44 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 45 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 46 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
 | 47 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 48 | [وادي بني خالد](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a8%d9%86%d9%8a+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
 | 49 | [السحب المنخفضه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%ad%d8%a8+%d8%a7%d9%84%d9%85%d9%86%d8%ae%d9%81%d8%b6%d9%87) | N/A |
-| 50 | [الموسم القادم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85) | N/A |
+| 50 | [التحديات التمويليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%84%d9%8a%d9%87) | N/A |
 
 
 

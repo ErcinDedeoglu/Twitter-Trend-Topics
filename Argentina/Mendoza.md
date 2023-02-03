@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-03 03:18:54 UTC`
+📆 Last Updated: `2023-02-03 04:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 2 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 3 | [#GranHermano2023](http://twitter.com/search?q=%23GranHermano2023) | #GranHermano2023 is a hashtag used on social media to refer to the 20th season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2023". |
-| 4 | [#GranHermanoAR](http://twitter.com/search?q=%23GranHermanoAR) | N/A |
-| 5 | [ARIEL AL 9009](http://twitter.com/search?q=ARIEL+AL+9009) | ARIEL AL 9009 is a type of aluminum alloy. It is an aluminum-lithium alloy that is used in aerospace applications due to its high strength-to-weight ratio and excellent corrosion resistance. In English, it means "Ariel Aluminum Alloy 9009". |
-| 6 | [Big Ari](http://twitter.com/search?q=Big+Ari) | Big Ari is a nickname for the American rapper and singer Ariana Grande. It is a play on her name, with "big" referring to her fame and success. |
-| 7 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
-| 8 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
+| 2 | [#GranHermano2023](http://twitter.com/search?q=%23GranHermano2023) | #GranHermano2023 is a hashtag used on social media to refer to the 20th season of the Spanish reality TV show Gran Hermano. In English, it translates to "Big Brother 2023". |
+| 3 | [#GranHermanoAR](http://twitter.com/search?q=%23GranHermanoAR) | N/A |
+| 4 | [ARIEL AL 9009](http://twitter.com/search?q=ARIEL+AL+9009) | ARIEL AL 9009 is a type of aluminum alloy. It is an aluminum-lithium alloy that is used in aerospace applications due to its high strength-to-weight ratio and excellent corrosion resistance. In English, it means "Ariel Aluminum Alloy 9009". |
+| 5 | [Big Ari](http://twitter.com/search?q=Big+Ari) | Big Ari is a nickname for the American rapper and singer Ariana Grande. It is a play on her name, with "big" referring to her fame and success. |
+| 6 | [Luciano Pereyra](http://twitter.com/search?q=Luciano+Pereyra) | N/A |
+| 7 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
+| 8 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
 | 9 | [Sol Perez](http://twitter.com/search?q=Sol+Perez) | Sol Perez is a nickname given to an Argentinian weather presenter and model. It translates to "Sun Perez" in English. |
-| 10 | [#SupremosEnElBanquillo](http://twitter.com/search?q=%23SupremosEnElBanquillo) | N/A |
-| 11 | [WALTER AL 9009](http://twitter.com/search?q=WALTER+AL+9009) | N/A |
-| 12 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 10 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 11 | [Inesperado](http://twitter.com/search?q=Inesperado) | N/A |
+| 12 | [#SupremosEnElBanquillo](http://twitter.com/search?q=%23SupremosEnElBanquillo) | N/A |
 | 13 | [Rogel](http://twitter.com/search?q=Rogel) | N/A |
-| 14 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
-| 15 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
-| 16 | [Chocotorta](http://twitter.com/search?q=Chocotorta) | N/A |
-| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 18 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 19 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
-| 20 | [All Star](http://twitter.com/search?q=All+Star) | "All Star" is a song by American rock band Smash Mouth, released in 1999. It is best known for its chorus, "Hey now, you're an all star, get your game on, go play". The phrase "all star" is used to describe someone who is exceptionally talented or successful in their field. |
-| 21 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 22 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
-| 23 | [Popoggio](http://twitter.com/search?q=Popoggio) | N/A |
-| 24 | [Juan Martino](http://twitter.com/search?q=Juan+Martino) | N/A |
-| 25 | [Si a Messi](http://twitter.com/search?q=Si+a+Messi) | N/A |
-| 26 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 27 | [Juan Bisanz](http://twitter.com/search?q=Juan+Bisanz) | N/A |
-| 28 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 29 | [Alfita](http://twitter.com/search?q=Alfita) | N/A |
-| 30 | [Laucha](http://twitter.com/search?q=Laucha) | N/A |
-| 31 | [Pillud](http://twitter.com/search?q=Pillud) | Pillud is a Spanish slang term that means "stupid" or "idiot." |
-| 32 | [Árbol](http://twitter.com/search?q=%c3%81rbol) | N/A |
-| 33 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 14 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 15 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
+| 16 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
+| 17 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
+| 18 | [Chocotorta](http://twitter.com/search?q=Chocotorta) | N/A |
+| 19 | [Walter](http://twitter.com/search?q=Walter) | N/A |
+| 20 | [Popoggio](http://twitter.com/search?q=Popoggio) | N/A |
+| 21 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
+| 22 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 23 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 24 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
+| 25 | [Laucha](http://twitter.com/search?q=Laucha) | N/A |
+| 26 | [Juan Martino](http://twitter.com/search?q=Juan+Martino) | N/A |
+| 27 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 28 | [All Star](http://twitter.com/search?q=All+Star) | "All Star" is a song by American rock band Smash Mouth, released in 1999. It is best known for its chorus, "Hey now, you're an all star, get your game on, go play". The phrase "all star" is used to describe someone who is exceptionally talented or successful in their field. |
+| 29 | [Si a Messi](http://twitter.com/search?q=Si+a+Messi) | N/A |
+| 30 | [Alfita](http://twitter.com/search?q=Alfita) | N/A |
+| 31 | [Chau Ariel](http://twitter.com/search?q=Chau+Ariel) | N/A |
+| 32 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 33 | [Árbol](http://twitter.com/search?q=%c3%81rbol) | N/A |
 | 34 | [Garay](http://twitter.com/search?q=Garay) | N/A |
-| 35 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
-| 36 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
-| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 38 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 39 | [Chau Ariel](http://twitter.com/search?q=Chau+Ariel) | N/A |
-| 40 | [Fernando Iglesias](http://twitter.com/search?q=Fernando+Iglesias) | N/A |
+| 35 | [Laura Ubfal](http://twitter.com/search?q=Laura+Ubfal) | N/A |
+| 36 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
+| 37 | [Fernando Iglesias](http://twitter.com/search?q=Fernando+Iglesias) | N/A |
+| 38 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 40 | [Salamanca](http://twitter.com/search?q=Salamanca) | N/A |
 | 41 | [Cecilia Grierson](http://twitter.com/search?q=Cecilia+Grierson) | N/A |
-| 42 | [Lovera](http://twitter.com/search?q=Lovera) | N/A |
-| 43 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 44 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 45 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 46 | [Sarlo](http://twitter.com/search?q=Sarlo) | N/A |
-| 47 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 48 | [Salamanca](http://twitter.com/search?q=Salamanca) | N/A |
-| 49 | [Rosario Central](http://twitter.com/search?q=Rosario+Central) | N/A |
-| 50 | [Marcos al 9009](http://twitter.com/search?q=Marcos+al+9009) | N/A |
+| 42 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 43 | [Pillud](http://twitter.com/search?q=Pillud) | Pillud is a Spanish slang term that means "stupid" or "idiot." |
+| 44 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 45 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 46 | [Marcos al 9009](http://twitter.com/search?q=Marcos+al+9009) | N/A |
+| 47 | [Sarlo](http://twitter.com/search?q=Sarlo) | N/A |
+| 48 | [#BilleteDe2000](http://twitter.com/search?q=%23BilleteDe2000) | N/A |
+| 49 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
+| 50 | [#IndyCar](http://twitter.com/search?q=%23IndyCar) | N/A |
 
 
 
