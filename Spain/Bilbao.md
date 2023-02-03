@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-03 07:16:24 UTC`
+📆 Last Updated: `2023-02-03 08:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Spain](</Spain>)
 | 8 | [Famous](http://twitter.com/search?q=Famous) | Famous is an adjective that means widely known or celebrated. It is used to describe people, places, or things that are well-known and have achieved a certain level of notoriety. |
 | 9 | [#COAC2023P13](http://twitter.com/search?q=%23COAC2023P13) | #COAC2023P13 is a hashtag used to refer to the 2023 Pan American Games, which will be held in Santiago, Chile. The acronym COAC stands for Comité Olímpico Argentino (Argentine Olympic Committee). |
 | 10 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
-| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 11 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
 | 12 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 13 | [Rakky](http://twitter.com/search?q=Rakky) | N/A |
-| 14 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 15 | [E'Femme](http://twitter.com/search?q=E%27Femme) | E'Femme is a French phrase meaning "she is a woman." It is often used to express admiration or respect for a woman's strength, beauty, and independence. |
-| 16 | [#LaJungla15](http://twitter.com/search?q=%23LaJungla15) | N/A |
-| 17 | [Siderland](http://twitter.com/search?q=Siderland) | Siderland is a term used in German to refer to the area of land between two rivers. It literally translates to "between rivers" in English. |
-| 18 | [Agoney](http://twitter.com/search?q=Agoney) | Agoney is a Spanish slang term used to describe someone who is very unlucky or having a streak of bad luck. It can also be used to describe someone who is clumsy or awkward. In English, it could be translated as "unlucky" or "clumsy". |
-| 19 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
-| 20 | [foulquier](http://twitter.com/search?q=foulquier) | N/A |
-| 21 | [Nochentera](http://twitter.com/search?q=Nochentera) | N/A |
-| 22 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 23 | [CaixaBank](http://twitter.com/search?q=CaixaBank) | N/A |
-| 24 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
-| 25 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
-| 26 | [Alberola Rojas](http://twitter.com/search?q=Alberola+Rojas) | Alberola Rojas is a Spanish surname. It is derived from the words "albero" (alder tree) and "roja" (red). In English, it can be translated to mean "Red Alder". |
+| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [Rakky Ripper](http://twitter.com/search?q=Rakky+Ripper) | Rakky Ripper is a Japanese term used to describe someone who is very good at making quick decisions and taking decisive action. It literally translates to "quickly ripping off the lid," referring to the idea of quickly and decisively opening up a situation. |
+| 15 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
+| 16 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
+| 17 | [E'Femme](http://twitter.com/search?q=E%27Femme) | E'Femme is a French phrase meaning "she is a woman." It is often used to express admiration or respect for a woman's strength, beauty, and independence. |
+| 18 | [CaixaBank](http://twitter.com/search?q=CaixaBank) | N/A |
+| 19 | [Siderland](http://twitter.com/search?q=Siderland) | Siderland is a term used in German to refer to the area of land between two rivers. It literally translates to "between rivers" in English. |
+| 20 | [Agoney](http://twitter.com/search?q=Agoney) | Agoney is a Spanish slang term used to describe someone who is very unlucky or having a streak of bad luck. It can also be used to describe someone who is clumsy or awkward. In English, it could be translated as "unlucky" or "clumsy". |
+| 21 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
+| 22 | [foulquier](http://twitter.com/search?q=foulquier) | N/A |
+| 23 | [Nochentera](http://twitter.com/search?q=Nochentera) | N/A |
+| 24 | [Alberola Rojas](http://twitter.com/search?q=Alberola+Rojas) | Alberola Rojas is a Spanish surname. It is derived from the words "albero" (alder tree) and "roja" (red). In English, it can be translated to mean "Red Alder". |
+| 25 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 26 | [Mohamed VI](http://twitter.com/search?q=Mohamed+VI) | N/A |
 | 27 | [Castillejo](http://twitter.com/search?q=Castillejo) | Castillejo is a Spanish surname derived from the place name Castillejo, which is a small village in the province of Burgos, Spain. In English, it can be translated to mean "little castle". |
-| 28 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 29 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
-| 30 | [Ausencio](http://twitter.com/search?q=Ausencio) | N/A |
-| 31 | [La Lola](http://twitter.com/search?q=La+Lola) | N/A |
-| 32 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 34 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 35 | [Luisa Fernanda](http://twitter.com/search?q=Luisa+Fernanda) | N/A |
-| 36 | [musah](http://twitter.com/search?q=musah) | N/A |
-| 37 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 38 | [miguel poveda](http://twitter.com/search?q=miguel+poveda) | N/A |
-| 39 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 42 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 43 | [álvaro soler](http://twitter.com/search?q=%c3%a1lvaro+soler) | N/A |
-| 44 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 45 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 46 | [Cascana](http://twitter.com/search?q=Cascana) | N/A |
-| 47 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
-| 48 | [Raillo](http://twitter.com/search?q=Raillo) | N/A |
-| 49 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 50 | [ines](http://twitter.com/search?q=ines) | N/A |
+| 28 | [El Bernabéu](http://twitter.com/search?q=El+Bernab%c3%a9u) | N/A |
+| 29 | [Es Juan](http://twitter.com/search?q=Es+Juan) | N/A |
+| 30 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
+| 31 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 32 | [El Pentágono](http://twitter.com/search?q=El+Pent%c3%a1gono) | N/A |
+| 33 | [la lola](http://twitter.com/search?q=la+lola) | N/A |
+| 34 | [Gloria Trevi](http://twitter.com/search?q=Gloria+Trevi) | N/A |
+| 35 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 36 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 37 | [Maica](http://twitter.com/search?q=Maica) | N/A |
+| 38 | [Musah](http://twitter.com/search?q=Musah) | Musah is a term used in the West African language of Hausa, and it means "friend" or "companion". |
+| 39 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 40 | [Miguel Poveda](http://twitter.com/search?q=Miguel+Poveda) | N/A |
+| 41 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [El BCE](http://twitter.com/search?q=El+BCE) | N/A |
+| 44 | [Ausencio](http://twitter.com/search?q=Ausencio) | N/A |
+| 45 | [álvaro soler](http://twitter.com/search?q=%c3%a1lvaro+soler) | N/A |
+| 46 | [Luisa Fernanda](http://twitter.com/search?q=Luisa+Fernanda) | N/A |
+| 47 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 48 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 49 | [Raillo](http://twitter.com/search?q=Raillo) | N/A |
+| 50 | [Cascana](http://twitter.com/search?q=Cascana) | N/A |
 
 
 

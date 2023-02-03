@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-03 07:17:08 UTC`
+📆 Last Updated: `2023-02-03 08:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Thailand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ยืนงงในดงฟ้ามาตั้งนาน](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b7%e0%b8%99%e0%b8%87%e0%b8%87%e0%b9%83%e0%b8%99%e0%b8%94%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%99) | "#ยืนงงในดงฟ้ามาตั้งนาน" is a Thai phrase that translates to "Standing in the blue sky for a long time". It is used to express a feeling of determination and perseverance. |
+| 1 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | N/A |
 | 2 | [#2ndWorldTour_MANIACTH](http://twitter.com/search?q=%232ndWorldTour_MANIACTH) | N/A |
-| 3 | [#TalkwithMeen8](http://twitter.com/search?q=%23TalkwithMeen8) | #TalkwithMeen8 is a hashtag used by the Indian YouTuber Meenakshi Agarwal to promote her YouTube channel. It encourages people to engage with her content and connect with her on social media. The hashtag translates to "talk with Meenakshi 8" in English. |
-| 4 | [#4ขวบลูกบอลของคุณบิ๊กกลัฟ](http://twitter.com/search?q=%234%e0%b8%82%e0%b8%a7%e0%b8%9a%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | #4ขวบลูกบอลของคุณบิ๊กกลั้ translates to "Your Big Gulp's fourth soccer ball". It is a phrase used to describe a situation where someone has achieved something after several attempts. |
-| 5 | [#SnackerTHXNamneungMilin](http://twitter.com/search?q=%23SnackerTHXNamneungMilin) | N/A |
-| 6 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | 4th BIRTHDAY PHIBALLS is a type of party game that is popular in Japan. It involves throwing small balls at a target and trying to hit it. The game is usually played on the fourth birthday of a child, hence the name. The English translation of 4th BIRTHDAY PHIBALLS would be "Fourth Birthday Ball Toss". |
-| 7 | [BAMBAM GM 03FEBRUARY](http://twitter.com/search?q=BAMBAM+GM+03FEBRUARY) | N/A |
-| 8 | [Nene Diary De La Lune](http://twitter.com/search?q=Nene+Diary+De+La+Lune) | Nene Diary De La Lune is a Japanese manga series written and illustrated by Aya Shouoto. The title translates to "Nene's Diary of the Moon" and follows the story of Nene, a young girl who discovers a magical diary that allows her to travel to the moon. On the moon, she meets a variety of characters and learns about the secrets of the universe. |
-| 9 | [First Sweet by Snacker](http://twitter.com/search?q=First+Sweet+by+Snacker) | N/A |
+| 3 | [#FinalMissGrandMKM2023](http://twitter.com/search?q=%23FinalMissGrandMKM2023) | N/A |
+| 4 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
+| 5 | [#โอเอ็มจีลาษวรรณสนั่นจอ](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ad%e0%b9%80%e0%b8%ad%e0%b9%87%e0%b8%a1%e0%b8%88%e0%b8%b5%e0%b8%a5%e0%b8%b2%e0%b8%a9%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad) | N/A |
+| 6 | [#ยืนงงในดงฟ้ามาตั้งนาน](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b7%e0%b8%99%e0%b8%87%e0%b8%87%e0%b9%83%e0%b8%99%e0%b8%94%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%99%e0%b8%b2%e0%b8%99) | "#ยืนงงในดงฟ้ามาตั้งนาน" is a Thai phrase that translates to "Standing in the blue sky for a long time". It is used to express a feeling of determination and perseverance. |
+| 7 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | 4th BIRTHDAY PHIBALLS is a type of party game that is popular in Japan. It involves throwing small balls at a target and trying to hit it. The game is usually played on the fourth birthday of a child, hence the name. The English translation of 4th BIRTHDAY PHIBALLS would be "Fourth Birthday Ball Toss". |
+| 8 | [BAMBAM GM 03FEBRUARY](http://twitter.com/search?q=BAMBAM+GM+03FEBRUARY) | N/A |
+| 9 | [Nene Diary De La Lune](http://twitter.com/search?q=Nene+Diary+De+La+Lune) | Nene Diary De La Lune is a Japanese manga series written and illustrated by Aya Shouoto. The title translates to "Nene's Diary of the Moon" and follows the story of Nene, a young girl who discovers a magical diary that allows her to travel to the moon. On the moon, she meets a variety of characters and learns about the secrets of the universe. |
 | 10 | [SPECIAL DAY03 OF ENGFA](http://twitter.com/search?q=SPECIAL+DAY03+OF+ENGFA) | N/A |
 | 11 | [CHARLOTTE BE MY LOVE03](http://twitter.com/search?q=CHARLOTTE+BE+MY+LOVE03) | N/A |
-| 12 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
-| 13 | [Nuch Love Peck](http://twitter.com/search?q=Nuch+Love+Peck) | N/A |
-| 14 | [Verified](http://twitter.com/search?q=Verified) | N/A |
-| 15 | [GET WELL SOON ENGFA](http://twitter.com/search?q=GET+WELL+SOON+ENGFA) | N/A |
-| 16 | [engfa waraha on ny billboard](http://twitter.com/search?q=engfa+waraha+on+ny+billboard) | N/A |
-| 17 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 18 | [LALISA THE KPOP HEROINE](http://twitter.com/search?q=LALISA+THE+KPOP+HEROINE) | N/A |
-| 19 | [DL FINAL EP](http://twitter.com/search?q=DL+FINAL+EP) | N/A |
-| 20 | [MORNING 03 NNINE](http://twitter.com/search?q=MORNING+03+NNINE) | N/A |
-| 21 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
-| 22 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 23 | [LOVE03 NESA MAHMOODI](http://twitter.com/search?q=LOVE03+NESA+MAHMOODI) | N/A |
-| 24 | [All New Hope](http://twitter.com/search?q=All+New+Hope) | All New Hope is a phrase that is used to express optimism and a belief that something better is possible. It can be used to refer to a new beginning, a fresh start, or the possibility of achieving something great. |
-| 25 | [KEM MOOKDA](http://twitter.com/search?q=KEM+MOOKDA) | N/A |
-| 26 | [Yin Anan](http://twitter.com/search?q=Yin+Anan) | N/A |
-| 27 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
-| 28 | [D.DOPA](http://twitter.com/search?q=D.DOPA) | N/A |
-| 29 | [YouTube Premium](http://twitter.com/search?q=YouTube+Premium) | N/A |
-| 30 | [#หมอกินคนไข้](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b8%84%e0%b8%99%e0%b9%84%e0%b8%82%e0%b9%89) | N/A |
+| 12 | [Nuch Love Peck](http://twitter.com/search?q=Nuch+Love+Peck) | N/A |
+| 13 | [GET WELL SOON ENGFA](http://twitter.com/search?q=GET+WELL+SOON+ENGFA) | N/A |
+| 14 | [NCT HOME](http://twitter.com/search?q=NCT+HOME) | N/A |
+| 15 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 16 | [morning 03 nnine](http://twitter.com/search?q=morning+03+nnine) | N/A |
+| 17 | [S23 Ultra](http://twitter.com/search?q=S23+Ultra) | N/A |
+| 18 | [dl final ep](http://twitter.com/search?q=dl+final+ep) | N/A |
+| 19 | [LALISA THE KPOP HEROINE](http://twitter.com/search?q=LALISA+THE+KPOP+HEROINE) | N/A |
+| 20 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 21 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 22 | [LOVE03 NESA MAHMOODI](http://twitter.com/search?q=LOVE03+NESA+MAHMOODI) | N/A |
+| 23 | [Nanon One](http://twitter.com/search?q=Nanon+One) | N/A |
+| 24 | [VVIP](http://twitter.com/search?q=VVIP) | N/A |
+| 25 | [Yin Anan](http://twitter.com/search?q=Yin+Anan) | N/A |
+| 26 | [#POPLivexMySchoolPresident](http://twitter.com/search?q=%23POPLivexMySchoolPresident) | N/A |
+| 27 | [#4ขวบลูกบอลของคุณบิ๊กกลัฟ](http://twitter.com/search?q=%234%e0%b8%82%e0%b8%a7%e0%b8%9a%e0%b8%a5%e0%b8%b9%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f) | #4ขวบลูกบอลของคุณบิ๊กกลั้ translates to "Your Big Gulp's fourth soccer ball". It is a phrase used to describe a situation where someone has achieved something after several attempts. |
+| 28 | [#TalkwithMeen8](http://twitter.com/search?q=%23TalkwithMeen8) | #TalkwithMeen8 is a hashtag used by the Indian YouTuber Meenakshi Agarwal to promote her YouTube channel. It encourages people to engage with her content and connect with her on social media. The hashtag translates to "talk with Meenakshi 8" in English. |
+| 29 | [#หมอกินคนไข้](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%81%e0%b8%b4%e0%b8%99%e0%b8%84%e0%b8%99%e0%b9%84%e0%b8%82%e0%b9%89) | N/A |
+| 30 | [#Lazada22xZeeNunew](http://twitter.com/search?q=%23Lazada22xZeeNunew) | #Lazada22xZeeNunew is a hashtag used to promote a collaboration between Lazada, an online shopping platform, and ZeeNu, a fashion brand. The hashtag is used to promote the collaboration and its associated products. In English, it means "Lazada and ZeeNu Collaboration". |
 | 31 | [#วันบันเทิงXเจมีไนน์โฟร์ท](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87X%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%b5%e0%b9%84%e0%b8%99%e0%b8%99%e0%b9%8c%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97) | N/A |
-| 32 | [#Lazada22XZeeNunew](http://twitter.com/search?q=%23Lazada22XZeeNunew) | N/A |
-| 33 | [#POPLivexMySchoolPresident](http://twitter.com/search?q=%23POPLivexMySchoolPresident) | N/A |
-| 34 | [#LISAXBVLGARI](http://twitter.com/search?q=%23LISAXBVLGARI) | N/A |
-| 35 | [#TwoWorldsจ๋าภูผามาแล้ว](http://twitter.com/search?q=%23TwoWorlds%e0%b8%88%e0%b9%8b%e0%b8%b2%e0%b8%a0%e0%b8%b9%e0%b8%9c%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
-| 36 | [#ลาโรชสแกนสิวXหยิ่น](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b2%e0%b9%82%e0%b8%a3%e0%b8%8a%e0%b8%aa%e0%b9%81%e0%b8%81%e0%b8%99%e0%b8%aa%e0%b8%b4%e0%b8%a7X%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%99) | N/A |
-| 37 | [#แบนlivenation](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99livenation) | N/A |
-| 38 | [#MarkSorntastFanMeet](http://twitter.com/search?q=%23MarkSorntastFanMeet) | N/A |
-| 39 | [#ฝุ่นPM25](http://twitter.com/search?q=%23%e0%b8%9d%e0%b8%b8%e0%b9%88%e0%b8%99PM25) | N/A |
-| 40 | [#TarBomxFANDOMLIVE](http://twitter.com/search?q=%23TarBomxFANDOMLIVE) | N/A |
-| 41 | [#อั่งอั๊งของหนูน่ารักที่สุดเลย](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%ad%e0%b8%b1%e0%b9%8a%e0%b8%87%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2) | N/A |
-| 42 | [#oneสนั่นจอ2023](http://twitter.com/search?q=%23one%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%88%e0%b8%ad2023) | N/A |
-| 43 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 44 | [#มอนิ่งนะดุงจัง](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%ad%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b8%99%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%87%e0%b8%88%e0%b8%b1%e0%b8%87) | N/A |
-| 45 | [#Shopee22คืนคอยน์คุ้ม](http://twitter.com/search?q=%23Shopee22%e0%b8%84%e0%b8%b7%e0%b8%99%e0%b8%84%e0%b8%ad%e0%b8%a2%e0%b8%99%e0%b9%8c%e0%b8%84%e0%b8%b8%e0%b9%89%e0%b8%a1) | N/A |
-| 46 | [#Nene1stMiniConcertInBKK](http://twitter.com/search?q=%23Nene1stMiniConcertInBKK) | N/A |
+| 32 | [#SnackerTHXNamneungMilin](http://twitter.com/search?q=%23SnackerTHXNamneungMilin) | N/A |
+| 33 | [#TwoWorldsจ๋าภูผามาแล้ว](http://twitter.com/search?q=%23TwoWorlds%e0%b8%88%e0%b9%8b%e0%b8%b2%e0%b8%a0%e0%b8%b9%e0%b8%9c%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 34 | [#ลาโรชสแกนสิวxหยิ่น](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b2%e0%b9%82%e0%b8%a3%e0%b8%8a%e0%b8%aa%e0%b9%81%e0%b8%81%e0%b8%99%e0%b8%aa%e0%b8%b4%e0%b8%a7x%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%99) | N/A |
+| 35 | [#LISAXBVLGARI](http://twitter.com/search?q=%23LISAXBVLGARI) | N/A |
+| 36 | [#แบนlivenation](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99livenation) | N/A |
+| 37 | [#ฝุ่นPM25](http://twitter.com/search?q=%23%e0%b8%9d%e0%b8%b8%e0%b9%88%e0%b8%99PM25) | N/A |
+| 38 | [#อั่งอั๊งของหนูน่ารักที่สุดเลย](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%ad%e0%b8%b1%e0%b9%8a%e0%b8%87%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b8%b9%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b8%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%a2) | N/A |
+| 39 | [#tarbomxfandomlive](http://twitter.com/search?q=%23tarbomxfandomlive) | N/A |
+| 40 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 41 | [#MarkSorntastFanMeet](http://twitter.com/search?q=%23MarkSorntastFanMeet) | N/A |
+| 42 | [#Shopee22คืนคอยน์คุ้ม](http://twitter.com/search?q=%23Shopee22%e0%b8%84%e0%b8%b7%e0%b8%99%e0%b8%84%e0%b8%ad%e0%b8%a2%e0%b8%99%e0%b9%8c%e0%b8%84%e0%b8%b8%e0%b9%89%e0%b8%a1) | N/A |
+| 43 | [#มอนิ่งนะดุงจัง](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%ad%e0%b8%99%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b8%99%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%87%e0%b8%88%e0%b8%b1%e0%b8%87) | N/A |
+| 44 | [#Nene1stMiniConcertInBKK](http://twitter.com/search?q=%23Nene1stMiniConcertInBKK) | N/A |
+| 45 | [#lorealhairxtarbom](http://twitter.com/search?q=%23lorealhairxtarbom) | N/A |
+| 46 | [#26thORNmazingChapter](http://twitter.com/search?q=%2326thORNmazingChapter) | N/A |
 | 47 | [#แลกฟอลรอเทรนให้ฟรีนเบค](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%a3%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84) | N/A |
-| 48 | [#lorealhairxtarbom](http://twitter.com/search?q=%23lorealhairxtarbom) | N/A |
-| 49 | [#26thORNmazingChapter](http://twitter.com/search?q=%2326thORNmazingChapter) | N/A |
-| 50 | [#ไม่โรแมนติก](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%82%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81) | N/A |
+| 48 | [#OPPOReno8T5G_th](http://twitter.com/search?q=%23OPPOReno8T5G_th) | N/A |
+| 49 | [#OPPO108MPPortraitCamera](http://twitter.com/search?q=%23OPPO108MPPortraitCamera) | N/A |
+| 50 | [#ManGuXFreenbecky](http://twitter.com/search?q=%23ManGuXFreenbecky) | N/A |
 
 
 

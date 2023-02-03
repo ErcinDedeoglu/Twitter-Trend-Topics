@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-02-03 07:16:12 UTC`
+📆 Last Updated: `2023-02-03 08:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 2 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
-| 3 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 4 | [#PlayoffColosal](http://twitter.com/search?q=%23PlayoffColosal) | N/A |
-| 5 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
-| 6 | [DIFERENTE OUT NOW](http://twitter.com/search?q=DIFERENTE+OUT+NOW) | N/A |
-| 7 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 8 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 9 | [#PreorderReadyToBe](http://twitter.com/search?q=%23PreorderReadyToBe) | N/A |
-| 10 | [Arce](http://twitter.com/search?q=Arce) | N/A |
-| 11 | [ReadyToBe Worldwide PreOrder](http://twitter.com/search?q=ReadyToBe+Worldwide+PreOrder) | N/A |
-| 12 | [Güemez](http://twitter.com/search?q=G%c3%bcemez) | N/A |
-| 13 | [Atlético de San Luis](http://twitter.com/search?q=Atl%c3%a9tico+de+San+Luis) | N/A |
-| 14 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 15 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 16 | [Lyn May](http://twitter.com/search?q=Lyn+May) | N/A |
-| 17 | [Chucho Salinas](http://twitter.com/search?q=Chucho+Salinas) | N/A |
-| 18 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 19 | [Colegio Rébsamen](http://twitter.com/search?q=Colegio+R%c3%a9bsamen) | N/A |
-| 20 | [Waller](http://twitter.com/search?q=Waller) | N/A |
-| 21 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
-| 22 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 23 | [Slytherin](http://twitter.com/search?q=Slytherin) | N/A |
-| 24 | [Gerardo Islas](http://twitter.com/search?q=Gerardo+Islas) | N/A |
-| 25 | [Tlalpan](http://twitter.com/search?q=Tlalpan) | N/A |
-| 26 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
-| 27 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 28 | [Velvet](http://twitter.com/search?q=Velvet) | N/A |
-| 29 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 30 | [Aristeo](http://twitter.com/search?q=Aristeo) | N/A |
-| 31 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 32 | [La Barbie](http://twitter.com/search?q=La+Barbie) | N/A |
-| 33 | [Paty](http://twitter.com/search?q=Paty) | N/A |
-| 34 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
-| 35 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 36 | [CNDH](http://twitter.com/search?q=CNDH) | N/A |
-| 37 | [#CNCO](http://twitter.com/search?q=%23CNCO) | N/A |
-| 38 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
-| 39 | [#CodereEsRayado](http://twitter.com/search?q=%23CodereEsRayado) | N/A |
-| 40 | [#SNSerio](http://twitter.com/search?q=%23SNSerio) | N/A |
-| 41 | [#ClaudiaNuncaSeraPresidenta](http://twitter.com/search?q=%23ClaudiaNuncaSeraPresidenta) | N/A |
-| 42 | [#Cabo](http://twitter.com/search?q=%23Cabo) | N/A |
-| 43 | [#twitchstreamer](http://twitter.com/search?q=%23twitchstreamer) | N/A |
-| 44 | [#BTSYetToComeinCinemas](http://twitter.com/search?q=%23BTSYetToComeinCinemas) | N/A |
+| 1 | [#SalarioRosaEnLasMejoresManos](http://twitter.com/search?q=%23SalarioRosaEnLasMejoresManos) | #SalarioRosaEnLasMejoresManos is a hashtag used in Spanish to express support for equal pay for women. In English, it translates to "Pink Salary in the Best Hands". This hashtag is used to promote the idea that women should be paid the same as men for doing the same job. |
+| 2 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 3 | [#DiaDeLaCandelaria](http://twitter.com/search?q=%23DiaDeLaCandelaria) | N/A |
+| 4 | [#tamales](http://twitter.com/search?q=%23tamales) | N/A |
+| 5 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 6 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
+| 7 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 8 | [DIFERENTE OUT NOW](http://twitter.com/search?q=DIFERENTE+OUT+NOW) | N/A |
+| 9 | [Gerardo Islas](http://twitter.com/search?q=Gerardo+Islas) | N/A |
+| 10 | [FUERA NICKY](http://twitter.com/search?q=FUERA+NICKY) | N/A |
+| 11 | [Arce](http://twitter.com/search?q=Arce) | N/A |
+| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 13 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 14 | [Morat](http://twitter.com/search?q=Morat) | N/A |
+| 15 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 16 | [EUNCHAE MUSIC BANK MC](http://twitter.com/search?q=EUNCHAE+MUSIC+BANK+MC) | N/A |
+| 17 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 18 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 20 | [Escorpión Dorado](http://twitter.com/search?q=Escorpi%c3%b3n+Dorado) | N/A |
+| 21 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 22 | [Buró de Crédito](http://twitter.com/search?q=Bur%c3%b3+de+Cr%c3%a9dito) | N/A |
+| 23 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 24 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 25 | [Puerto Peñasco](http://twitter.com/search?q=Puerto+Pe%c3%b1asco) | N/A |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [ISDIN](http://twitter.com/search?q=ISDIN) | N/A |
+| 28 | [Tom Brady](http://twitter.com/search?q=Tom+Brady) | Tom Brady is an American football quarterback who plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the greatest quarterbacks of all time, having won six Super Bowls and four Super Bowl MVP awards. |
+| 29 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
+| 30 | [Ausencio Cruz](http://twitter.com/search?q=Ausencio+Cruz) | N/A |
+| 31 | [ReadyToBe Worldwide PreOrder](http://twitter.com/search?q=ReadyToBe+Worldwide+PreOrder) | N/A |
+| 32 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 33 | [Colegio Rébsamen](http://twitter.com/search?q=Colegio+R%c3%a9bsamen) | N/A |
+| 34 | [Güemez](http://twitter.com/search?q=G%c3%bcemez) | N/A |
+| 35 | [DIFERENTE IS COMING](http://twitter.com/search?q=DIFERENTE+IS+COMING) | N/A |
+| 36 | [Chucho Salinas](http://twitter.com/search?q=Chucho+Salinas) | N/A |
+| 37 | [Sherlyn](http://twitter.com/search?q=Sherlyn) | N/A |
+| 38 | [Velvet](http://twitter.com/search?q=Velvet) | N/A |
+| 39 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
+| 40 | [Rajas](http://twitter.com/search?q=Rajas) | N/A |
+| 41 | [Uche](http://twitter.com/search?q=Uche) | Uche is a Nigerian name of Igbo origin. It means "God's will" or "God's purpose". |
+| 42 | [El Conejo](http://twitter.com/search?q=El+Conejo) | N/A |
+| 43 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 44 | [Victor Trujillo](http://twitter.com/search?q=Victor+Trujillo) | N/A |
+| 45 | [Plan Sonora](http://twitter.com/search?q=Plan+Sonora) | N/A |
+| 46 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
+| 47 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
+| 48 | [Lyn May](http://twitter.com/search?q=Lyn+May) | N/A |
+| 49 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 
 
 

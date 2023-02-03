@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brest
 
-📆 Last Updated: `2023-02-03 07:16:26 UTC`
+📆 Last Updated: `2023-02-03 08:16:38 UTC`
 
 🔧 Updated every 1 hour!
 

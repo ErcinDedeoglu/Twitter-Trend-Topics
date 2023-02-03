@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-02-03 07:16:38 UTC`
+📆 Last Updated: `2023-02-03 08:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 3 | [Uniben](http://twitter.com/search?q=Uniben) | Uniben is an acronym for the University of Benin, a public university located in Benin City, Nigeria. The university was established in 1970 and is one of the most prestigious universities in Nigeria. |
-| 4 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 5 | [Omotara](http://twitter.com/search?q=Omotara) | N/A |
-| 6 | [#TinubuInOsun](http://twitter.com/search?q=%23TinubuInOsun) | N/A |
-| 7 | [Joha](http://twitter.com/search?q=Joha) | N/A |
-| 8 | [#ObiDattiInZamfara](http://twitter.com/search?q=%23ObiDattiInZamfara) | N/A |
-| 9 | [#danlil](http://twitter.com/search?q=%23danlil) | N/A |
-| 10 | [Nigerian Army](http://twitter.com/search?q=Nigerian+Army) | N/A |
-| 11 | [Benin](http://twitter.com/search?q=Benin) | N/A |
-| 12 | [Naira](http://twitter.com/search?q=Naira) | N/A |
-| 13 | [El Rufai](http://twitter.com/search?q=El+Rufai) | N/A |
-| 14 | [Juma'at Mubarak](http://twitter.com/search?q=Juma%27at+Mubarak) | N/A |
-| 15 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 17 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
-| 18 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 19 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
-| 20 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 21 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 22 | [YEMI CREGX OUR OWN](http://twitter.com/search?q=YEMI+CREGX+OUR+OWN) | N/A |
-| 23 | [#SolanaGiveaways](http://twitter.com/search?q=%23SolanaGiveaways) | N/A |
-| 24 | [Victor Umeh](http://twitter.com/search?q=Victor+Umeh) | N/A |
+| 2 | [IT IS DONE](http://twitter.com/search?q=IT+IS+DONE) | IT IS DONE is an expression used to indicate that a task or project has been completed. It is often used as a declaration of accomplishment or success. |
+| 3 | [#HarryBartholomew](http://twitter.com/search?q=%23HarryBartholomew) | N/A |
+| 4 | [Uniben](http://twitter.com/search?q=Uniben) | Uniben is an acronym for the University of Benin, a public university located in Benin City, Nigeria. The university was established in 1970 and is one of the most prestigious universities in Nigeria. |
+| 5 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 6 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 7 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 8 | [Joha](http://twitter.com/search?q=Joha) | N/A |
+| 9 | [Omotara](http://twitter.com/search?q=Omotara) | N/A |
+| 10 | [Benin](http://twitter.com/search?q=Benin) | N/A |
+| 11 | [#TinubuInOsun](http://twitter.com/search?q=%23TinubuInOsun) | N/A |
+| 12 | [#danlil](http://twitter.com/search?q=%23danlil) | N/A |
+| 13 | [Nigerian Army](http://twitter.com/search?q=Nigerian+Army) | N/A |
+| 14 | [#ObiDattiInZamfara](http://twitter.com/search?q=%23ObiDattiInZamfara) | N/A |
+| 15 | [El Rufai](http://twitter.com/search?q=El+Rufai) | N/A |
+| 16 | [Naira](http://twitter.com/search?q=Naira) | N/A |
+| 17 | [Expired](http://twitter.com/search?q=Expired) | N/A |
+| 18 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 19 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
+| 20 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
+| 21 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 22 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
+| 23 | [Juma'at Mubarak](http://twitter.com/search?q=Juma%27at+Mubarak) | N/A |
+| 24 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
 | 25 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 26 | [question phyna](http://twitter.com/search?q=question+phyna) | N/A |
-| 27 | [Access](http://twitter.com/search?q=Access) | N/A |
-| 28 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 29 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 30 | [patronize phynation merchant](http://twitter.com/search?q=patronize+phynation+merchant) | N/A |
-| 31 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
-| 32 | [Blaqbonez](http://twitter.com/search?q=Blaqbonez) | N/A |
-| 33 | [Alabi](http://twitter.com/search?q=Alabi) | N/A |
-| 34 | [big bella once said](http://twitter.com/search?q=big+bella+once+said) | N/A |
-| 35 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 36 | [P.O.S](http://twitter.com/search?q=P.O.S) | N/A |
-| 37 | [Joe Igbokwe](http://twitter.com/search?q=Joe+Igbokwe) | N/A |
-| 38 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
+| 26 | [YEMI CREGX OUR OWN](http://twitter.com/search?q=YEMI+CREGX+OUR+OWN) | N/A |
+| 27 | [What God](http://twitter.com/search?q=What+God) | N/A |
+| 28 | [question phyna](http://twitter.com/search?q=question+phyna) | N/A |
+| 29 | [Blaqbonez](http://twitter.com/search?q=Blaqbonez) | N/A |
+| 30 | [Victor Umeh](http://twitter.com/search?q=Victor+Umeh) | N/A |
+| 31 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 32 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 33 | [patronize phynation merchant](http://twitter.com/search?q=patronize+phynation+merchant) | N/A |
+| 34 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 35 | [Alabi](http://twitter.com/search?q=Alabi) | N/A |
+| 36 | [Access](http://twitter.com/search?q=Access) | N/A |
+| 37 | [Chair](http://twitter.com/search?q=Chair) | N/A |
+| 38 | [P.O.S](http://twitter.com/search?q=P.O.S) | N/A |
 | 39 | [Jungle](http://twitter.com/search?q=Jungle) | N/A |
-| 40 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 41 | [Peter Obi is a Nollywood](http://twitter.com/search?q=Peter+Obi+is+a+Nollywood) | N/A |
-| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 43 | [Chair](http://twitter.com/search?q=Chair) | N/A |
-| 44 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 45 | [Kebbi](http://twitter.com/search?q=Kebbi) | N/A |
-| 46 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
-| 47 | [Ibadah](http://twitter.com/search?q=Ibadah) | N/A |
-| 48 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 49 | [ebubu is not small](http://twitter.com/search?q=ebubu+is+not+small) | N/A |
-| 50 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 40 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 41 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 42 | [Kaduna](http://twitter.com/search?q=Kaduna) | N/A |
+| 43 | [big bella once said](http://twitter.com/search?q=big+bella+once+said) | N/A |
+| 44 | [Peter Obi is a Nollywood](http://twitter.com/search?q=Peter+Obi+is+a+Nollywood) | N/A |
+| 45 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
+| 46 | [Charges](http://twitter.com/search?q=Charges) | Charges are fees or costs associated with a service or product. They can include taxes, fees, and other costs associated with the purchase or use of a product or service. |
+| 47 | [Kebbi](http://twitter.com/search?q=Kebbi) | N/A |
+| 48 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 49 | [Ekosodin](http://twitter.com/search?q=Ekosodin) | N/A |
+| 50 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 
 
 

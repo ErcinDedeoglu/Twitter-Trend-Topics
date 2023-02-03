@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medina
 
-📆 Last Updated: `2023-02-03 07:16:40 UTC`
+📆 Last Updated: `2023-02-03 08:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 2 | [#الاهلي_الاخدود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%a7%d8%ae%d8%af%d9%88%d8%af) | #الاهلي_الاخدود is a hashtag used by fans of Al Ahly, an Egyptian football club. It translates to "Al Ahly Forever" in English. |
-| 3 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 4 | [#البزنس58](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b358) | N/A |
-| 5 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 2 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 3 | [#الاهلي_الاخدود](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%a7%d8%ae%d8%af%d9%88%d8%af) | #الاهلي_الاخدود is a hashtag used by fans of Al Ahly, an Egyptian football club. It translates to "Al Ahly Forever" in English. |
+| 4 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 5 | [#البزنس58](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b358) | N/A |
 | 6 | [#ليله_صوت_الارض](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%b5%d9%88%d8%aa_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | #ليله_صوت_الارض is an Arabic hashtag that translates to "The Night of the Earth's Voice". It is used to promote environmental awareness and activism. |
 | 7 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 8 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 8 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
 | 9 | [فهد الحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | فهد الحمد is an Arabic name, which translates to "Fahd Al-Hamd" in English. It is composed of two parts: Fahd, which means "lion" and Al-Hamd, which means "praise". |
-| 10 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
-| 11 | [الحنفوش](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%86%d9%81%d9%88%d8%b4) | الحنفوش is an Arabic word that means "the wisecracker". It is used to describe someone who makes jokes or sarcastic remarks. |
-| 12 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 13 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 14 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 15 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 16 | [المناسبات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 17 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 18 | [زياد الجهني](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a) | N/A |
-| 19 | [حصه السيف](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d9%81) | N/A |
-| 20 | [عثمان باتو](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d8%a7%d8%aa%d9%88) | N/A |
-| 21 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 22 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 23 | [يابو احمد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
-| 24 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 25 | [موسي نضاو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%86%d8%b6%d8%a7%d9%88) | N/A |
-| 26 | [قول باستوس](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a8%d8%a7%d8%b3%d8%aa%d9%88%d8%b3) | N/A |
-| 27 | [الحبيب الزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b2%d9%8a%d9%86) | N/A |
-| 28 | [فهد حمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%ad%d9%85%d8%af) | N/A |
-| 29 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 30 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
-| 31 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 32 | [الهدف الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 33 | [عبدالباسط](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7) | N/A |
-| 34 | [فرانك كوم](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83+%d9%83%d9%88%d9%85) | N/A |
-| 35 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 36 | [المسلمات الاحياء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1) | N/A |
-| 37 | [ابن الوطن البار](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%a8%d8%a7%d8%b1) | N/A |
-| 38 | [الدور الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 39 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 40 | [علي الهادي البشير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%a8%d8%b4%d9%8a%d8%b1) | N/A |
-| 41 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 42 | [علي الرسول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%84) | N/A |
-| 43 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 44 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 45 | [الغمام المظلم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b8%d9%84%d9%85) | N/A |
-| 46 | [فاران](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%a7%d9%86) | N/A |
-| 47 | [مابين طرفه عين](http://twitter.com/search?q=%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
-| 48 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
-| 49 | [عبادي الجوهر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1) | "عبادي الجوهر" is an Arabic phrase that translates to "My Beloved Gem". It is a term of endearment used to express love and admiration for someone. |
-| 50 | [دار الخلود](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af) | N/A |
+| 10 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 11 | [المقرن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | المقرن is an Arabic word that means "dagger". It is a type of short, pointed knife or blade. |
+| 12 | [الحنفوش](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%86%d9%81%d9%88%d8%b4) | الحنفوش is an Arabic word that means "the wisecracker". It is used to describe someone who makes jokes or sarcastic remarks. |
+| 13 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 14 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 15 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 16 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 17 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 18 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 19 | [زياد الجهني](http://twitter.com/search?q=%d8%b2%d9%8a%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a) | N/A |
+| 20 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 21 | [حصه السيف](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b3%d9%8a%d9%81) | N/A |
+| 22 | [ابو احمد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 23 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 24 | [المناسبات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 25 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 26 | [موسي نضاو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%86%d8%b6%d8%a7%d9%88) | N/A |
+| 27 | [عثمان باتو](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d8%a7%d8%aa%d9%88) | N/A |
+| 28 | [قول باستوس](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a8%d8%a7%d8%b3%d8%aa%d9%88%d8%b3) | N/A |
+| 29 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 30 | [فهد حمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%ad%d9%85%d8%af) | N/A |
+| 31 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 32 | [الحبيب الزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b2%d9%8a%d9%86) | N/A |
+| 33 | [يرجي الاتصال](http://twitter.com/search?q=%d9%8a%d8%b1%d8%ac%d9%8a+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84) | N/A |
+| 34 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 35 | [عبدالباسط](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%a8%d8%a7%d8%b3%d8%b7) | N/A |
+| 36 | [الهدف الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 37 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 38 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
+| 39 | [علي غيث القلوب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ba%d9%8a%d8%ab+%d8%a7%d9%84%d9%82%d9%84%d9%88%d8%a8) | N/A |
+| 40 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 41 | [فرانك كوم](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d9%86%d9%83+%d9%83%d9%88%d9%85) | N/A |
+| 42 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
+| 43 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 44 | [الدور الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 45 | [عبادي الجوهر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1) | "عبادي الجوهر" is an Arabic phrase that translates to "My Beloved Gem". It is a term of endearment used to express love and admiration for someone. |
+| 46 | [علي الرسول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%84) | N/A |
+| 47 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 48 | [مابين طرفه عين](http://twitter.com/search?q=%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 49 | [الشوون الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 50 | [رفعت الايادي](http://twitter.com/search?q=%d8%b1%d9%81%d8%b9%d8%aa+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
 
 
 
