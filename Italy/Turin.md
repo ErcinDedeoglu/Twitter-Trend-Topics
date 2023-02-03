@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-02 23:16:54 UTC`
+📆 Last Updated: `2023-02-03 00:29:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Italy](</Italy>)
 | 7 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
 | 8 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
 | 9 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 10 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 11 | [Ollivier](http://twitter.com/search?q=Ollivier) | N/A |
-| 12 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
-| 13 | [Cedric](http://twitter.com/search?q=Cedric) | N/A |
-| 14 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
-| 15 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 16 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 10 | [Ollivier](http://twitter.com/search?q=Ollivier) | N/A |
+| 11 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 12 | [Cedric](http://twitter.com/search?q=Cedric) | N/A |
+| 13 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 14 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 15 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 16 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
 | 17 | [Maximiano](http://twitter.com/search?q=Maximiano) | N/A |
-| 18 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
-| 19 | [Suor Teresa](http://twitter.com/search?q=Suor+Teresa) | N/A |
-| 20 | [Suor Angela](http://twitter.com/search?q=Suor+Angela) | N/A |
-| 21 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 22 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 23 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 24 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 25 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 26 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 27 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 28 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 29 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 30 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 31 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 18 | [Suor Teresa](http://twitter.com/search?q=Suor+Teresa) | N/A |
+| 19 | [Suor Angela](http://twitter.com/search?q=Suor+Angela) | N/A |
+| 20 | [De Sciglio](http://twitter.com/search?q=De+Sciglio) | N/A |
+| 21 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 22 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 23 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 24 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 25 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 26 | [Patric](http://twitter.com/search?q=Patric) | N/A |
+| 27 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 28 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 29 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 30 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 31 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 32 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
 | 33 | [Maresca](http://twitter.com/search?q=Maresca) | Maresca is an Italian surname derived from the Latin word "marescalcus," which means "horseman" or "knight." It is also a place name in Italy, derived from the same root. |
 | 34 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 35 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 36 | [Borgonovo](http://twitter.com/search?q=Borgonovo) | N/A |
-| 37 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 38 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 39 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 40 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
-| 41 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 42 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 43 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 44 | [Daniele e Oriana](http://twitter.com/search?q=Daniele+e+Oriana) | N/A |
-| 45 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 46 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 47 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 48 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
-| 49 | [Scarpinato](http://twitter.com/search?q=Scarpinato) | N/A |
-| 50 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 35 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 37 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 38 | [Borgonovo](http://twitter.com/search?q=Borgonovo) | N/A |
+| 39 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 40 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 41 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
+| 42 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 43 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 44 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 45 | [Daniele e Oriana](http://twitter.com/search?q=Daniele+e+Oriana) | N/A |
+| 46 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 47 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 48 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 49 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
+| 50 | [Calderoli](http://twitter.com/search?q=Calderoli) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-02-02 23:16:54 UTC`
+📆 Last Updated: `2023-02-03 00:29:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
 | 3 | [#ikvertrek](http://twitter.com/search?q=%23ikvertrek) | N/A |
 | 4 | [Onbedoeld](http://twitter.com/search?q=Onbedoeld) | N/A |
-| 5 | [#mrfrankvisser](http://twitter.com/search?q=%23mrfrankvisser) | N/A |
+| 5 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
 | 6 | [#coronadebat](http://twitter.com/search?q=%23coronadebat) | N/A |
-| 7 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 7 | [#mrfrankvisser](http://twitter.com/search?q=%23mrfrankvisser) | N/A |
 | 8 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 9 | [#jinek](http://twitter.com/search?q=%23jinek) | N/A |
-| 10 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 11 | [Eritreeërs](http://twitter.com/search?q=Eritree%c3%abrs) | N/A |
+| 9 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 10 | [Eritreeërs](http://twitter.com/search?q=Eritree%c3%abrs) | N/A |
+| 11 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 12 | [Moord](http://twitter.com/search?q=Moord) | N/A |
-| 13 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 14 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
+| 13 | [Verkiezingen](http://twitter.com/search?q=Verkiezingen) | N/A |
+| 14 | [Esther](http://twitter.com/search?q=Esther) | N/A |
 | 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | N/A |
-| 16 | [EU-geld](http://twitter.com/search?q=EU-geld) | N/A |
-| 17 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
+| 16 | [Nobelprijs](http://twitter.com/search?q=Nobelprijs) | N/A |
+| 17 | [EU-geld](http://twitter.com/search?q=EU-geld) | N/A |
 | 18 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
 | 19 | [Wetenschap](http://twitter.com/search?q=Wetenschap) | N/A |
-| 20 | [Bonaire](http://twitter.com/search?q=Bonaire) | N/A |
-| 21 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 22 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
-| 23 | [Van der Burg](http://twitter.com/search?q=Van+der+Burg) | N/A |
-| 24 | [Adrie](http://twitter.com/search?q=Adrie) | N/A |
-| 25 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 26 | [kwint](http://twitter.com/search?q=kwint) | N/A |
-| 27 | [grote ing-storing](http://twitter.com/search?q=grote+ing-storing) | N/A |
-| 28 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
-| 29 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
-| 30 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 20 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 21 | [Van der Burg](http://twitter.com/search?q=Van+der+Burg) | N/A |
+| 22 | [Adrie](http://twitter.com/search?q=Adrie) | N/A |
+| 23 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 24 | [kwint](http://twitter.com/search?q=kwint) | N/A |
+| 25 | [grote ing-storing](http://twitter.com/search?q=grote+ing-storing) | N/A |
+| 26 | [donderdag](http://twitter.com/search?q=donderdag) | N/A |
+| 27 | [Bosma](http://twitter.com/search?q=Bosma) | N/A |
+| 28 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
+| 29 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 30 | [shell-winst](http://twitter.com/search?q=shell-winst) | N/A |
 | 31 | [Het CDA](http://twitter.com/search?q=Het+CDA) | N/A |
-| 32 | [Shell-winst](http://twitter.com/search?q=Shell-winst) | N/A |
-| 33 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 32 | [Leyen](http://twitter.com/search?q=Leyen) | N/A |
+| 33 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
 | 34 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
 | 35 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 36 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 37 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 38 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
-| 39 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 40 | [Janke](http://twitter.com/search?q=Janke) | N/A |
-| 41 | [Beter 1](http://twitter.com/search?q=Beter+1) | N/A |
-| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 43 | [Malek F.](http://twitter.com/search?q=Malek+F.) | N/A |
-| 44 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 45 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 46 | [Excuses](http://twitter.com/search?q=Excuses) | N/A |
-| 47 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 48 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 49 | [Luister](http://twitter.com/search?q=Luister) | N/A |
+| 36 | [Richard de Mos](http://twitter.com/search?q=Richard+de+Mos) | N/A |
+| 37 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 38 | [Janke](http://twitter.com/search?q=Janke) | N/A |
+| 39 | [Beter 1](http://twitter.com/search?q=Beter+1) | N/A |
+| 40 | [malek f.](http://twitter.com/search?q=malek+f.) | N/A |
+| 41 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 42 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 43 | [Excuses](http://twitter.com/search?q=Excuses) | N/A |
+| 44 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 45 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 46 | [Luister](http://twitter.com/search?q=Luister) | N/A |
+| 47 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 48 | [Bikker](http://twitter.com/search?q=Bikker) | N/A |
+| 49 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
 
 
 

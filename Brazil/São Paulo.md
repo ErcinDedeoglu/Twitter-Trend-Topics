@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-02 23:16:48 UTC`
+📆 Last Updated: `2023-02-03 00:29:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Iemanjá](http://twitter.com/search?q=Iemanj%c3%a1) | Iemanjá is an Afro-Brazilian goddess of the sea, and is considered the queen of the ocean. Her name translates to "Mother of Waters" in English. She is a symbol of fertility, femininity, and motherhood, and is often depicted as a mermaid or an African woman with a crown of shells. |
+| 1 | [Daniel Silveira](http://twitter.com/search?q=Daniel+Silveira) | Daniel Silveira is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”. |
 | 2 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 3 | [Luiz Araújo](http://twitter.com/search?q=Luiz+Ara%c3%bajo) | N/A |
-| 4 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 5 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 6 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 7 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
-| 8 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 9 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 10 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
-| 11 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 12 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 13 | [Augusto](http://twitter.com/search?q=Augusto) | N/A |
-| 14 | [Dólar](http://twitter.com/search?q=D%c3%b3lar) | N/A |
-| 15 | [#tellonym](http://twitter.com/search?q=%23tellonym) | N/A |
-| 16 | [Etec](http://twitter.com/search?q=Etec) | Etec is an acronym for Escola Técnica Estadual, which is a type of technical school in Brazil. It provides technical and vocational education to students. In English, Etec stands for State Technical School. |
-| 17 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
-| 18 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
-| 19 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 20 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 21 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 22 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 23 | [Traíra](http://twitter.com/search?q=Tra%c3%adra) | N/A |
-| 24 | [Ribeirão](http://twitter.com/search?q=Ribeir%c3%a3o) | N/A |
-| 25 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 26 | [The Sims](http://twitter.com/search?q=The+Sims) | N/A |
-| 27 | [GloboNews](http://twitter.com/search?q=GloboNews) | N/A |
-| 28 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
-| 29 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 30 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 31 | [Rep Festival](http://twitter.com/search?q=Rep+Festival) | N/A |
-| 32 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 33 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 34 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
-| 35 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
-| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 37 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 38 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 39 | [STRAY KIDS NO BRASIL](http://twitter.com/search?q=STRAY+KIDS+NO+BRASIL) | STRAY KIDS NO BRASIL is a fan event held in Brazil for the South Korean boy band Stray Kids. The event was held in 2019 and featured a live performance by the group, as well as a meet-and-greet with fans. The phrase "no Brasil" translates to "in Brazil" in English. |
-| 40 | [Lucas Piton](http://twitter.com/search?q=Lucas+Piton) | N/A |
-| 41 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 42 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
-| 43 | [Resende](http://twitter.com/search?q=Resende) | N/A |
-| 44 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 46 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 47 | [Adele](http://twitter.com/search?q=Adele) | N/A |
-| 48 | [Top Track](http://twitter.com/search?q=Top+Track) | N/A |
-| 49 | [Top Album](http://twitter.com/search?q=Top+Album) | N/A |
-| 50 | [Top Artist](http://twitter.com/search?q=Top+Artist) | N/A |
+| 3 | [Alexandre de Moraes](http://twitter.com/search?q=Alexandre+de+Moraes) | Alexandre de Moraes is a Brazilian lawyer and politician who served as the Minister of Justice and Public Security from 2016 to 2018. In English, his name translates to Alexander of Moraes. |
+| 4 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 5 | [COME TO BRAZIL](http://twitter.com/search?q=COME+TO+BRAZIL) | N/A |
+| 6 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 7 | [pardo](http://twitter.com/search?q=pardo) | N/A |
+| 8 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
+| 9 | [Augusto](http://twitter.com/search?q=Augusto) | N/A |
+| 10 | [senai](http://twitter.com/search?q=senai) | N/A |
+| 11 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
+| 12 | [Luiz Araújo](http://twitter.com/search?q=Luiz+Ara%c3%bajo) | N/A |
+| 13 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 14 | [Serasa](http://twitter.com/search?q=Serasa) | N/A |
+| 15 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
+| 16 | [#GloriaEterna](http://twitter.com/search?q=%23GloriaEterna) | N/A |
+| 17 | [#tellonym](http://twitter.com/search?q=%23tellonym) | N/A |
+| 18 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 19 | [Etec](http://twitter.com/search?q=Etec) | Etec is an acronym for Escola Técnica Estadual, which is a type of technical school in Brazil. It provides technical and vocational education to students. In English, Etec stands for State Technical School. |
+| 20 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 21 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 22 | [São Pedro](http://twitter.com/search?q=S%c3%a3o+Pedro) | N/A |
+| 23 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 24 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
+| 25 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 26 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
+| 27 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 28 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 29 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 30 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 31 | [Ribeirão](http://twitter.com/search?q=Ribeir%c3%a3o) | N/A |
+| 32 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
+| 33 | [Traíra](http://twitter.com/search?q=Tra%c3%adra) | N/A |
+| 34 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 35 | [The Sims](http://twitter.com/search?q=The+Sims) | N/A |
+| 36 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 37 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 38 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
+| 39 | [Gabriel Pec](http://twitter.com/search?q=Gabriel+Pec) | Gabriel Pec is a Brazilian expression that means “to do something with great effort and dedication”. In English, it can be translated as “to give it your all” or “to put your heart and soul into something”. |
+| 40 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 41 | [Lionel Pec](http://twitter.com/search?q=Lionel+Pec) | Lionel Pec is a French expression meaning "to be completely exhausted". It is derived from the phrase "être à bout de souffle", which literally translates to "to be out of breath". |
+| 42 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
+| 43 | [#AeroFla](http://twitter.com/search?q=%23AeroFla) | N/A |
+| 44 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 45 | [Gabriel Paulista](http://twitter.com/search?q=Gabriel+Paulista) | N/A |
+| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 47 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 48 | [CEM DIAS DE TRAVESSIA](http://twitter.com/search?q=CEM+DIAS+DE+TRAVESSIA) | N/A |
+| 49 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | N/A |
+| 50 | [Piton](http://twitter.com/search?q=Piton) | Piton is a French word that refers to a metal spike or peg used in mountaineering. It is driven into the rock face to provide an anchor point for a rope or other climbing equipment. In English, it is commonly referred to as a piton or piton spike. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-02-02 23:17:19 UTC`
+📆 Last Updated: `2023-02-03 00:29:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 2 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
-| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 4 | [$AAPL](http://twitter.com/search?q=%24AAPL) | N/A |
-| 5 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
-| 6 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 7 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 8 | [OANN](http://twitter.com/search?q=OANN) | N/A |
-| 9 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
-| 10 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 11 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 12 | [Lanny Poffo](http://twitter.com/search?q=Lanny+Poffo) | Lanny Poffo is the stage name of American professional wrestler and poet, Lanny Mark Poffo. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the brother of "Macho Man" Randy Savage. |
-| 13 | [#Pfertility](http://twitter.com/search?q=%23Pfertility) | N/A |
-| 14 | [#NationalCatchersDay](http://twitter.com/search?q=%23NationalCatchersDay) | N/A |
-| 15 | [#TakeABookToTheSuperBowl](http://twitter.com/search?q=%23TakeABookToTheSuperBowl) | N/A |
-| 16 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 17 | [Groundhog Day](http://twitter.com/search?q=Groundhog+Day) | Groundhog Day is a popular American tradition celebrated on February 2nd each year. It is based on the belief that if a groundhog (a type of rodent) emerges from its burrow and sees its shadow, then winter will last for six more weeks. If the groundhog does not see its shadow, then spring will come early. The phrase "Groundhog Day" has come to mean any situation in which a person is stuck in an endless cycle of repetition. |
-| 18 | [The Genius](http://twitter.com/search?q=The+Genius) | The Genius is a Korean reality show that aired on cable channel GNG from 2013 to 2018. It was a game show in which contestants competed against each other in various intellectual and physical challenges. The winner of the show was crowned the "Genius" and received a cash prize. The show's title is derived from the Latin phrase "ingenium est celeritas," which translates to "genius is speed." |
-| 19 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 20 | [Suspected Chinese](http://twitter.com/search?q=Suspected+Chinese) | N/A |
-| 21 | [#RealMadridValencia](http://twitter.com/search?q=%23RealMadridValencia) | #RealMadridValencia is a hashtag used to refer to the Spanish football (soccer) rivalry between Real Madrid and Valencia. It is used to discuss the rivalry between the two teams, share news and updates about them, and show support for either team. In English, it means "Real Madrid vs Valencia". |
-| 22 | [$AMZN](http://twitter.com/search?q=%24AMZN) | N/A |
-| 23 | [Guerdy](http://twitter.com/search?q=Guerdy) | N/A |
-| 24 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 25 | [Crumbl](http://twitter.com/search?q=Crumbl) | N/A |
-| 26 | [Bomani](http://twitter.com/search?q=Bomani) | N/A |
-| 27 | [Start Dame](http://twitter.com/search?q=Start+Dame) | N/A |
-| 28 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
-| 29 | [Elway](http://twitter.com/search?q=Elway) | N/A |
-| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 31 | [Rees](http://twitter.com/search?q=Rees) | N/A |
-| 32 | [100 Democrats](http://twitter.com/search?q=100+Democrats) | N/A |
-| 33 | [Start Kyrie](http://twitter.com/search?q=Start+Kyrie) | N/A |
-| 34 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 35 | [Little Giants](http://twitter.com/search?q=Little+Giants) | N/A |
-| 36 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 37 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
-| 38 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 39 | [Thanks Satan](http://twitter.com/search?q=Thanks+Satan) | N/A |
-| 40 | [Billings](http://twitter.com/search?q=Billings) | N/A |
-| 41 | [Superbad](http://twitter.com/search?q=Superbad) | N/A |
-| 42 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 43 | [Twitter API](http://twitter.com/search?q=Twitter+API) | Twitter API is an application programming interface (API) that allows developers to access and integrate certain parts of Twitter's platform with their own applications. It enables developers to create applications that can interact with Twitter, such as reading and writing tweets, searching for tweets, and accessing user profiles. |
-| 44 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
-| 45 | [The Squad](http://twitter.com/search?q=The+Squad) | N/A |
-| 46 | [Cori Bush](http://twitter.com/search?q=Cori+Bush) | Cori Bush is an American politician and activist from Missouri. She is a member of the Democratic Party and was elected to the United States House of Representatives in 2020, representing Missouri's 1st congressional district. She is the first African-American woman to represent Missouri in Congress. |
-| 47 | [Playoff 13s](http://twitter.com/search?q=Playoff+13s) | N/A |
-| 48 | [Epic Meal Time](http://twitter.com/search?q=Epic+Meal+Time) | N/A |
-| 49 | [Jew-ish](http://twitter.com/search?q=Jew-ish) | N/A |
+| 1 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 2 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 3 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 4 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 5 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 6 | [All-Star](http://twitter.com/search?q=All-Star) | All-Star is an adjective used to describe someone or something that is considered to be the best of the best. It is often used to refer to athletes, celebrities, or other people who have achieved a high level of success in their field. It can also be used to describe products or services that are considered to be the best in their category. |
+| 7 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 8 | [Jaren Jackson Jr](http://twitter.com/search?q=Jaren+Jackson+Jr) | N/A |
+| 9 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 10 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 11 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 12 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | N/A |
+| 13 | [Chinese Spy Balloon](http://twitter.com/search?q=Chinese+Spy+Balloon) | N/A |
+| 14 | [#Pfertility](http://twitter.com/search?q=%23Pfertility) | N/A |
+| 15 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 16 | [Derek Carr](http://twitter.com/search?q=Derek+Carr) | Derek Carr is an American football quarterback who currently plays for the Las Vegas Raiders of the National Football League (NFL). He was drafted by the Raiders in the second round of the 2014 NFL Draft. He has been selected to two Pro Bowls and holds several Raiders franchise records. |
+| 17 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 18 | [Socialism](http://twitter.com/search?q=Socialism) | Socialism is an economic and political system based on public or collective ownership of the means of production, with the goal of providing equal access to resources and opportunities for all members of society. It is characterized by social equality, cooperation, and a lack of social hierarchy. Socialism seeks to create a more just and equitable society by redistributing wealth and power among citizens. |
+| 19 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 20 | [No AD](http://twitter.com/search?q=No+AD) | N/A |
+| 21 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 22 | [No Fox](http://twitter.com/search?q=No+Fox) | N/A |
+| 23 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
+| 24 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 25 | [OANN](http://twitter.com/search?q=OANN) | N/A |
+| 26 | [Billings](http://twitter.com/search?q=Billings) | N/A |
+| 27 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 28 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
+| 29 | [Foreign Affairs Committee](http://twitter.com/search?q=Foreign+Affairs+Committee) | The Foreign Affairs Committee is a committee of the United States Congress that is responsible for overseeing the foreign policy of the United States. It is responsible for monitoring and providing oversight of all diplomatic and international activities of the United States government, including treaties, international agreements, and foreign aid. The committee also reviews presidential nominations for ambassadors and other high-level positions in the State Department. |
+| 30 | [Jewish Space Lasers](http://twitter.com/search?q=Jewish+Space+Lasers) | N/A |
+| 31 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 32 | [#NationalCatchersDay](http://twitter.com/search?q=%23NationalCatchersDay) | N/A |
+| 33 | [Suspected Chinese](http://twitter.com/search?q=Suspected+Chinese) | N/A |
+| 34 | [First Amendment](http://twitter.com/search?q=First+Amendment) | N/A |
+| 35 | [Shai Gilgeous-Alexander](http://twitter.com/search?q=Shai+Gilgeous-Alexander) | N/A |
+| 36 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 37 | [Aggravated Menacing](http://twitter.com/search?q=Aggravated+Menacing) | N/A |
+| 38 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 39 | [$AAPL](http://twitter.com/search?q=%24AAPL) | N/A |
+| 40 | [#MaddenBowl](http://twitter.com/search?q=%23MaddenBowl) | N/A |
+| 41 | [Plant](http://twitter.com/search?q=Plant) | N/A |
+| 42 | [Darius Garland](http://twitter.com/search?q=Darius+Garland) | N/A |
+| 43 | [Bomani](http://twitter.com/search?q=Bomani) | N/A |
+| 44 | [Thanks Satan](http://twitter.com/search?q=Thanks+Satan) | N/A |
+| 45 | [100 Democrats](http://twitter.com/search?q=100+Democrats) | N/A |
+| 46 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
+| 47 | [Little Giants](http://twitter.com/search?q=Little+Giants) | N/A |
+| 48 | [Cole Tucker](http://twitter.com/search?q=Cole+Tucker) | N/A |
+| 49 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
 
 
 

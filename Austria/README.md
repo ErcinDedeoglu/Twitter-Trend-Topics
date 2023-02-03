@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-02 23:17:23 UTC`
+📆 Last Updated: `2023-02-03 00:30:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Austria
 | 6 | [#ZiB2](http://twitter.com/search?q=%23ZiB2) | N/A |
 | 7 | [Sager](http://twitter.com/search?q=Sager) | N/A |
 | 8 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
-| 9 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
-| 10 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 11 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 12 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 9 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 10 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 11 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
+| 12 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
 | 13 | [Migrationshintergrund](http://twitter.com/search?q=Migrationshintergrund) | N/A |
-| 14 | [Profil](http://twitter.com/search?q=Profil) | N/A |
-| 15 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 16 | [SOS Mitmensch](http://twitter.com/search?q=SOS+Mitmensch) | N/A |
+| 14 | [Diplomaten](http://twitter.com/search?q=Diplomaten) | N/A |
+| 15 | [SOS Mitmensch](http://twitter.com/search?q=SOS+Mitmensch) | N/A |
+| 16 | [Masken](http://twitter.com/search?q=Masken) | N/A |
 | 17 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
 | 18 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 19 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 20 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 19 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 20 | [Heuchler](http://twitter.com/search?q=Heuchler) | N/A |
 | 21 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
 | 22 | [Zuwanderung](http://twitter.com/search?q=Zuwanderung) | N/A |
 | 23 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
-| 24 | [Heuchler](http://twitter.com/search?q=Heuchler) | N/A |
-| 25 | [#WildUmstritten](http://twitter.com/search?q=%23WildUmstritten) | N/A |
+| 24 | [#WildUmstritten](http://twitter.com/search?q=%23WildUmstritten) | N/A |
+| 25 | [Landesrat](http://twitter.com/search?q=Landesrat) | N/A |
 | 26 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 27 | [Landesrat](http://twitter.com/search?q=Landesrat) | N/A |
-| 28 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
-| 29 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 30 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
-| 31 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
+| 27 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
+| 28 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 29 | [Steuergeld](http://twitter.com/search?q=Steuergeld) | N/A |
+| 30 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
+| 31 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
 | 32 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 33 | [#Steiermark](http://twitter.com/search?q=%23Steiermark) | N/A |
+| 33 | [#steiermark](http://twitter.com/search?q=%23steiermark) | N/A |
 | 34 | [Wein](http://twitter.com/search?q=Wein) | N/A |
 | 35 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 36 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 37 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
-| 38 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 39 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
+| 36 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
+| 37 | [Verein](http://twitter.com/search?q=Verein) | N/A |
+| 38 | [Klimaschützer](http://twitter.com/search?q=Klimasch%c3%bctzer) | N/A |
+| 39 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
 | 40 | [#Klimakatastrophe](http://twitter.com/search?q=%23Klimakatastrophe) | N/A |
 | 41 | [Worten](http://twitter.com/search?q=Worten) | N/A |
-| 42 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
-| 43 | [Zähne](http://twitter.com/search?q=Z%c3%a4hne) | N/A |
-| 44 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
+| 42 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 43 | [Niveau](http://twitter.com/search?q=Niveau) | N/A |
+| 44 | [Zähne](http://twitter.com/search?q=Z%c3%a4hne) | N/A |
 | 45 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 46 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
-| 47 | [Strecke](http://twitter.com/search?q=Strecke) | N/A |
-| 48 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
+| 46 | [Strecke](http://twitter.com/search?q=Strecke) | N/A |
+| 47 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
+| 48 | [Schulklasse](http://twitter.com/search?q=Schulklasse) | N/A |
 | 49 | [Bundesheer](http://twitter.com/search?q=Bundesheer) | N/A |
-| 50 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 50 | [Profil](http://twitter.com/search?q=Profil) | N/A |
 
 
 
