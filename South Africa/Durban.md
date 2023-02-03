@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-02-03 11:17:37 UTC`
+📆 Last Updated: `2023-02-03 12:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
-| 2 | [#SharetheEpic](http://twitter.com/search?q=%23SharetheEpic) | N/A |
-| 3 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
-| 4 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 5 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 6 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 7 | [#FFSeltzer](http://twitter.com/search?q=%23FFSeltzer) | N/A |
-| 8 | [#ValentinesDay](http://twitter.com/search?q=%23ValentinesDay) | N/A |
-| 9 | [GOATED THABANG](http://twitter.com/search?q=GOATED+THABANG) | N/A |
-| 10 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
-| 11 | [Lady Zamar](http://twitter.com/search?q=Lady+Zamar) | N/A |
-| 12 | [Business Evolve Core](http://twitter.com/search?q=Business+Evolve+Core) | N/A |
-| 13 | [meneer cee](http://twitter.com/search?q=meneer+cee) | N/A |
-| 14 | [Kabza](http://twitter.com/search?q=Kabza) | N/A |
-| 15 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 1 | [#FlyDay](http://twitter.com/search?q=%23FlyDay) | N/A |
+| 2 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
+| 3 | [#FFSeltzer](http://twitter.com/search?q=%23FFSeltzer) | N/A |
+| 4 | [#SharetheEpic](http://twitter.com/search?q=%23SharetheEpic) | N/A |
+| 5 | [#SoftLifeSummer](http://twitter.com/search?q=%23SoftLifeSummer) | N/A |
+| 6 | [SA Tourism](http://twitter.com/search?q=SA+Tourism) | N/A |
+| 7 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 8 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 9 | [Rwanda](http://twitter.com/search?q=Rwanda) | N/A |
+| 10 | [Raspberry](http://twitter.com/search?q=Raspberry) | N/A |
+| 11 | [Business Evolve Core](http://twitter.com/search?q=Business+Evolve+Core) | N/A |
+| 12 | [Lady Zamar](http://twitter.com/search?q=Lady+Zamar) | N/A |
+| 13 | [GOATED THABANG](http://twitter.com/search?q=GOATED+THABANG) | N/A |
+| 14 | [meneer cee](http://twitter.com/search?q=meneer+cee) | N/A |
+| 15 | [Kabza](http://twitter.com/search?q=Kabza) | N/A |
 | 16 | [Themba Khumalo](http://twitter.com/search?q=Themba+Khumalo) | N/A |
-| 17 | [Cinnabon](http://twitter.com/search?q=Cinnabon) | N/A |
-| 18 | [Shop U50A](http://twitter.com/search?q=Shop+U50A) | N/A |
-| 19 | [Happy Jele](http://twitter.com/search?q=Happy+Jele) | N/A |
-| 20 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 21 | [rekere](http://twitter.com/search?q=rekere) | N/A |
-| 22 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 23 | [Bassie](http://twitter.com/search?q=Bassie) | N/A |
-| 24 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
-| 25 | [Identifies as African](http://twitter.com/search?q=Identifies+as+African) | N/A |
+| 17 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 18 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 19 | [Rekere](http://twitter.com/search?q=Rekere) | N/A |
+| 20 | [Happy Jele](http://twitter.com/search?q=Happy+Jele) | N/A |
+| 21 | [Kenny Kunene](http://twitter.com/search?q=Kenny+Kunene) | N/A |
+| 22 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
+| 23 | [Shop U50A](http://twitter.com/search?q=Shop+U50A) | N/A |
+| 24 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
+| 25 | [SABC](http://twitter.com/search?q=SABC) | N/A |
 | 26 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 27 | [SABC](http://twitter.com/search?q=SABC) | N/A |
-| 28 | [Gcinile](http://twitter.com/search?q=Gcinile) | N/A |
-| 29 | [Tourists](http://twitter.com/search?q=Tourists) | N/A |
-| 30 | [Sjava](http://twitter.com/search?q=Sjava) | N/A |
-| 31 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
-| 32 | [R1 Billion](http://twitter.com/search?q=R1+Billion) | N/A |
-| 33 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 35 | [Acting CEO](http://twitter.com/search?q=Acting+CEO) | N/A |
-| 36 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 37 | [Toss](http://twitter.com/search?q=Toss) | N/A |
-| 38 | [Jonathan Jansen](http://twitter.com/search?q=Jonathan+Jansen) | N/A |
-| 39 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
-| 40 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
-| 41 | [dj 8milli](http://twitter.com/search?q=dj+8milli) | N/A |
-| 42 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 27 | [Cinnabon](http://twitter.com/search?q=Cinnabon) | N/A |
+| 28 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 29 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 30 | [Identifies as African](http://twitter.com/search?q=Identifies+as+African) | N/A |
+| 31 | [r1 billion](http://twitter.com/search?q=r1+billion) | N/A |
+| 32 | [acting ceo](http://twitter.com/search?q=acting+ceo) | N/A |
+| 33 | [vote khosicle](http://twitter.com/search?q=vote+khosicle) | N/A |
+| 34 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 35 | [dj 8milli](http://twitter.com/search?q=dj+8milli) | N/A |
+| 36 | [Grootman](http://twitter.com/search?q=Grootman) | N/A |
+| 37 | [tourists](http://twitter.com/search?q=tourists) | N/A |
+| 38 | [Lindiwe Sisulu](http://twitter.com/search?q=Lindiwe+Sisulu) | N/A |
+| 39 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
+| 40 | [Toss](http://twitter.com/search?q=Toss) | N/A |
+| 41 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 42 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
 | 43 | [Zolani](http://twitter.com/search?q=Zolani) | N/A |
-| 44 | [Grootman](http://twitter.com/search?q=Grootman) | N/A |
-| 45 | [Sir Trill](http://twitter.com/search?q=Sir+Trill) | N/A |
-| 46 | [THEMBA MY INKED WORLD](http://twitter.com/search?q=THEMBA+MY+INKED+WORLD) | N/A |
-| 47 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 48 | [Umbuzo](http://twitter.com/search?q=Umbuzo) | N/A |
-| 49 | [THEMBABROLY ON MZANSI MAGIC](http://twitter.com/search?q=THEMBABROLY+ON+MZANSI+MAGIC) | N/A |
-| 50 | [orania](http://twitter.com/search?q=orania) | N/A |
+| 44 | [Sushi](http://twitter.com/search?q=Sushi) | N/A |
+| 45 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 46 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 47 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 48 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
+| 49 | [Orania](http://twitter.com/search?q=Orania) | N/A |
+| 50 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-03 11:17:38 UTC`
+📆 Last Updated: `2023-02-03 12:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
+| 1 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 2 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
 | 3 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
 | 4 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 5 | [#لمه_مع_احمد_وبهاج](http://twitter.com/search?q=%23%d9%84%d9%85%d9%87_%d9%85%d8%b9_%d8%a7%d8%ad%d9%85%d8%af_%d9%88%d8%a8%d9%87%d8%a7%d8%ac) | N/A |
-| 6 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 5 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
+| 6 | [#لمه_مع_احمد_وبهاج](http://twitter.com/search?q=%23%d9%84%d9%85%d9%87_%d9%85%d8%b9_%d8%a7%d8%ad%d9%85%d8%af_%d9%88%d8%a8%d9%87%d8%a7%d8%ac) | N/A |
 | 7 | [#زد_رصيدك11](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8311) | N/A |
 | 8 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 9 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 10 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 11 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 12 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 13 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 14 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 15 | [المناسبات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 16 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 17 | [نعيم دايم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
-| 18 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
-| 19 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 20 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 21 | [ابو احمد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
-| 22 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 23 | [قبر ابي](http://twitter.com/search?q=%d9%82%d8%a8%d8%b1+%d8%a7%d8%a8%d9%8a) | N/A |
-| 24 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
-| 25 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 26 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 27 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 28 | [نعيم الجنه](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 29 | [علي الرسول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%84) | N/A |
-| 30 | [الحرم المكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%85+%d8%a7%d9%84%d9%85%d9%83%d9%8a) | N/A |
-| 31 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
-| 32 | [#تركي_بن_سلمان_بن_عبدالعزيز](http://twitter.com/search?q=%23%d8%aa%d8%b1%d9%83%d9%8a_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d8%a8%d9%86_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 33 | [#جمعه_طيبه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
-| 34 | [#معنفه_شروره](http://twitter.com/search?q=%23%d9%85%d8%b9%d9%86%d9%81%d9%87_%d8%b4%d8%b1%d9%88%d8%b1%d9%87) | N/A |
-| 35 | [#سوره_الكهف](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%b1%d9%87_%d8%a7%d9%84%d9%83%d9%87%d9%81) | N/A |
-| 36 | [#البزنس59](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b359) | N/A |
-| 37 | [#النصر_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
-| 38 | [#ياسر_الدوسري](http://twitter.com/search?q=%23%d9%8a%d8%a7%d8%b3%d8%b1_%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
-| 39 | [#مصري_يقذف_السعوديين_بالزنا](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1%d9%8a_%d9%8a%d9%82%d8%b0%d9%81_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%8a%d9%86_%d8%a8%d8%a7%d9%84%d8%b2%d9%86%d8%a7) | N/A |
-| 40 | [#السعوديه_العظمي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%b8%d9%85%d9%8a) | N/A |
-| 41 | [#ريالتي_مع_نواف](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84%d8%aa%d9%8a_%d9%85%d8%b9_%d9%86%d9%88%d8%a7%d9%81) | N/A |
-| 42 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 43 | [#صلوا_عليه_وسلموا_تسليما](http://twitter.com/search?q=%23%d8%b5%d9%84%d9%88%d8%a7_%d8%b9%d9%84%d9%8a%d9%87_%d9%88%d8%b3%d9%84%d9%85%d9%88%d8%a7_%d8%aa%d8%b3%d9%84%d9%8a%d9%85%d8%a7) | N/A |
-| 44 | [#صلوا_علي_النبي](http://twitter.com/search?q=%23%d8%b5%d9%84%d9%88%d8%a7_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | N/A |
-| 45 | [#TAEHYUNGonSeojins](http://twitter.com/search?q=%23TAEHYUNGonSeojins) | N/A |
-| 46 | [#الصلاه_علي_النبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | N/A |
-| 47 | [#ماك_شروره](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%83_%d8%b4%d8%b1%d9%88%d8%b1%d9%87) | N/A |
-| 48 | [#احترقوا_لشعار_النصر](http://twitter.com/search?q=%23%d8%a7%d8%ad%d8%aa%d8%b1%d9%82%d9%88%d8%a7_%d9%84%d8%b4%d8%b9%d8%a7%d8%b1_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 49 | [#الهان_عمر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d8%a7%d9%86_%d8%b9%d9%85%d8%b1) | N/A |
-| 50 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 9 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 10 | [الفتح](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | الفتح is an Arabic word meaning "opening" or "unlocking". It can also refer to the conquest of a city or territory. |
+| 11 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 12 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 13 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 14 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 15 | [ياسر الدوسري](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 16 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 17 | [جمعه جامعه](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%87+%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
+| 18 | [النصر اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 19 | [جيمين](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d9%8a%d9%86) | N/A |
+| 20 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 21 | [ابن الوطن البار](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%a8%d8%a7%d8%b1) | N/A |
+| 22 | [نعيم دايم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 23 | [المناسبات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 24 | [علي اشرف الخلق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b4%d8%b1%d9%81+%d8%a7%d9%84%d8%ae%d9%84%d9%82) | N/A |
+| 25 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 26 | [الاحساء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%b3%d8%a7%d8%a1) | N/A |
+| 27 | [رفعت الايادي](http://twitter.com/search?q=%d8%b1%d9%81%d8%b9%d8%aa+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
+| 28 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 29 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
+| 30 | [يابو احمد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 31 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 32 | [دار السلام](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 33 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 34 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 35 | [قبر ابي](http://twitter.com/search?q=%d9%82%d8%a8%d8%b1+%d8%a7%d8%a8%d9%8a) | N/A |
+| 36 | [عبد مسلم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 37 | [الانفس الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b3+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 38 | [النقاط الثلاث](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab) | N/A |
+| 39 | [نعيم الجنه](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 40 | [الحرم المكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%85+%d8%a7%d9%84%d9%85%d9%83%d9%8a) | N/A |
+| 41 | [علي الرسول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%84) | N/A |
+| 42 | [موسي نضاو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%86%d8%b6%d8%a7%d9%88) | N/A |
+| 43 | [#تركي_بن_سلمان_بن_عبدالعزيز](http://twitter.com/search?q=%23%d8%aa%d8%b1%d9%83%d9%8a_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d8%a8%d9%86_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 44 | [#لولا_انه_كان_من_المسبحين2](http://twitter.com/search?q=%23%d9%84%d9%88%d9%84%d8%a7_%d8%a7%d9%86%d9%87_%d9%83%d8%a7%d9%86_%d9%85%d9%86_%d8%a7%d9%84%d9%85%d8%b3%d8%a8%d8%ad%d9%8a%d9%862) | N/A |
+| 45 | [#الدعاء_لموتاكم_حق_لهم](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1_%d9%84%d9%85%d9%88%d8%aa%d8%a7%d9%83%d9%85_%d8%ad%d9%82_%d9%84%d9%87%d9%85) | N/A |
+| 46 | [#تغريده_حسانات_لاخرتك](http://twitter.com/search?q=%23%d8%aa%d8%ba%d8%b1%d9%8a%d8%af%d9%87_%d8%ad%d8%b3%d8%a7%d9%86%d8%a7%d8%aa_%d9%84%d8%a7%d8%ae%d8%b1%d8%aa%d9%83) | N/A |
+| 47 | [#البزنس59](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b359) | N/A |
+| 48 | [#جمعه_طيبه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 49 | [#معنفه_شروره](http://twitter.com/search?q=%23%d9%85%d8%b9%d9%86%d9%81%d9%87_%d8%b4%d8%b1%d9%88%d8%b1%d9%87) | N/A |
+| 50 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
 
 
 

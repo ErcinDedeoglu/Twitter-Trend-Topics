@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-03 11:17:25 UTC`
+📆 Last Updated: `2023-02-03 12:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Italy](</Italy>)
 | 8 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
 | 9 | [41bis](http://twitter.com/search?q=41bis) | N/A |
 | 10 | [San Biagio](http://twitter.com/search?q=San+Biagio) | N/A |
-| 11 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 12 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 13 | [suor angela](http://twitter.com/search?q=suor+angela) | N/A |
-| 14 | [Campania](http://twitter.com/search?q=Campania) | N/A |
-| 15 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 11 | [suor angela](http://twitter.com/search?q=suor+angela) | N/A |
+| 12 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 13 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 14 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 15 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
 | 16 | [Investcorp](http://twitter.com/search?q=Investcorp) | N/A |
-| 17 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 18 | [Cedric](http://twitter.com/search?q=Cedric) | N/A |
-| 19 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 20 | [Maximiano](http://twitter.com/search?q=Maximiano) | N/A |
-| 21 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
-| 22 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 23 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 24 | [Magda](http://twitter.com/search?q=Magda) | N/A |
-| 25 | [Edoardo e Micol](http://twitter.com/search?q=Edoardo+e+Micol) | N/A |
-| 26 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
-| 27 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 28 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
+| 17 | [Cedric](http://twitter.com/search?q=Cedric) | N/A |
+| 18 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
+| 19 | [Campania](http://twitter.com/search?q=Campania) | N/A |
+| 20 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 21 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
+| 22 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
+| 23 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 24 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 25 | [Maximiano](http://twitter.com/search?q=Maximiano) | N/A |
+| 26 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 27 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 28 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
 | 29 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 30 | [UEFA](http://twitter.com/search?q=UEFA) | N/A |
-| 31 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
-| 32 | [Scarpinato](http://twitter.com/search?q=Scarpinato) | N/A |
-| 33 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 34 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 35 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 36 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 37 | [Roby Facchinetti](http://twitter.com/search?q=Roby+Facchinetti) | N/A |
-| 38 | [Cinzia](http://twitter.com/search?q=Cinzia) | N/A |
-| 39 | [locatelli](http://twitter.com/search?q=locatelli) | N/A |
-| 40 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
-| 41 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 42 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
-| 43 | [Rita Pavone](http://twitter.com/search?q=Rita+Pavone) | N/A |
-| 44 | [Bentornato](http://twitter.com/search?q=Bentornato) | N/A |
-| 45 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 46 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
-| 47 | [Simone Weil](http://twitter.com/search?q=Simone+Weil) | N/A |
-| 48 | [ollivier](http://twitter.com/search?q=ollivier) | N/A |
-| 49 | [Patric](http://twitter.com/search?q=Patric) | N/A |
-| 50 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 30 | [Stalingrado](http://twitter.com/search?q=Stalingrado) | N/A |
+| 31 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 32 | [Magda](http://twitter.com/search?q=Magda) | N/A |
+| 33 | [Cinzia](http://twitter.com/search?q=Cinzia) | N/A |
+| 34 | [Edoardo e Micol](http://twitter.com/search?q=Edoardo+e+Micol) | N/A |
+| 35 | [Scarpinato](http://twitter.com/search?q=Scarpinato) | N/A |
+| 36 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 37 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 38 | [Patric](http://twitter.com/search?q=Patric) | N/A |
+| 39 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 40 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 41 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 42 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 43 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
+| 44 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 45 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 46 | [Del Debbio](http://twitter.com/search?q=Del+Debbio) | N/A |
+| 47 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 48 | [Trigoria](http://twitter.com/search?q=Trigoria) | N/A |
+| 49 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
+| 50 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
 
 
 

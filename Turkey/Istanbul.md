@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-03 11:17:45 UTC`
+📆 Last Updated: `2023-02-03 12:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ümit Özlale](http://twitter.com/search?q=%c3%9cmit+%c3%96zlale) | Ümit Özlale is a Turkish name, composed of two words: "Ümit" and "Özlale". "Ümit" means "hope" in Turkish, while "Özlale" is a combination of the words "öz" (meaning "self") and "lale" (meaning "tulip"). Therefore, the literal translation of Ümit Özlale is "Hope Tulip". |
-| 2 | [#gsbyurtlarıkampta](http://twitter.com/search?q=%23gsbyurtlar%c4%b1kampta) | N/A |
-| 3 | [#AliKocİstifa](http://twitter.com/search?q=%23AliKoc%c4%b0stifa) | N/A |
-| 4 | [Erzurum](http://twitter.com/search?q=Erzurum) | N/A |
-| 5 | [yipratacağimiz adayiniz kim](http://twitter.com/search?q=yiprataca%c4%9fimiz+adayiniz+kim) | N/A |
-| 6 | [#MilleteŞartKoyamazsınız](http://twitter.com/search?q=%23Millete%c5%9eartKoyamazs%c4%b1n%c4%b1z) | N/A |
-| 7 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
-| 8 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 9 | [#BurasıBeşiktaşSeyitAteş](http://twitter.com/search?q=%23Buras%c4%b1Be%c5%9fikta%c5%9fSeyitAte%c5%9f) | N/A |
-| 10 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
-| 11 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
-| 12 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
-| 13 | [ENAG](http://twitter.com/search?q=ENAG) | N/A |
-| 14 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
-| 15 | [Ataşehir Belediyesi'ne](http://twitter.com/search?q=Ata%c5%9fehir+Belediyesi%27ne) | Ataşehir Belediyesi'ne is the name of a municipality in Istanbul, Turkey. In English, it translates to Ataşehir Municipality. |
+| 2 | [#GSBYurtlarıKampta](http://twitter.com/search?q=%23GSBYurtlar%c4%b1Kampta) | N/A |
+| 3 | [#2000LereADALET](http://twitter.com/search?q=%232000LereADALET) | N/A |
+| 4 | [#MilleteŞartKoyamazsınız](http://twitter.com/search?q=%23Millete%c5%9eartKoyamazs%c4%b1n%c4%b1z) | N/A |
+| 5 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
+| 6 | [#BurasıBeşiktaşSeyitAteş](http://twitter.com/search?q=%23Buras%c4%b1Be%c5%9fikta%c5%9fSeyitAte%c5%9f) | N/A |
+| 7 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 8 | [Hakan Ural](http://twitter.com/search?q=Hakan+Ural) | Hakan Ural is a Turkish name. It is composed of two words: "Hakan" which means "ruler" and "Ural" which means "mountain". In English, the name Hakan Ural can be translated to mean "Ruler of the Mountain". |
+| 9 | [Kerim Rahmi Koç](http://twitter.com/search?q=Kerim+Rahmi+Ko%c3%a7) | N/A |
+| 10 | [TÜİK](http://twitter.com/search?q=T%c3%9c%c4%b0K) | TÜİK stands for Turkish Statistical Institute (Turk Statistik Kurumu in Turkish). It is the official government agency responsible for collecting, processing, analyzing and publishing statistical data on the economy and society of Turkey. |
+| 11 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
+| 12 | [ENAG](http://twitter.com/search?q=ENAG) | N/A |
+| 13 | [Ataşehir Belediyesi'ne](http://twitter.com/search?q=Ata%c5%9fehir+Belediyesi%27ne) | Ataşehir Belediyesi'ne is the name of a municipality in Istanbul, Turkey. In English, it translates to Ataşehir Municipality. |
+| 14 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
+| 15 | [Sultan Korusu](http://twitter.com/search?q=Sultan+Korusu) | N/A |
 | 16 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
-| 17 | [EbruÇimen Osurdu](http://twitter.com/search?q=Ebru%c3%87imen+Osurdu) | EbruÇimen Osurdu is a Turkish phrase that translates to "the painting has dried". It is used to describe the process of a painting drying after it has been completed. |
-| 18 | [TÜFE](http://twitter.com/search?q=T%c3%9cFE) | N/A |
-| 19 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
-| 20 | [Kısır](http://twitter.com/search?q=K%c4%b1s%c4%b1r) | N/A |
-| 21 | [Murat Sancak](http://twitter.com/search?q=Murat+Sancak) | N/A |
-| 22 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
+| 17 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
+| 18 | [Kısır](http://twitter.com/search?q=K%c4%b1s%c4%b1r) | N/A |
+| 19 | [Erzurum](http://twitter.com/search?q=Erzurum) | N/A |
+| 20 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 21 | [Ben Kemal Geliyorum](http://twitter.com/search?q=Ben+Kemal+Geliyorum) | N/A |
+| 22 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
 | 23 | [Ligden](http://twitter.com/search?q=Ligden) | Ligden is a Tibetan Buddhist term that refers to the process of liberation from the cycle of death and rebirth. It is the goal of many Buddhists to achieve this state, which is seen as a form of enlightenment. In English, it can be translated as "liberation from samsara". |
-| 24 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
-| 25 | [Çavuşoğlu](http://twitter.com/search?q=%c3%87avu%c5%9fo%c4%9flu) | N/A |
-| 26 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
-| 27 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
-| 28 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
-| 29 | [Lütfü](http://twitter.com/search?q=L%c3%bctf%c3%bc) | N/A |
-| 30 | [Beter](http://twitter.com/search?q=Beter) | N/A |
-| 31 | [Tencere](http://twitter.com/search?q=Tencere) | N/A |
+| 24 | [TÜFE](http://twitter.com/search?q=T%c3%9cFE) | N/A |
+| 25 | [Kenan Sofuoğlu](http://twitter.com/search?q=Kenan+Sofuo%c4%9flu) | N/A |
+| 26 | [Çavuşoğlu](http://twitter.com/search?q=%c3%87avu%c5%9fo%c4%9flu) | N/A |
+| 27 | [Lütfü](http://twitter.com/search?q=L%c3%bctf%c3%bc) | N/A |
+| 28 | [BETER OLUN](http://twitter.com/search?q=BETER+OLUN) | N/A |
+| 29 | [Murat Sancak](http://twitter.com/search?q=Murat+Sancak) | N/A |
+| 30 | [Aydos Kalesi](http://twitter.com/search?q=Aydos+Kalesi) | N/A |
+| 31 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
 | 32 | [Dünkü](http://twitter.com/search?q=D%c3%bcnk%c3%bc) | N/A |
-| 33 | [Görevini](http://twitter.com/search?q=G%c3%b6revini) | N/A |
-| 34 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 35 | [hakemi](http://twitter.com/search?q=hakemi) | N/A |
-| 36 | [Günaydın Can](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Can) | N/A |
-| 37 | [Şike](http://twitter.com/search?q=%c5%9eike) | N/A |
-| 38 | [Taner](http://twitter.com/search?q=Taner) | N/A |
-| 39 | [Hakemlerde](http://twitter.com/search?q=Hakemlerde) | N/A |
-| 40 | [Pembe](http://twitter.com/search?q=Pembe) | N/A |
-| 41 | [#StajınAdıYok](http://twitter.com/search?q=%23Staj%c4%b1nAd%c4%b1Yok) | N/A |
-| 42 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
-| 43 | [#SporAjansı](http://twitter.com/search?q=%23SporAjans%c4%b1) | N/A |
-| 44 | [#CürufTehlikedir](http://twitter.com/search?q=%23C%c3%bcrufTehlikedir) | N/A |
-| 45 | [#gubrf](http://twitter.com/search?q=%23gubrf) | N/A |
-| 46 | [#CumamızMubarekOlsun](http://twitter.com/search?q=%23Cumam%c4%b1zMubarekOlsun) | N/A |
-| 47 | [#KılıçdaroğluÇalarSaatte](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9flu%c3%87alarSaatte) | N/A |
-| 48 | [#GSvTS](http://twitter.com/search?q=%23GSvTS) | N/A |
-| 49 | [#hakkımıhelaletmiyorum](http://twitter.com/search?q=%23hakk%c4%b1m%c4%b1helaletmiyorum) | N/A |
-| 50 | [#AdanadaKapKaraGece](http://twitter.com/search?q=%23AdanadaKapKaraGece) | N/A |
+| 33 | [tencere](http://twitter.com/search?q=tencere) | N/A |
+| 34 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
+| 35 | [Hakemi](http://twitter.com/search?q=Hakemi) | N/A |
+| 36 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
+| 37 | [Görevini](http://twitter.com/search?q=G%c3%b6revini) | N/A |
+| 38 | [Hadise](http://twitter.com/search?q=Hadise) | N/A |
+| 39 | [4 Şubat Cumartesi](http://twitter.com/search?q=4+%c5%9eubat+Cumartesi) | N/A |
+| 40 | [ŞİKE](http://twitter.com/search?q=%c5%9e%c4%b0KE) | N/A |
+| 41 | [Pembe](http://twitter.com/search?q=Pembe) | N/A |
+| 42 | [Taner](http://twitter.com/search?q=Taner) | N/A |
+| 43 | [#SultanbeyliHazır](http://twitter.com/search?q=%23SultanbeyliHaz%c4%b1r) | N/A |
+| 44 | [#MühendiseMHPsözü](http://twitter.com/search?q=%23M%c3%bchendiseMHPs%c3%b6z%c3%bc) | N/A |
+| 45 | [#Osmaniye](http://twitter.com/search?q=%23Osmaniye) | N/A |
+| 46 | [#StajınAdıYok](http://twitter.com/search?q=%23Staj%c4%b1nAd%c4%b1Yok) | N/A |
+| 47 | [#hakkımıhelaletmiyorum](http://twitter.com/search?q=%23hakk%c4%b1m%c4%b1helaletmiyorum) | N/A |
+| 48 | [#CürufTehlikedir](http://twitter.com/search?q=%23C%c3%bcrufTehlikedir) | N/A |
+| 49 | [#SporAjansı](http://twitter.com/search?q=%23SporAjans%c4%b1) | N/A |
+| 50 | [#tjktvyariszamani](http://twitter.com/search?q=%23tjktvyariszamani) | N/A |
 
 
 

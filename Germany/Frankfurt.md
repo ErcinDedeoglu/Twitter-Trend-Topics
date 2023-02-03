@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-02-03 11:17:24 UTC`
+📆 Last Updated: `2023-02-03 12:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#Faeser](http://twitter.com/search?q=%23Faeser) | N/A |
 | 2 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 3 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 4 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 5 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 6 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
-| 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 8 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 9 | [Gronkh](http://twitter.com/search?q=Gronkh) | N/A |
+| 4 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 5 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 6 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 7 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
+| 8 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 9 | [gronkh](http://twitter.com/search?q=gronkh) | N/A |
 | 10 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 11 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 12 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 13 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 14 | [Schwebe](http://twitter.com/search?q=Schwebe) | N/A |
-| 15 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 16 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 17 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 18 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 19 | [#Stalingrad](http://twitter.com/search?q=%23Stalingrad) | N/A |
-| 20 | [#m05fcb](http://twitter.com/search?q=%23m05fcb) | N/A |
-| 21 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 22 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
+| 11 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 12 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
+| 15 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 16 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
+| 17 | [#m05fcb](http://twitter.com/search?q=%23m05fcb) | N/A |
+| 18 | [#Stalingrad](http://twitter.com/search?q=%23Stalingrad) | N/A |
+| 19 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 20 | [Schwebe](http://twitter.com/search?q=Schwebe) | N/A |
+| 21 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 22 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
 | 23 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 24 | [metzger](http://twitter.com/search?q=metzger) | N/A |
-| 25 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 26 | [Filz](http://twitter.com/search?q=Filz) | N/A |
-| 27 | [Ministerpräsidentin](http://twitter.com/search?q=Ministerpr%c3%a4sidentin) | N/A |
-| 28 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 30 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
-| 31 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
-| 32 | [Bildungsnotstand](http://twitter.com/search?q=Bildungsnotstand) | N/A |
-| 33 | [Faktenfuchs](http://twitter.com/search?q=Faktenfuchs) | N/A |
-| 34 | [Ministeramt](http://twitter.com/search?q=Ministeramt) | N/A |
-| 35 | [Klimaautobahn](http://twitter.com/search?q=Klimaautobahn) | N/A |
-| 36 | [Transmenschen](http://twitter.com/search?q=Transmenschen) | N/A |
-| 37 | [Ämter](http://twitter.com/search?q=%c3%84mter) | N/A |
-| 38 | [Ordnungsmacht](http://twitter.com/search?q=Ordnungsmacht) | N/A |
-| 39 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
-| 40 | [Grupp](http://twitter.com/search?q=Grupp) | N/A |
+| 24 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 25 | [Derzeitiger Job](http://twitter.com/search?q=Derzeitiger+Job) | N/A |
+| 26 | [Privatperson](http://twitter.com/search?q=Privatperson) | N/A |
+| 27 | [Bildungsnotstand](http://twitter.com/search?q=Bildungsnotstand) | N/A |
+| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 29 | [Metzger](http://twitter.com/search?q=Metzger) | N/A |
+| 30 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 31 | [Erster Job](http://twitter.com/search?q=Erster+Job) | N/A |
+| 32 | [ministerpräsidentin](http://twitter.com/search?q=ministerpr%c3%a4sidentin) | N/A |
+| 33 | [Filz](http://twitter.com/search?q=Filz) | N/A |
+| 34 | [Jägerschnitzel](http://twitter.com/search?q=J%c3%a4gerschnitzel) | N/A |
+| 35 | [Geschlechter](http://twitter.com/search?q=Geschlechter) | N/A |
+| 36 | [Ingenieure](http://twitter.com/search?q=Ingenieure) | N/A |
+| 37 | [Faktenfuchs](http://twitter.com/search?q=Faktenfuchs) | N/A |
+| 38 | [Grupp](http://twitter.com/search?q=Grupp) | N/A |
+| 39 | [ministeramt](http://twitter.com/search?q=ministeramt) | N/A |
+| 40 | [Discounter](http://twitter.com/search?q=Discounter) | N/A |
 | 41 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 42 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
+| 42 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
 | 43 | [Maßnahmen](http://twitter.com/search?q=Ma%c3%9fnahmen) | N/A |
-| 44 | [Grundängsten](http://twitter.com/search?q=Grund%c3%a4ngsten) | N/A |
-| 45 | [Trauerrede](http://twitter.com/search?q=Trauerrede) | N/A |
-| 46 | [Kandidatur](http://twitter.com/search?q=Kandidatur) | N/A |
-| 47 | [Brandmauer](http://twitter.com/search?q=Brandmauer) | N/A |
-| 48 | [Flug](http://twitter.com/search?q=Flug) | N/A |
-| 49 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 50 | [Whataboutism](http://twitter.com/search?q=Whataboutism) | N/A |
+| 44 | [Transmenschen](http://twitter.com/search?q=Transmenschen) | N/A |
+| 45 | [Honig](http://twitter.com/search?q=Honig) | N/A |
+| 46 | [Ämter](http://twitter.com/search?q=%c3%84mter) | N/A |
+| 47 | [Kandidatur](http://twitter.com/search?q=Kandidatur) | N/A |
+| 48 | [Thüringen](http://twitter.com/search?q=Th%c3%bcringen) | N/A |
+| 49 | [Transfeindlichkeit](http://twitter.com/search?q=Transfeindlichkeit) | N/A |
+| 50 | [Sally Perel](http://twitter.com/search?q=Sally+Perel) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-03 11:17:21 UTC`
+📆 Last Updated: `2023-02-03 12:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 1 | [#TuskZnaczyBieda](http://twitter.com/search?q=%23TuskZnaczyBieda) | N/A |
 | 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 3 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
-| 4 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 5 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 6 | [#SugarRushRide2ndWin](http://twitter.com/search?q=%23SugarRushRide2ndWin) | #SugarRushRide2ndWin is a hashtag used to celebrate a second win in the Sugar Rush Ride game. It is used to share excitement and congratulate the winner. |
+| 3 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 4 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
+| 5 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
+| 6 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
 | 7 | [#SuperTyp](http://twitter.com/search?q=%23SuperTyp) | N/A |
-| 8 | [Znachor](http://twitter.com/search?q=Znachor) | N/A |
-| 9 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 8 | [Leopard 1](http://twitter.com/search?q=Leopard+1) | N/A |
+| 9 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
 | 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 11 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 12 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
-| 13 | [Onetu](http://twitter.com/search?q=Onetu) | N/A |
-| 14 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 15 | [Gual](http://twitter.com/search?q=Gual) | N/A |
-| 16 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 17 | [Wilczur](http://twitter.com/search?q=Wilczur) | N/A |
-| 18 | [Konstytucji](http://twitter.com/search?q=Konstytucji) | N/A |
-| 19 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 20 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 21 | [Beverly](http://twitter.com/search?q=Beverly) | N/A |
-| 22 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 23 | [kacper tomasiak](http://twitter.com/search?q=kacper+tomasiak) | N/A |
-| 24 | [Lenin](http://twitter.com/search?q=Lenin) | N/A |
-| 25 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
-| 26 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 27 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 28 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
-| 29 | [Łyżwy](http://twitter.com/search?q=%c5%81y%c5%bcwy) | N/A |
-| 30 | [Szczurek](http://twitter.com/search?q=Szczurek) | N/A |
-| 31 | [Kanady](http://twitter.com/search?q=Kanady) | N/A |
-| 32 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 33 | [Kowal](http://twitter.com/search?q=Kowal) | N/A |
-| 34 | [Norwegii](http://twitter.com/search?q=Norwegii) | N/A |
-| 35 | [Dulkiewicz](http://twitter.com/search?q=Dulkiewicz) | N/A |
-| 36 | [AgroUnia](http://twitter.com/search?q=AgroUnia) | N/A |
-| 37 | [Greenwooda](http://twitter.com/search?q=Greenwooda) | N/A |
-| 38 | [Pisiory](http://twitter.com/search?q=Pisiory) | N/A |
-| 39 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 40 | [Jan Habdas](http://twitter.com/search?q=Jan+Habdas) | N/A |
-| 41 | [Podróże](http://twitter.com/search?q=Podr%c3%b3%c5%bce) | N/A |
-| 42 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 43 | [Rząd](http://twitter.com/search?q=Rz%c4%85d) | N/A |
-| 44 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 45 | [Maćku](http://twitter.com/search?q=Ma%c4%87ku) | N/A |
-| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 47 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
-| 48 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 49 | [robert kubica](http://twitter.com/search?q=robert+kubica) | N/A |
+| 11 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 12 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 13 | [Onet](http://twitter.com/search?q=Onet) | N/A |
+| 14 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 15 | [Szczurek](http://twitter.com/search?q=Szczurek) | N/A |
+| 16 | [Wilczur](http://twitter.com/search?q=Wilczur) | N/A |
+| 17 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 18 | [Kacper Tomasiak](http://twitter.com/search?q=Kacper+Tomasiak) | N/A |
+| 19 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
+| 20 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 21 | [Norwegii](http://twitter.com/search?q=Norwegii) | N/A |
+| 22 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 23 | [Rosja](http://twitter.com/search?q=Rosja) | N/A |
+| 24 | [Łyżwy](http://twitter.com/search?q=%c5%81y%c5%bcwy) | N/A |
+| 25 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 26 | [kowal](http://twitter.com/search?q=kowal) | N/A |
+| 27 | [Dulkiewicz](http://twitter.com/search?q=Dulkiewicz) | N/A |
+| 28 | [Wojsko](http://twitter.com/search?q=Wojsko) | N/A |
+| 29 | [gual](http://twitter.com/search?q=gual) | N/A |
+| 30 | [Rząd](http://twitter.com/search?q=Rz%c4%85d) | N/A |
+| 31 | [AgroUnia](http://twitter.com/search?q=AgroUnia) | N/A |
+| 32 | [Greenwooda](http://twitter.com/search?q=Greenwooda) | N/A |
+| 33 | [Pisiory](http://twitter.com/search?q=Pisiory) | N/A |
+| 34 | [Robert Kubica](http://twitter.com/search?q=Robert+Kubica) | N/A |
+| 35 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
+| 36 | [pięknego](http://twitter.com/search?q=pi%c4%99knego) | N/A |
+| 37 | [Marta](http://twitter.com/search?q=Marta) | N/A |
+| 38 | [Dla Ciebie](http://twitter.com/search?q=Dla+Ciebie) | N/A |
+| 39 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 40 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 41 | [Jan Habdas](http://twitter.com/search?q=Jan+Habdas) | N/A |
+| 42 | [Złodzieje](http://twitter.com/search?q=Z%c5%82odzieje) | N/A |
+| 43 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 44 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 45 | [syrii](http://twitter.com/search?q=syrii) | N/A |
+| 46 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 47 | [Podróże](http://twitter.com/search?q=Podr%c3%b3%c5%bce) | N/A |
+| 48 | [rzymkowski](http://twitter.com/search?q=rzymkowski) | N/A |
+| 49 | [Ukraińca](http://twitter.com/search?q=Ukrai%c5%84ca) | N/A |
 
 
 

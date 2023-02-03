@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-03 11:17:49 UTC`
+📆 Last Updated: `2023-02-03 12:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#China](http://twitter.com/search?q=%23China) | N/A |
-| 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 2 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
 | 3 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 4 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 5 | [#SugarRushRide2ndWin](http://twitter.com/search?q=%23SugarRushRide2ndWin) | #SugarRushRide2ndWin is a hashtag used to celebrate a second win in the Sugar Rush Ride game. It is used to share excitement and congratulate the winner. |
-| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 7 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 8 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
-| 9 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 10 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
-| 11 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 12 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
-| 13 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
-| 14 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 15 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 16 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 17 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 18 | [vicks](http://twitter.com/search?q=vicks) | N/A |
-| 19 | [Azuolas Tubelis](http://twitter.com/search?q=Azuolas+Tubelis) | N/A |
-| 20 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
-| 21 | [Maki](http://twitter.com/search?q=Maki) | N/A |
-| 22 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 23 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 24 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 25 | [Knockout City](http://twitter.com/search?q=Knockout+City) | N/A |
-| 26 | [ICBM](http://twitter.com/search?q=ICBM) | N/A |
-| 27 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 28 | [Corpse](http://twitter.com/search?q=Corpse) | N/A |
-| 29 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
-| 30 | [Brian Dawkins](http://twitter.com/search?q=Brian+Dawkins) | N/A |
-| 31 | [Semitic](http://twitter.com/search?q=Semitic) | N/A |
-| 32 | [Billings](http://twitter.com/search?q=Billings) | N/A |
-| 33 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 34 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 35 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 4 | [Daily Quordle 375](http://twitter.com/search?q=Daily+Quordle+375) | N/A |
+| 5 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
+| 6 | [#Wordle594](http://twitter.com/search?q=%23Wordle594) | N/A |
+| 7 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 8 | [#GoRedForWomen](http://twitter.com/search?q=%23GoRedForWomen) | N/A |
+| 9 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 10 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 11 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 12 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 13 | [The Chinese](http://twitter.com/search?q=The+Chinese) | N/A |
+| 14 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 15 | [Pentagon](http://twitter.com/search?q=Pentagon) | N/A |
+| 16 | [Buddy Holly](http://twitter.com/search?q=Buddy+Holly) | N/A |
+| 17 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 18 | [Vicks](http://twitter.com/search?q=Vicks) | N/A |
+| 19 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 20 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 21 | [Debate](http://twitter.com/search?q=Debate) | N/A |
+| 22 | [Dodgeball](http://twitter.com/search?q=Dodgeball) | N/A |
+| 23 | [Sixto](http://twitter.com/search?q=Sixto) | N/A |
+| 24 | [Ilhan](http://twitter.com/search?q=Ilhan) | N/A |
+| 25 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 26 | [Brian Dawkins](http://twitter.com/search?q=Brian+Dawkins) | N/A |
+| 27 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
+| 28 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 29 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 30 | [Maki](http://twitter.com/search?q=Maki) | N/A |
+| 31 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
+| 32 | [The Squad](http://twitter.com/search?q=The+Squad) | N/A |
+| 33 | [Semitic](http://twitter.com/search?q=Semitic) | N/A |
+| 34 | [Skinamarink](http://twitter.com/search?q=Skinamarink) | N/A |
+| 35 | [corpse](http://twitter.com/search?q=corpse) | N/A |
 | 36 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 37 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 38 | [Halliburton](http://twitter.com/search?q=Halliburton) | N/A |
-| 39 | [#Wordle594](http://twitter.com/search?q=%23Wordle594) | N/A |
-| 40 | [#undertheweather](http://twitter.com/search?q=%23undertheweather) | N/A |
-| 41 | [#GoRedForWomen](http://twitter.com/search?q=%23GoRedForWomen) | N/A |
-| 42 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 43 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
-| 44 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 45 | [#skinamarink](http://twitter.com/search?q=%23skinamarink) | N/A |
-| 46 | [#HarlemOnPrime](http://twitter.com/search?q=%23HarlemOnPrime) | N/A |
-| 47 | [#KnockAtTheCabin](http://twitter.com/search?q=%23KnockAtTheCabin) | N/A |
+| 37 | [Knockout City](http://twitter.com/search?q=Knockout+City) | N/A |
+| 38 | [Drama](http://twitter.com/search?q=Drama) | N/A |
+| 39 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 40 | [Spida](http://twitter.com/search?q=Spida) | Spida is a slang term used to refer to someone who is very agile and quick. It is derived from the word "spider," which is often associated with being able to move quickly and efficiently. In English, it can be used to describe someone who is fast and nimble. |
+| 41 | [Billings](http://twitter.com/search?q=Billings) | N/A |
+| 42 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 43 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 44 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 45 | [#NationalWearRedDay](http://twitter.com/search?q=%23NationalWearRedDay) | N/A |
+| 46 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 47 | [#SugarRushRide2ndWin](http://twitter.com/search?q=%23SugarRushRide2ndWin) | #SugarRushRide2ndWin is a hashtag used to celebrate a second win in the Sugar Rush Ride game. It is used to share excitement and congratulate the winner. |
 
 
 
