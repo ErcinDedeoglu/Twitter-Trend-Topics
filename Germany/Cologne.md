@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-04 18:16:48 UTC`
+📆 Last Updated: `2023-02-04 19:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 1 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
 | 2 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
 | 3 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
-| 4 | [#SGEBSC](http://twitter.com/search?q=%23SGEBSC) | N/A |
+| 4 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
 | 5 | [#alleseurovision](http://twitter.com/search?q=%23alleseurovision) | N/A |
-| 6 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
-| 7 | [#BOCTSG](http://twitter.com/search?q=%23BOCTSG) | N/A |
+| 6 | [#SGEBSC](http://twitter.com/search?q=%23SGEBSC) | N/A |
+| 7 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
 | 8 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 9 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 10 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 11 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 14 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 15 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 16 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 17 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 19 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 20 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
-| 21 | [Breitenreiter](http://twitter.com/search?q=Breitenreiter) | N/A |
-| 22 | [Streich](http://twitter.com/search?q=Streich) | N/A |
-| 23 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 24 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 25 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 26 | [Freiburger](http://twitter.com/search?q=Freiburger) | N/A |
-| 27 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 28 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 29 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 30 | [Apfel](http://twitter.com/search?q=Apfel) | N/A |
-| 31 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 32 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 33 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
-| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 35 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 36 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
-| 37 | [Hafermilch](http://twitter.com/search?q=Hafermilch) | N/A |
-| 38 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 39 | [Pille](http://twitter.com/search?q=Pille) | N/A |
-| 40 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
-| 41 | [#KOERBL](http://twitter.com/search?q=%23KOERBL) | N/A |
-| 42 | [#FCUM05](http://twitter.com/search?q=%23FCUM05) | N/A |
-| 43 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 44 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
-| 45 | [#WOLLIV](http://twitter.com/search?q=%23WOLLIV) | #WOLLIV is an acronym for "We Only Live Life In Vibes," which is a phrase used to express the idea that life should be lived with positive energy and enthusiasm. |
-| 46 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
-| 47 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
-| 48 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
-| 49 | [#SGDHFC](http://twitter.com/search?q=%23SGDHFC) | N/A |
+| 9 | [#KOERBL](http://twitter.com/search?q=%23KOERBL) | N/A |
+| 10 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 11 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 12 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 13 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 14 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
+| 15 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 16 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 17 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 18 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 20 | [Alkoholiker](http://twitter.com/search?q=Alkoholiker) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 23 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 24 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
+| 25 | [Breitenreiter](http://twitter.com/search?q=Breitenreiter) | N/A |
+| 26 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 27 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 28 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 29 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 30 | [Regal](http://twitter.com/search?q=Regal) | N/A |
+| 31 | [Hafermilch](http://twitter.com/search?q=Hafermilch) | N/A |
+| 32 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 33 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 34 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 35 | [Apfel](http://twitter.com/search?q=Apfel) | N/A |
+| 36 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 37 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 38 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 39 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
+| 40 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 41 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 42 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 43 | [Flaschen](http://twitter.com/search?q=Flaschen) | N/A |
+| 44 | [Pille](http://twitter.com/search?q=Pille) | N/A |
+| 45 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 46 | [#BOCTSG](http://twitter.com/search?q=%23BOCTSG) | N/A |
+| 47 | [#FCUM05](http://twitter.com/search?q=%23FCUM05) | N/A |
+| 48 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 49 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
+| 50 | [#meinVfL](http://twitter.com/search?q=%23meinVfL) | N/A |
 
 
 

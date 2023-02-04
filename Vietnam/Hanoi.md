@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-04 18:16:59 UTC`
+📆 Last Updated: `2023-02-04 19:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 4 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
 | 5 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
 | 6 | [#배켜니_보답_받을준비완료](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%eb%b3%b4%eb%8b%b5_%eb%b0%9b%ec%9d%84%ec%a4%80%eb%b9%84%ec%99%84%eb%a3%8c) | "#배켜니_보답_받을준비완료" is a hashtag used on social media in South Korea. It translates to "Ready to receive a response from Baekeuni". Baekeuni is a popular South Korean singer and the hashtag is used by her fans to show their support and anticipation for her upcoming releases. |
-| 7 | [isekaibattle ticket](http://twitter.com/search?q=isekaibattle+ticket) | N/A |
+| 7 | [IsekaiBattle Ticket](http://twitter.com/search?q=IsekaiBattle+Ticket) | N/A |
 | 8 | [HAPPY BIRTHDAY TAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEHYUN) | N/A |
 | 9 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
 | 10 | [TAEHYUNG CHO EM ĂN DÂU VỚI](http://twitter.com/search?q=TAEHYUNG+CHO+EM+%c4%82N+D%c3%82U+V%e1%bb%9aI) | N/A |
@@ -38,15 +38,15 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 21 | [$uqc](http://twitter.com/search?q=%24uqc) | N/A |
 | 22 | [Roblox](http://twitter.com/search?q=Roblox) | N/A |
 | 23 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 24 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 25 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 26 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
 | 27 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
 | 28 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 29 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 30 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 31 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
-| 32 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 29 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 30 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
+| 31 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 32 | [Cười](http://twitter.com/search?q=C%c6%b0%e1%bb%9di) | N/A |
 | 33 | [Let's Go](http://twitter.com/search?q=Let%27s+Go) | N/A |
 | 34 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 35 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 45 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 46 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 47 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 48 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 50 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 47 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 48 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 49 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
+| 50 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
 
 
 
