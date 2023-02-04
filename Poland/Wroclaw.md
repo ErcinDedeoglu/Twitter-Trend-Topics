@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-04 15:16:29 UTC`
+📆 Last Updated: `2023-02-04 16:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 2 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
-| 3 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 4 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 5 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
-| 6 | [#RCZPIA](http://twitter.com/search?q=%23RCZPIA) | N/A |
-| 7 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
-| 8 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
-| 9 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 3 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
+| 4 | [#RCZPIA](http://twitter.com/search?q=%23RCZPIA) | N/A |
+| 5 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
+| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 7 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 8 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
 | 11 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 12 | [Knesetu](http://twitter.com/search?q=Knesetu) | N/A |
-| 13 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 14 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 15 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 16 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 17 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 18 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
+| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 13 | [Knesetu](http://twitter.com/search?q=Knesetu) | N/A |
+| 14 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 15 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
+| 16 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 17 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 18 | [Olek](http://twitter.com/search?q=Olek) | N/A |
 | 19 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 20 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
-| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
-| 23 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 24 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 25 | [Pucharu Świata](http://twitter.com/search?q=Pucharu+%c5%9awiata) | N/A |
-| 26 | [cymański](http://twitter.com/search?q=cyma%c5%84ski) | N/A |
-| 27 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
-| 28 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
-| 29 | [gimper](http://twitter.com/search?q=gimper) | N/A |
-| 30 | [Katharina Althaus](http://twitter.com/search?q=Katharina+Althaus) | N/A |
-| 31 | [Science](http://twitter.com/search?q=Science) | N/A |
-| 32 | [Tatr](http://twitter.com/search?q=Tatr) | N/A |
-| 33 | [TOPR](http://twitter.com/search?q=TOPR) | N/A |
-| 34 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
-| 35 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 37 | [Wielka](http://twitter.com/search?q=Wielka) | N/A |
-| 38 | [Wanda Rutkiewicz](http://twitter.com/search?q=Wanda+Rutkiewicz) | N/A |
-| 39 | [Światowy Dzień Walki](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Walki) | N/A |
-| 40 | [Morskiego Oka](http://twitter.com/search?q=Morskiego+Oka) | N/A |
-| 41 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 42 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
-| 43 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 44 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 45 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 46 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 47 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
-| 48 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
-| 49 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 50 | [timiego](http://twitter.com/search?q=timiego) | N/A |
+| 20 | [Olka](http://twitter.com/search?q=Olka) | N/A |
+| 21 | [Rakowa](http://twitter.com/search?q=Rakowa) | N/A |
+| 22 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
+| 23 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 24 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 25 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 26 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
+| 27 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
+| 28 | [Tatry](http://twitter.com/search?q=Tatry) | N/A |
+| 29 | [Katharina Althaus](http://twitter.com/search?q=Katharina+Althaus) | N/A |
+| 30 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
+| 31 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 32 | [gimper](http://twitter.com/search?q=gimper) | N/A |
+| 33 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 34 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 35 | [Pucharu Świata](http://twitter.com/search?q=Pucharu+%c5%9awiata) | N/A |
+| 36 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
+| 37 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
+| 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 40 | [Łodzi](http://twitter.com/search?q=%c5%81odzi) | N/A |
+| 41 | [Science](http://twitter.com/search?q=Science) | N/A |
+| 42 | [Światowy Dzień Walki](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Walki) | N/A |
+| 43 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 44 | [Osoby](http://twitter.com/search?q=Osoby) | N/A |
+| 45 | [Wanda Rutkiewicz](http://twitter.com/search?q=Wanda+Rutkiewicz) | N/A |
+| 46 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 47 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 48 | [Przyjaciel Polski](http://twitter.com/search?q=Przyjaciel+Polski) | N/A |
+| 49 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
+| 50 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 
 
 

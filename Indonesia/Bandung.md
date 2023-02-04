@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-02-04 15:16:36 UTC`
+📆 Last Updated: `2023-02-04 16:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 5 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
 | 6 | [#온우주가_지성이_스물둘을_응원해](http://twitter.com/search?q=%23%ec%98%a8%ec%9a%b0%ec%a3%bc%ea%b0%80_%ec%a7%80%ec%84%b1%ec%9d%b4_%ec%8a%a4%eb%ac%bc%eb%91%98%ec%9d%84_%ec%9d%91%ec%9b%90%ed%95%b4) | N/A |
 | 7 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 8 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 9 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 8 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 9 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
 | 10 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 11 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | N/A |
-| 12 | [Hydro 5](http://twitter.com/search?q=Hydro+5) | Hydro 5 is a brand of razor blades made by the company Schick. The name Hydro 5 refers to the five ultra-glide blades that are featured on the razor, which provide a close and comfortable shave. |
-| 13 | [Electro 5](http://twitter.com/search?q=Electro+5) | Electro 5 is a type of electronic music genre that combines elements of electro, hip-hop, and house music. It is characterized by its heavy use of synthesizers and drum machines, as well as its incorporation of samples from other genres. The term was coined in the early 2000s to describe a new wave of electronic music that was emerging at the time. |
-| 14 | [Anemo 5](http://twitter.com/search?q=Anemo+5) | Anemo 5 is a type of wind turbine designed by the French company Anemo. It is a small, lightweight, and efficient wind turbine that can be used to generate electricity in remote locations. The name "Anemo 5" comes from the five blades that make up the turbine's rotor. In English, Anemo 5 means "five-bladed wind turbine." |
-| 15 | [Cryo 5](http://twitter.com/search?q=Cryo+5) | Cryo 5 is a brand of cryotherapy machine used to treat a variety of medical conditions. Cryotherapy is a form of cold therapy that involves exposing the body to extremely cold temperatures for a short period of time. The goal of cryotherapy is to reduce inflammation, pain, and swelling in the affected area. Cryo 5 machines use liquid nitrogen to cool the air around the body, creating an environment that can reach temperatures as low as -200°F. |
+| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 12 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
+| 13 | [Nduk](http://twitter.com/search?q=Nduk) | N/A |
+| 14 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 15 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 16 | [Geo 5](http://twitter.com/search?q=Geo+5) | Geo 5 is a geographic information system (GIS) software package developed by Esri. It is used to create, manage, analyze, and share geographic data and maps. Geo 5 is designed to help users visualize, analyze, and interpret data in order to make informed decisions. The name "Geo 5" comes from the five components of the software: Geodatabase, Editing, Analysis, Outputs, and Visualization. |
-| 17 | [Pyro 5](http://twitter.com/search?q=Pyro+5) | Pyro 5 is a type of firework that is designed to produce a loud, colorful display. It is often used in fireworks shows and other celebrations. The name comes from the five stars that are created when the firework explodes. |
-| 18 | [Dendro 5](http://twitter.com/search?q=Dendro+5) | Dendro 5 is a software program used for dendrochronology, which is the scientific method of dating tree rings. The name “Dendro 5” comes from the Greek word “dendron” meaning tree. The software helps scientists to analyze and interpret tree-ring data in order to reconstruct past climate and environmental conditions. |
-| 19 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 20 | [Nduk](http://twitter.com/search?q=Nduk) | N/A |
-| 21 | [EXO-SC INDONESIA FANCON](http://twitter.com/search?q=EXO-SC+INDONESIA+FANCON) | EXO-SC INDONESIA FANCON is an event organized by EXO-SC's Indonesian fan club. It is a fan convention that brings together fans of the K-pop group EXO-SC from all over Indonesia to celebrate their music and show their support for the group. The event includes activities such as fan meetings, games, performances, and more. The English translation of EXO-SC INDONESIA FANCON is EXO-SC Indonesian Fan Convention. |
-| 22 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 23 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
-| 24 | [Agen](http://twitter.com/search?q=Agen) | N/A |
-| 25 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 26 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 27 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 28 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 30 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
-| 31 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 32 | [CAT 1C](http://twitter.com/search?q=CAT+1C) | N/A |
-| 33 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 34 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 35 | [youngji](http://twitter.com/search?q=youngji) | N/A |
-| 36 | [Chakra](http://twitter.com/search?q=Chakra) | N/A |
-| 37 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
-| 38 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
-| 39 | [Sultan](http://twitter.com/search?q=Sultan) | N/A |
-| 40 | [leoniel](http://twitter.com/search?q=leoniel) | N/A |
-| 41 | [Tante Lina](http://twitter.com/search?q=Tante+Lina) | N/A |
-| 42 | [WANT TO BUY](http://twitter.com/search?q=WANT+TO+BUY) | N/A |
-| 43 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 44 | [Dipanggil](http://twitter.com/search?q=Dipanggil) | N/A |
-| 45 | [SOLD OUT](http://twitter.com/search?q=SOLD+OUT) | N/A |
-| 46 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
-| 47 | [susanti](http://twitter.com/search?q=susanti) | N/A |
-| 48 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
-| 49 | [Sibungbung](http://twitter.com/search?q=Sibungbung) | N/A |
-| 50 | [Pribadi](http://twitter.com/search?q=Pribadi) | N/A |
+| 17 | [Anemo 5](http://twitter.com/search?q=Anemo+5) | Anemo 5 is a type of wind turbine designed by the French company Anemo. It is a small, lightweight, and efficient wind turbine that can be used to generate electricity in remote locations. The name "Anemo 5" comes from the five blades that make up the turbine's rotor. In English, Anemo 5 means "five-bladed wind turbine." |
+| 18 | [EXO-SC INDONESIA FANCON](http://twitter.com/search?q=EXO-SC+INDONESIA+FANCON) | EXO-SC INDONESIA FANCON is an event organized by EXO-SC's Indonesian fan club. It is a fan convention that brings together fans of the K-pop group EXO-SC from all over Indonesia to celebrate their music and show their support for the group. The event includes activities such as fan meetings, games, performances, and more. The English translation of EXO-SC INDONESIA FANCON is EXO-SC Indonesian Fan Convention. |
+| 19 | [Cryo 5](http://twitter.com/search?q=Cryo+5) | Cryo 5 is a brand of cryotherapy machine used to treat a variety of medical conditions. Cryotherapy is a form of cold therapy that involves exposing the body to extremely cold temperatures for a short period of time. The goal of cryotherapy is to reduce inflammation, pain, and swelling in the affected area. Cryo 5 machines use liquid nitrogen to cool the air around the body, creating an environment that can reach temperatures as low as -200°F. |
+| 20 | [Hydro 5](http://twitter.com/search?q=Hydro+5) | Hydro 5 is a brand of razor blades made by the company Schick. The name Hydro 5 refers to the five ultra-glide blades that are featured on the razor, which provide a close and comfortable shave. |
+| 21 | [Pyro 5](http://twitter.com/search?q=Pyro+5) | Pyro 5 is a type of firework that is designed to produce a loud, colorful display. It is often used in fireworks shows and other celebrations. The name comes from the five stars that are created when the firework explodes. |
+| 22 | [Electro 5](http://twitter.com/search?q=Electro+5) | Electro 5 is a type of electronic music genre that combines elements of electro, hip-hop, and house music. It is characterized by its heavy use of synthesizers and drum machines, as well as its incorporation of samples from other genres. The term was coined in the early 2000s to describe a new wave of electronic music that was emerging at the time. |
+| 23 | [Dendro 5](http://twitter.com/search?q=Dendro+5) | Dendro 5 is a software program used for dendrochronology, which is the scientific method of dating tree rings. The name “Dendro 5” comes from the Greek word “dendron” meaning tree. The software helps scientists to analyze and interpret tree-ring data in order to reconstruct past climate and environmental conditions. |
+| 24 | [youngji](http://twitter.com/search?q=youngji) | N/A |
+| 25 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 26 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 27 | [Agen](http://twitter.com/search?q=Agen) | N/A |
+| 28 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 29 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 30 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 31 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 32 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 33 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 34 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 35 | [CAT 1C](http://twitter.com/search?q=CAT+1C) | N/A |
+| 36 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 37 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
+| 38 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 39 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 40 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
+| 41 | [CAT 6](http://twitter.com/search?q=CAT+6) | N/A |
+| 42 | [Chakra](http://twitter.com/search?q=Chakra) | N/A |
+| 43 | [WANT TO BUY](http://twitter.com/search?q=WANT+TO+BUY) | N/A |
+| 44 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 45 | [SCTV](http://twitter.com/search?q=SCTV) | N/A |
+| 46 | [dipanggil](http://twitter.com/search?q=dipanggil) | N/A |
+| 47 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 48 | [Pribadi](http://twitter.com/search?q=Pribadi) | N/A |
+| 49 | [Dewa 19](http://twitter.com/search?q=Dewa+19) | N/A |
+| 50 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
 
 
 

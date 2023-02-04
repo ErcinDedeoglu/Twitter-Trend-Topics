@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-02-04 15:16:53 UTC`
+📆 Last Updated: `2023-02-04 16:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 2 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 4 | [#WeDemandPrabhasFilmUpdates](http://twitter.com/search?q=%23WeDemandPrabhasFilmUpdates) | N/A |
-| 5 | [ALL TIME GROSSER PATHAAN](http://twitter.com/search?q=ALL+TIME+GROSSER+PATHAAN) | N/A |
-| 6 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 7 | [#RemoveThamanFromSSMB28](http://twitter.com/search?q=%23RemoveThamanFromSSMB28) | N/A |
-| 8 | [#KabzaaTitleTrack](http://twitter.com/search?q=%23KabzaaTitleTrack) | N/A |
-| 9 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
-| 10 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 11 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 12 | [Motion Control](http://twitter.com/search?q=Motion+Control) | N/A |
-| 13 | [Sushant Had No Godfather InBW](http://twitter.com/search?q=Sushant+Had+No+Godfather+InBW) | N/A |
-| 14 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 15 | [Perth Scorchers](http://twitter.com/search?q=Perth+Scorchers) | Perth Scorchers is an Australian professional Twenty20 cricket team based in Perth, Western Australia. The team competes in the Big Bash League, the domestic Twenty20 competition in Australia. The name "Scorchers" refers to the hot and dry climate of Perth and the fiery attitude of the team. |
-| 16 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 17 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 18 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | N/A |
-| 19 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 21 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 22 | [90 FPS](http://twitter.com/search?q=90+FPS) | N/A |
-| 23 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 24 | [YASHASVI BHAVA ARCHANA](http://twitter.com/search?q=YASHASVI+BHAVA+ARCHANA) | N/A |
-| 25 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 26 | [Cooper Connolly](http://twitter.com/search?q=Cooper+Connolly) | Cooper Connolly is a phrase that is used to describe someone who is highly intelligent, creative, and resourceful. It is derived from the name of the fictional character Cooper Connolly from the novel The Adventures of Tom Sawyer by Mark Twain. |
-| 27 | [A. FLASHCHARGE](http://twitter.com/search?q=A.+FLASHCHARGE) | N/A |
+| 2 | [ALL TIME GROSSER PATHAAN](http://twitter.com/search?q=ALL+TIME+GROSSER+PATHAAN) | N/A |
+| 3 | [#WeDemandPrabhasFilmUpdates](http://twitter.com/search?q=%23WeDemandPrabhasFilmUpdates) | N/A |
+| 4 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
+| 5 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
+| 8 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 9 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 10 | [#WOLLIV](http://twitter.com/search?q=%23WOLLIV) | #WOLLIV is an acronym for "We Only Live Life In Vibes," which is a phrase used to express the idea that life should be lived with positive energy and enthusiasm. |
+| 11 | [Sushant Had No Godfather InBW](http://twitter.com/search?q=Sushant+Had+No+Godfather+InBW) | N/A |
+| 12 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 13 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 14 | [Motion Control](http://twitter.com/search?q=Motion+Control) | N/A |
+| 15 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 16 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 17 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 18 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
+| 19 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 20 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
+| 21 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 22 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 23 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 24 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 25 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 26 | [90 FPS](http://twitter.com/search?q=90+FPS) | N/A |
+| 27 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
 | 28 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
-| 29 | [वाणी जयराम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 30 | [audience winner sumbul](http://twitter.com/search?q=audience+winner+sumbul) | N/A |
-| 31 | [Jaisalmer](http://twitter.com/search?q=Jaisalmer) | N/A |
-| 32 | [Padma Bhushan](http://twitter.com/search?q=Padma+Bhushan) | N/A |
-| 33 | [श्री क्षत्रिय](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af) | N/A |
-| 34 | [Turner](http://twitter.com/search?q=Turner) | Turner is a surname of English origin. It is derived from the Old English word "turner," which means "one who works with a lathe or a tool for shaping wood." The name can also refer to someone who works with metal or stone. |
-| 35 | [IMDB](http://twitter.com/search?q=IMDB) | N/A |
-| 36 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 37 | [PATHAAN BIGGEST HINDI FILM](http://twitter.com/search?q=PATHAAN+BIGGEST+HINDI+FILM) | PATHAAN BIGGEST HINDI FILM is a Bollywood movie released in 2019. The title translates to "The Greatest Hindi Film". It is a romantic comedy starring Akshay Kumar and Katrina Kaif. The film follows the story of two strangers who meet and fall in love while travelling on a train. |
-| 38 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 39 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 40 | [Media Used As Toolkit InSSRcs](http://twitter.com/search?q=Media+Used+As+Toolkit+InSSRcs) | N/A |
-| 41 | [श्री वीर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
-| 42 | [विजय संकल्प](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa) | N/A |
-| 43 | [THE JOURNEY BEGINS](http://twitter.com/search?q=THE+JOURNEY+BEGINS) | "THE JOURNEY BEGINS" is an expression used to signify the start of a new adventure or undertaking. It is often used to express excitement and anticipation for what lies ahead. The phrase can be used to mark the beginning of a physical journey, such as a vacation, or a metaphorical journey, such as starting a new job or embarking on a personal project. |
-| 44 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
-| 45 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
-| 46 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | N/A |
-| 47 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
-| 48 | [#SURIYA42StormSoon](http://twitter.com/search?q=%23SURIYA42StormSoon) | N/A |
-| 49 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
-| 50 | [#VaniJairam](http://twitter.com/search?q=%23VaniJairam) | N/A |
+| 29 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 31 | [A. FLASHCHARGE](http://twitter.com/search?q=A.+FLASHCHARGE) | N/A |
+| 32 | [YASHASVI BHAVA ARCHANA](http://twitter.com/search?q=YASHASVI+BHAVA+ARCHANA) | N/A |
+| 33 | [वाणी जयराम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 34 | [AUDIENCE WINNER SUMBUL](http://twitter.com/search?q=AUDIENCE+WINNER+SUMBUL) | AUDIENCE WINNER SUMBUL is a phrase used to describe a person who has won an audience award or prize. It is usually used in the context of a competition or event where the audience has voted for their favorite contestant or performance. The phrase literally translates to "audience winner" in English. |
+| 35 | [Jaisalmer](http://twitter.com/search?q=Jaisalmer) | N/A |
+| 36 | [Padma Bhushan](http://twitter.com/search?q=Padma+Bhushan) | N/A |
+| 37 | [IMDB](http://twitter.com/search?q=IMDB) | N/A |
+| 38 | [दिल्ली सरकार](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 39 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 40 | [PATHAAN BIGGEST HINDI FILM](http://twitter.com/search?q=PATHAAN+BIGGEST+HINDI+FILM) | PATHAAN BIGGEST HINDI FILM is a Bollywood movie released in 2019. The title translates to "The Greatest Hindi Film". It is a romantic comedy starring Akshay Kumar and Katrina Kaif. The film follows the story of two strangers who meet and fall in love while travelling on a train. |
+| 41 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 42 | [Tilak](http://twitter.com/search?q=Tilak) | N/A |
+| 43 | [श्री वीर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
+| 44 | [#RemoveThamanFromSSMB28](http://twitter.com/search?q=%23RemoveThamanFromSSMB28) | N/A |
+| 45 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | N/A |
+| 46 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
+| 47 | [#KabzaaTitleTrack](http://twitter.com/search?q=%23KabzaaTitleTrack) | N/A |
+| 48 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
+| 49 | [#AkshayKumar](http://twitter.com/search?q=%23AkshayKumar) | N/A |
+| 50 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
 
 
 

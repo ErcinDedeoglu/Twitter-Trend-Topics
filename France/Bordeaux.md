@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-04 15:16:29 UTC`
+📆 Last Updated: `2023-02-04 16:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 2 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 3 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 4 | [#ASSEFCA](http://twitter.com/search?q=%23ASSEFCA) | N/A |
-| 5 | [#WALIRE](http://twitter.com/search?q=%23WALIRE) | N/A |
-| 6 | [#beINLIGUE2](http://twitter.com/search?q=%23beINLIGUE2) | N/A |
-| 7 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 8 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 9 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 10 | [Gallois](http://twitter.com/search?q=Gallois) | N/A |
-| 11 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
-| 12 | [Pajot](http://twitter.com/search?q=Pajot) | N/A |
-| 13 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 14 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 1 | [#ASSEFCA](http://twitter.com/search?q=%23ASSEFCA) | N/A |
+| 2 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 3 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
+| 4 | [#PSGTFC](http://twitter.com/search?q=%23PSGTFC) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
+| 7 | [Cafaro](http://twitter.com/search?q=Cafaro) | N/A |
+| 8 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 9 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 10 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 11 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 12 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 13 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
+| 14 | [Gallois](http://twitter.com/search?q=Gallois) | N/A |
 | 15 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 16 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 17 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 18 | [Monconduit](http://twitter.com/search?q=Monconduit) | N/A |
-| 19 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 20 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 21 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 22 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 23 | [Deku](http://twitter.com/search?q=Deku) | N/A |
-| 24 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
-| 25 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 26 | [Foch](http://twitter.com/search?q=Foch) | N/A |
-| 27 | [Mazel Tov](http://twitter.com/search?q=Mazel+Tov) | N/A |
-| 28 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 29 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 30 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 31 | [Montréal](http://twitter.com/search?q=Montr%c3%a9al) | N/A |
-| 32 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 33 | [Tancrède](http://twitter.com/search?q=Tancr%c3%a8de) | N/A |
-| 34 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 35 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 36 | [#STAB](http://twitter.com/search?q=%23STAB) | N/A |
-| 37 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
-| 38 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
-| 39 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 40 | [#PSGTFC](http://twitter.com/search?q=%23PSGTFC) | N/A |
-| 41 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
-| 42 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 43 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 44 | [#AnaisCamizuli](http://twitter.com/search?q=%23AnaisCamizuli) | N/A |
-| 45 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 46 | [#Top14](http://twitter.com/search?q=%23Top14) | N/A |
-| 47 | [#Dussopt](http://twitter.com/search?q=%23Dussopt) | N/A |
-| 48 | [#OMOGCN](http://twitter.com/search?q=%23OMOGCN) | N/A |
+| 16 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 18 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
+| 19 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 20 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 21 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 22 | [Monconduit](http://twitter.com/search?q=Monconduit) | N/A |
+| 23 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 24 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 25 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 26 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 27 | [Deku](http://twitter.com/search?q=Deku) | N/A |
+| 28 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
+| 29 | [Mazel Tov](http://twitter.com/search?q=Mazel+Tov) | N/A |
+| 30 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
+| 31 | [Foch](http://twitter.com/search?q=Foch) | N/A |
+| 32 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 33 | [Montréal](http://twitter.com/search?q=Montr%c3%a9al) | N/A |
+| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 35 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 36 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 37 | [Tancrède](http://twitter.com/search?q=Tancr%c3%a8de) | N/A |
+| 38 | [#STAB](http://twitter.com/search?q=%23STAB) | N/A |
+| 39 | [#WOLLIV](http://twitter.com/search?q=%23WOLLIV) | #WOLLIV is an acronym for "We Only Live Life In Vibes," which is a phrase used to express the idea that life should be lived with positive energy and enthusiasm. |
+| 40 | [#beINLIGUE2](http://twitter.com/search?q=%23beINLIGUE2) | N/A |
+| 41 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
+| 42 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
+| 43 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
+| 44 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 45 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
+| 46 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 47 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 48 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
 
 
 
