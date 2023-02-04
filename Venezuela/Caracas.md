@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Caracas
 
-📆 Last Updated: `2023-02-04 00:28:01 UTC`
+📆 Last Updated: `2023-02-04 01:43:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [Antonio José de Sucre](http://twitter.com/search?q=Antonio+Jos%c3%a9+de+Sucre) | N/A |
 | 6 | [#BastaDePersecuciónEconómica](http://twitter.com/search?q=%23BastaDePersecuci%c3%b3nEcon%c3%b3mica) | N/A |
 | 7 | [Oscar de León](http://twitter.com/search?q=Oscar+de+Le%c3%b3n) | N/A |
-| 8 | [Día Internacional del Abogado](http://twitter.com/search?q=D%c3%ada+Internacional+del+Abogado) | N/A |
-| 9 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 10 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 11 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
-| 12 | [Hola Tadeo](http://twitter.com/search?q=Hola+Tadeo) | "Hola Tadeo" is a Spanish greeting, which translates to "Hello Tadeo" in English. It is a friendly way to greet someone. |
-| 13 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 14 | [Kelsy](http://twitter.com/search?q=Kelsy) | N/A |
-| 15 | [Rayma](http://twitter.com/search?q=Rayma) | N/A |
-| 16 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 17 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 18 | [La Rinconada](http://twitter.com/search?q=La+Rinconada) | N/A |
-| 19 | [Goltv](http://twitter.com/search?q=Goltv) | N/A |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 22 | [Pan y Circo](http://twitter.com/search?q=Pan+y+Circo) | N/A |
-| 23 | [Alcalá](http://twitter.com/search?q=Alcal%c3%a1) | N/A |
-| 24 | [Cumaná](http://twitter.com/search?q=Cuman%c3%a1) | N/A |
-| 25 | [Cantaura](http://twitter.com/search?q=Cantaura) | N/A |
-| 26 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
-| 27 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 28 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 29 | [Chacón](http://twitter.com/search?q=Chac%c3%b3n) | N/A |
-| 30 | [Virgen de la Candelaria](http://twitter.com/search?q=Virgen+de+la+Candelaria) | N/A |
-| 31 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
-| 32 | [Roger Cedeño](http://twitter.com/search?q=Roger+Cede%c3%b1o) | N/A |
-| 33 | [El Pentágono](http://twitter.com/search?q=El+Pent%c3%a1gono) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 36 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 37 | [América del Sur](http://twitter.com/search?q=Am%c3%a9rica+del+Sur) | N/A |
-| 38 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
-| 39 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 40 | [Irad Ortiz](http://twitter.com/search?q=Irad+Ortiz) | N/A |
-| 41 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 42 | [Vaqueros de Montería](http://twitter.com/search?q=Vaqueros+de+Monter%c3%ada) | N/A |
-| 43 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 44 | [Latinoamérica](http://twitter.com/search?q=Latinoam%c3%a9rica) | N/A |
-| 45 | [Mariscal Sucre](http://twitter.com/search?q=Mariscal+Sucre) | N/A |
-| 46 | [DJ Valentina Trespalacios](http://twitter.com/search?q=DJ+Valentina+Trespalacios) | N/A |
-| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 48 | [David Ramos](http://twitter.com/search?q=David+Ramos) | N/A |
-| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 50 | [El 3](http://twitter.com/search?q=El+3) | N/A |
+| 8 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 9 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 10 | [Día Internacional del Abogado](http://twitter.com/search?q=D%c3%ada+Internacional+del+Abogado) | N/A |
+| 11 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 12 | [Kelsy](http://twitter.com/search?q=Kelsy) | N/A |
+| 13 | [hola tadeo](http://twitter.com/search?q=hola+tadeo) | N/A |
+| 14 | [Simón Bolívar](http://twitter.com/search?q=Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 15 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 16 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 17 | [GolTV](http://twitter.com/search?q=GolTV) | N/A |
+| 18 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 19 | [Rayma](http://twitter.com/search?q=Rayma) | N/A |
+| 20 | [Pan y Circo](http://twitter.com/search?q=Pan+y+Circo) | N/A |
+| 21 | [Cantaura](http://twitter.com/search?q=Cantaura) | N/A |
+| 22 | [Alcalá](http://twitter.com/search?q=Alcal%c3%a1) | N/A |
+| 23 | [La Rinconada](http://twitter.com/search?q=La+Rinconada) | N/A |
+| 24 | [El Pentágono](http://twitter.com/search?q=El+Pent%c3%a1gono) | N/A |
+| 25 | [Cumaná](http://twitter.com/search?q=Cuman%c3%a1) | N/A |
+| 26 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 27 | [Roger Cedeño](http://twitter.com/search?q=Roger+Cede%c3%b1o) | N/A |
+| 28 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 29 | [YULERIA X RADIO DIVAZA](http://twitter.com/search?q=YULERIA+X+RADIO+DIVAZA) | N/A |
+| 30 | [Federales de Chiriquí](http://twitter.com/search?q=Federales+de+Chiriqu%c3%ad) | N/A |
+| 31 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 32 | [América del Sur](http://twitter.com/search?q=Am%c3%a9rica+del+Sur) | N/A |
+| 33 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 34 | [Virgen de la Candelaria](http://twitter.com/search?q=Virgen+de+la+Candelaria) | N/A |
+| 35 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
+| 36 | [Humedales](http://twitter.com/search?q=Humedales) | N/A |
+| 37 | [Irad](http://twitter.com/search?q=Irad) | N/A |
+| 38 | [Mariscal Sucre](http://twitter.com/search?q=Mariscal+Sucre) | N/A |
+| 39 | [Latinoamérica](http://twitter.com/search?q=Latinoam%c3%a9rica) | N/A |
+| 40 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 41 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 43 | [Coloccini](http://twitter.com/search?q=Coloccini) | N/A |
+| 44 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 45 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 46 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
+| 47 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 48 | [DJ Valentina Trespalacios](http://twitter.com/search?q=DJ+Valentina+Trespalacios) | N/A |
+| 49 | [Chacón](http://twitter.com/search?q=Chac%c3%b3n) | N/A |
+| 50 | [Vaqueros de Montería](http://twitter.com/search?q=Vaqueros+de+Monter%c3%ada) | N/A |
 
 
 

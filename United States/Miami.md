@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-02-04 00:28:42 UTC`
+📆 Last Updated: `2023-02-04 01:43:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 2 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 3 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 4 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 5 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 6 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 7 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 8 | [#NHLAllStar](http://twitter.com/search?q=%23NHLAllStar) | N/A |
-| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 10 | [Every American](http://twitter.com/search?q=Every+American) | Every American is a term used to refer to all citizens of the United States of America. It is often used to emphasize the collective identity of the nation and its people. |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 13 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 14 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
-| 15 | [#CHEFUL](http://twitter.com/search?q=%23CHEFUL) | #CHEFUL is a hashtag used on social media to refer to food that is prepared by a professional chef. It is often used to showcase the work of chefs, highlight their culinary skills, and promote their businesses. |
-| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [Tim Ream](http://twitter.com/search?q=Tim+Ream) | Tim Ream is an American soccer player who currently plays for Fulham in the English Premier League. He is a defender who has also played for the United States men's national team. The name "Tim Ream" is derived from his given name, Timothy. |
-| 19 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
-| 20 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 21 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
-| 22 | [Cale](http://twitter.com/search?q=Cale) | N/A |
-| 23 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 24 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 25 | [#BidenBoom](http://twitter.com/search?q=%23BidenBoom) | N/A |
-| 26 | [Tommy Rees](http://twitter.com/search?q=Tommy+Rees) | N/A |
-| 27 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 28 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 29 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 30 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 32 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 33 | [#WearRedDay](http://twitter.com/search?q=%23WearRedDay) | N/A |
-| 34 | [Cold AF](http://twitter.com/search?q=Cold+AF) | N/A |
-| 35 | [McDavid](http://twitter.com/search?q=McDavid) | N/A |
-| 36 | [Higgins](http://twitter.com/search?q=Higgins) | Higgins is a slang term used to refer to someone who is very smart or intelligent. It can also be used to describe someone who is very well-informed or knowledgeable about a particular subject. |
-| 37 | [LeGM](http://twitter.com/search?q=LeGM) | N/A |
-| 38 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 39 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 40 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 41 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 42 | [Space Force](http://twitter.com/search?q=Space+Force) | Space Force is a branch of the United States Armed Forces that was established in December 2019. It is responsible for organizing, training, and equipping military personnel to protect U.S. and allied interests in space. The mission of Space Force is to defend America’s interests in space, deter aggression in the final frontier, and conduct prompt and sustained space operations. |
-| 43 | [Skills Competition](http://twitter.com/search?q=Skills+Competition) | N/A |
-| 44 | [Fastest Skater](http://twitter.com/search?q=Fastest+Skater) | N/A |
-| 45 | [Turn Off the Dark](http://twitter.com/search?q=Turn+Off+the+Dark) | N/A |
-| 46 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
-| 47 | [Flint](http://twitter.com/search?q=Flint) | N/A |
-| 48 | [MJ Day](http://twitter.com/search?q=MJ+Day) | N/A |
-| 49 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 50 | [Christmas Story](http://twitter.com/search?q=Christmas+Story) | N/A |
+| 1 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 2 | [#VtubersEN](http://twitter.com/search?q=%23VtubersEN) | N/A |
+| 3 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 6 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 7 | [#NHLAllStar](http://twitter.com/search?q=%23NHLAllStar) | #NHLAllStar is a hashtag used on social media to refer to the National Hockey League All-Star Game. It is an annual exhibition game featuring the best players from the NHL's Eastern and Western Conferences. |
+| 8 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 10 | [McDavid](http://twitter.com/search?q=McDavid) | N/A |
+| 11 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
+| 12 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 13 | [#readytolove](http://twitter.com/search?q=%23readytolove) | N/A |
+| 14 | [Sarah Nurse](http://twitter.com/search?q=Sarah+Nurse) | Sarah Nurse is a term used to describe a nurse who is particularly caring and compassionate. It is derived from the name Sarah, which means “princess” or “lady” in Hebrew. The term is often used to describe nurses who go above and beyond their duties to provide excellent care for their patients. |
+| 15 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
+| 16 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
+| 19 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 20 | [Every American](http://twitter.com/search?q=Every+American) | Every American is a term used to refer to all citizens of the United States of America. It is often used to emphasize the collective identity of the nation and its people. |
+| 21 | [Tendy Tandem](http://twitter.com/search?q=Tendy+Tandem) | N/A |
+| 22 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 23 | [Pat Maroon](http://twitter.com/search?q=Pat+Maroon) | N/A |
+| 24 | [Billings](http://twitter.com/search?q=Billings) | N/A |
+| 25 | [Wetter Remix](http://twitter.com/search?q=Wetter+Remix) | N/A |
+| 26 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
+| 27 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
+| 28 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 29 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 30 | [Demario](http://twitter.com/search?q=Demario) | N/A |
+| 31 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 32 | [Mt Washington](http://twitter.com/search?q=Mt+Washington) | N/A |
+| 33 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 34 | [End of 1st](http://twitter.com/search?q=End+of+1st) | N/A |
+| 35 | [Suni](http://twitter.com/search?q=Suni) | N/A |
+| 36 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 37 | [Levi Haines](http://twitter.com/search?q=Levi+Haines) | N/A |
+| 38 | [Cale](http://twitter.com/search?q=Cale) | N/A |
+| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [Mitch Marner](http://twitter.com/search?q=Mitch+Marner) | N/A |
+| 41 | [Ovi Jr](http://twitter.com/search?q=Ovi+Jr) | N/A |
+| 42 | [Atticus](http://twitter.com/search?q=Atticus) | N/A |
+| 43 | [The Usos](http://twitter.com/search?q=The+Usos) | N/A |
+| 44 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 45 | [John Waters](http://twitter.com/search?q=John+Waters) | N/A |
+| 46 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 47 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 48 | [Skills Competition](http://twitter.com/search?q=Skills+Competition) | N/A |
+| 49 | [Davion Mitchell](http://twitter.com/search?q=Davion+Mitchell) | N/A |
+| 50 | [The NHL](http://twitter.com/search?q=The+NHL) | N/A |
 
 
 

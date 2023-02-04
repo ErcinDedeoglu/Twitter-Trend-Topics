@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-04 00:28:37 UTC`
+📆 Last Updated: `2023-02-04 01:43:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [New Zealand](</New Zealand>)
 | ------- | ------------ | ------------ |
 | 1 | [Waitangi](http://twitter.com/search?q=Waitangi) | N/A |
 | 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 3 | [#MVCvWEL](http://twitter.com/search?q=%23MVCvWEL) | N/A |
-| 4 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 5 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 6 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
+| 3 | [#mvcvwel](http://twitter.com/search?q=%23mvcvwel) | N/A |
+| 4 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 5 | [Maori](http://twitter.com/search?q=Maori) | N/A |
+| 6 | [Jane](http://twitter.com/search?q=Jane) | N/A |
 | 7 | [james shaw](http://twitter.com/search?q=james+shaw) | N/A |
-| 8 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 9 | [te aroha](http://twitter.com/search?q=te+aroha) | N/A |
-| 10 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 11 | [PTOM](http://twitter.com/search?q=PTOM) | N/A |
-| 12 | [Human Rights Commission](http://twitter.com/search?q=Human+Rights+Commission) | N/A |
-| 13 | [wellington central](http://twitter.com/search?q=wellington+central) | N/A |
-| 14 | [Gore](http://twitter.com/search?q=Gore) | N/A |
-| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 16 | [Maisie](http://twitter.com/search?q=Maisie) | N/A |
-| 17 | [Careful](http://twitter.com/search?q=Careful) | N/A |
-| 18 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 19 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 20 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 21 | [#literaryfiction](http://twitter.com/search?q=%23literaryfiction) | N/A |
-| 22 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 23 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 24 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 25 | [infometrics](http://twitter.com/search?q=infometrics) | N/A |
-| 26 | [tamatha paul](http://twitter.com/search?q=tamatha+paul) | N/A |
-| 27 | [#SuperSmashNZ](http://twitter.com/search?q=%23SuperSmashNZ) | N/A |
-| 28 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 29 | [rushton roulette](http://twitter.com/search?q=rushton+roulette) | N/A |
-| 30 | [palmerston north](http://twitter.com/search?q=palmerston+north) | N/A |
-| 31 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 33 | [Co-governance](http://twitter.com/search?q=Co-governance) | N/A |
-| 34 | [Pākehā](http://twitter.com/search?q=P%c4%81keh%c4%81) | N/A |
-| 35 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 36 | [#freeread](http://twitter.com/search?q=%23freeread) | N/A |
-| 37 | [Whittakers](http://twitter.com/search?q=Whittakers) | N/A |
-| 38 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
-| 39 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 40 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 41 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 42 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 43 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 44 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 46 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 48 | [stinqy](http://twitter.com/search?q=stinqy) | N/A |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
+| 9 | [PTOM](http://twitter.com/search?q=PTOM) | N/A |
+| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 11 | [Gore](http://twitter.com/search?q=Gore) | N/A |
+| 12 | [wellington central](http://twitter.com/search?q=wellington+central) | N/A |
+| 13 | [Careful](http://twitter.com/search?q=Careful) | N/A |
+| 14 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 15 | [#SuperSmashNZ](http://twitter.com/search?q=%23SuperSmashNZ) | N/A |
+| 16 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 17 | [Maisie](http://twitter.com/search?q=Maisie) | N/A |
+| 18 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 19 | [#literaryfiction](http://twitter.com/search?q=%23literaryfiction) | N/A |
+| 20 | [Human Rights Commission](http://twitter.com/search?q=Human+Rights+Commission) | N/A |
+| 21 | [rushton roulette](http://twitter.com/search?q=rushton+roulette) | N/A |
+| 22 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 23 | [tamatha paul](http://twitter.com/search?q=tamatha+paul) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 26 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
+| 27 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 28 | [NZers](http://twitter.com/search?q=NZers) | N/A |
+| 29 | [Pakeha](http://twitter.com/search?q=Pakeha) | N/A |
+| 30 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 31 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 32 | [#freeread](http://twitter.com/search?q=%23freeread) | N/A |
+| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 34 | [Whittakers](http://twitter.com/search?q=Whittakers) | N/A |
+| 35 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 36 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 37 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 38 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 39 | [Crown](http://twitter.com/search?q=Crown) | N/A |
+| 40 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 41 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 42 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 43 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Ilam](http://twitter.com/search?q=Ilam) | N/A |
+| 46 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 47 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
+| 48 | [brad olsen](http://twitter.com/search?q=brad+olsen) | N/A |
+| 49 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 
 
 
