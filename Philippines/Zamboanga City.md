@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-04 06:17:44 UTC`
+📆 Last Updated: `2023-02-04 07:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#MANIFESTO_IN_MANILA](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA) | #MANIFESTO_IN_MANILA is a hashtag used to promote a manifesto created by Filipino activists in Manila, Philippines. The manifesto calls for the end of discrimination and violence against women, LGBTQ+ people, and other marginalized communities in the country. It also calls for greater access to education, healthcare, and economic opportunities for all Filipinos. |
 | 2 | [#ENHYPEN_IN_MANILA](http://twitter.com/search?q=%23ENHYPEN_IN_MANILA) | N/A |
-| 3 | [#MCIAkingPuso](http://twitter.com/search?q=%23MCIAkingPuso) | N/A |
-| 4 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
-| 5 | [COMPLEX EP OUT NOW](http://twitter.com/search?q=COMPLEX+EP+OUT+NOW) | "COMPLEX EP OUT NOW" is a phrase used to announce the release of an EP (Extended Play) album. It means that the EP is now available for purchase or streaming. |
-| 6 | [MNL48 ON AKBGroup CircleJam](http://twitter.com/search?q=MNL48+ON+AKBGroup+CircleJam) | N/A |
-| 7 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
+| 3 | [#MJhasDrick](http://twitter.com/search?q=%23MJhasDrick) | N/A |
+| 4 | [ROOMMATE FB SERIES](http://twitter.com/search?q=ROOMMATE+FB+SERIES) | N/A |
+| 5 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
+| 6 | [COMPLEX EP OUT NOW](http://twitter.com/search?q=COMPLEX+EP+OUT+NOW) | "COMPLEX EP OUT NOW" is a phrase used to announce the release of an EP (Extended Play) album. It means that the EP is now available for purchase or streaming. |
+| 7 | [MNL48 ON AKBGroup CircleJam](http://twitter.com/search?q=MNL48+ON+AKBGroup+CircleJam) | N/A |
 | 8 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 9 | [SHOWTIMEonlineU WITH ZACHAM](http://twitter.com/search?q=SHOWTIMEonlineU+WITH+ZACHAM) | N/A |
 | 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 12 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
-| 13 | [AYSUS ANJBRENT](http://twitter.com/search?q=AYSUS+ANJBRENT) | N/A |
-| 14 | [d-1 complex ep release](http://twitter.com/search?q=d-1+complex+ep+release) | N/A |
-| 15 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 16 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
-| 17 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 18 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
-| 19 | [kdlex petawalangaraysoon](http://twitter.com/search?q=kdlex+petawalangaraysoon) | N/A |
-| 20 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 21 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
-| 22 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
-| 23 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
-| 24 | [Yunhyeong](http://twitter.com/search?q=Yunhyeong) | Yunhyeong is a Korean given name, and it means "righteousness" in English. |
-| 25 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 26 | [fransethchico mulingpagkikita](http://twitter.com/search?q=fransethchico+mulingpagkikita) | N/A |
-| 27 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
-| 28 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 29 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
-| 30 | [FILAY AkingBinibini](http://twitter.com/search?q=FILAY+AkingBinibini) | N/A |
-| 31 | [Alyssa Valdez](http://twitter.com/search?q=Alyssa+Valdez) | N/A |
-| 32 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 33 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 34 | [alexas bday in23days](http://twitter.com/search?q=alexas+bday+in23days) | N/A |
-| 35 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 36 | [jayrassic piedate](http://twitter.com/search?q=jayrassic+piedate) | N/A |
-| 37 | [Saan](http://twitter.com/search?q=Saan) | N/A |
-| 38 | [michaeng](http://twitter.com/search?q=michaeng) | N/A |
-| 39 | [FIGHTING TEASER 2](http://twitter.com/search?q=FIGHTING+TEASER+2) | N/A |
-| 40 | [princess kirei day](http://twitter.com/search?q=princess+kirei+day) | N/A |
-| 41 | [dj yue in da radio'n us](http://twitter.com/search?q=dj+yue+in+da+radio%27n+us) | N/A |
-| 42 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 43 | [Sibuyan](http://twitter.com/search?q=Sibuyan) | N/A |
-| 44 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
-| 45 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 46 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
-| 47 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 48 | [Welcome Back Lee Seunghyun](http://twitter.com/search?q=Welcome+Back+Lee+Seunghyun) | N/A |
-| 49 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
+| 11 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
+| 12 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 13 | [d-1 complex ep release](http://twitter.com/search?q=d-1+complex+ep+release) | N/A |
+| 14 | [AYSUS ANJBRENT](http://twitter.com/search?q=AYSUS+ANJBRENT) | N/A |
+| 15 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 16 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
+| 17 | [MC JOHNNY](http://twitter.com/search?q=MC+JOHNNY) | N/A |
+| 18 | [SRR 2ND WIN](http://twitter.com/search?q=SRR+2ND+WIN) | SRR 2ND WIN is an abbreviation for "Second Round Robin Win". It is used in sports to refer to a team or individual that has won their second round robin match. |
+| 19 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 20 | [kdlex petawalangaraysoon](http://twitter.com/search?q=kdlex+petawalangaraysoon) | N/A |
+| 21 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
+| 22 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 23 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
+| 24 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 25 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
+| 26 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
+| 27 | [MC JUNGWOO](http://twitter.com/search?q=MC+JUNGWOO) | N/A |
+| 28 | [Carren](http://twitter.com/search?q=Carren) | N/A |
+| 29 | [fransethchico mulingpagkikita](http://twitter.com/search?q=fransethchico+mulingpagkikita) | N/A |
+| 30 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 31 | [TENYONG ARRIVES IN MANILA](http://twitter.com/search?q=TENYONG+ARRIVES+IN+MANILA) | N/A |
+| 32 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 33 | [filay akingbinibini](http://twitter.com/search?q=filay+akingbinibini) | N/A |
+| 34 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 35 | [Alyssa Valdez](http://twitter.com/search?q=Alyssa+Valdez) | N/A |
+| 36 | [Karylle](http://twitter.com/search?q=Karylle) | N/A |
+| 37 | [alexas bday in23days](http://twitter.com/search?q=alexas+bday+in23days) | N/A |
+| 38 | [JULIEVER PagIbigNaKayaEP1](http://twitter.com/search?q=JULIEVER+PagIbigNaKayaEP1) | N/A |
+| 39 | [jayrassic piedate](http://twitter.com/search?q=jayrassic+piedate) | N/A |
+| 40 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 41 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 42 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 43 | [FIGHTING TEASER 2](http://twitter.com/search?q=FIGHTING+TEASER+2) | N/A |
+| 44 | [Kimpoy](http://twitter.com/search?q=Kimpoy) | N/A |
+| 45 | [dj yue in da radio'n us](http://twitter.com/search?q=dj+yue+in+da+radio%27n+us) | N/A |
+| 46 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 47 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 48 | [michaeng](http://twitter.com/search?q=michaeng) | N/A |
+| 49 | [Music Core](http://twitter.com/search?q=Music+Core) | N/A |
 
 
 

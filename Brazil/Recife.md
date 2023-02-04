@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-04 06:17:27 UTC`
+📆 Last Updated: `2023-02-04 07:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Brazil](</Brazil>)
 | 4 | [Mari Palma](http://twitter.com/search?q=Mari+Palma) | Mari Palma is a Spanish phrase that translates to "Mary of the Palm". It is a traditional Spanish song about a woman who is said to have been born from a palm tree. The song tells the story of her life and how she eventually died. |
 | 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 | 6 | [Parasita](http://twitter.com/search?q=Parasita) | N/A |
-| 7 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 8 | [Moonlight](http://twitter.com/search?q=Moonlight) | N/A |
-| 9 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 10 | [CODA](http://twitter.com/search?q=CODA) | N/A |
-| 11 | [#PINTOAWARDS](http://twitter.com/search?q=%23PINTOAWARDS) | N/A |
-| 12 | [#TikTokNoBBB](http://twitter.com/search?q=%23TikTokNoBBB) | N/A |
-| 13 | [Coraline](http://twitter.com/search?q=Coraline) | N/A |
-| 14 | [Birdman](http://twitter.com/search?q=Birdman) | N/A |
-| 15 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
-| 16 | [#estudioatlantidanoplaneta](http://twitter.com/search?q=%23estudioatlantidanoplaneta) | N/A |
-| 17 | [arcadia bay](http://twitter.com/search?q=arcadia+bay) | N/A |
-| 18 | [Insônia](http://twitter.com/search?q=Ins%c3%b4nia) | N/A |
-| 19 | [DIA DE GRÊMIO](http://twitter.com/search?q=DIA+DE+GR%c3%8aMIO) | N/A |
-| 20 | [Menos É Mais](http://twitter.com/search?q=Menos+%c3%89+Mais) | N/A |
-| 21 | [Multishow](http://twitter.com/search?q=Multishow) | N/A |
-| 22 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
-| 23 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 24 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 25 | [Jean Pyerre](http://twitter.com/search?q=Jean+Pyerre) | N/A |
-| 26 | [Danny Bond](http://twitter.com/search?q=Danny+Bond) | N/A |
-| 27 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 28 | [MAIARA](http://twitter.com/search?q=MAIARA) | MAIARA is a female name of Brazilian origin. It is derived from the Tupi language and means "wise". |
-| 29 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
-| 30 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 31 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 32 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 33 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 34 | [Kauan](http://twitter.com/search?q=Kauan) | N/A |
-| 35 | [shadowhunters](http://twitter.com/search?q=shadowhunters) | N/A |
-| 36 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 37 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 38 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
-| 39 | [O Cris](http://twitter.com/search?q=O+Cris) | N/A |
-| 40 | [bodies bodies bodies](http://twitter.com/search?q=bodies+bodies+bodies) | N/A |
-| 41 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 42 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 43 | [VAL CASSADO](http://twitter.com/search?q=VAL+CASSADO) | N/A |
-| 44 | [UFMS](http://twitter.com/search?q=UFMS) | N/A |
-| 45 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 46 | [Castelo Rá-Tim-Bum](http://twitter.com/search?q=Castelo+R%c3%a1-Tim-Bum) | N/A |
-| 47 | [Marlon Gomes](http://twitter.com/search?q=Marlon+Gomes) | Marlon Gomes is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (lion). The name means "sea lion". |
-| 48 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
-| 49 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 50 | [mc loma](http://twitter.com/search?q=mc+loma) | N/A |
+| 7 | [#PINTOAWARDS](http://twitter.com/search?q=%23PINTOAWARDS) | N/A |
+| 8 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 9 | [Coraline](http://twitter.com/search?q=Coraline) | N/A |
+| 10 | [Moonlight](http://twitter.com/search?q=Moonlight) | N/A |
+| 11 | [#TikTokNoBBB](http://twitter.com/search?q=%23TikTokNoBBB) | N/A |
+| 12 | [CODA](http://twitter.com/search?q=CODA) | N/A |
+| 13 | [Insônia](http://twitter.com/search?q=Ins%c3%b4nia) | N/A |
+| 14 | [Rupaul](http://twitter.com/search?q=Rupaul) | N/A |
+| 15 | [Phelipe Siani](http://twitter.com/search?q=Phelipe+Siani) | N/A |
+| 16 | [Birdman](http://twitter.com/search?q=Birdman) | N/A |
+| 17 | [#estudioatlantidanoplaneta](http://twitter.com/search?q=%23estudioatlantidanoplaneta) | N/A |
+| 18 | [arcadia bay](http://twitter.com/search?q=arcadia+bay) | N/A |
+| 19 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
+| 20 | [Kauan](http://twitter.com/search?q=Kauan) | N/A |
+| 21 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 22 | [Multishow](http://twitter.com/search?q=Multishow) | N/A |
+| 23 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 24 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
+| 25 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 26 | [Jean Pyerre](http://twitter.com/search?q=Jean+Pyerre) | N/A |
+| 27 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 28 | [shadowhunters](http://twitter.com/search?q=shadowhunters) | N/A |
+| 29 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 30 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 31 | [O Cris](http://twitter.com/search?q=O+Cris) | N/A |
+| 32 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 33 | [MARCOS DO VAL CASSADO](http://twitter.com/search?q=MARCOS+DO+VAL+CASSADO) | N/A |
+| 34 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 35 | [UFMS](http://twitter.com/search?q=UFMS) | N/A |
+| 36 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
+| 37 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 38 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 39 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 40 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 41 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 42 | [Bodies Bodies Bodies](http://twitter.com/search?q=Bodies+Bodies+Bodies) | N/A |
+| 43 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
+| 44 | [Zé Neto](http://twitter.com/search?q=Z%c3%a9+Neto) | N/A |
+| 45 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
+| 46 | [Marlon Gomes](http://twitter.com/search?q=Marlon+Gomes) | Marlon Gomes is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (lion). The name means "sea lion". |
+| 47 | [Monstros SA](http://twitter.com/search?q=Monstros+SA) | N/A |
+| 48 | [marcos silva](http://twitter.com/search?q=marcos+silva) | N/A |
+| 49 | [Michael Scott](http://twitter.com/search?q=Michael+Scott) | N/A |
+| 50 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
 
 
 

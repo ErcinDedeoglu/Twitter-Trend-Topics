@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-04 06:17:57 UTC`
+📆 Last Updated: `2023-02-04 07:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 2 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 3 | [Ivey](http://twitter.com/search?q=Ivey) | N/A |
-| 4 | [#Pistons](http://twitter.com/search?q=%23Pistons) | N/A |
+| 3 | [#Pistons](http://twitter.com/search?q=%23Pistons) | N/A |
+| 4 | [Ivey](http://twitter.com/search?q=Ivey) | N/A |
 | 5 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
-| 6 | [#NavarreteWilson](http://twitter.com/search?q=%23NavarreteWilson) | N/A |
-| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 6 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 7 | [#NavarreteWilson](http://twitter.com/search?q=%23NavarreteWilson) | N/A |
+| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 9 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
 | 10 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
-| 11 | [Liam Wilson](http://twitter.com/search?q=Liam+Wilson) | Liam Wilson is a name of Irish origin, derived from the Gaelic name Uilliam. It is a combination of the words "will" and "helmet," and it means "protector." |
-| 12 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 11 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 12 | [Liam Wilson](http://twitter.com/search?q=Liam+Wilson) | Liam Wilson is a name of Irish origin, derived from the Gaelic name Uilliam. It is a combination of the words "will" and "helmet," and it means "protector." |
 | 13 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
 | 14 | [Billings](http://twitter.com/search?q=Billings) | Billings is a city in the state of Montana, United States. It is the largest city in the state and serves as its economic and cultural center. The name Billings comes from Frederick H. Billings, a former president of the Northern Pacific Railroad. |
 | 15 | [Barboza](http://twitter.com/search?q=Barboza) | Barboza is a Spanish word meaning "barbarian". It is often used to describe someone who is uncivilized or rude. |
-| 16 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
+| 16 | [Miracle Whip](http://twitter.com/search?q=Miracle+Whip) | N/A |
 | 17 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
-| 18 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
-| 19 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 20 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 21 | [Miracle Whip](http://twitter.com/search?q=Miracle+Whip) | N/A |
-| 22 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 23 | [Winter Park](http://twitter.com/search?q=Winter+Park) | N/A |
-| 24 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
-| 25 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 26 | [Billy Jack](http://twitter.com/search?q=Billy+Jack) | N/A |
-| 27 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
-| 28 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 18 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
+| 19 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
+| 20 | [Pedraza](http://twitter.com/search?q=Pedraza) | Pedraza is a Spanish surname derived from the place name Pedraza, which is a municipality in the province of Segovia in Castile and León, Spain. The meaning of the name in English is "of Pedraza". |
+| 21 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
+| 22 | [Billy Jack](http://twitter.com/search?q=Billy+Jack) | N/A |
+| 23 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 24 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
+| 25 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 26 | [Bill Kristol](http://twitter.com/search?q=Bill+Kristol) | N/A |
+| 27 | [James Harrison](http://twitter.com/search?q=James+Harrison) | N/A |
+| 28 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
 | 29 | [South America](http://twitter.com/search?q=South+America) | N/A |
-| 30 | [Ovi Jr](http://twitter.com/search?q=Ovi+Jr) | Ovi Jr is a nickname for the Finnish professional ice hockey player, Ovi Kauste. The nickname is derived from his first name, Ovi, and is used to distinguish him from his father, who also played professional ice hockey. In English, the nickname means "Little Ovi". |
-| 31 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 32 | [James Harrison](http://twitter.com/search?q=James+Harrison) | N/A |
-| 33 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 34 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
-| 35 | [Chocked](http://twitter.com/search?q=Chocked) | N/A |
-| 36 | [Mt Washington](http://twitter.com/search?q=Mt+Washington) | N/A |
-| 37 | [Red Dawn](http://twitter.com/search?q=Red+Dawn) | N/A |
-| 38 | [Bill Kristol](http://twitter.com/search?q=Bill+Kristol) | N/A |
-| 39 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 40 | [Caffeine](http://twitter.com/search?q=Caffeine) | N/A |
-| 41 | [Every American](http://twitter.com/search?q=Every+American) | Every American is a term used to refer to all citizens of the United States of America. It is often used to emphasize the collective identity of the nation and its people. |
-| 42 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 43 | [Noodles](http://twitter.com/search?q=Noodles) | N/A |
-| 44 | [Power of the Elements](http://twitter.com/search?q=Power+of+the+Elements) | N/A |
-| 45 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 46 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 30 | [Winter Park](http://twitter.com/search?q=Winter+Park) | N/A |
+| 31 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 32 | [Red Dawn](http://twitter.com/search?q=Red+Dawn) | N/A |
+| 33 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
+| 34 | [Caffeine](http://twitter.com/search?q=Caffeine) | N/A |
+| 35 | [Mt Washington](http://twitter.com/search?q=Mt+Washington) | N/A |
+| 36 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 37 | [Chocked](http://twitter.com/search?q=Chocked) | N/A |
+| 38 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 39 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 40 | [Noodles](http://twitter.com/search?q=Noodles) | N/A |
+| 41 | [Skinamarink](http://twitter.com/search?q=Skinamarink) | N/A |
+| 42 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 43 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 44 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 45 | [Cabin](http://twitter.com/search?q=Cabin) | N/A |
+| 46 | [Every American](http://twitter.com/search?q=Every+American) | Every American is a term used to refer to all citizens of the United States of America. It is often used to emphasize the collective identity of the nation and its people. |
 | 47 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 48 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
-| 49 | [Suni](http://twitter.com/search?q=Suni) | N/A |
-| 50 | [Skinamarink](http://twitter.com/search?q=Skinamarink) | N/A |
+| 48 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 49 | [Power of the Elements](http://twitter.com/search?q=Power+of+the+Elements) | N/A |
+| 50 | [Mystery Incorporated](http://twitter.com/search?q=Mystery+Incorporated) | N/A |
 
 
 
