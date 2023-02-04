@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-02-03 23:16:18 UTC`
+📆 Last Updated: `2023-02-04 00:27:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
-| 2 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
-| 3 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 4 | [#goingtheextramile](http://twitter.com/search?q=%23goingtheextramile) | N/A |
-| 5 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 6 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 7 | [Ron and Tanyel](http://twitter.com/search?q=Ron+and+Tanyel) | N/A |
-| 8 | [Mack](http://twitter.com/search?q=Mack) | N/A |
-| 9 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 10 | [Aubameyang](http://twitter.com/search?q=Aubameyang) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [Paulinha](http://twitter.com/search?q=Paulinha) | N/A |
+| 2 | [Cabin](http://twitter.com/search?q=Cabin) | N/A |
+| 3 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 4 | [Barnet](http://twitter.com/search?q=Barnet) | N/A |
+| 5 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
+| 6 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 7 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 9 | [#VtubersEN](http://twitter.com/search?q=%23VtubersEN) | N/A |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 12 | [#CHEFUL](http://twitter.com/search?q=%23CHEFUL) | #CHEFUL is a hashtag used on social media to refer to food that is prepared by a professional chef. It is often used to showcase the work of chefs, highlight their culinary skills, and promote their businesses. |
-| 13 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 14 | [#ARomComForRishi](http://twitter.com/search?q=%23ARomComForRishi) | N/A |
-| 15 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 13 | [#ARomComForRishi](http://twitter.com/search?q=%23ARomComForRishi) | N/A |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 16 | [#eurosong2023](http://twitter.com/search?q=%23eurosong2023) | #Eurosong2023 is a hashtag used to refer to the Eurovision Song Contest in 2023. The Eurovision Song Contest is an annual international song competition held among the member countries of the European Broadcasting Union. |
 | 17 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 18 | [#eurosong2023](http://twitter.com/search?q=%23eurosong2023) | #Eurosong2023 is a hashtag used to refer to the Eurovision Song Contest in 2023. The Eurovision Song Contest is an annual international song competition held among the member countries of the European Broadcasting Union. |
-| 19 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
-| 20 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 21 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 22 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
-| 23 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 24 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 25 | [Kenny Tete](http://twitter.com/search?q=Kenny+Tete) | Kenny Tete is a Dutch professional footballer who plays as a right back for Premier League club Fulham. The phrase "Kenny Tete" is simply the name of the player in English. |
-| 26 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 27 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 28 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
-| 29 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
-| 30 | [Tom and Ron](http://twitter.com/search?q=Tom+and+Ron) | N/A |
-| 31 | [Marco Silva](http://twitter.com/search?q=Marco+Silva) | N/A |
+| 18 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 19 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 20 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
+| 21 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 22 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 23 | [#thelastleg](http://twitter.com/search?q=%23thelastleg) | N/A |
+| 24 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 25 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 26 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 27 | [Kenny Tete](http://twitter.com/search?q=Kenny+Tete) | Kenny Tete is a Dutch professional footballer who plays as a right back for Premier League club Fulham. The phrase "Kenny Tete" is simply the name of the player in English. |
+| 28 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 29 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 30 | [Wild Youth](http://twitter.com/search?q=Wild+Youth) | Wild Youth is a phrase used to describe young people who are rebellious, independent, and free-spirited. It is often used to describe those who are not afraid to take risks and challenge the status quo. In English, it can be interpreted as a call for young people to embrace their wild side and live life on their own terms. |
+| 31 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
 | 32 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 33 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 34 | [Casey](http://twitter.com/search?q=Casey) | N/A |
-| 35 | [Derek](http://twitter.com/search?q=Derek) | N/A |
-| 36 | [Jadon](http://twitter.com/search?q=Jadon) | Jadon is a Hebrew name meaning "God has heard". It is also a variant of the name Jadon, which is derived from the Biblical name Jadon. |
-| 37 | [Tim Ream](http://twitter.com/search?q=Tim+Ream) | Tim Ream is an American soccer player who currently plays for Fulham in the English Premier League. He is a defender who has also played for the United States men's national team. The name "Tim Ream" is derived from his given name, Timothy. |
+| 33 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
+| 34 | [Tom and Ron](http://twitter.com/search?q=Tom+and+Ron) | N/A |
+| 35 | [Marco Silva](http://twitter.com/search?q=Marco+Silva) | N/A |
+| 36 | [Connolly](http://twitter.com/search?q=Connolly) | Connolly is an Irish surname derived from the Gaelic name Conghal, meaning “strong as a wolf”. It is most commonly found in Ireland and Scotland, but can also be found in other parts of the world. |
+| 37 | [Derek](http://twitter.com/search?q=Derek) | N/A |
 | 38 | [Samie](http://twitter.com/search?q=Samie) | Samie is a given name of Arabic origin, meaning "elevated" or "lofty". |
-| 39 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 39 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
 | 40 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
-| 41 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
-| 42 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 43 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 44 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 45 | [Ron and Tom](http://twitter.com/search?q=Ron+and+Tom) | N/A |
-| 46 | [Connolly](http://twitter.com/search?q=Connolly) | Connolly is an Irish surname derived from the Gaelic name Conghal, meaning “strong as a wolf”. It is most commonly found in Ireland and Scotland, but can also be found in other parts of the world. |
-| 47 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 48 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 49 | [Kevin Sinfield](http://twitter.com/search?q=Kevin+Sinfield) | Kevin Sinfield is a former professional rugby league footballer who played for Leeds Rhinos in the Super League. He is widely regarded as one of the greatest players of all time and was the first player to win seven Super League titles. He is also the current director of rugby at Leeds Rhinos. The meaning of Kevin Sinfield in English is a legendary rugby league player and current director of rugby at Leeds Rhinos. |
+| 41 | [Tim Ream](http://twitter.com/search?q=Tim+Ream) | Tim Ream is an American soccer player who currently plays for Fulham in the English Premier League. He is a defender who has also played for the United States men's national team. The name "Tim Ream" is derived from his given name, Timothy. |
+| 42 | [Casey](http://twitter.com/search?q=Casey) | N/A |
+| 43 | [Button](http://twitter.com/search?q=Button) | N/A |
+| 44 | [Jadon](http://twitter.com/search?q=Jadon) | Jadon is a Hebrew name meaning "God has heard". It is also a variant of the name Jadon, which is derived from the Biblical name Jadon. |
+| 45 | [Olivia and Kai](http://twitter.com/search?q=Olivia+and+Kai) | N/A |
+| 46 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 48 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 49 | [Ron and Tom](http://twitter.com/search?q=Ron+and+Tom) | N/A |
 
 
 

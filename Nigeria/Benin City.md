@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Benin City
 
-📆 Last Updated: `2023-02-03 23:16:48 UTC`
+📆 Last Updated: `2023-02-04 00:28:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,42 +27,32 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 10 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
 | 11 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 12 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 13 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 14 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 15 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
-| 16 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 13 | [Willian](http://twitter.com/search?q=Willian) | Willian is a given name of English origin, derived from the Germanic name William. It is a variant spelling of the more common William. The name means "resolute protector" or "will helmet". |
+| 14 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 15 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 16 | [Excel](http://twitter.com/search?q=Excel) | N/A |
 | 17 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 18 | [Jadon](http://twitter.com/search?q=Jadon) | Jadon is a Hebrew name meaning "God has heard". It is also a variant of the name Jadon, which is derived from the Biblical name Jadon. |
-| 19 | [Noni](http://twitter.com/search?q=Noni) | N/A |
-| 20 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 21 | [Babachir Lawal](http://twitter.com/search?q=Babachir+Lawal) | N/A |
-| 22 | [Leno](http://twitter.com/search?q=Leno) | N/A |
-| 23 | [Excel](http://twitter.com/search?q=Excel) | N/A |
-| 24 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 25 | [#ObiDattiInEbonyi](http://twitter.com/search?q=%23ObiDattiInEbonyi) | N/A |
-| 26 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
-| 27 | [Conor](http://twitter.com/search?q=Conor) | N/A |
-| 28 | [ICPC](http://twitter.com/search?q=ICPC) | N/A |
-| 29 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 30 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 31 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 32 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 33 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 19 | [Jadon](http://twitter.com/search?q=Jadon) | Jadon is a Hebrew name meaning "God has heard". It is also a variant of the name Jadon, which is derived from the Biblical name Jadon. |
+| 20 | [Babachir Lawal](http://twitter.com/search?q=Babachir+Lawal) | N/A |
+| 21 | [Noni](http://twitter.com/search?q=Noni) | N/A |
+| 22 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
+| 23 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 24 | [Ebonyi](http://twitter.com/search?q=Ebonyi) | N/A |
+| 25 | [ICPC](http://twitter.com/search?q=ICPC) | N/A |
+| 26 | [Conor](http://twitter.com/search?q=Conor) | N/A |
+| 27 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 28 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 29 | [#Thabang𓃵](http://twitter.com/search?q=%23Thabang%f0%93%83%b5) | N/A |
+| 30 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 31 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 32 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 33 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
 | 34 | [Olusegun Agbaje](http://twitter.com/search?q=Olusegun+Agbaje) | N/A |
 | 35 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 36 | [#Thabang𓃵](http://twitter.com/search?q=%23Thabang%f0%93%83%b5) | N/A |
-| 37 | [Umahi](http://twitter.com/search?q=Umahi) | N/A |
-| 38 | [#ObiDattiInAbia](http://twitter.com/search?q=%23ObiDattiInAbia) | N/A |
-| 39 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
-| 40 | [#AMItura](http://twitter.com/search?q=%23AMItura) | N/A |
-| 41 | [Seun](http://twitter.com/search?q=Seun) | N/A |
-| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 43 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 44 | [APC Governors](http://twitter.com/search?q=APC+Governors) | N/A |
-| 45 | [SHEGGZ OUR TROPHY](http://twitter.com/search?q=SHEGGZ+OUR+TROPHY) | N/A |
-| 46 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 47 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 48 | [#greenwoodOUT](http://twitter.com/search?q=%23greenwoodOUT) | N/A |
+| 36 | [CBN Governor](http://twitter.com/search?q=CBN+Governor) | N/A |
+| 37 | [Dear Nigerians](http://twitter.com/search?q=Dear+Nigerians) | N/A |
+| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 
 
 
