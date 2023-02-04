@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-04 07:17:54 UTC`
+📆 Last Updated: `2023-02-04 08:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,11 +42,11 @@ This is top 50 for Guatemala
 | 25 | [deportivo achuapa](http://twitter.com/search?q=deportivo+achuapa) | N/A |
 | 26 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
 | 27 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 28 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 29 | [Bluey](http://twitter.com/search?q=Bluey) | N/A |
-| 30 | [Latinoamérica](http://twitter.com/search?q=Latinoam%c3%a9rica) | N/A |
-| 31 | [Ana Sofía](http://twitter.com/search?q=Ana+Sof%c3%ada) | N/A |
-| 32 | [charles fernández](http://twitter.com/search?q=charles+fern%c3%a1ndez) | N/A |
+| 28 | [Bluey](http://twitter.com/search?q=Bluey) | N/A |
+| 29 | [Latinoamérica](http://twitter.com/search?q=Latinoam%c3%a9rica) | N/A |
+| 30 | [Ana Sofía](http://twitter.com/search?q=Ana+Sof%c3%ada) | N/A |
+| 31 | [charles fernández](http://twitter.com/search?q=charles+fern%c3%a1ndez) | N/A |
+| 32 | [Feid](http://twitter.com/search?q=Feid) | N/A |
 | 33 | [Miguel Ángel Gálvez](http://twitter.com/search?q=Miguel+%c3%81ngel+G%c3%a1lvez) | N/A |
 | 34 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
 | 35 | [Café Tacvba](http://twitter.com/search?q=Caf%c3%a9+Tacvba) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for Guatemala
 | 37 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 38 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
 | 39 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 40 | [Kenia](http://twitter.com/search?q=Kenia) | Kenia is the name of a country in East Africa. It is bordered by Tanzania, Uganda, South Sudan, Ethiopia, and Somalia. The official name of the country is the Republic of Kenya. The meaning of Kenia in English is "burning" or "place of the open-faced spear". |
-| 41 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
-| 42 | [fuerzas de tierra](http://twitter.com/search?q=fuerzas+de+tierra) | N/A |
-| 43 | [Marce](http://twitter.com/search?q=Marce) | N/A |
-| 44 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 45 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 46 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 47 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 48 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 49 | [chinautla](http://twitter.com/search?q=chinautla) | N/A |
-| 50 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 40 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
+| 41 | [fuerzas de tierra](http://twitter.com/search?q=fuerzas+de+tierra) | N/A |
+| 42 | [Marce](http://twitter.com/search?q=Marce) | N/A |
+| 43 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 44 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 45 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 46 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 47 | [chinautla](http://twitter.com/search?q=chinautla) | N/A |
+| 48 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 49 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 50 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
 
 
 

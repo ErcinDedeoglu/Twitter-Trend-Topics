@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-04 07:17:56 UTC`
+📆 Last Updated: `2023-02-04 08:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Poland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
-| 2 | [#WIDJAG](http://twitter.com/search?q=%23WIDJAG) | N/A |
-| 3 | [Wstajesz](http://twitter.com/search?q=Wstajesz) | N/A |
-| 4 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 5 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
-| 6 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 7 | [#forum](http://twitter.com/search?q=%23forum) | N/A |
-| 8 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 9 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 10 | [#TuskZnaczyBieda](http://twitter.com/search?q=%23TuskZnaczyBieda) | N/A |
-| 11 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 12 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 13 | [Karolu Wojtyle](http://twitter.com/search?q=Karolu+Wojtyle) | N/A |
-| 14 | [Maćku](http://twitter.com/search?q=Ma%c4%87ku) | N/A |
-| 15 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 16 | [willingen](http://twitter.com/search?q=willingen) | N/A |
-| 17 | [Szczęść Boże](http://twitter.com/search?q=Szcz%c4%99%c5%9b%c4%87+Bo%c5%bce) | N/A |
-| 18 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
-| 19 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
-| 20 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 21 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 22 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
-| 23 | [Amadi](http://twitter.com/search?q=Amadi) | N/A |
-| 24 | [gimper](http://twitter.com/search?q=gimper) | N/A |
-| 25 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
-| 26 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 27 | [guala](http://twitter.com/search?q=guala) | N/A |
-| 28 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 29 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
-| 30 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 31 | [Długo](http://twitter.com/search?q=D%c5%82ugo) | N/A |
-| 32 | [Der Onet](http://twitter.com/search?q=Der+Onet) | N/A |
-| 33 | [sheeya](http://twitter.com/search?q=sheeya) | N/A |
-| 34 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 35 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 36 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
-| 37 | [grot](http://twitter.com/search?q=grot) | N/A |
-| 38 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 41 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 42 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
-| 43 | [Polsko](http://twitter.com/search?q=Polsko) | N/A |
+| 2 | [Wanda Rutkiewicz](http://twitter.com/search?q=Wanda+Rutkiewicz) | N/A |
+| 3 | [#WIDJAG](http://twitter.com/search?q=%23WIDJAG) | N/A |
+| 4 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 5 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 6 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
+| 7 | [Wstajesz](http://twitter.com/search?q=Wstajesz) | N/A |
+| 8 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 9 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
+| 10 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
+| 11 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 12 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 13 | [#forum](http://twitter.com/search?q=%23forum) | N/A |
+| 14 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 15 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 16 | [#TuskZnaczyBieda](http://twitter.com/search?q=%23TuskZnaczyBieda) | N/A |
+| 17 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
+| 18 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
+| 19 | [Der Onet](http://twitter.com/search?q=Der+Onet) | N/A |
+| 20 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 21 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
+| 22 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
+| 23 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
+| 24 | [Amadi](http://twitter.com/search?q=Amadi) | N/A |
+| 25 | [gimper](http://twitter.com/search?q=gimper) | N/A |
+| 26 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 27 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 28 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
+| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 30 | [guala](http://twitter.com/search?q=guala) | N/A |
+| 31 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 32 | [Stanów Zjednoczonych](http://twitter.com/search?q=Stan%c3%b3w+Zjednoczonych) | N/A |
+| 33 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 34 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 35 | [Tomasz Lis](http://twitter.com/search?q=Tomasz+Lis) | N/A |
+| 36 | [Maćku](http://twitter.com/search?q=Ma%c4%87ku) | N/A |
+| 37 | [sheeya](http://twitter.com/search?q=sheeya) | N/A |
+| 38 | [Siema](http://twitter.com/search?q=Siema) | N/A |
+| 39 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 40 | [Mosiński](http://twitter.com/search?q=Mosi%c5%84ski) | N/A |
+| 41 | [Kochani](http://twitter.com/search?q=Kochani) | N/A |
+| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 43 | [Jolu](http://twitter.com/search?q=Jolu) | N/A |
 | 44 | [Wołyniu](http://twitter.com/search?q=Wo%c5%82yniu) | N/A |
 | 45 | [Łodzi](http://twitter.com/search?q=%c5%81odzi) | N/A |
 | 46 | [boxdela](http://twitter.com/search?q=boxdela) | N/A |
-| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 48 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 49 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
-| 50 | [filipka](http://twitter.com/search?q=filipka) | N/A |
+| 47 | [Monika](http://twitter.com/search?q=Monika) | N/A |
+| 48 | [Krzysiu](http://twitter.com/search?q=Krzysiu) | N/A |
+| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 50 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
 
 
 

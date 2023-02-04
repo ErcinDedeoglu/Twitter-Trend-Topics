@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-04 07:17:19 UTC`
+📆 Last Updated: `2023-02-04 08:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 2 | [#rbsstu](http://twitter.com/search?q=%23rbsstu) | N/A |
+| 1 | [#rbsstu](http://twitter.com/search?q=%23rbsstu) | N/A |
+| 2 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
 | 3 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 4 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 5 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 6 | [Grenze](http://twitter.com/search?q=Grenze) | N/A |
-| 7 | [Wien](http://twitter.com/search?q=Wien) | N/A |
-| 8 | [#oefbcup](http://twitter.com/search?q=%23oefbcup) | N/A |
-| 9 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
-| 10 | [#WACSCR](http://twitter.com/search?q=%23WACSCR) | N/A |
-| 11 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 12 | [#SCR2023](http://twitter.com/search?q=%23SCR2023) | N/A |
-| 13 | [Angriff](http://twitter.com/search?q=Angriff) | N/A |
-| 14 | [Staatsbürgerschaft](http://twitter.com/search?q=Staatsb%c3%bcrgerschaft) | N/A |
-| 15 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 16 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
-| 17 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 18 | [#fpoe](http://twitter.com/search?q=%23fpoe) | N/A |
-| 19 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
-| 20 | [Banner](http://twitter.com/search?q=Banner) | N/A |
-| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 22 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
-| 23 | [Plakat](http://twitter.com/search?q=Plakat) | N/A |
-| 24 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 25 | [Dorf](http://twitter.com/search?q=Dorf) | N/A |
-| 26 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
-| 27 | [Herrn](http://twitter.com/search?q=Herrn) | N/A |
-| 28 | [Inhalt](http://twitter.com/search?q=Inhalt) | N/A |
-| 29 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
-| 30 | [Motivation](http://twitter.com/search?q=Motivation) | N/A |
-| 31 | [antrag](http://twitter.com/search?q=antrag) | N/A |
-| 32 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
-| 33 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 34 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 35 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 36 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
-| 37 | [Freude](http://twitter.com/search?q=Freude) | N/A |
-| 38 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
-| 39 | [Steuer](http://twitter.com/search?q=Steuer) | N/A |
-| 40 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 41 | [Profil](http://twitter.com/search?q=Profil) | N/A |
-| 42 | [Zeug](http://twitter.com/search?q=Zeug) | N/A |
-| 43 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 44 | [Mittelstand](http://twitter.com/search?q=Mittelstand) | N/A |
-| 45 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 46 | [Wesen](http://twitter.com/search?q=Wesen) | N/A |
-| 47 | [Ländern](http://twitter.com/search?q=L%c3%a4ndern) | N/A |
-| 48 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
-| 49 | [Existenz](http://twitter.com/search?q=Existenz) | N/A |
-| 50 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 4 | [Bine](http://twitter.com/search?q=Bine) | N/A |
+| 5 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 6 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 7 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 8 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 9 | [Wien](http://twitter.com/search?q=Wien) | N/A |
+| 10 | [Waldhäusl](http://twitter.com/search?q=Waldh%c3%a4usl) | N/A |
+| 11 | [Garten](http://twitter.com/search?q=Garten) | N/A |
+| 12 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 13 | [#WACSCR](http://twitter.com/search?q=%23WACSCR) | N/A |
+| 14 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 15 | [Angriff](http://twitter.com/search?q=Angriff) | N/A |
+| 16 | [#OEFBCUP](http://twitter.com/search?q=%23OEFBCUP) | N/A |
+| 17 | [#SCR2023](http://twitter.com/search?q=%23SCR2023) | N/A |
+| 18 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 19 | [Plakat](http://twitter.com/search?q=Plakat) | N/A |
+| 20 | [Konflikt](http://twitter.com/search?q=Konflikt) | N/A |
+| 21 | [Liste](http://twitter.com/search?q=Liste) | N/A |
+| 22 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 23 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 24 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 25 | [Staatsbürgerschaft](http://twitter.com/search?q=Staatsb%c3%bcrgerschaft) | N/A |
+| 26 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
+| 27 | [#glaubewillemut](http://twitter.com/search?q=%23glaubewillemut) | N/A |
+| 28 | [Banner](http://twitter.com/search?q=Banner) | N/A |
+| 29 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 31 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 32 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 33 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 34 | [Herrn](http://twitter.com/search?q=Herrn) | N/A |
+| 35 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 36 | [Inhalt](http://twitter.com/search?q=Inhalt) | N/A |
+| 37 | [Ziegler](http://twitter.com/search?q=Ziegler) | N/A |
+| 38 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
+| 39 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 40 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
+| 41 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 42 | [Steuer](http://twitter.com/search?q=Steuer) | N/A |
+| 43 | [Zeug](http://twitter.com/search?q=Zeug) | N/A |
+| 44 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 45 | [Profil](http://twitter.com/search?q=Profil) | N/A |
+| 46 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
+| 47 | [Hoffentlich](http://twitter.com/search?q=Hoffentlich) | N/A |
+| 48 | [Traum](http://twitter.com/search?q=Traum) | N/A |
+| 49 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
+| 50 | [Mittelstand](http://twitter.com/search?q=Mittelstand) | N/A |
 
 
 

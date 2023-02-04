@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-04 07:17:58 UTC`
+📆 Last Updated: `2023-02-04 08:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 2 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 3 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 4 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 5 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 6 | [America](http://twitter.com/search?q=America) | N/A |
-| 7 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 8 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
-| 9 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 10 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
-| 13 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Logik](http://twitter.com/search?q=Logik) | N/A |
-| 16 | [händewaschen](http://twitter.com/search?q=h%c3%a4ndewaschen) | N/A |
-| 17 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 18 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
-| 19 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 20 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 21 | [London](http://twitter.com/search?q=London) | N/A |
-| 22 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 23 | [Schuss](http://twitter.com/search?q=Schuss) | N/A |
-| 24 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 26 | [apéro](http://twitter.com/search?q=ap%c3%a9ro) | N/A |
-| 27 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 28 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 29 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 30 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 31 | [Begründung](http://twitter.com/search?q=Begr%c3%bcndung) | N/A |
-| 32 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 33 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 34 | [Klimaaktivist](http://twitter.com/search?q=Klimaaktivist) | N/A |
-| 35 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 36 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 37 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 38 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 39 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 40 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
-| 41 | [Exact](http://twitter.com/search?q=Exact) | N/A |
-| 42 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 44 | [#Iran](http://twitter.com/search?q=%23Iran) | N/A |
-| 45 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
-| 46 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 47 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 48 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 49 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 50 | [Vermutlich](http://twitter.com/search?q=Vermutlich) | N/A |
+| 1 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 2 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 3 | [America](http://twitter.com/search?q=America) | N/A |
+| 4 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 5 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 6 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 7 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [händewaschen](http://twitter.com/search?q=h%c3%a4ndewaschen) | N/A |
+| 12 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 13 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 14 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 15 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 16 | [London](http://twitter.com/search?q=London) | N/A |
+| 17 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 19 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 20 | [Schuss](http://twitter.com/search?q=Schuss) | N/A |
+| 21 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 22 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 24 | [apéro](http://twitter.com/search?q=ap%c3%a9ro) | N/A |
+| 25 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 26 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 27 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 28 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 29 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
+| 30 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
+| 31 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 32 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
+| 33 | [Klimaaktivist](http://twitter.com/search?q=Klimaaktivist) | N/A |
+| 34 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 36 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
+| 37 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 38 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
+| 39 | [Exact](http://twitter.com/search?q=Exact) | N/A |
+| 40 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 41 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 43 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 44 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 45 | [Vermutlich](http://twitter.com/search?q=Vermutlich) | N/A |
+| 46 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 47 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 48 | [Klappe](http://twitter.com/search?q=Klappe) | N/A |
+| 49 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
+| 50 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 
 
 
