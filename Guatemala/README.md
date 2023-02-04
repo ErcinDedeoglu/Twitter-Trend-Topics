@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-04 09:16:47 UTC`
+📆 Last Updated: `2023-02-04 10:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for Guatemala
 | 6 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
 | 7 | [#BoyWithLuvTo1Billion](http://twitter.com/search?q=%23BoyWithLuvTo1Billion) | N/A |
 | 8 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 9 | [Caravana del Zorro](http://twitter.com/search?q=Caravana+del+Zorro) | N/A |
-| 10 | [Blanca Alfaro](http://twitter.com/search?q=Blanca+Alfaro) | N/A |
+| 9 | [caravana del zorro](http://twitter.com/search?q=caravana+del+zorro) | N/A |
+| 10 | [blanca alfaro](http://twitter.com/search?q=blanca+alfaro) | N/A |
 | 11 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
 | 12 | [#sismogt](http://twitter.com/search?q=%23sismogt) | N/A |
 | 13 | [calzada san juan](http://twitter.com/search?q=calzada+san+juan) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for Guatemala
 | 19 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
 | 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 21 | [Muriel](http://twitter.com/search?q=Muriel) | N/A |
-| 22 | [#climagt](http://twitter.com/search?q=%23climagt) | N/A |
+| 22 | [#ClimaGT](http://twitter.com/search?q=%23ClimaGT) | N/A |
 | 23 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
 | 24 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
 | 25 | [Bluey](http://twitter.com/search?q=Bluey) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Guatemala
 | 37 | [charles fernández](http://twitter.com/search?q=charles+fern%c3%a1ndez) | N/A |
 | 38 | [fuerzas de tierra](http://twitter.com/search?q=fuerzas+de+tierra) | N/A |
 | 39 | [Marce](http://twitter.com/search?q=Marce) | N/A |
-| 40 | [Esquipulas](http://twitter.com/search?q=Esquipulas) | N/A |
+| 40 | [esquipulas](http://twitter.com/search?q=esquipulas) | N/A |
 | 41 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
 | 42 | [Miguel Ángel Gálvez](http://twitter.com/search?q=Miguel+%c3%81ngel+G%c3%a1lvez) | N/A |
 | 43 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |

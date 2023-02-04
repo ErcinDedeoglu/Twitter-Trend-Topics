@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-02-04 09:16:44 UTC`
+📆 Last Updated: `2023-02-04 10:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
 | 3 | [#DCAboveAll](http://twitter.com/search?q=%23DCAboveAll) | N/A |
 | 4 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 6 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 7 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
-| 8 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 9 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 10 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
+| 5 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 6 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
+| 7 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 8 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
+| 9 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 10 | [#AZN_LIVEday1](http://twitter.com/search?q=%23AZN_LIVEday1) | #AZN_LIVEday1 is a hashtag used to promote the first day of a live event hosted by AZN, an Asian-American lifestyle brand. The hashtag is used to encourage people to join the event and share their experiences. In English, it means "AZN Live Day One". |
 | 11 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 12 | [#FEHTips](http://twitter.com/search?q=%23FEHTips) | N/A |
-| 13 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 14 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 15 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
+| 12 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
+| 13 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 14 | [Miracle Whip](http://twitter.com/search?q=Miracle+Whip) | N/A |
+| 15 | [Billy Jack](http://twitter.com/search?q=Billy+Jack) | N/A |
 | 16 | [MIRAI](http://twitter.com/search?q=MIRAI) | N/A |
-| 17 | [Miracle Whip](http://twitter.com/search?q=Miracle+Whip) | N/A |
-| 18 | [Liam Wilson](http://twitter.com/search?q=Liam+Wilson) | Liam Wilson is a name of Irish origin, derived from the Gaelic name Uilliam. It is a combination of the words "will" and "helmet," and it means "protector." |
-| 19 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
-| 20 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 21 | [Billings](http://twitter.com/search?q=Billings) | Billings is a city in the state of Montana, United States. It is the largest city in the state and serves as its economic and cultural center. The name Billings comes from Frederick H. Billings, a former president of the Northern Pacific Railroad. |
-| 22 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
-| 23 | [Billy Jack](http://twitter.com/search?q=Billy+Jack) | N/A |
-| 24 | [Red Dawn](http://twitter.com/search?q=Red+Dawn) | N/A |
-| 25 | [Barboza](http://twitter.com/search?q=Barboza) | Barboza is a Spanish word meaning "barbarian". It is often used to describe someone who is uncivilized or rude. |
-| 26 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 17 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
+| 18 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
+| 19 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 20 | [Liam Wilson](http://twitter.com/search?q=Liam+Wilson) | Liam Wilson is a name of Irish origin, derived from the Gaelic name Uilliam. It is a combination of the words "will" and "helmet," and it means "protector." |
+| 21 | [Red Dawn](http://twitter.com/search?q=Red+Dawn) | N/A |
+| 22 | [Navarette](http://twitter.com/search?q=Navarette) | N/A |
+| 23 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
+| 24 | [Billings](http://twitter.com/search?q=Billings) | Billings is a city in the state of Montana, United States. It is the largest city in the state and serves as its economic and cultural center. The name Billings comes from Frederick H. Billings, a former president of the Northern Pacific Railroad. |
+| 25 | [South America](http://twitter.com/search?q=South+America) | N/A |
+| 26 | [Winter Park](http://twitter.com/search?q=Winter+Park) | N/A |
 | 27 | [James Harrison](http://twitter.com/search?q=James+Harrison) | N/A |
-| 28 | [South America](http://twitter.com/search?q=South+America) | N/A |
-| 29 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
-| 30 | [Skinamarink](http://twitter.com/search?q=Skinamarink) | N/A |
-| 31 | [Winter Park](http://twitter.com/search?q=Winter+Park) | N/A |
-| 32 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 33 | [Mt Washington](http://twitter.com/search?q=Mt+Washington) | N/A |
-| 34 | [Caffeine](http://twitter.com/search?q=Caffeine) | N/A |
+| 28 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 29 | [Balloons](http://twitter.com/search?q=Balloons) | N/A |
+| 30 | [Mount Washington](http://twitter.com/search?q=Mount+Washington) | N/A |
+| 31 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 32 | [Skinamarink](http://twitter.com/search?q=Skinamarink) | N/A |
+| 33 | [Caffeine](http://twitter.com/search?q=Caffeine) | N/A |
+| 34 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
 | 35 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
 | 36 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 37 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 38 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
-| 39 | [Bill Kristol](http://twitter.com/search?q=Bill+Kristol) | N/A |
-| 40 | [Cabin](http://twitter.com/search?q=Cabin) | N/A |
-| 41 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
-| 42 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 43 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 44 | [Noodles](http://twitter.com/search?q=Noodles) | N/A |
-| 45 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 46 | [Pedraza](http://twitter.com/search?q=Pedraza) | Pedraza is a Spanish surname derived from the place name Pedraza, which is a municipality in the province of Segovia in Castile and León, Spain. The meaning of the name in English is "of Pedraza". |
-| 47 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 48 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 49 | [Mystery Incorporated](http://twitter.com/search?q=Mystery+Incorporated) | N/A |
-| 50 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 37 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
+| 38 | [Bill Kristol](http://twitter.com/search?q=Bill+Kristol) | N/A |
+| 39 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
+| 40 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 41 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 42 | [Noodles](http://twitter.com/search?q=Noodles) | N/A |
+| 43 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
+| 44 | [Wetter Remix](http://twitter.com/search?q=Wetter+Remix) | N/A |
+| 45 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 46 | [Pickles](http://twitter.com/search?q=Pickles) | N/A |
+| 47 | [Namor](http://twitter.com/search?q=Namor) | N/A |
+| 48 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 49 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
 
 
 
