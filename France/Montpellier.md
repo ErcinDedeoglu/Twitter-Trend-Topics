@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-02-04 02:34:32 UTC`
+📆 Last Updated: `2023-02-04 03:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [France](</France>)
 | 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 3 | [#VTEP](http://twitter.com/search?q=%23VTEP) | N/A |
 | 4 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 5 | [Meyer Habib](http://twitter.com/search?q=Meyer+Habib) | N/A |
-| 6 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 6 | [Meyer Habib](http://twitter.com/search?q=Meyer+Habib) | N/A |
 | 7 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
 | 8 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 9 | [Olivier Dussopt](http://twitter.com/search?q=Olivier+Dussopt) | N/A |
+| 9 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
 | 10 | [Mazel Tov](http://twitter.com/search?q=Mazel+Tov) | N/A |
-| 11 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 11 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 12 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 14 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 17 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 18 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 19 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 19 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 20 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
-| 21 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 22 | [Connolly](http://twitter.com/search?q=Connolly) | Connolly is an Irish surname derived from the Gaelic name Conghal, meaning “strong as a wolf”. It is most commonly found in Ireland and Scotland, but can also be found in other parts of the world. |
-| 23 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [KRISTINA](http://twitter.com/search?q=KRISTINA) | N/A |
-| 26 | [Tancrède](http://twitter.com/search?q=Tancr%c3%a8de) | N/A |
-| 27 | [Imen Es](http://twitter.com/search?q=Imen+Es) | N/A |
-| 28 | [Sihem](http://twitter.com/search?q=Sihem) | N/A |
-| 29 | [Autain](http://twitter.com/search?q=Autain) | N/A |
-| 30 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
-| 31 | [Georgio](http://twitter.com/search?q=Georgio) | N/A |
-| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
-| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 35 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 36 | [Jafar Panahi](http://twitter.com/search?q=Jafar+Panahi) | N/A |
-| 37 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
-| 38 | [FUT 23](http://twitter.com/search?q=FUT+23) | N/A |
-| 39 | [FUT 19](http://twitter.com/search?q=FUT+19) | N/A |
-| 40 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 41 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 42 | [Pierre de Gaulle](http://twitter.com/search?q=Pierre+de+Gaulle) | N/A |
-| 43 | [Badji](http://twitter.com/search?q=Badji) | N/A |
-| 44 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 45 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 46 | [Mddddrrr](http://twitter.com/search?q=Mddddrrr) | N/A |
-| 47 | [Robert Hue](http://twitter.com/search?q=Robert+Hue) | N/A |
+| 21 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 22 | [Sihem](http://twitter.com/search?q=Sihem) | N/A |
+| 23 | [KRISTINA](http://twitter.com/search?q=KRISTINA) | N/A |
+| 24 | [Tancrède](http://twitter.com/search?q=Tancr%c3%a8de) | N/A |
+| 25 | [Autain](http://twitter.com/search?q=Autain) | N/A |
+| 26 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
+| 27 | [Georgio](http://twitter.com/search?q=Georgio) | N/A |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
+| 30 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 31 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 32 | [Jafar Panahi](http://twitter.com/search?q=Jafar+Panahi) | N/A |
+| 33 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
+| 34 | [FUT 23](http://twitter.com/search?q=FUT+23) | N/A |
+| 35 | [FUT 19](http://twitter.com/search?q=FUT+19) | N/A |
+| 36 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 37 | [Badji](http://twitter.com/search?q=Badji) | N/A |
+| 38 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 39 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 40 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 41 | [Robert Hue](http://twitter.com/search?q=Robert+Hue) | N/A |
+| 42 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 43 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 44 | [Sukuna](http://twitter.com/search?q=Sukuna) | N/A |
+| 45 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 47 | [Louis Velle](http://twitter.com/search?q=Louis+Velle) | N/A |
 
 
 

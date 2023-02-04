@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-04 02:34:46 UTC`
+📆 Last Updated: `2023-02-04 03:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,11 +29,11 @@ This is top 50 for [Algeria](</Algeria>)
 | 12 | [المقر الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
 | 13 | [الطابور الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
 | 14 | [#جمعه_طيبه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
-| 15 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 16 | [#التطبيع_خيانه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d8%b9_%d8%ae%d9%8a%d8%a7%d9%86%d9%87) | N/A |
-| 17 | [جمال عبدون](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%b9%d8%a8%d8%af%d9%88%d9%86) | N/A |
-| 18 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
-| 19 | [اولاد نايل](http://twitter.com/search?q=%d8%a7%d9%88%d9%84%d8%a7%d8%af+%d9%86%d8%a7%d9%8a%d9%84) | N/A |
+| 15 | [اولاد نايل](http://twitter.com/search?q=%d8%a7%d9%88%d9%84%d8%a7%d8%af+%d9%86%d8%a7%d9%8a%d9%84) | N/A |
+| 16 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 17 | [#التطبيع_خيانه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d8%b9_%d8%ae%d9%8a%d8%a7%d9%86%d9%87) | N/A |
+| 18 | [جمال عبدون](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%b9%d8%a8%d8%af%d9%88%d9%86) | N/A |
+| 19 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
 | 20 | [سانشيز](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%b4%d9%8a%d8%b2) | N/A |
 | 21 | [جامعة بجاية](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%a8%d8%ac%d8%a7%d9%8a%d8%a9) | N/A |
 | 22 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for [Algeria](</Algeria>)
 | 36 | [فالنسيا](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%86%d8%b3%d9%8a%d8%a7) | فالنسيا is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 37 | [القوات البحريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
 | 38 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 39 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 39 | [علي العالم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
 | 40 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
 | 41 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
 | 42 | [فخر العرب](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Algeria](</Algeria>)
 | 45 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
 | 46 | [Tlemcen](http://twitter.com/search?q=Tlemcen) | N/A |
 | 47 | [السلف الصالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d9%81+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 48 | [علي العالم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 50 | [الفضيل بن عياض](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84+%d8%a8%d9%86+%d8%b9%d9%8a%d8%a7%d8%b6) | N/A |
+| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 49 | [الفضيل بن عياض](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84+%d8%a8%d9%86+%d8%b9%d9%8a%d8%a7%d8%b6) | N/A |
+| 50 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
 
 
 

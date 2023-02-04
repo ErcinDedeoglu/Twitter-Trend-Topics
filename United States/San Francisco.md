@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-04 02:35:03 UTC`
+📆 Last Updated: `2023-02-04 03:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 2 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 3 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 4 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 5 | [#WearRedDay](http://twitter.com/search?q=%23WearRedDay) | N/A |
-| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 8 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | N/A |
-| 9 | [Bandcamp Friday](http://twitter.com/search?q=Bandcamp+Friday) | N/A |
-| 10 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 12 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 1 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 2 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 3 | [#BidenBoom](http://twitter.com/search?q=%23BidenBoom) | N/A |
+| 4 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 5 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 6 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 7 | [#WearRedDay](http://twitter.com/search?q=%23WearRedDay) | N/A |
+| 8 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 11 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 13 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
 | 14 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 15 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
-| 16 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 17 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
+| 15 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
+| 16 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 17 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
 | 18 | [Billings](http://twitter.com/search?q=Billings) | Billings is a city in the state of Montana, United States. It is the largest city in the state and serves as its economic and cultural center. The name Billings comes from Frederick H. Billings, a former president of the Northern Pacific Railroad. |
-| 19 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 20 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 21 | [Ovi Jr](http://twitter.com/search?q=Ovi+Jr) | Ovi Jr is a nickname for the Finnish professional ice hockey player, Ovi Kauste. The nickname is derived from his first name, Ovi, and is used to distinguish him from his father, who also played professional ice hockey. In English, the nickname means "Little Ovi". |
-| 22 | [Sergei Ovechkin](http://twitter.com/search?q=Sergei+Ovechkin) | Sergei Ovechkin is a Russian professional ice hockey player who currently plays for the Washington Capitals of the National Hockey League (NHL). He is widely regarded as one of the greatest hockey players of all time and has won numerous awards, including the Hart Memorial Trophy as the NHL's most valuable player eight times. The name "Ovechkin" is derived from the Russian word for "little goat". |
-| 23 | [Sarah Nurse](http://twitter.com/search?q=Sarah+Nurse) | Sarah Nurse is a term used to describe a nurse who is particularly caring and compassionate. It is derived from the name Sarah, which means “princess” or “lady” in Hebrew. The term is often used to describe nurses who go above and beyond their duties to provide excellent care for their patients. |
-| 24 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 25 | [Suni](http://twitter.com/search?q=Suni) | N/A |
-| 26 | [Wetter Remix](http://twitter.com/search?q=Wetter+Remix) | N/A |
+| 19 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
+| 20 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
+| 21 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
+| 22 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 23 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 24 | [Ovi Jr](http://twitter.com/search?q=Ovi+Jr) | Ovi Jr is a nickname for the Finnish professional ice hockey player, Ovi Kauste. The nickname is derived from his first name, Ovi, and is used to distinguish him from his father, who also played professional ice hockey. In English, the nickname means "Little Ovi". |
+| 25 | [Sergei Ovechkin](http://twitter.com/search?q=Sergei+Ovechkin) | Sergei Ovechkin is a Russian professional ice hockey player who currently plays for the Washington Capitals of the National Hockey League (NHL). He is widely regarded as one of the greatest hockey players of all time and has won numerous awards, including the Hart Memorial Trophy as the NHL's most valuable player eight times. The name "Ovechkin" is derived from the Russian word for "little goat". |
+| 26 | [Justine](http://twitter.com/search?q=Justine) | N/A |
 | 27 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 28 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 29 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 30 | [Sonya](http://twitter.com/search?q=Sonya) | N/A |
-| 31 | [Every American](http://twitter.com/search?q=Every+American) | Every American is a term used to refer to all citizens of the United States of America. It is often used to emphasize the collective identity of the nation and its people. |
-| 32 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
-| 33 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
-| 34 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 35 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 36 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
-| 37 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 38 | [Ace Baldwin](http://twitter.com/search?q=Ace+Baldwin) | N/A |
-| 39 | [Skills Competition](http://twitter.com/search?q=Skills+Competition) | N/A |
-| 40 | [Pat Maroon](http://twitter.com/search?q=Pat+Maroon) | N/A |
-| 41 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 42 | [WHAT THE MUFFIN](http://twitter.com/search?q=WHAT+THE+MUFFIN) | N/A |
-| 43 | [Saben Lee](http://twitter.com/search?q=Saben+Lee) | N/A |
-| 44 | [Tendy Tandem](http://twitter.com/search?q=Tendy+Tandem) | N/A |
-| 45 | [End of 1st](http://twitter.com/search?q=End+of+1st) | N/A |
-| 46 | [The NHL](http://twitter.com/search?q=The+NHL) | N/A |
-| 47 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 48 | [Cale](http://twitter.com/search?q=Cale) | N/A |
-| 49 | [End 3Q](http://twitter.com/search?q=End+3Q) | N/A |
-| 50 | [Mt Washington](http://twitter.com/search?q=Mt+Washington) | N/A |
+| 28 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 29 | [Suni](http://twitter.com/search?q=Suni) | N/A |
+| 30 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
+| 31 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
+| 32 | [Sarah Nurse](http://twitter.com/search?q=Sarah+Nurse) | Sarah Nurse is a term used to describe a nurse who is particularly caring and compassionate. It is derived from the name Sarah, which means “princess” or “lady” in Hebrew. The term is often used to describe nurses who go above and beyond their duties to provide excellent care for their patients. |
+| 33 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 34 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 35 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 36 | [Every American](http://twitter.com/search?q=Every+American) | Every American is a term used to refer to all citizens of the United States of America. It is often used to emphasize the collective identity of the nation and its people. |
+| 37 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
+| 38 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
+| 39 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 40 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 41 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 42 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 43 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
+| 44 | [Sonya](http://twitter.com/search?q=Sonya) | N/A |
+| 45 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 46 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 47 | [Ace Baldwin](http://twitter.com/search?q=Ace+Baldwin) | N/A |
+| 48 | [Mount Washington](http://twitter.com/search?q=Mount+Washington) | N/A |
+| 49 | [Nye County](http://twitter.com/search?q=Nye+County) | N/A |
+| 50 | [Cale](http://twitter.com/search?q=Cale) | N/A |
 
 
 

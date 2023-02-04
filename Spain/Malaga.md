@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-04 02:34:36 UTC`
+📆 Last Updated: `2023-02-04 03:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
-| 2 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
-| 3 | [#FinalMurgasSC](http://twitter.com/search?q=%23FinalMurgasSC) | #FinalMurgasSC is a hashtag used to promote the final of the Murgas de Santa Cruz de Tenerife, an annual music competition held in the Canary Islands. The hashtag is used to share news and updates about the event, as well as to encourage people to attend. In English, it translates to "Final Murgas of Santa Cruz de Tenerife". |
-| 4 | [#COAC2023P14](http://twitter.com/search?q=%23COAC2023P14) | #COAC2023P14 is a hashtag used to refer to the 2023 College of Arts and Crafts (COAC) Project 14. It is used to help people find information related to the project on social media platforms such as Twitter and Instagram. |
-| 5 | [Burlonas](http://twitter.com/search?q=Burlonas) | N/A |
-| 6 | [Bambones](http://twitter.com/search?q=Bambones) | N/A |
-| 7 | [#ElDesafio4](http://twitter.com/search?q=%23ElDesafio4) | N/A |
-| 8 | [#APOYOROCIO4F](http://twitter.com/search?q=%23APOYOROCIO4F) | N/A |
-| 9 | [#YoMeRebelo4F](http://twitter.com/search?q=%23YoMeRebelo4F) | N/A |
-| 10 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
-| 11 | [Trapaseros](http://twitter.com/search?q=Trapaseros) | N/A |
-| 12 | [Luis María](http://twitter.com/search?q=Luis+Mar%c3%ada) | N/A |
-| 13 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 14 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 15 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 16 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 17 | [Mariló](http://twitter.com/search?q=Maril%c3%b3) | N/A |
-| 18 | [Málaga](http://twitter.com/search?q=M%c3%a1laga) | N/A |
-| 19 | [Pellicer](http://twitter.com/search?q=Pellicer) | N/A |
-| 20 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 21 | [Enrich](http://twitter.com/search?q=Enrich) | N/A |
-| 22 | [Raphael](http://twitter.com/search?q=Raphael) | N/A |
-| 23 | [Pepe Mel](http://twitter.com/search?q=Pepe+Mel) | N/A |
-| 24 | [Diablos](http://twitter.com/search?q=Diablos) | N/A |
-| 25 | [Esteban Burgos](http://twitter.com/search?q=Esteban+Burgos) | N/A |
-| 26 | [Insta](http://twitter.com/search?q=Insta) | N/A |
-| 27 | [LFDLT](http://twitter.com/search?q=LFDLT) | N/A |
-| 28 | [Bustinza](http://twitter.com/search?q=Bustinza) | N/A |
-| 29 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 30 | [La 44](http://twitter.com/search?q=La+44) | N/A |
-| 31 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 33 | [El Chelsea](http://twitter.com/search?q=El+Chelsea) | N/A |
-| 34 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 35 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 36 | [Yeray](http://twitter.com/search?q=Yeray) | Yeray is a Spanish name derived from the Hebrew name Jair, which means "God enlightens". It is also a variant of the name Jeremiah, which means "God will exalt". |
-| 37 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 38 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 39 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 40 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
-| 41 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
-| 42 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 43 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 44 | [Operación](http://twitter.com/search?q=Operaci%c3%b3n) | N/A |
-| 45 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
-| 46 | [Black Panther](http://twitter.com/search?q=Black+Panther) | N/A |
-| 47 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 48 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 49 | [Cercanías](http://twitter.com/search?q=Cercan%c3%adas) | N/A |
-| 50 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 1 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
+| 2 | [#FinalMurgasSC](http://twitter.com/search?q=%23FinalMurgasSC) | #FinalMurgasSC is a hashtag used to promote the final of the Murgas de Santa Cruz de Tenerife, an annual music competition held in the Canary Islands. The hashtag is used to share news and updates about the event, as well as to encourage people to attend. In English, it translates to "Final Murgas of Santa Cruz de Tenerife". |
+| 3 | [#COAC2023P14](http://twitter.com/search?q=%23COAC2023P14) | #COAC2023P14 is a hashtag used to refer to the 2023 College of Arts and Crafts (COAC) Project 14. It is used to help people find information related to the project on social media platforms such as Twitter and Instagram. |
+| 4 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 5 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
+| 6 | [Burlonas](http://twitter.com/search?q=Burlonas) | N/A |
+| 7 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
+| 8 | [#ElDesafio4](http://twitter.com/search?q=%23ElDesafio4) | N/A |
+| 9 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
+| 10 | [Bambones](http://twitter.com/search?q=Bambones) | N/A |
+| 11 | [#APOYOROCIO3F](http://twitter.com/search?q=%23APOYOROCIO3F) | N/A |
+| 12 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
+| 13 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 14 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
+| 15 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 16 | [Trapaseros](http://twitter.com/search?q=Trapaseros) | N/A |
+| 17 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 18 | [Karmento](http://twitter.com/search?q=Karmento) | Karmento is a Japanese term that literally translates to "empty feeling." It is used to describe a feeling of emptiness or lack of purpose in life. It can also refer to a sense of loneliness or isolation. |
+| 19 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 20 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 22 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 23 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 24 | [Diablos Locos](http://twitter.com/search?q=Diablos+Locos) | N/A |
+| 25 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
+| 26 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 27 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 28 | [jose otero](http://twitter.com/search?q=jose+otero) | N/A |
+| 29 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 30 | [Mariló](http://twitter.com/search?q=Maril%c3%b3) | N/A |
+| 31 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 32 | [Famous](http://twitter.com/search?q=Famous) | Famous is an adjective that means widely known or celebrated. It is used to describe people, places, or things that are well-known and have achieved a certain level of notoriety. |
+| 33 | [Rabocop](http://twitter.com/search?q=Rabocop) | N/A |
+| 34 | [Zeta Zetas](http://twitter.com/search?q=Zeta+Zetas) | N/A |
+| 35 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 36 | [Pepe Mel](http://twitter.com/search?q=Pepe+Mel) | N/A |
+| 37 | [Vicco](http://twitter.com/search?q=Vicco) | Vicco is a small town in the state of Kentucky, United States. It is located in Perry County and is known for its natural beauty and outdoor activities. The name Vicco is derived from the Latin word "vicus" which means village or settlement. In English, Vicco means "village". |
+| 38 | [Hezonja](http://twitter.com/search?q=Hezonja) | N/A |
+| 39 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
+| 40 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
+| 41 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 42 | [Málaga](http://twitter.com/search?q=M%c3%a1laga) | N/A |
+| 43 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 44 | [LFDLT](http://twitter.com/search?q=LFDLT) | N/A |
+| 45 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 46 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
+| 47 | [La 44](http://twitter.com/search?q=La+44) | N/A |
+| 48 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 49 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
+| 50 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
 
 
 

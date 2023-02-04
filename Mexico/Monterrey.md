@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-04 02:34:25 UTC`
+📆 Last Updated: `2023-02-04 03:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,44 +18,40 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [#SquadPlaydoit](http://twitter.com/search?q=%23SquadPlaydoit) | N/A |
 | 3 | [#K23Tour](http://twitter.com/search?q=%23K23Tour) | N/A |
-| 4 | [#VerificaciónGratuita](http://twitter.com/search?q=%23Verificaci%c3%b3nGratuita) | N/A |
-| 5 | [Pablo Lyle](http://twitter.com/search?q=Pablo+Lyle) | Pablo Lyle is a Mexican actor and singer. He is best known for his roles in the telenovelas La Mujer del Vendaval, La Tempestad, and El Señor de los Cielos. In English, the name Pablo Lyle means "strong and loyal". |
-| 6 | [BWL TO 1 BILLION](http://twitter.com/search?q=BWL+TO+1+BILLION) | BWL TO 1 BILLION is an acronym that stands for "Blessed With Love To 1 Billion." It is a phrase used to express gratitude and appreciation for the blessings one has received in life. |
-| 7 | [STREAM BTS D-1](http://twitter.com/search?q=STREAM+BTS+D-1) | STREAM BTS D-1 is an event organized by the South Korean boy band BTS. It is a live streaming event that takes place one day before the release of a new album or single. The event allows fans to listen to snippets of the upcoming music and get an exclusive look at behind-the-scenes footage. |
-| 8 | [STREAM WITH LUV](http://twitter.com/search?q=STREAM+WITH+LUV) | Stream with Luv is a streaming platform created by the Korean music label SM Entertainment. It is a subscription-based streaming service that allows users to access exclusive content from SM Entertainment's artists, including music, videos, and other media. The phrase "Stream with Luv" is meant to convey the idea of enjoying music and content with love and passion. |
-| 9 | [FRAUDE EN TELEMUNDO](http://twitter.com/search?q=FRAUDE+EN+TELEMUNDO) | N/A |
-| 10 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 11 | [#BoyWithLuvTo1B](http://twitter.com/search?q=%23BoyWithLuvTo1B) | N/A |
-| 12 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [#VerificaciónGratuita](http://twitter.com/search?q=%23Verificaci%c3%b3nGratuita) | N/A |
+| 6 | [Pablo Lyle](http://twitter.com/search?q=Pablo+Lyle) | Pablo Lyle is a Mexican actor and singer. He is best known for his roles in the telenovelas La Mujer del Vendaval, La Tempestad, and El Señor de los Cielos. In English, the name Pablo Lyle means "strong and loyal". |
+| 7 | [STREAM WITH LUV](http://twitter.com/search?q=STREAM+WITH+LUV) | Stream with Luv is a streaming platform created by the Korean music label SM Entertainment. It is a subscription-based streaming service that allows users to access exclusive content from SM Entertainment's artists, including music, videos, and other media. The phrase "Stream with Luv" is meant to convey the idea of enjoying music and content with love and passion. |
+| 8 | [FRAUDE EN TELEMUNDO](http://twitter.com/search?q=FRAUDE+EN+TELEMUNDO) | N/A |
+| 9 | [STREAM BTS D-1](http://twitter.com/search?q=STREAM+BTS+D-1) | STREAM BTS D-1 is an event organized by the South Korean boy band BTS. It is a live streaming event that takes place one day before the release of a new album or single. The event allows fans to listen to snippets of the upcoming music and get an exclusive look at behind-the-scenes footage. |
+| 10 | [BWL TO 1 BILLION](http://twitter.com/search?q=BWL+TO+1+BILLION) | BWL TO 1 BILLION is an acronym that stands for "Blessed With Love To 1 Billion." It is a phrase used to express gratitude and appreciation for the blessings one has received in life. |
+| 11 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 12 | [#BoyWithLuvTo1B](http://twitter.com/search?q=%23BoyWithLuvTo1B) | N/A |
 | 13 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
 | 14 | [Aristeo](http://twitter.com/search?q=Aristeo) | N/A |
-| 15 | [México-Cuernavaca](http://twitter.com/search?q=M%c3%a9xico-Cuernavaca) | N/A |
+| 15 | [BÁRBARA EN LBEAUTÉ](http://twitter.com/search?q=B%c3%81RBARA+EN+LBEAUT%c3%89) | N/A |
 | 16 | [Tlalpan](http://twitter.com/search?q=Tlalpan) | N/A |
-| 17 | [MIEDO DE SENTIR IS COMING](http://twitter.com/search?q=MIEDO+DE+SENTIR+IS+COMING) | N/A |
+| 17 | [México-Cuernavaca](http://twitter.com/search?q=M%c3%a9xico-Cuernavaca) | N/A |
 | 18 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
 | 19 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 20 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 21 | [Iker](http://twitter.com/search?q=Iker) | N/A |
-| 22 | [AVISO IMPORTANTE](http://twitter.com/search?q=AVISO+IMPORTANTE) | N/A |
+| 22 | [Insurgentes](http://twitter.com/search?q=Insurgentes) | N/A |
 | 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Nicky](http://twitter.com/search?q=Nicky) | N/A |
-| 25 | [Insurgentes](http://twitter.com/search?q=Insurgentes) | N/A |
-| 26 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
-| 27 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 28 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 31 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
-| 32 | [#ellasenvix](http://twitter.com/search?q=%23ellasenvix) | N/A |
-| 33 | [#CarolinaIslas](http://twitter.com/search?q=%23CarolinaIslas) | N/A |
-| 34 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
-| 35 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 36 | [#MiSecreto](http://twitter.com/search?q=%23MiSecreto) | N/A |
-| 37 | [#viernesalv](http://twitter.com/search?q=%23viernesalv) | N/A |
-| 38 | [#LCDF3](http://twitter.com/search?q=%23LCDF3) | N/A |
-| 39 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
-| 40 | [#diainternacionaldelabogado](http://twitter.com/search?q=%23diainternacionaldelabogado) | N/A |
-| 41 | [#EscorpionHambreado](http://twitter.com/search?q=%23EscorpionHambreado) | N/A |
+| 24 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
+| 25 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
+| 26 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 27 | [#SemifinalExatlón](http://twitter.com/search?q=%23SemifinalExatl%c3%b3n) | N/A |
+| 28 | [#ellasenvix](http://twitter.com/search?q=%23ellasenvix) | N/A |
+| 29 | [#CarolinaIslas](http://twitter.com/search?q=%23CarolinaIslas) | N/A |
+| 30 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 31 | [#viernesalv](http://twitter.com/search?q=%23viernesalv) | N/A |
+| 32 | [#MiSecreto](http://twitter.com/search?q=%23MiSecreto) | N/A |
+| 33 | [#LCDF3](http://twitter.com/search?q=%23LCDF3) | N/A |
+| 34 | [#FUERANICKY](http://twitter.com/search?q=%23FUERANICKY) | N/A |
+| 35 | [#EscorpionHambreado](http://twitter.com/search?q=%23EscorpionHambreado) | N/A |
+| 36 | [#diainternacionaldelabogado](http://twitter.com/search?q=%23diainternacionaldelabogado) | N/A |
+| 37 | [#SerieDelCaribe](http://twitter.com/search?q=%23SerieDelCaribe) | N/A |
 
 
 

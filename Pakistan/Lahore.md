@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-04 02:34:52 UTC`
+📆 Last Updated: `2023-02-04 03:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
 | 8 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 9 | [uk and pakistan](http://twitter.com/search?q=uk+and+pakistan) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [mr. guo guangling](http://twitter.com/search?q=mr.+guo+guangling) | N/A |
+| 10 | [mr. guo guangling](http://twitter.com/search?q=mr.+guo+guangling) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 12 | [Ali Wazir](http://twitter.com/search?q=Ali+Wazir) | N/A |
 | 13 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 14 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 17 | [pqepc](http://twitter.com/search?q=pqepc) | N/A |
 | 18 | [Momineen](http://twitter.com/search?q=Momineen) | N/A |
 | 19 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 20 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 21 | [aseefa bhutto zardari](http://twitter.com/search?q=aseefa+bhutto+zardari) | N/A |
-| 22 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
+| 20 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
+| 21 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
+| 22 | [aseefa bhutto zardari](http://twitter.com/search?q=aseefa+bhutto+zardari) | N/A |
 | 23 | [Pakistan and China](http://twitter.com/search?q=Pakistan+and+China) | N/A |
 | 24 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
 | 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 26 | [WELCOME HOME SUMBUL](http://twitter.com/search?q=WELCOME+HOME+SUMBUL) | N/A |
 | 27 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
 | 28 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 29 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 30 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 31 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 32 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 33 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 34 | [Reality](http://twitter.com/search?q=Reality) | N/A |
-| 35 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 36 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 37 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
-| 38 | [Lots](http://twitter.com/search?q=Lots) | N/A |
-| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 40 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 41 | [Rightly](http://twitter.com/search?q=Rightly) | N/A |
-| 42 | [Shareef](http://twitter.com/search?q=Shareef) | N/A |
-| 43 | [Tough](http://twitter.com/search?q=Tough) | N/A |
-| 44 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 45 | [More Power](http://twitter.com/search?q=More+Power) | N/A |
-| 46 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 47 | [Emotional](http://twitter.com/search?q=Emotional) | N/A |
-| 48 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 49 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 50 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 29 | [Bariah in the Torah](http://twitter.com/search?q=Bariah+in+the+Torah) | N/A |
+| 30 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 31 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
+| 32 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 33 | [Bitreek by the Ethiopians](http://twitter.com/search?q=Bitreek+by+the+Ethiopians) | N/A |
+| 34 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 35 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 36 | [Jubayr by the Persians](http://twitter.com/search?q=Jubayr+by+the+Persians) | N/A |
+| 37 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 38 | [Kabir](http://twitter.com/search?q=Kabir) | N/A |
+| 39 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 40 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 41 | [Reality](http://twitter.com/search?q=Reality) | N/A |
+| 42 | [Emotional](http://twitter.com/search?q=Emotional) | N/A |
+| 43 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 44 | [Dear Customer](http://twitter.com/search?q=Dear+Customer) | N/A |
+| 45 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 46 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 47 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 48 | [Rightly](http://twitter.com/search?q=Rightly) | N/A |
+| 49 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 50 | [Shareef](http://twitter.com/search?q=Shareef) | N/A |
 
 
 

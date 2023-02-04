@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-04 02:35:09 UTC`
+📆 Last Updated: `2023-02-04 03:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for Pakistan
 | 17 | [pqepc](http://twitter.com/search?q=pqepc) | N/A |
 | 18 | [Momineen](http://twitter.com/search?q=Momineen) | N/A |
 | 19 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 20 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
-| 21 | [aseefa bhutto zardari](http://twitter.com/search?q=aseefa+bhutto+zardari) | N/A |
-| 22 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
+| 20 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
+| 21 | [Maria B](http://twitter.com/search?q=Maria+B) | N/A |
+| 22 | [aseefa bhutto zardari](http://twitter.com/search?q=aseefa+bhutto+zardari) | N/A |
 | 23 | [Pakistan and China](http://twitter.com/search?q=Pakistan+and+China) | N/A |
 | 24 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
 | 25 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 26 | [WELCOME HOME SUMBUL](http://twitter.com/search?q=WELCOME+HOME+SUMBUL) | N/A |
 | 27 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
 | 28 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 29 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 30 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 31 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 32 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 33 | [Reality](http://twitter.com/search?q=Reality) | N/A |
-| 34 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 35 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 36 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
-| 37 | [Lots](http://twitter.com/search?q=Lots) | N/A |
-| 38 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 39 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 40 | [Rightly](http://twitter.com/search?q=Rightly) | N/A |
-| 41 | [Shareef](http://twitter.com/search?q=Shareef) | N/A |
-| 42 | [Tough](http://twitter.com/search?q=Tough) | N/A |
-| 43 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 44 | [More Power](http://twitter.com/search?q=More+Power) | N/A |
-| 45 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 46 | [Emotional](http://twitter.com/search?q=Emotional) | N/A |
-| 47 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 48 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 49 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 50 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 29 | [Bariah in the Torah](http://twitter.com/search?q=Bariah+in+the+Torah) | N/A |
+| 30 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
+| 31 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 32 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 33 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
+| 34 | [Navy](http://twitter.com/search?q=Navy) | N/A |
+| 35 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 36 | [Bitreek by the Ethiopians](http://twitter.com/search?q=Bitreek+by+the+Ethiopians) | N/A |
+| 37 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 38 | [Jubayr by the Persians](http://twitter.com/search?q=Jubayr+by+the+Persians) | N/A |
+| 39 | [Kabir](http://twitter.com/search?q=Kabir) | N/A |
+| 40 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 41 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 42 | [Emotional](http://twitter.com/search?q=Emotional) | N/A |
+| 43 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 44 | [Dear Customer](http://twitter.com/search?q=Dear+Customer) | N/A |
+| 45 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 46 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 47 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 48 | [Rightly](http://twitter.com/search?q=Rightly) | N/A |
+| 49 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 50 | [Shareef](http://twitter.com/search?q=Shareef) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-04 02:35:05 UTC`
+📆 Last Updated: `2023-02-04 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Denmark
 | 14 | [#Vtubers](http://twitter.com/search?q=%23Vtubers) | N/A |
 | 15 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
 | 16 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 17 | [Ruslands](http://twitter.com/search?q=Ruslands) | N/A |
+| 17 | [ruslands](http://twitter.com/search?q=ruslands) | N/A |
 | 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 19 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 20 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 21 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 22 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
-| 23 | [keld](http://twitter.com/search?q=keld) | N/A |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 25 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 26 | [bededag](http://twitter.com/search?q=bededag) | N/A |
-| 27 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 28 | [hvilket](http://twitter.com/search?q=hvilket) | N/A |
-| 29 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [Manden](http://twitter.com/search?q=Manden) | N/A |
+| 21 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
+| 22 | [keld](http://twitter.com/search?q=keld) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 25 | [bededag](http://twitter.com/search?q=bededag) | N/A |
+| 26 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 27 | [hvilket](http://twitter.com/search?q=hvilket) | N/A |
+| 28 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 30 | [Manden](http://twitter.com/search?q=Manden) | N/A |
+| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 32 | [københavns kommune](http://twitter.com/search?q=k%c3%b8benhavns+kommune) | N/A |
 | 33 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 35 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 36 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 37 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 38 | [WEFs](http://twitter.com/search?q=WEFs) | N/A |
-| 39 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 40 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 41 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 42 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 44 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [Skills](http://twitter.com/search?q=Skills) | N/A |
-| 47 | [nationalbanken](http://twitter.com/search?q=nationalbanken) | N/A |
-| 48 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
-| 49 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 50 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 34 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 35 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 36 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 37 | [WEFs](http://twitter.com/search?q=WEFs) | N/A |
+| 38 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 39 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 40 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 41 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 43 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 44 | [Skills](http://twitter.com/search?q=Skills) | N/A |
+| 45 | [nationalbanken](http://twitter.com/search?q=nationalbanken) | N/A |
+| 46 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
+| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 48 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 49 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 50 | [Norge](http://twitter.com/search?q=Norge) | N/A |
 
 
 

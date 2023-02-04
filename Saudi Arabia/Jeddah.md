@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-04 02:34:48 UTC`
+📆 Last Updated: `2023-02-04 03:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 1 | [#النصر_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | #النصر_الفتح is an Arabic hashtag that translates to "Victory of Liberation" in English. It is often used to celebrate a victory or success, particularly in the context of a political or military struggle. |
 | 2 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
 | 3 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
-| 4 | [#البزنس59](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b359) | N/A |
-| 5 | [#بوح_اخر_الليل](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d8%ae%d8%b1_%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
+| 4 | [#بوح_اخر_الليل](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d8%ae%d8%b1_%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
+| 5 | [#البزنس59](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b359) | N/A |
 | 6 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | تاليسكا is a type of traditional dance from the Middle East. It is an energetic, fast-paced dance that involves spinning and clapping. In English, it is sometimes referred to as the "Tahleekah Dance". |
 | 7 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 8 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
@@ -30,41 +30,41 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 13 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 | 14 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
 | 15 | [بن دبكه](http://twitter.com/search?q=%d8%a8%d9%86+%d8%af%d8%a8%d9%83%d9%87) | بن دبكه is an Arabic phrase that translates to "son of a donkey" and is used as an insult. |
-| 16 | [نوح الموسى](http://twitter.com/search?q=%d9%86%d9%88%d8%ad+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%89) | نوح الموسى (Nuh al-Musa) is an Arabic phrase meaning "Noah's Ark". It is derived from the story of Noah in the Quran, in which God commands Noah to build an ark to save himself and his family from a great flood. |
-| 17 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 18 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 19 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
-| 20 | [موت الفجاه](http://twitter.com/search?q=%d9%85%d9%88%d8%aa+%d8%a7%d9%84%d9%81%d8%ac%d8%a7%d9%87) | N/A |
+| 16 | [نوح الموسي](http://twitter.com/search?q=%d9%86%d9%88%d8%ad+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%8a) | نوح الموسي is an Arabic phrase meaning "Noah's Ark". It is a reference to the biblical story of Noah and the great flood, in which God instructed Noah to build an ark to save himself, his family, and two of every kind of animal from the flood. |
+| 17 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 18 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
+| 19 | [موت الفجاه](http://twitter.com/search?q=%d9%85%d9%88%d8%aa+%d8%a7%d9%84%d9%81%d8%ac%d8%a7%d9%87) | N/A |
+| 20 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
 | 21 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
 | 22 | [مهرجان الابل](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%a8%d9%84) | N/A |
-| 23 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 24 | [جعفر الصليح](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%ad) | N/A |
-| 25 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 26 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
-| 27 | [منيف](http://twitter.com/search?q=%d9%85%d9%86%d9%8a%d9%81) | N/A |
+| 23 | [جعفر الصليح](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%ad) | N/A |
+| 24 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 25 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
+| 26 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 27 | [الايام البيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
 | 28 | [وليد عبدالله](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | وليد عبدالله is an Arabic name meaning "Walid Abdullah" in English. It is a common name in the Middle East and North Africa. |
-| 29 | [الايام البيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
-| 30 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 31 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 32 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
-| 33 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
-| 34 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 35 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 36 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 29 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 30 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 31 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
+| 32 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 33 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 34 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 35 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 36 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
 | 37 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 38 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
-| 39 | [الطرد المباشر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1) | N/A |
-| 40 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
-| 41 | [راشد الجديده](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
-| 42 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 43 | [اللاعبين المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
-| 44 | [فراس البريكان](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83%d8%a7%d9%86) | N/A |
-| 45 | [الحبيب الزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b2%d9%8a%d9%86) | N/A |
-| 46 | [موسي نضاو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%86%d8%b6%d8%a7%d9%88) | N/A |
-| 47 | [المباراه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
-| 48 | [الحنفوش](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%86%d9%81%d9%88%d8%b4) | الحنفوش is an Arabic word that means "the wisecracker". It is used to describe someone who makes jokes or sarcastic remarks. |
-| 49 | [الدحيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%85) | N/A |
-| 50 | [فهد الحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | فهد الحمد is an Arabic name, which translates to "Fahd Al-Hamd" in English. It is composed of two parts: Fahd, which means "lion" and Al-Hamd, which means "praise". |
+| 38 | [الطرد المباشر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1) | N/A |
+| 39 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 40 | [راشد الجديده](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
+| 41 | [اللاعبين المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
+| 42 | [فراس البريكان](http://twitter.com/search?q=%d9%81%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83%d8%a7%d9%86) | N/A |
+| 43 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
+| 44 | [الحبيب الزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b2%d9%8a%d9%86) | N/A |
+| 45 | [موسي نضاو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%86%d8%b6%d8%a7%d9%88) | N/A |
+| 46 | [المباراه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
+| 47 | [الحنفوش](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%86%d9%81%d9%88%d8%b4) | الحنفوش is an Arabic word that means "the wisecracker". It is used to describe someone who makes jokes or sarcastic remarks. |
+| 48 | [الدحيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%85) | N/A |
+| 49 | [فهد الحمد](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | فهد الحمد is an Arabic name, which translates to "Fahd Al-Hamd" in English. It is composed of two parts: Fahd, which means "lion" and Al-Hamd, which means "praise". |
+| 50 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
 
 
 
