@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-04 19:16:01 UTC`
+📆 Last Updated: `2023-02-04 20:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 2 | [#ENGvSCO](http://twitter.com/search?q=%23ENGvSCO) | #ENGvSCO is a hashtag used to refer to the England vs Scotland international football match. It is shorthand for England versus Scotland. |
-| 3 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 4 | [#calcuttacup](http://twitter.com/search?q=%23calcuttacup) | N/A |
-| 5 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [#SixNations2023](http://twitter.com/search?q=%23SixNations2023) | N/A |
-| 8 | [#AsOne](http://twitter.com/search?q=%23AsOne) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 11 | [England](http://twitter.com/search?q=England) | N/A |
-| 12 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 13 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 14 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 15 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 16 | [Van Der Merwe](http://twitter.com/search?q=Van+Der+Merwe) | N/A |
-| 17 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 18 | [Ben Youngs](http://twitter.com/search?q=Ben+Youngs) | N/A |
-| 19 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 20 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 21 | [James Pearce](http://twitter.com/search?q=James+Pearce) | N/A |
-| 22 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
-| 23 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 24 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 25 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
-| 26 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 27 | [Aguerd](http://twitter.com/search?q=Aguerd) | N/A |
-| 28 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 29 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 30 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
-| 31 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 32 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 33 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 34 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 35 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
-| 36 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
-| 37 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 38 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 39 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 40 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 41 | [Andre Marriner](http://twitter.com/search?q=Andre+Marriner) | Andre Marriner is a professional football referee from England who has officiated in the Premier League since 2005. He is also a FIFA-listed referee, meaning he is eligible to officiate international matches. |
-| 42 | [Marcus Smith](http://twitter.com/search?q=Marcus+Smith) | N/A |
-| 43 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 44 | [Callum Wilson](http://twitter.com/search?q=Callum+Wilson) | N/A |
-| 45 | [McLaughlin](http://twitter.com/search?q=McLaughlin) | N/A |
-| 46 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 47 | [Dombrandt](http://twitter.com/search?q=Dombrandt) | N/A |
-| 48 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
-| 49 | [Coufal](http://twitter.com/search?q=Coufal) | N/A |
-| 50 | [Benrahma](http://twitter.com/search?q=Benrahma) | N/A |
+| 1 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
+| 2 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 3 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 4 | [#MaskedSingerUK](http://twitter.com/search?q=%23MaskedSingerUK) | #MaskedSingerUK is a British television show based on the South Korean format of the same name. Contestants perform in elaborate costumes and masks, with their identities hidden from the audience and judges. The show follows a guessing game format, with viewers attempting to guess the identity of each singer based on clues given throughout the show. |
+| 5 | [#ENGSCO](http://twitter.com/search?q=%23ENGSCO) | N/A |
+| 6 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 7 | [#calcuttacup](http://twitter.com/search?q=%23calcuttacup) | N/A |
+| 8 | [Gordon](http://twitter.com/search?q=Gordon) | N/A |
+| 9 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
+| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 11 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 14 | [Amber Riley](http://twitter.com/search?q=Amber+Riley) | Amber Riley is an American actress, singer, and author. She is best known for her role as Mercedes Jones on the Fox musical comedy-drama series Glee. The name Amber Riley means "ruler of the sky" or "heavenly ruler". |
+| 15 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 16 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 17 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 18 | [England](http://twitter.com/search?q=England) | N/A |
+| 19 | [Jacket Potato](http://twitter.com/search?q=Jacket+Potato) | A Jacket Potato is a type of baked potato that is cooked in its skin. It is also known as a baked potato or a jacketed potato. The term "jacket" refers to the potato's outer skin, which is left on during the cooking process. The potato can be served with a variety of toppings, such as butter, cheese, sour cream, bacon bits, chives, and other condiments. |
+| 20 | [Ricky Wilson](http://twitter.com/search?q=Ricky+Wilson) | N/A |
+| 21 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 22 | [Claire Richards](http://twitter.com/search?q=Claire+Richards) | Claire Richards is a British singer and songwriter, best known as a member of the pop group Steps. She is also a solo artist and has released two solo albums. The name Claire Richards is derived from her given name, Claire Louise Richards. |
+| 23 | [James Arthur](http://twitter.com/search?q=James+Arthur) | James Arthur is a British singer and songwriter. He rose to fame after winning the ninth series of The X Factor in 2012. His debut single, "Impossible", was released in December 2012 and peaked at number one on the UK Singles Chart. |
+| 24 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 25 | [Steps](http://twitter.com/search?q=Steps) | Steps is a term used to refer to the individual actions or stages of a process. It can also refer to the physical steps taken in a dance or other activity. In English, it is used to describe the process of doing something, often in a systematic way. |
+| 26 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
+| 27 | [Shane Ritchie](http://twitter.com/search?q=Shane+Ritchie) | N/A |
+| 28 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 29 | [Fawn](http://twitter.com/search?q=Fawn) | Fawn is a light brown color, usually associated with the color of a young deer. It is also used as a verb to describe the behavior of an animal or person who shows fear or nervousness. |
+| 30 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 31 | [Van Der Merwe](http://twitter.com/search?q=Van+Der+Merwe) | N/A |
+| 32 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 33 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 34 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
+| 35 | [Daisy May Cooper](http://twitter.com/search?q=Daisy+May+Cooper) | N/A |
+| 36 | [Natalie Appleton](http://twitter.com/search?q=Natalie+Appleton) | N/A |
+| 37 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 38 | [Ben Youngs](http://twitter.com/search?q=Ben+Youngs) | N/A |
+| 39 | [Crashed the Wedding](http://twitter.com/search?q=Crashed+the+Wedding) | N/A |
+| 40 | [Richie Sambora](http://twitter.com/search?q=Richie+Sambora) | N/A |
+| 41 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 42 | [Coufal](http://twitter.com/search?q=Coufal) | N/A |
+| 43 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
+| 44 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 45 | [Otter](http://twitter.com/search?q=Otter) | N/A |
+| 46 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 47 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 48 | [Davina](http://twitter.com/search?q=Davina) | N/A |
+| 49 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 50 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
 
 
 

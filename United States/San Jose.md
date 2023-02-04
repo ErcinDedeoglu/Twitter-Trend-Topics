@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-04 19:16:40 UTC`
+📆 Last Updated: `2023-02-04 20:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PadresFanFest](http://twitter.com/search?q=%23PadresFanFest) | N/A |
-| 2 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 3 | [Alaska](http://twitter.com/search?q=Alaska) | N/A |
-| 4 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
-| 5 | [#GOPClownShowContinues](http://twitter.com/search?q=%23GOPClownShowContinues) | N/A |
-| 6 | [#HBDTheSimsGiveaway](http://twitter.com/search?q=%23HBDTheSimsGiveaway) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 10 | [#ChineseSpyBallon](http://twitter.com/search?q=%23ChineseSpyBallon) | N/A |
-| 11 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
-| 12 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | N/A |
-| 13 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
-| 14 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 15 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 16 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 17 | [Conor](http://twitter.com/search?q=Conor) | N/A |
-| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 19 | [Atlantic](http://twitter.com/search?q=Atlantic) | N/A |
-| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 21 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 22 | [The FAA](http://twitter.com/search?q=The+FAA) | The FAA stands for the Federal Aviation Administration. It is an agency of the United States government that is responsible for regulating and overseeing all aspects of civil aviation in the United States. This includes aircraft design and manufacturing, air traffic control, pilot licensing, airport operations, and more. |
-| 23 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
-| 24 | [Cyclones](http://twitter.com/search?q=Cyclones) | N/A |
-| 25 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 27 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 28 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 31 | [Lisandro Martinez](http://twitter.com/search?q=Lisandro+Martinez) | N/A |
-| 32 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 33 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
-| 34 | [Bella Goth](http://twitter.com/search?q=Bella+Goth) | N/A |
-| 35 | [Armie Hammer](http://twitter.com/search?q=Armie+Hammer) | N/A |
-| 36 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
-| 37 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
-| 38 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 39 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 40 | [Chipmunk](http://twitter.com/search?q=Chipmunk) | N/A |
-| 41 | [Tre King](http://twitter.com/search?q=Tre+King) | N/A |
-| 42 | [Willie McGee](http://twitter.com/search?q=Willie+McGee) | N/A |
-| 43 | [Camp David](http://twitter.com/search?q=Camp+David) | N/A |
-| 44 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 45 | [Jaren Holmes](http://twitter.com/search?q=Jaren+Holmes) | N/A |
-| 46 | [Gradey](http://twitter.com/search?q=Gradey) | N/A |
-| 47 | [Pedulla](http://twitter.com/search?q=Pedulla) | N/A |
-| 48 | [Keffals](http://twitter.com/search?q=Keffals) | N/A |
-| 49 | [Size 7y](http://twitter.com/search?q=Size+7y) | N/A |
-| 50 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 2 | [P-22](http://twitter.com/search?q=P-22) | N/A |
+| 3 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 4 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 5 | [The Biden](http://twitter.com/search?q=The+Biden) | N/A |
+| 6 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
+| 7 | [#GOPClownShowContinues](http://twitter.com/search?q=%23GOPClownShowContinues) | N/A |
+| 8 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | #ChineseSpyBalloon is a hashtag used to refer to a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activity on the ground. The term is often used in a derogatory manner to criticize China's surveillance activities. |
+| 9 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
+| 10 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
+| 11 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 12 | [#HBDTheSimsGiveaway](http://twitter.com/search?q=%23HBDTheSimsGiveaway) | N/A |
+| 13 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
+| 16 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
+| 17 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
+| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 19 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 20 | [Carolina coast](http://twitter.com/search?q=Carolina+coast) | N/A |
+| 21 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 22 | [Conor](http://twitter.com/search?q=Conor) | N/A |
+| 23 | [The FAA](http://twitter.com/search?q=The+FAA) | The FAA stands for the Federal Aviation Administration. It is an agency of the United States government that is responsible for regulating and overseeing all aspects of civil aviation in the United States. This includes aircraft design and manufacturing, air traffic control, pilot licensing, airport operations, and more. |
+| 24 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 25 | [Alaska](http://twitter.com/search?q=Alaska) | N/A |
+| 26 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 27 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 30 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 31 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 32 | [Cyclones](http://twitter.com/search?q=Cyclones) | N/A |
+| 33 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 34 | [Surfside Beach](http://twitter.com/search?q=Surfside+Beach) | N/A |
+| 35 | [F-22](http://twitter.com/search?q=F-22) | N/A |
+| 36 | [Armie Hammer](http://twitter.com/search?q=Armie+Hammer) | N/A |
+| 37 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 38 | [Uros](http://twitter.com/search?q=Uros) | N/A |
+| 39 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 41 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
+| 42 | [Keffals](http://twitter.com/search?q=Keffals) | N/A |
+| 43 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 44 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
+| 45 | [Willie McGee](http://twitter.com/search?q=Willie+McGee) | N/A |
+| 46 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 47 | [Wilmington](http://twitter.com/search?q=Wilmington) | Wilmington is a city in the state of Delaware in the United States. It is the largest city in the state and is located at the confluence of the Christina River and Brandywine Creek. The name Wilmington comes from Spencer Compton, Earl of Wilmington, who was Prime Minister of Great Britain from 1742 to 1743. |
+| 48 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
+| 49 | [Camp David](http://twitter.com/search?q=Camp+David) | N/A |
+| 50 | [Fire Robyn](http://twitter.com/search?q=Fire+Robyn) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-04 19:16:14 UTC`
+📆 Last Updated: `2023-02-04 20:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 7 | [Maske](http://twitter.com/search?q=Maske) | N/A |
 | 8 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 9 | [#Chamonix](http://twitter.com/search?q=%23Chamonix) | N/A |
-| 10 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 9 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 10 | [#Chamonix](http://twitter.com/search?q=%23Chamonix) | N/A |
 | 11 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 12 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 13 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 14 | [America](http://twitter.com/search?q=America) | N/A |
-| 15 | [Pfister](http://twitter.com/search?q=Pfister) | N/A |
+| 12 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 13 | [Russes](http://twitter.com/search?q=Russes) | N/A |
+| 14 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 15 | [America](http://twitter.com/search?q=America) | N/A |
 | 16 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
-| 17 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 18 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 23 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 24 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
-| 25 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 26 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 27 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 28 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 17 | [Pfister](http://twitter.com/search?q=Pfister) | N/A |
+| 18 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 19 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 21 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 22 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
+| 23 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 24 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 25 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 26 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 27 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 28 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 | 29 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 30 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
-| 31 | [Cervenka](http://twitter.com/search?q=Cervenka) | N/A |
-| 32 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 33 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 35 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 36 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 37 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 38 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 39 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 40 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 41 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 42 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 45 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
-| 46 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 47 | [Raum](http://twitter.com/search?q=Raum) | N/A |
-| 48 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 30 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 31 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 32 | [Cervenka](http://twitter.com/search?q=Cervenka) | N/A |
+| 33 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 34 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 35 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 36 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 37 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 38 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 39 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 40 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 41 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 42 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 43 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Solange](http://twitter.com/search?q=Solange) | N/A |
+| 46 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 47 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 48 | [Raum](http://twitter.com/search?q=Raum) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-04 19:16:06 UTC`
+📆 Last Updated: `2023-02-04 20:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 2 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
-| 3 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 6 | [#ทฤษฎีสีชมพูEP11](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP11) | #ทฤษฎีสีชมพูEP11 is the hashtag for the eleventh episode of the Thai television series Theory of Color Pink. The English translation of the hashtag would be "#TheoryofColorPinkEP11". |
-| 7 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 8 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 9 | [#GAPtheseries](http://twitter.com/search?q=%23GAPtheseries) | N/A |
-| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 11 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 12 | [#GOPAIN](http://twitter.com/search?q=%23GOPAIN) | N/A |
-| 13 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 14 | [Wydad](http://twitter.com/search?q=Wydad) | Wydad is a Moroccan football club based in Casablanca. The name Wydad means "love" or "affection" in Arabic. |
-| 15 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 16 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
-| 17 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [Leandro Lo](http://twitter.com/search?q=Leandro+Lo) | N/A |
-| 20 | [Dynquedo](http://twitter.com/search?q=Dynquedo) | N/A |
-| 21 | [Seattle Sounders](http://twitter.com/search?q=Seattle+Sounders) | N/A |
-| 22 | [Constantinopla](http://twitter.com/search?q=Constantinopla) | N/A |
-| 23 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 24 | [Dynkas](http://twitter.com/search?q=Dynkas) | N/A |
-| 25 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 28 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 29 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 31 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
-| 32 | [Kanno](http://twitter.com/search?q=Kanno) | N/A |
-| 33 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 34 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 35 | [Keyd](http://twitter.com/search?q=Keyd) | N/A |
-| 36 | [São Miguel do Oeste](http://twitter.com/search?q=S%c3%a3o+Miguel+do+Oeste) | N/A |
-| 37 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 38 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 39 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 40 | [Thiago Lopes](http://twitter.com/search?q=Thiago+Lopes) | Thiago Lopes is a Portuguese name. It is derived from the Latin name Thiagus, which means "beloved". In English, it can be translated to mean "beloved one". |
-| 41 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
-| 42 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 43 | [Christian Grey](http://twitter.com/search?q=Christian+Grey) | N/A |
-| 44 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 45 | [Fernando Torres](http://twitter.com/search?q=Fernando+Torres) | N/A |
-| 46 | [Marega](http://twitter.com/search?q=Marega) | Marega is a Spanish slang term that means "crazy" or "insane". It is often used to describe someone who is acting in an irrational or unpredictable manner. |
-| 47 | [Wizer](http://twitter.com/search?q=Wizer) | N/A |
-| 48 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 49 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
+| 2 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 3 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 4 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 5 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 6 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 7 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 8 | [Bruno Uvini](http://twitter.com/search?q=Bruno+Uvini) | N/A |
+| 9 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 10 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 11 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [#ทฤษฎีสีชมพูEP11](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP11) | #ทฤษฎีสีชมพูEP11 is the hashtag for the eleventh episode of the Thai television series Theory of Color Pink. The English translation of the hashtag would be "#TheoryofColorPinkEP11". |
+| 14 | [#GAPtheseries](http://twitter.com/search?q=%23GAPtheseries) | N/A |
+| 15 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
+| 16 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
+| 17 | [#LasanhaSearaLover](http://twitter.com/search?q=%23LasanhaSearaLover) | N/A |
+| 18 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 19 | [Aimoré](http://twitter.com/search?q=Aimor%c3%a9) | N/A |
+| 20 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 22 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 23 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 24 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 25 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
+| 26 | [Gasolina](http://twitter.com/search?q=Gasolina) | N/A |
+| 27 | [Leandro Lo](http://twitter.com/search?q=Leandro+Lo) | N/A |
+| 28 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 29 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 30 | [Constantinopla](http://twitter.com/search?q=Constantinopla) | N/A |
+| 31 | [Seattle Sounders](http://twitter.com/search?q=Seattle+Sounders) | Seattle Sounders is a professional soccer team based in Seattle, Washington. The team competes in Major League Soccer (MLS) as a member of the Western Conference. The Sounders play their home games at CenturyLink Field, and are the reigning MLS Cup champions. The team's name is derived from Seattle's maritime culture, as well as from the prominent role of the city's shipping industry in the early 20th century. |
+| 32 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 33 | [Figueirense](http://twitter.com/search?q=Figueirense) | N/A |
+| 34 | [Wydad](http://twitter.com/search?q=Wydad) | Wydad is a Moroccan football club based in Casablanca. The name Wydad means "love" or "affection" in Arabic. |
+| 35 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 36 | [Ferreirinha](http://twitter.com/search?q=Ferreirinha) | N/A |
+| 37 | [Dynkas](http://twitter.com/search?q=Dynkas) | N/A |
+| 38 | [jaden](http://twitter.com/search?q=jaden) | N/A |
+| 39 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 40 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
+| 41 | [figueira](http://twitter.com/search?q=figueira) | N/A |
+| 42 | [Globeleza](http://twitter.com/search?q=Globeleza) | N/A |
+| 43 | [bruno gaga](http://twitter.com/search?q=bruno+gaga) | N/A |
+| 44 | [Villasanti](http://twitter.com/search?q=Villasanti) | N/A |
+| 45 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 46 | [Dynquedo](http://twitter.com/search?q=Dynquedo) | N/A |
+| 47 | [Kanno](http://twitter.com/search?q=Kanno) | N/A |
+| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 49 | [Keyd](http://twitter.com/search?q=Keyd) | N/A |
 | 50 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 
 
