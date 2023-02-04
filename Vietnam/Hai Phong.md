@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-04 22:16:27 UTC`
+📆 Last Updated: `2023-02-04 23:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,7 +48,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 31 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
 | 32 | [Core](http://twitter.com/search?q=Core) | N/A |
 | 33 | [Let's Go](http://twitter.com/search?q=Let%27s+Go) | N/A |
-| 34 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 34 | [CHAN](http://twitter.com/search?q=CHAN) | N/A |
 | 35 | [taerae](http://twitter.com/search?q=taerae) | N/A |
 | 36 | [tiếc](http://twitter.com/search?q=ti%e1%ba%bfc) | N/A |
 | 37 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 43 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 44 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 45 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 45 | [sướng](http://twitter.com/search?q=s%c6%b0%e1%bb%9bng) | N/A |
 | 46 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 47 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
 | 48 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |

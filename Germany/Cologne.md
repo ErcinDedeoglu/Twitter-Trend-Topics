@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-04 22:16:15 UTC`
+📆 Last Updated: `2023-02-04 23:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,46 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
 | 2 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
 | 3 | [#SGFFCN](http://twitter.com/search?q=%23SGFFCN) | N/A |
-| 4 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
-| 5 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 6 | [#takemeout](http://twitter.com/search?q=%23takemeout) | N/A |
-| 7 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
-| 8 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 9 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 10 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 11 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 12 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 13 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 14 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 15 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 16 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 4 | [#TakeMeOut](http://twitter.com/search?q=%23TakeMeOut) | N/A |
+| 5 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
+| 6 | [#dsds](http://twitter.com/search?q=%23dsds) | N/A |
+| 7 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 8 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
+| 9 | [Kerner](http://twitter.com/search?q=Kerner) | N/A |
+| 10 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 11 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 12 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 13 | [Identität](http://twitter.com/search?q=Identit%c3%a4t) | N/A |
+| 14 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 15 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 16 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
 | 17 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
-| 18 | [Alkoholiker](http://twitter.com/search?q=Alkoholiker) | N/A |
-| 19 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
-| 20 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 21 | [Rotwein](http://twitter.com/search?q=Rotwein) | N/A |
-| 22 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 23 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 24 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
-| 25 | [Apfel](http://twitter.com/search?q=Apfel) | N/A |
-| 26 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 27 | [Prost](http://twitter.com/search?q=Prost) | N/A |
-| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 29 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
-| 30 | [Hafermilch](http://twitter.com/search?q=Hafermilch) | N/A |
-| 31 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 32 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 33 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Regal](http://twitter.com/search?q=Regal) | N/A |
-| 36 | [Edeka](http://twitter.com/search?q=Edeka) | N/A |
-| 37 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 18 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 19 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 20 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
+| 21 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 22 | [Prost](http://twitter.com/search?q=Prost) | N/A |
+| 23 | [Rotwein](http://twitter.com/search?q=Rotwein) | N/A |
+| 24 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 25 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
+| 26 | [Apfel](http://twitter.com/search?q=Apfel) | N/A |
+| 27 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 28 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
+| 29 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 30 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 32 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 33 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 34 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 36 | [Regal](http://twitter.com/search?q=Regal) | N/A |
+| 37 | [Edeka](http://twitter.com/search?q=Edeka) | N/A |
 | 38 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 39 | [Flaschen](http://twitter.com/search?q=Flaschen) | N/A |
-| 40 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 41 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 42 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 43 | [#kleingegengross](http://twitter.com/search?q=%23kleingegengross) | N/A |
-| 44 | [#nrkmgp](http://twitter.com/search?q=%23nrkmgp) | N/A |
-| 45 | [#Frankenderby](http://twitter.com/search?q=%23Frankenderby) | N/A |
-| 46 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
-| 47 | [#alleseurovision](http://twitter.com/search?q=%23alleseurovision) | N/A |
-| 48 | [#SGEBSC](http://twitter.com/search?q=%23SGEBSC) | N/A |
-| 49 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 50 | [#KOERBL](http://twitter.com/search?q=%23KOERBL) | N/A |
+| 39 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 40 | [#kleingegengross](http://twitter.com/search?q=%23kleingegengross) | N/A |
+| 41 | [#nrkmgp](http://twitter.com/search?q=%23nrkmgp) | N/A |
+| 42 | [#alleseurovision](http://twitter.com/search?q=%23alleseurovision) | N/A |
+| 43 | [#AfDzerstoertDeutschland](http://twitter.com/search?q=%23AfDzerstoertDeutschland) | N/A |
 
 
 

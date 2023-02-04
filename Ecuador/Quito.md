@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-04 22:16:08 UTC`
+📆 Last Updated: `2023-02-04 23:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 2 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
-| 3 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 4 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 5 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
-| 6 | [Arce](http://twitter.com/search?q=Arce) | N/A |
-| 7 | [#EcuadorVota2023](http://twitter.com/search?q=%23EcuadorVota2023) | N/A |
-| 8 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 9 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 10 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 11 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
-| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 13 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
-| 14 | [#CopaDeCampeones](http://twitter.com/search?q=%23CopaDeCampeones) | N/A |
-| 15 | [Rodrigo Paz](http://twitter.com/search?q=Rodrigo+Paz) | N/A |
-| 16 | [#DíaMundialContraElCáncer](http://twitter.com/search?q=%23D%c3%adaMundialContraElC%c3%a1ncer) | N/A |
-| 17 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
-| 18 | [Ecuabrighton](http://twitter.com/search?q=Ecuabrighton) | N/A |
-| 19 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 20 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 21 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 22 | [Undav](http://twitter.com/search?q=Undav) | N/A |
-| 23 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 24 | [Reinoso](http://twitter.com/search?q=Reinoso) | N/A |
-| 25 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 26 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
-| 27 | [Mera](http://twitter.com/search?q=Mera) | N/A |
-| 28 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
-| 29 | [alan minda](http://twitter.com/search?q=alan+minda) | N/A |
-| 30 | [Julio Sánchez](http://twitter.com/search?q=Julio+S%c3%a1nchez) | N/A |
-| 31 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 32 | [sebastián gonzález](http://twitter.com/search?q=sebasti%c3%a1n+gonz%c3%a1lez) | N/A |
-| 33 | [yuleria x radio divaza](http://twitter.com/search?q=yuleria+x+radio+divaza) | N/A |
-| 34 | [Luciano Rodríguez](http://twitter.com/search?q=Luciano+Rodr%c3%adguez) | Luciano Rodríguez is a Spanish masculine given name. It is derived from the Latin name Lucius, meaning "light" or "illustrious". In English, it can be translated to mean "illustrious warrior". |
-| 35 | [Tabacchi](http://twitter.com/search?q=Tabacchi) | N/A |
-| 36 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
-| 37 | [Yunda](http://twitter.com/search?q=Yunda) | N/A |
-| 38 | [Juez](http://twitter.com/search?q=Juez) | N/A |
-| 39 | [Napa](http://twitter.com/search?q=Napa) | N/A |
-| 40 | [louis come to ecuador](http://twitter.com/search?q=louis+come+to+ecuador) | N/A |
-| 41 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 42 | [Ricardo Adé](http://twitter.com/search?q=Ricardo+Ad%c3%a9) | N/A |
-| 43 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 44 | [miller bolaños](http://twitter.com/search?q=miller+bola%c3%b1os) | N/A |
-| 45 | [Guarderas](http://twitter.com/search?q=Guarderas) | N/A |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 48 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 1 | [#CopaDeCampeones](http://twitter.com/search?q=%23CopaDeCampeones) | N/A |
+| 2 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 3 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
+| 4 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 5 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
+| 6 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 7 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 8 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
+| 9 | [Rodrigo Paz](http://twitter.com/search?q=Rodrigo+Paz) | N/A |
+| 10 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
+| 11 | [#EcuadorVota2023](http://twitter.com/search?q=%23EcuadorVota2023) | N/A |
+| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 13 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 14 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 15 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 16 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
+| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 18 | [#DCuenca](http://twitter.com/search?q=%23DCuenca) | N/A |
+| 19 | [#Elecciones2023Ec](http://twitter.com/search?q=%23Elecciones2023Ec) | N/A |
+| 20 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
+| 21 | [Arce](http://twitter.com/search?q=Arce) | N/A |
+| 22 | [Ricardo Adé](http://twitter.com/search?q=Ricardo+Ad%c3%a9) | N/A |
+| 23 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 24 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 25 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 26 | [EcuaBrighton](http://twitter.com/search?q=EcuaBrighton) | N/A |
+| 27 | [Undav](http://twitter.com/search?q=Undav) | N/A |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 30 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 31 | [Reinoso](http://twitter.com/search?q=Reinoso) | N/A |
+| 32 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 33 | [Mera](http://twitter.com/search?q=Mera) | N/A |
+| 34 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 35 | [Los Choneros](http://twitter.com/search?q=Los+Choneros) | N/A |
+| 36 | [Julio Sánchez](http://twitter.com/search?q=Julio+S%c3%a1nchez) | N/A |
+| 37 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
+| 38 | [alan minda](http://twitter.com/search?q=alan+minda) | N/A |
+| 39 | [yuleria x radio divaza](http://twitter.com/search?q=yuleria+x+radio+divaza) | N/A |
+| 40 | [Yunda](http://twitter.com/search?q=Yunda) | N/A |
+| 41 | [Luciano Rodríguez](http://twitter.com/search?q=Luciano+Rodr%c3%adguez) | Luciano Rodríguez is a Spanish masculine given name. It is derived from the Latin name Lucius, meaning "light" or "illustrious". In English, it can be translated to mean "illustrious warrior". |
+| 42 | [Tabacchi](http://twitter.com/search?q=Tabacchi) | N/A |
+| 43 | [Napa](http://twitter.com/search?q=Napa) | N/A |
+| 44 | [louis come to ecuador](http://twitter.com/search?q=louis+come+to+ecuador) | N/A |
+| 45 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 46 | [miller bolaños](http://twitter.com/search?q=miller+bola%c3%b1os) | N/A |
+| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 48 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 49 | [Moisés Caicedo](http://twitter.com/search?q=Mois%c3%a9s+Caicedo) | N/A |
 | 50 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
 
