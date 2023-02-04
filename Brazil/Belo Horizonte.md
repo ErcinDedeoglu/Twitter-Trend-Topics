@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-04 05:16:35 UTC`
+📆 Last Updated: `2023-02-04 06:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Belo Horizonte](http://twitter.com/search?q=Belo+Horizonte) | N/A |
-| 2 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 3 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
-| 4 | [arana](http://twitter.com/search?q=arana) | N/A |
-| 5 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 6 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 7 | [Felipe Araújo](http://twitter.com/search?q=Felipe+Ara%c3%bajo) | Felipe Araújo is a Brazilian singer and songwriter. His name translates to "Lover of Peace" in English. |
-| 8 | [Mari Palma](http://twitter.com/search?q=Mari+Palma) | Mari Palma is a Spanish phrase that translates to "Mary of the Palm". It is a traditional Spanish song about a woman who is said to have been born from a palm tree. The song tells the story of her life and how she eventually died. |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 10 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 11 | [CODA](http://twitter.com/search?q=CODA) | N/A |
-| 12 | [Parasita](http://twitter.com/search?q=Parasita) | N/A |
-| 13 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
-| 14 | [Birdman](http://twitter.com/search?q=Birdman) | N/A |
-| 15 | [Moonlight](http://twitter.com/search?q=Moonlight) | N/A |
-| 16 | [#TikTokNoBBB](http://twitter.com/search?q=%23TikTokNoBBB) | N/A |
-| 17 | [Coraline](http://twitter.com/search?q=Coraline) | N/A |
-| 18 | [DIA DE GRÊMIO](http://twitter.com/search?q=DIA+DE+GR%c3%8aMIO) | N/A |
-| 19 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
-| 20 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 21 | [#estudioatlantidanoplaneta](http://twitter.com/search?q=%23estudioatlantidanoplaneta) | N/A |
-| 22 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 23 | [MAIARA](http://twitter.com/search?q=MAIARA) | MAIARA is a female name of Brazilian origin. It is derived from the Tupi language and means "wise". |
-| 24 | [Jean Pyerre](http://twitter.com/search?q=Jean+Pyerre) | N/A |
+| 2 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 3 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 4 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 5 | [Felipe Araújo](http://twitter.com/search?q=Felipe+Ara%c3%bajo) | Felipe Araújo is a Brazilian singer and songwriter. His name translates to "Lover of Peace" in English. |
+| 6 | [Mari Palma](http://twitter.com/search?q=Mari+Palma) | Mari Palma is a Spanish phrase that translates to "Mary of the Palm". It is a traditional Spanish song about a woman who is said to have been born from a palm tree. The song tells the story of her life and how she eventually died. |
+| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 8 | [Parasita](http://twitter.com/search?q=Parasita) | N/A |
+| 9 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 10 | [Moonlight](http://twitter.com/search?q=Moonlight) | N/A |
+| 11 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
+| 12 | [CODA](http://twitter.com/search?q=CODA) | N/A |
+| 13 | [#PINTOAWARDS](http://twitter.com/search?q=%23PINTOAWARDS) | N/A |
+| 14 | [#TikTokNoBBB](http://twitter.com/search?q=%23TikTokNoBBB) | N/A |
+| 15 | [Coraline](http://twitter.com/search?q=Coraline) | N/A |
+| 16 | [Birdman](http://twitter.com/search?q=Birdman) | N/A |
+| 17 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
+| 18 | [#estudioatlantidanoplaneta](http://twitter.com/search?q=%23estudioatlantidanoplaneta) | N/A |
+| 19 | [arcadia bay](http://twitter.com/search?q=arcadia+bay) | N/A |
+| 20 | [Insônia](http://twitter.com/search?q=Ins%c3%b4nia) | N/A |
+| 21 | [DIA DE GRÊMIO](http://twitter.com/search?q=DIA+DE+GR%c3%8aMIO) | N/A |
+| 22 | [Menos É Mais](http://twitter.com/search?q=Menos+%c3%89+Mais) | N/A |
+| 23 | [Multishow](http://twitter.com/search?q=Multishow) | N/A |
+| 24 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
 | 25 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 26 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 27 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 28 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 29 | [Multishow](http://twitter.com/search?q=Multishow) | N/A |
-| 30 | [arcadia bay](http://twitter.com/search?q=arcadia+bay) | N/A |
-| 31 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
-| 32 | [Duzão](http://twitter.com/search?q=Duz%c3%a3o) | N/A |
-| 33 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 34 | [MARCOS DO VAL CASSADO](http://twitter.com/search?q=MARCOS+DO+VAL+CASSADO) | N/A |
-| 35 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 36 | [UFMS](http://twitter.com/search?q=UFMS) | N/A |
-| 37 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
-| 38 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 39 | [Marlon Gomes](http://twitter.com/search?q=Marlon+Gomes) | Marlon Gomes is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (lion). The name means "sea lion". |
-| 40 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 41 | [Castelo Rá-Tim-Bum](http://twitter.com/search?q=Castelo+R%c3%a1-Tim-Bum) | N/A |
-| 42 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 43 | [Kauan](http://twitter.com/search?q=Kauan) | N/A |
-| 44 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 45 | [O Cris](http://twitter.com/search?q=O+Cris) | N/A |
-| 46 | [bodies bodies bodies](http://twitter.com/search?q=bodies+bodies+bodies) | N/A |
-| 47 | [O Pix](http://twitter.com/search?q=O+Pix) | N/A |
-| 48 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
-| 49 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 50 | [mc loma](http://twitter.com/search?q=mc+loma) | N/A |
+| 26 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 27 | [Danny Bond](http://twitter.com/search?q=Danny+Bond) | N/A |
+| 28 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 29 | [Jean Pyerre](http://twitter.com/search?q=Jean+Pyerre) | N/A |
+| 30 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 31 | [MAIARA](http://twitter.com/search?q=MAIARA) | MAIARA is a female name of Brazilian origin. It is derived from the Tupi language and means "wise". |
+| 32 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 33 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 34 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 35 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 36 | [Kauan](http://twitter.com/search?q=Kauan) | N/A |
+| 37 | [shadowhunters](http://twitter.com/search?q=shadowhunters) | N/A |
+| 38 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 39 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 40 | [Lucas Lucco](http://twitter.com/search?q=Lucas+Lucco) | N/A |
+| 41 | [O Cris](http://twitter.com/search?q=O+Cris) | N/A |
+| 42 | [bodies bodies bodies](http://twitter.com/search?q=bodies+bodies+bodies) | N/A |
+| 43 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 44 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 45 | [VAL CASSADO](http://twitter.com/search?q=VAL+CASSADO) | N/A |
+| 46 | [UFMS](http://twitter.com/search?q=UFMS) | N/A |
+| 47 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 48 | [Castelo Rá-Tim-Bum](http://twitter.com/search?q=Castelo+R%c3%a1-Tim-Bum) | N/A |
+| 49 | [Marlon Gomes](http://twitter.com/search?q=Marlon+Gomes) | Marlon Gomes is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (lion). The name means "sea lion". |
+| 50 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
 
 
 

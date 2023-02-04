@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-04 05:16:50 UTC`
+📆 Last Updated: `2023-02-04 06:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EXOSC_BackToBack](http://twitter.com/search?q=%23EXOSC_BackToBack) | #EXOSC_BackToBack is a hashtag used by fans of the South Korean boy band EXO to show their support for the group's back-to-back concerts. The hashtag is used to share photos, videos, and messages related to the concerts. |
-| 2 | [#LiveOnSaturnJKT](http://twitter.com/search?q=%23LiveOnSaturnJKT) | N/A |
-| 3 | [#EXOSCFANCONINJAKARTA](http://twitter.com/search?q=%23EXOSCFANCONINJAKARTA) | N/A |
-| 4 | [#EXOSCinJKT](http://twitter.com/search?q=%23EXOSCinJKT) | N/A |
-| 5 | [#ASEANIndonesia2023](http://twitter.com/search?q=%23ASEANIndonesia2023) | #ASEANIndonesia2023 is a hashtag used to promote Indonesia's hosting of the 2023 ASEAN Summit. ASEAN stands for the Association of Southeast Asian Nations, an intergovernmental organization consisting of 10 member states in Southeast Asia. The hashtag is used to raise awareness and support for Indonesia's hosting of the summit in 2023. |
-| 6 | [Ini Diplomasi](http://twitter.com/search?q=Ini+Diplomasi) | Ini Diplomasi is a term used in Indonesian to refer to diplomatic relations. It literally translates to "This Diplomacy" and is used to describe the exchange of diplomatic relations between two countries. In English, it can be translated as "diplomatic relations" or "diplomatic ties". |
-| 7 | [Indo-Pasifik](http://twitter.com/search?q=Indo-Pasifik) | N/A |
+| 1 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 2 | [#EXOSCinJKT](http://twitter.com/search?q=%23EXOSCinJKT) | N/A |
+| 3 | [Cat 1](http://twitter.com/search?q=Cat+1) | N/A |
+| 4 | [#ASEANIndonesia2023](http://twitter.com/search?q=%23ASEANIndonesia2023) | #ASEANIndonesia2023 is a hashtag used to promote Indonesia's hosting of the 2023 ASEAN Summit. ASEAN stands for the Association of Southeast Asian Nations, an intergovernmental organization consisting of 10 member states in Southeast Asia. The hashtag is used to raise awareness and support for Indonesia's hosting of the summit in 2023. |
+| 5 | [Ini Diplomasi](http://twitter.com/search?q=Ini+Diplomasi) | Ini Diplomasi is a term used in Indonesian to refer to diplomatic relations. It literally translates to "This Diplomacy" and is used to describe the exchange of diplomatic relations between two countries. In English, it can be translated as "diplomatic relations" or "diplomatic ties". |
+| 6 | [#DukungVolleySTINBIN](http://twitter.com/search?q=%23DukungVolleySTINBIN) | N/A |
+| 7 | [#Happy30thNewwieeBDCharity](http://twitter.com/search?q=%23Happy30thNewwieeBDCharity) | N/A |
 | 8 | [Epicentrum of Growth](http://twitter.com/search?q=Epicentrum+of+Growth) | N/A |
-| 9 | [Menlu Retno Marsudi](http://twitter.com/search?q=Menlu+Retno+Marsudi) | N/A |
-| 10 | [AMM Retreat](http://twitter.com/search?q=AMM+Retreat) | N/A |
-| 11 | [Psycho](http://twitter.com/search?q=Psycho) | N/A |
-| 12 | [Hari Kanker Sedunia](http://twitter.com/search?q=Hari+Kanker+Sedunia) | N/A |
-| 13 | [Bad Boy](http://twitter.com/search?q=Bad+Boy) | N/A |
-| 14 | [Umur 12](http://twitter.com/search?q=Umur+12) | N/A |
-| 15 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
+| 9 | [Indo-Pasifik](http://twitter.com/search?q=Indo-Pasifik) | N/A |
+| 10 | [Menlu Retno Marsudi](http://twitter.com/search?q=Menlu+Retno+Marsudi) | N/A |
+| 11 | [Bad Boy](http://twitter.com/search?q=Bad+Boy) | N/A |
+| 12 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
+| 13 | [Hari Kanker Sedunia](http://twitter.com/search?q=Hari+Kanker+Sedunia) | N/A |
+| 14 | [Psycho](http://twitter.com/search?q=Psycho) | N/A |
+| 15 | [Jeka Saragih](http://twitter.com/search?q=Jeka+Saragih) | N/A |
 | 16 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 17 | [Feel My Rhythm](http://twitter.com/search?q=Feel+My+Rhythm) | N/A |
-| 18 | [Jeka Saragih](http://twitter.com/search?q=Jeka+Saragih) | N/A |
-| 19 | [Arya Stark](http://twitter.com/search?q=Arya+Stark) | N/A |
-| 20 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
-| 21 | [Kembang](http://twitter.com/search?q=Kembang) | N/A |
-| 22 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 23 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 24 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
-| 25 | [Nadin](http://twitter.com/search?q=Nadin) | N/A |
-| 26 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 27 | [PTIK](http://twitter.com/search?q=PTIK) | N/A |
-| 28 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 29 | [Belanja](http://twitter.com/search?q=Belanja) | N/A |
-| 30 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [The Heirs](http://twitter.com/search?q=The+Heirs) | N/A |
+| 18 | [Feel My Rhythm](http://twitter.com/search?q=Feel+My+Rhythm) | N/A |
+| 19 | [AMM Retreat](http://twitter.com/search?q=AMM+Retreat) | N/A |
+| 20 | [Umur 12](http://twitter.com/search?q=Umur+12) | N/A |
+| 21 | [Jakarta BIN](http://twitter.com/search?q=Jakarta+BIN) | N/A |
+| 22 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
+| 23 | [Arya Stark](http://twitter.com/search?q=Arya+Stark) | N/A |
+| 24 | [COD VENUE](http://twitter.com/search?q=COD+VENUE) | N/A |
+| 25 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 26 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
+| 27 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 28 | [Kembang](http://twitter.com/search?q=Kembang) | N/A |
+| 29 | [PTIK](http://twitter.com/search?q=PTIK) | N/A |
+| 30 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
+| 31 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 32 | [Telkomsel](http://twitter.com/search?q=Telkomsel) | Telkomsel is the largest mobile network operator in Indonesia. It is owned by Telkom Indonesia, the country's largest telecommunications company. The name Telkomsel is derived from the words "Telekomunikasi Selular", which translates to "Cellular Telecommunications" in English. |
-| 33 | [GBLA](http://twitter.com/search?q=GBLA) | N/A |
-| 34 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
-| 35 | [DPRD](http://twitter.com/search?q=DPRD) | N/A |
-| 36 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 37 | [PAK MUH](http://twitter.com/search?q=PAK+MUH) | N/A |
-| 38 | [#Happy30thNewwieeBDCharity](http://twitter.com/search?q=%23Happy30thNewwieeBDCharity) | N/A |
-| 39 | [#FIONYCELEB21GHT](http://twitter.com/search?q=%23FIONYCELEB21GHT) | N/A |
-| 40 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 41 | [#InovasiUtangDanKorupsi](http://twitter.com/search?q=%23InovasiUtangDanKorupsi) | N/A |
-| 42 | [#BWDNtoTaipei](http://twitter.com/search?q=%23BWDNtoTaipei) | #BWDNtoTaipei is a hashtag used by people who are traveling from Beijing to Taipei. It is used to share their experiences and photos of the journey. In English, it stands for "Beijing to Taipei". |
-| 43 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
-| 44 | [#CHECKMATEinJKT](http://twitter.com/search?q=%23CHECKMATEinJKT) | N/A |
-| 45 | [#ITZY_CHECKMATE_JAKARTA](http://twitter.com/search?q=%23ITZY_CHECKMATE_JAKARTA) | N/A |
-| 46 | [#EXO_SC](http://twitter.com/search?q=%23EXO_SC) | N/A |
+| 33 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 34 | [Masterchef](http://twitter.com/search?q=Masterchef) | N/A |
+| 35 | [PAK MUH](http://twitter.com/search?q=PAK+MUH) | N/A |
+| 36 | [GBLA](http://twitter.com/search?q=GBLA) | N/A |
+| 37 | [#IDGEVEvsARS](http://twitter.com/search?q=%23IDGEVEvsARS) | N/A |
+| 38 | [#FIONYCELEB21GHT](http://twitter.com/search?q=%23FIONYCELEB21GHT) | N/A |
+| 39 | [#CHECKMATEinJKT](http://twitter.com/search?q=%23CHECKMATEinJKT) | N/A |
+| 40 | [#EXOSC_BackToBack](http://twitter.com/search?q=%23EXOSC_BackToBack) | #EXOSC_BackToBack is a hashtag used by fans of the South Korean boy band EXO to show their support for the group's back-to-back concerts. The hashtag is used to share photos, videos, and messages related to the concerts. |
+| 41 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
+| 42 | [#LiveOnSaturnJKT](http://twitter.com/search?q=%23LiveOnSaturnJKT) | N/A |
+| 43 | [#EXOSCFANCONINJAKARTA](http://twitter.com/search?q=%23EXOSCFANCONINJAKARTA) | N/A |
+| 44 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 45 | [#BWDNtoTaipei](http://twitter.com/search?q=%23BWDNtoTaipei) | #BWDNtoTaipei is a hashtag used by people who are traveling from Beijing to Taipei. It is used to share their experiences and photos of the journey. In English, it stands for "Beijing to Taipei". |
+| 46 | [#ITZY_CHECKMATE_JAKARTA](http://twitter.com/search?q=%23ITZY_CHECKMATE_JAKARTA) | N/A |
+| 47 | [#EXO_SC](http://twitter.com/search?q=%23EXO_SC) | N/A |
+| 48 | [#EXOSCinJakarta](http://twitter.com/search?q=%23EXOSCinJakarta) | N/A |
 
 
 

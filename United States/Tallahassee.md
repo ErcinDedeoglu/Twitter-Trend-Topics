@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-02-04 05:17:23 UTC`
+📆 Last Updated: `2023-02-04 06:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 2 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 3 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 1 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
+| 2 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
+| 3 | [#NavarreteWilson](http://twitter.com/search?q=%23NavarreteWilson) | N/A |
 | 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
-| 6 | [#NavarreteWilson](http://twitter.com/search?q=%23NavarreteWilson) | N/A |
-| 7 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
-| 8 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 10 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
-| 11 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 12 | [Barboza](http://twitter.com/search?q=Barboza) | Barboza is a Spanish word meaning "barbarian". It is often used to describe someone who is uncivilized or rude. |
-| 13 | [Billings](http://twitter.com/search?q=Billings) | Billings is a city in the state of Montana, United States. It is the largest city in the state and serves as its economic and cultural center. The name Billings comes from Frederick H. Billings, a former president of the Northern Pacific Railroad. |
+| 5 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 6 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 7 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 8 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
+| 9 | [Liam Wilson](http://twitter.com/search?q=Liam+Wilson) | Liam Wilson is a name of Irish origin, derived from the Gaelic name Uilliam. It is a combination of the words "will" and "helmet," and it means "protector." |
+| 10 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 11 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 12 | [Billings](http://twitter.com/search?q=Billings) | Billings is a city in the state of Montana, United States. It is the largest city in the state and serves as its economic and cultural center. The name Billings comes from Frederick H. Billings, a former president of the Northern Pacific Railroad. |
+| 13 | [Barboza](http://twitter.com/search?q=Barboza) | Barboza is a Spanish word meaning "barbarian". It is often used to describe someone who is uncivilized or rude. |
 | 14 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
-| 15 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 16 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
-| 17 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 18 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 19 | [Liam Wilson](http://twitter.com/search?q=Liam+Wilson) | N/A |
-| 20 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
-| 21 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 22 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
-| 23 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 24 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 25 | [Ovi Jr](http://twitter.com/search?q=Ovi+Jr) | Ovi Jr is a nickname for the Finnish professional ice hockey player, Ovi Kauste. The nickname is derived from his first name, Ovi, and is used to distinguish him from his father, who also played professional ice hockey. In English, the nickname means "Little Ovi". |
-| 26 | [Billy Jack](http://twitter.com/search?q=Billy+Jack) | N/A |
-| 27 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 28 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
-| 29 | [Miracle Whip](http://twitter.com/search?q=Miracle+Whip) | N/A |
-| 30 | [Sergei Ovechkin](http://twitter.com/search?q=Sergei+Ovechkin) | Sergei Ovechkin is a Russian professional ice hockey player who currently plays for the Washington Capitals of the National Hockey League (NHL). He is widely regarded as one of the greatest hockey players of all time and has won numerous awards, including the Hart Memorial Trophy as the NHL's most valuable player eight times. The name "Ovechkin" is derived from the Russian word for "little goat". |
-| 31 | [Mt Washington](http://twitter.com/search?q=Mt+Washington) | N/A |
-| 32 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
-| 33 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 34 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 35 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 36 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
-| 37 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 38 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
-| 39 | [Winter Park](http://twitter.com/search?q=Winter+Park) | N/A |
-| 40 | [Power of the Elements](http://twitter.com/search?q=Power+of+the+Elements) | N/A |
-| 41 | [Nye County](http://twitter.com/search?q=Nye+County) | N/A |
-| 42 | [Every American](http://twitter.com/search?q=Every+American) | Every American is a term used to refer to all citizens of the United States of America. It is often used to emphasize the collective identity of the nation and its people. |
+| 15 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
+| 16 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
+| 17 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 18 | [Miracle Whip](http://twitter.com/search?q=Miracle+Whip) | N/A |
+| 19 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 20 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 21 | [Winter Park](http://twitter.com/search?q=Winter+Park) | N/A |
+| 22 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
+| 23 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 24 | [Billy Jack](http://twitter.com/search?q=Billy+Jack) | N/A |
+| 25 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
+| 26 | [South America](http://twitter.com/search?q=South+America) | N/A |
+| 27 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 28 | [Ovi Jr](http://twitter.com/search?q=Ovi+Jr) | Ovi Jr is a nickname for the Finnish professional ice hockey player, Ovi Kauste. The nickname is derived from his first name, Ovi, and is used to distinguish him from his father, who also played professional ice hockey. In English, the nickname means "Little Ovi". |
+| 29 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 30 | [Red Dawn](http://twitter.com/search?q=Red+Dawn) | N/A |
+| 31 | [James Harrison](http://twitter.com/search?q=James+Harrison) | N/A |
+| 32 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
+| 33 | [Chocked](http://twitter.com/search?q=Chocked) | N/A |
+| 34 | [Mt Washington](http://twitter.com/search?q=Mt+Washington) | N/A |
+| 35 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 36 | [Bill Kristol](http://twitter.com/search?q=Bill+Kristol) | N/A |
+| 37 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 38 | [Caffeine](http://twitter.com/search?q=Caffeine) | N/A |
+| 39 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 40 | [Every American](http://twitter.com/search?q=Every+American) | Every American is a term used to refer to all citizens of the United States of America. It is often used to emphasize the collective identity of the nation and its people. |
+| 41 | [Noodles](http://twitter.com/search?q=Noodles) | N/A |
+| 42 | [Power of the Elements](http://twitter.com/search?q=Power+of+the+Elements) | N/A |
 | 43 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 44 | [Bill Kristol](http://twitter.com/search?q=Bill+Kristol) | N/A |
-| 45 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
-| 46 | [Sarah Nurse](http://twitter.com/search?q=Sarah+Nurse) | Sarah Nurse is a term used to describe a nurse who is particularly caring and compassionate. It is derived from the name Sarah, which means “princess” or “lady” in Hebrew. The term is often used to describe nurses who go above and beyond their duties to provide excellent care for their patients. |
+| 44 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 45 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 46 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
 | 47 | [Suni](http://twitter.com/search?q=Suni) | N/A |
-| 48 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 49 | [Noodles](http://twitter.com/search?q=Noodles) | N/A |
+| 48 | [Natalya](http://twitter.com/search?q=Natalya) | N/A |
+| 49 | [Akron](http://twitter.com/search?q=Akron) | N/A |
 
 
 
