@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-04 16:16:42 UTC`
+📆 Last Updated: `2023-02-04 17:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
-| 2 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 3 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 4 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
-| 5 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 6 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 7 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 9 | [#WOLLIV](http://twitter.com/search?q=%23WOLLIV) | #WOLLIV is an acronym for "We Only Live Life In Vibes," which is a phrase used to express the idea that life should be lived with positive energy and enthusiasm. |
-| 10 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 11 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 12 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 13 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 14 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 15 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 16 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 17 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | N/A |
-| 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 19 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 20 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 21 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 22 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 23 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 24 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 25 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 26 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
-| 27 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 28 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
-| 29 | [Liam Williams](http://twitter.com/search?q=Liam+Williams) | N/A |
-| 30 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 31 | [Mcgregor](http://twitter.com/search?q=Mcgregor) | N/A |
-| 32 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 33 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 34 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 35 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 36 | [Gatland](http://twitter.com/search?q=Gatland) | N/A |
-| 37 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 38 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 39 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 40 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 41 | [Hwang](http://twitter.com/search?q=Hwang) | N/A |
-| 42 | [Toffees](http://twitter.com/search?q=Toffees) | N/A |
-| 43 | [Galopin Des Champs](http://twitter.com/search?q=Galopin+Des+Champs) | N/A |
-| 44 | [El Fabiolo](http://twitter.com/search?q=El+Fabiolo) | N/A |
-| 45 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
-| 46 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 47 | [Tillman](http://twitter.com/search?q=Tillman) | Tillman is a surname of German origin. It is derived from the given name Tilman, which is a combination of the Germanic elements "til" meaning "people" and "man" meaning "man". The name can also be found in other countries, such as England and Scotland. |
-| 48 | [Krul](http://twitter.com/search?q=Krul) | N/A |
-| 49 | [James Lowe](http://twitter.com/search?q=James+Lowe) | N/A |
-| 50 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
+| 1 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 2 | [Welsh](http://twitter.com/search?q=Welsh) | Welsh is a Celtic language spoken in Wales, a country in the United Kingdom. It is closely related to Cornish and Breton, two other Celtic languages. The Welsh language has its own unique alphabet and grammar, and is an official language of Wales. Its meaning in English is "of or relating to Wales or its people, language, or culture". |
+| 3 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 4 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 7 | [#WOLLIV](http://twitter.com/search?q=%23WOLLIV) | #WOLLIV is an acronym for "We Only Live Life In Vibes," which is a phrase used to express the idea that life should be lived with positive energy and enthusiasm. |
+| 8 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | #MUNCRY is a hashtag used on social media to express solidarity with the people of Manchester, England, following the 2017 terrorist attack at an Ariana Grande concert. The hashtag is a combination of the words "Manchester" and "cry," and it is used to show support for those affected by the tragedy. |
+| 9 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 10 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
+| 11 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
+| 12 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 14 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 15 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 16 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 17 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 18 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 19 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 20 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 21 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 22 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 23 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 24 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 25 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
+| 26 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 27 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 28 | [Schlupp](http://twitter.com/search?q=Schlupp) | Schlupp is a German word that means "to slip away" or "to sneak away". It can also be used to describe someone who is sneaky or sly. |
+| 29 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 30 | [McLaughlin](http://twitter.com/search?q=McLaughlin) | N/A |
+| 31 | [Andre Marriner](http://twitter.com/search?q=Andre+Marriner) | Andre Marriner is a professional football referee from England who has officiated in the Premier League since 2005. He is also a FIFA-listed referee, meaning he is eligible to officiate international matches. |
+| 32 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 33 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
+| 34 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 35 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 36 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
+| 37 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 38 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 39 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 40 | [Liam Williams](http://twitter.com/search?q=Liam+Williams) | N/A |
+| 41 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 42 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 43 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 44 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 45 | [McGregor](http://twitter.com/search?q=McGregor) | McGregor is a Scottish surname derived from the Gaelic MacGriogair, meaning "son of Griogair". It is also a given name, usually derived from the surname. |
+| 46 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 47 | [Cantwell](http://twitter.com/search?q=Cantwell) | N/A |
+| 48 | [Massive 3](http://twitter.com/search?q=Massive+3) | N/A |
+| 49 | [Huge 3](http://twitter.com/search?q=Huge+3) | N/A |
+| 50 | [Gatland](http://twitter.com/search?q=Gatland) | N/A |
 
 
 

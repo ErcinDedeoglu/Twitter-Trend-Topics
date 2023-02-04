@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-04 16:16:58 UTC`
+📆 Last Updated: `2023-02-04 17:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
-| 2 | [#CremoneseLecce](http://twitter.com/search?q=%23CremoneseLecce) | N/A |
-| 3 | [#4febbraio](http://twitter.com/search?q=%234febbraio) | N/A |
-| 4 | [#JuveMilan](http://twitter.com/search?q=%23JuveMilan) | N/A |
+| 1 | [#RomaEmpoli](http://twitter.com/search?q=%23RomaEmpoli) | N/A |
+| 2 | [#4febbraio](http://twitter.com/search?q=%234febbraio) | N/A |
+| 3 | [#CremoneseLecce](http://twitter.com/search?q=%23CremoneseLecce) | N/A |
+| 4 | [#tvtalk](http://twitter.com/search?q=%23tvtalk) | N/A |
 | 5 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 6 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
-| 7 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
-| 8 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 10 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [Pellegatti](http://twitter.com/search?q=Pellegatti) | N/A |
-| 13 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 14 | [Gulten](http://twitter.com/search?q=Gulten) | N/A |
-| 15 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 16 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 8 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
+| 9 | [Rui Patricio](http://twitter.com/search?q=Rui+Patricio) | N/A |
+| 10 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
+| 11 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 12 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 13 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 15 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 16 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
 | 17 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 18 | [Milito](http://twitter.com/search?q=Milito) | N/A |
-| 19 | [Strefezza](http://twitter.com/search?q=Strefezza) | N/A |
-| 20 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
-| 21 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
-| 22 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 23 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 24 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 25 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
-| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 27 | [Sheva](http://twitter.com/search?q=Sheva) | N/A |
-| 28 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 29 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 30 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 18 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
+| 19 | [Pellegatti](http://twitter.com/search?q=Pellegatti) | N/A |
+| 20 | [Gulten](http://twitter.com/search?q=Gulten) | N/A |
+| 21 | [Paolo Valenti](http://twitter.com/search?q=Paolo+Valenti) | N/A |
+| 22 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 23 | [kaliningrad](http://twitter.com/search?q=kaliningrad) | N/A |
+| 24 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 25 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 26 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
+| 27 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 28 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 29 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 30 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
 | 31 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 32 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 33 | [Chiofalo](http://twitter.com/search?q=Chiofalo) | N/A |
-| 34 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
-| 35 | [buongiorno ilva](http://twitter.com/search?q=buongiorno+ilva) | N/A |
-| 36 | [Armani](http://twitter.com/search?q=Armani) | N/A |
-| 37 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 38 | [Moggi](http://twitter.com/search?q=Moggi) | N/A |
-| 39 | [Cannolicchi](http://twitter.com/search?q=Cannolicchi) | N/A |
-| 40 | [clementino](http://twitter.com/search?q=clementino) | N/A |
-| 41 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
-| 42 | [Irving](http://twitter.com/search?q=Irving) | N/A |
-| 43 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 44 | [Dagospia](http://twitter.com/search?q=Dagospia) | N/A |
-| 45 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 46 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 47 | [Impeccabili](http://twitter.com/search?q=Impeccabili) | N/A |
-| 48 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
-| 49 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 32 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 33 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 34 | [Radja](http://twitter.com/search?q=Radja) | N/A |
+| 35 | [Cannolicchi](http://twitter.com/search?q=Cannolicchi) | N/A |
+| 36 | [buongiorno ilva](http://twitter.com/search?q=buongiorno+ilva) | N/A |
+| 37 | [Armani](http://twitter.com/search?q=Armani) | N/A |
+| 38 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 39 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
+| 40 | [Clementino](http://twitter.com/search?q=Clementino) | N/A |
+| 41 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 42 | [Milito](http://twitter.com/search?q=Milito) | N/A |
+| 43 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 44 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
+| 45 | [Moggi](http://twitter.com/search?q=Moggi) | N/A |
+| 46 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 47 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 48 | [Il 4](http://twitter.com/search?q=Il+4) | N/A |
+| 49 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
 
 
 

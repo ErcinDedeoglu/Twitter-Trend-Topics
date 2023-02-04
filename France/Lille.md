@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-02-04 16:16:55 UTC`
+📆 Last Updated: `2023-02-04 17:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ASSEFCA](http://twitter.com/search?q=%23ASSEFCA) | N/A |
-| 2 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 3 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 4 | [#PSGTFC](http://twitter.com/search?q=%23PSGTFC) | N/A |
+| 1 | [#PSGTFC](http://twitter.com/search?q=%23PSGTFC) | N/A |
+| 2 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 3 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 4 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [Cafaro](http://twitter.com/search?q=Cafaro) | N/A |
-| 7 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 8 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 9 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 10 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 11 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 12 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
-| 13 | [Gallois](http://twitter.com/search?q=Gallois) | N/A |
-| 14 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 15 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 16 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 17 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
-| 18 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 19 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
-| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 21 | [Monconduit](http://twitter.com/search?q=Monconduit) | N/A |
-| 22 | [Bones](http://twitter.com/search?q=Bones) | N/A |
-| 23 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 24 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 25 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 26 | [Deku](http://twitter.com/search?q=Deku) | N/A |
-| 27 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
-| 28 | [Mazel Tov](http://twitter.com/search?q=Mazel+Tov) | N/A |
-| 29 | [Tournoi](http://twitter.com/search?q=Tournoi) | N/A |
-| 30 | [Foch](http://twitter.com/search?q=Foch) | N/A |
-| 31 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 32 | [Montréal](http://twitter.com/search?q=Montr%c3%a9al) | N/A |
-| 33 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 34 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 35 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 36 | [Tancrède](http://twitter.com/search?q=Tancr%c3%a8de) | N/A |
-| 37 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
-| 38 | [#STAB](http://twitter.com/search?q=%23STAB) | N/A |
-| 39 | [#WOLLIV](http://twitter.com/search?q=%23WOLLIV) | #WOLLIV is an acronym for "We Only Live Life In Vibes," which is a phrase used to express the idea that life should be lived with positive energy and enthusiasm. |
-| 40 | [#beINLIGUE2](http://twitter.com/search?q=%23beINLIGUE2) | N/A |
-| 41 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
-| 42 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
-| 43 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
-| 44 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 45 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
-| 46 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 47 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 6 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 7 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
+| 8 | [Toulouse](http://twitter.com/search?q=Toulouse) | N/A |
+| 9 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
+| 10 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 11 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 12 | [#ASSEFCA](http://twitter.com/search?q=%23ASSEFCA) | N/A |
+| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 14 | [Boomen](http://twitter.com/search?q=Boomen) | N/A |
+| 15 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | #MUNCRY is a hashtag used on social media to express solidarity with the people of Manchester, England, following the 2017 terrorist attack at an Ariana Grande concert. The hashtag is a combination of the words "Manchester" and "cry," and it is used to show support for those affected by the tragedy. |
+| 16 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 17 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 18 | [Cafaro](http://twitter.com/search?q=Cafaro) | N/A |
+| 19 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 20 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 21 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 22 | [Bitshiabu](http://twitter.com/search?q=Bitshiabu) | N/A |
+| 23 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
+| 24 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
+| 25 | [Diarra](http://twitter.com/search?q=Diarra) | N/A |
+| 26 | [Branco](http://twitter.com/search?q=Branco) | N/A |
+| 27 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 28 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
+| 29 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 30 | [Neal Maupay](http://twitter.com/search?q=Neal+Maupay) | N/A |
+| 31 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 32 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
+| 33 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 34 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
+| 35 | [gallois](http://twitter.com/search?q=gallois) | N/A |
+| 36 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 37 | [Pajot](http://twitter.com/search?q=Pajot) | N/A |
+| 38 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 39 | [Nkounkou](http://twitter.com/search?q=Nkounkou) | N/A |
+| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 41 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 42 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 43 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 44 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 45 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 46 | [Verts](http://twitter.com/search?q=Verts) | N/A |
+| 47 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 48 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 
 
 

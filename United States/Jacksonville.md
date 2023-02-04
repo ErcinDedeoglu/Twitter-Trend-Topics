@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-04 16:17:29 UTC`
+📆 Last Updated: `2023-02-04 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 2 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
-| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 6 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 7 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 8 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 9 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
-| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 11 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 12 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 13 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 15 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
-| 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 17 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 18 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 19 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 21 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 22 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 23 | [Toffees](http://twitter.com/search?q=Toffees) | N/A |
-| 24 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 25 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 26 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 27 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 28 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 29 | [Armie Hammer](http://twitter.com/search?q=Armie+Hammer) | N/A |
-| 30 | [Willie McGee](http://twitter.com/search?q=Willie+McGee) | N/A |
-| 31 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 32 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 33 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
-| 34 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 35 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 36 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 37 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 38 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 39 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 40 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 41 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
-| 42 | [Mount Washington](http://twitter.com/search?q=Mount+Washington) | N/A |
-| 43 | [New England](http://twitter.com/search?q=New+England) | N/A |
-| 44 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 45 | [Philly Special](http://twitter.com/search?q=Philly+Special) | N/A |
-| 46 | [Google Earth](http://twitter.com/search?q=Google+Earth) | N/A |
-| 47 | [Philly Philly](http://twitter.com/search?q=Philly+Philly) | N/A |
-| 48 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 49 | [IT'S GAMEDAY](http://twitter.com/search?q=IT%27S+GAMEDAY) | N/A |
-| 50 | [New Hampshire](http://twitter.com/search?q=New+Hampshire) | N/A |
+| 1 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
+| 2 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
+| 3 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 7 | [#HBDTheSimsGiveaway](http://twitter.com/search?q=%23HBDTheSimsGiveaway) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
+| 10 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | #MUNCRY is a hashtag used on social media to express solidarity with the people of Manchester, England, following the 2017 terrorist attack at an Ariana Grande concert. The hashtag is a combination of the words "Manchester" and "cry," and it is used to show support for those affected by the tragedy. |
+| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 12 | [#ChineseSpyBallon](http://twitter.com/search?q=%23ChineseSpyBallon) | N/A |
+| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 14 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 15 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 16 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 17 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 18 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 19 | [Lisandro Martinez](http://twitter.com/search?q=Lisandro+Martinez) | N/A |
+| 20 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 21 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 22 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 23 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 24 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
+| 25 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 26 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 27 | [Bella Goth](http://twitter.com/search?q=Bella+Goth) | N/A |
+| 28 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 29 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 30 | [Gio Reyna](http://twitter.com/search?q=Gio+Reyna) | Gio Reyna is the name of an American professional soccer player. He currently plays for Borussia Dortmund in the German Bundesliga. The name Gio Reyna is derived from the Spanish word "Rey" which means "king". In English, Gio Reyna can be translated to mean "King Gio". |
+| 31 | [Armie Hammer](http://twitter.com/search?q=Armie+Hammer) | N/A |
+| 32 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 33 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 34 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 35 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 36 | [Schlupp](http://twitter.com/search?q=Schlupp) | Schlupp is a German word that means "to slip away" or "to sneak away". It can also be used to describe someone who is sneaky or sly. |
+| 37 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 38 | [Sounders](http://twitter.com/search?q=Sounders) | N/A |
+| 39 | [Will Hughes](http://twitter.com/search?q=Will+Hughes) | Will Hughes is a British professional footballer who plays as a midfielder for Premier League club Watford. He is known for his technical ability, passing range, and vision. |
+| 40 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
+| 41 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 42 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 43 | [Willie McGee](http://twitter.com/search?q=Willie+McGee) | N/A |
+| 44 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 45 | [College Gameday](http://twitter.com/search?q=College+Gameday) | N/A |
+| 46 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 47 | [Size 6](http://twitter.com/search?q=Size+6) | N/A |
+| 48 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 49 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
+| 50 | [Chipmunk](http://twitter.com/search?q=Chipmunk) | N/A |
 
 
 
