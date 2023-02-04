@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-04 10:16:48 UTC`
+📆 Last Updated: `2023-02-04 11:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Chile](</Chile>)
 | 3 | [Santa Juana](http://twitter.com/search?q=Santa+Juana) | Santa Juana is a Spanish phrase that translates to Saint Joan. It is a reference to Joan of Arc, a French saint who led the French army in the Hundred Years' War. |
 | 4 | [Ñuble](http://twitter.com/search?q=%c3%91uble) | N/A |
 | 5 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 6 | [Conaf](http://twitter.com/search?q=Conaf) | N/A |
+| 6 | [CONAF](http://twitter.com/search?q=CONAF) | N/A |
 | 7 | [Arauco](http://twitter.com/search?q=Arauco) | N/A |
 | 8 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
 | 9 | [Tomé](http://twitter.com/search?q=Tom%c3%a9) | N/A |
 | 10 | [Galvarino](http://twitter.com/search?q=Galvarino) | N/A |
-| 11 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 12 | [Purén](http://twitter.com/search?q=Pur%c3%a9n) | N/A |
-| 13 | [#loscruzados](http://twitter.com/search?q=%23loscruzados) | N/A |
-| 14 | [holan](http://twitter.com/search?q=holan) | N/A |
-| 15 | [Supertanker](http://twitter.com/search?q=Supertanker) | N/A |
-| 16 | [Gonzalo Ramírez](http://twitter.com/search?q=Gonzalo+Ram%c3%adrez) | N/A |
-| 17 | [pinares](http://twitter.com/search?q=pinares) | N/A |
-| 18 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 19 | [Estado de Catástrofe](http://twitter.com/search?q=Estado+de+Cat%c3%a1strofe) | N/A |
-| 20 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
-| 21 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 22 | [Cancún](http://twitter.com/search?q=Canc%c3%ban) | N/A |
+| 11 | [purén](http://twitter.com/search?q=pur%c3%a9n) | N/A |
+| 12 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 13 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 14 | [Supertanker](http://twitter.com/search?q=Supertanker) | N/A |
+| 15 | [gonzalo ramírez](http://twitter.com/search?q=gonzalo+ram%c3%adrez) | N/A |
+| 16 | [pinares](http://twitter.com/search?q=pinares) | N/A |
+| 17 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 18 | [Estado de Catástrofe](http://twitter.com/search?q=Estado+de+Cat%c3%a1strofe) | N/A |
+| 19 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
+| 20 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 21 | [Cancún](http://twitter.com/search?q=Canc%c3%ban) | N/A |
+| 22 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
 | 23 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
 | 24 | [senapred](http://twitter.com/search?q=senapred) | N/A |
-| 25 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
+| 25 | [#estoesautopizta](http://twitter.com/search?q=%23estoesautopizta) | N/A |
 | 26 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 27 | [#estoesautopizta](http://twitter.com/search?q=%23estoesautopizta) | N/A |
-| 28 | [#MuevanLaRaja](http://twitter.com/search?q=%23MuevanLaRaja) | N/A |
-| 29 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 30 | [Parived](http://twitter.com/search?q=Parived) | Parived is a Sanskrit word that means "to be attained" or "to be realized". It is often used in the context of spiritual enlightenment or realization. |
-| 31 | [vilcún](http://twitter.com/search?q=vilc%c3%ban) | N/A |
-| 32 | [#coqvsucxtntsports](http://twitter.com/search?q=%23coqvsucxtntsports) | N/A |
-| 33 | [Nueva Aldea](http://twitter.com/search?q=Nueva+Aldea) | N/A |
-| 34 | [La CAM](http://twitter.com/search?q=La+CAM) | N/A |
-| 35 | [Colun](http://twitter.com/search?q=Colun) | N/A |
-| 36 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 37 | [Tere](http://twitter.com/search?q=Tere) | N/A |
-| 38 | [Q.E.P.D](http://twitter.com/search?q=Q.E.P.D) | N/A |
-| 39 | [saavedra](http://twitter.com/search?q=saavedra) | N/A |
-| 40 | [Paila](http://twitter.com/search?q=Paila) | N/A |
-| 41 | [Yesenia Muñoz Durán](http://twitter.com/search?q=Yesenia+Mu%c3%b1oz+Dur%c3%a1n) | N/A |
-| 42 | [girardi](http://twitter.com/search?q=girardi) | N/A |
-| 43 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 27 | [vilcún](http://twitter.com/search?q=vilc%c3%ban) | N/A |
+| 28 | [#coqvsucxtntsports](http://twitter.com/search?q=%23coqvsucxtntsports) | N/A |
+| 29 | [Parived](http://twitter.com/search?q=Parived) | Parived is a Sanskrit word that means "to be attained" or "to be realized". It is often used in the context of spiritual enlightenment or realization. |
+| 30 | [#muevanlaraja](http://twitter.com/search?q=%23muevanlaraja) | N/A |
+| 31 | [Nueva Aldea](http://twitter.com/search?q=Nueva+Aldea) | N/A |
+| 32 | [La CAM](http://twitter.com/search?q=La+CAM) | N/A |
+| 33 | [Colun](http://twitter.com/search?q=Colun) | N/A |
+| 34 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 35 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 36 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 37 | [Paila](http://twitter.com/search?q=Paila) | N/A |
+| 38 | [Tere](http://twitter.com/search?q=Tere) | N/A |
+| 39 | [Q.E.P.D](http://twitter.com/search?q=Q.E.P.D) | N/A |
+| 40 | [Yesenia Muñoz Durán](http://twitter.com/search?q=Yesenia+Mu%c3%b1oz+Dur%c3%a1n) | N/A |
+| 41 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 42 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 43 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
 | 44 | [Nacimiento](http://twitter.com/search?q=Nacimiento) | N/A |
-| 45 | [El PPD](http://twitter.com/search?q=El+PPD) | N/A |
-| 46 | [curicó unido](http://twitter.com/search?q=curic%c3%b3+unido) | N/A |
-| 47 | [ana albornoz](http://twitter.com/search?q=ana+albornoz) | N/A |
-| 48 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
-| 49 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 50 | [Cabrero](http://twitter.com/search?q=Cabrero) | N/A |
+| 45 | [curicó unido](http://twitter.com/search?q=curic%c3%b3+unido) | N/A |
+| 46 | [Ana albornoz](http://twitter.com/search?q=Ana+albornoz) | N/A |
+| 47 | [APRA](http://twitter.com/search?q=APRA) | N/A |
+| 48 | [El PPD](http://twitter.com/search?q=El+PPD) | N/A |
+| 49 | [Cabrero](http://twitter.com/search?q=Cabrero) | N/A |
+| 50 | [aravena](http://twitter.com/search?q=aravena) | N/A |
 
 
 

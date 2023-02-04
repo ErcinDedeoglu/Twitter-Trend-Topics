@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-04 10:17:07 UTC`
+📆 Last Updated: `2023-02-04 11:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,42 +19,47 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
 | 3 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
 | 4 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 5 | [#MANIFESTO_IN_MANILA_DAY2](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_DAY2) | N/A |
-| 6 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 7 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
-| 8 | [#ToMoreYearsWithBELLElievers](http://twitter.com/search?q=%23ToMoreYearsWithBELLElievers) | N/A |
-| 9 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 10 | [#MJhasDrick](http://twitter.com/search?q=%23MJhasDrick) | N/A |
-| 11 | [ROOMMATE FB SERIES](http://twitter.com/search?q=ROOMMATE+FB+SERIES) | ROOMMATE FB SERIES is a web series created by Facebook that follows the lives of two roommates living in a shared apartment. The series explores the dynamics of their relationship and how they navigate life together. The title is a play on the term "roommate" and "FB" (Facebook). |
-| 12 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 13 | [Madzilla](http://twitter.com/search?q=Madzilla) | N/A |
-| 14 | [Coach Dante](http://twitter.com/search?q=Coach+Dante) | N/A |
-| 15 | [VINSTER BETTER TOGETHER](http://twitter.com/search?q=VINSTER+BETTER+TOGETHER) | N/A |
-| 16 | [Kat Tolentino](http://twitter.com/search?q=Kat+Tolentino) | N/A |
+| 5 | [#MANIFESTO_IN_MANILA_D2](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_D2) | N/A |
+| 6 | [#DreamMaker4thRanking](http://twitter.com/search?q=%23DreamMaker4thRanking) | N/A |
+| 7 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 8 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 9 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 10 | [#JiminsDanceTime](http://twitter.com/search?q=%23JiminsDanceTime) | N/A |
+| 11 | [VINSTER BETTER TOGETHER](http://twitter.com/search?q=VINSTER+BETTER+TOGETHER) | N/A |
+| 12 | [Madzilla](http://twitter.com/search?q=Madzilla) | N/A |
+| 13 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
+| 14 | [BARKADAHAN](http://twitter.com/search?q=BARKADAHAN) | N/A |
+| 15 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
+| 16 | [Coach Dante](http://twitter.com/search?q=Coach+Dante) | N/A |
 | 17 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
-| 18 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 19 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 20 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
-| 21 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
-| 22 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 23 | [MNL48 ON AKBGroup CircleJam](http://twitter.com/search?q=MNL48+ON+AKBGroup+CircleJam) | N/A |
-| 24 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 25 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
-| 26 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 27 | [#D7LoveAt1stSightBB](http://twitter.com/search?q=%23D7LoveAt1stSightBB) | #D7LoveAt1stSightBB is a hashtag used to promote the upcoming album from the South Korean boy band, BTS. The hashtag stands for "Dynamite Love at First Sight BTS Edition". |
-| 28 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 29 | [#MCGIHeartfeltThanksgiving](http://twitter.com/search?q=%23MCGIHeartfeltThanksgiving) | N/A |
-| 30 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 31 | [#PVLonOneSports](http://twitter.com/search?q=%23PVLonOneSports) | N/A |
-| 32 | [#PVLAllFilipinoConference](http://twitter.com/search?q=%23PVLAllFilipinoConference) | N/A |
-| 33 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
-| 34 | [#썬키스드보이](http://twitter.com/search?q=%23%ec%8d%ac%ed%82%a4%ec%8a%a4%eb%93%9c%eb%b3%b4%ec%9d%b4) | N/A |
-| 35 | [#SunKissedBoy_Kai](http://twitter.com/search?q=%23SunKissedBoy_Kai) | N/A |
-| 36 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 37 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 38 | [#FELIPRadioTourCebuDay2](http://twitter.com/search?q=%23FELIPRadioTourCebuDay2) | N/A |
-| 39 | [#48CIRCLEJAM](http://twitter.com/search?q=%2348CIRCLEJAM) | N/A |
-| 40 | [#BOYCOTTMZETxAPTxGMA696](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA696) | N/A |
+| 18 | [ROOMMATE FB SERIES](http://twitter.com/search?q=ROOMMATE+FB+SERIES) | ROOMMATE FB SERIES is a web series created by Facebook that follows the lives of two roommates living in a shared apartment. The series explores the dynamics of their relationship and how they navigate life together. The title is a play on the term "roommate" and "FB" (Facebook). |
+| 19 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 20 | [Kat Tolentino](http://twitter.com/search?q=Kat+Tolentino) | N/A |
+| 21 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 24 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
+| 25 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
+| 26 | [MNL48 ON AKBGroup CircleJam](http://twitter.com/search?q=MNL48+ON+AKBGroup+CircleJam) | N/A |
+| 27 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 28 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
+| 29 | [#ToMoreYearsWithBELLElievers](http://twitter.com/search?q=%23ToMoreYearsWithBELLElievers) | N/A |
+| 30 | [#D7LoveAt1stSightBB](http://twitter.com/search?q=%23D7LoveAt1stSightBB) | #D7LoveAt1stSightBB is a hashtag used to promote the upcoming album from the South Korean boy band, BTS. The hashtag stands for "Dynamite Love at First Sight BTS Edition". |
+| 31 | [#MJhasDrick](http://twitter.com/search?q=%23MJhasDrick) | N/A |
+| 32 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 33 | [#PVLAllFilipinoConference](http://twitter.com/search?q=%23PVLAllFilipinoConference) | N/A |
+| 34 | [#MCGIHeartfeltThanksgiving](http://twitter.com/search?q=%23MCGIHeartfeltThanksgiving) | N/A |
+| 35 | [#FallinWithDoyoung](http://twitter.com/search?q=%23FallinWithDoyoung) | N/A |
+| 36 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 37 | [#PVLonOneSports](http://twitter.com/search?q=%23PVLonOneSports) | N/A |
+| 38 | [#SunKissedBoy_Kai](http://twitter.com/search?q=%23SunKissedBoy_Kai) | N/A |
+| 39 | [#FELIPRadioTourCebuDay2](http://twitter.com/search?q=%23FELIPRadioTourCebuDay2) | N/A |
+| 40 | [#BTSYetToComeinCinemas](http://twitter.com/search?q=%23BTSYetToComeinCinemas) | N/A |
+| 41 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 42 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
+| 43 | [#48CIRCLEJAM](http://twitter.com/search?q=%2348CIRCLEJAM) | N/A |
+| 44 | [#BOYCOTTMZETxAPTxGMA696](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA696) | N/A |
+| 45 | [#ZacHam](http://twitter.com/search?q=%23ZacHam) | N/A |
 
 
 

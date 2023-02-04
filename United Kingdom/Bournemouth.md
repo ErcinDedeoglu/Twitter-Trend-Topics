@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-04 10:16:42 UTC`
+📆 Last Updated: `2023-02-04 11:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 2 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 3 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 4 | [Dominic Raab](http://twitter.com/search?q=Dominic+Raab) | N/A |
-| 5 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 7 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 2 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
+| 3 | [Curby](http://twitter.com/search?q=Curby) | N/A |
+| 4 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 5 | [Dominic Raab](http://twitter.com/search?q=Dominic+Raab) | N/A |
+| 6 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
 | 9 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 11 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 10 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 11 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
 | 12 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 13 | [Everton v Arsenal](http://twitter.com/search?q=Everton+v+Arsenal) | N/A |
-| 14 | [Southend](http://twitter.com/search?q=Southend) | N/A |
-| 15 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 16 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 17 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 18 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
-| 19 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | N/A |
-| 20 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
-| 21 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 22 | [Calcutta Cup](http://twitter.com/search?q=Calcutta+Cup) | N/A |
-| 23 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 24 | [Derek](http://twitter.com/search?q=Derek) | N/A |
+| 13 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
+| 14 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
+| 15 | [Everton v Arsenal](http://twitter.com/search?q=Everton+v+Arsenal) | N/A |
+| 16 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | N/A |
+| 17 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
+| 18 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
+| 19 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 20 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
+| 21 | [Southend](http://twitter.com/search?q=Southend) | N/A |
+| 22 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 23 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 24 | [Wales v Ireland](http://twitter.com/search?q=Wales+v+Ireland) | N/A |
 | 25 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 26 | [Kevin Sinfield](http://twitter.com/search?q=Kevin+Sinfield) | Kevin Sinfield is a former professional rugby league footballer who played for Leeds Rhinos in the Super League. He is widely regarded as one of the greatest players of all time and was the first player to win seven Super League titles. He is also the current director of rugby at Leeds Rhinos. The meaning of Kevin Sinfield in English is a legendary rugby league player and current director of rugby at Leeds Rhinos. |
-| 27 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
-| 28 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 29 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 30 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 31 | [#ASongOrMovieForAnythingSour](http://twitter.com/search?q=%23ASongOrMovieForAnythingSour) | N/A |
-| 32 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 33 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 34 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
-| 35 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | N/A |
-| 36 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
-| 37 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
-| 38 | [#sloth](http://twitter.com/search?q=%23sloth) | N/A |
-| 39 | [#UTFT](http://twitter.com/search?q=%23UTFT) | N/A |
-| 40 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | N/A |
-| 41 | [#ENGvSCO](http://twitter.com/search?q=%23ENGvSCO) | N/A |
-| 42 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
-| 43 | [#COYB](http://twitter.com/search?q=%23COYB) | N/A |
-| 44 | [#pafc](http://twitter.com/search?q=%23pafc) | N/A |
-| 45 | [#GreenFootballWeekend](http://twitter.com/search?q=%23GreenFootballWeekend) | N/A |
-| 46 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
-| 47 | [#weekendvibes](http://twitter.com/search?q=%23weekendvibes) | N/A |
-| 48 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | N/A |
-| 49 | [#Delilah](http://twitter.com/search?q=%23Delilah) | N/A |
+| 26 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 27 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
+| 28 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 29 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
+| 30 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 31 | [Nads](http://twitter.com/search?q=Nads) | N/A |
+| 32 | [Derek](http://twitter.com/search?q=Derek) | N/A |
+| 33 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 34 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 35 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 36 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | N/A |
+| 37 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
+| 38 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 39 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
+| 40 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
+| 41 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 42 | [#ASongOrMovieForAnythingSour](http://twitter.com/search?q=%23ASongOrMovieForAnythingSour) | N/A |
+| 43 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
+| 44 | [#Ed4WomensLib](http://twitter.com/search?q=%23Ed4WomensLib) | N/A |
+| 45 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 46 | [#UTFT](http://twitter.com/search?q=%23UTFT) | N/A |
+| 47 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
+| 48 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | N/A |
+| 49 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-04 10:17:28 UTC`
+📆 Last Updated: `2023-02-04 11:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,11 +41,11 @@ This is top 50 for Guatemala
 | 24 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
 | 25 | [Bluey](http://twitter.com/search?q=Bluey) | N/A |
 | 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Ciudad de Guatemala](http://twitter.com/search?q=Ciudad+de+Guatemala) | N/A |
+| 27 | [ciudad de guatemala](http://twitter.com/search?q=ciudad+de+guatemala) | N/A |
 | 28 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
 | 29 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
 | 30 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 31 | [Café Tacvba](http://twitter.com/search?q=Caf%c3%a9+Tacvba) | N/A |
+| 31 | [café tacvba](http://twitter.com/search?q=caf%c3%a9+tacvba) | N/A |
 | 32 | [deportivo achuapa](http://twitter.com/search?q=deportivo+achuapa) | N/A |
 | 33 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 34 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for Guatemala
 | 39 | [Marce](http://twitter.com/search?q=Marce) | N/A |
 | 40 | [esquipulas](http://twitter.com/search?q=esquipulas) | N/A |
 | 41 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 42 | [Miguel Ángel Gálvez](http://twitter.com/search?q=Miguel+%c3%81ngel+G%c3%a1lvez) | N/A |
+| 42 | [miguel ángel gálvez](http://twitter.com/search?q=miguel+%c3%a1ngel+g%c3%a1lvez) | N/A |
 | 43 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 44 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 45 | [chinautla](http://twitter.com/search?q=chinautla) | N/A |

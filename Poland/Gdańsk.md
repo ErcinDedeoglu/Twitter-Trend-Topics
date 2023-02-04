@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-04 10:16:52 UTC`
+📆 Last Updated: `2023-02-04 11:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
 | 2 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 3 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
-| 4 | [#typerKSOL](http://twitter.com/search?q=%23typerKSOL) | N/A |
+| 3 | [#SuperTyp](http://twitter.com/search?q=%23SuperTyp) | N/A |
+| 4 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
 | 5 | [#WIDJAG](http://twitter.com/search?q=%23WIDJAG) | N/A |
-| 6 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 7 | [Wanda Rutkiewicz](http://twitter.com/search?q=Wanda+Rutkiewicz) | N/A |
-| 8 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 9 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 10 | [Światowy Dzień Walki](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Walki) | N/A |
-| 11 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 12 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 13 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 14 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
-| 15 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
+| 6 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 7 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 8 | [#typerKSOL](http://twitter.com/search?q=%23typerKSOL) | N/A |
+| 9 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
+| 10 | [Tatr](http://twitter.com/search?q=Tatr) | N/A |
+| 11 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
+| 12 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
+| 13 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 14 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 15 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
 | 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 17 | [Udanej](http://twitter.com/search?q=Udanej) | N/A |
-| 18 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 19 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
-| 20 | [Halinko](http://twitter.com/search?q=Halinko) | N/A |
-| 21 | [Science](http://twitter.com/search?q=Science) | N/A |
-| 22 | [Prawdopodobnie](http://twitter.com/search?q=Prawdopodobnie) | N/A |
-| 23 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 24 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
-| 25 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 26 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
-| 27 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
-| 28 | [Zakopane](http://twitter.com/search?q=Zakopane) | N/A |
-| 29 | [Amadi](http://twitter.com/search?q=Amadi) | N/A |
-| 30 | [Ewuniu](http://twitter.com/search?q=Ewuniu) | N/A |
-| 31 | [gimper](http://twitter.com/search?q=gimper) | N/A |
-| 32 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 17 | [Science](http://twitter.com/search?q=Science) | N/A |
+| 18 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 19 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
+| 20 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
+| 21 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 22 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 23 | [Halinko](http://twitter.com/search?q=Halinko) | N/A |
+| 24 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
+| 25 | [Zakopane](http://twitter.com/search?q=Zakopane) | N/A |
+| 26 | [Wczoraj](http://twitter.com/search?q=Wczoraj) | N/A |
+| 27 | [Amadi](http://twitter.com/search?q=Amadi) | N/A |
+| 28 | [ewuniu](http://twitter.com/search?q=ewuniu) | N/A |
+| 29 | [gimper](http://twitter.com/search?q=gimper) | N/A |
+| 30 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 31 | [Neuera](http://twitter.com/search?q=Neuera) | N/A |
+| 32 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 33 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 34 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 36 | [sheeya](http://twitter.com/search?q=sheeya) | N/A |
-| 37 | [guala](http://twitter.com/search?q=guala) | N/A |
-| 38 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
-| 39 | [Jolu](http://twitter.com/search?q=Jolu) | N/A |
-| 40 | [Mosiński](http://twitter.com/search?q=Mosi%c5%84ski) | N/A |
-| 41 | [Krzysiu](http://twitter.com/search?q=Krzysiu) | N/A |
-| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 43 | [Wstajesz](http://twitter.com/search?q=Wstajesz) | N/A |
-| 44 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
-| 45 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 46 | [boxdela](http://twitter.com/search?q=boxdela) | N/A |
-| 47 | [filipka](http://twitter.com/search?q=filipka) | N/A |
-| 48 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
-| 49 | [fabijański](http://twitter.com/search?q=fabija%c5%84ski) | N/A |
-| 50 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 34 | [sheeya](http://twitter.com/search?q=sheeya) | N/A |
+| 35 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
+| 36 | [guala](http://twitter.com/search?q=guala) | N/A |
+| 37 | [Polaków](http://twitter.com/search?q=Polak%c3%b3w) | N/A |
+| 38 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 40 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 41 | [Wanda Rutkiewicz](http://twitter.com/search?q=Wanda+Rutkiewicz) | N/A |
+| 42 | [boxdela](http://twitter.com/search?q=boxdela) | N/A |
+| 43 | [filipka](http://twitter.com/search?q=filipka) | N/A |
+| 44 | [W Gdańsku](http://twitter.com/search?q=W+Gda%c5%84sku) | N/A |
+| 45 | [Prezydent](http://twitter.com/search?q=Prezydent) | N/A |
+| 46 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 47 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
+| 48 | [fabijański](http://twitter.com/search?q=fabija%c5%84ski) | N/A |
+| 49 | [Iwonko](http://twitter.com/search?q=Iwonko) | N/A |
+| 50 | [Depardieu](http://twitter.com/search?q=Depardieu) | N/A |
 
 
 

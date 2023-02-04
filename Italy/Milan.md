@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-04 10:16:56 UTC`
+📆 Last Updated: `2023-02-04 11:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#4febbraio](http://twitter.com/search?q=%234febbraio) | N/A |
-| 2 | [#GOBBOSEGUEGOBBO](http://twitter.com/search?q=%23GOBBOSEGUEGOBBO) | N/A |
-| 3 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 4 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 5 | [#CompleannoInArte](http://twitter.com/search?q=%23CompleannoInArte) | N/A |
+| 2 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 3 | [#CompleannoInArte](http://twitter.com/search?q=%23CompleannoInArte) | N/A |
+| 4 | [#GOBBOSEGUEGOBBO](http://twitter.com/search?q=%23GOBBOSEGUEGOBBO) | N/A |
+| 5 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
 | 6 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 7 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 8 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
+| 7 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
+| 8 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
 | 9 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
-| 10 | [Buongiorno Marty](http://twitter.com/search?q=Buongiorno+Marty) | N/A |
-| 11 | [Buongiorno Marty](http://twitter.com/search?q=Buongiorno+Marty) | N/A |
-| 12 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 13 | [Rossy](http://twitter.com/search?q=Rossy) | N/A |
-| 14 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 15 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 16 | [Buongiornissimo](http://twitter.com/search?q=Buongiornissimo) | N/A |
-| 17 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
+| 10 | [Rossy](http://twitter.com/search?q=Rossy) | N/A |
+| 11 | [Buongiorno Max](http://twitter.com/search?q=Buongiorno+Max) | N/A |
+| 12 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 13 | [41bis](http://twitter.com/search?q=41bis) | N/A |
+| 14 | [San Biagio](http://twitter.com/search?q=San+Biagio) | N/A |
+| 15 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
+| 16 | [Giornata Mondiale](http://twitter.com/search?q=Giornata+Mondiale) | N/A |
+| 17 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
 | 18 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
-| 19 | [Jacques Prévert](http://twitter.com/search?q=Jacques+Pr%c3%a9vert) | N/A |
-| 20 | [Giornata Mondiale](http://twitter.com/search?q=Giornata+Mondiale) | N/A |
-| 21 | [san biagio](http://twitter.com/search?q=san+biagio) | N/A |
-| 22 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 23 | [Cannolicchi](http://twitter.com/search?q=Cannolicchi) | N/A |
-| 24 | [Il 4](http://twitter.com/search?q=Il+4) | N/A |
-| 25 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
+| 19 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
+| 20 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
+| 21 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 22 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
+| 23 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 24 | [Cannolicchi](http://twitter.com/search?q=Cannolicchi) | N/A |
+| 25 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
 | 26 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 27 | [Buongiorno Adam](http://twitter.com/search?q=Buongiorno+Adam) | N/A |
-| 28 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 29 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 30 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
-| 31 | [Buongiorno Fabrizio](http://twitter.com/search?q=Buongiorno+Fabrizio) | N/A |
-| 32 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 33 | [Cancro](http://twitter.com/search?q=Cancro) | N/A |
-| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 35 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 36 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
-| 37 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 38 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
-| 39 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
-| 40 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 41 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 42 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 43 | [Isabella](http://twitter.com/search?q=Isabella) | N/A |
-| 44 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 45 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
-| 46 | [Piera](http://twitter.com/search?q=Piera) | N/A |
-| 47 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 48 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 49 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 50 | [Dario](http://twitter.com/search?q=Dario) | N/A |
+| 27 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 28 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 29 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 30 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 31 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 32 | [Buongiorno Adam](http://twitter.com/search?q=Buongiorno+Adam) | N/A |
+| 33 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
+| 34 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 35 | [Jacques Prévert](http://twitter.com/search?q=Jacques+Pr%c3%a9vert) | N/A |
+| 36 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 37 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 38 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 39 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
+| 40 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 41 | [Dario](http://twitter.com/search?q=Dario) | N/A |
+| 42 | [Clementino](http://twitter.com/search?q=Clementino) | N/A |
+| 43 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 44 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 45 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
+| 46 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 47 | [Buon Compleanno](http://twitter.com/search?q=Buon+Compleanno) | N/A |
+| 48 | [Crosetto](http://twitter.com/search?q=Crosetto) | N/A |
+| 49 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 50 | [America Latina](http://twitter.com/search?q=America+Latina) | N/A |
 
 
 

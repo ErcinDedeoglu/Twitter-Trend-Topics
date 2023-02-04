@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-04 10:17:22 UTC`
+📆 Last Updated: `2023-02-04 11:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Jaden](http://twitter.com/search?q=Jaden) | N/A |
 | 4 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
 | 5 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 6 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 7 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
-| 8 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
-| 9 | [#AZN_LIVEday1](http://twitter.com/search?q=%23AZN_LIVEday1) | #AZN_LIVEday1 is a hashtag used to promote the first day of a live event hosted by AZN, an Asian-American lifestyle brand. The hashtag is used to encourage people to join the event and share their experiences. In English, it means "AZN Live Day One". |
-| 10 | [#NavarreteWilson](http://twitter.com/search?q=%23NavarreteWilson) | N/A |
-| 11 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 12 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 13 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 6 | [#AZN_LIVEday1](http://twitter.com/search?q=%23AZN_LIVEday1) | #AZN_LIVEday1 is a hashtag used to promote the first day of a live event hosted by AZN, an Asian-American lifestyle brand. The hashtag is used to encourage people to join the event and share their experiences. In English, it means "AZN Live Day One". |
+| 7 | [#njnbg](http://twitter.com/search?q=%23njnbg) | #njnbg is an acronym for "No Judgement, No Biggie," which is a phrase used to indicate that someone does not judge or criticize another person's opinion or behavior. It is often used as a way to show acceptance and understanding. |
+| 8 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
+| 9 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 11 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
+| 12 | [Navarrete](http://twitter.com/search?q=Navarrete) | N/A |
+| 13 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
 | 14 | [Miracle Whip](http://twitter.com/search?q=Miracle+Whip) | N/A |
 | 15 | [Billy Jack](http://twitter.com/search?q=Billy+Jack) | N/A |
-| 16 | [MIRAI](http://twitter.com/search?q=MIRAI) | N/A |
-| 17 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
+| 16 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
+| 17 | [Red Dawn](http://twitter.com/search?q=Red+Dawn) | N/A |
 | 18 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
-| 19 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 20 | [Liam Wilson](http://twitter.com/search?q=Liam+Wilson) | Liam Wilson is a name of Irish origin, derived from the Gaelic name Uilliam. It is a combination of the words "will" and "helmet," and it means "protector." |
-| 21 | [Red Dawn](http://twitter.com/search?q=Red+Dawn) | N/A |
-| 22 | [Navarette](http://twitter.com/search?q=Navarette) | N/A |
-| 23 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
-| 24 | [Billings](http://twitter.com/search?q=Billings) | Billings is a city in the state of Montana, United States. It is the largest city in the state and serves as its economic and cultural center. The name Billings comes from Frederick H. Billings, a former president of the Northern Pacific Railroad. |
-| 25 | [South America](http://twitter.com/search?q=South+America) | N/A |
-| 26 | [Winter Park](http://twitter.com/search?q=Winter+Park) | N/A |
-| 27 | [James Harrison](http://twitter.com/search?q=James+Harrison) | N/A |
-| 28 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 29 | [Balloons](http://twitter.com/search?q=Balloons) | N/A |
+| 19 | [Liam Wilson](http://twitter.com/search?q=Liam+Wilson) | Liam Wilson is a name of Irish origin, derived from the Gaelic name Uilliam. It is a combination of the words "will" and "helmet," and it means "protector." |
+| 20 | [Every American](http://twitter.com/search?q=Every+American) | Every American is a term used to refer to all citizens of the United States of America. It is often used to emphasize the collective identity of the nation and its people. |
+| 21 | [Billings](http://twitter.com/search?q=Billings) | Billings is a city in the state of Montana, United States. It is the largest city in the state and serves as its economic and cultural center. The name Billings comes from Frederick H. Billings, a former president of the Northern Pacific Railroad. |
+| 22 | [South America](http://twitter.com/search?q=South+America) | N/A |
+| 23 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 24 | [Winter Park](http://twitter.com/search?q=Winter+Park) | N/A |
+| 25 | [Mount Washington](http://twitter.com/search?q=Mount+Washington) | N/A |
+| 26 | [Caffeine](http://twitter.com/search?q=Caffeine) | N/A |
+| 27 | [Balloons](http://twitter.com/search?q=Balloons) | N/A |
+| 28 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
+| 29 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
 | 30 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
 | 31 | [Skinamarink](http://twitter.com/search?q=Skinamarink) | N/A |
-| 32 | [Caffeine](http://twitter.com/search?q=Caffeine) | N/A |
-| 33 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
-| 34 | [Mount Washington](http://twitter.com/search?q=Mount+Washington) | N/A |
-| 35 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
-| 36 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 37 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
-| 38 | [Bill Kristol](http://twitter.com/search?q=Bill+Kristol) | N/A |
-| 39 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
-| 40 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 41 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 42 | [Noodles](http://twitter.com/search?q=Noodles) | N/A |
-| 43 | [Lucille](http://twitter.com/search?q=Lucille) | N/A |
-| 44 | [Wetter Remix](http://twitter.com/search?q=Wetter+Remix) | N/A |
-| 45 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 46 | [Pickles](http://twitter.com/search?q=Pickles) | N/A |
-| 47 | [Namor](http://twitter.com/search?q=Namor) | N/A |
-| 48 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 49 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 50 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
+| 32 | [Melinda Dillon](http://twitter.com/search?q=Melinda+Dillon) | N/A |
+| 33 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 34 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
+| 35 | [Pickles](http://twitter.com/search?q=Pickles) | N/A |
+| 36 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 37 | [Wetter Remix](http://twitter.com/search?q=Wetter+Remix) | N/A |
+| 38 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 39 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
+| 40 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 41 | [#Wordle595](http://twitter.com/search?q=%23Wordle595) | N/A |
+| 42 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 43 | [#FEHTips](http://twitter.com/search?q=%23FEHTips) | N/A |
+| 44 | [#LoveAfterLockup](http://twitter.com/search?q=%23LoveAfterLockup) | #LoveAfterLockup is a reality television series that follows couples who have met while one of them was in prison. The show documents the couples as they reunite and attempt to build a life together after the release of the incarcerated partner. The show explores the challenges and struggles these couples face as they try to make their relationships work despite their difficult pasts. |
+| 45 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 46 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 47 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 48 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 49 | [#BlueBloods](http://twitter.com/search?q=%23BlueBloods) | N/A |
+| 50 | [#Dateline](http://twitter.com/search?q=%23Dateline) | N/A |
 
 
 
