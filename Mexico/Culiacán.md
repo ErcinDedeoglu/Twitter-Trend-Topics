@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-02-04 03:16:48 UTC`
+📆 Last Updated: `2023-02-04 04:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,41 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SquadPlaydoit](http://twitter.com/search?q=%23SquadPlaydoit) | N/A |
-| 2 | [#K23Tour](http://twitter.com/search?q=%23K23Tour) | N/A |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [#VerificaciónGratuita](http://twitter.com/search?q=%23Verificaci%c3%b3nGratuita) | N/A |
-| 5 | [Pablo Lyle](http://twitter.com/search?q=Pablo+Lyle) | Pablo Lyle is a Mexican actor and singer. He is best known for his roles in the telenovelas La Mujer del Vendaval, La Tempestad, and El Señor de los Cielos. In English, the name Pablo Lyle means "strong and loyal". |
-| 6 | [STREAM WITH LUV](http://twitter.com/search?q=STREAM+WITH+LUV) | Stream with Luv is a streaming platform created by the Korean music label SM Entertainment. It is a subscription-based streaming service that allows users to access exclusive content from SM Entertainment's artists, including music, videos, and other media. The phrase "Stream with Luv" is meant to convey the idea of enjoying music and content with love and passion. |
+| 2 | [#SemifinalExatlón](http://twitter.com/search?q=%23SemifinalExatl%c3%b3n) | N/A |
+| 3 | [#K23Tour](http://twitter.com/search?q=%23K23Tour) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 6 | [Pablo Lyle](http://twitter.com/search?q=Pablo+Lyle) | Pablo Lyle is a Mexican actor and singer. He is best known for his roles in the telenovelas La Mujer del Vendaval, La Tempestad, and El Señor de los Cielos. In English, the name Pablo Lyle means "strong and loyal". |
 | 7 | [FRAUDE EN TELEMUNDO](http://twitter.com/search?q=FRAUDE+EN+TELEMUNDO) | N/A |
-| 8 | [STREAM BTS D-1](http://twitter.com/search?q=STREAM+BTS+D-1) | STREAM BTS D-1 is an event organized by the South Korean boy band BTS. It is a live streaming event that takes place one day before the release of a new album or single. The event allows fans to listen to snippets of the upcoming music and get an exclusive look at behind-the-scenes footage. |
-| 9 | [BWL TO 1 BILLION](http://twitter.com/search?q=BWL+TO+1+BILLION) | BWL TO 1 BILLION is an acronym that stands for "Blessed With Love To 1 Billion." It is a phrase used to express gratitude and appreciation for the blessings one has received in life. |
-| 10 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 11 | [#BoyWithLuvTo1B](http://twitter.com/search?q=%23BoyWithLuvTo1B) | N/A |
-| 12 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 13 | [Aristeo](http://twitter.com/search?q=Aristeo) | N/A |
-| 14 | [BÁRBARA EN LBEAUTÉ](http://twitter.com/search?q=B%c3%81RBARA+EN+LBEAUT%c3%89) | N/A |
-| 15 | [Tlalpan](http://twitter.com/search?q=Tlalpan) | N/A |
-| 16 | [México-Cuernavaca](http://twitter.com/search?q=M%c3%a9xico-Cuernavaca) | N/A |
-| 17 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
-| 18 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 19 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 20 | [Iker](http://twitter.com/search?q=Iker) | N/A |
-| 21 | [Insurgentes](http://twitter.com/search?q=Insurgentes) | N/A |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Layda Sansores](http://twitter.com/search?q=Layda+Sansores) | N/A |
-| 24 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
-| 25 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 26 | [#SemifinalExatlón](http://twitter.com/search?q=%23SemifinalExatl%c3%b3n) | N/A |
-| 27 | [#ellasenvix](http://twitter.com/search?q=%23ellasenvix) | N/A |
-| 28 | [#CarolinaIslas](http://twitter.com/search?q=%23CarolinaIslas) | N/A |
-| 29 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 30 | [#viernesalv](http://twitter.com/search?q=%23viernesalv) | N/A |
-| 31 | [#MiSecreto](http://twitter.com/search?q=%23MiSecreto) | N/A |
-| 32 | [#LCDF3](http://twitter.com/search?q=%23LCDF3) | N/A |
-| 33 | [#FUERANICKY](http://twitter.com/search?q=%23FUERANICKY) | N/A |
-| 34 | [#EscorpionHambreado](http://twitter.com/search?q=%23EscorpionHambreado) | N/A |
-| 35 | [#diainternacionaldelabogado](http://twitter.com/search?q=%23diainternacionaldelabogado) | N/A |
-| 36 | [#SerieDelCaribe](http://twitter.com/search?q=%23SerieDelCaribe) | N/A |
+| 8 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 9 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 10 | [STREAM WITH LUV](http://twitter.com/search?q=STREAM+WITH+LUV) | Stream with Luv is a streaming platform created by the Korean music label SM Entertainment. It is a subscription-based streaming service that allows users to access exclusive content from SM Entertainment's artists, including music, videos, and other media. The phrase "Stream with Luv" is meant to convey the idea of enjoying music and content with love and passion. |
+| 11 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 12 | [STREAM BTS D-1](http://twitter.com/search?q=STREAM+BTS+D-1) | STREAM BTS D-1 is an event organized by the South Korean boy band BTS. It is a live streaming event that takes place one day before the release of a new album or single. The event allows fans to listen to snippets of the upcoming music and get an exclusive look at behind-the-scenes footage. |
+| 13 | [BWL TO 1 BILLION](http://twitter.com/search?q=BWL+TO+1+BILLION) | BWL TO 1 BILLION is an acronym that stands for "Blessed With Love To 1 Billion." It is a phrase used to express gratitude and appreciation for the blessings one has received in life. |
+| 14 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 15 | [Mazatlán vs Juárez](http://twitter.com/search?q=Mazatl%c3%a1n+vs+Ju%c3%a1rez) | N/A |
+| 16 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 17 | [Carolina Islas](http://twitter.com/search?q=Carolina+Islas) | N/A |
+| 18 | [Aristeo](http://twitter.com/search?q=Aristeo) | N/A |
+| 19 | [BÁRBARA EN LBEAUTÉ](http://twitter.com/search?q=B%c3%81RBARA+EN+LBEAUT%c3%89) | N/A |
+| 20 | [Tlalpan](http://twitter.com/search?q=Tlalpan) | N/A |
+| 21 | [México-Cuernavaca](http://twitter.com/search?q=M%c3%a9xico-Cuernavaca) | N/A |
+| 22 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 23 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 24 | [Layda](http://twitter.com/search?q=Layda) | N/A |
+| 25 | [Iker](http://twitter.com/search?q=Iker) | N/A |
+| 26 | [Insurgentes](http://twitter.com/search?q=Insurgentes) | N/A |
+| 27 | [Serie del Caribe](http://twitter.com/search?q=Serie+del+Caribe) | N/A |
+| 28 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
+| 29 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
+| 30 | [#BoyWithLuvTo1B](http://twitter.com/search?q=%23BoyWithLuvTo1B) | N/A |
+| 31 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 32 | [#FUERANICKY](http://twitter.com/search?q=%23FUERANICKY) | N/A |
+| 33 | [#EscorpionHambreado](http://twitter.com/search?q=%23EscorpionHambreado) | N/A |
+| 34 | [#LCDF3](http://twitter.com/search?q=%23LCDF3) | N/A |
+| 35 | [#twitchstreamer](http://twitter.com/search?q=%23twitchstreamer) | N/A |
+| 36 | [#diainternacionaldelabogado](http://twitter.com/search?q=%23diainternacionaldelabogado) | N/A |
 
 
 

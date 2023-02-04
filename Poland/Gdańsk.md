@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-04 03:16:55 UTC`
+📆 Last Updated: `2023-02-04 04:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
 | 2 | [#WIDJAG](http://twitter.com/search?q=%23WIDJAG) | N/A |
 | 3 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 4 | [#tuskznaczybieda](http://twitter.com/search?q=%23tuskznaczybieda) | N/A |
-| 5 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
-| 6 | [#willaplus](http://twitter.com/search?q=%23willaplus) | N/A |
-| 7 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
-| 8 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 9 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 10 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 11 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
-| 12 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
-| 13 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 4 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
+| 5 | [#tuskznaczybieda](http://twitter.com/search?q=%23tuskznaczybieda) | N/A |
+| 6 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
+| 7 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 8 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 9 | [#forum](http://twitter.com/search?q=%23forum) | N/A |
+| 10 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
+| 11 | [willingen](http://twitter.com/search?q=willingen) | N/A |
+| 12 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 13 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 14 | [musztarda](http://twitter.com/search?q=musztarda) | N/A |
-| 15 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 16 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
-| 17 | [red bulla](http://twitter.com/search?q=red+bulla) | N/A |
-| 18 | [Karaś](http://twitter.com/search?q=Kara%c5%9b) | N/A |
-| 19 | [Gimper](http://twitter.com/search?q=Gimper) | N/A |
-| 20 | [Amadi](http://twitter.com/search?q=Amadi) | N/A |
-| 21 | [Guala](http://twitter.com/search?q=Guala) | N/A |
-| 22 | [zajc](http://twitter.com/search?q=zajc) | N/A |
-| 23 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
-| 24 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 25 | [Boxdel](http://twitter.com/search?q=Boxdel) | N/A |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 28 | [sheeya](http://twitter.com/search?q=sheeya) | N/A |
-| 29 | [Alana](http://twitter.com/search?q=Alana) | N/A |
-| 30 | [Fabijański](http://twitter.com/search?q=Fabija%c5%84ski) | N/A |
-| 31 | [GROT](http://twitter.com/search?q=GROT) | N/A |
-| 32 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 15 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 16 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 17 | [Karaś](http://twitter.com/search?q=Kara%c5%9b) | N/A |
+| 18 | [Amadiego](http://twitter.com/search?q=Amadiego) | N/A |
+| 19 | [gimper](http://twitter.com/search?q=gimper) | N/A |
+| 20 | [zajc](http://twitter.com/search?q=zajc) | N/A |
+| 21 | [red bulla](http://twitter.com/search?q=red+bulla) | N/A |
+| 22 | [boxdel](http://twitter.com/search?q=boxdel) | N/A |
+| 23 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 24 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 25 | [sheeya](http://twitter.com/search?q=sheeya) | N/A |
+| 26 | [Guala](http://twitter.com/search?q=Guala) | N/A |
+| 27 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 28 | [Grot](http://twitter.com/search?q=Grot) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 31 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 32 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
 | 33 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 34 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 35 | [Błaszczak](http://twitter.com/search?q=B%c5%82aszczak) | N/A |
-| 36 | [Onet](http://twitter.com/search?q=Onet) | N/A |
-| 37 | [Łodzi](http://twitter.com/search?q=%c5%81odzi) | N/A |
-| 38 | [widzewa](http://twitter.com/search?q=widzewa) | N/A |
-| 39 | [SETHA](http://twitter.com/search?q=SETHA) | N/A |
-| 40 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 41 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
-| 42 | [filipka](http://twitter.com/search?q=filipka) | N/A |
-| 43 | [Jarosz](http://twitter.com/search?q=Jarosz) | N/A |
-| 44 | [Jóźwiak](http://twitter.com/search?q=J%c3%b3%c5%bawiak) | N/A |
-| 45 | [rząd](http://twitter.com/search?q=rz%c4%85d) | N/A |
-| 46 | [Amadeusz](http://twitter.com/search?q=Amadeusz) | N/A |
-| 47 | [DOSLOWNIE](http://twitter.com/search?q=DOSLOWNIE) | N/A |
-| 48 | [Wiewiór](http://twitter.com/search?q=Wiewi%c3%b3r) | N/A |
-| 49 | [Stolarczyk](http://twitter.com/search?q=Stolarczyk) | N/A |
-| 50 | [Rafał](http://twitter.com/search?q=Rafa%c5%82) | N/A |
+| 34 | [onet](http://twitter.com/search?q=onet) | N/A |
+| 35 | [błaszczak](http://twitter.com/search?q=b%c5%82aszczak) | N/A |
+| 36 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 37 | [filipka](http://twitter.com/search?q=filipka) | N/A |
+| 38 | [Jóźwiak](http://twitter.com/search?q=J%c3%b3%c5%bawiak) | N/A |
+| 39 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
+| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 41 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 42 | [Fabijański](http://twitter.com/search?q=Fabija%c5%84ski) | N/A |
+| 43 | [Amadeusz](http://twitter.com/search?q=Amadeusz) | N/A |
+| 44 | [rafał](http://twitter.com/search?q=rafa%c5%82) | N/A |
+| 45 | [szeliga](http://twitter.com/search?q=szeliga) | N/A |
+| 46 | [Wiewiór](http://twitter.com/search?q=Wiewi%c3%b3r) | N/A |
+| 47 | [Setha](http://twitter.com/search?q=Setha) | N/A |
+| 48 | [dulkiewicz](http://twitter.com/search?q=dulkiewicz) | N/A |
+| 49 | [stolarczyk](http://twitter.com/search?q=stolarczyk) | N/A |
+| 50 | [Jejku](http://twitter.com/search?q=Jejku) | N/A |
 
 
 

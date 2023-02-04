@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-04 03:17:36 UTC`
+📆 Last Updated: `2023-02-04 04:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 2 | [Gracie](http://twitter.com/search?q=Gracie) | N/A |
-| 3 | [America](http://twitter.com/search?q=America) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
-| 6 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 1 | [Gracie](http://twitter.com/search?q=Gracie) | N/A |
+| 2 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [America](http://twitter.com/search?q=America) | N/A |
+| 5 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 6 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
 | 7 | [Gericht](http://twitter.com/search?q=Gericht) | N/A |
-| 8 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 9 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Logik](http://twitter.com/search?q=Logik) | N/A |
-| 12 | [händewaschen](http://twitter.com/search?q=h%c3%a4ndewaschen) | N/A |
-| 13 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 15 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
-| 16 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 17 | [London](http://twitter.com/search?q=London) | N/A |
-| 18 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 19 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 20 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 21 | [Schuss](http://twitter.com/search?q=Schuss) | N/A |
-| 22 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 23 | [#twitch](http://twitter.com/search?q=%23twitch) | N/A |
-| 24 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 26 | [Apéro](http://twitter.com/search?q=Ap%c3%a9ro) | N/A |
-| 27 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 28 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 29 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 30 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 31 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
-| 32 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 33 | [Begründung](http://twitter.com/search?q=Begr%c3%bcndung) | N/A |
-| 34 | [Klimaaktivist](http://twitter.com/search?q=Klimaaktivist) | N/A |
-| 35 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 36 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 37 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 38 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
-| 39 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 40 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
-| 41 | [Exact](http://twitter.com/search?q=Exact) | N/A |
-| 42 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 43 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 46 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 47 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
-| 48 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 49 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 50 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 8 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 9 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 10 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 11 | [#twitch](http://twitter.com/search?q=%23twitch) | N/A |
+| 12 | [Logik](http://twitter.com/search?q=Logik) | N/A |
+| 13 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 14 | [London](http://twitter.com/search?q=London) | N/A |
+| 15 | [händewaschen](http://twitter.com/search?q=h%c3%a4ndewaschen) | N/A |
+| 16 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
+| 17 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 18 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 19 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
+| 20 | [Exact](http://twitter.com/search?q=Exact) | N/A |
+| 21 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 22 | [Schuss](http://twitter.com/search?q=Schuss) | N/A |
+| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 24 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 25 | [Quellen](http://twitter.com/search?q=Quellen) | N/A |
+| 26 | [Begründung](http://twitter.com/search?q=Begr%c3%bcndung) | N/A |
+| 27 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 28 | [apéro](http://twitter.com/search?q=ap%c3%a9ro) | N/A |
+| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 31 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 32 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 33 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
+| 34 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 35 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 36 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 38 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 39 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
+| 40 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
+| 41 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
+| 42 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 43 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 44 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 46 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 47 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 48 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 49 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 50 | [Tatsache](http://twitter.com/search?q=Tatsache) | N/A |
 
 
 
