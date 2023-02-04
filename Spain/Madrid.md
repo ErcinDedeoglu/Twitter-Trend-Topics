@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-04 12:17:47 UTC`
+📆 Last Updated: `2023-02-04 13:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 2 | [Sálvame](http://twitter.com/search?q=S%c3%a1lvame) | N/A |
-| 3 | [#DiaMundialContraElCancer](http://twitter.com/search?q=%23DiaMundialContraElCancer) | N/A |
-| 4 | [insta](http://twitter.com/search?q=insta) | N/A |
-| 5 | [#APOYOROCIO4F](http://twitter.com/search?q=%23APOYOROCIO4F) | N/A |
-| 6 | [#N1CanalFiesta5](http://twitter.com/search?q=%23N1CanalFiesta5) | N/A |
-| 7 | [#YoMeRebelo4F](http://twitter.com/search?q=%23YoMeRebelo4F) | N/A |
-| 8 | [#FelizSabadoATodos](http://twitter.com/search?q=%23FelizSabadoATodos) | N/A |
-| 9 | [Fallarás](http://twitter.com/search?q=Fallar%c3%a1s) | N/A |
-| 10 | [Hoy 4](http://twitter.com/search?q=Hoy+4) | N/A |
-| 11 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 1 | [#SanidadEnTodoMadrid](http://twitter.com/search?q=%23SanidadEnTodoMadrid) | N/A |
+| 2 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
+| 3 | [Sálvame](http://twitter.com/search?q=S%c3%a1lvame) | N/A |
+| 4 | [#DiaMundialContraElCancer](http://twitter.com/search?q=%23DiaMundialContraElCancer) | N/A |
+| 5 | [insta](http://twitter.com/search?q=insta) | N/A |
+| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 7 | [#APOYOROCIO4F](http://twitter.com/search?q=%23APOYOROCIO4F) | N/A |
+| 8 | [#GianmarcoMejorate](http://twitter.com/search?q=%23GianmarcoMejorate) | N/A |
+| 9 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 10 | [Fallarás](http://twitter.com/search?q=Fallar%c3%a1s) | N/A |
+| 11 | [#Solos4F](http://twitter.com/search?q=%23Solos4F) | N/A |
 | 12 | [Pepa Flores](http://twitter.com/search?q=Pepa+Flores) | N/A |
-| 13 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 14 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 13 | [Hoy 4](http://twitter.com/search?q=Hoy+4) | N/A |
+| 14 | [Interstellar](http://twitter.com/search?q=Interstellar) | N/A |
 | 15 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 16 | [Alcaldesas](http://twitter.com/search?q=Alcaldesas) | N/A |
-| 17 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 18 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 19 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | N/A |
-| 20 | [Errejón](http://twitter.com/search?q=Errej%c3%b3n) | N/A |
-| 21 | [El 4](http://twitter.com/search?q=El+4) | N/A |
-| 22 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
-| 23 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
-| 24 | [Renfe](http://twitter.com/search?q=Renfe) | N/A |
-| 25 | [Más País](http://twitter.com/search?q=M%c3%a1s+Pa%c3%ads) | N/A |
-| 26 | [borja prado](http://twitter.com/search?q=borja+prado) | N/A |
-| 27 | [Tanxugueiras](http://twitter.com/search?q=Tanxugueiras) | N/A |
-| 28 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
-| 29 | [Cantabria](http://twitter.com/search?q=Cantabria) | N/A |
-| 30 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
-| 31 | [Operación](http://twitter.com/search?q=Operaci%c3%b3n) | N/A |
-| 32 | [Irving](http://twitter.com/search?q=Irving) | N/A |
-| 33 | [#Gianmarco4F](http://twitter.com/search?q=%23Gianmarco4F) | N/A |
-| 34 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
-| 35 | [#Solos4F](http://twitter.com/search?q=%23Solos4F) | N/A |
-| 36 | [#HaciendoFotocopias](http://twitter.com/search?q=%23HaciendoFotocopias) | N/A |
-| 37 | [#QueTeVoteTxapote](http://twitter.com/search?q=%23QueTeVoteTxapote) | N/A |
-| 38 | [#4DeFebrero](http://twitter.com/search?q=%234DeFebrero) | N/A |
-| 39 | [#EntreTodos](http://twitter.com/search?q=%23EntreTodos) | N/A |
-| 40 | [#AgropopularAguedas](http://twitter.com/search?q=%23AgropopularAguedas) | N/A |
-| 41 | [#EspanyolOsasuna](http://twitter.com/search?q=%23EspanyolOsasuna) | N/A |
-| 42 | [#FelizFinDeSemana](http://twitter.com/search?q=%23FelizFinDeSemana) | N/A |
+| 16 | [Paterno](http://twitter.com/search?q=Paterno) | Paterno is an Italian word meaning "fatherly" or "paternal". It is often used to refer to someone who is a father figure or mentor. |
+| 17 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 18 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 19 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 20 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
+| 21 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 22 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 23 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 24 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | N/A |
+| 25 | [Errejón](http://twitter.com/search?q=Errej%c3%b3n) | N/A |
+| 26 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
+| 27 | [Eaea](http://twitter.com/search?q=Eaea) | N/A |
+| 28 | [Gerardo](http://twitter.com/search?q=Gerardo) | N/A |
+| 29 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 30 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
+| 31 | [Azul](http://twitter.com/search?q=Azul) | N/A |
+| 32 | [El 4](http://twitter.com/search?q=El+4) | N/A |
+| 33 | [Perfectamente](http://twitter.com/search?q=Perfectamente) | N/A |
+| 34 | [Tanxugueiras](http://twitter.com/search?q=Tanxugueiras) | N/A |
+| 35 | [Más País](http://twitter.com/search?q=M%c3%a1s+Pa%c3%ads) | N/A |
+| 36 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
+| 37 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
+| 38 | [Figo](http://twitter.com/search?q=Figo) | N/A |
+| 39 | [Porta](http://twitter.com/search?q=Porta) | N/A |
+| 40 | [#N1CanalFiesta5](http://twitter.com/search?q=%23N1CanalFiesta5) | N/A |
+| 41 | [#Gianmarco4F](http://twitter.com/search?q=%23Gianmarco4F) | N/A |
+| 42 | [#YoMeRebelo4F](http://twitter.com/search?q=%23YoMeRebelo4F) | N/A |
+| 43 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 44 | [#EspanyolOsasuna](http://twitter.com/search?q=%23EspanyolOsasuna) | N/A |
+| 45 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
+| 46 | [#PremierLeagueDAZN](http://twitter.com/search?q=%23PremierLeagueDAZN) | N/A |
+| 47 | [#QueTeVoteTxapote](http://twitter.com/search?q=%23QueTeVoteTxapote) | N/A |
+| 48 | [#HaciendoFotocopias](http://twitter.com/search?q=%23HaciendoFotocopias) | N/A |
+| 49 | [#EntreTodos](http://twitter.com/search?q=%23EntreTodos) | N/A |
+| 50 | [#4Febrero](http://twitter.com/search?q=%234Febrero) | N/A |
 
 
 

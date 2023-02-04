@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-04 12:17:43 UTC`
+📆 Last Updated: `2023-02-04 13:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Meyer Habib](http://twitter.com/search?q=Meyer+Habib) | N/A |
-| 2 | [Mazel Tov](http://twitter.com/search?q=Mazel+Tov) | N/A |
-| 3 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 4 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 5 | [#Dussopt](http://twitter.com/search?q=%23Dussopt) | N/A |
-| 6 | [#FaisNaviguerUnTitre](http://twitter.com/search?q=%23FaisNaviguerUnTitre) | N/A |
-| 7 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 8 | [Foch](http://twitter.com/search?q=Foch) | N/A |
-| 9 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 10 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
-| 11 | [#VTEP](http://twitter.com/search?q=%23VTEP) | N/A |
-| 12 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
-| 13 | [Millenium](http://twitter.com/search?q=Millenium) | N/A |
-| 14 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 15 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 16 | [Hervé Le Bras](http://twitter.com/search?q=Herv%c3%a9+Le+Bras) | N/A |
-| 17 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
-| 18 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 19 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 20 | [Chikirou](http://twitter.com/search?q=Chikirou) | N/A |
-| 21 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 22 | [Georges Sand](http://twitter.com/search?q=Georges+Sand) | N/A |
-| 23 | [Tancrède](http://twitter.com/search?q=Tancr%c3%a8de) | N/A |
-| 24 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 25 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
-| 26 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 27 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 28 | [Prisunic](http://twitter.com/search?q=Prisunic) | N/A |
-| 29 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 30 | [Autain](http://twitter.com/search?q=Autain) | N/A |
-| 31 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 32 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 33 | [Saur](http://twitter.com/search?q=Saur) | N/A |
-| 34 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
-| 35 | [Mammouth](http://twitter.com/search?q=Mammouth) | N/A |
-| 36 | [Davet](http://twitter.com/search?q=Davet) | N/A |
-| 37 | [Astérix](http://twitter.com/search?q=Ast%c3%a9rix) | N/A |
-| 38 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
-| 39 | [Le PNF](http://twitter.com/search?q=Le+PNF) | N/A |
-| 40 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 41 | [KRISTINA](http://twitter.com/search?q=KRISTINA) | N/A |
-| 42 | [Elimination Chamber](http://twitter.com/search?q=Elimination+Chamber) | N/A |
+| 1 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 2 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
+| 3 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
+| 4 | [Mazel Tov](http://twitter.com/search?q=Mazel+Tov) | N/A |
+| 5 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 6 | [Meyer Habib](http://twitter.com/search?q=Meyer+Habib) | N/A |
+| 7 | [#Dussopt](http://twitter.com/search?q=%23Dussopt) | N/A |
+| 8 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 9 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 10 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 12 | [Foch](http://twitter.com/search?q=Foch) | N/A |
+| 13 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
+| 14 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
+| 15 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 16 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
+| 17 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 18 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 19 | [Clément Noël](http://twitter.com/search?q=Cl%c3%a9ment+No%c3%abl) | N/A |
+| 20 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 21 | [Tancrède](http://twitter.com/search?q=Tancr%c3%a8de) | N/A |
+| 22 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 23 | [Monconduit](http://twitter.com/search?q=Monconduit) | N/A |
+| 24 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 25 | [Favoritisme](http://twitter.com/search?q=Favoritisme) | N/A |
+| 26 | [Amine Umlil](http://twitter.com/search?q=Amine+Umlil) | N/A |
+| 27 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 28 | [Deku](http://twitter.com/search?q=Deku) | N/A |
+| 29 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 30 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 31 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
+| 32 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 33 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 34 | [Millenium](http://twitter.com/search?q=Millenium) | N/A |
+| 35 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 36 | [Autain](http://twitter.com/search?q=Autain) | N/A |
+| 37 | [Davet](http://twitter.com/search?q=Davet) | N/A |
+| 38 | [George Sand](http://twitter.com/search?q=George+Sand) | N/A |
+| 39 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 40 | [Mammouth](http://twitter.com/search?q=Mammouth) | N/A |
+| 41 | [Saur](http://twitter.com/search?q=Saur) | N/A |
+| 42 | [Pierre Chaillot](http://twitter.com/search?q=Pierre+Chaillot) | N/A |
 | 43 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 44 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 46 | [Bon WE](http://twitter.com/search?q=Bon+WE) | N/A |
-| 47 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 48 | [Ambassadeur](http://twitter.com/search?q=Ambassadeur) | N/A |
-| 49 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 50 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 44 | [Chamonix](http://twitter.com/search?q=Chamonix) | N/A |
+| 45 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 46 | [Prisunic](http://twitter.com/search?q=Prisunic) | N/A |
+| 47 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 48 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 49 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 50 | [Hervé Le Bras](http://twitter.com/search?q=Herv%c3%a9+Le+Bras) | N/A |
 
 
 

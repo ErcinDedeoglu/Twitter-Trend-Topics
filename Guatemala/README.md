@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-04 12:18:25 UTC`
+📆 Last Updated: `2023-02-04 13:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 2 | [#simulacro3f](http://twitter.com/search?q=%23simulacro3f) | N/A |
-| 3 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
-| 4 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 5 | [#EUElecciones2023](http://twitter.com/search?q=%23EUElecciones2023) | N/A |
-| 6 | [Cuarteto de Nos](http://twitter.com/search?q=Cuarteto+de+Nos) | N/A |
-| 7 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
-| 8 | [#BoyWithLuvTo1Billion](http://twitter.com/search?q=%23BoyWithLuvTo1Billion) | N/A |
-| 9 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 10 | [blanca alfaro](http://twitter.com/search?q=blanca+alfaro) | N/A |
-| 11 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
-| 12 | [calzada san juan](http://twitter.com/search?q=calzada+san+juan) | N/A |
-| 13 | [#EleccionesGT](http://twitter.com/search?q=%23EleccionesGT) | N/A |
-| 14 | [#sismogt](http://twitter.com/search?q=%23sismogt) | N/A |
-| 15 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 17 | [Rels](http://twitter.com/search?q=Rels) | N/A |
-| 18 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 19 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
-| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 21 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 22 | [Muriel](http://twitter.com/search?q=Muriel) | N/A |
-| 23 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 24 | [deportivo achuapa](http://twitter.com/search?q=deportivo+achuapa) | N/A |
-| 25 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
+| 1 | [Caravana del Zorro](http://twitter.com/search?q=Caravana+del+Zorro) | N/A |
+| 2 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 3 | [#simulacro3f](http://twitter.com/search?q=%23simulacro3f) | N/A |
+| 4 | [Amber Heard](http://twitter.com/search?q=Amber+Heard) | N/A |
+| 5 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 6 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 7 | [Esquipulas](http://twitter.com/search?q=Esquipulas) | N/A |
+| 8 | [Cuarteto de Nos](http://twitter.com/search?q=Cuarteto+de+Nos) | N/A |
+| 9 | [pirulo](http://twitter.com/search?q=pirulo) | N/A |
+| 10 | [#BoyWithLuvTo1Billion](http://twitter.com/search?q=%23BoyWithLuvTo1Billion) | N/A |
+| 11 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 12 | [#EleccionesGT](http://twitter.com/search?q=%23EleccionesGT) | N/A |
+| 13 | [blanca alfaro](http://twitter.com/search?q=blanca+alfaro) | N/A |
+| 14 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 15 | [#sismogt](http://twitter.com/search?q=%23sismogt) | N/A |
+| 16 | [#EUElecciones2023](http://twitter.com/search?q=%23EUElecciones2023) | N/A |
+| 17 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 18 | [calzada san juan](http://twitter.com/search?q=calzada+san+juan) | N/A |
+| 19 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 21 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 22 | [Jordan Rodas](http://twitter.com/search?q=Jordan+Rodas) | N/A |
+| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 24 | [Muriel](http://twitter.com/search?q=Muriel) | N/A |
+| 25 | [Roosevelt](http://twitter.com/search?q=Roosevelt) | N/A |
 | 26 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
 | 27 | [Bluey](http://twitter.com/search?q=Bluey) | N/A |
-| 28 | [Ana Sofía](http://twitter.com/search?q=Ana+Sof%c3%ada) | N/A |
-| 29 | [charles fernández](http://twitter.com/search?q=charles+fern%c3%a1ndez) | N/A |
-| 30 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 31 | [miguel ángel gálvez](http://twitter.com/search?q=miguel+%c3%a1ngel+g%c3%a1lvez) | N/A |
-| 32 | [Corruptos](http://twitter.com/search?q=Corruptos) | N/A |
-| 33 | [café tacvba](http://twitter.com/search?q=caf%c3%a9+tacvba) | N/A |
-| 34 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 36 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 37 | [ciudad de guatemala](http://twitter.com/search?q=ciudad+de+guatemala) | N/A |
-| 38 | [fuerzas de tierra](http://twitter.com/search?q=fuerzas+de+tierra) | N/A |
-| 39 | [Uffff](http://twitter.com/search?q=Uffff) | N/A |
-| 40 | [Marce](http://twitter.com/search?q=Marce) | N/A |
-| 41 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
-| 42 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 43 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 44 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 45 | [chinautla](http://twitter.com/search?q=chinautla) | N/A |
-| 46 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 47 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 48 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 49 | [chimaltenango](http://twitter.com/search?q=chimaltenango) | N/A |
-| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [CORRUPTOS](http://twitter.com/search?q=CORRUPTOS) | N/A |
+| 30 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 31 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 32 | [café tacvba](http://twitter.com/search?q=caf%c3%a9+tacvba) | N/A |
+| 33 | [deportivo achuapa](http://twitter.com/search?q=deportivo+achuapa) | N/A |
+| 34 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 35 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 36 | [charles fernández](http://twitter.com/search?q=charles+fern%c3%a1ndez) | N/A |
+| 37 | [fuerzas de tierra](http://twitter.com/search?q=fuerzas+de+tierra) | N/A |
+| 38 | [Marce](http://twitter.com/search?q=Marce) | N/A |
+| 39 | [Penaldo](http://twitter.com/search?q=Penaldo) | Penaldo is a portmanteau of the words "penalty" and "Ronaldo," referring to the Portuguese soccer player Cristiano Ronaldo. It is used to describe a situation in which someone takes a penalty kick in a soccer game and fails to score. |
+| 40 | [miguel ángel gálvez](http://twitter.com/search?q=miguel+%c3%a1ngel+g%c3%a1lvez) | N/A |
+| 41 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 42 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 43 | [chinautla](http://twitter.com/search?q=chinautla) | N/A |
+| 44 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
+| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 46 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 47 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 48 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
+| 49 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 50 | [Exijo](http://twitter.com/search?q=Exijo) | N/A |
 
 
 

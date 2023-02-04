@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-04 12:17:47 UTC`
+📆 Last Updated: `2023-02-04 13:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dienstplicht](http://twitter.com/search?q=%23dienstplicht) | N/A |
-| 2 | [#LL23](http://twitter.com/search?q=%23LL23) | N/A |
-| 3 | [#lowlands](http://twitter.com/search?q=%23lowlands) | N/A |
+| 2 | [#groenlinkscongres](http://twitter.com/search?q=%23groenlinkscongres) | N/A |
+| 3 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
 | 4 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 5 | [#pvdacongres](http://twitter.com/search?q=%23pvdacongres) | N/A |
 | 6 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
 | 7 | [Gijs](http://twitter.com/search?q=Gijs) | N/A |
-| 8 | [Dag 4](http://twitter.com/search?q=Dag+4) | N/A |
+| 8 | [Zuiveren](http://twitter.com/search?q=Zuiveren) | N/A |
 | 9 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 10 | [Zuiveren](http://twitter.com/search?q=Zuiveren) | N/A |
-| 11 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 12 | [van houwelingen](http://twitter.com/search?q=van+houwelingen) | N/A |
-| 13 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 14 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 15 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
+| 10 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 12 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 13 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 14 | [Van Houwelingen](http://twitter.com/search?q=Van+Houwelingen) | N/A |
+| 15 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
 | 16 | [Jinek](http://twitter.com/search?q=Jinek) | N/A |
-| 17 | [Sander](http://twitter.com/search?q=Sander) | N/A |
-| 18 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 19 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 20 | [Lauren Molengraaf](http://twitter.com/search?q=Lauren+Molengraaf) | N/A |
-| 21 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
-| 22 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 23 | [Magtel](http://twitter.com/search?q=Magtel) | N/A |
-| 24 | [Defensie](http://twitter.com/search?q=Defensie) | N/A |
-| 25 | [Arib](http://twitter.com/search?q=Arib) | N/A |
-| 26 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
-| 27 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 28 | [touwtrekken](http://twitter.com/search?q=touwtrekken) | N/A |
-| 29 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 30 | [jong fc utrecht](http://twitter.com/search?q=jong+fc+utrecht) | N/A |
-| 31 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 32 | [Bossche](http://twitter.com/search?q=Bossche) | N/A |
-| 33 | [mark-jan fledderus](http://twitter.com/search?q=mark-jan+fledderus) | N/A |
-| 34 | [red bull racing](http://twitter.com/search?q=red+bull+racing) | N/A |
-| 35 | [NPO Radio](http://twitter.com/search?q=NPO+Radio) | N/A |
-| 36 | [Grease](http://twitter.com/search?q=Grease) | N/A |
-| 37 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 38 | [Stoepranden](http://twitter.com/search?q=Stoepranden) | N/A |
-| 39 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 40 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 41 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 42 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
-| 43 | [Thnx](http://twitter.com/search?q=Thnx) | N/A |
-| 44 | [Jesse Klaver](http://twitter.com/search?q=Jesse+Klaver) | N/A |
+| 17 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 18 | [Dag 4](http://twitter.com/search?q=Dag+4) | N/A |
+| 19 | [fortuyn](http://twitter.com/search?q=fortuyn) | N/A |
+| 20 | [Arib](http://twitter.com/search?q=Arib) | N/A |
+| 21 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 22 | [Magtel](http://twitter.com/search?q=Magtel) | N/A |
+| 23 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
+| 24 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 25 | [Sociaal](http://twitter.com/search?q=Sociaal) | N/A |
+| 26 | [touwtrekken](http://twitter.com/search?q=touwtrekken) | N/A |
+| 27 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 28 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
+| 29 | [jong fc utrecht](http://twitter.com/search?q=jong+fc+utrecht) | N/A |
+| 30 | [Eerste Kamer](http://twitter.com/search?q=Eerste+Kamer) | N/A |
+| 31 | [mark-jan fledderus](http://twitter.com/search?q=mark-jan+fledderus) | N/A |
+| 32 | [Red Bull Racing](http://twitter.com/search?q=Red+Bull+Racing) | N/A |
+| 33 | [Kees](http://twitter.com/search?q=Kees) | N/A |
+| 34 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 35 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 36 | [Lauren Molengraaf](http://twitter.com/search?q=Lauren+Molengraaf) | N/A |
+| 37 | [Grease](http://twitter.com/search?q=Grease) | N/A |
+| 38 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 39 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 40 | [Jesse Klaver](http://twitter.com/search?q=Jesse+Klaver) | N/A |
+| 41 | [NPO Radio](http://twitter.com/search?q=NPO+Radio) | N/A |
+| 42 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 43 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 44 | [stuur](http://twitter.com/search?q=stuur) | N/A |
 | 45 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 46 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 47 | [Attje Kuiken](http://twitter.com/search?q=Attje+Kuiken) | N/A |
-| 48 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 46 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 47 | [attje kuiken](http://twitter.com/search?q=attje+kuiken) | N/A |
+| 48 | [top oss](http://twitter.com/search?q=top+oss) | N/A |
 
 
 

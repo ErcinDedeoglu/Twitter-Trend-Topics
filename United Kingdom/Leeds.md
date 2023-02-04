@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-02-04 12:17:30 UTC`
+📆 Last Updated: `2023-02-04 13:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 2 | [Southend](http://twitter.com/search?q=Southend) | N/A |
-| 3 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 4 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 5 | [Curby](http://twitter.com/search?q=Curby) | N/A |
-| 6 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 1 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 2 | [#ShapingUs](http://twitter.com/search?q=%23ShapingUs) | N/A |
+| 3 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 4 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 5 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 6 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
 | 7 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 8 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [#CHEFUL](http://twitter.com/search?q=%23CHEFUL) | #CHEFUL is a hashtag used on social media to refer to food that is prepared by a professional chef. It is often used to showcase the work of chefs, highlight their culinary skills, and promote their businesses. |
-| 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 15 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 16 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | N/A |
-| 17 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 18 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 19 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 20 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 21 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 8 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
+| 9 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 10 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 11 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 12 | [Krul](http://twitter.com/search?q=Krul) | N/A |
+| 13 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 14 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 15 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 16 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 18 | [McNeil](http://twitter.com/search?q=McNeil) | N/A |
+| 19 | [Lewin](http://twitter.com/search?q=Lewin) | N/A |
+| 20 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 21 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
 | 22 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 23 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | N/A |
-| 24 | [McNeil](http://twitter.com/search?q=McNeil) | N/A |
-| 25 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 26 | [COYG](http://twitter.com/search?q=COYG) | N/A |
-| 27 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 28 | [Everton v Arsenal](http://twitter.com/search?q=Everton+v+Arsenal) | N/A |
-| 29 | [Jo Brand](http://twitter.com/search?q=Jo+Brand) | N/A |
-| 30 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
-| 31 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 32 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
-| 33 | [Bishops](http://twitter.com/search?q=Bishops) | N/A |
-| 34 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
-| 35 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 36 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 37 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
-| 38 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 39 | [Eddie Butler](http://twitter.com/search?q=Eddie+Butler) | N/A |
-| 40 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
-| 41 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
-| 42 | [Wales v Ireland](http://twitter.com/search?q=Wales+v+Ireland) | N/A |
-| 43 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 44 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
-| 45 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
-| 46 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 47 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
-| 48 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
-| 49 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 23 | [Calvert](http://twitter.com/search?q=Calvert) | N/A |
+| 24 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 25 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 26 | [Everton vs Arsenal](http://twitter.com/search?q=Everton+vs+Arsenal) | N/A |
+| 27 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
+| 28 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 29 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 30 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
+| 31 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
+| 32 | [Jo Brand](http://twitter.com/search?q=Jo+Brand) | N/A |
+| 33 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
+| 34 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
+| 35 | [Bishops](http://twitter.com/search?q=Bishops) | N/A |
+| 36 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
+| 37 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
+| 38 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
+| 39 | [Wales v Ireland](http://twitter.com/search?q=Wales+v+Ireland) | N/A |
+| 40 | [Trolley](http://twitter.com/search?q=Trolley) | N/A |
+| 41 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
+| 42 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
+| 43 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
+| 44 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
+| 45 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 46 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 47 | [Southend](http://twitter.com/search?q=Southend) | N/A |
+| 48 | [Eddie Butler](http://twitter.com/search?q=Eddie+Butler) | N/A |
+| 49 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-04 12:17:49 UTC`
+📆 Last Updated: `2023-02-04 13:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
 | 3 | [Maske](http://twitter.com/search?q=Maske) | N/A |
 | 4 | [Interesse](http://twitter.com/search?q=Interesse) | N/A |
-| 5 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 6 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
-| 7 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 9 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
-| 10 | [America](http://twitter.com/search?q=America) | N/A |
-| 11 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [Händewaschen](http://twitter.com/search?q=H%c3%a4ndewaschen) | N/A |
-| 14 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 15 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
-| 16 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 17 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
-| 18 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 20 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 21 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 22 | [apéro](http://twitter.com/search?q=ap%c3%a9ro) | N/A |
-| 23 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 24 | [Klimaaktivist](http://twitter.com/search?q=Klimaaktivist) | N/A |
-| 25 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 26 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 29 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 30 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 31 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 32 | [Exact](http://twitter.com/search?q=Exact) | N/A |
-| 33 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 34 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 35 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 36 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
-| 37 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 38 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
-| 39 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 40 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
-| 41 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 42 | [Vermutlich](http://twitter.com/search?q=Vermutlich) | N/A |
-| 43 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
-| 44 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 45 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 46 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
-| 47 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 48 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 49 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
-| 50 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 5 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 6 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
+| 7 | [Terror](http://twitter.com/search?q=Terror) | N/A |
+| 8 | [America](http://twitter.com/search?q=America) | N/A |
+| 9 | [mastodon](http://twitter.com/search?q=mastodon) | N/A |
+| 10 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 11 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
+| 12 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
+| 13 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 14 | [Händewaschen](http://twitter.com/search?q=H%c3%a4ndewaschen) | N/A |
+| 15 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
+| 16 | [#SriLanka](http://twitter.com/search?q=%23SriLanka) | N/A |
+| 17 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 18 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 19 | [Exact](http://twitter.com/search?q=Exact) | N/A |
+| 20 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 22 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
+| 23 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 24 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 25 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 26 | [apéro](http://twitter.com/search?q=ap%c3%a9ro) | N/A |
+| 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 28 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 29 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 30 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 31 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 32 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 33 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 34 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
+| 35 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 36 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 37 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
+| 38 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
+| 39 | [Soldaten](http://twitter.com/search?q=Soldaten) | N/A |
+| 40 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 41 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 42 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 44 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
+| 45 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 46 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 47 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 48 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
+| 49 | [Kunden](http://twitter.com/search?q=Kunden) | N/A |
+| 50 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
 
 
 

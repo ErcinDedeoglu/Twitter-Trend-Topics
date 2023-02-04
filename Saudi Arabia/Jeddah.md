@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-04 12:18:03 UTC`
+📆 Last Updated: `2023-02-04 13:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,52 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#عالميه_الهلال_تضي_المونديال](http://twitter.com/search?q=%23%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%aa%d8%b6%d9%8a_%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84) | #عالميه_الهلال_تضي_المونديال is a hashtag used by fans of Al-Hilal FC, a Saudi Arabian football club, to show their support for the team's participation in the FIFA Club World Cup. In English, it translates to "Al-Hilal Worldwide Supports the FIFA Club World Cup". |
-| 2 | [#النصر_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | #النصر_الفتح is an Arabic hashtag that translates to "Victory of Liberation" in English. It is often used to celebrate a victory or success, particularly in the context of a political or military struggle. |
-| 3 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 4 | [#البزنس59](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b359) | N/A |
-| 5 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
-| 6 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 7 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | تاليسكا is a type of traditional dance from the Middle East. It is an energetic, fast-paced dance that involves spinning and clapping. In English, it is sometimes referred to as the "Tahleekah Dance". |
-| 8 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | N/A |
-| 9 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 10 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
-| 11 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 12 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 13 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
-| 14 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 15 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 16 | [اوسبينا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a8%d9%8a%d9%86%d8%a7) | اوسبينا (Osbena) is an Arabic word that means "to be patient". It is used to encourage someone to remain calm and not give up in the face of adversity. |
-| 17 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
-| 18 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 19 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 20 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 21 | [نوح الموسي](http://twitter.com/search?q=%d9%86%d9%88%d8%ad+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%8a) | نوح الموسي is an Arabic phrase meaning "Noah's Ark". It is a reference to the biblical story of Noah and the great flood, in which God instructed Noah to build an ark to save himself, his family, and two of every kind of animal from the flood. |
-| 22 | [بن دبكه](http://twitter.com/search?q=%d8%a8%d9%86+%d8%af%d8%a8%d9%83%d9%87) | بن دبكه is an Arabic phrase that translates to "son of a donkey" and is used as an insult. |
-| 23 | [شون دايتش](http://twitter.com/search?q=%d8%b4%d9%88%d9%86+%d8%af%d8%a7%d9%8a%d8%aa%d8%b4) | N/A |
-| 24 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
-| 25 | [المعلومات السريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d9%87) | N/A |
-| 26 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
-| 27 | [الاتحاد اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 28 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 29 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 30 | [البيشي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b4%d9%8a) | البيشي is an Arabic word that means "the boss" or "the leader". It is often used to refer to someone who is in charge or has authority over others. |
-| 31 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
-| 32 | [الايام البيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
-| 33 | [راشد الجديده](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
-| 34 | [الفوز اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 35 | [شور بيتي](http://twitter.com/search?q=%d8%b4%d9%88%d8%b1+%d8%a8%d9%8a%d8%aa%d9%8a) | N/A |
-| 36 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 37 | [بيرنلي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a) | بيرنلي (pronounced "birnlee") is an Arabic word meaning "pearl". |
-| 38 | [جعفر الصليح](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%ad) | N/A |
-| 39 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
-| 40 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 41 | [اللاعبين المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
-| 42 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
-| 43 | [الكره السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 44 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 45 | [الطرد المباشر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1) | N/A |
-| 46 | [وليد عبدالله](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | وليد عبدالله is an Arabic name meaning "Walid Abdullah" in English. It is a common name in the Middle East and North Africa. |
-| 47 | [اللاعب المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | N/A |
-| 48 | [١٣ رجب](http://twitter.com/search?q=%d9%a1%d9%a3+%d8%b1%d8%ac%d8%a8) | N/A |
-| 49 | [كوريا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 50 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 2 | [#الهلال_الوداد_المغربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af_%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a) | #الهلال_الوداد_المغربي is a hashtag used to show support for the Moroccan football team, Wydad Athletic Club. In English, it translates to "Moroccan Wydad Flag". |
+| 3 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 4 | [#الاتحاد_الطايي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 5 | [للهلال](http://twitter.com/search?q=%d9%84%d9%84%d9%87%d9%84%d8%a7%d9%84) | للهلال is an Arabic phrase that translates to "For the National Team". It is often used as a rallying cry for supporters of the Saudi Arabian national football team. |
+| 6 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 7 | [#الهلال_في_كاس_العالم](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%8a_%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 8 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 9 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 10 | [شون دايتش](http://twitter.com/search?q=%d8%b4%d9%88%d9%86+%d8%af%d8%a7%d9%8a%d8%aa%d8%b4) | N/A |
+| 11 | [السبت الممتاز](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 12 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 13 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 14 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 15 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 16 | [كاري](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%8a) | N/A |
+| 17 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 18 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 19 | [الفوز اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 20 | [الهلال السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 21 | [الهلال العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 22 | [الزعيم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 23 | [راشد الجديده](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
+| 24 | [منتصف العمر](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%b5%d9%81+%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
+| 25 | [الشعب المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 26 | [4 فبراير](http://twitter.com/search?q=4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 27 | [#اليوم_العالمي_للسرطان](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a_%d9%84%d9%84%d8%b3%d8%b1%d8%b7%d8%a7%d9%86) | N/A |
+| 28 | [#ازمه_منتصف_العمر](http://twitter.com/search?q=%23%d8%a7%d8%b2%d9%85%d9%87_%d9%85%d9%86%d8%aa%d8%b5%d9%81_%d8%a7%d9%84%d8%b9%d9%85%d8%b1) | N/A |
+| 29 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
+| 30 | [#موت_الفجاه](http://twitter.com/search?q=%23%d9%85%d9%88%d8%aa_%d8%a7%d9%84%d9%81%d8%ac%d8%a7%d9%87) | N/A |
+| 31 | [#عرض_عبدون_يوم_التاسيس](http://twitter.com/search?q=%23%d8%b9%d8%b1%d8%b6_%d8%b9%d8%a8%d8%af%d9%88%d9%86_%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 32 | [#زد_رصيدك12](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8312) | N/A |
+| 33 | [#رويه_2030_واقع_يتحقق](http://twitter.com/search?q=%23%d8%b1%d9%88%d9%8a%d9%87_2030_%d9%88%d8%a7%d9%82%d8%b9_%d9%8a%d8%aa%d8%ad%d9%82%d9%82) | N/A |
+| 34 | [#كبير_اسيا](http://twitter.com/search?q=%23%d9%83%d8%a8%d9%8a%d8%b1_%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 35 | [#وليد_الكعبه](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a%d8%af_%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%87) | N/A |
+| 36 | [#ابداع_2023](http://twitter.com/search?q=%23%d8%a7%d8%a8%d8%af%d8%a7%d8%b9_2023) | N/A |
+| 37 | [#البزنس60](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b360) | N/A |
+| 38 | [#برنامج_الاجاويد501](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d9%88%d9%8a%d8%af501) | N/A |
+| 39 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 40 | [#وفاه_المغرد_الشامخ_ابوخالد](http://twitter.com/search?q=%23%d9%88%d9%81%d8%a7%d9%87_%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%af_%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d8%ae_%d8%a7%d8%a8%d9%88%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 41 | [#انتم_السعوديين_دمرتم_بلدنا](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%aa%d9%85_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%8a%d9%86_%d8%af%d9%85%d8%b1%d8%aa%d9%85_%d8%a8%d9%84%d8%af%d9%86%d8%a7) | N/A |
+| 42 | [#صباحات_الهلال](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad%d8%a7%d8%aa_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 43 | [#يوم_التاسيس_السعودي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 44 | [#ياعلي](http://twitter.com/search?q=%23%d9%8a%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 45 | [#معنفه_ماك_شروره](http://twitter.com/search?q=%23%d9%85%d8%b9%d9%86%d9%81%d9%87_%d9%85%d8%a7%d9%83_%d8%b4%d8%b1%d9%88%d8%b1%d9%87) | N/A |
+| 46 | [#كريستيانو_رونالدو](http://twitter.com/search?q=%23%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88_%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | N/A |
+| 47 | [#الفيحاء_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
 
 
 

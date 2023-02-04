@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-02-04 12:17:45 UTC`
+📆 Last Updated: `2023-02-04 13:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SSVDSC](http://twitter.com/search?q=%23SSVDSC) | N/A |
-| 2 | [#Weltkrebstag](http://twitter.com/search?q=%23Weltkrebstag) | N/A |
-| 3 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 4 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
-| 5 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 6 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 7 | [Taxifahrer](http://twitter.com/search?q=Taxifahrer) | N/A |
-| 8 | [#FCAB04](http://twitter.com/search?q=%23FCAB04) | N/A |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [Über den Wolken](http://twitter.com/search?q=%c3%9cber+den+Wolken) | N/A |
-| 11 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 1 | [#FCKKSV](http://twitter.com/search?q=%23FCKKSV) | N/A |
+| 2 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 3 | [#SSVDSC](http://twitter.com/search?q=%23SSVDSC) | N/A |
+| 4 | [#EBSFCH](http://twitter.com/search?q=%23EBSFCH) | N/A |
+| 5 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 6 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 7 | [#SGDHFC](http://twitter.com/search?q=%23SGDHFC) | N/A |
+| 8 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 9 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 10 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 11 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
 | 12 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 13 | [Dispo](http://twitter.com/search?q=Dispo) | N/A |
-| 14 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 15 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
-| 16 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 17 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
-| 18 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 19 | [Kulturkampf](http://twitter.com/search?q=Kulturkampf) | N/A |
-| 20 | [Grundängsten](http://twitter.com/search?q=Grund%c3%a4ngsten) | N/A |
-| 21 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 22 | [Manuel Neuer](http://twitter.com/search?q=Manuel+Neuer) | N/A |
-| 23 | [März 2020](http://twitter.com/search?q=M%c3%a4rz+2020) | N/A |
-| 24 | [Faktenfuchs](http://twitter.com/search?q=Faktenfuchs) | N/A |
-| 25 | [Weltstadt](http://twitter.com/search?q=Weltstadt) | N/A |
-| 26 | [Jägerschnitzel](http://twitter.com/search?q=J%c3%a4gerschnitzel) | N/A |
-| 27 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
-| 28 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 29 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 30 | [Ismail Tipi](http://twitter.com/search?q=Ismail+Tipi) | N/A |
-| 31 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 32 | [Flugzeugträger](http://twitter.com/search?q=Flugzeugtr%c3%a4ger) | N/A |
-| 33 | [Hahn](http://twitter.com/search?q=Hahn) | N/A |
-| 34 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
-| 35 | [Asta](http://twitter.com/search?q=Asta) | N/A |
-| 36 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 37 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 13 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 14 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 15 | [Taxifahrer](http://twitter.com/search?q=Taxifahrer) | N/A |
+| 16 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
+| 17 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 18 | [Manuel Neuer](http://twitter.com/search?q=Manuel+Neuer) | N/A |
+| 19 | [Grundängsten](http://twitter.com/search?q=Grund%c3%a4ngsten) | N/A |
+| 20 | [Dispo](http://twitter.com/search?q=Dispo) | N/A |
+| 21 | [Über den Wolken](http://twitter.com/search?q=%c3%9cber+den+Wolken) | N/A |
+| 22 | [Flugzeugträger](http://twitter.com/search?q=Flugzeugtr%c3%a4ger) | N/A |
+| 23 | [Faktenfuchs](http://twitter.com/search?q=Faktenfuchs) | N/A |
+| 24 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
+| 25 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 26 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 27 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 28 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 29 | [Ismail Tipi](http://twitter.com/search?q=Ismail+Tipi) | N/A |
+| 30 | [Jägerschnitzel](http://twitter.com/search?q=J%c3%a4gerschnitzel) | N/A |
+| 31 | [Hahn](http://twitter.com/search?q=Hahn) | N/A |
+| 32 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 33 | [Asta](http://twitter.com/search?q=Asta) | N/A |
+| 34 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 35 | [innenministerin](http://twitter.com/search?q=innenministerin) | N/A |
+| 36 | [Hafermilch](http://twitter.com/search?q=Hafermilch) | N/A |
+| 37 | [Weltstadt](http://twitter.com/search?q=Weltstadt) | N/A |
 | 38 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 39 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 40 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
-| 41 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 42 | [Alice Cooper](http://twitter.com/search?q=Alice+Cooper) | N/A |
-| 43 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 44 | [Brötchen](http://twitter.com/search?q=Br%c3%b6tchen) | N/A |
-| 45 | [günni](http://twitter.com/search?q=g%c3%bcnni) | N/A |
-| 46 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 47 | [Sonnenschein](http://twitter.com/search?q=Sonnenschein) | N/A |
-| 48 | [Grinsen](http://twitter.com/search?q=Grinsen) | N/A |
-| 49 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 50 | [Guten Morgen Chris](http://twitter.com/search?q=Guten+Morgen+Chris) | N/A |
+| 39 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
+| 40 | [Kulturkampf](http://twitter.com/search?q=Kulturkampf) | N/A |
+| 41 | [März 2020](http://twitter.com/search?q=M%c3%a4rz+2020) | N/A |
+| 42 | [Führung](http://twitter.com/search?q=F%c3%bchrung) | N/A |
+| 43 | [günni](http://twitter.com/search?q=g%c3%bcnni) | N/A |
+| 44 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 45 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 46 | [Rasen](http://twitter.com/search?q=Rasen) | N/A |
+| 47 | [Samstags](http://twitter.com/search?q=Samstags) | N/A |
+| 48 | [Graphenoxid](http://twitter.com/search?q=Graphenoxid) | N/A |
+| 49 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 50 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
 
 
 
