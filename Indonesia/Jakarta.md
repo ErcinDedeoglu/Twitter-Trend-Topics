@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-04 08:17:39 UTC`
+📆 Last Updated: `2023-02-04 09:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JeffSaturJKT](http://twitter.com/search?q=%23JeffSaturJKT) | N/A |
-| 2 | [#EXOSCinJKT](http://twitter.com/search?q=%23EXOSCinJKT) | N/A |
-| 3 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
-| 4 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
-| 5 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
-| 6 | [Bersihkan Sepak Bola](http://twitter.com/search?q=Bersihkan+Sepak+Bola) | Bersihkan Sepak Bola is a Malaysian phrase that literally translates to "Clean the Soccer Ball". It is a phrase used to encourage someone to clean up after playing soccer. |
-| 7 | [Cat 6](http://twitter.com/search?q=Cat+6) | N/A |
+| 1 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 2 | [Kakk](http://twitter.com/search?q=Kakk) | N/A |
+| 3 | [#EXOSCinJKT](http://twitter.com/search?q=%23EXOSCinJKT) | N/A |
+| 4 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
+| 5 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
+| 6 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
+| 7 | [Cat 6](http://twitter.com/search?q=Cat+6) | Cat 6 is a type of cable used in networking and data transmission. It is a twisted pair cable for Ethernet and other network physical layers that is backward compatible with the Category 5/5e and Category 3 cable standards. Cat 6 features more stringent specifications for crosstalk and system noise than previous standards. |
 | 8 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
-| 9 | [Livin](http://twitter.com/search?q=Livin) | N/A |
-| 10 | [Ini Diplomasi](http://twitter.com/search?q=Ini+Diplomasi) | Ini Diplomasi is a term used in Indonesian to refer to diplomatic relations. It literally translates to "This Diplomacy" and is used to describe the exchange of diplomatic relations between two countries. In English, it can be translated as "diplomatic relations" or "diplomatic ties". |
-| 11 | [Nanakoot](http://twitter.com/search?q=Nanakoot) | N/A |
-| 12 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
-| 13 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
-| 14 | [Cat 1](http://twitter.com/search?q=Cat+1) | N/A |
-| 15 | [Error](http://twitter.com/search?q=Error) | N/A |
+| 9 | [Bersihkan Sepak Bola](http://twitter.com/search?q=Bersihkan+Sepak+Bola) | Bersihkan Sepak Bola is a Malaysian phrase that literally translates to "Clean the Soccer Ball". It is a phrase used to encourage someone to clean up after playing soccer. |
+| 10 | [Livin](http://twitter.com/search?q=Livin) | N/A |
+| 11 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
+| 12 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 13 | [Refresh](http://twitter.com/search?q=Refresh) | N/A |
+| 14 | [Dapettt](http://twitter.com/search?q=Dapettt) | N/A |
+| 15 | [Nanakoot](http://twitter.com/search?q=Nanakoot) | N/A |
 | 16 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
-| 17 | [Bad Boy](http://twitter.com/search?q=Bad+Boy) | N/A |
-| 18 | [Umur 12](http://twitter.com/search?q=Umur+12) | N/A |
-| 19 | [The Heirs](http://twitter.com/search?q=The+Heirs) | N/A |
-| 20 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 21 | [Hari Kanker Sedunia](http://twitter.com/search?q=Hari+Kanker+Sedunia) | N/A |
-| 22 | [Feel My Rhythm](http://twitter.com/search?q=Feel+My+Rhythm) | N/A |
-| 23 | [Crash](http://twitter.com/search?q=Crash) | N/A |
-| 24 | [Tungguin](http://twitter.com/search?q=Tungguin) | N/A |
-| 25 | [Indo-Pasifik](http://twitter.com/search?q=Indo-Pasifik) | N/A |
-| 26 | [WISH ME LUCK](http://twitter.com/search?q=WISH+ME+LUCK) | N/A |
-| 27 | [Hpbd](http://twitter.com/search?q=Hpbd) | N/A |
-| 28 | [Psycho](http://twitter.com/search?q=Psycho) | N/A |
-| 29 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
-| 30 | [Jeka Saragih](http://twitter.com/search?q=Jeka+Saragih) | N/A |
-| 31 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
-| 32 | [Kembang](http://twitter.com/search?q=Kembang) | N/A |
-| 33 | [Menlu Retno Marsudi](http://twitter.com/search?q=Menlu+Retno+Marsudi) | N/A |
-| 34 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 35 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
-| 36 | [PTIK](http://twitter.com/search?q=PTIK) | N/A |
-| 37 | [Jam 2](http://twitter.com/search?q=Jam+2) | N/A |
-| 38 | [MBTI](http://twitter.com/search?q=MBTI) | N/A |
-| 39 | [Transmart](http://twitter.com/search?q=Transmart) | N/A |
-| 40 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 41 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 42 | [#THEDREAMSHOW2_in_Jakarta](http://twitter.com/search?q=%23THEDREAMSHOW2_in_Jakarta) | N/A |
-| 43 | [#NyaliET](http://twitter.com/search?q=%23NyaliET) | N/A |
-| 44 | [#D7LoveAt1stSightBB](http://twitter.com/search?q=%23D7LoveAt1stSightBB) | #D7LoveAt1stSightBB is a hashtag used to promote the upcoming album from the South Korean boy band, BTS. The hashtag stands for "Dynamite Love at First Sight BTS Edition". |
-| 45 | [#loket](http://twitter.com/search?q=%23loket) | N/A |
-| 46 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
-| 47 | [#ASEANIndonesia2023](http://twitter.com/search?q=%23ASEANIndonesia2023) | #ASEANIndonesia2023 is a hashtag used to promote Indonesia's hosting of the 2023 ASEAN Summit. ASEAN stands for the Association of Southeast Asian Nations, an intergovernmental organization consisting of 10 member states in Southeast Asia. The hashtag is used to raise awareness and support for Indonesia's hosting of the summit in 2023. |
-| 48 | [#SpecialDayWithMCJohnny](http://twitter.com/search?q=%23SpecialDayWithMCJohnny) | N/A |
-| 49 | [#IDGEVEvsARS](http://twitter.com/search?q=%23IDGEVEvsARS) | N/A |
+| 17 | [Ini Diplomasi](http://twitter.com/search?q=Ini+Diplomasi) | Ini Diplomasi is a term used in Indonesian to refer to diplomatic relations. It literally translates to "This Diplomacy" and is used to describe the exchange of diplomatic relations between two countries. In English, it can be translated as "diplomatic relations" or "diplomatic ties". |
+| 18 | [2 TIKET](http://twitter.com/search?q=2+TIKET) | N/A |
+| 19 | [Garnier](http://twitter.com/search?q=Garnier) | N/A |
+| 20 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 21 | [Tungguin](http://twitter.com/search?q=Tungguin) | N/A |
+| 22 | [Bad Boy](http://twitter.com/search?q=Bad+Boy) | N/A |
+| 23 | [Umur 12](http://twitter.com/search?q=Umur+12) | N/A |
+| 24 | [Eror](http://twitter.com/search?q=Eror) | N/A |
+| 25 | [Selamattt](http://twitter.com/search?q=Selamattt) | N/A |
+| 26 | [PTIK](http://twitter.com/search?q=PTIK) | N/A |
+| 27 | [The Heirs](http://twitter.com/search?q=The+Heirs) | N/A |
+| 28 | [Hari Kanker Sedunia](http://twitter.com/search?q=Hari+Kanker+Sedunia) | N/A |
+| 29 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 30 | [Feel My Rhythm](http://twitter.com/search?q=Feel+My+Rhythm) | N/A |
+| 31 | [Crash](http://twitter.com/search?q=Crash) | N/A |
+| 32 | [THANK YOUUU](http://twitter.com/search?q=THANK+YOUUU) | N/A |
+| 33 | [Hpbd](http://twitter.com/search?q=Hpbd) | N/A |
+| 34 | [WTS 1](http://twitter.com/search?q=WTS+1) | N/A |
+| 35 | [Jeka Saragih](http://twitter.com/search?q=Jeka+Saragih) | N/A |
+| 36 | [Cat 2](http://twitter.com/search?q=Cat+2) | N/A |
+| 37 | [Psycho](http://twitter.com/search?q=Psycho) | N/A |
+| 38 | [Kembang](http://twitter.com/search?q=Kembang) | N/A |
+| 39 | [WISH ME LUCK](http://twitter.com/search?q=WISH+ME+LUCK) | N/A |
+| 40 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
+| 41 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
+| 42 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 43 | [MBTI](http://twitter.com/search?q=MBTI) | N/A |
+| 44 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
+| 45 | [Jam 2](http://twitter.com/search?q=Jam+2) | N/A |
+| 46 | [Transmart](http://twitter.com/search?q=Transmart) | N/A |
+| 47 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 48 | [#THEDREAMSHOW2_in_Jakarta](http://twitter.com/search?q=%23THEDREAMSHOW2_in_Jakarta) | N/A |
+| 49 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
 
 
 

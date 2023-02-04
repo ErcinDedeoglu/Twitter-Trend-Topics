@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-04 08:17:30 UTC`
+📆 Last Updated: `2023-02-04 09:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
-| 2 | [Wanda Rutkiewicz](http://twitter.com/search?q=Wanda+Rutkiewicz) | N/A |
-| 3 | [#WIDJAG](http://twitter.com/search?q=%23WIDJAG) | N/A |
-| 4 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 5 | [Wstajesz](http://twitter.com/search?q=Wstajesz) | N/A |
+| 2 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
+| 3 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 4 | [#WIDJAG](http://twitter.com/search?q=%23WIDJAG) | N/A |
+| 5 | [Wanda Rutkiewicz](http://twitter.com/search?q=Wanda+Rutkiewicz) | N/A |
 | 6 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 7 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
-| 8 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
-| 9 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
-| 10 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 11 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 12 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 13 | [#forum](http://twitter.com/search?q=%23forum) | N/A |
-| 14 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 15 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 16 | [#TuskZnaczyBieda](http://twitter.com/search?q=%23TuskZnaczyBieda) | N/A |
-| 17 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
-| 18 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
-| 19 | [Der Onet](http://twitter.com/search?q=Der+Onet) | N/A |
-| 20 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 21 | [Biedronki](http://twitter.com/search?q=Biedronki) | N/A |
-| 22 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
-| 23 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
-| 24 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
-| 25 | [Amadi](http://twitter.com/search?q=Amadi) | N/A |
-| 26 | [gimper](http://twitter.com/search?q=gimper) | N/A |
-| 27 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 28 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
-| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 30 | [guala](http://twitter.com/search?q=guala) | N/A |
-| 31 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 32 | [Stanów Zjednoczonych](http://twitter.com/search?q=Stan%c3%b3w+Zjednoczonych) | N/A |
-| 33 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 34 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 35 | [Tomasz Lis](http://twitter.com/search?q=Tomasz+Lis) | N/A |
+| 7 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 8 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 9 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 10 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 11 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 12 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
+| 13 | [#WillaPlus](http://twitter.com/search?q=%23WillaPlus) | N/A |
+| 14 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 15 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
+| 16 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 17 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 18 | [#forum](http://twitter.com/search?q=%23forum) | N/A |
+| 19 | [Udanej](http://twitter.com/search?q=Udanej) | N/A |
+| 20 | [#ToNieNaszaWojna](http://twitter.com/search?q=%23ToNieNaszaWojna) | N/A |
+| 21 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
+| 22 | [Prawdopodobnie](http://twitter.com/search?q=Prawdopodobnie) | N/A |
+| 23 | [Smoliński](http://twitter.com/search?q=Smoli%c5%84ski) | N/A |
+| 24 | [Musztarda](http://twitter.com/search?q=Musztarda) | N/A |
+| 25 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 26 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
+| 27 | [Amadi](http://twitter.com/search?q=Amadi) | N/A |
+| 28 | [gimper](http://twitter.com/search?q=gimper) | N/A |
+| 29 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 30 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 31 | [Putinem](http://twitter.com/search?q=Putinem) | N/A |
+| 32 | [Kaziu](http://twitter.com/search?q=Kaziu) | N/A |
+| 33 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 34 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 35 | [sheeya](http://twitter.com/search?q=sheeya) | N/A |
 | 36 | [Maćku](http://twitter.com/search?q=Ma%c4%87ku) | N/A |
-| 37 | [sheeya](http://twitter.com/search?q=sheeya) | N/A |
-| 38 | [Siema](http://twitter.com/search?q=Siema) | N/A |
-| 39 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
-| 40 | [Kochani](http://twitter.com/search?q=Kochani) | N/A |
-| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 42 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 43 | [Jolu](http://twitter.com/search?q=Jolu) | N/A |
-| 44 | [Wołyniu](http://twitter.com/search?q=Wo%c5%82yniu) | N/A |
-| 45 | [Łodzi](http://twitter.com/search?q=%c5%81odzi) | N/A |
-| 46 | [boxdela](http://twitter.com/search?q=boxdela) | N/A |
-| 47 | [Monika](http://twitter.com/search?q=Monika) | N/A |
-| 48 | [Krzysiu](http://twitter.com/search?q=Krzysiu) | N/A |
-| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 50 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
+| 37 | [guala](http://twitter.com/search?q=guala) | N/A |
+| 38 | [Bayernie](http://twitter.com/search?q=Bayernie) | N/A |
+| 39 | [Mosiński](http://twitter.com/search?q=Mosi%c5%84ski) | N/A |
+| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 41 | [Kochani](http://twitter.com/search?q=Kochani) | N/A |
+| 42 | [Wczoraj](http://twitter.com/search?q=Wczoraj) | N/A |
+| 43 | [Wstajesz](http://twitter.com/search?q=Wstajesz) | N/A |
+| 44 | [Zdrówka](http://twitter.com/search?q=Zdr%c3%b3wka) | N/A |
+| 45 | [boxdela](http://twitter.com/search?q=boxdela) | N/A |
+| 46 | [filipka](http://twitter.com/search?q=filipka) | N/A |
+| 47 | [Karolu Wojtyle](http://twitter.com/search?q=Karolu+Wojtyle) | N/A |
+| 48 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
+| 49 | [jarosz](http://twitter.com/search?q=jarosz) | N/A |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

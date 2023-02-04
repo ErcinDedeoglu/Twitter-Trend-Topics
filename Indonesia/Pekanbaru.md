@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-04 08:17:39 UTC`
+📆 Last Updated: `2023-02-04 09:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
 | 2 | [#THEDREAMSHOW2_in_Jakarta](http://twitter.com/search?q=%23THEDREAMSHOW2_in_Jakarta) | N/A |
-| 3 | [#NyaliET](http://twitter.com/search?q=%23NyaliET) | N/A |
-| 4 | [Bersihkan Sepak Bola](http://twitter.com/search?q=Bersihkan+Sepak+Bola) | Bersihkan Sepak Bola is a Malaysian phrase that literally translates to "Clean the Soccer Ball". It is a phrase used to encourage someone to clean up after playing soccer. |
+| 3 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
+| 4 | [Cat 6](http://twitter.com/search?q=Cat+6) | Cat 6 is a type of cable used in networking and data transmission. It is a twisted pair cable for Ethernet and other network physical layers that is backward compatible with the Category 5/5e and Category 3 cable standards. Cat 6 features more stringent specifications for crosstalk and system noise than previous standards. |
 | 5 | [#D7LoveAt1stSightBB](http://twitter.com/search?q=%23D7LoveAt1stSightBB) | #D7LoveAt1stSightBB is a hashtag used to promote the upcoming album from the South Korean boy band, BTS. The hashtag stands for "Dynamite Love at First Sight BTS Edition". |
-| 6 | [Cat 6](http://twitter.com/search?q=Cat+6) | N/A |
-| 7 | [#loket](http://twitter.com/search?q=%23loket) | N/A |
-| 8 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
-| 9 | [Livin](http://twitter.com/search?q=Livin) | N/A |
-| 10 | [Ini Diplomasi](http://twitter.com/search?q=Ini+Diplomasi) | Ini Diplomasi is a term used in Indonesian to refer to diplomatic relations. It literally translates to "This Diplomacy" and is used to describe the exchange of diplomatic relations between two countries. In English, it can be translated as "diplomatic relations" or "diplomatic ties". |
-| 11 | [Nanakoot](http://twitter.com/search?q=Nanakoot) | N/A |
-| 12 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
-| 13 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
-| 14 | [Error](http://twitter.com/search?q=Error) | N/A |
-| 15 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
-| 16 | [Cat 1](http://twitter.com/search?q=Cat+1) | N/A |
-| 17 | [Bad Boy](http://twitter.com/search?q=Bad+Boy) | N/A |
-| 18 | [Umur 12](http://twitter.com/search?q=Umur+12) | N/A |
-| 19 | [The Heirs](http://twitter.com/search?q=The+Heirs) | N/A |
-| 20 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 21 | [Crash](http://twitter.com/search?q=Crash) | N/A |
-| 22 | [Hari Kanker Sedunia](http://twitter.com/search?q=Hari+Kanker+Sedunia) | N/A |
-| 23 | [Feel My Rhythm](http://twitter.com/search?q=Feel+My+Rhythm) | N/A |
-| 24 | [Tungguin](http://twitter.com/search?q=Tungguin) | N/A |
-| 25 | [Indo-Pasifik](http://twitter.com/search?q=Indo-Pasifik) | N/A |
-| 26 | [WISH ME LUCK](http://twitter.com/search?q=WISH+ME+LUCK) | N/A |
-| 27 | [Hpbd](http://twitter.com/search?q=Hpbd) | N/A |
-| 28 | [Psycho](http://twitter.com/search?q=Psycho) | N/A |
-| 29 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
-| 30 | [Jeka Saragih](http://twitter.com/search?q=Jeka+Saragih) | N/A |
-| 31 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
-| 32 | [Kembang](http://twitter.com/search?q=Kembang) | N/A |
-| 33 | [Menlu Retno Marsudi](http://twitter.com/search?q=Menlu+Retno+Marsudi) | N/A |
-| 34 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 35 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
-| 36 | [PTIK](http://twitter.com/search?q=PTIK) | N/A |
-| 37 | [Jam 2](http://twitter.com/search?q=Jam+2) | N/A |
-| 38 | [MBTI](http://twitter.com/search?q=MBTI) | N/A |
-| 39 | [Transmart](http://twitter.com/search?q=Transmart) | N/A |
-| 40 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 41 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 42 | [#ASEANIndonesia2023](http://twitter.com/search?q=%23ASEANIndonesia2023) | #ASEANIndonesia2023 is a hashtag used to promote Indonesia's hosting of the 2023 ASEAN Summit. ASEAN stands for the Association of Southeast Asian Nations, an intergovernmental organization consisting of 10 member states in Southeast Asia. The hashtag is used to raise awareness and support for Indonesia's hosting of the summit in 2023. |
-| 43 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
-| 44 | [#SpecialDayWithMCJohnny](http://twitter.com/search?q=%23SpecialDayWithMCJohnny) | N/A |
-| 45 | [#IDGEVEvsARS](http://twitter.com/search?q=%23IDGEVEvsARS) | N/A |
-| 46 | [#LiveOnSaturnJKT](http://twitter.com/search?q=%23LiveOnSaturnJKT) | N/A |
-| 47 | [#SunKissedBoy_Kai](http://twitter.com/search?q=%23SunKissedBoy_Kai) | N/A |
-| 48 | [#CHECKMATEinJKT](http://twitter.com/search?q=%23CHECKMATEinJKT) | N/A |
-| 49 | [#썬키스드보이](http://twitter.com/search?q=%23%ec%8d%ac%ed%82%a4%ec%8a%a4%eb%93%9c%eb%b3%b4%ec%9d%b4) | N/A |
+| 6 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
+| 7 | [Bersihkan Sepak Bola](http://twitter.com/search?q=Bersihkan+Sepak+Bola) | Bersihkan Sepak Bola is a Malaysian phrase that literally translates to "Clean the Soccer Ball". It is a phrase used to encourage someone to clean up after playing soccer. |
+| 8 | [Livin](http://twitter.com/search?q=Livin) | N/A |
+| 9 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
+| 10 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 11 | [Refresh](http://twitter.com/search?q=Refresh) | N/A |
+| 12 | [Dapettt](http://twitter.com/search?q=Dapettt) | N/A |
+| 13 | [Nanakoot](http://twitter.com/search?q=Nanakoot) | N/A |
+| 14 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
+| 15 | [Ini Diplomasi](http://twitter.com/search?q=Ini+Diplomasi) | Ini Diplomasi is a term used in Indonesian to refer to diplomatic relations. It literally translates to "This Diplomacy" and is used to describe the exchange of diplomatic relations between two countries. In English, it can be translated as "diplomatic relations" or "diplomatic ties". |
+| 16 | [2 TIKET](http://twitter.com/search?q=2+TIKET) | N/A |
+| 17 | [Garnier](http://twitter.com/search?q=Garnier) | N/A |
+| 18 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 19 | [Tungguin](http://twitter.com/search?q=Tungguin) | N/A |
+| 20 | [Bad Boy](http://twitter.com/search?q=Bad+Boy) | N/A |
+| 21 | [Umur 12](http://twitter.com/search?q=Umur+12) | N/A |
+| 22 | [Eror](http://twitter.com/search?q=Eror) | N/A |
+| 23 | [Selamattt](http://twitter.com/search?q=Selamattt) | N/A |
+| 24 | [The Heirs](http://twitter.com/search?q=The+Heirs) | N/A |
+| 25 | [Hari Kanker Sedunia](http://twitter.com/search?q=Hari+Kanker+Sedunia) | N/A |
+| 26 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 27 | [PTIK](http://twitter.com/search?q=PTIK) | N/A |
+| 28 | [Feel My Rhythm](http://twitter.com/search?q=Feel+My+Rhythm) | N/A |
+| 29 | [Crash](http://twitter.com/search?q=Crash) | N/A |
+| 30 | [THANK YOUUU](http://twitter.com/search?q=THANK+YOUUU) | N/A |
+| 31 | [Hpbd](http://twitter.com/search?q=Hpbd) | N/A |
+| 32 | [Jeka Saragih](http://twitter.com/search?q=Jeka+Saragih) | N/A |
+| 33 | [Cat 2](http://twitter.com/search?q=Cat+2) | N/A |
+| 34 | [Psycho](http://twitter.com/search?q=Psycho) | N/A |
+| 35 | [Kembang](http://twitter.com/search?q=Kembang) | N/A |
+| 36 | [WISH ME LUCK](http://twitter.com/search?q=WISH+ME+LUCK) | N/A |
+| 37 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
+| 38 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
+| 39 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 40 | [MBTI](http://twitter.com/search?q=MBTI) | N/A |
+| 41 | [LPDP](http://twitter.com/search?q=LPDP) | N/A |
+| 42 | [Jam 2](http://twitter.com/search?q=Jam+2) | N/A |
+| 43 | [Transmart](http://twitter.com/search?q=Transmart) | N/A |
+| 44 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 45 | [#NyaliET](http://twitter.com/search?q=%23NyaliET) | N/A |
+| 46 | [#loket](http://twitter.com/search?q=%23loket) | N/A |
+| 47 | [#LiveOnSaturnJKT](http://twitter.com/search?q=%23LiveOnSaturnJKT) | N/A |
+| 48 | [#TDS_now](http://twitter.com/search?q=%23TDS_now) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-04 08:17:27 UTC`
+📆 Last Updated: `2023-02-04 09:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,46 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [kauan](http://twitter.com/search?q=kauan) | N/A |
 | 2 | [luisa](http://twitter.com/search?q=luisa) | Luisa is a female given name of Spanish and Italian origin. It is derived from the Germanic name Hludowig, which means "famous warrior". In English, Luisa can be translated to mean "famous fighter". |
 | 3 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
-| 4 | [Planeta](http://twitter.com/search?q=Planeta) | N/A |
-| 5 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 6 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 7 | [Felipe Araújo](http://twitter.com/search?q=Felipe+Ara%c3%bajo) | Felipe Araújo is a Brazilian singer and songwriter. His name translates to "Lover of Peace" in English. |
-| 8 | [Simaria](http://twitter.com/search?q=Simaria) | Simaria is a Portuguese word that means "twin". It is often used to refer to two people or things that are very similar. |
-| 9 | [Mari Palma](http://twitter.com/search?q=Mari+Palma) | Mari Palma is a Spanish phrase that translates to "Mary of the Palm". It is a traditional Spanish song about a woman who is said to have been born from a palm tree. The song tells the story of her life and how she eventually died. |
-| 10 | [#PINTOAWARDS](http://twitter.com/search?q=%23PINTOAWARDS) | N/A |
-| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 12 | [Parasita](http://twitter.com/search?q=Parasita) | N/A |
-| 13 | [Coraline](http://twitter.com/search?q=Coraline) | N/A |
-| 14 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 15 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 16 | [Moonlight](http://twitter.com/search?q=Moonlight) | N/A |
-| 17 | [#TikTokNoBBB](http://twitter.com/search?q=%23TikTokNoBBB) | N/A |
-| 18 | [Insônia](http://twitter.com/search?q=Ins%c3%b4nia) | N/A |
-| 19 | [CODA](http://twitter.com/search?q=CODA) | N/A |
-| 20 | [Birdman](http://twitter.com/search?q=Birdman) | N/A |
-| 21 | [Phelipe Siani](http://twitter.com/search?q=Phelipe+Siani) | N/A |
-| 22 | [#TROCONUDS](http://twitter.com/search?q=%23TROCONUDS) | N/A |
-| 23 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
-| 24 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 25 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
-| 26 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 27 | [Jean Pyerre](http://twitter.com/search?q=Jean+Pyerre) | N/A |
-| 28 | [Shadowhunters](http://twitter.com/search?q=Shadowhunters) | N/A |
-| 29 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 30 | [O Cris](http://twitter.com/search?q=O+Cris) | N/A |
-| 31 | [MARCOS DO VAL CASSADO](http://twitter.com/search?q=MARCOS+DO+VAL+CASSADO) | N/A |
-| 32 | [Zé gotinha](http://twitter.com/search?q=Z%c3%a9+gotinha) | N/A |
-| 33 | [Zé Neto](http://twitter.com/search?q=Z%c3%a9+Neto) | N/A |
-| 34 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 35 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 36 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 37 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
-| 38 | [Marlon Gomes](http://twitter.com/search?q=Marlon+Gomes) | Marlon Gomes is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (lion). The name means "sea lion". |
-| 39 | [Monstros SA](http://twitter.com/search?q=Monstros+SA) | N/A |
-| 40 | [Michael Scott](http://twitter.com/search?q=Michael+Scott) | N/A |
-| 41 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 42 | [#BUNDAAWARDS](http://twitter.com/search?q=%23BUNDAAWARDS) | N/A |
-| 43 | [#brotheragem](http://twitter.com/search?q=%23brotheragem) | N/A |
+| 4 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 5 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 6 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
+| 7 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 8 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 9 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 10 | [Marcos do Val](http://twitter.com/search?q=Marcos+do+Val) | Marcos do Val is a Portuguese expression that literally translates to “Mark of the Valley”. It is used to describe someone who is from a rural area and has a simple, rustic lifestyle. |
+| 11 | [MAIARA E MARAISA DVD PORTUGAL](http://twitter.com/search?q=MAIARA+E+MARAISA+DVD+PORTUGAL) | MAIARA E MARAISA DVD PORTUGAL is a DVD release of the Brazilian country music duo Maiara & Maraisa. The DVD was released in Portugal and features live performances of their songs. In English, it means "Maiara & Maraisa DVD Portugal". |
+| 12 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 13 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 14 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 15 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 16 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 17 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
+| 18 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 19 | [Amandinha](http://twitter.com/search?q=Amandinha) | Amandinha is a Portuguese term of endearment that translates to "little Amanda" in English. It is used to refer to someone who is loved and cherished. |
+| 20 | [Ana Castela](http://twitter.com/search?q=Ana+Castela) | N/A |
+| 21 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 22 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 23 | [#voleinosportv](http://twitter.com/search?q=%23voleinosportv) | N/A |
+| 24 | [felipe araujo](http://twitter.com/search?q=felipe+araujo) | N/A |
+| 25 | [Mari Palma](http://twitter.com/search?q=Mari+Palma) | Mari Palma is a Spanish phrase that translates to "Mary of the Palm". It is a traditional Spanish song about a woman who is said to have been born from a palm tree. The song tells the story of her life and how she eventually died. |
+| 26 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 27 | [Juliano](http://twitter.com/search?q=Juliano) | N/A |
+| 28 | [Randolfe](http://twitter.com/search?q=Randolfe) | N/A |
+| 29 | [Tabajara](http://twitter.com/search?q=Tabajara) | N/A |
+| 30 | [SWAT](http://twitter.com/search?q=SWAT) | N/A |
+| 31 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
+| 32 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 33 | [Xandão](http://twitter.com/search?q=Xand%c3%a3o) | Xandão is a Brazilian slang term used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is cool and confident. In English, it could be translated as "tough guy" or "tough cookie". |
+| 34 | [Daniel Silveira](http://twitter.com/search?q=Daniel+Silveira) | Daniel Silveira is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”. |
+| 35 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 36 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
+| 37 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
+| 38 | [Compro](http://twitter.com/search?q=Compro) | N/A |
+| 39 | [the town](http://twitter.com/search?q=the+town) | N/A |
+| 40 | [Procurando Nemo](http://twitter.com/search?q=Procurando+Nemo) | N/A |
+| 41 | [Traíra](http://twitter.com/search?q=Tra%c3%adra) | N/A |
+| 42 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
+| 43 | [nx zero](http://twitter.com/search?q=nx+zero) | Nx Zero is a Brazilian rock band formed in 2001. The name of the band is derived from the mathematical symbol for "nothing," which reflects their desire to create music without any preconceived notions or boundaries. In English, the name translates to "zero times nothing," emphasizing their commitment to creating something new and unique. |
+| 44 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 45 | [#coronadonoflamengo](http://twitter.com/search?q=%23coronadonoflamengo) | N/A |
+| 46 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 47 | [#PINTOAWARDS](http://twitter.com/search?q=%23PINTOAWARDS) | N/A |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [Liziero](http://twitter.com/search?q=Liziero) | Liziero is a Portuguese word meaning "happy". It is often used as a term of endearment or to express joy. |
+| 50 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
 
 
 

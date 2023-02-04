@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-04 08:17:34 UTC`
+📆 Last Updated: `2023-02-04 09:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#4febbraio](http://twitter.com/search?q=%234febbraio) | N/A |
 | 2 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 3 | [#BuongiornoATutti](http://twitter.com/search?q=%23BuongiornoATutti) | N/A |
-| 4 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
+| 3 | [#GOBBOSEGUEGOBBO](http://twitter.com/search?q=%23GOBBOSEGUEGOBBO) | N/A |
+| 4 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
 | 5 | [#CompleannoInArte](http://twitter.com/search?q=%23CompleannoInArte) | N/A |
-| 6 | [#TheVoiceSenior](http://twitter.com/search?q=%23TheVoiceSenior) | #TheVoiceSenior is a reality television singing competition series based on the original The Voice format. It is a spin-off of the original The Voice series and features senior citizens aged 60 and over competing for a recording contract. The show premiered in Germany in 2018 and has since been adapted in several other countries. |
-| 7 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
-| 8 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
-| 9 | [Buongiorno Luigi](http://twitter.com/search?q=Buongiorno+Luigi) | N/A |
-| 10 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
-| 11 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 12 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 13 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 14 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 15 | [America Latina](http://twitter.com/search?q=America+Latina) | N/A |
-| 16 | [Piera](http://twitter.com/search?q=Piera) | N/A |
-| 17 | [Buongiorno Fabrizio](http://twitter.com/search?q=Buongiorno+Fabrizio) | N/A |
-| 18 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 19 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 20 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 21 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 22 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
-| 23 | [Felice](http://twitter.com/search?q=Felice) | N/A |
-| 24 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 25 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 26 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 27 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
-| 28 | [Il 4](http://twitter.com/search?q=Il+4) | N/A |
-| 29 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 30 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 31 | [Buongiorno Giorgio](http://twitter.com/search?q=Buongiorno+Giorgio) | N/A |
-| 32 | [San Biagio](http://twitter.com/search?q=San+Biagio) | N/A |
-| 33 | [clementino](http://twitter.com/search?q=clementino) | N/A |
-| 34 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
-| 35 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 36 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
-| 37 | [Magda](http://twitter.com/search?q=Magda) | N/A |
+| 6 | [#BuongiornoATutti](http://twitter.com/search?q=%23BuongiornoATutti) | N/A |
+| 7 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 8 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
+| 9 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 10 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 11 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 12 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 13 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 14 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 15 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
+| 16 | [Buongiorno Marty](http://twitter.com/search?q=Buongiorno+Marty) | N/A |
+| 17 | [Clelia](http://twitter.com/search?q=Clelia) | N/A |
+| 18 | [Buongiorno Adam](http://twitter.com/search?q=Buongiorno+Adam) | N/A |
+| 19 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 20 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 21 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
+| 22 | [Jacques Prévert](http://twitter.com/search?q=Jacques+Pr%c3%a9vert) | N/A |
+| 23 | [41bis](http://twitter.com/search?q=41bis) | N/A |
+| 24 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
+| 25 | [Buongiornissimo](http://twitter.com/search?q=Buongiornissimo) | N/A |
+| 26 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 27 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 28 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
+| 29 | [San Biagio](http://twitter.com/search?q=San+Biagio) | N/A |
+| 30 | [Il 4](http://twitter.com/search?q=Il+4) | N/A |
+| 31 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
+| 32 | [Buongiorno Giorgio](http://twitter.com/search?q=Buongiorno+Giorgio) | N/A |
+| 33 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 34 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
+| 35 | [Felice](http://twitter.com/search?q=Felice) | N/A |
+| 36 | [Clementino](http://twitter.com/search?q=Clementino) | N/A |
+| 37 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
 | 38 | [Cannolicchi](http://twitter.com/search?q=Cannolicchi) | N/A |
-| 39 | [Vito](http://twitter.com/search?q=Vito) | N/A |
-| 40 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 41 | [Sereno](http://twitter.com/search?q=Sereno) | N/A |
-| 42 | [Perù](http://twitter.com/search?q=Per%c3%b9) | N/A |
-| 43 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 44 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 45 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 46 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 47 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
-| 48 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 49 | [Elio](http://twitter.com/search?q=Elio) | N/A |
-| 50 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 39 | [America Latina](http://twitter.com/search?q=America+Latina) | N/A |
+| 40 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
+| 41 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 42 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 43 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
+| 44 | [Buongiorno Mirella](http://twitter.com/search?q=Buongiorno+Mirella) | N/A |
+| 45 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 46 | [Buongiorno Fabrizio](http://twitter.com/search?q=Buongiorno+Fabrizio) | N/A |
+| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 48 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 49 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 50 | [Isabella](http://twitter.com/search?q=Isabella) | N/A |
 
 
 
