@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-04 13:18:49 UTC`
+📆 Last Updated: `2023-02-04 14:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AydınTürkiyeYüzyılınaHazır](http://twitter.com/search?q=%23Ayd%c4%b1nT%c3%bcrkiyeY%c3%bczy%c4%b1l%c4%b1naHaz%c4%b1r) | N/A |
-| 2 | [Muammer Keskin](http://twitter.com/search?q=Muammer+Keskin) | Muammer Keskin is a Turkish given name. It is composed of two elements: Muammer, which means "great leader", and Keskin, which means "sharp". In English, the name could be translated as "Great Leader Sharp". |
-| 3 | [#DoğudanBatıya100BinAtama](http://twitter.com/search?q=%23Do%c4%9fudanBat%c4%b1ya100BinAtama) | N/A |
-| 4 | [Necip](http://twitter.com/search?q=Necip) | Necip is a Turkish name, derived from the Arabic name Nasir. It means "protector" or "helper". |
-| 5 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
-| 6 | [#TekFenerbahceTekHedef](http://twitter.com/search?q=%23TekFenerbahceTekHedef) | N/A |
-| 7 | [Ömer Erdoğan](http://twitter.com/search?q=%c3%96mer+Erdo%c4%9fan) | Ömer Erdoğan is a Turkish given name. It is composed of two elements: Ömer, which means "blessed" or "prosperous", and Erdoğan, which means "strong leader". In English, the name could be translated as "Blessed Strong Leader". |
-| 8 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 9 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
-| 10 | [#SVSvBJK](http://twitter.com/search?q=%23SVSvBJK) | N/A |
-| 11 | [Adamlar 6](http://twitter.com/search?q=Adamlar+6) | N/A |
-| 12 | [Başarılar Beşiktaş'ım](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+Be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
-| 13 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 14 | [THY 238](http://twitter.com/search?q=THY+238) | N/A |
-| 15 | [Cenk Eren](http://twitter.com/search?q=Cenk+Eren) | N/A |
-| 16 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 17 | [Ahmet Bulut](http://twitter.com/search?q=Ahmet+Bulut) | N/A |
-| 18 | [Şeyh Şamil](http://twitter.com/search?q=%c5%9eeyh+%c5%9eamil) | N/A |
-| 19 | [Başkanın](http://twitter.com/search?q=Ba%c5%9fkan%c4%b1n) | N/A |
-| 20 | [Aptalca](http://twitter.com/search?q=Aptalca) | N/A |
-| 21 | [Yemedi](http://twitter.com/search?q=Yemedi) | Yemedi is a Yoruba word that means "to eat". In English, it can be used to describe the act of eating or consuming food. |
-| 22 | [Kerem Atakan](http://twitter.com/search?q=Kerem+Atakan) | N/A |
-| 23 | [Atıf Hoca](http://twitter.com/search?q=At%c4%b1f+Hoca) | N/A |
-| 24 | [Şişli](http://twitter.com/search?q=%c5%9ei%c5%9fli) | N/A |
-| 25 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
-| 26 | [Divan](http://twitter.com/search?q=Divan) | N/A |
-| 27 | [Hande](http://twitter.com/search?q=Hande) | N/A |
-| 28 | [Yavuz Kayral](http://twitter.com/search?q=Yavuz+Kayral) | N/A |
-| 29 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 30 | [Yeniden Refah](http://twitter.com/search?q=Yeniden+Refah) | N/A |
-| 31 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
-| 32 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 33 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
-| 34 | [Türk Hava Yolları](http://twitter.com/search?q=T%c3%bcrk+Hava+Yollar%c4%b1) | N/A |
-| 35 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 36 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 37 | [Yemez](http://twitter.com/search?q=Yemez) | N/A |
-| 38 | [Serhat](http://twitter.com/search?q=Serhat) | N/A |
-| 39 | [Galatasaraylıyım](http://twitter.com/search?q=Galatasarayl%c4%b1y%c4%b1m) | N/A |
-| 40 | [Muharrem](http://twitter.com/search?q=Muharrem) | N/A |
-| 41 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 42 | [Akşener](http://twitter.com/search?q=Ak%c5%9fener) | N/A |
-| 43 | [Meral Hanım](http://twitter.com/search?q=Meral+Han%c4%b1m) | N/A |
-| 44 | [5 Şubat Pazar](http://twitter.com/search?q=5+%c5%9eubat+Pazar) | N/A |
-| 45 | [Birlik](http://twitter.com/search?q=Birlik) | N/A |
-| 46 | [Düşman](http://twitter.com/search?q=D%c3%bc%c5%9fman) | N/A |
-| 47 | [Levent](http://twitter.com/search?q=Levent) | N/A |
-| 48 | [Kılıçdaroğlunun](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flunun) | N/A |
-| 49 | [İstanbullu](http://twitter.com/search?q=%c4%b0stanbullu) | N/A |
-| 50 | [Yiyin](http://twitter.com/search?q=Yiyin) | N/A |
+| 1 | [#SİVvBJK](http://twitter.com/search?q=%23S%c4%b0VvBJK) | N/A |
+| 2 | [Necip](http://twitter.com/search?q=Necip) | Necip is a Turkish name, derived from the Arabic name Nasir. It means "protector" or "helper". |
+| 3 | [#SonSözSizdeSayınCBAŞKANIM](http://twitter.com/search?q=%23SonS%c3%b6zSizdeSay%c4%b1nCBA%c5%9eKANIM) | N/A |
+| 4 | [#KonferanslarNedenYasaklanıyor](http://twitter.com/search?q=%23KonferanslarNedenYasaklan%c4%b1yor) | N/A |
+| 5 | [#SVSvBJK](http://twitter.com/search?q=%23SVSvBJK) | N/A |
+| 6 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
+| 7 | [#AydınTürkiyeYüzyılınaHazır](http://twitter.com/search?q=%23Ayd%c4%b1nT%c3%bcrkiyeY%c3%bczy%c4%b1l%c4%b1naHaz%c4%b1r) | N/A |
+| 8 | [muammer keskin](http://twitter.com/search?q=muammer+keskin) | N/A |
+| 9 | [Tayfur](http://twitter.com/search?q=Tayfur) | Tayfur is a Turkish name derived from the Arabic name Tayfoor, which means “one who is blessed”. In English, it can be translated to mean “blessed one”. |
+| 10 | [Ömer Erdoğan](http://twitter.com/search?q=%c3%96mer+Erdo%c4%9fan) | Ömer Erdoğan is a Turkish given name. It is composed of two elements: Ömer, which means "blessed" or "prosperous", and Erdoğan, which means "strong leader". In English, the name could be translated as "Blessed Strong Leader". |
+| 11 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
+| 12 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
+| 13 | [Nkoudou](http://twitter.com/search?q=Nkoudou) | Nkoudou is a term used in West African cultures to refer to a person who is a mediator or negotiator. It is often used to describe someone who helps resolve conflicts between two parties or helps facilitate negotiations. In English, it can be translated as "mediator" or "negotiator". |
+| 14 | [Kerem Atakan](http://twitter.com/search?q=Kerem+Atakan) | N/A |
+| 15 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 16 | [Rıza](http://twitter.com/search?q=R%c4%b1za) | Rıza is a Turkish name derived from the Arabic word "rizq", which means "provision" or "blessing". In English, it can be translated to mean "prosperity" or "abundance". |
+| 17 | [Adamlar 6](http://twitter.com/search?q=Adamlar+6) | N/A |
+| 18 | [Abubakar](http://twitter.com/search?q=Abubakar) | N/A |
+| 19 | [Welinton](http://twitter.com/search?q=Welinton) | N/A |
+| 20 | [Berkay](http://twitter.com/search?q=Berkay) | N/A |
+| 21 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
+| 22 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 23 | [Üsluba](http://twitter.com/search?q=%c3%9csluba) | N/A |
+| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 25 | [Cenk Eren](http://twitter.com/search?q=Cenk+Eren) | N/A |
+| 26 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 27 | [Zemin](http://twitter.com/search?q=Zemin) | N/A |
+| 28 | [İskilipli Atıf](http://twitter.com/search?q=%c4%b0skilipli+At%c4%b1f) | N/A |
+| 29 | [Şeyh Şamil](http://twitter.com/search?q=%c5%9eeyh+%c5%9eamil) | N/A |
+| 30 | [başkanın](http://twitter.com/search?q=ba%c5%9fkan%c4%b1n) | N/A |
+| 31 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 32 | [THY 238](http://twitter.com/search?q=THY+238) | N/A |
+| 33 | [Şişli](http://twitter.com/search?q=%c5%9ei%c5%9fli) | N/A |
+| 34 | [Yönetime](http://twitter.com/search?q=Y%c3%b6netime) | N/A |
+| 35 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 36 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 37 | [Aptalca](http://twitter.com/search?q=Aptalca) | N/A |
+| 38 | [Yönetim İstifa](http://twitter.com/search?q=Y%c3%b6netim+%c4%b0stifa) | N/A |
+| 39 | [Yemedi](http://twitter.com/search?q=Yemedi) | Yemedi is a Yoruba word that means "to eat". In English, it can be used to describe the act of eating or consuming food. |
+| 40 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
+| 41 | [Divan](http://twitter.com/search?q=Divan) | N/A |
+| 42 | [Yavuz Kayral](http://twitter.com/search?q=Yavuz+Kayral) | N/A |
+| 43 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 44 | [Büyükşehir](http://twitter.com/search?q=B%c3%bcy%c3%bck%c5%9fehir) | N/A |
+| 45 | [Türk Hava Yolları](http://twitter.com/search?q=T%c3%bcrk+Hava+Yollar%c4%b1) | N/A |
+| 46 | [Hande](http://twitter.com/search?q=Hande) | N/A |
+| 47 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
+| 48 | [Yeniden Refah](http://twitter.com/search?q=Yeniden+Refah) | N/A |
+| 49 | [Ahmet Bulut](http://twitter.com/search?q=Ahmet+Bulut) | N/A |
+| 50 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
 
 
 

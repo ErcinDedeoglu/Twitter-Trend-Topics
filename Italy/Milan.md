@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-04 13:18:28 UTC`
+📆 Last Updated: `2023-02-04 14:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#4febbraio](http://twitter.com/search?q=%234febbraio) | N/A |
-| 2 | [#GOBBOSEGUEGOBBO](http://twitter.com/search?q=%23GOBBOSEGUEGOBBO) | N/A |
-| 3 | [#PalloneSpia](http://twitter.com/search?q=%23PalloneSpia) | N/A |
-| 4 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
-| 5 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
-| 6 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 7 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 2 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 3 | [#GOBBOSEGUEGOBBO](http://twitter.com/search?q=%23GOBBOSEGUEGOBBO) | N/A |
+| 4 | [#JuveMilan](http://twitter.com/search?q=%23JuveMilan) | N/A |
+| 5 | [#PalloneSpia](http://twitter.com/search?q=%23PalloneSpia) | N/A |
+| 6 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
+| 7 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
 | 8 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
-| 9 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 10 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 11 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 12 | [Impeccabili](http://twitter.com/search?q=Impeccabili) | N/A |
-| 13 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
-| 14 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
-| 15 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 16 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 17 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
-| 18 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 19 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 20 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 21 | [Cannolicchi](http://twitter.com/search?q=Cannolicchi) | N/A |
-| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 23 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
-| 24 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 25 | [Moggi](http://twitter.com/search?q=Moggi) | N/A |
-| 26 | [Irving](http://twitter.com/search?q=Irving) | N/A |
-| 27 | [Armani](http://twitter.com/search?q=Armani) | N/A |
-| 28 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
-| 29 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 30 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
-| 31 | [clementino](http://twitter.com/search?q=clementino) | N/A |
-| 32 | [Cancro](http://twitter.com/search?q=Cancro) | N/A |
-| 33 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 34 | [Swatch](http://twitter.com/search?q=Swatch) | N/A |
-| 35 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 36 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 37 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 38 | [magda](http://twitter.com/search?q=magda) | N/A |
-| 39 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 40 | [Giornata Mondiale](http://twitter.com/search?q=Giornata+Mondiale) | N/A |
-| 41 | [Vero](http://twitter.com/search?q=Vero) | N/A |
-| 42 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 43 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
-| 44 | [Cinzia](http://twitter.com/search?q=Cinzia) | N/A |
-| 45 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
-| 46 | [Sportitalia](http://twitter.com/search?q=Sportitalia) | N/A |
-| 47 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 48 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
-| 49 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 50 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 9 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 10 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 11 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 12 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 13 | [Sheva](http://twitter.com/search?q=Sheva) | N/A |
+| 14 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 15 | [Milito](http://twitter.com/search?q=Milito) | N/A |
+| 16 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 17 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 18 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 19 | [41bis](http://twitter.com/search?q=41bis) | N/A |
+| 20 | [Cucchi](http://twitter.com/search?q=Cucchi) | N/A |
+| 21 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 22 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 23 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
+| 24 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 25 | [Pessotto](http://twitter.com/search?q=Pessotto) | N/A |
+| 26 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 27 | [Brava Micol](http://twitter.com/search?q=Brava+Micol) | N/A |
+| 28 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 29 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 30 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
+| 31 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 32 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 33 | [Moggi](http://twitter.com/search?q=Moggi) | N/A |
+| 34 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 35 | [Cannolicchi](http://twitter.com/search?q=Cannolicchi) | N/A |
+| 36 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
+| 37 | [Impeccabili](http://twitter.com/search?q=Impeccabili) | N/A |
+| 38 | [Corriere](http://twitter.com/search?q=Corriere) | N/A |
+| 39 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 40 | [Armani](http://twitter.com/search?q=Armani) | N/A |
+| 41 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
+| 42 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 43 | [clementino](http://twitter.com/search?q=clementino) | N/A |
+| 44 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 45 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 47 | [Valentino](http://twitter.com/search?q=Valentino) | Valentino is a popular Italian fashion house founded in 1960 by Valentino Garavani. The brand is known for its glamorous and sophisticated designs, which often feature intricate embroidery and beading. The name Valentino is derived from the Latin word valens, meaning “strong” or “powerful”. |
+| 48 | [Berlinguer](http://twitter.com/search?q=Berlinguer) | N/A |
+| 49 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 50 | [Direttore](http://twitter.com/search?q=Direttore) | N/A |
 
 
 

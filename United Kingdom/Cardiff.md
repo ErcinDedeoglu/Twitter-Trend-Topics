@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-04 13:18:13 UTC`
+📆 Last Updated: `2023-02-04 14:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 2 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 3 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 4 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 5 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 6 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
-| 7 | [Krul](http://twitter.com/search?q=Krul) | N/A |
-| 8 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
-| 11 | [#BBL12](http://twitter.com/search?q=%23BBL12) | #BBL12 is an abbreviation for the 12th season of the Big Bash League, an Australian professional Twenty20 cricket league. The acronym stands for Big Bash League 12. |
-| 12 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 13 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 14 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 15 | [McNeil](http://twitter.com/search?q=McNeil) | N/A |
-| 16 | [Lewin](http://twitter.com/search?q=Lewin) | N/A |
-| 17 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 18 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
-| 19 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 20 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 21 | [Calvert](http://twitter.com/search?q=Calvert) | N/A |
-| 22 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 23 | [Everton vs Arsenal](http://twitter.com/search?q=Everton+vs+Arsenal) | N/A |
-| 24 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
-| 25 | [COYG](http://twitter.com/search?q=COYG) | N/A |
-| 26 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 27 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 28 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 29 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
-| 30 | [Jo Brand](http://twitter.com/search?q=Jo+Brand) | N/A |
-| 31 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
-| 32 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 33 | [Bishops](http://twitter.com/search?q=Bishops) | N/A |
-| 34 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
-| 35 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 36 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
-| 37 | [Wales v Ireland](http://twitter.com/search?q=Wales+v+Ireland) | N/A |
-| 38 | [Trolley](http://twitter.com/search?q=Trolley) | N/A |
-| 39 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
-| 40 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 41 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 42 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
-| 43 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 44 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
-| 45 | [Southend](http://twitter.com/search?q=Southend) | N/A |
-| 46 | [Eddie Butler](http://twitter.com/search?q=Eddie+Butler) | N/A |
-| 47 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 48 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 49 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
-| 50 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 1 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 2 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 3 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
+| 4 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 5 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 7 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 8 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
+| 9 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 10 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 11 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 12 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 13 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 14 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 15 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 16 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
+| 17 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 18 | [Krul](http://twitter.com/search?q=Krul) | N/A |
+| 19 | [Good Land](http://twitter.com/search?q=Good+Land) | N/A |
+| 20 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 21 | [Peter Walton](http://twitter.com/search?q=Peter+Walton) | N/A |
+| 22 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 23 | [Lossiemouth](http://twitter.com/search?q=Lossiemouth) | N/A |
+| 24 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 25 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 26 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 27 | [Osborn](http://twitter.com/search?q=Osborn) | N/A |
+| 28 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 29 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 30 | [Third Time Lucki](http://twitter.com/search?q=Third+Time+Lucki) | N/A |
+| 31 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 32 | [Ekdal](http://twitter.com/search?q=Ekdal) | N/A |
+| 33 | [Get Trossard](http://twitter.com/search?q=Get+Trossard) | N/A |
+| 34 | [Calvert Lewin](http://twitter.com/search?q=Calvert+Lewin) | N/A |
+| 35 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 36 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
+| 37 | [Chasing Fire](http://twitter.com/search?q=Chasing+Fire) | N/A |
+| 38 | [Eddie Butler](http://twitter.com/search?q=Eddie+Butler) | N/A |
+| 39 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
+| 40 | [Hwang](http://twitter.com/search?q=Hwang) | N/A |
+| 41 | [Starting XI](http://twitter.com/search?q=Starting+XI) | N/A |
+| 42 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
+| 43 | [Henley](http://twitter.com/search?q=Henley) | N/A |
+| 44 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
+| 45 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 46 | [Toffees](http://twitter.com/search?q=Toffees) | N/A |
+| 47 | [Tomiyasu](http://twitter.com/search?q=Tomiyasu) | Tomiyasu is a Japanese surname. It is derived from the Japanese words "tomi" (富) meaning "wealth" and "yasu" (安) meaning "peace". In English, it can be translated to mean "wealthy and peaceful". |
+| 48 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 49 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 50 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
 
 
 

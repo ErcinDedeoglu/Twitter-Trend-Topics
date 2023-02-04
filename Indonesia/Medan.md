@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-02-04 13:18:32 UTC`
+📆 Last Updated: `2023-02-04 14:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#ASEANIndonesia2023](http://twitter.com/search?q=%23ASEANIndonesia2023) | #ASEANIndonesia2023 is a hashtag used to promote Indonesia's hosting of the 2023 ASEAN Summit. ASEAN stands for the Association of Southeast Asian Nations, an intergovernmental organization consisting of 10 member states in Southeast Asia. The hashtag is used to raise awareness and support for Indonesia's hosting of the summit in 2023. |
 | 2 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
 | 3 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
-| 4 | [Electro 5](http://twitter.com/search?q=Electro+5) | Electro 5 is a type of electronic music genre that combines elements of electro, hip-hop, and house music. It is characterized by its heavy use of synthesizers and drum machines, as well as its incorporation of samples from other genres. The term was coined in the early 2000s to describe a new wave of electronic music that was emerging at the time. |
-| 5 | [Anemo 5](http://twitter.com/search?q=Anemo+5) | Anemo 5 is a type of wind turbine designed by the French company Anemo. It is a small, lightweight, and efficient wind turbine that can be used to generate electricity in remote locations. The name "Anemo 5" comes from the five blades that make up the turbine's rotor. In English, Anemo 5 means "five-bladed wind turbine." |
-| 6 | [Hydro 5](http://twitter.com/search?q=Hydro+5) | Hydro 5 is a brand of razor blades made by the company Schick. The name Hydro 5 refers to the five ultra-glide blades that are featured on the razor, which provide a close and comfortable shave. |
-| 7 | [Cryo 5](http://twitter.com/search?q=Cryo+5) | Cryo 5 is a brand of cryotherapy machine used to treat a variety of medical conditions. Cryotherapy is a form of cold therapy that involves exposing the body to extremely cold temperatures for a short period of time. The goal of cryotherapy is to reduce inflammation, pain, and swelling in the affected area. Cryo 5 machines use liquid nitrogen to cool the air around the body, creating an environment that can reach temperatures as low as -200°F. |
-| 8 | [Geo 5](http://twitter.com/search?q=Geo+5) | Geo 5 is a geographic information system (GIS) software package developed by Esri. It is used to create, manage, analyze, and share geographic data and maps. Geo 5 is designed to help users visualize, analyze, and interpret data in order to make informed decisions. The name "Geo 5" comes from the five components of the software: Geodatabase, Editing, Analysis, Outputs, and Visualization. |
-| 9 | [Dendro 5](http://twitter.com/search?q=Dendro+5) | Dendro 5 is a software program used for dendrochronology, which is the scientific method of dating tree rings. The name “Dendro 5” comes from the Greek word “dendron” meaning tree. The software helps scientists to analyze and interpret tree-ring data in order to reconstruct past climate and environmental conditions. |
-| 10 | [Pyro 5](http://twitter.com/search?q=Pyro+5) | Pyro 5 is a type of firework that is designed to produce a loud, colorful display. It is often used in fireworks shows and other celebrations. The name comes from the five stars that are created when the firework explodes. |
-| 11 | [EXO-SC INDONESIA FANCON](http://twitter.com/search?q=EXO-SC+INDONESIA+FANCON) | EXO-SC INDONESIA FANCON is an event organized by EXO-SC's Indonesian fan club. It is a fan convention that brings together fans of the K-pop group EXO-SC from all over Indonesia to celebrate their music and show their support for the group. The event includes activities such as fan meetings, games, performances, and more. The English translation of EXO-SC INDONESIA FANCON is EXO-SC Indonesian Fan Convention. |
-| 12 | [#holoIDKimonoDAY2](http://twitter.com/search?q=%23holoIDKimonoDAY2) | N/A |
-| 13 | [Rasa](http://twitter.com/search?q=Rasa) | N/A |
-| 14 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
-| 15 | [Cat 6](http://twitter.com/search?q=Cat+6) | Cat 6 is a type of cable used in networking and data transmission. It is a twisted pair cable for Ethernet and other network physical layers that is backward compatible with the Category 5/5e and Category 3 cable standards. Cat 6 features more stringent specifications for crosstalk and system noise than previous standards. |
-| 16 | [Chakra](http://twitter.com/search?q=Chakra) | N/A |
-| 17 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 18 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
-| 19 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 20 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
-| 21 | [Sultan](http://twitter.com/search?q=Sultan) | N/A |
-| 22 | [LeoNiel](http://twitter.com/search?q=LeoNiel) | N/A |
-| 23 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 24 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
-| 25 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
-| 26 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
-| 27 | [WANT TO BUY](http://twitter.com/search?q=WANT+TO+BUY) | N/A |
-| 28 | [SOLD OUT](http://twitter.com/search?q=SOLD+OUT) | N/A |
-| 29 | [Tante Lina](http://twitter.com/search?q=Tante+Lina) | N/A |
-| 30 | [Pribadi](http://twitter.com/search?q=Pribadi) | N/A |
-| 31 | [SEE YOU DREAMIES](http://twitter.com/search?q=SEE+YOU+DREAMIES) | N/A |
-| 32 | [BaKri](http://twitter.com/search?q=BaKri) | N/A |
-| 33 | [Congratssss](http://twitter.com/search?q=Congratssss) | N/A |
-| 34 | [2 TIKET](http://twitter.com/search?q=2+TIKET) | N/A |
-| 35 | [Nanakoot](http://twitter.com/search?q=Nanakoot) | N/A |
-| 36 | [Bad Boy](http://twitter.com/search?q=Bad+Boy) | N/A |
-| 37 | [Kakk](http://twitter.com/search?q=Kakk) | N/A |
-| 38 | [1 TIX](http://twitter.com/search?q=1+TIX) | N/A |
-| 39 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
-| 40 | [Garnier](http://twitter.com/search?q=Garnier) | N/A |
-| 41 | [Ngilu](http://twitter.com/search?q=Ngilu) | N/A |
-| 42 | [Refresh](http://twitter.com/search?q=Refresh) | N/A |
-| 43 | [Wtb 2](http://twitter.com/search?q=Wtb+2) | N/A |
-| 44 | [Livin](http://twitter.com/search?q=Livin) | N/A |
-| 45 | [HAVE FUN](http://twitter.com/search?q=HAVE+FUN) | N/A |
-| 46 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
-| 47 | [Selamattt](http://twitter.com/search?q=Selamattt) | N/A |
-| 48 | [COD VENUE](http://twitter.com/search?q=COD+VENUE) | N/A |
-| 49 | [Titip](http://twitter.com/search?q=Titip) | N/A |
-| 50 | [Kaaa](http://twitter.com/search?q=Kaaa) | N/A |
+| 4 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 5 | [#MYYOUTHJISUNG](http://twitter.com/search?q=%23MYYOUTHJISUNG) | N/A |
+| 6 | [#온우주가_지성이_스물둘을_응원해](http://twitter.com/search?q=%23%ec%98%a8%ec%9a%b0%ec%a3%bc%ea%b0%80_%ec%a7%80%ec%84%b1%ec%9d%b4_%ec%8a%a4%eb%ac%bc%eb%91%98%ec%9d%84_%ec%9d%91%ec%9b%90%ed%95%b4) | N/A |
+| 7 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 8 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 9 | [Electro 5](http://twitter.com/search?q=Electro+5) | Electro 5 is a type of electronic music genre that combines elements of electro, hip-hop, and house music. It is characterized by its heavy use of synthesizers and drum machines, as well as its incorporation of samples from other genres. The term was coined in the early 2000s to describe a new wave of electronic music that was emerging at the time. |
+| 10 | [Anemo 5](http://twitter.com/search?q=Anemo+5) | Anemo 5 is a type of wind turbine designed by the French company Anemo. It is a small, lightweight, and efficient wind turbine that can be used to generate electricity in remote locations. The name "Anemo 5" comes from the five blades that make up the turbine's rotor. In English, Anemo 5 means "five-bladed wind turbine." |
+| 11 | [Cryo 5](http://twitter.com/search?q=Cryo+5) | Cryo 5 is a brand of cryotherapy machine used to treat a variety of medical conditions. Cryotherapy is a form of cold therapy that involves exposing the body to extremely cold temperatures for a short period of time. The goal of cryotherapy is to reduce inflammation, pain, and swelling in the affected area. Cryo 5 machines use liquid nitrogen to cool the air around the body, creating an environment that can reach temperatures as low as -200°F. |
+| 12 | [Geo 5](http://twitter.com/search?q=Geo+5) | Geo 5 is a geographic information system (GIS) software package developed by Esri. It is used to create, manage, analyze, and share geographic data and maps. Geo 5 is designed to help users visualize, analyze, and interpret data in order to make informed decisions. The name "Geo 5" comes from the five components of the software: Geodatabase, Editing, Analysis, Outputs, and Visualization. |
+| 13 | [Dendro 5](http://twitter.com/search?q=Dendro+5) | Dendro 5 is a software program used for dendrochronology, which is the scientific method of dating tree rings. The name “Dendro 5” comes from the Greek word “dendron” meaning tree. The software helps scientists to analyze and interpret tree-ring data in order to reconstruct past climate and environmental conditions. |
+| 14 | [Pyro 5](http://twitter.com/search?q=Pyro+5) | Pyro 5 is a type of firework that is designed to produce a loud, colorful display. It is often used in fireworks shows and other celebrations. The name comes from the five stars that are created when the firework explodes. |
+| 15 | [Hydro 5](http://twitter.com/search?q=Hydro+5) | Hydro 5 is a brand of razor blades made by the company Schick. The name Hydro 5 refers to the five ultra-glide blades that are featured on the razor, which provide a close and comfortable shave. |
+| 16 | [EXO-SC INDONESIA FANCON](http://twitter.com/search?q=EXO-SC+INDONESIA+FANCON) | EXO-SC INDONESIA FANCON is an event organized by EXO-SC's Indonesian fan club. It is a fan convention that brings together fans of the K-pop group EXO-SC from all over Indonesia to celebrate their music and show their support for the group. The event includes activities such as fan meetings, games, performances, and more. The English translation of EXO-SC INDONESIA FANCON is EXO-SC Indonesian Fan Convention. |
+| 17 | [HAPPY BIRTHDAY TAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEHYUN) | N/A |
+| 18 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 19 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 20 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
+| 21 | [Chakra](http://twitter.com/search?q=Chakra) | N/A |
+| 22 | [Cat 6](http://twitter.com/search?q=Cat+6) | Cat 6 is a type of cable used in networking and data transmission. It is a twisted pair cable for Ethernet and other network physical layers that is backward compatible with the Category 5/5e and Category 3 cable standards. Cat 6 features more stringent specifications for crosstalk and system noise than previous standards. |
+| 23 | [Cat 6](http://twitter.com/search?q=Cat+6) | Cat 6 is a type of cable used in networking and data transmission. It is a twisted pair cable for Ethernet and other network physical layers that is backward compatible with the Category 5/5e and Category 3 cable standards. Cat 6 features more stringent specifications for crosstalk and system noise than previous standards. |
+| 24 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 25 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 26 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
+| 27 | [Tante Lina](http://twitter.com/search?q=Tante+Lina) | N/A |
+| 28 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 29 | [SOLD OUT](http://twitter.com/search?q=SOLD+OUT) | N/A |
+| 30 | [Sultan](http://twitter.com/search?q=Sultan) | N/A |
+| 31 | [WANT TO BUY](http://twitter.com/search?q=WANT+TO+BUY) | N/A |
+| 32 | [leoniel](http://twitter.com/search?q=leoniel) | N/A |
+| 33 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
+| 34 | [Dapet](http://twitter.com/search?q=Dapet) | N/A |
+| 35 | [Pribadi](http://twitter.com/search?q=Pribadi) | N/A |
+| 36 | [Susanti](http://twitter.com/search?q=Susanti) | N/A |
+| 37 | [Ngilu](http://twitter.com/search?q=Ngilu) | N/A |
+| 38 | [Nanakoot](http://twitter.com/search?q=Nanakoot) | N/A |
+| 39 | [SEE YOU DREAMIES](http://twitter.com/search?q=SEE+YOU+DREAMIES) | N/A |
+| 40 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
+| 41 | [INFJ](http://twitter.com/search?q=INFJ) | N/A |
+| 42 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 43 | [1 TIX](http://twitter.com/search?q=1+TIX) | N/A |
+| 44 | [kakk](http://twitter.com/search?q=kakk) | N/A |
+| 45 | [2 TIKET](http://twitter.com/search?q=2+TIKET) | N/A |
+| 46 | [Bad Boy](http://twitter.com/search?q=Bad+Boy) | N/A |
+| 47 | [COD Venue](http://twitter.com/search?q=COD+Venue) | N/A |
+| 48 | [Garnier](http://twitter.com/search?q=Garnier) | N/A |
+| 49 | [Refresh](http://twitter.com/search?q=Refresh) | N/A |
+| 50 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
 
 
 

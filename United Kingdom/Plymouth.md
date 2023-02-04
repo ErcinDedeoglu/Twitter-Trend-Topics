@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-02-04 13:18:15 UTC`
+📆 Last Updated: `2023-02-04 14:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 2 | [#ShapingUs](http://twitter.com/search?q=%23ShapingUs) | N/A |
-| 3 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 4 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 5 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 6 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 7 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 8 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 9 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 10 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 11 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 12 | [Krul](http://twitter.com/search?q=Krul) | N/A |
-| 13 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
-| 14 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
-| 15 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 16 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 18 | [McNeil](http://twitter.com/search?q=McNeil) | N/A |
-| 19 | [Lewin](http://twitter.com/search?q=Lewin) | N/A |
-| 20 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 21 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
-| 22 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
-| 23 | [Calvert](http://twitter.com/search?q=Calvert) | N/A |
-| 24 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 25 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 26 | [Everton vs Arsenal](http://twitter.com/search?q=Everton+vs+Arsenal) | N/A |
-| 27 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
-| 28 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 29 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 30 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 31 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
-| 32 | [Jo Brand](http://twitter.com/search?q=Jo+Brand) | N/A |
-| 33 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
-| 34 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 35 | [Bishops](http://twitter.com/search?q=Bishops) | N/A |
-| 36 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
-| 37 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 38 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
-| 39 | [Wales v Ireland](http://twitter.com/search?q=Wales+v+Ireland) | N/A |
-| 40 | [Trolley](http://twitter.com/search?q=Trolley) | N/A |
-| 41 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
-| 42 | [Godfrey](http://twitter.com/search?q=Godfrey) | Godfrey is a masculine given name of Germanic origin, derived from the elements "god" and "frid" meaning "God's peace". It is also an English surname. |
-| 43 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 44 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
-| 45 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 46 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
-| 47 | [Southend](http://twitter.com/search?q=Southend) | N/A |
-| 48 | [Eddie Butler](http://twitter.com/search?q=Eddie+Butler) | N/A |
-| 49 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 50 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 1 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 2 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 3 | [#PostboxSaturday](http://twitter.com/search?q=%23PostboxSaturday) | N/A |
+| 4 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 5 | [#ALGSlondon](http://twitter.com/search?q=%23ALGSlondon) | N/A |
+| 6 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 7 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
+| 8 | [#weekendvibes](http://twitter.com/search?q=%23weekendvibes) | N/A |
+| 9 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 10 | [#pafc](http://twitter.com/search?q=%23pafc) | N/A |
+| 11 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
+| 12 | [Nadine Dorries](http://twitter.com/search?q=Nadine+Dorries) | N/A |
+| 13 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 14 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
+| 15 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 17 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 18 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
+| 19 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 20 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 21 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 22 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 23 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 24 | [Krul](http://twitter.com/search?q=Krul) | N/A |
+| 25 | [Good Land](http://twitter.com/search?q=Good+Land) | N/A |
+| 26 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
+| 27 | [Peter Walton](http://twitter.com/search?q=Peter+Walton) | N/A |
+| 28 | [Lossiemouth](http://twitter.com/search?q=Lossiemouth) | N/A |
+| 29 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 30 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 31 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 32 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 33 | [Osborn](http://twitter.com/search?q=Osborn) | N/A |
+| 34 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 35 | [Third Time Lucki](http://twitter.com/search?q=Third+Time+Lucki) | N/A |
+| 36 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 37 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 38 | [Ekdal](http://twitter.com/search?q=Ekdal) | N/A |
+| 39 | [Get Trossard](http://twitter.com/search?q=Get+Trossard) | N/A |
+| 40 | [Calvert Lewin](http://twitter.com/search?q=Calvert+Lewin) | N/A |
+| 41 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 42 | [Mykolenko](http://twitter.com/search?q=Mykolenko) | N/A |
+| 43 | [Chasing Fire](http://twitter.com/search?q=Chasing+Fire) | N/A |
+| 44 | [Eddie Butler](http://twitter.com/search?q=Eddie+Butler) | N/A |
+| 45 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
+| 46 | [Hwang](http://twitter.com/search?q=Hwang) | N/A |
+| 47 | [Starting XI](http://twitter.com/search?q=Starting+XI) | N/A |
+| 48 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 49 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
+| 50 | [Henley](http://twitter.com/search?q=Henley) | N/A |
 
 
 

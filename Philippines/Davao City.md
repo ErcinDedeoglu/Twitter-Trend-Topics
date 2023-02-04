@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-04 13:18:39 UTC`
+📆 Last Updated: `2023-02-04 14:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DreamMaker4thRanking](http://twitter.com/search?q=%23DreamMaker4thRanking) | N/A |
-| 2 | [#FELIPxRapplerLiveJam](http://twitter.com/search?q=%23FELIPxRapplerLiveJam) | N/A |
-| 3 | [#HiyasPilipinas_Space](http://twitter.com/search?q=%23HiyasPilipinas_Space) | N/A |
-| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 5 | [MARCUS RoadTo TOP7](http://twitter.com/search?q=MARCUS+RoadTo+TOP7) | N/A |
-| 6 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 7 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 8 | [ZACHAM TCOBARKADAHAN](http://twitter.com/search?q=ZACHAM+TCOBARKADAHAN) | N/A |
-| 9 | [V1NCI ON TOP](http://twitter.com/search?q=V1NCI+ON+TOP) | N/A |
-| 10 | [KYLEReady OnTop](http://twitter.com/search?q=KYLEReady+OnTop) | N/A |
-| 11 | [SEATED FOR REYSTER](http://twitter.com/search?q=SEATED+FOR+REYSTER) | N/A |
-| 12 | [EXO-SC INDONESIA FANCON](http://twitter.com/search?q=EXO-SC+INDONESIA+FANCON) | EXO-SC INDONESIA FANCON is an event organized by EXO-SC's Indonesian fan club. It is a fan convention that brings together fans of the K-pop group EXO-SC from all over Indonesia to celebrate their music and show their support for the group. The event includes activities such as fan meetings, games, performances, and more. The English translation of EXO-SC INDONESIA FANCON is EXO-SC Indonesian Fan Convention. |
-| 13 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 14 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 15 | [We DREIlive In You](http://twitter.com/search?q=We+DREIlive+In+You) | N/A |
-| 16 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 17 | [VINSTER BETTER TOGETHER](http://twitter.com/search?q=VINSTER+BETTER+TOGETHER) | N/A |
-| 18 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 19 | [Coach Dante](http://twitter.com/search?q=Coach+Dante) | N/A |
-| 20 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 21 | [Madzilla](http://twitter.com/search?q=Madzilla) | N/A |
-| 22 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 23 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 24 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 25 | [ROOMMATE FB SERIES](http://twitter.com/search?q=ROOMMATE+FB+SERIES) | ROOMMATE FB SERIES is a web series created by Facebook that follows the lives of two roommates living in a shared apartment. The series explores the dynamics of their relationship and how they navigate life together. The title is a play on the term "roommate" and "FB" (Facebook). |
-| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 27 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
-| 28 | [#skzphlmaniac2023](http://twitter.com/search?q=%23skzphlmaniac2023) | N/A |
-| 29 | [#DreamMaker_MARCUS](http://twitter.com/search?q=%23DreamMaker_MARCUS) | N/A |
-| 30 | [#MANIFESTO_IN_MANILA_DAY2](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_DAY2) | N/A |
-| 31 | [#EverybodySingBuhat](http://twitter.com/search?q=%23EverybodySingBuhat) | N/A |
-| 32 | [#JeffLiveOnSaturnJKT](http://twitter.com/search?q=%23JeffLiveOnSaturnJKT) | N/A |
-| 33 | [#WWIW14](http://twitter.com/search?q=%23WWIW14) | N/A |
-| 34 | [#EXOSC_BackToBack](http://twitter.com/search?q=%23EXOSC_BackToBack) | #EXOSC_BackToBack is a hashtag used by fans of the South Korean boy band EXO to show their support for the group's back-to-back concerts. The hashtag is used to share photos, videos, and messages related to the concerts. |
-| 35 | [#TheAceReyster](http://twitter.com/search?q=%23TheAceReyster) | N/A |
-| 36 | [#DreamChaserKyler](http://twitter.com/search?q=%23DreamChaserKyler) | N/A |
-| 37 | [#Reyster4랑해](http://twitter.com/search?q=%23Reyster4%eb%9e%91%ed%95%b4) | N/A |
-| 38 | [#DreamMaker_VINCI](http://twitter.com/search?q=%23DreamMaker_VINCI) | N/A |
-| 39 | [#JiminsDanceTime](http://twitter.com/search?q=%23JiminsDanceTime) | N/A |
-| 40 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
-| 41 | [#DreamMaker_REYSTER](http://twitter.com/search?q=%23DreamMaker_REYSTER) | N/A |
-| 42 | [#DADDYSGURLInCheckNaYarn](http://twitter.com/search?q=%23DADDYSGURLInCheckNaYarn) | N/A |
-| 43 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
-| 44 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 45 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
-| 46 | [#PVLAllFilipinoConference](http://twitter.com/search?q=%23PVLAllFilipinoConference) | N/A |
-| 47 | [#DreamMaker_Drei](http://twitter.com/search?q=%23DreamMaker_Drei) | N/A |
+| 2 | [#GETWELLSUNSHINE](http://twitter.com/search?q=%23GETWELLSUNSHINE) | N/A |
+| 3 | [#FELIPxRapplerLiveJam](http://twitter.com/search?q=%23FELIPxRapplerLiveJam) | N/A |
+| 4 | [#SUNOO](http://twitter.com/search?q=%23SUNOO) | N/A |
+| 5 | [HAPPY BIRTHDAY TAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEHYUN) | N/A |
+| 6 | [Thad](http://twitter.com/search?q=Thad) | N/A |
+| 7 | [V1NCI ON TOP](http://twitter.com/search?q=V1NCI+ON+TOP) | N/A |
+| 8 | [MARCUS RoadTo TOP7](http://twitter.com/search?q=MARCUS+RoadTo+TOP7) | N/A |
+| 9 | [SEATED FOR REYSTER](http://twitter.com/search?q=SEATED+FOR+REYSTER) | N/A |
+| 10 | [ZACHAM TCOBARKADAHAN](http://twitter.com/search?q=ZACHAM+TCOBARKADAHAN) | N/A |
+| 11 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 12 | [KYLEReady OnTop](http://twitter.com/search?q=KYLEReady+OnTop) | N/A |
+| 13 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 14 | [LET JEROMY DEBUT](http://twitter.com/search?q=LET+JEROMY+DEBUT) | N/A |
+| 15 | [Anjo](http://twitter.com/search?q=Anjo) | N/A |
+| 16 | [We DREIlive In You](http://twitter.com/search?q=We+DREIlive+In+You) | N/A |
+| 17 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
+| 18 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 19 | [KIM NG FOR TOP16](http://twitter.com/search?q=KIM+NG+FOR+TOP16) | N/A |
+| 20 | [Maine As Stacy](http://twitter.com/search?q=Maine+As+Stacy) | N/A |
+| 21 | [PRINCEnter Stage](http://twitter.com/search?q=PRINCEnter+Stage) | N/A |
+| 22 | [EXO-SC INDONESIA FANCON](http://twitter.com/search?q=EXO-SC+INDONESIA+FANCON) | EXO-SC INDONESIA FANCON is an event organized by EXO-SC's Indonesian fan club. It is a fan convention that brings together fans of the K-pop group EXO-SC from all over Indonesia to celebrate their music and show their support for the group. The event includes activities such as fan meetings, games, performances, and more. The English translation of EXO-SC INDONESIA FANCON is EXO-SC Indonesian Fan Convention. |
+| 23 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 24 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 25 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 26 | [VINSTER BETTER TOGETHER](http://twitter.com/search?q=VINSTER+BETTER+TOGETHER) | N/A |
+| 27 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 28 | [Madzilla](http://twitter.com/search?q=Madzilla) | N/A |
+| 29 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 30 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 31 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
+| 32 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 33 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 34 | [roommate fb series](http://twitter.com/search?q=roommate+fb+series) | N/A |
+| 35 | [#HiyasPilipinas_Space](http://twitter.com/search?q=%23HiyasPilipinas_Space) | N/A |
+| 36 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | N/A |
+| 37 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | N/A |
+| 38 | [#カンテの愛し方しか分からない](http://twitter.com/search?q=%23%e3%82%ab%e3%83%b3%e3%83%86%e3%81%ae%e6%84%9b%e3%81%97%e6%96%b9%e3%81%97%e3%81%8b%e5%88%86%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84) | N/A |
+| 39 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 40 | [#MANIFESTO_IN_MANILA_D2](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_D2) | N/A |
+| 41 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | N/A |
+| 42 | [#DreamMaker_MARCUS](http://twitter.com/search?q=%23DreamMaker_MARCUS) | N/A |
+| 43 | [#DADDYSGURLInCheckNaYarn](http://twitter.com/search?q=%23DADDYSGURLInCheckNaYarn) | N/A |
+| 44 | [#Reyster4랑해](http://twitter.com/search?q=%23Reyster4%eb%9e%91%ed%95%b4) | N/A |
+| 45 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 46 | [#TheAceReyster](http://twitter.com/search?q=%23TheAceReyster) | N/A |
+| 47 | [#DreamMaker_VINCI](http://twitter.com/search?q=%23DreamMaker_VINCI) | N/A |
 
 
 

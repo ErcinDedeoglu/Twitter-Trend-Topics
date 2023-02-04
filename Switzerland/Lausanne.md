@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-04 13:18:30 UTC`
+📆 Last Updated: `2023-02-04 14:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
 | 2 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
 | 3 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 4 | [Interesse](http://twitter.com/search?q=Interesse) | N/A |
-| 5 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 6 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
-| 7 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 8 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 9 | [America](http://twitter.com/search?q=America) | N/A |
-| 10 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 11 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
+| 4 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 5 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
+| 6 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 7 | [Terror](http://twitter.com/search?q=Terror) | N/A |
+| 8 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 9 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 10 | [America](http://twitter.com/search?q=America) | N/A |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 12 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
 | 13 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 14 | [Händewaschen](http://twitter.com/search?q=H%c3%a4ndewaschen) | N/A |
-| 15 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
-| 16 | [#SriLanka](http://twitter.com/search?q=%23SriLanka) | N/A |
-| 17 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 18 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 19 | [Exact](http://twitter.com/search?q=Exact) | N/A |
-| 20 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
-| 23 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 24 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 25 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 26 | [apéro](http://twitter.com/search?q=ap%c3%a9ro) | N/A |
-| 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 28 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 29 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 30 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 31 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 32 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 33 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 34 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
-| 35 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 36 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
-| 37 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 38 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
-| 39 | [Soldaten](http://twitter.com/search?q=Soldaten) | N/A |
-| 40 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 41 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
-| 42 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 44 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
-| 45 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 46 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 47 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
-| 48 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
+| 14 | [firmen](http://twitter.com/search?q=firmen) | N/A |
+| 15 | [#SriLanka](http://twitter.com/search?q=%23SriLanka) | N/A |
+| 16 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 17 | [Exact](http://twitter.com/search?q=Exact) | N/A |
+| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 19 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 20 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
+| 21 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 23 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 24 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 25 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 26 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 27 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 28 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 29 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 30 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
+| 31 | [Soldaten](http://twitter.com/search?q=Soldaten) | N/A |
+| 32 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 33 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 35 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
+| 36 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 38 | [#tezos](http://twitter.com/search?q=%23tezos) | N/A |
+| 39 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 40 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 41 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 42 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 43 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 44 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 45 | [Raum](http://twitter.com/search?q=Raum) | N/A |
+| 46 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 47 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 48 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
 
 
 
