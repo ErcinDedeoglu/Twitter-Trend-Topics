@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-04 21:16:33 UTC`
+📆 Last Updated: `2023-02-04 22:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [DBEB](http://twitter.com/search?q=DBEB) | N/A |
 | 2 | [Thiago Lopes](http://twitter.com/search?q=Thiago+Lopes) | Thiago Lopes is a Portuguese name. It is derived from the Latin name Thiagus, which means "beloved". In English, it can be translated to mean "beloved one". |
-| 3 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 4 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 5 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 6 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 7 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 8 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 9 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 10 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 11 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
-| 12 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 13 | [Cipriano](http://twitter.com/search?q=Cipriano) | N/A |
-| 14 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 15 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 16 | [Figueirense](http://twitter.com/search?q=Figueirense) | N/A |
-| 17 | [Aimoré](http://twitter.com/search?q=Aimor%c3%a9) | N/A |
-| 18 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 19 | [Bruno Uvini](http://twitter.com/search?q=Bruno+Uvini) | N/A |
-| 20 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 21 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 22 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 23 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 24 | [#LasanhaSearaLover](http://twitter.com/search?q=%23LasanhaSearaLover) | N/A |
-| 25 | [#GAPtheseriesep11](http://twitter.com/search?q=%23GAPtheseriesep11) | N/A |
-| 26 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
-| 27 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 28 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 29 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 30 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 31 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
+| 3 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 4 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 5 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
+| 6 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
+| 7 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
+| 8 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 9 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 10 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 11 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 12 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 13 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 14 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 15 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 16 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 17 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
+| 18 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 19 | [Cipriano](http://twitter.com/search?q=Cipriano) | N/A |
+| 20 | [Murilo](http://twitter.com/search?q=Murilo) | N/A |
+| 21 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 22 | [Henrique Almeida](http://twitter.com/search?q=Henrique+Almeida) | N/A |
+| 23 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 24 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 25 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 26 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 27 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 28 | [Aimoré](http://twitter.com/search?q=Aimor%c3%a9) | N/A |
+| 29 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
+| 30 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
+| 31 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
 | 32 | [figueira](http://twitter.com/search?q=figueira) | N/A |
-| 33 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [EL PISTOLERO](http://twitter.com/search?q=EL+PISTOLERO) | N/A |
-| 36 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
-| 37 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 38 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 39 | [O Guimê](http://twitter.com/search?q=O+Guim%c3%aa) | N/A |
-| 40 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
-| 41 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 42 | [Amanda e Guimê](http://twitter.com/search?q=Amanda+e+Guim%c3%aa) | N/A |
-| 43 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
-| 44 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 45 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
-| 46 | [Caráter](http://twitter.com/search?q=Car%c3%a1ter) | N/A |
-| 47 | [Ferreirinha](http://twitter.com/search?q=Ferreirinha) | N/A |
-| 48 | [LUISITO SUÁREZ](http://twitter.com/search?q=LUISITO+SU%c3%81REZ) | N/A |
-| 49 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 33 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 34 | [#copadonordestenaespn](http://twitter.com/search?q=%23copadonordestenaespn) | N/A |
+| 35 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
+| 36 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 37 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 38 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 39 | [Nenhum de Nós](http://twitter.com/search?q=Nenhum+de+N%c3%b3s) | N/A |
+| 40 | [Bruno Uvini](http://twitter.com/search?q=Bruno+Uvini) | N/A |
+| 41 | [Lucas Esteves](http://twitter.com/search?q=Lucas+Esteves) | N/A |
+| 42 | [El Pistolero](http://twitter.com/search?q=El+Pistolero) | El Pistolero is a nickname for the famous soccer player Diego Maradona. It translates to "The Gunman" in English, referring to his skill and accuracy on the pitch. |
+| 43 | [Gasolina](http://twitter.com/search?q=Gasolina) | N/A |
+| 44 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 45 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 46 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 47 | [Nathan Silva](http://twitter.com/search?q=Nathan+Silva) | Nathan Silva is a Portuguese name. It is derived from the Hebrew name Natan, which means "he gave". It can also be translated as "gift of God". |
+| 48 | [Croc](http://twitter.com/search?q=Croc) | N/A |
+| 49 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
 
 
 

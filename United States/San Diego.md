@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-02-04 21:17:17 UTC`
+📆 Last Updated: `2023-02-04 22:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 2 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
-| 3 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 4 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
-| 5 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 6 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 7 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 8 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 10 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 11 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
-| 12 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
-| 13 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 14 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 15 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 16 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 17 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
-| 18 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 19 | [Brian Schottenheimer](http://twitter.com/search?q=Brian+Schottenheimer) | N/A |
-| 20 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 21 | [Jayden Epps](http://twitter.com/search?q=Jayden+Epps) | N/A |
-| 22 | [Carolina coast](http://twitter.com/search?q=Carolina+coast) | N/A |
-| 23 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
-| 24 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 25 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
-| 26 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
-| 27 | [Conor](http://twitter.com/search?q=Conor) | N/A |
-| 28 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
-| 29 | [Top Gun 3](http://twitter.com/search?q=Top+Gun+3) | N/A |
-| 30 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 31 | [Aleutian Islands](http://twitter.com/search?q=Aleutian+Islands) | N/A |
-| 32 | [The FAA](http://twitter.com/search?q=The+FAA) | The FAA stands for the Federal Aviation Administration. It is an agency of the United States government that is responsible for regulating and overseeing all aspects of civil aviation in the United States. This includes aircraft design and manufacturing, air traffic control, pilot licensing, airport operations, and more. |
-| 33 | [Surfside Beach](http://twitter.com/search?q=Surfside+Beach) | N/A |
-| 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 35 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 36 | [Mission Accomplished](http://twitter.com/search?q=Mission+Accomplished) | N/A |
-| 37 | [RIP Chinese](http://twitter.com/search?q=RIP+Chinese) | N/A |
-| 38 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
-| 39 | [Keffals](http://twitter.com/search?q=Keffals) | N/A |
-| 40 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 41 | [KD Johnson](http://twitter.com/search?q=KD+Johnson) | N/A |
-| 42 | [Fire Robyn](http://twitter.com/search?q=Fire+Robyn) | N/A |
-| 43 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 44 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 45 | [Kalib Boone](http://twitter.com/search?q=Kalib+Boone) | N/A |
-| 46 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 47 | [Ty Rodgers](http://twitter.com/search?q=Ty+Rodgers) | N/A |
-| 48 | [Wendell Green](http://twitter.com/search?q=Wendell+Green) | N/A |
-| 49 | [Chipmunk](http://twitter.com/search?q=Chipmunk) | N/A |
-| 50 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 1 | [#p22forever](http://twitter.com/search?q=%23p22forever) | N/A |
+| 2 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 3 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
+| 4 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 5 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 6 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 7 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 8 | [McGregor](http://twitter.com/search?q=McGregor) | McGregor is a Scottish surname derived from the Gaelic MacGriogair, meaning "son of Griogair". It is also a given name, usually derived from the surname. |
+| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 10 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 11 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 13 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 14 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 15 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 16 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 17 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 18 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 19 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
+| 20 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
+| 21 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 22 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 23 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 24 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 25 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 26 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 27 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 28 | [Tony Perkins](http://twitter.com/search?q=Tony+Perkins) | N/A |
+| 29 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 30 | [Assembly Hall](http://twitter.com/search?q=Assembly+Hall) | N/A |
+| 31 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 32 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 33 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
+| 34 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 35 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 36 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 37 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
+| 38 | [Brian Schottenheimer](http://twitter.com/search?q=Brian+Schottenheimer) | N/A |
+| 39 | [Kaleb Banks](http://twitter.com/search?q=Kaleb+Banks) | N/A |
+| 40 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
+| 41 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
+| 42 | [Aleutian Islands](http://twitter.com/search?q=Aleutian+Islands) | N/A |
+| 43 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
+| 44 | [Dickie V](http://twitter.com/search?q=Dickie+V) | N/A |
+| 45 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 46 | [AIM-9X](http://twitter.com/search?q=AIM-9X) | N/A |
+| 47 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 48 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 49 | [Wendell Green](http://twitter.com/search?q=Wendell+Green) | N/A |
+| 50 | [Jayden Epps](http://twitter.com/search?q=Jayden+Epps) | N/A |
 
 
 

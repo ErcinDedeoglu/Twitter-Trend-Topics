@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-04 21:16:36 UTC`
+📆 Last Updated: `2023-02-04 22:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ZAGLEG](http://twitter.com/search?q=%23ZAGLEG) | N/A |
-| 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 3 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 4 | [#GORLGD](http://twitter.com/search?q=%23GORLGD) | N/A |
-| 5 | [Muci](http://twitter.com/search?q=Muci) | N/A |
-| 6 | [Wszołka](http://twitter.com/search?q=Wszo%c5%82ka) | N/A |
-| 7 | [#MGP2023](http://twitter.com/search?q=%23MGP2023) | N/A |
-| 8 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 9 | [VARze](http://twitter.com/search?q=VARze) | N/A |
-| 10 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
-| 11 | [Zabrzu](http://twitter.com/search?q=Zabrzu) | N/A |
-| 12 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
-| 13 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
-| 14 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 2 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 3 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 4 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 5 | [VARze](http://twitter.com/search?q=VARze) | N/A |
+| 6 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 7 | [Baku](http://twitter.com/search?q=Baku) | N/A |
+| 8 | [Muci](http://twitter.com/search?q=Muci) | N/A |
+| 9 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 10 | [Zabrzu](http://twitter.com/search?q=Zabrzu) | N/A |
+| 11 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
+| 12 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
+| 13 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
+| 14 | [Wszołka](http://twitter.com/search?q=Wszo%c5%82ka) | N/A |
 | 15 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 16 | [Jone](http://twitter.com/search?q=Jone) | N/A |
-| 17 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 18 | [Przybył](http://twitter.com/search?q=Przyby%c5%82) | N/A |
-| 19 | [Lubinie](http://twitter.com/search?q=Lubinie) | N/A |
-| 20 | [Zagłębia](http://twitter.com/search?q=Zag%c5%82%c4%99bia) | N/A |
-| 21 | [Strzałek](http://twitter.com/search?q=Strza%c5%82ek) | N/A |
+| 16 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
+| 17 | [Mladen](http://twitter.com/search?q=Mladen) | N/A |
+| 18 | [Strzałek](http://twitter.com/search?q=Strza%c5%82ek) | N/A |
+| 19 | [Panie Kaziu](http://twitter.com/search?q=Panie+Kaziu) | N/A |
+| 20 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 21 | [Lubinie](http://twitter.com/search?q=Lubinie) | N/A |
 | 22 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 23 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
-| 24 | [Sylwestrzak](http://twitter.com/search?q=Sylwestrzak) | N/A |
-| 25 | [Pia Skrzyszowska](http://twitter.com/search?q=Pia+Skrzyszowska) | N/A |
-| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 27 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 28 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 29 | [Ulrikke](http://twitter.com/search?q=Ulrikke) | Ulrikke is a Scandinavian female name derived from the Old Norse name Úlfríkr, which means "wolf ruler". In English, it can be translated to mean "ruler of wolves". |
-| 30 | [Strzałka](http://twitter.com/search?q=Strza%c5%82ka) | N/A |
-| 31 | [Julita](http://twitter.com/search?q=Julita) | N/A |
-| 32 | [Knesetu](http://twitter.com/search?q=Knesetu) | N/A |
-| 33 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 34 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
-| 35 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 23 | [Jone](http://twitter.com/search?q=Jone) | N/A |
+| 24 | [Strzałka](http://twitter.com/search?q=Strza%c5%82ka) | N/A |
+| 25 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
+| 26 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 27 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 28 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
+| 29 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 30 | [Koroną](http://twitter.com/search?q=Koron%c4%85) | N/A |
+| 31 | [Ulrikke](http://twitter.com/search?q=Ulrikke) | Ulrikke is a Scandinavian female name derived from the Old Norse name Úlfríkr, which means "wolf ruler". In English, it can be translated to mean "ruler of wolves". |
+| 32 | [knesetu](http://twitter.com/search?q=knesetu) | N/A |
+| 33 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 34 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 35 | [Przybył](http://twitter.com/search?q=Przyby%c5%82) | N/A |
 | 36 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 37 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 38 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
-| 39 | [Sowa](http://twitter.com/search?q=Sowa) | N/A |
-| 40 | [Z Panem Bogiem](http://twitter.com/search?q=Z+Panem+Bogiem) | N/A |
-| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 42 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 43 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
-| 44 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
-| 45 | [Zdrowie](http://twitter.com/search?q=Zdrowie) | N/A |
-| 46 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 47 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
-| 48 | [Lubina](http://twitter.com/search?q=Lubina) | N/A |
-| 49 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 50 | [Halvor Egner Granerud](http://twitter.com/search?q=Halvor+Egner+Granerud) | N/A |
+| 37 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 38 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
+| 39 | [Augustyniak](http://twitter.com/search?q=Augustyniak) | N/A |
+| 40 | [Sutryk](http://twitter.com/search?q=Sutryk) | N/A |
+| 41 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
+| 42 | [Sowa](http://twitter.com/search?q=Sowa) | N/A |
+| 43 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 44 | [Julita](http://twitter.com/search?q=Julita) | N/A |
+| 45 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
+| 46 | [Z Panem Bogiem](http://twitter.com/search?q=Z+Panem+Bogiem) | N/A |
+| 47 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 48 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
+| 49 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 50 | [Pekhart](http://twitter.com/search?q=Pekhart) | N/A |
 
 
 

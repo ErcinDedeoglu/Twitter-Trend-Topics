@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-04 21:17:20 UTC`
+📆 Last Updated: `2023-02-04 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Chile
 | 6 | [#GobiernoDeInutiles](http://twitter.com/search?q=%23GobiernoDeInutiles) | N/A |
 | 7 | [#Puren](http://twitter.com/search?q=%23Puren) | N/A |
 | 8 | [Conaf](http://twitter.com/search?q=Conaf) | N/A |
-| 9 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 10 | [Nico Jarry](http://twitter.com/search?q=Nico+Jarry) | N/A |
-| 11 | [#LevantemosElSurEnTVN](http://twitter.com/search?q=%23LevantemosElSurEnTVN) | N/A |
-| 12 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
+| 9 | [#FuerzaChile](http://twitter.com/search?q=%23FuerzaChile) | N/A |
+| 10 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
+| 11 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
+| 12 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
 | 13 | [Ñuble](http://twitter.com/search?q=%c3%91uble) | N/A |
-| 14 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 15 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
-| 16 | [Bublik](http://twitter.com/search?q=Bublik) | N/A |
+| 14 | [Casablanca](http://twitter.com/search?q=Casablanca) | N/A |
+| 15 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 16 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
 | 17 | [Nacimiento](http://twitter.com/search?q=Nacimiento) | N/A |
-| 18 | [Arauco](http://twitter.com/search?q=Arauco) | N/A |
+| 18 | [Bublik](http://twitter.com/search?q=Bublik) | N/A |
 | 19 | [La CAM](http://twitter.com/search?q=La+CAM) | N/A |
-| 20 | [Temucuicui](http://twitter.com/search?q=Temucuicui) | N/A |
-| 21 | [Tomé](http://twitter.com/search?q=Tom%c3%a9) | N/A |
-| 22 | [Supertanker](http://twitter.com/search?q=Supertanker) | N/A |
-| 23 | [APRA](http://twitter.com/search?q=APRA) | N/A |
-| 24 | [Estado de Catástrofe](http://twitter.com/search?q=Estado+de+Cat%c3%a1strofe) | N/A |
-| 25 | [Skatov](http://twitter.com/search?q=Skatov) | N/A |
-| 26 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 27 | [Senapred](http://twitter.com/search?q=Senapred) | N/A |
-| 28 | [Cristián Labbé](http://twitter.com/search?q=Cristi%c3%a1n+Labb%c3%a9) | N/A |
-| 29 | [Galvarino](http://twitter.com/search?q=Galvarino) | N/A |
-| 30 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
-| 31 | [Kazajistán](http://twitter.com/search?q=Kazajist%c3%a1n) | N/A |
-| 32 | [Bombo Fica](http://twitter.com/search?q=Bombo+Fica) | N/A |
-| 33 | [Massu](http://twitter.com/search?q=Massu) | N/A |
-| 34 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
-| 35 | [Carcuro](http://twitter.com/search?q=Carcuro) | N/A |
-| 36 | [Paila](http://twitter.com/search?q=Paila) | N/A |
-| 37 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 38 | [Gonzalo Ramírez](http://twitter.com/search?q=Gonzalo+Ram%c3%adrez) | N/A |
-| 39 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 40 | [Parral](http://twitter.com/search?q=Parral) | N/A |
-| 41 | [Cancún](http://twitter.com/search?q=Canc%c3%ban) | N/A |
-| 42 | [HAPPY BIRTHDAY TAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEHYUN) | N/A |
-| 43 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
-| 44 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 46 | [Llaitul](http://twitter.com/search?q=Llaitul) | N/A |
-| 47 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
+| 20 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 21 | [Temucuicui](http://twitter.com/search?q=Temucuicui) | N/A |
+| 22 | [Arauco](http://twitter.com/search?q=Arauco) | N/A |
+| 23 | [Supertanker](http://twitter.com/search?q=Supertanker) | N/A |
+| 24 | [APRA](http://twitter.com/search?q=APRA) | N/A |
+| 25 | [Tomé](http://twitter.com/search?q=Tom%c3%a9) | N/A |
+| 26 | [Estado de Catástrofe](http://twitter.com/search?q=Estado+de+Cat%c3%a1strofe) | N/A |
+| 27 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 28 | [Senapred](http://twitter.com/search?q=Senapred) | N/A |
+| 29 | [Skatov](http://twitter.com/search?q=Skatov) | N/A |
+| 30 | [Parral](http://twitter.com/search?q=Parral) | N/A |
+| 31 | [Bombo Fica](http://twitter.com/search?q=Bombo+Fica) | N/A |
+| 32 | [Sur de Chile](http://twitter.com/search?q=Sur+de+Chile) | N/A |
+| 33 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 34 | [Jorge Hevia](http://twitter.com/search?q=Jorge+Hevia) | N/A |
+| 35 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
+| 36 | [Galvarino](http://twitter.com/search?q=Galvarino) | N/A |
+| 37 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
+| 38 | [Cristián Labbé](http://twitter.com/search?q=Cristi%c3%a1n+Labb%c3%a9) | N/A |
+| 39 | [Kazajistán](http://twitter.com/search?q=Kazajist%c3%a1n) | N/A |
+| 40 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 41 | [El Durazno](http://twitter.com/search?q=El+Durazno) | N/A |
+| 42 | [Massu](http://twitter.com/search?q=Massu) | N/A |
+| 43 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
+| 44 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
+| 45 | [Paila](http://twitter.com/search?q=Paila) | N/A |
+| 46 | [HAPPY BIRTHDAY TAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEHYUN) | N/A |
+| 47 | [Cancún](http://twitter.com/search?q=Canc%c3%ban) | N/A |
 | 48 | [Maule](http://twitter.com/search?q=Maule) | N/A |
-| 49 | [El Durazno](http://twitter.com/search?q=El+Durazno) | N/A |
-| 50 | [Borracho](http://twitter.com/search?q=Borracho) | N/A |
+| 49 | [Carcuro](http://twitter.com/search?q=Carcuro) | N/A |
+| 50 | [DL 701](http://twitter.com/search?q=DL+701) | N/A |
 
 
 

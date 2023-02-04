@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-04 21:17:27 UTC`
+📆 Last Updated: `2023-02-04 22:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Thailand
 | 9 | [Engfa Waraha](http://twitter.com/search?q=Engfa+Waraha) | N/A |
 | 10 | [englot forever](http://twitter.com/search?q=englot+forever) | N/A |
 | 11 | [UP x Crocs](http://twitter.com/search?q=UP+x+Crocs) | N/A |
-| 12 | [MY BELOVED LADY](http://twitter.com/search?q=MY+BELOVED+LADY) | N/A |
-| 13 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | 4th BIRTHDAY PHIBALLS is a type of party game that is popular in Japan. It involves throwing small balls at a target and trying to hit it. The game is usually played on the fourth birthday of a child, hence the name. The English translation of 4th BIRTHDAY PHIBALLS would be "Fourth Birthday Ball Toss". |
-| 14 | [JUSTICE FOR LISA](http://twitter.com/search?q=JUSTICE+FOR+LISA) | N/A |
-| 15 | [Rumor](http://twitter.com/search?q=Rumor) | N/A |
+| 12 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | 4th BIRTHDAY PHIBALLS is a type of party game that is popular in Japan. It involves throwing small balls at a target and trying to hit it. The game is usually played on the fourth birthday of a child, hence the name. The English translation of 4th BIRTHDAY PHIBALLS would be "Fourth Birthday Ball Toss". |
+| 13 | [Rumor](http://twitter.com/search?q=Rumor) | N/A |
+| 14 | [WELCOME BACK BAEKHYUN](http://twitter.com/search?q=WELCOME+BACK+BAEKHYUN) | "Welcome Back Baekhyun" is a phrase used to express excitement and joy at the return of South Korean singer Baekhyun. It is a way of expressing enthusiasm and appreciation for his return. In English, it means "Welcome back, Baekhyun! We are so glad you are here!" |
+| 15 | [justice for lisa](http://twitter.com/search?q=justice+for+lisa) | N/A |
 | 16 | [bright x taipei](http://twitter.com/search?q=bright+x+taipei) | N/A |
-| 17 | [BAMBAM HOME EP3](http://twitter.com/search?q=BAMBAM+HOME+EP3) | BAMBAM HOME EP3 is a Korean variety show that follows the life of K-pop star Bambam and his family. The show focuses on Bambam's daily life, his interactions with his family, and his career as a K-pop star. The title of the show is a play on words, with "BAMBAM" being a reference to Bambam's name and "HOME" referring to the home environment of the show. In English, the title translates to "Bambam Home Episode 3". |
-| 18 | [YG STOP SABOTAGE LISA WORK](http://twitter.com/search?q=YG+STOP+SABOTAGE+LISA+WORK) | N/A |
-| 19 | [WELCOME BACK BAEKHYUN](http://twitter.com/search?q=WELCOME+BACK+BAEKHYUN) | "Welcome Back Baekhyun" is a phrase used to express excitement and joy at the return of South Korean singer Baekhyun. It is a way of expressing enthusiasm and appreciation for his return. In English, it means "Welcome back, Baekhyun! We are so glad you are here!" |
-| 20 | [User](http://twitter.com/search?q=User) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
-| 23 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
-| 24 | [#배켜니_보답_받을준비완료](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%eb%b3%b4%eb%8b%b5_%eb%b0%9b%ec%9d%84%ec%a4%80%eb%b9%84%ec%99%84%eb%a3%8c) | "#배켜니_보답_받을준비완료" is a hashtag used on social media in South Korea. It translates to "Ready to receive a response from Baekeuni". Baekeuni is a popular South Korean singer and the hashtag is used by her fans to show their support and anticipation for her upcoming releases. |
-| 25 | [#미지의별_지성의_스물두번째_여행](http://twitter.com/search?q=%23%eb%af%b8%ec%a7%80%ec%9d%98%eb%b3%84_%ec%a7%80%ec%84%b1%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%91%90%eb%b2%88%ec%a7%b8_%ec%97%ac%ed%96%89) | "#미지의별_지성의_스물두번째_여행" is a hashtag used to promote the second travel of Jisung, a South Korean singer and actor. The hashtag translates to "Jisung's Second Travel of the Unknown Star". |
-| 26 | [#OnceLAZ1_GoodbyeParty](http://twitter.com/search?q=%23OnceLAZ1_GoodbyeParty) | #OnceLAZ1_GoodbyeParty is a hashtag used to promote a farewell party for the LAZ1 team. It is used to encourage people to join the event and celebrate the team's accomplishments. |
-| 27 | [#saveแกงส้ม](http://twitter.com/search?q=%23save%e0%b9%81%e0%b8%81%e0%b8%87%e0%b8%aa%e0%b9%89%e0%b8%a1) | N/A |
-| 28 | [#D7LoveAt1stSightBB](http://twitter.com/search?q=%23D7LoveAt1stSightBB) | #D7LoveAt1stSightBB is a hashtag used to promote the upcoming album from the South Korean boy band, BTS. The hashtag stands for "Dynamite Love at First Sight BTS Edition". |
-| 29 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
-| 30 | [#JAPANEXPOTHAILAND2023](http://twitter.com/search?q=%23JAPANEXPOTHAILAND2023) | N/A |
-| 31 | [#IWILLKNOCKYOUFINALEP](http://twitter.com/search?q=%23IWILLKNOCKYOUFINALEP) | #IWILLKNOCKYOUFINALEP is a hashtag used to promote the finale of a television show or movie. It is used to encourage viewers to watch the finale and see how the story ends. In English, it means "I will knock you out with the finale!" |
-| 32 | [#คลื่นแอ๋วเวลคัมBAEK](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a5%e0%b8%b7%e0%b9%88%e0%b8%99%e0%b9%81%e0%b8%ad%e0%b9%8b%e0%b8%a7%e0%b9%80%e0%b8%a7%e0%b8%a5%e0%b8%84%e0%b8%b1%e0%b8%a1BAEK) | N/A |
-| 33 | [#elsevehyaluronxcharlotte](http://twitter.com/search?q=%23elsevehyaluronxcharlotte) | N/A |
-| 34 | [#온우주가_지성이_스물둘을_응원해](http://twitter.com/search?q=%23%ec%98%a8%ec%9a%b0%ec%a3%bc%ea%b0%80_%ec%a7%80%ec%84%b1%ec%9d%b4_%ec%8a%a4%eb%ac%bc%eb%91%98%ec%9d%84_%ec%9d%91%ec%9b%90%ed%95%b4) | N/A |
-| 35 | [#baekhoneyday_inbkk](http://twitter.com/search?q=%23baekhoneyday_inbkk) | N/A |
-| 36 | [#2ndWorldTour_MANIACTH](http://twitter.com/search?q=%232ndWorldTour_MANIACTH) | N/A |
-| 37 | [#Happy30thNewwieeBDCharity](http://twitter.com/search?q=%23Happy30thNewwieeBDCharity) | N/A |
-| 38 | [#JeffLiveOnSaturnJKT](http://twitter.com/search?q=%23JeffLiveOnSaturnJKT) | N/A |
-| 39 | [#ธีระธรฌ์คลินิกxmgt2022](http://twitter.com/search?q=%23%e0%b8%98%e0%b8%b5%e0%b8%a3%e0%b8%b0%e0%b8%98%e0%b8%a3%e0%b8%8c%e0%b9%8c%e0%b8%84%e0%b8%a5%e0%b8%b4%e0%b8%99%e0%b8%b4%e0%b8%81xmgt2022) | N/A |
-| 40 | [#BWDNtoTaipei](http://twitter.com/search?q=%23BWDNtoTaipei) | #BWDNtoTaipei is a hashtag used by people who are traveling from Beijing to Taipei. It is used to share their experiences and photos of the journey. In English, it stands for "Beijing to Taipei". |
-| 41 | [#4EVExBKKRiversideFest](http://twitter.com/search?q=%234EVExBKKRiversideFest) | N/A |
+| 17 | [bambam home ep3](http://twitter.com/search?q=bambam+home+ep3) | N/A |
+| 18 | [yg stop sabotage lisa work](http://twitter.com/search?q=yg+stop+sabotage+lisa+work) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [America](http://twitter.com/search?q=America) | N/A |
+| 21 | [Official Music Video](http://twitter.com/search?q=Official+Music+Video) | N/A |
+| 22 | [User](http://twitter.com/search?q=User) | N/A |
+| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 24 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
+| 25 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
+| 26 | [#배켜니_보답_받을준비완료](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%eb%b3%b4%eb%8b%b5_%eb%b0%9b%ec%9d%84%ec%a4%80%eb%b9%84%ec%99%84%eb%a3%8c) | "#배켜니_보답_받을준비완료" is a hashtag used on social media in South Korea. It translates to "Ready to receive a response from Baekeuni". Baekeuni is a popular South Korean singer and the hashtag is used by her fans to show their support and anticipation for her upcoming releases. |
+| 27 | [#미지의별_지성의_스물두번째_여행](http://twitter.com/search?q=%23%eb%af%b8%ec%a7%80%ec%9d%98%eb%b3%84_%ec%a7%80%ec%84%b1%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%91%90%eb%b2%88%ec%a7%b8_%ec%97%ac%ed%96%89) | "#미지의별_지성의_스물두번째_여행" is a hashtag used to promote the second travel of Jisung, a South Korean singer and actor. The hashtag translates to "Jisung's Second Travel of the Unknown Star". |
+| 28 | [#OnceLAZ1_GoodbyeParty](http://twitter.com/search?q=%23OnceLAZ1_GoodbyeParty) | #OnceLAZ1_GoodbyeParty is a hashtag used to promote a farewell party for the LAZ1 team. It is used to encourage people to join the event and celebrate the team's accomplishments. |
+| 29 | [#saveแกงส้ม](http://twitter.com/search?q=%23save%e0%b9%81%e0%b8%81%e0%b8%87%e0%b8%aa%e0%b9%89%e0%b8%a1) | N/A |
+| 30 | [#D7LoveAt1stSightBB](http://twitter.com/search?q=%23D7LoveAt1stSightBB) | #D7LoveAt1stSightBB is a hashtag used to promote the upcoming album from the South Korean boy band, BTS. The hashtag stands for "Dynamite Love at First Sight BTS Edition". |
+| 31 | [#JAPANEXPOTHAILAND2023](http://twitter.com/search?q=%23JAPANEXPOTHAILAND2023) | N/A |
+| 32 | [#MySchoolPresidentEP9](http://twitter.com/search?q=%23MySchoolPresidentEP9) | #MySchoolPresidentEP9 is a hashtag used to promote the ninth episode of a web series called My School President. The series follows the story of a high school student who runs for president of his school. The hashtag is used to encourage people to watch the episode and discuss it online. |
+| 33 | [#IWILLKNOCKYOUFINALEP](http://twitter.com/search?q=%23IWILLKNOCKYOUFINALEP) | #IWILLKNOCKYOUFINALEP is a hashtag used to promote the finale of a television show or movie. It is used to encourage viewers to watch the finale and see how the story ends. In English, it means "I will knock you out with the finale!" |
+| 34 | [#คลื่นแอ๋วเวลคัมBAEK](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a5%e0%b8%b7%e0%b9%88%e0%b8%99%e0%b9%81%e0%b8%ad%e0%b9%8b%e0%b8%a7%e0%b9%80%e0%b8%a7%e0%b8%a5%e0%b8%84%e0%b8%b1%e0%b8%a1BAEK) | N/A |
+| 35 | [#BAEKHoneyDAY_inBKK](http://twitter.com/search?q=%23BAEKHoneyDAY_inBKK) | N/A |
+| 36 | [#온우주가_지성이_스물둘을_응원해](http://twitter.com/search?q=%23%ec%98%a8%ec%9a%b0%ec%a3%bc%ea%b0%80_%ec%a7%80%ec%84%b1%ec%9d%b4_%ec%8a%a4%eb%ac%bc%eb%91%98%ec%9d%84_%ec%9d%91%ec%9b%90%ed%95%b4) | N/A |
+| 37 | [#elsevehyaluronxcharlotte](http://twitter.com/search?q=%23elsevehyaluronxcharlotte) | N/A |
+| 38 | [#2ndWorldTour_MANIACTH](http://twitter.com/search?q=%232ndWorldTour_MANIACTH) | N/A |
+| 39 | [#happy30thnewwieebdcharity](http://twitter.com/search?q=%23happy30thnewwieebdcharity) | N/A |
+| 40 | [#ธีระธรฌ์คลินิกxmgt2022](http://twitter.com/search?q=%23%e0%b8%98%e0%b8%b5%e0%b8%a3%e0%b8%b0%e0%b8%98%e0%b8%a3%e0%b8%8c%e0%b9%8c%e0%b8%84%e0%b8%a5%e0%b8%b4%e0%b8%99%e0%b8%b4%e0%b8%81xmgt2022) | N/A |
+| 41 | [#BWDNtoTaipei](http://twitter.com/search?q=%23BWDNtoTaipei) | #BWDNtoTaipei is a hashtag used by people who are traveling from Beijing to Taipei. It is used to share their experiences and photos of the journey. In English, it stands for "Beijing to Taipei". |
 | 42 | [#EnglotAns10month](http://twitter.com/search?q=%23EnglotAns10month) | N/A |
-| 43 | [#เกษตรแฟร์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%81%e0%b8%a9%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%9f%e0%b8%a3%e0%b9%8c) | N/A |
-| 44 | [#48GCIRCLEJAM](http://twitter.com/search?q=%2348GCIRCLEJAM) | N/A |
-| 45 | [#ElseveHyaluronxNanon](http://twitter.com/search?q=%23ElseveHyaluronxNanon) | N/A |
+| 43 | [#JeffLiveOnSaturnJKT](http://twitter.com/search?q=%23JeffLiveOnSaturnJKT) | N/A |
+| 44 | [#4EVExBKKRiversideFest](http://twitter.com/search?q=%234EVExBKKRiversideFest) | N/A |
+| 45 | [#48GCIRCLEJAM](http://twitter.com/search?q=%2348GCIRCLEJAM) | N/A |
 | 46 | [#SUPPASITXJOHJAI](http://twitter.com/search?q=%23SUPPASITXJOHJAI) | N/A |
-| 47 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
-| 48 | [#Happy10monthsENGLOT](http://twitter.com/search?q=%23Happy10monthsENGLOT) | N/A |
-| 49 | [#ร่มไทรทองเป็นของเราแล้วลูก](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%88%e0%b8%a1%e0%b9%84%e0%b8%97%e0%b8%a3%e0%b8%97%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a3%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%a5%e0%b8%b9%e0%b8%81) | N/A |
-| 50 | [#netsat](http://twitter.com/search?q=%23netsat) | N/A |
+| 47 | [#เกษตรแฟร์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%81%e0%b8%a9%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%9f%e0%b8%a3%e0%b9%8c) | N/A |
+| 48 | [#elsevehyaluronxnanon](http://twitter.com/search?q=%23elsevehyaluronxnanon) | N/A |
+| 49 | [#CPLANDxPainttheTowninKK](http://twitter.com/search?q=%23CPLANDxPainttheTowninKK) | N/A |
+| 50 | [#happy10monthsenglot](http://twitter.com/search?q=%23happy10monthsenglot) | N/A |
 
 
 
