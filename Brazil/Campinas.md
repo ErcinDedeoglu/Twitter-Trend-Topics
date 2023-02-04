@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-04 14:16:54 UTC`
+📆 Last Updated: `2023-02-04 15:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 3 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 4 | [#SkateNoSportv](http://twitter.com/search?q=%23SkateNoSportv) | N/A |
-| 5 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 6 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 7 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 8 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 9 | [Roberto Jefferson](http://twitter.com/search?q=Roberto+Jefferson) | N/A |
-| 10 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 11 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 12 | [Macapá](http://twitter.com/search?q=Macap%c3%a1) | N/A |
-| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 14 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 15 | [Rayssa Leal](http://twitter.com/search?q=Rayssa+Leal) | N/A |
-| 16 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 17 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
-| 18 | [São Miguel do Oeste](http://twitter.com/search?q=S%c3%a3o+Miguel+do+Oeste) | N/A |
-| 19 | [Marv](http://twitter.com/search?q=Marv) | N/A |
-| 20 | [Marinha](http://twitter.com/search?q=Marinha) | N/A |
-| 21 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 22 | [Sarah e Gabriel](http://twitter.com/search?q=Sarah+e+Gabriel) | N/A |
-| 23 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
-| 24 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
-| 25 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 26 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
-| 27 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 28 | [Mari Palma](http://twitter.com/search?q=Mari+Palma) | Mari Palma is a Spanish phrase that translates to "Mary of the Palm". It is a traditional Spanish song about a woman who is said to have been born from a palm tree. The song tells the story of her life and how she eventually died. |
-| 29 | [Jean Pyerre](http://twitter.com/search?q=Jean+Pyerre) | N/A |
-| 30 | [Tabajara](http://twitter.com/search?q=Tabajara) | N/A |
-| 31 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | N/A |
-| 32 | [Parasita](http://twitter.com/search?q=Parasita) | N/A |
-| 33 | [Palmeiras x Santos](http://twitter.com/search?q=Palmeiras+x+Santos) | N/A |
-| 34 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
-| 35 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 36 | [Coraline](http://twitter.com/search?q=Coraline) | N/A |
-| 37 | [Câncer](http://twitter.com/search?q=C%c3%a2ncer) | N/A |
-| 38 | [Moonlight](http://twitter.com/search?q=Moonlight) | N/A |
-| 39 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 40 | [Leo Santana](http://twitter.com/search?q=Leo+Santana) | Leo Santana is a Brazilian singer, songwriter, and dancer. He is best known for his hit single "Tchu Tcha Tcha" and his collaborations with other artists such as Anitta, Ludmilla, and Ivete Sangalo. The name Leo Santana literally translates to "Lion of Santana" in English. |
-| 41 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 42 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 43 | [phelipe siani](http://twitter.com/search?q=phelipe+siani) | N/A |
-| 44 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
-| 45 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 46 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 47 | [White Rose](http://twitter.com/search?q=White+Rose) | N/A |
-| 48 | [VAL CASSADO](http://twitter.com/search?q=VAL+CASSADO) | N/A |
-| 49 | [Zé Gotinha](http://twitter.com/search?q=Z%c3%a9+Gotinha) | N/A |
+| 1 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Wydad](http://twitter.com/search?q=Wydad) | N/A |
+| 4 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
+| 5 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 6 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
+| 7 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
+| 8 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | N/A |
+| 9 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 10 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 11 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 12 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 13 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 14 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 15 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 16 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
+| 17 | [São Miguel do Oeste](http://twitter.com/search?q=S%c3%a3o+Miguel+do+Oeste) | N/A |
+| 18 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 19 | [Macapá](http://twitter.com/search?q=Macap%c3%a1) | N/A |
+| 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 21 | [Fernando Torres](http://twitter.com/search?q=Fernando+Torres) | N/A |
+| 22 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 23 | [Roberto Jefferson](http://twitter.com/search?q=Roberto+Jefferson) | N/A |
+| 24 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 25 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 26 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 27 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 28 | [Maria Tereza Capra](http://twitter.com/search?q=Maria+Tereza+Capra) | N/A |
+| 29 | [Essa Larissa](http://twitter.com/search?q=Essa+Larissa) | N/A |
+| 30 | [Christian Grey](http://twitter.com/search?q=Christian+Grey) | N/A |
+| 31 | [Marinha](http://twitter.com/search?q=Marinha) | N/A |
+| 32 | [Marv](http://twitter.com/search?q=Marv) | N/A |
+| 33 | [NAMJOON](http://twitter.com/search?q=NAMJOON) | N/A |
+| 34 | [Rayssa](http://twitter.com/search?q=Rayssa) | N/A |
+| 35 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 36 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
+| 37 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 38 | [Jean Pyerre](http://twitter.com/search?q=Jean+Pyerre) | N/A |
+| 39 | [Sarah e Gabriel](http://twitter.com/search?q=Sarah+e+Gabriel) | N/A |
+| 40 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
+| 41 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 42 | [Lemonade](http://twitter.com/search?q=Lemonade) | N/A |
+| 43 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 44 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
+| 45 | [Edvin](http://twitter.com/search?q=Edvin) | N/A |
+| 46 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 47 | [Fernanda Montenegro](http://twitter.com/search?q=Fernanda+Montenegro) | N/A |
+| 48 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 49 | [Palmeiras x Santos](http://twitter.com/search?q=Palmeiras+x+Santos) | N/A |
 
 
 

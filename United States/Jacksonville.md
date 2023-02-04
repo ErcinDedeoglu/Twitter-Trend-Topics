@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-04 14:17:28 UTC`
+📆 Last Updated: `2023-02-04 15:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 2 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
+| 1 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 2 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
 | 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 4 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 5 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 6 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 8 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 9 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 10 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 11 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 12 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 13 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 14 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 15 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 16 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 17 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 18 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
-| 19 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 21 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 22 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 23 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
-| 24 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 25 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 26 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
-| 27 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
-| 28 | [Mt Washington](http://twitter.com/search?q=Mt+Washington) | N/A |
-| 29 | [Thin Lizzy](http://twitter.com/search?q=Thin+Lizzy) | N/A |
-| 30 | [Billy Jack](http://twitter.com/search?q=Billy+Jack) | N/A |
-| 31 | [New Hampshire](http://twitter.com/search?q=New+Hampshire) | N/A |
-| 32 | [Noodles](http://twitter.com/search?q=Noodles) | N/A |
-| 33 | [Camp David](http://twitter.com/search?q=Camp+David) | N/A |
-| 34 | [Kayleigh](http://twitter.com/search?q=Kayleigh) | N/A |
-| 35 | [Butch Cassidy](http://twitter.com/search?q=Butch+Cassidy) | N/A |
-| 36 | [Alice Cooper](http://twitter.com/search?q=Alice+Cooper) | N/A |
-| 37 | [Bill Kristol](http://twitter.com/search?q=Bill+Kristol) | N/A |
-| 38 | [Red Dawn](http://twitter.com/search?q=Red+Dawn) | N/A |
-| 39 | [Global Warming](http://twitter.com/search?q=Global+Warming) | N/A |
-| 40 | [James Harrison](http://twitter.com/search?q=James+Harrison) | N/A |
-| 41 | [Fahrenheit](http://twitter.com/search?q=Fahrenheit) | N/A |
-| 42 | [South America](http://twitter.com/search?q=South+America) | N/A |
-| 43 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 44 | [Google Earth](http://twitter.com/search?q=Google+Earth) | N/A |
-| 45 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 46 | [Because Biden](http://twitter.com/search?q=Because+Biden) | N/A |
-| 47 | [Administration](http://twitter.com/search?q=Administration) | N/A |
-| 48 | [Miracle Whip](http://twitter.com/search?q=Miracle+Whip) | N/A |
-| 49 | [Cuff It](http://twitter.com/search?q=Cuff+It) | Cuff It is a slang phrase that means to take control of a situation or to take action. It can be used to encourage someone to take charge and make something happen. |
-| 50 | [Bridge](http://twitter.com/search?q=Bridge) | N/A |
+| 4 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 5 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 7 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 9 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 10 | [Chandler](http://twitter.com/search?q=Chandler) | N/A |
+| 11 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
+| 12 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
+| 13 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 14 | [HAPPY BIRTHDAY TAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEHYUN) | N/A |
+| 15 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 16 | [xhaka](http://twitter.com/search?q=xhaka) | N/A |
+| 17 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 18 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 19 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 20 | [Rosa Parks](http://twitter.com/search?q=Rosa+Parks) | N/A |
+| 21 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
+| 22 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 23 | [Toffees](http://twitter.com/search?q=Toffees) | N/A |
+| 24 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 25 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 26 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 27 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 28 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 29 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 30 | [Willie McGee](http://twitter.com/search?q=Willie+McGee) | N/A |
+| 31 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 32 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 33 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 34 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
+| 35 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 36 | [Latin America](http://twitter.com/search?q=Latin+America) | Latin America is a region of the Americas that includes countries where Romance languages, such as Spanish, Portuguese, and French, are spoken. It is generally considered to include Mexico, Central America, South America, and the Caribbean. The term "Latin America" is used to refer to the collective cultures of the region and its people. |
+| 37 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 38 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 39 | [Armie Hammer](http://twitter.com/search?q=Armie+Hammer) | N/A |
+| 40 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 41 | [Goldie Hawn](http://twitter.com/search?q=Goldie+Hawn) | N/A |
+| 42 | [Mount Washington](http://twitter.com/search?q=Mount+Washington) | N/A |
+| 43 | [Philly Philly](http://twitter.com/search?q=Philly+Philly) | N/A |
+| 44 | [New England](http://twitter.com/search?q=New+England) | N/A |
+| 45 | [New Hampshire](http://twitter.com/search?q=New+Hampshire) | N/A |
+| 46 | [Thin Lizzy](http://twitter.com/search?q=Thin+Lizzy) | N/A |
+| 47 | [Camp David](http://twitter.com/search?q=Camp+David) | N/A |
+| 48 | [Noodles](http://twitter.com/search?q=Noodles) | N/A |
+| 49 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
+| 50 | [Austin Rivers](http://twitter.com/search?q=Austin+Rivers) | Austin Rivers is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His name is derived from his father, Doc Rivers, who is also a professional basketball coach. The name Austin Rivers means "from the river of Austin," referring to the city of Austin, Texas. |
 
 
 

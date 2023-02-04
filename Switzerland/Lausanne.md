@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-04 14:17:03 UTC`
+📆 Last Updated: `2023-02-04 15:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 2 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
-| 3 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 4 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 5 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
-| 6 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
-| 7 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 8 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 1 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 4 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
+| 5 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 6 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 7 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
+| 8 | [Terror](http://twitter.com/search?q=Terror) | N/A |
 | 9 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
-| 10 | [America](http://twitter.com/search?q=America) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
-| 13 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 14 | [firmen](http://twitter.com/search?q=firmen) | N/A |
-| 15 | [#SriLanka](http://twitter.com/search?q=%23SriLanka) | N/A |
-| 16 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 17 | [Exact](http://twitter.com/search?q=Exact) | N/A |
-| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 19 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 20 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
-| 21 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 23 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 10 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 11 | [America](http://twitter.com/search?q=America) | N/A |
+| 12 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
+| 13 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 14 | [Cervenka](http://twitter.com/search?q=Cervenka) | N/A |
+| 15 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
+| 16 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 17 | [#SriLanka](http://twitter.com/search?q=%23SriLanka) | N/A |
+| 18 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 19 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 20 | [Exact](http://twitter.com/search?q=Exact) | N/A |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 22 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 23 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
 | 24 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 25 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 26 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 27 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 28 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 29 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 30 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 31 | [Soldaten](http://twitter.com/search?q=Soldaten) | N/A |
+| 25 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 26 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 27 | [#tezos](http://twitter.com/search?q=%23tezos) | N/A |
+| 28 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 29 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 30 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 31 | [Russen](http://twitter.com/search?q=Russen) | N/A |
 | 32 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
-| 33 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 34 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 35 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
-| 36 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [#tezos](http://twitter.com/search?q=%23tezos) | N/A |
-| 39 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
-| 40 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 41 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 42 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 43 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 44 | [Energie](http://twitter.com/search?q=Energie) | N/A |
-| 45 | [Raum](http://twitter.com/search?q=Raum) | N/A |
-| 46 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 47 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 48 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
+| 33 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 34 | [Interesse](http://twitter.com/search?q=Interesse) | N/A |
+| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 36 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 37 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 38 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
+| 39 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
+| 40 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
+| 41 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 42 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 43 | [Raum](http://twitter.com/search?q=Raum) | N/A |
+| 44 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 45 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 46 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 47 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-04 14:17:13 UTC`
+📆 Last Updated: `2023-02-04 15:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
-| 2 | [#D7LoveAt1stSightBB](http://twitter.com/search?q=%23D7LoveAt1stSightBB) | #D7LoveAt1stSightBB is a hashtag used to promote the upcoming album from the South Korean boy band, BTS. The hashtag stands for "Dynamite Love at First Sight BTS Edition". |
-| 3 | [#JeffLiveOnSaturnJKT](http://twitter.com/search?q=%23JeffLiveOnSaturnJKT) | N/A |
-| 4 | [#DemandJusticeForBuild](http://twitter.com/search?q=%23DemandJusticeForBuild) | #DemandJusticeForBuild is a hashtag used to call for justice for the victims of the 2017 Grenfell Tower fire in London, England. The hashtag is used to draw attention to the lack of accountability and justice for those affected by the tragedy. It is also used to demand that those responsible be held accountable and that the victims receive proper compensation. |
-| 5 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 6 | [#방탄소년단뷔](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%eb%b7%94) | N/A |
-| 7 | [làm 1 ly soju không jimin](http://twitter.com/search?q=l%c3%a0m+1+ly+soju+kh%c3%b4ng+jimin) | N/A |
-| 8 | [IsekaiBattle Ticket](http://twitter.com/search?q=IsekaiBattle+Ticket) | N/A |
-| 9 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
-| 10 | [Chua](http://twitter.com/search?q=Chua) | N/A |
-| 11 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | 4th BIRTHDAY PHIBALLS is a type of party game that is popular in Japan. It involves throwing small balls at a target and trying to hit it. The game is usually played on the fourth birthday of a child, hence the name. The English translation of 4th BIRTHDAY PHIBALLS would be "Fourth Birthday Ball Toss". |
-| 12 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 13 | [XANA PENPENZ](http://twitter.com/search?q=XANA+PENPENZ) | N/A |
-| 14 | [$uqc](http://twitter.com/search?q=%24uqc) | N/A |
-| 15 | [Roblox](http://twitter.com/search?q=Roblox) | N/A |
-| 16 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 17 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 19 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 20 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 21 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 22 | [America](http://twitter.com/search?q=America) | N/A |
-| 23 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 24 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
-| 25 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 26 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 27 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
-| 28 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
-| 29 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 30 | [Let's Go](http://twitter.com/search?q=Let%27s+Go) | N/A |
-| 31 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 32 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 33 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 34 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 36 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 37 | [Daikin](http://twitter.com/search?q=Daikin) | N/A |
-| 38 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 39 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 40 | [boshu](http://twitter.com/search?q=boshu) | N/A |
-| 41 | [Tiếc](http://twitter.com/search?q=Ti%e1%ba%bfc) | N/A |
-| 42 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 43 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 44 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 45 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 46 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
-| 49 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
-| 50 | [thương](http://twitter.com/search?q=th%c6%b0%c6%a1ng) | N/A |
+| 2 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
+| 3 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
+| 4 | [#배켜니_보답_받을준비완료](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%eb%b3%b4%eb%8b%b5_%eb%b0%9b%ec%9d%84%ec%a4%80%eb%b9%84%ec%99%84%eb%a3%8c) | "#배켜니_보답_받을준비완료" is a hashtag used on social media in South Korea. It translates to "Ready to receive a response from Baekeuni". Baekeuni is a popular South Korean singer and the hashtag is used by her fans to show their support and anticipation for her upcoming releases. |
+| 5 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
+| 6 | [HAPPY BIRTHDAY TAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEHYUN) | N/A |
+| 7 | [TAEHYUNG CHO EM ĂN DÂU VỚI](http://twitter.com/search?q=TAEHYUNG+CHO+EM+%c4%82N+D%c3%82U+V%e1%bb%9aI) | N/A |
+| 8 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
+| 9 | [IsekaiBattle Ticket](http://twitter.com/search?q=IsekaiBattle+Ticket) | N/A |
+| 10 | [làm 1 ly soju không jimin](http://twitter.com/search?q=l%c3%a0m+1+ly+soju+kh%c3%b4ng+jimin) | N/A |
+| 11 | [seojins world star v](http://twitter.com/search?q=seojins+world+star+v) | N/A |
+| 12 | [chua](http://twitter.com/search?q=chua) | N/A |
+| 13 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | 4th BIRTHDAY PHIBALLS is a type of party game that is popular in Japan. It involves throwing small balls at a target and trying to hit it. The game is usually played on the fourth birthday of a child, hence the name. The English translation of 4th BIRTHDAY PHIBALLS would be "Fourth Birthday Ball Toss". |
+| 14 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 15 | [XANA PENPENZ](http://twitter.com/search?q=XANA+PENPENZ) | N/A |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [$uqc](http://twitter.com/search?q=%24uqc) | N/A |
+| 18 | [Roblox](http://twitter.com/search?q=Roblox) | N/A |
+| 19 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 20 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 22 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 23 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 24 | [America](http://twitter.com/search?q=America) | N/A |
+| 25 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 26 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 27 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 28 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 29 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
+| 30 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 31 | [Let's Go](http://twitter.com/search?q=Let%27s+Go) | N/A |
+| 32 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 34 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 35 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 36 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 38 | [daikin](http://twitter.com/search?q=daikin) | N/A |
+| 39 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 40 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
+| 41 | [boshu](http://twitter.com/search?q=boshu) | N/A |
+| 42 | [Tiếc](http://twitter.com/search?q=Ti%e1%ba%bfc) | N/A |
+| 43 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 44 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 45 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 46 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 47 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 48 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
 
 
 

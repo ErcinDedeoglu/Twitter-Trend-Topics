@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-04 14:17:36 UTC`
+📆 Last Updated: `2023-02-04 15:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
-| 2 | [#FCKKSV](http://twitter.com/search?q=%23FCKKSV) | N/A |
-| 3 | [#SSVDSC](http://twitter.com/search?q=%23SSVDSC) | N/A |
-| 4 | [#EBSFCH](http://twitter.com/search?q=%23EBSFCH) | N/A |
-| 5 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 6 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 7 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 8 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 9 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 10 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 11 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 12 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
-| 13 | [Boyd](http://twitter.com/search?q=Boyd) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 16 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 17 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 18 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 19 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 21 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
-| 22 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 23 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 24 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 25 | [Über den Wolken](http://twitter.com/search?q=%c3%9cber+den+Wolken) | N/A |
-| 26 | [Manuel Neuer](http://twitter.com/search?q=Manuel+Neuer) | N/A |
-| 27 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
-| 28 | [Dispo](http://twitter.com/search?q=Dispo) | N/A |
-| 29 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 30 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 31 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 32 | [Faktenfuchs](http://twitter.com/search?q=Faktenfuchs) | N/A |
-| 33 | [Grundängsten](http://twitter.com/search?q=Grund%c3%a4ngsten) | N/A |
-| 34 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
-| 35 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 36 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 37 | [Lautern](http://twitter.com/search?q=Lautern) | N/A |
-| 38 | [Asta](http://twitter.com/search?q=Asta) | N/A |
-| 39 | [Hahn](http://twitter.com/search?q=Hahn) | N/A |
-| 40 | [Ismail Tipi](http://twitter.com/search?q=Ismail+Tipi) | N/A |
-| 41 | [Taxifahrer](http://twitter.com/search?q=Taxifahrer) | N/A |
-| 42 | [jägerschnitzel](http://twitter.com/search?q=j%c3%a4gerschnitzel) | N/A |
-| 43 | [März 2020](http://twitter.com/search?q=M%c3%a4rz+2020) | N/A |
-| 44 | [Verkehrsschilder](http://twitter.com/search?q=Verkehrsschilder) | N/A |
-| 45 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 46 | [flugzeugträger](http://twitter.com/search?q=flugzeugtr%c3%a4ger) | N/A |
-| 47 | [Regensburg](http://twitter.com/search?q=Regensburg) | N/A |
-| 48 | [Innenministerin](http://twitter.com/search?q=Innenministerin) | N/A |
-| 49 | [Braunschweig](http://twitter.com/search?q=Braunschweig) | N/A |
-| 50 | [Führung](http://twitter.com/search?q=F%c3%bchrung) | N/A |
+| 1 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
+| 2 | [#SGEBSC](http://twitter.com/search?q=%23SGEBSC) | N/A |
+| 3 | [#BOCTSG](http://twitter.com/search?q=%23BOCTSG) | N/A |
+| 4 | [#KOERBL](http://twitter.com/search?q=%23KOERBL) | N/A |
+| 5 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 6 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 7 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 8 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 9 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 11 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 12 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 14 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 15 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 16 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 17 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 18 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 19 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 20 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
+| 21 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 22 | [Freiburger](http://twitter.com/search?q=Freiburger) | N/A |
+| 23 | [Guerreiro](http://twitter.com/search?q=Guerreiro) | N/A |
+| 24 | [Boyd](http://twitter.com/search?q=Boyd) | N/A |
+| 25 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 26 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 27 | [Fingerspitzengefühl](http://twitter.com/search?q=Fingerspitzengef%c3%bchl) | N/A |
+| 28 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 29 | [Mittelkreis](http://twitter.com/search?q=Mittelkreis) | N/A |
+| 30 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 31 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 32 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 33 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 34 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
+| 35 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 36 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 37 | [Über den Wolken](http://twitter.com/search?q=%c3%9cber+den+Wolken) | N/A |
+| 38 | [Manuel Neuer](http://twitter.com/search?q=Manuel+Neuer) | N/A |
+| 39 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 40 | [Dispo](http://twitter.com/search?q=Dispo) | N/A |
+| 41 | [Grundängsten](http://twitter.com/search?q=Grund%c3%a4ngsten) | N/A |
+| 42 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 43 | [Lautern](http://twitter.com/search?q=Lautern) | N/A |
+| 44 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 45 | [Faktenfuchs](http://twitter.com/search?q=Faktenfuchs) | N/A |
+| 46 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 47 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 48 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 49 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 50 | [Asta](http://twitter.com/search?q=Asta) | N/A |
 
 
 
