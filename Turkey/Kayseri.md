@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-04 01:43:46 UTC`
+📆 Last Updated: `2023-02-04 02:34:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BeşiktaşTümTaşlardanAğırdır](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9fT%c3%bcmTa%c5%9flardanA%c4%9f%c4%b1rd%c4%b1r) | "#BeşiktaşTümTaşlardanAğırdır" is a hashtag used by fans of the Turkish football club Beşiktaş. It translates to "Beşiktaş is heavier than all stones". It is a slogan used to express the strength and loyalty of the team's supporters. |
-| 2 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 3 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 4 | [#AcilEkZam](http://twitter.com/search?q=%23AcilEkZam) | N/A |
-| 5 | [#StajMemleketMeselesi](http://twitter.com/search?q=%23StajMemleketMeselesi) | N/A |
-| 6 | [Admin](http://twitter.com/search?q=Admin) | N/A |
-| 7 | [Merkür](http://twitter.com/search?q=Merk%c3%bcr) | N/A |
-| 8 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 9 | [İnat TV](http://twitter.com/search?q=%c4%b0nat+TV) | N/A |
-| 10 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 11 | [Vermiyorum](http://twitter.com/search?q=Vermiyorum) | N/A |
-| 12 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 13 | [Galatasaraylıyım](http://twitter.com/search?q=Galatasarayl%c4%b1y%c4%b1m) | N/A |
-| 14 | [Yeniden Refah Partisi](http://twitter.com/search?q=Yeniden+Refah+Partisi) | N/A |
-| 15 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 16 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 17 | [Ünal Çetin](http://twitter.com/search?q=%c3%9cnal+%c3%87etin) | Ünal Çetin is a Turkish name. It is composed of two words: Ünal, which means "eternal" or "everlasting," and Çetin, which means "strong" or "tough." In English, the name Ünal Çetin can be translated to mean "Eternal Strength." |
-| 18 | [Alper Bahadır](http://twitter.com/search?q=Alper+Bahad%c4%b1r) | N/A |
-| 19 | [Bülent Uslu](http://twitter.com/search?q=B%c3%bclent+Uslu) | N/A |
-| 20 | [Rezilsin YarenDag](http://twitter.com/search?q=Rezilsin+YarenDag) | Rezilsin YarenDag is a Turkish phrase that translates to "Friendship Day" in English. It is a day of celebration and appreciation for friends and the special bond of friendship. |
-| 21 | [Jimnastik](http://twitter.com/search?q=Jimnastik) | N/A |
-| 22 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 23 | [Kazım](http://twitter.com/search?q=Kaz%c4%b1m) | Kazım is a Turkish name, derived from the Arabic name Kazim. It means "one who controls his anger". |
-| 24 | [MustafaBaşere Adalet](http://twitter.com/search?q=MustafaBa%c5%9fere+Adalet) | N/A |
-| 25 | [Sapla](http://twitter.com/search?q=Sapla) | N/A |
-| 26 | [Haysiyet](http://twitter.com/search?q=Haysiyet) | N/A |
-| 27 | [KOL BOZUK](http://twitter.com/search?q=KOL+BOZUK) | N/A |
-| 28 | [Tutmayın](http://twitter.com/search?q=Tutmay%c4%b1n) | N/A |
-| 29 | [#HÜDAPAR](http://twitter.com/search?q=%23H%c3%9cDAPAR) | N/A |
-| 30 | [#Ankara](http://twitter.com/search?q=%23Ankara) | N/A |
-| 31 | [#SıcakKafa](http://twitter.com/search?q=%23S%c4%b1cakKafa) | N/A |
-| 32 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
-| 33 | [#sampiyoncimbomyazdiracagiz](http://twitter.com/search?q=%23sampiyoncimbomyazdiracagiz) | N/A |
-| 34 | [#KendineGelGhbg](http://twitter.com/search?q=%23KendineGelGhbg) | N/A |
-| 35 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 36 | [#SGKEylemde](http://twitter.com/search?q=%23SGKEylemde) | N/A |
-| 37 | [#ileri3lü](http://twitter.com/search?q=%23ileri3l%c3%bc) | N/A |
-| 38 | [#YarınRivadayız](http://twitter.com/search?q=%23Yar%c4%b1nRivaday%c4%b1z) | N/A |
-| 39 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
-| 40 | [#Aşkİtirafı](http://twitter.com/search?q=%23A%c5%9fk%c4%b0tiraf%c4%b1) | N/A |
-| 41 | [#Dolunay](http://twitter.com/search?q=%23Dolunay) | N/A |
-| 42 | [#ilhanşen](http://twitter.com/search?q=%23ilhan%c5%9fen) | N/A |
-| 43 | [#oyyok](http://twitter.com/search?q=%23oyyok) | N/A |
-| 44 | [#aysenursinirdisiedilsin](http://twitter.com/search?q=%23aysenursinirdisiedilsin) | N/A |
-| 45 | [#HikayedeKalmasın](http://twitter.com/search?q=%23HikayedeKalmas%c4%b1n) | N/A |
-| 46 | [#ÇokOluyoruz](http://twitter.com/search?q=%23%c3%87okOluyoruz) | N/A |
-| 47 | [#AliPALABIYIK](http://twitter.com/search?q=%23AliPALABIYIK) | N/A |
-| 48 | [#Adaletimsi](http://twitter.com/search?q=%23Adaletimsi) | N/A |
-| 49 | [#ateşkuşları](http://twitter.com/search?q=%23ate%c5%9fku%c5%9flar%c4%b1) | N/A |
-| 50 | [#borsakahini](http://twitter.com/search?q=%23borsakahini) | N/A |
+| 2 | [#ŞampiyonCimbomYazdıracağız](http://twitter.com/search?q=%23%c5%9eampiyonCimbomYazd%c4%b1raca%c4%9f%c4%b1z) | #ŞampiyonCimbomYazdıracağız is a hashtag used by supporters of the Turkish football club Galatasaray. It translates to "We will make Galatasaray champions". |
+| 3 | [#OyumAdil100BinAtamaya](http://twitter.com/search?q=%23OyumAdil100BinAtamaya) | N/A |
+| 4 | [Ali Palabıyık](http://twitter.com/search?q=Ali+Palab%c4%b1y%c4%b1k) | Ali Palabıyık is a Turkish folktale about a young man named Ali who is tricked by a fox. The story tells of how Ali is tricked into giving away his possessions and how he eventually outwits the fox. In English, the phrase "Ali Palabıyık" translates to "Ali the Trickster". |
+| 5 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
+| 6 | [#AcilEkZam](http://twitter.com/search?q=%23AcilEkZam) | N/A |
+| 7 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
+| 8 | [#AdanadaOperasyonVAR](http://twitter.com/search?q=%23AdanadaOperasyonVAR) | #AdanadaOperasyonVAR is a hashtag used to promote the Adana Operation, a Turkish military operation in Syria. The hashtag translates to "Adana Operation is Here" in English. |
+| 9 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
+| 10 | [Alanya](http://twitter.com/search?q=Alanya) | Alanya is a city and resort on the southern coast of Turkey. It is located in the province of Antalya and is a popular tourist destination. The name Alanya comes from the Arabic word for "peninsula" or "island". In English, it can be translated to mean "Island of the Sun". |
+| 11 | [ebruçimen osurdu](http://twitter.com/search?q=ebru%c3%a7imen+osurdu) | N/A |
+| 12 | [İmarBarışı Komisyonda](http://twitter.com/search?q=%c4%b0marBar%c4%b1%c5%9f%c4%b1+Komisyonda) | İmarBarışı Komisyonda is a commission established in Turkey to resolve disputes between property owners and local authorities over the construction of buildings. The commission's purpose is to ensure that all parties involved in a dispute are able to reach an agreement that is fair and equitable for all. The English translation of İmarBarışı Komisyonda is the Construction Peace Commission. |
+| 13 | [gençlikpaketi 35yaşekle](http://twitter.com/search?q=gen%c3%a7likpaketi+35ya%c5%9fekle) | N/A |
+| 14 | [Rezilsin YarenDag](http://twitter.com/search?q=Rezilsin+YarenDag) | Rezilsin YarenDag is a Turkish phrase that translates to "Friendship Day" in English. It is a day of celebration and appreciation for friends and the special bond of friendship. |
+| 15 | [Ligden](http://twitter.com/search?q=Ligden) | Ligden is a Tibetan Buddhist term that refers to the process of liberation from the cycle of death and rebirth. It is the goal of many Buddhists to achieve this state, which is seen as a form of enlightenment. In English, it can be translated as "liberation from samsara". |
+| 16 | [Aziz Yıldırım](http://twitter.com/search?q=Aziz+Y%c4%b1ld%c4%b1r%c4%b1m) | Aziz Yıldırım is a Turkish name, with Aziz meaning "honored" and Yıldırım meaning "thunder". In English, the name would translate to "Honored Thunder". |
+| 17 | [Seninleyiz TuğçeAleyna](http://twitter.com/search?q=Seninleyiz+Tu%c4%9f%c3%a7eAleyna) | Seninleyiz TuğçeAleyna is a Turkish phrase that translates to "We are with you, TuğçeAleyna." It is a phrase of support and encouragement. |
+| 18 | [cbziraate sahipcik](http://twitter.com/search?q=cbziraate+sahipcik) | N/A |
+| 19 | [Ümit Özlale](http://twitter.com/search?q=%c3%9cmit+%c3%96zlale) | Ümit Özlale is a Turkish name, composed of two words: "Ümit" and "Özlale". "Ümit" means "hope" in Turkish, while "Özlale" is a combination of the words "öz" (meaning "self") and "lale" (meaning "tulip"). Therefore, the literal translation of Ümit Özlale is "Hope Tulip". |
+| 20 | [Hakemlerde](http://twitter.com/search?q=Hakemlerde) | N/A |
+| 21 | [Mert Hakan](http://twitter.com/search?q=Mert+Hakan) | Mert Hakan is a Turkish name, composed of two parts: Mert, which means brave or courageous, and Hakan, which means ruler or leader. In English, the name Mert Hakan can be translated to mean Brave Leader. |
+| 22 | [KOL BOZUK](http://twitter.com/search?q=KOL+BOZUK) | N/A |
+| 23 | [Admin](http://twitter.com/search?q=Admin) | N/A |
+| 24 | [Ünal Çetin](http://twitter.com/search?q=%c3%9cnal+%c3%87etin) | Ünal Çetin is a Turkish name. It is composed of two words: Ünal, which means "eternal" or "everlasting," and Çetin, which means "strong" or "tough." In English, the name Ünal Çetin can be translated to mean "Eternal Strength." |
+| 25 | [Uğur](http://twitter.com/search?q=U%c4%9fur) | N/A |
+| 26 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
+| 27 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 28 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
+| 29 | [Merkür](http://twitter.com/search?q=Merk%c3%bcr) | N/A |
+| 30 | [Haysiyet](http://twitter.com/search?q=Haysiyet) | N/A |
+| 31 | [aydos kalesi](http://twitter.com/search?q=aydos+kalesi) | N/A |
+| 32 | [Enag](http://twitter.com/search?q=Enag) | N/A |
+| 33 | [kerim rahmi koç](http://twitter.com/search?q=kerim+rahmi+ko%c3%a7) | N/A |
+| 34 | [takımı](http://twitter.com/search?q=tak%c4%b1m%c4%b1) | N/A |
+| 35 | [Erkan Özdamar](http://twitter.com/search?q=Erkan+%c3%96zdamar) | Erkan Özdamar is a Turkish-German actor, director, and playwright. His name translates to "Erkan the Brave" in English. |
+| 36 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
+| 37 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
+| 38 | [Ligi](http://twitter.com/search?q=Ligi) | N/A |
+| 39 | [İETT](http://twitter.com/search?q=%c4%b0ETT) | N/A |
+| 40 | [Vermiyorum](http://twitter.com/search?q=Vermiyorum) | N/A |
+| 41 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
+| 42 | [Tüik](http://twitter.com/search?q=T%c3%bcik) | N/A |
+| 43 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
+| 44 | [Ayrıcalık](http://twitter.com/search?q=Ayr%c4%b1cal%c4%b1k) | N/A |
+| 45 | [Şike](http://twitter.com/search?q=%c5%9eike) | N/A |
+| 46 | [ÜLKÜ BİZİM TÖRE BİZİM](http://twitter.com/search?q=%c3%9cLK%c3%9c+B%c4%b0Z%c4%b0M+T%c3%96RE+B%c4%b0Z%c4%b0M) | N/A |
+| 47 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 48 | [Çekilin](http://twitter.com/search?q=%c3%87ekilin) | N/A |
+| 49 | [3 Temmuz](http://twitter.com/search?q=3+Temmuz) | N/A |
+| 50 | [İnat TV](http://twitter.com/search?q=%c4%b0nat+TV) | N/A |
 
 
 

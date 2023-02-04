@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-04 01:43:58 UTC`
+📆 Last Updated: `2023-02-04 02:35:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Latvia
 | ------- | ------------ | ------------ |
 | 1 | [kijivā](http://twitter.com/search?q=kijiv%c4%81) | N/A |
 | 2 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 3 | [PMLP](http://twitter.com/search?q=PMLP) | N/A |
-| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 5 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
-| 6 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 7 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
-| 8 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 9 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | N/A |
-| 10 | [Viņiem](http://twitter.com/search?q=Vi%c5%86iem) | N/A |
-| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 12 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 13 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 14 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
-| 15 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
-| 16 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 17 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 18 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
+| 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 4 | [PMLP](http://twitter.com/search?q=PMLP) | N/A |
+| 5 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 6 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
+| 7 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 8 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 9 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
+| 10 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | N/A |
+| 11 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
+| 12 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
+| 13 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 14 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
+| 15 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 16 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
+| 17 | [avenu](http://twitter.com/search?q=avenu) | N/A |
+| 18 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 19 | [vairāk](http://twitter.com/search?q=vair%c4%81k) | N/A |
 | 20 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
-| 21 | [Latvian](http://twitter.com/search?q=Latvian) | N/A |
-| 22 | [Nevaru](http://twitter.com/search?q=Nevaru) | N/A |
-| 23 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
-| 24 | [psrs](http://twitter.com/search?q=psrs) | N/A |
-| 25 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 26 | [nopietni](http://twitter.com/search?q=nopietni) | N/A |
-| 27 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 21 | [Nevaru](http://twitter.com/search?q=Nevaru) | N/A |
+| 22 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
+| 23 | [psrs](http://twitter.com/search?q=psrs) | N/A |
+| 24 | [nopietni](http://twitter.com/search?q=nopietni) | N/A |
+| 25 | [Latvian](http://twitter.com/search?q=Latvian) | N/A |
+| 26 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
+| 27 | [nekas](http://twitter.com/search?q=nekas) | N/A |
 | 28 | [polijas](http://twitter.com/search?q=polijas) | N/A |
-| 29 | [vācijas](http://twitter.com/search?q=v%c4%81cijas) | N/A |
-| 30 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 31 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 32 | [nekas](http://twitter.com/search?q=nekas) | N/A |
-| 33 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 34 | [#tonsilstones](http://twitter.com/search?q=%23tonsilstones) | N/A |
-| 35 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 36 | [cerams](http://twitter.com/search?q=cerams) | N/A |
-| 37 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 38 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 39 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
-| 40 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
-| 41 | [Interesanti](http://twitter.com/search?q=Interesanti) | N/A |
-| 42 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 43 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 44 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
-| 45 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
-| 46 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
-| 47 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
-| 48 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
-| 49 | [Kādas](http://twitter.com/search?q=K%c4%81das) | N/A |
-| 50 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 29 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 30 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 31 | [cerams](http://twitter.com/search?q=cerams) | N/A |
+| 32 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 33 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
+| 34 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
+| 35 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 36 | [Eiropas Savienības](http://twitter.com/search?q=Eiropas+Savien%c4%abbas) | N/A |
+| 37 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
+| 38 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 39 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 40 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 41 | [#crypto](http://twitter.com/search?q=%23crypto) | N/A |
+| 42 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 43 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
+| 44 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
+| 45 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 46 | [interesanti](http://twitter.com/search?q=interesanti) | N/A |
+| 47 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
+| 48 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
+| 49 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
+| 50 | [#esfondi](http://twitter.com/search?q=%23esfondi) | N/A |
 
 
 

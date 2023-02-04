@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-04 01:43:46 UTC`
+📆 Last Updated: `2023-02-04 02:34:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [New Zealand](</New Zealand>)
 | ------- | ------------ | ------------ |
 | 1 | [Waitangi](http://twitter.com/search?q=Waitangi) | N/A |
 | 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 3 | [#mvcvwel](http://twitter.com/search?q=%23mvcvwel) | N/A |
+| 3 | [#MVCvWEL](http://twitter.com/search?q=%23MVCvWEL) | N/A |
 | 4 | [Fran](http://twitter.com/search?q=Fran) | N/A |
 | 5 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 6 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 7 | [james shaw](http://twitter.com/search?q=james+shaw) | N/A |
+| 6 | [james shaw](http://twitter.com/search?q=james+shaw) | N/A |
+| 7 | [Jane](http://twitter.com/search?q=Jane) | N/A |
 | 8 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
-| 9 | [PTOM](http://twitter.com/search?q=PTOM) | N/A |
-| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 11 | [Gore](http://twitter.com/search?q=Gore) | N/A |
+| 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 10 | [PTOM](http://twitter.com/search?q=PTOM) | N/A |
+| 11 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
 | 12 | [wellington central](http://twitter.com/search?q=wellington+central) | N/A |
-| 13 | [Careful](http://twitter.com/search?q=Careful) | N/A |
-| 14 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 15 | [#SuperSmashNZ](http://twitter.com/search?q=%23SuperSmashNZ) | N/A |
-| 16 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 17 | [Maisie](http://twitter.com/search?q=Maisie) | N/A |
-| 18 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 19 | [#literaryfiction](http://twitter.com/search?q=%23literaryfiction) | N/A |
-| 20 | [Human Rights Commission](http://twitter.com/search?q=Human+Rights+Commission) | N/A |
-| 21 | [rushton roulette](http://twitter.com/search?q=rushton+roulette) | N/A |
-| 22 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 13 | [Gore](http://twitter.com/search?q=Gore) | N/A |
+| 14 | [Careful](http://twitter.com/search?q=Careful) | N/A |
+| 15 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 16 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 17 | [#literaryfiction](http://twitter.com/search?q=%23literaryfiction) | N/A |
+| 18 | [#SuperSmashNZ](http://twitter.com/search?q=%23SuperSmashNZ) | N/A |
+| 19 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 20 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 21 | [Human Rights Commission](http://twitter.com/search?q=Human+Rights+Commission) | N/A |
+| 22 | [Maisie](http://twitter.com/search?q=Maisie) | N/A |
 | 23 | [tamatha paul](http://twitter.com/search?q=tamatha+paul) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 26 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
-| 27 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 28 | [NZers](http://twitter.com/search?q=NZers) | N/A |
-| 29 | [Pakeha](http://twitter.com/search?q=Pakeha) | N/A |
-| 30 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 31 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 32 | [#freeread](http://twitter.com/search?q=%23freeread) | N/A |
-| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 34 | [Whittakers](http://twitter.com/search?q=Whittakers) | N/A |
-| 35 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 36 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 37 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 38 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 39 | [Crown](http://twitter.com/search?q=Crown) | N/A |
-| 40 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 41 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 42 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 43 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Ilam](http://twitter.com/search?q=Ilam) | N/A |
-| 46 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 47 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 48 | [brad olsen](http://twitter.com/search?q=brad+olsen) | N/A |
-| 49 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 24 | [rushton roulette](http://twitter.com/search?q=rushton+roulette) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 27 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
+| 28 | [pākehā](http://twitter.com/search?q=p%c4%81keh%c4%81) | N/A |
+| 29 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 30 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 31 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 32 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 33 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 34 | [NZers](http://twitter.com/search?q=NZers) | N/A |
+| 35 | [#freeread](http://twitter.com/search?q=%23freeread) | N/A |
+| 36 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 37 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 38 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 39 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 40 | [Delilah](http://twitter.com/search?q=Delilah) | N/A |
+| 41 | [America](http://twitter.com/search?q=America) | N/A |
+| 42 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 44 | [Whittakers](http://twitter.com/search?q=Whittakers) | N/A |
+| 45 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
+| 46 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 47 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
+| 48 | [palmy](http://twitter.com/search?q=palmy) | N/A |
+| 49 | [stinqy](http://twitter.com/search?q=stinqy) | N/A |
 
 
 

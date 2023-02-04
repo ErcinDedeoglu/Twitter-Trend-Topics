@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Daegu
 
-📆 Last Updated: `2023-02-04 01:43:32 UTC`
+📆 Last Updated: `2023-02-04 02:34:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Korea](</Korea>)
 | 3 | [#srr2ndwin](http://twitter.com/search?q=%23srr2ndwin) | N/A |
 | 4 | [푸슝 유료](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%ec%9c%a0%eb%a3%8c) | 푸슝 유료 is a Korean phrase that translates to "paid subscription". It is used to refer to a service or product that requires payment in order to access or use it. |
 | 5 | [한터뮤직어워즈](http://twitter.com/search?q=%ed%95%9c%ed%84%b0%eb%ae%a4%ec%a7%81%ec%96%b4%ec%9b%8c%ec%a6%88) | 한터뮤직어워즈 is an annual music award ceremony in South Korea. It is organized by Hanter Music, a major Korean music label. The awards recognize outstanding achievements in the Korean music industry, including awards for best album, best artist, best song, and more. The English translation of 한터뮤직어워즈 is Hanter Music Awards. |
-| 6 | [친한 멤버](http://twitter.com/search?q=%ec%b9%9c%ed%95%9c+%eb%a9%a4%eb%b2%84) | N/A |
-| 7 | [세븐틴의 14](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%98+14) | N/A |
-| 8 | [당신의 전생](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%a0%84%ec%83%9d) | N/A |
+| 6 | [세븐틴의 14](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4%ec%9d%98+14) | N/A |
+| 7 | [입춘대길](http://twitter.com/search?q=%ec%9e%85%ec%b6%98%eb%8c%80%ea%b8%b8) | N/A |
+| 8 | [친한 멤버](http://twitter.com/search?q=%ec%b9%9c%ed%95%9c+%eb%a9%a4%eb%b2%84) | N/A |
 | 9 | [캐치마인드](http://twitter.com/search?q=%ec%ba%90%ec%b9%98%eb%a7%88%ec%9d%b8%eb%93%9c) | N/A |
-| 10 | [입춘대길](http://twitter.com/search?q=%ec%9e%85%ec%b6%98%eb%8c%80%ea%b8%b8) | N/A |
-| 11 | [룸메이트](http://twitter.com/search?q=%eb%a3%b8%eb%a9%94%ec%9d%b4%ed%8a%b8) | N/A |
-| 12 | [#BWDNtoTaipei](http://twitter.com/search?q=%23BWDNtoTaipei) | #BWDNtoTaipei is a hashtag used by people who are traveling from Beijing to Taipei. It is used to share their experiences and photos of the journey. In English, it stands for "Beijing to Taipei". |
+| 10 | [당신의 전생](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%a0%84%ec%83%9d) | N/A |
+| 11 | [#BWDNtoTaipei](http://twitter.com/search?q=%23BWDNtoTaipei) | #BWDNtoTaipei is a hashtag used by people who are traveling from Beijing to Taipei. It is used to share their experiences and photos of the journey. In English, it stands for "Beijing to Taipei". |
+| 12 | [룸메이트](http://twitter.com/search?q=%eb%a3%b8%eb%a9%94%ec%9d%b4%ed%8a%b8) | N/A |
 | 13 | [차일드 1주년](http://twitter.com/search?q=%ec%b0%a8%ec%9d%bc%eb%93%9c+1%ec%a3%bc%eb%85%84) | N/A |
-| 14 | [데코키트](http://twitter.com/search?q=%eb%8d%b0%ec%bd%94%ed%82%a4%ed%8a%b8) | N/A |
-| 15 | [애플페이](http://twitter.com/search?q=%ec%95%a0%ed%94%8c%ed%8e%98%ec%9d%b4) | N/A |
-| 16 | [너무 일찍](http://twitter.com/search?q=%eb%84%88%eb%ac%b4+%ec%9d%bc%ec%b0%8d) | N/A |
-| 17 | [꼬들 399](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+399) | N/A |
-| 18 | [퀴어베이팅](http://twitter.com/search?q=%ed%80%b4%ec%96%b4%eb%b2%a0%ec%9d%b4%ed%8c%85) | N/A |
-| 19 | [나츠메 생일](http://twitter.com/search?q=%eb%82%98%ec%b8%a0%eb%a9%94+%ec%83%9d%ec%9d%bc) | N/A |
-| 20 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
+| 14 | [에스크로](http://twitter.com/search?q=%ec%97%90%ec%8a%a4%ed%81%ac%eb%a1%9c) | N/A |
+| 15 | [데코키트](http://twitter.com/search?q=%eb%8d%b0%ec%bd%94%ed%82%a4%ed%8a%b8) | N/A |
+| 16 | [애플페이](http://twitter.com/search?q=%ec%95%a0%ed%94%8c%ed%8e%98%ec%9d%b4) | N/A |
+| 17 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
+| 18 | [꼬들 399](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+399) | N/A |
+| 19 | [퀴어베이팅](http://twitter.com/search?q=%ed%80%b4%ec%96%b4%eb%b2%a0%ec%9d%b4%ed%8c%85) | N/A |
+| 20 | [코드 네임](http://twitter.com/search?q=%ec%bd%94%eb%93%9c+%eb%84%a4%ec%9e%84) | N/A |
 | 21 | [정월대보름](http://twitter.com/search?q=%ec%a0%95%ec%9b%94%eb%8c%80%eb%b3%b4%eb%a6%84) | N/A |
-| 22 | [생일 축하](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc+%ec%b6%95%ed%95%98) | N/A |
-| 23 | [홍대 오시](http://twitter.com/search?q=%ed%99%8d%eb%8c%80+%ec%98%a4%ec%8b%9c) | N/A |
-| 24 | [푸슝 답장](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%eb%8b%b5%ec%9e%a5) | N/A |
-| 25 | [에스크로](http://twitter.com/search?q=%ec%97%90%ec%8a%a4%ed%81%ac%eb%a1%9c) | N/A |
-| 26 | [징역 2년](http://twitter.com/search?q=%ec%a7%95%ec%97%ad+2%eb%85%84) | N/A |
-| 27 | [러쉬아워](http://twitter.com/search?q=%eb%9f%ac%ec%89%ac%ec%95%84%ec%9b%8c) | N/A |
-| 28 | [봄의 시작](http://twitter.com/search?q=%eb%b4%84%ec%9d%98+%ec%8b%9c%ec%9e%91) | N/A |
-| 29 | [보이즈플래닛](http://twitter.com/search?q=%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | 보이즈플래닛 (Boyz Planet) is a South Korean boy band formed by Staro Entertainment in 2019. The group consists of five members: J-Min, Yoo Jun, Seung Hyun, Seung Woo, and Joo Won. The group's name is a combination of the words "boy" and "planet", signifying their ambition to become a global boy band. In English, the name translates to "Boys Planet". |
-| 30 | [치킨 먹방](http://twitter.com/search?q=%ec%b9%98%ed%82%a8+%eb%a8%b9%eb%b0%a9) | N/A |
-| 31 | [호랑이 무대](http://twitter.com/search?q=%ed%98%b8%eb%9e%91%ec%9d%b4+%eb%ac%b4%eb%8c%80) | N/A |
-| 32 | [스민장미](http://twitter.com/search?q=%ec%8a%a4%eb%af%bc%ec%9e%a5%eb%af%b8) | N/A |
-| 33 | [졸업 축하](http://twitter.com/search?q=%ec%a1%b8%ec%97%85+%ec%b6%95%ed%95%98) | N/A |
-| 34 | [까까머리](http://twitter.com/search?q=%ea%b9%8c%ea%b9%8c%eb%a8%b8%eb%a6%ac) | N/A |
-| 35 | [아주 아주](http://twitter.com/search?q=%ec%95%84%ec%a3%bc+%ec%95%84%ec%a3%bc) | N/A |
-| 36 | [API 유료](http://twitter.com/search?q=API+%ec%9c%a0%eb%a3%8c) | N/A |
-| 37 | [모에모에큥](http://twitter.com/search?q=%eb%aa%a8%ec%97%90%eb%aa%a8%ec%97%90%ed%81%a5) | N/A |
-| 38 | [법정구속](http://twitter.com/search?q=%eb%b2%95%ec%a0%95%ea%b5%ac%ec%86%8d) | N/A |
-| 39 | [볼다이크](http://twitter.com/search?q=%eb%b3%bc%eb%8b%a4%ec%9d%b4%ed%81%ac) | N/A |
-| 40 | [파라노이아](http://twitter.com/search?q=%ed%8c%8c%eb%9d%bc%eb%85%b8%ec%9d%b4%ec%95%84) | N/A |
-| 41 | [신분당선](http://twitter.com/search?q=%ec%8b%a0%eb%b6%84%eb%8b%b9%ec%84%a0) | N/A |
-| 42 | [님캐와 내캐](http://twitter.com/search?q=%eb%8b%98%ec%ba%90%ec%99%80+%eb%82%b4%ec%ba%90) | N/A |
-| 43 | [뮤뱅 1위](http://twitter.com/search?q=%eb%ae%a4%eb%b1%85+1%ec%9c%84) | N/A |
-| 44 | [랜덤질문](http://twitter.com/search?q=%eb%9e%9c%eb%8d%a4%ec%a7%88%eb%ac%b8) | N/A |
-| 45 | [시그 엠디](http://twitter.com/search?q=%ec%8b%9c%ea%b7%b8+%ec%97%a0%eb%94%94) | N/A |
-| 46 | [본디 친구](http://twitter.com/search?q=%eb%b3%b8%eb%94%94+%ec%b9%9c%ea%b5%ac) | N/A |
-| 47 | [입시비리](http://twitter.com/search?q=%ec%9e%85%ec%8b%9c%eb%b9%84%eb%a6%ac) | N/A |
-| 48 | [시그포토팩](http://twitter.com/search?q=%ec%8b%9c%ea%b7%b8%ed%8f%ac%ed%86%a0%ed%8c%a9) | 시그포토팩 (sig-po-to-pak) is a Korean term for a type of photo package. It is a combination of the words "signature" and "photo," and it refers to a package of photos that are printed with the customer's name or signature on them. The purpose of this type of package is to provide customers with a unique and personalized way to display their photos. In English, it can be translated as "Signature Photo Package." |
+| 22 | [이능력 설명](http://twitter.com/search?q=%ec%9d%b4%eb%8a%a5%eb%a0%a5+%ec%84%a4%eb%aa%85) | N/A |
+| 23 | [나츠메 생일](http://twitter.com/search?q=%eb%82%98%ec%b8%a0%eb%a9%94+%ec%83%9d%ec%9d%bc) | N/A |
+| 24 | [당신의 이능력](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%9d%b4%eb%8a%a5%eb%a0%a5) | N/A |
+| 25 | [푸슝 답장](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%eb%8b%b5%ec%9e%a5) | N/A |
+| 26 | [이능력 등급](http://twitter.com/search?q=%ec%9d%b4%eb%8a%a5%eb%a0%a5+%eb%93%b1%ea%b8%89) | N/A |
+| 27 | [징역 2년](http://twitter.com/search?q=%ec%a7%95%ec%97%ad+2%eb%85%84) | N/A |
+| 28 | [홍대 오시](http://twitter.com/search?q=%ed%99%8d%eb%8c%80+%ec%98%a4%ec%8b%9c) | N/A |
+| 29 | [러쉬아워](http://twitter.com/search?q=%eb%9f%ac%ec%89%ac%ec%95%84%ec%9b%8c) | N/A |
+| 30 | [너무 일찍](http://twitter.com/search?q=%eb%84%88%eb%ac%b4+%ec%9d%bc%ec%b0%8d) | N/A |
+| 31 | [신분당선](http://twitter.com/search?q=%ec%8b%a0%eb%b6%84%eb%8b%b9%ec%84%a0) | N/A |
+| 32 | [생일 축하](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc+%ec%b6%95%ed%95%98) | N/A |
+| 33 | [치킨 먹방](http://twitter.com/search?q=%ec%b9%98%ed%82%a8+%eb%a8%b9%eb%b0%a9) | N/A |
+| 34 | [보이즈플래닛](http://twitter.com/search?q=%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | 보이즈플래닛 (Boyz Planet) is a South Korean boy band formed by Staro Entertainment in 2019. The group consists of five members: J-Min, Yoo Jun, Seung Hyun, Seung Woo, and Joo Won. The group's name is a combination of the words "boy" and "planet", signifying their ambition to become a global boy band. In English, the name translates to "Boys Planet". |
+| 35 | [호랑이 무대](http://twitter.com/search?q=%ed%98%b8%eb%9e%91%ec%9d%b4+%eb%ac%b4%eb%8c%80) | N/A |
+| 36 | [까까머리](http://twitter.com/search?q=%ea%b9%8c%ea%b9%8c%eb%a8%b8%eb%a6%ac) | N/A |
+| 37 | [스민장미](http://twitter.com/search?q=%ec%8a%a4%eb%af%bc%ec%9e%a5%eb%af%b8) | N/A |
+| 38 | [봄의 시작](http://twitter.com/search?q=%eb%b4%84%ec%9d%98+%ec%8b%9c%ec%9e%91) | N/A |
+| 39 | [파라노이아](http://twitter.com/search?q=%ed%8c%8c%eb%9d%bc%eb%85%b8%ec%9d%b4%ec%95%84) | N/A |
+| 40 | [모에모에큥](http://twitter.com/search?q=%eb%aa%a8%ec%97%90%eb%aa%a8%ec%97%90%ed%81%a5) | N/A |
+| 41 | [법정구속](http://twitter.com/search?q=%eb%b2%95%ec%a0%95%ea%b5%ac%ec%86%8d) | N/A |
+| 42 | [볼다이크](http://twitter.com/search?q=%eb%b3%bc%eb%8b%a4%ec%9d%b4%ed%81%ac) | N/A |
+| 43 | [졸업 축하](http://twitter.com/search?q=%ec%a1%b8%ec%97%85+%ec%b6%95%ed%95%98) | N/A |
+| 44 | [돌프리마켓](http://twitter.com/search?q=%eb%8f%8c%ed%94%84%eb%a6%ac%eb%a7%88%ec%bc%93) | N/A |
+| 45 | [랜덤질문](http://twitter.com/search?q=%eb%9e%9c%eb%8d%a4%ec%a7%88%eb%ac%b8) | N/A |
+| 46 | [API 유료](http://twitter.com/search?q=API+%ec%9c%a0%eb%a3%8c) | N/A |
+| 47 | [님캐와 내캐](http://twitter.com/search?q=%eb%8b%98%ec%ba%90%ec%99%80+%eb%82%b4%ec%ba%90) | N/A |
+| 48 | [입시비리](http://twitter.com/search?q=%ec%9e%85%ec%8b%9c%eb%b9%84%eb%a6%ac) | N/A |
 
 
 
