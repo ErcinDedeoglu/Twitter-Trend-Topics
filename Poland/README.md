@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-04 20:16:52 UTC`
+📆 Last Updated: `2023-02-04 21:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Poland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ZAGLEG](http://twitter.com/search?q=%23ZAGLEG) | N/A |
-| 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 3 | [Wszołka](http://twitter.com/search?q=Wszo%c5%82ka) | N/A |
+| 2 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 3 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
 | 4 | [#GORLGD](http://twitter.com/search?q=%23GORLGD) | N/A |
-| 5 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 5 | [Muci](http://twitter.com/search?q=Muci) | N/A |
 | 6 | [#MGP2023](http://twitter.com/search?q=%23MGP2023) | N/A |
-| 7 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
-| 8 | [Muci](http://twitter.com/search?q=Muci) | N/A |
+| 7 | [Wszołka](http://twitter.com/search?q=Wszo%c5%82ka) | N/A |
+| 8 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
 | 9 | [VARze](http://twitter.com/search?q=VARze) | N/A |
-| 10 | [#famemma17](http://twitter.com/search?q=%23famemma17) | N/A |
-| 11 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
+| 10 | [Baku](http://twitter.com/search?q=Baku) | N/A |
+| 11 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
 | 12 | [Zabrzu](http://twitter.com/search?q=Zabrzu) | N/A |
-| 13 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
-| 14 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 15 | [Lubinie](http://twitter.com/search?q=Lubinie) | N/A |
-| 16 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 17 | [Strzałek](http://twitter.com/search?q=Strza%c5%82ek) | N/A |
-| 18 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
-| 19 | [Pia Skrzyszowska](http://twitter.com/search?q=Pia+Skrzyszowska) | N/A |
-| 20 | [Sylwestrzak](http://twitter.com/search?q=Sylwestrzak) | N/A |
-| 21 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 22 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
-| 23 | [Julita](http://twitter.com/search?q=Julita) | N/A |
-| 24 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 25 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
-| 26 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 27 | [Knesetu](http://twitter.com/search?q=Knesetu) | N/A |
-| 28 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 29 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
-| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 31 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 32 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 33 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 35 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
-| 36 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
-| 37 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
-| 38 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
+| 13 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 14 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
+| 15 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 16 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
+| 17 | [Jone](http://twitter.com/search?q=Jone) | N/A |
+| 18 | [Zagłębia](http://twitter.com/search?q=Zag%c5%82%c4%99bia) | N/A |
+| 19 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 20 | [Przybył](http://twitter.com/search?q=Przyby%c5%82) | N/A |
+| 21 | [Lubinie](http://twitter.com/search?q=Lubinie) | N/A |
+| 22 | [Sylwestrzak](http://twitter.com/search?q=Sylwestrzak) | N/A |
+| 23 | [Pia Skrzyszowska](http://twitter.com/search?q=Pia+Skrzyszowska) | N/A |
+| 24 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
+| 25 | [Strzałek](http://twitter.com/search?q=Strza%c5%82ek) | N/A |
+| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 27 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 28 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 29 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 30 | [Ulrikke](http://twitter.com/search?q=Ulrikke) | Ulrikke is a Scandinavian female name derived from the Old Norse name Úlfríkr, which means "wolf ruler". In English, it can be translated to mean "ruler of wolves". |
+| 31 | [Julita](http://twitter.com/search?q=Julita) | N/A |
+| 32 | [Knesetu](http://twitter.com/search?q=Knesetu) | N/A |
+| 33 | [Dawid Kubacki](http://twitter.com/search?q=Dawid+Kubacki) | N/A |
+| 34 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
+| 35 | [Strzałka](http://twitter.com/search?q=Strza%c5%82ka) | N/A |
+| 36 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 37 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 38 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
 | 39 | [Sowa](http://twitter.com/search?q=Sowa) | N/A |
-| 40 | [Rzymie](http://twitter.com/search?q=Rzymie) | N/A |
-| 41 | [Halvor Egner Granerud](http://twitter.com/search?q=Halvor+Egner+Granerud) | N/A |
-| 42 | [Projektu](http://twitter.com/search?q=Projektu) | N/A |
-| 43 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 44 | [Życzę](http://twitter.com/search?q=%c5%bbycz%c4%99) | N/A |
-| 45 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [TOPR](http://twitter.com/search?q=TOPR) | N/A |
-| 48 | [Światowy Dzień Walki](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Walki) | N/A |
-| 49 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 50 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 40 | [Rakiem](http://twitter.com/search?q=Rakiem) | N/A |
+| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 42 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
+| 43 | [karaś](http://twitter.com/search?q=kara%c5%9b) | N/A |
+| 44 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 45 | [Z Panem Bogiem](http://twitter.com/search?q=Z+Panem+Bogiem) | N/A |
+| 46 | [Pekhart](http://twitter.com/search?q=Pekhart) | N/A |
+| 47 | [Zdrowie](http://twitter.com/search?q=Zdrowie) | N/A |
+| 48 | [Lubina](http://twitter.com/search?q=Lubina) | N/A |
+| 49 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 50 | [Łaszczyk](http://twitter.com/search?q=%c5%81aszczyk) | N/A |
 
 
 

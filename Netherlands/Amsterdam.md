@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-04 20:16:16 UTC`
+📆 Last Updated: `2023-02-04 21:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#widm](http://twitter.com/search?q=%23widm) | N/A |
-| 2 | [#volaz](http://twitter.com/search?q=%23volaz) | N/A |
+| 2 | [#utrhee](http://twitter.com/search?q=%23utrhee) | N/A |
 | 3 | [#emmvit](http://twitter.com/search?q=%23emmvit) | N/A |
-| 4 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
-| 5 | [#thetribute](http://twitter.com/search?q=%23thetribute) | N/A |
-| 6 | [#utrhee](http://twitter.com/search?q=%23utrhee) | N/A |
+| 4 | [#thetribute](http://twitter.com/search?q=%23thetribute) | N/A |
+| 5 | [#volaz](http://twitter.com/search?q=%23volaz) | N/A |
+| 6 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
 | 7 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 8 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 9 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
-| 10 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 11 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
-| 12 | [Szymanski](http://twitter.com/search?q=Szymanski) | N/A |
-| 13 | [Anke](http://twitter.com/search?q=Anke) | N/A |
-| 14 | [Marciano](http://twitter.com/search?q=Marciano) | N/A |
-| 15 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
-| 16 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
-| 19 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 21 | [André van Duin](http://twitter.com/search?q=Andr%c3%a9+van+Duin) | N/A |
-| 22 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 23 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 24 | [Smakelijk](http://twitter.com/search?q=Smakelijk) | N/A |
-| 25 | [Kinderboekenweek](http://twitter.com/search?q=Kinderboekenweek) | N/A |
-| 26 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 27 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 28 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 29 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 30 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
-| 31 | [magtel](http://twitter.com/search?q=magtel) | N/A |
-| 32 | [Arib](http://twitter.com/search?q=Arib) | N/A |
-| 33 | [FC Emmen](http://twitter.com/search?q=FC+Emmen) | N/A |
-| 34 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 35 | [Fem van Empel](http://twitter.com/search?q=Fem+van+Empel) | N/A |
-| 36 | [Pim Fortuyn](http://twitter.com/search?q=Pim+Fortuyn) | N/A |
-| 37 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 38 | [Maarheeze](http://twitter.com/search?q=Maarheeze) | N/A |
-| 39 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
-| 40 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [jong fc utrecht](http://twitter.com/search?q=jong+fc+utrecht) | N/A |
-| 43 | [Houwelingen](http://twitter.com/search?q=Houwelingen) | N/A |
-| 44 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 45 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 46 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 47 | [Jesse Klaver](http://twitter.com/search?q=Jesse+Klaver) | N/A |
-| 48 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 49 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
+| 8 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
+| 9 | [Anke](http://twitter.com/search?q=Anke) | N/A |
+| 10 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
+| 11 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 12 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 13 | [Nijhuis](http://twitter.com/search?q=Nijhuis) | N/A |
+| 14 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 15 | [FC Utrecht](http://twitter.com/search?q=FC+Utrecht) | N/A |
+| 16 | [Scherpen](http://twitter.com/search?q=Scherpen) | N/A |
+| 17 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 18 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
+| 19 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 20 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 21 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
+| 22 | [André van Duin](http://twitter.com/search?q=Andr%c3%a9+van+Duin) | N/A |
+| 23 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 24 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 25 | [Emmen](http://twitter.com/search?q=Emmen) | Emmen is a municipality and a town in the northeastern Netherlands. The name Emmen comes from the word "em" which means "water" or "lake". In English, Emmen can be translated to mean "watery place". |
+| 26 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 27 | [SC Heerenveen](http://twitter.com/search?q=SC+Heerenveen) | N/A |
+| 28 | [Daniël](http://twitter.com/search?q=Dani%c3%abl) | N/A |
+| 29 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 31 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 32 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 33 | [Kinderboekenweek](http://twitter.com/search?q=Kinderboekenweek) | N/A |
+| 34 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 35 | [Marciano](http://twitter.com/search?q=Marciano) | N/A |
+| 36 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 37 | [magtel](http://twitter.com/search?q=magtel) | N/A |
+| 38 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 39 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
+| 40 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
+| 41 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 42 | [Maarheeze](http://twitter.com/search?q=Maarheeze) | N/A |
+| 43 | [Pim Fortuyn](http://twitter.com/search?q=Pim+Fortuyn) | N/A |
+| 44 | [Fem van Empel](http://twitter.com/search?q=Fem+van+Empel) | N/A |
+| 45 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
+| 46 | [Ziggo](http://twitter.com/search?q=Ziggo) | N/A |
+| 47 | [Arib](http://twitter.com/search?q=Arib) | N/A |
+| 48 | [David Bowie](http://twitter.com/search?q=David+Bowie) | N/A |
+| 49 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
 
 
 

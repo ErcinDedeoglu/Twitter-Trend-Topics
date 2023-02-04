@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-02-04 20:16:12 UTC`
+📆 Last Updated: `2023-02-04 21:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ESTACOL](http://twitter.com/search?q=%23ESTACOL) | N/A |
-| 2 | [#PSGTFC](http://twitter.com/search?q=%23PSGTFC) | N/A |
-| 3 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 4 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 7 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
-| 8 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
-| 9 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 1 | [#SRFCLOSC](http://twitter.com/search?q=%23SRFCLOSC) | N/A |
+| 2 | [#ESTACOL](http://twitter.com/search?q=%23ESTACOL) | N/A |
+| 3 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
+| 4 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 5 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 6 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 7 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 8 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 9 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
 | 10 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 11 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
+| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 12 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
-| 13 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 14 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
-| 15 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 16 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 17 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 18 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 21 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 23 | [Van Der Merwe](http://twitter.com/search?q=Van+Der+Merwe) | N/A |
-| 24 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 13 | [Letexier](http://twitter.com/search?q=Letexier) | Letexier is a French word that means "to be in a state of great excitement or enthusiasm". It is often used to describe someone who is very passionate about something. |
+| 14 | [André Gomes](http://twitter.com/search?q=Andr%c3%a9+Gomes) | N/A |
+| 15 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
+| 16 | [Lovren](http://twitter.com/search?q=Lovren) | Lovren is a Croatian surname. It is derived from the Croatian word "lovor," which means laurel. The name is often associated with the city of Lovran in Croatia. |
+| 17 | [Weah](http://twitter.com/search?q=Weah) | N/A |
+| 18 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
+| 19 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 20 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 21 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 22 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 23 | [Doué](http://twitter.com/search?q=Dou%c3%a9) | N/A |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 25 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 26 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 28 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 29 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 30 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 31 | [Lukeba](http://twitter.com/search?q=Lukeba) | N/A |
-| 32 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 33 | [Parc](http://twitter.com/search?q=Parc) | N/A |
-| 34 | [Gharbi](http://twitter.com/search?q=Gharbi) | Gharbi is an Arabic word meaning "western". It is used to refer to things or people from the West, particularly Europe and North America. |
-| 35 | [Van den Boomen](http://twitter.com/search?q=Van+den+Boomen) | N/A |
-| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 37 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
-| 38 | [PRCF](http://twitter.com/search?q=PRCF) | N/A |
-| 39 | [Housni](http://twitter.com/search?q=Housni) | Housni is an Arabic name that means "good luck". It is often used as a term of endearment or to express good wishes. |
-| 40 | [Rayan](http://twitter.com/search?q=Rayan) | N/A |
-| 41 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 42 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 43 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 44 | [Diarra](http://twitter.com/search?q=Diarra) | N/A |
-| 45 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 46 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
-| 47 | [Brive](http://twitter.com/search?q=Brive) | N/A |
+| 26 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 28 | [Lepenant](http://twitter.com/search?q=Lepenant) | N/A |
+| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 31 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 32 | [Kalimuendo](http://twitter.com/search?q=Kalimuendo) | N/A |
+| 33 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
+| 34 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 35 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 36 | [Lukeba](http://twitter.com/search?q=Lukeba) | N/A |
+| 37 | [Housni](http://twitter.com/search?q=Housni) | Housni is an Arabic name that means "good luck". It is often used as a term of endearment or to express good wishes. |
+| 38 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 39 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 40 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 41 | [El Chadaille](http://twitter.com/search?q=El+Chadaille) | N/A |
+| 42 | [Diarra](http://twitter.com/search?q=Diarra) | N/A |
+| 43 | [Brive](http://twitter.com/search?q=Brive) | N/A |
+| 44 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
+| 45 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 46 | [Boomen](http://twitter.com/search?q=Boomen) | N/A |
+| 47 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
 
 
 

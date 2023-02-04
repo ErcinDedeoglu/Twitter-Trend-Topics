@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-04 20:16:27 UTC`
+📆 Last Updated: `2023-02-04 21:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 6 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
 | 7 | [IsekaiBattle Ticket](http://twitter.com/search?q=IsekaiBattle+Ticket) | N/A |
 | 8 | [HAPPY BIRTHDAY TAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEHYUN) | N/A |
-| 9 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
-| 10 | [TAEHYUNG CHO EM ĂN DÂU VỚI](http://twitter.com/search?q=TAEHYUNG+CHO+EM+%c4%82N+D%c3%82U+V%e1%bb%9aI) | N/A |
+| 9 | [TAEHYUNG CHO EM ĂN DÂU VỚI](http://twitter.com/search?q=TAEHYUNG+CHO+EM+%c4%82N+D%c3%82U+V%e1%bb%9aI) | N/A |
+| 10 | [NO JUSTICE NO REST](http://twitter.com/search?q=NO+JUSTICE+NO+REST) | NO JUSTICE NO REST is a slogan used to express the idea that justice must be served before anyone can find peace. It is often used in protests and demonstrations to call attention to injustices and demand change. |
 | 11 | [SEOJINS WORLD STAR V](http://twitter.com/search?q=SEOJINS+WORLD+STAR+V) | SEOJINS WORLD STAR V is a South Korean variety show that features celebrities from around the world. The show follows the lives of these celebrities as they travel to different countries and experience different cultures. The name of the show is a combination of the words "Seojin" (which means star in Korean) and "World Star" (which refers to international fame). The "V" stands for "Variety", indicating that the show focuses on a variety of topics. |
-| 12 | [4th birthday phiballs](http://twitter.com/search?q=4th+birthday+phiballs) | N/A |
-| 13 | [XANA PENPENZ](http://twitter.com/search?q=XANA+PENPENZ) | N/A |
-| 14 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 15 | [Mile](http://twitter.com/search?q=Mile) | N/A |
+| 12 | [love you kristina](http://twitter.com/search?q=love+you+kristina) | N/A |
+| 13 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 14 | [4th BIRTHDAY PHIBALLS](http://twitter.com/search?q=4th+BIRTHDAY+PHIBALLS) | 4th BIRTHDAY PHIBALLS is a type of party game that is popular in Japan. It involves throwing small balls at a target and trying to hit it. The game is usually played on the fourth birthday of a child, hence the name. The English translation of 4th BIRTHDAY PHIBALLS would be "Fourth Birthday Ball Toss". |
+| 15 | [P'Mile](http://twitter.com/search?q=P%27Mile) | N/A |
 | 16 | [Chua](http://twitter.com/search?q=Chua) | N/A |
-| 17 | [Dang Hong Hai](http://twitter.com/search?q=Dang+Hong+Hai) | N/A |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 17 | [XANA PENPENZ](http://twitter.com/search?q=XANA+PENPENZ) | N/A |
+| 18 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
+| 19 | [Dang Hong Hai](http://twitter.com/search?q=Dang+Hong+Hai) | N/A |
 | 20 | [$uqc](http://twitter.com/search?q=%24uqc) | N/A |
-| 21 | [Roblox](http://twitter.com/search?q=Roblox) | N/A |
+| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 22 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 24 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 25 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
+| 23 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
+| 24 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 26 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 27 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 28 | [Omega](http://twitter.com/search?q=Omega) | N/A |
-| 29 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 30 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
-| 31 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 32 | [Cười](http://twitter.com/search?q=C%c6%b0%e1%bb%9di) | N/A |
-| 33 | [Let's Go](http://twitter.com/search?q=Let%27s+Go) | N/A |
-| 34 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 35 | [taerae](http://twitter.com/search?q=taerae) | N/A |
-| 36 | [tiếc](http://twitter.com/search?q=ti%e1%ba%bfc) | N/A |
-| 37 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 38 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 27 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 28 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
+| 29 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 30 | [Omega](http://twitter.com/search?q=Omega) | N/A |
+| 31 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 32 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 33 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
+| 34 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 35 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
+| 36 | [Let's Go](http://twitter.com/search?q=Let%27s+Go) | N/A |
+| 37 | [tiếc](http://twitter.com/search?q=ti%e1%ba%bfc) | N/A |
+| 38 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [daikin](http://twitter.com/search?q=daikin) | N/A |
-| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 42 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 43 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 44 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
-| 45 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 46 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
-| 47 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 48 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 41 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 43 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 44 | [daikin](http://twitter.com/search?q=daikin) | N/A |
+| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 46 | [Sướng](http://twitter.com/search?q=S%c6%b0%e1%bb%9bng) | N/A |
+| 47 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
+| 48 | [tphcm](http://twitter.com/search?q=tphcm) | N/A |
+| 49 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 50 | [Google](http://twitter.com/search?q=Google) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-02-04 20:15:59 UTC`
+📆 Last Updated: `2023-02-04 21:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,47 @@ This is top 50 for [Canada](</Canada>)
 | 7 | [MAID](http://twitter.com/search?q=MAID) | N/A |
 | 8 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
 | 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | #MUNCRY is a hashtag used on social media to express solidarity with the people of Manchester, England, following the 2017 terrorist attack at an Ariana Grande concert. The hashtag is a combination of the words "Manchester" and "cry," and it is used to show support for those affected by the tragedy. |
-| 11 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 13 | [C-11](http://twitter.com/search?q=C-11) | N/A |
-| 14 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
-| 15 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 10 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 11 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
+| 12 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | #MUNCRY is a hashtag used on social media to express solidarity with the people of Manchester, England, following the 2017 terrorist attack at an Ariana Grande concert. The hashtag is a combination of the words "Manchester" and "cry," and it is used to show support for those affected by the tragedy. |
+| 13 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 14 | [C-11](http://twitter.com/search?q=C-11) | N/A |
+| 15 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
 | 16 | [NORAD](http://twitter.com/search?q=NORAD) | N/A |
-| 17 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 18 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 19 | [Celsius](http://twitter.com/search?q=Celsius) | N/A |
-| 20 | [Sarah Nurse](http://twitter.com/search?q=Sarah+Nurse) | Sarah Nurse is a term used to describe a nurse who is particularly caring and compassionate. It is derived from the name Sarah, which means “princess” or “lady” in Hebrew. The term is often used to describe nurses who go above and beyond their duties to provide excellent care for their patients. |
-| 21 | [Marit Stiles](http://twitter.com/search?q=Marit+Stiles) | N/A |
-| 22 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
-| 23 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 24 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 25 | [C-21](http://twitter.com/search?q=C-21) | N/A |
-| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 27 | [Metrolinx](http://twitter.com/search?q=Metrolinx) | N/A |
-| 28 | [Lisandro Martinez](http://twitter.com/search?q=Lisandro+Martinez) | N/A |
+| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 18 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
+| 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 20 | [Celsius](http://twitter.com/search?q=Celsius) | N/A |
+| 21 | [Metrolinx](http://twitter.com/search?q=Metrolinx) | N/A |
+| 22 | [Sarah Nurse](http://twitter.com/search?q=Sarah+Nurse) | Sarah Nurse is a term used to describe a nurse who is particularly caring and compassionate. It is derived from the name Sarah, which means “princess” or “lady” in Hebrew. The term is often used to describe nurses who go above and beyond their duties to provide excellent care for their patients. |
+| 23 | [Chandler](http://twitter.com/search?q=Chandler) | Chandler is an English surname derived from the Old French word "chandelier," meaning "candle maker." It is also a given name, derived from the surname, which means "candle maker" or "candle seller." |
+| 24 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 25 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 26 | [C-21](http://twitter.com/search?q=C-21) | N/A |
+| 27 | [Moss Park](http://twitter.com/search?q=Moss+Park) | N/A |
+| 28 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
 | 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 31 | [Ontario NDP](http://twitter.com/search?q=Ontario+NDP) | N/A |
-| 32 | [Arlene](http://twitter.com/search?q=Arlene) | N/A |
-| 33 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 34 | [Quebec](http://twitter.com/search?q=Quebec) | N/A |
+| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 31 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 33 | [Osgoode Hall](http://twitter.com/search?q=Osgoode+Hall) | N/A |
+| 34 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 35 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 36 | [Osgoode Hall](http://twitter.com/search?q=Osgoode+Hall) | N/A |
-| 37 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 38 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 39 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 40 | [Fahrenheit](http://twitter.com/search?q=Fahrenheit) | N/A |
-| 41 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 42 | [McGregor](http://twitter.com/search?q=McGregor) | McGregor is a Scottish surname derived from the Gaelic MacGriogair, meaning "son of Griogair". It is also a given name, usually derived from the surname. |
-| 43 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 45 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 46 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
-| 47 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
-| 48 | [Atlantic Ocean](http://twitter.com/search?q=Atlantic+Ocean) | N/A |
-| 49 | [Keffals](http://twitter.com/search?q=Keffals) | N/A |
+| 36 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 37 | [Quebec](http://twitter.com/search?q=Quebec) | N/A |
+| 38 | [Arlene](http://twitter.com/search?q=Arlene) | N/A |
+| 39 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 40 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 41 | [Marit Stiles](http://twitter.com/search?q=Marit+Stiles) | N/A |
+| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 43 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 44 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 45 | [McGregor](http://twitter.com/search?q=McGregor) | McGregor is a Scottish surname derived from the Gaelic MacGriogair, meaning "son of Griogair". It is also a given name, usually derived from the surname. |
+| 46 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
+| 47 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 48 | [Fahrenheit](http://twitter.com/search?q=Fahrenheit) | N/A |
+| 49 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 50 | [Petey](http://twitter.com/search?q=Petey) | N/A |
 
 
 

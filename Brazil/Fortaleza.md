@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-02-04 20:16:09 UTC`
+📆 Last Updated: `2023-02-04 21:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 2 | [Bruno Uvini](http://twitter.com/search?q=Bruno+Uvini) | N/A |
-| 3 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 4 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 5 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 6 | [#ทฤษฎีสีชมพูEP11](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP11) | #ทฤษฎีสีชมพูEP11 is the hashtag for the eleventh episode of the Thai television series Theory of Color Pink. The English translation of the hashtag would be "#TheoryofColorPinkEP11". |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [#GAPtheseries](http://twitter.com/search?q=%23GAPtheseries) | N/A |
-| 9 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 10 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 11 | [#LasanhaSearaLover](http://twitter.com/search?q=%23LasanhaSearaLover) | N/A |
-| 12 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 13 | [Aimoré](http://twitter.com/search?q=Aimor%c3%a9) | N/A |
-| 14 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 16 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 17 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 18 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 19 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
-| 20 | [Gasolina](http://twitter.com/search?q=Gasolina) | N/A |
-| 21 | [Leandro Lo](http://twitter.com/search?q=Leandro+Lo) | N/A |
-| 22 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
-| 23 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 24 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 25 | [Constantinopla](http://twitter.com/search?q=Constantinopla) | N/A |
-| 26 | [Seattle Sounders](http://twitter.com/search?q=Seattle+Sounders) | Seattle Sounders is a professional soccer team based in Seattle, Washington. The team competes in Major League Soccer (MLS) as a member of the Western Conference. The Sounders play their home games at CenturyLink Field, and are the reigning MLS Cup champions. The team's name is derived from Seattle's maritime culture, as well as from the prominent role of the city's shipping industry in the early 20th century. |
-| 27 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 28 | [Ferreirinha](http://twitter.com/search?q=Ferreirinha) | N/A |
-| 29 | [Figueirense](http://twitter.com/search?q=Figueirense) | N/A |
-| 30 | [Wydad](http://twitter.com/search?q=Wydad) | Wydad is a Moroccan football club based in Casablanca. The name Wydad means "love" or "affection" in Arabic. |
-| 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 32 | [figueira](http://twitter.com/search?q=figueira) | N/A |
-| 33 | [jaden](http://twitter.com/search?q=jaden) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 36 | [Globeleza](http://twitter.com/search?q=Globeleza) | N/A |
-| 37 | [Villasanti](http://twitter.com/search?q=Villasanti) | N/A |
-| 38 | [bruno gaga](http://twitter.com/search?q=bruno+gaga) | N/A |
-| 39 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 40 | [Dynquedo](http://twitter.com/search?q=Dynquedo) | N/A |
-| 41 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
-| 42 | [Kanno](http://twitter.com/search?q=Kanno) | N/A |
-| 43 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 44 | [Dynkas](http://twitter.com/search?q=Dynkas) | N/A |
-| 45 | [Keyd](http://twitter.com/search?q=Keyd) | N/A |
-| 46 | [Cipriano](http://twitter.com/search?q=Cipriano) | N/A |
-| 47 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 48 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 49 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 50 | [São Miguel do Oeste](http://twitter.com/search?q=S%c3%a3o+Miguel+do+Oeste) | N/A |
+| 2 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 3 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 4 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 5 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 6 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 7 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 8 | [Reynaldo](http://twitter.com/search?q=Reynaldo) | N/A |
+| 9 | [#Caldeirao](http://twitter.com/search?q=%23Caldeirao) | N/A |
+| 10 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 11 | [Cipriano](http://twitter.com/search?q=Cipriano) | N/A |
+| 12 | [Figueirense](http://twitter.com/search?q=Figueirense) | N/A |
+| 13 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 14 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 15 | [Aimoré](http://twitter.com/search?q=Aimor%c3%a9) | N/A |
+| 16 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 17 | [Bruno Uvini](http://twitter.com/search?q=Bruno+Uvini) | N/A |
+| 18 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 19 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 20 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 21 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 22 | [#GAPtheseriesep11](http://twitter.com/search?q=%23GAPtheseriesep11) | N/A |
+| 23 | [Alcione](http://twitter.com/search?q=Alcione) | Alcione is a Latinized form of the Greek name Alkyone, which means “kingfisher”. It is also the name of a star in the constellation Pleiades. |
+| 24 | [#LasanhaSearaLover](http://twitter.com/search?q=%23LasanhaSearaLover) | N/A |
+| 25 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 26 | [Pezzolano](http://twitter.com/search?q=Pezzolano) | N/A |
+| 27 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 28 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 29 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
+| 30 | [figueira](http://twitter.com/search?q=figueira) | N/A |
+| 31 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 32 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 34 | [EL PISTOLERO](http://twitter.com/search?q=EL+PISTOLERO) | N/A |
+| 35 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
+| 36 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
+| 37 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 38 | [O Guimê](http://twitter.com/search?q=O+Guim%c3%aa) | N/A |
+| 39 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
+| 40 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 41 | [Amanda e Guimê](http://twitter.com/search?q=Amanda+e+Guim%c3%aa) | N/A |
+| 42 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
+| 43 | [Caráter](http://twitter.com/search?q=Car%c3%a1ter) | N/A |
+| 44 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
+| 45 | [Ferreirinha](http://twitter.com/search?q=Ferreirinha) | N/A |
+| 46 | [LUISITO SUÁREZ](http://twitter.com/search?q=LUISITO+SU%c3%81REZ) | N/A |
+| 47 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
+| 48 | [Constantinopla](http://twitter.com/search?q=Constantinopla) | N/A |
+| 49 | [Leandro Lo](http://twitter.com/search?q=Leandro+Lo) | N/A |
+| 50 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
 
 
 
