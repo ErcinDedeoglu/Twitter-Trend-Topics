@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-04 11:18:20 UTC`
+📆 Last Updated: `2023-02-04 12:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 2 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 3 | [America](http://twitter.com/search?q=America) | N/A |
-| 4 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
-| 5 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
-| 6 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 7 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
+| 2 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
+| 3 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 4 | [Interesse](http://twitter.com/search?q=Interesse) | N/A |
+| 5 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 6 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
+| 7 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
 | 8 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
-| 9 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
+| 9 | [America](http://twitter.com/search?q=America) | N/A |
 | 10 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
 | 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
-| 13 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 14 | [händewaschen](http://twitter.com/search?q=h%c3%a4ndewaschen) | N/A |
-| 15 | [Firmen](http://twitter.com/search?q=Firmen) | N/A |
-| 16 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
-| 19 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 20 | [Exact](http://twitter.com/search?q=Exact) | N/A |
-| 21 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
-| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 23 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
-| 24 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 25 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 26 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 27 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 28 | [apéro](http://twitter.com/search?q=ap%c3%a9ro) | N/A |
-| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 31 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 32 | [Russen](http://twitter.com/search?q=Russen) | N/A |
-| 33 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
-| 34 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 35 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
-| 36 | [Klimaaktivisten](http://twitter.com/search?q=Klimaaktivisten) | N/A |
-| 37 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 38 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 39 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 40 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
-| 41 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 42 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 44 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 45 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 46 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
-| 47 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
-| 48 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 49 | [Tatsache](http://twitter.com/search?q=Tatsache) | N/A |
-| 50 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 12 | [Händewaschen](http://twitter.com/search?q=H%c3%a4ndewaschen) | N/A |
+| 13 | [Doppelmoral](http://twitter.com/search?q=Doppelmoral) | N/A |
+| 14 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
+| 15 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 16 | [Zürich](http://twitter.com/search?q=Z%c3%bcrich) | N/A |
+| 17 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 18 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 20 | [apéro](http://twitter.com/search?q=ap%c3%a9ro) | N/A |
+| 21 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 22 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 23 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 24 | [Klimaaktivist](http://twitter.com/search?q=Klimaaktivist) | N/A |
+| 25 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 26 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 30 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 31 | [Exact](http://twitter.com/search?q=Exact) | N/A |
+| 32 | [Immerhin](http://twitter.com/search?q=Immerhin) | N/A |
+| 33 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 34 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 35 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 36 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
+| 37 | [Versuch](http://twitter.com/search?q=Versuch) | N/A |
+| 38 | [#SwissBorg](http://twitter.com/search?q=%23SwissBorg) | N/A |
+| 39 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 40 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
+| 41 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 42 | [Vermutlich](http://twitter.com/search?q=Vermutlich) | N/A |
+| 43 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 44 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 45 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 46 | [Kultur](http://twitter.com/search?q=Kultur) | N/A |
+| 47 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 48 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 49 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
+| 50 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
 
 
 

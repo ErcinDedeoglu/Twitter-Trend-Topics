@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-04 11:17:19 UTC`
+📆 Last Updated: `2023-02-04 12:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 4 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 5 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 7 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 8 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 9 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 10 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 11 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
-| 12 | [Everton v Arsenal](http://twitter.com/search?q=Everton+v+Arsenal) | N/A |
-| 13 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | N/A |
-| 14 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
-| 15 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
-| 16 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 17 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
-| 18 | [Southend](http://twitter.com/search?q=Southend) | N/A |
-| 19 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 20 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 21 | [Wales v Ireland](http://twitter.com/search?q=Wales+v+Ireland) | N/A |
-| 22 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 23 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 24 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
-| 25 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
-| 26 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
+| 2 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | N/A |
+| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 4 | [#BBL12](http://twitter.com/search?q=%23BBL12) | #BBL12 is an abbreviation for the 12th season of the Big Bash League, an Australian professional Twenty20 cricket league. The acronym stands for Big Bash League 12. |
+| 5 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 6 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 8 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 9 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 10 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 11 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 12 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | N/A |
+| 13 | [McNeil](http://twitter.com/search?q=McNeil) | N/A |
+| 14 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
+| 15 | [COYG](http://twitter.com/search?q=COYG) | N/A |
+| 16 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
+| 17 | [Everton v Arsenal](http://twitter.com/search?q=Everton+v+Arsenal) | N/A |
+| 18 | [Jo Brand](http://twitter.com/search?q=Jo+Brand) | N/A |
+| 19 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
+| 20 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 21 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
+| 22 | [Bishops](http://twitter.com/search?q=Bishops) | N/A |
+| 23 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
+| 24 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
+| 25 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 26 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
 | 27 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 28 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 29 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 30 | [Derek](http://twitter.com/search?q=Derek) | N/A |
-| 31 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 32 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | N/A |
-| 33 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 34 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 35 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
-| 36 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
-| 37 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 38 | [#ASongOrMovieForAnythingSour](http://twitter.com/search?q=%23ASongOrMovieForAnythingSour) | N/A |
-| 39 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
-| 40 | [#Ed4WomensLib](http://twitter.com/search?q=%23Ed4WomensLib) | N/A |
-| 41 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 42 | [#UTFT](http://twitter.com/search?q=%23UTFT) | N/A |
-| 43 | [#CloseTheCareGap](http://twitter.com/search?q=%23CloseTheCareGap) | N/A |
-| 44 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | N/A |
-| 45 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
-| 46 | [#GreenFootballWeekend](http://twitter.com/search?q=%23GreenFootballWeekend) | N/A |
-| 47 | [#COYB](http://twitter.com/search?q=%23COYB) | N/A |
-| 48 | [#sloth](http://twitter.com/search?q=%23sloth) | N/A |
-| 49 | [#ENGvSCO](http://twitter.com/search?q=%23ENGvSCO) | N/A |
-| 50 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 28 | [Southend](http://twitter.com/search?q=Southend) | N/A |
+| 29 | [Eddie Butler](http://twitter.com/search?q=Eddie+Butler) | N/A |
+| 30 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 31 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
+| 32 | [Wales v Ireland](http://twitter.com/search?q=Wales+v+Ireland) | N/A |
+| 33 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 34 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 35 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
+| 36 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
+| 37 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 38 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 39 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
+| 40 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 41 | [#BBLFinal](http://twitter.com/search?q=%23BBLFinal) | N/A |
+| 42 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
+| 43 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
+| 44 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 45 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
+| 46 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
+| 47 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 48 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 49 | [#UTFT](http://twitter.com/search?q=%23UTFT) | N/A |
+| 50 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | N/A |
 
 
 

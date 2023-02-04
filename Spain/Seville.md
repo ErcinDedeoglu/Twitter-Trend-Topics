@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-02-04 11:17:38 UTC`
+📆 Last Updated: `2023-02-04 12:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,38 +17,45 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#COAC2023P14](http://twitter.com/search?q=%23COAC2023P14) | #COAC2023P14 is a hashtag used to refer to the 2023 College of Arts and Crafts (COAC) Project 14. It is used to help people find information related to the project on social media platforms such as Twitter and Instagram. |
 | 2 | [#DiaMundialContraElCancer](http://twitter.com/search?q=%23DiaMundialContraElCancer) | N/A |
-| 3 | [#APOYOROCIO4F](http://twitter.com/search?q=%23APOYOROCIO4F) | N/A |
-| 4 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 5 | [#AgropopularÁguedas](http://twitter.com/search?q=%23Agropopular%c3%81guedas) | N/A |
-| 6 | [#N1CanalFiesta5](http://twitter.com/search?q=%23N1CanalFiesta5) | N/A |
-| 7 | [insta](http://twitter.com/search?q=insta) | N/A |
-| 8 | [Fallarás](http://twitter.com/search?q=Fallar%c3%a1s) | N/A |
+| 3 | [insta](http://twitter.com/search?q=insta) | N/A |
+| 4 | [#APOYOROCIO4F](http://twitter.com/search?q=%23APOYOROCIO4F) | N/A |
+| 5 | [#N1CanalFiesta5](http://twitter.com/search?q=%23N1CanalFiesta5) | N/A |
+| 6 | [#YoMeRebelo4F](http://twitter.com/search?q=%23YoMeRebelo4F) | N/A |
+| 7 | [Fallarás](http://twitter.com/search?q=Fallar%c3%a1s) | N/A |
+| 8 | [Hoy 4](http://twitter.com/search?q=Hoy+4) | N/A |
 | 9 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 10 | [Hoy 4](http://twitter.com/search?q=Hoy+4) | N/A |
-| 11 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 12 | [Alcaldesas](http://twitter.com/search?q=Alcaldesas) | N/A |
+| 10 | [Pepa Flores](http://twitter.com/search?q=Pepa+Flores) | N/A |
+| 11 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 12 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
 | 13 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 14 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 15 | [Errejón](http://twitter.com/search?q=Errej%c3%b3n) | N/A |
-| 16 | [El 4](http://twitter.com/search?q=El+4) | N/A |
-| 17 | [Más País](http://twitter.com/search?q=M%c3%a1s+Pa%c3%ads) | N/A |
-| 18 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
-| 19 | [Cantabria](http://twitter.com/search?q=Cantabria) | N/A |
-| 20 | [Renfe](http://twitter.com/search?q=Renfe) | N/A |
+| 14 | [Alcaldesas](http://twitter.com/search?q=Alcaldesas) | N/A |
+| 15 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
+| 16 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 17 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | N/A |
+| 18 | [Errejón](http://twitter.com/search?q=Errej%c3%b3n) | N/A |
+| 19 | [El 4](http://twitter.com/search?q=El+4) | N/A |
+| 20 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
 | 21 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
-| 22 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
-| 23 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
-| 24 | [Operación](http://twitter.com/search?q=Operaci%c3%b3n) | N/A |
-| 25 | [Irving](http://twitter.com/search?q=Irving) | N/A |
-| 26 | [Figo](http://twitter.com/search?q=Figo) | N/A |
-| 27 | [#YoMeRebelo4F](http://twitter.com/search?q=%23YoMeRebelo4F) | N/A |
-| 28 | [#HaciendoFotocopias](http://twitter.com/search?q=%23HaciendoFotocopias) | N/A |
-| 29 | [#Solos4F](http://twitter.com/search?q=%23Solos4F) | N/A |
-| 30 | [#4defebrero](http://twitter.com/search?q=%234defebrero) | N/A |
-| 31 | [#QueTeVoteTxapote](http://twitter.com/search?q=%23QueTeVoteTxapote) | N/A |
-| 32 | [#EntreTodos](http://twitter.com/search?q=%23EntreTodos) | N/A |
-| 33 | [#FelizFinde](http://twitter.com/search?q=%23FelizFinde) | N/A |
-| 34 | [#IreneMonteroDimision](http://twitter.com/search?q=%23IreneMonteroDimision) | N/A |
+| 22 | [Renfe](http://twitter.com/search?q=Renfe) | N/A |
+| 23 | [Más País](http://twitter.com/search?q=M%c3%a1s+Pa%c3%ads) | N/A |
+| 24 | [borja prado](http://twitter.com/search?q=borja+prado) | N/A |
+| 25 | [Tanxugueiras](http://twitter.com/search?q=Tanxugueiras) | N/A |
+| 26 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
+| 27 | [Cantabria](http://twitter.com/search?q=Cantabria) | N/A |
+| 28 | [Sábado 4](http://twitter.com/search?q=S%c3%a1bado+4) | N/A |
+| 29 | [Operación](http://twitter.com/search?q=Operaci%c3%b3n) | N/A |
+| 30 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 31 | [#FelizSabadoATodos](http://twitter.com/search?q=%23FelizSabadoATodos) | N/A |
+| 32 | [#Gianmarco4F](http://twitter.com/search?q=%23Gianmarco4F) | N/A |
+| 33 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
+| 34 | [#Solos4F](http://twitter.com/search?q=%23Solos4F) | N/A |
+| 35 | [#HaciendoFotocopias](http://twitter.com/search?q=%23HaciendoFotocopias) | N/A |
+| 36 | [#QueTeVoteTxapote](http://twitter.com/search?q=%23QueTeVoteTxapote) | N/A |
+| 37 | [#4DeFebrero](http://twitter.com/search?q=%234DeFebrero) | N/A |
+| 38 | [#EntreTodos](http://twitter.com/search?q=%23EntreTodos) | N/A |
+| 39 | [#AgropopularAguedas](http://twitter.com/search?q=%23AgropopularAguedas) | N/A |
+| 40 | [#EspanyolOsasuna](http://twitter.com/search?q=%23EspanyolOsasuna) | N/A |
+| 41 | [#FelizFinDeSemana](http://twitter.com/search?q=%23FelizFinDeSemana) | N/A |
 
 
 

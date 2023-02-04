@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-04 11:18:19 UTC`
+📆 Last Updated: `2023-02-04 12:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 2 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 3 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 4 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 5 | [#MANIFESTO_IN_MANILA_D2](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_D2) | N/A |
-| 6 | [#DreamMaker4thRanking](http://twitter.com/search?q=%23DreamMaker4thRanking) | N/A |
+| 2 | [#DreamMaker4thRanking](http://twitter.com/search?q=%23DreamMaker4thRanking) | N/A |
+| 3 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 4 | [#HiyasPilipinas_Space](http://twitter.com/search?q=%23HiyasPilipinas_Space) | N/A |
+| 5 | [#EverybodySingBuhat](http://twitter.com/search?q=%23EverybodySingBuhat) | N/A |
+| 6 | [#FELIPxRapplerLiveJam](http://twitter.com/search?q=%23FELIPxRapplerLiveJam) | N/A |
 | 7 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 8 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 9 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 10 | [#JiminsDanceTime](http://twitter.com/search?q=%23JiminsDanceTime) | N/A |
-| 11 | [VINSTER BETTER TOGETHER](http://twitter.com/search?q=VINSTER+BETTER+TOGETHER) | N/A |
-| 12 | [Madzilla](http://twitter.com/search?q=Madzilla) | N/A |
-| 13 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
-| 14 | [BARKADAHAN](http://twitter.com/search?q=BARKADAHAN) | N/A |
-| 15 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 16 | [#ToMoreYearsWithBELLElievers](http://twitter.com/search?q=%23ToMoreYearsWithBELLElievers) | N/A |
-| 17 | [Coach Dante](http://twitter.com/search?q=Coach+Dante) | N/A |
-| 18 | [Genesis](http://twitter.com/search?q=Genesis) | N/A |
+| 8 | [ZACHAM TCOBARKADAHAN](http://twitter.com/search?q=ZACHAM+TCOBARKADAHAN) | N/A |
+| 9 | [V1NCI ON TOP](http://twitter.com/search?q=V1NCI+ON+TOP) | N/A |
+| 10 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 11 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 12 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 13 | [VINSTER BETTER TOGETHER](http://twitter.com/search?q=VINSTER+BETTER+TOGETHER) | N/A |
+| 14 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
+| 15 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 16 | [Coach Dante](http://twitter.com/search?q=Coach+Dante) | N/A |
+| 17 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 18 | [Madzilla](http://twitter.com/search?q=Madzilla) | N/A |
 | 19 | [ROOMMATE FB SERIES](http://twitter.com/search?q=ROOMMATE+FB+SERIES) | ROOMMATE FB SERIES is a web series created by Facebook that follows the lives of two roommates living in a shared apartment. The series explores the dynamics of their relationship and how they navigate life together. The title is a play on the term "roommate" and "FB" (Facebook). |
-| 20 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 20 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
 | 21 | [Kat Tolentino](http://twitter.com/search?q=Kat+Tolentino) | N/A |
-| 22 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 24 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 24 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
 | 25 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
 | 26 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
-| 27 | [MNL48 ON AKBGroup CircleJam](http://twitter.com/search?q=MNL48+ON+AKBGroup+CircleJam) | N/A |
-| 28 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 29 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
-| 30 | [#D7LoveAt1stSightBB](http://twitter.com/search?q=%23D7LoveAt1stSightBB) | #D7LoveAt1stSightBB is a hashtag used to promote the upcoming album from the South Korean boy band, BTS. The hashtag stands for "Dynamite Love at First Sight BTS Edition". |
-| 31 | [#MJhasDrick](http://twitter.com/search?q=%23MJhasDrick) | N/A |
-| 32 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 33 | [#PVLAllFilipinoConference](http://twitter.com/search?q=%23PVLAllFilipinoConference) | N/A |
-| 34 | [#MCGIHeartfeltThanksgiving](http://twitter.com/search?q=%23MCGIHeartfeltThanksgiving) | N/A |
-| 35 | [#FallinWithDoyoung](http://twitter.com/search?q=%23FallinWithDoyoung) | N/A |
-| 36 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 37 | [#PVLonOneSports](http://twitter.com/search?q=%23PVLonOneSports) | N/A |
-| 38 | [#SunKissedBoy_Kai](http://twitter.com/search?q=%23SunKissedBoy_Kai) | N/A |
-| 39 | [#YetToComeInCinema](http://twitter.com/search?q=%23YetToComeInCinema) | N/A |
-| 40 | [#FELIPRadioTourCebuDay2](http://twitter.com/search?q=%23FELIPRadioTourCebuDay2) | N/A |
-| 41 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 42 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
-| 43 | [#48CIRCLEJAM](http://twitter.com/search?q=%2348CIRCLEJAM) | N/A |
-| 44 | [#BOYCOTTMZETxAPTxGMA696](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA696) | N/A |
-| 45 | [#ZacHam](http://twitter.com/search?q=%23ZacHam) | N/A |
+| 27 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
+| 28 | [#SKZPHLManiac2023](http://twitter.com/search?q=%23SKZPHLManiac2023) | N/A |
+| 29 | [#MANIFESTO_IN_MANILA_D2](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_D2) | N/A |
+| 30 | [#JeffLiveOnSaturnJKT](http://twitter.com/search?q=%23JeffLiveOnSaturnJKT) | N/A |
+| 31 | [#JiminsDanceTime](http://twitter.com/search?q=%23JiminsDanceTime) | N/A |
+| 32 | [#DreamChaserKyler](http://twitter.com/search?q=%23DreamChaserKyler) | N/A |
+| 33 | [#EXOSC_BackToBack](http://twitter.com/search?q=%23EXOSC_BackToBack) | #EXOSC_BackToBack is a hashtag used by fans of the South Korean boy band EXO to show their support for the group's back-to-back concerts. The hashtag is used to share photos, videos, and messages related to the concerts. |
+| 34 | [#ToMoreYearsWithBELLElievers](http://twitter.com/search?q=%23ToMoreYearsWithBELLElievers) | N/A |
+| 35 | [#MJhasDrick](http://twitter.com/search?q=%23MJhasDrick) | N/A |
+| 36 | [#DreamMaker_REYSTER](http://twitter.com/search?q=%23DreamMaker_REYSTER) | N/A |
+| 37 | [#D7LoveAt1stSightBB](http://twitter.com/search?q=%23D7LoveAt1stSightBB) | #D7LoveAt1stSightBB is a hashtag used to promote the upcoming album from the South Korean boy band, BTS. The hashtag stands for "Dynamite Love at First Sight BTS Edition". |
+| 38 | [#DreamMaker_VINCI](http://twitter.com/search?q=%23DreamMaker_VINCI) | N/A |
+| 39 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 40 | [#PVLAllFilipinoConference](http://twitter.com/search?q=%23PVLAllFilipinoConference) | N/A |
+| 41 | [#YetToComeInCinemas](http://twitter.com/search?q=%23YetToComeInCinemas) | #YetToComeInCinemas is a hashtag used to refer to upcoming movies that have yet to be released in cinemas. It is often used by movie fans and critics to discuss upcoming films and speculate on their potential success. |
+| 42 | [#MCGIHeartfeltThanksgiving](http://twitter.com/search?q=%23MCGIHeartfeltThanksgiving) | N/A |
+| 43 | [#FallinWithDoyoung](http://twitter.com/search?q=%23FallinWithDoyoung) | N/A |
+| 44 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 45 | [#PVLonOneSports](http://twitter.com/search?q=%23PVLonOneSports) | N/A |
+| 46 | [#FELIPRadioTourCebuDay2](http://twitter.com/search?q=%23FELIPRadioTourCebuDay2) | N/A |
+| 47 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 48 | [#SB19_JOSH](http://twitter.com/search?q=%23SB19_JOSH) | N/A |
+| 49 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 50 | [#BOYCOTTMZETxAPTxGMA696](http://twitter.com/search?q=%23BOYCOTTMZETxAPTxGMA696) | N/A |
 
 
 

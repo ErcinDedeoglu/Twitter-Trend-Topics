@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-02-04 11:17:21 UTC`
+📆 Last Updated: `2023-02-04 12:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 2 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
-| 3 | [Curby](http://twitter.com/search?q=Curby) | N/A |
-| 4 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
-| 5 | [Dominic Raab](http://twitter.com/search?q=Dominic+Raab) | N/A |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 8 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 9 | [Button](http://twitter.com/search?q=Button) | N/A |
-| 10 | [#CheFul](http://twitter.com/search?q=%23CheFul) | #CheFul is a hashtag used on social media to express joy and happiness. It is derived from the Spanish phrase "che feliz," which translates to "how happy." The hashtag is often used to share positive experiences, celebrate successes, and express gratitude. |
-| 11 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 12 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 13 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 14 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 15 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
-| 16 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
-| 17 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
-| 18 | [Everton v Arsenal](http://twitter.com/search?q=Everton+v+Arsenal) | N/A |
-| 19 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | N/A |
-| 20 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
-| 21 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
-| 22 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 23 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
-| 24 | [Southend](http://twitter.com/search?q=Southend) | N/A |
-| 25 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
-| 26 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 27 | [Wales v Ireland](http://twitter.com/search?q=Wales+v+Ireland) | N/A |
-| 28 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
-| 29 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 30 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
-| 31 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
-| 32 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
-| 33 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 34 | [Nads](http://twitter.com/search?q=Nads) | N/A |
-| 35 | [Derek](http://twitter.com/search?q=Derek) | N/A |
-| 36 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
-| 37 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 38 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 39 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 40 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 41 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | N/A |
-| 42 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 43 | [#SixNations](http://twitter.com/search?q=%23SixNations) | N/A |
-| 44 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
-| 45 | [#WALvIRE](http://twitter.com/search?q=%23WALvIRE) | N/A |
-| 46 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 1 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 2 | [Southend](http://twitter.com/search?q=Southend) | N/A |
+| 3 | [Boy George](http://twitter.com/search?q=Boy+George) | N/A |
+| 4 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
+| 5 | [Curby](http://twitter.com/search?q=Curby) | N/A |
+| 6 | [Bercow](http://twitter.com/search?q=Bercow) | N/A |
+| 7 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 8 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 9 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 10 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | N/A |
+| 11 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 12 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 13 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 14 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 15 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 16 | [Gray](http://twitter.com/search?q=Gray) | Gray is a color that is a shade between black and white. It is often used to describe a dull or uninteresting color. In the English language, it can also be used to describe a person or thing that is lacking in emotion or enthusiasm. |
+| 17 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | N/A |
+| 18 | [McNeil](http://twitter.com/search?q=McNeil) | N/A |
+| 19 | [Baddiel](http://twitter.com/search?q=Baddiel) | N/A |
+| 20 | [COYG](http://twitter.com/search?q=COYG) | N/A |
+| 21 | [Daily Quordle 376](http://twitter.com/search?q=Daily+Quordle+376) | N/A |
+| 22 | [Everton v Arsenal](http://twitter.com/search?q=Everton+v+Arsenal) | N/A |
+| 23 | [Jo Brand](http://twitter.com/search?q=Jo+Brand) | N/A |
+| 24 | [Carrow Road](http://twitter.com/search?q=Carrow+Road) | N/A |
+| 25 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 26 | [Highway Code](http://twitter.com/search?q=Highway+Code) | N/A |
+| 27 | [Bishops](http://twitter.com/search?q=Bishops) | N/A |
+| 28 | [Appreciate It](http://twitter.com/search?q=Appreciate+It) | N/A |
+| 29 | [Rugby](http://twitter.com/search?q=Rugby) | N/A |
+| 30 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 31 | [Argyle](http://twitter.com/search?q=Argyle) | N/A |
+| 32 | [House of Lords](http://twitter.com/search?q=House+of+Lords) | N/A |
+| 33 | [Eddie Butler](http://twitter.com/search?q=Eddie+Butler) | N/A |
+| 34 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 35 | [Twickenham](http://twitter.com/search?q=Twickenham) | N/A |
+| 36 | [Wales v Ireland](http://twitter.com/search?q=Wales+v+Ireland) | N/A |
+| 37 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 38 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
+| 39 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
+| 40 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 41 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
+| 42 | [Kerby](http://twitter.com/search?q=Kerby) | Kerby is a name of English origin, derived from the Old Norse name Kjǫrbjǫrn, meaning “bear cub”. |
+| 43 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 44 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 45 | [#BBL12](http://twitter.com/search?q=%23BBL12) | #BBL12 is an abbreviation for the 12th season of the Big Bash League, an Australian professional Twenty20 cricket league. The acronym stands for Big Bash League 12. |
+| 46 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 47 | [#BBLFinal](http://twitter.com/search?q=%23BBLFinal) | N/A |
+| 48 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
 
 
 
