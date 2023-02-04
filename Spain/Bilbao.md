@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-04 04:17:19 UTC`
+📆 Last Updated: `2023-02-04 05:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Spain](</Spain>)
 | 5 | [#BenidormFest2023](http://twitter.com/search?q=%23BenidormFest2023) | #BenidormFest2023 is a hashtag used to promote the 2023 Benidorm Festival, an annual music and cultural event held in Benidorm, Spain. The festival features a variety of musical acts, as well as activities such as art exhibitions, workshops, and more. |
 | 6 | [Burlonas](http://twitter.com/search?q=Burlonas) | N/A |
 | 7 | [Txapote](http://twitter.com/search?q=Txapote) | N/A |
-| 8 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
-| 9 | [#APOYOROCIO3F](http://twitter.com/search?q=%23APOYOROCIO3F) | N/A |
+| 8 | [#APOYOROCIO3F](http://twitter.com/search?q=%23APOYOROCIO3F) | N/A |
+| 9 | [Sancet](http://twitter.com/search?q=Sancet) | Sancet is a Spanish word meaning "sanctuary". It is used to refer to a place of refuge or safety. |
 | 10 | [#ExpertosPcComponentes](http://twitter.com/search?q=%23ExpertosPcComponentes) | N/A |
-| 11 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
-| 12 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 11 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 12 | [San Blas](http://twitter.com/search?q=San+Blas) | N/A |
 | 13 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 14 | [Bambones](http://twitter.com/search?q=Bambones) | N/A |
-| 15 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 16 | [Karmento](http://twitter.com/search?q=Karmento) | Karmento is a Japanese term that literally translates to "empty feeling." It is used to describe a feeling of emptiness or lack of purpose in life. It can also refer to a sense of loneliness or isolation. |
-| 17 | [Trapaseros](http://twitter.com/search?q=Trapaseros) | N/A |
-| 18 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 19 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
-| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [Trapaseros](http://twitter.com/search?q=Trapaseros) | N/A |
+| 15 | [Karmento](http://twitter.com/search?q=Karmento) | Karmento is a Japanese term that literally translates to "empty feeling." It is used to describe a feeling of emptiness or lack of purpose in life. It can also refer to a sense of loneliness or isolation. |
+| 16 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 17 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 18 | [Eurovisión](http://twitter.com/search?q=Eurovisi%c3%b3n) | Eurovisión is an annual international song competition organized by the European Broadcasting Union. It is one of the longest running and most watched television programs in the world. The contest has been held since 1956 and is one of the most popular music events in Europe. The competition sees participants from all over Europe competing to be crowned the winner of Eurovision. The winner is determined by a combination of jury and public voting. |
+| 19 | [jose otero](http://twitter.com/search?q=jose+otero) | N/A |
+| 20 | [Vera](http://twitter.com/search?q=Vera) | N/A |
 | 21 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 22 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 23 | [Jose Otero](http://twitter.com/search?q=Jose+Otero) | N/A |
+| 22 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 23 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
 | 24 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 25 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 26 | [Diablos Locos](http://twitter.com/search?q=Diablos+Locos) | N/A |
-| 27 | [Famous](http://twitter.com/search?q=Famous) | Famous is an adjective that means widely known or celebrated. It is used to describe people, places, or things that are well-known and have achieved a certain level of notoriety. |
-| 28 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
-| 29 | [Rabocop](http://twitter.com/search?q=Rabocop) | N/A |
-| 30 | [Vicco](http://twitter.com/search?q=Vicco) | Vicco is a small town in the state of Kentucky, United States. It is located in Perry County and is known for its natural beauty and outdoor activities. The name Vicco is derived from the Latin word "vicus" which means village or settlement. In English, Vicco means "village". |
+| 25 | [Diablos Locos](http://twitter.com/search?q=Diablos+Locos) | N/A |
+| 26 | [Famous](http://twitter.com/search?q=Famous) | Famous is an adjective that means widely known or celebrated. It is used to describe people, places, or things that are well-known and have achieved a certain level of notoriety. |
+| 27 | [Marta Riesco](http://twitter.com/search?q=Marta+Riesco) | N/A |
+| 28 | [Rabocop](http://twitter.com/search?q=Rabocop) | N/A |
+| 29 | [Vicco](http://twitter.com/search?q=Vicco) | Vicco is a small town in the state of Kentucky, United States. It is located in Perry County and is known for its natural beauty and outdoor activities. The name Vicco is derived from the Latin word "vicus" which means village or settlement. In English, Vicco means "village". |
+| 30 | [Hezonja](http://twitter.com/search?q=Hezonja) | N/A |
 | 31 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 32 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
-| 33 | [Hezonja](http://twitter.com/search?q=Hezonja) | N/A |
+| 33 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
 | 34 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 35 | [Matamoros](http://twitter.com/search?q=Matamoros) | N/A |
-| 36 | [LFDLT](http://twitter.com/search?q=LFDLT) | N/A |
-| 37 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
-| 38 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 39 | [La 44](http://twitter.com/search?q=La+44) | N/A |
-| 40 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 41 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 42 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 43 | [manu vallejo](http://twitter.com/search?q=manu+vallejo) | N/A |
-| 44 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 45 | [insta](http://twitter.com/search?q=insta) | N/A |
-| 46 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 49 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 50 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 35 | [Borja Prado](http://twitter.com/search?q=Borja+Prado) | N/A |
+| 36 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 37 | [LFDLT](http://twitter.com/search?q=LFDLT) | N/A |
+| 38 | [La 44](http://twitter.com/search?q=La+44) | N/A |
+| 39 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
+| 42 | [Obeng](http://twitter.com/search?q=Obeng) | N/A |
+| 43 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 44 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 45 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
+| 46 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 47 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 48 | [Manu Vallejo](http://twitter.com/search?q=Manu+Vallejo) | N/A |
+| 49 | [Bambones](http://twitter.com/search?q=Bambones) | N/A |
+| 50 | [Enrich](http://twitter.com/search?q=Enrich) | N/A |
 
 
 
