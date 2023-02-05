@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-02-05 02:42:50 UTC`
+📆 Last Updated: `2023-02-05 03:21:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,8 +35,8 @@ This is top 50 for Jordan
 | 18 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
 | 19 | [نواب جرش](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%ac%d8%b1%d8%b4) | N/A |
 | 20 | [أرسنال](http://twitter.com/search?q=%d8%a3%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | N/A |
-| 21 | [#زد_رصيدك12](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8312) | N/A |
-| 22 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 21 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 22 | [#زد_رصيدك12](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8312) | N/A |
 | 23 | [الاطباء البيطريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b7%d8%a8%d8%a7%d8%a1+%d8%a7%d9%84%d8%a8%d9%8a%d8%b7%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
 | 24 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
 | 25 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
@@ -44,14 +44,14 @@ This is top 50 for Jordan
 | 27 | [الوكيل الاخباري](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%83%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1%d9%8a) | N/A |
 | 28 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 29 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
-| 30 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
-| 31 | [المنتخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 32 | [لورنس المنسي](http://twitter.com/search?q=%d9%84%d9%88%d8%b1%d9%86%d8%b3+%d8%a7%d9%84%d9%85%d9%86%d8%b3%d9%8a) | N/A |
-| 33 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 34 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
-| 35 | [ابو خالد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 36 | [الفصل التاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 37 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 30 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 31 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
+| 32 | [المنتخب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 33 | [لورنس المنسي](http://twitter.com/search?q=%d9%84%d9%88%d8%b1%d9%86%d8%b3+%d8%a7%d9%84%d9%85%d9%86%d8%b3%d9%8a) | N/A |
+| 34 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 35 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
+| 36 | [ابو خالد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 37 | [الفصل التاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
 | 38 | [مونديال الانديه](http://twitter.com/search?q=%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | N/A |
 | 39 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 40 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |

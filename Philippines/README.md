@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-05 02:42:53 UTC`
+📆 Last Updated: `2023-02-05 03:21:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,42 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FEBIBIG ONASAP WITHKDLEX](http://twitter.com/search?q=FEBIBIG+ONASAP+WITHKDLEX) | FEBIBIG ONASAP WITHKDLEX is an acronym that stands for "Follow Every Best Instruction Before Implementing Good On A Short And Prompt Timeframe With Knowledge, Discipline, Logic, and Expertise". This phrase is used to emphasize the importance of following instructions carefully and thoroughly before beginning a task, and completing it in a timely manner with knowledge, discipline, logic, and expertise. |
-| 2 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
-| 3 | [FEBULOUS ANJI ON ASAP](http://twitter.com/search?q=FEBULOUS+ANJI+ON+ASAP) | N/A |
-| 4 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
-| 5 | [#DreamMaker4thRanking](http://twitter.com/search?q=%23DreamMaker4thRanking) | N/A |
-| 6 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
-| 7 | [#ทฤษฎีสีชมพูEP11](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP11) | #ทฤษฎีสีชมพูEP11 is the hashtag for the eleventh episode of the Thai television series Theory of Color Pink. The English translation of the hashtag would be "#TheoryofColorPinkEP11". |
-| 8 | [WALANG ARAY ON IWANTASAP](http://twitter.com/search?q=WALANG+ARAY+ON+IWANTASAP) | N/A |
-| 9 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 10 | [KINJI FEBlossoms ON ASAP](http://twitter.com/search?q=KINJI+FEBlossoms+ON+ASAP) | N/A |
-| 11 | [BGYO AniBEUSaryo OnASAP](http://twitter.com/search?q=BGYO+AniBEUSaryo+OnASAP) | N/A |
+| 1 | [BELLESayawnara ASAPSunday](http://twitter.com/search?q=BELLESayawnara+ASAPSunday) | BELLESayawnara ASAPSunday is a phrase in Japanese that translates to "Goodbye as soon as possible on Sunday". |
+| 2 | [FEBIBIG ONASAP WITHKDLEX](http://twitter.com/search?q=FEBIBIG+ONASAP+WITHKDLEX) | FEBIBIG ONASAP WITHKDLEX is an acronym that stands for "Follow Every Best Instruction Before Implementing Good On A Short And Prompt Timeframe With Knowledge, Discipline, Logic, and Expertise". This phrase is used to emphasize the importance of following instructions carefully and thoroughly before beginning a task, and completing it in a timely manner with knowledge, discipline, logic, and expertise. |
+| 3 | [WALANG ARAY ON IWANTASAP](http://twitter.com/search?q=WALANG+ARAY+ON+IWANTASAP) | WALANG ARAY ON IWANTASAP is a Filipino phrase that translates to "no problem on IWantASAP". It is used to indicate that there are no issues or difficulties with something on the IWantASAP platform. |
+| 4 | [FEBULOUS ANJI ON ASAP](http://twitter.com/search?q=FEBULOUS+ANJI+ON+ASAP) | FEBULOUS ANJI ON ASAP is a phrase used to describe something that is very exciting and happening quickly. It is usually used to express enthusiasm for an event or activity. In English, it could be translated as "Fantastic Anji on ASAP!" |
+| 5 | [ALEXA OnASAP28Years](http://twitter.com/search?q=ALEXA+OnASAP28Years) | N/A |
+| 6 | [BGYO AniBEUSaryo OnASAP](http://twitter.com/search?q=BGYO+AniBEUSaryo+OnASAP) | N/A |
+| 7 | [#BGYO_BeUs](http://twitter.com/search?q=%23BGYO_BeUs) | N/A |
+| 8 | [KINJI FEBlossoms ON ASAP](http://twitter.com/search?q=KINJI+FEBlossoms+ON+ASAP) | N/A |
+| 9 | [BINI NO FEAR ON ASAP](http://twitter.com/search?q=BINI+NO+FEAR+ON+ASAP) | N/A |
+| 10 | [#MANIFESTO_IN_MANILA_DAY3](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_DAY3) | N/A |
+| 11 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
 | 12 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 13 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 14 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 15 | [D5 THE VEST FIT](http://twitter.com/search?q=D5+THE+VEST+FIT) | N/A |
-| 16 | [AllTV](http://twitter.com/search?q=AllTV) | N/A |
-| 17 | [Sheena B FearlessFeb](http://twitter.com/search?q=Sheena+B+FearlessFeb) | N/A |
-| 18 | [REIVEN OUR FEBORITO](http://twitter.com/search?q=REIVEN+OUR+FEBORITO) | N/A |
-| 19 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 20 | [roommate fb series](http://twitter.com/search?q=roommate+fb+series) | N/A |
-| 21 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 22 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 24 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 25 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 26 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
-| 27 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 28 | [showtimeonlineu with zacham](http://twitter.com/search?q=showtimeonlineu+with+zacham) | N/A |
-| 29 | [creamline](http://twitter.com/search?q=creamline) | N/A |
-| 30 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [Happy 27th](http://twitter.com/search?q=Happy+27th) | N/A |
-| 33 | [vinster better together](http://twitter.com/search?q=vinster+better+together) | N/A |
-| 34 | [zacham tcobarkadahan](http://twitter.com/search?q=zacham+tcobarkadahan) | N/A |
-| 35 | [MARCUS RoadTo TOP7](http://twitter.com/search?q=MARCUS+RoadTo+TOP7) | N/A |
-| 36 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
-| 37 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
-| 38 | [SEATED FOR REYSTER](http://twitter.com/search?q=SEATED+FOR+REYSTER) | N/A |
-| 39 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
-| 40 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 41 | [aysus anjbrent](http://twitter.com/search?q=aysus+anjbrent) | N/A |
-| 42 | [kyleready ontop](http://twitter.com/search?q=kyleready+ontop) | N/A |
-| 43 | [ABS-CBN](http://twitter.com/search?q=ABS-CBN) | N/A |
-| 44 | [we dreilive in you](http://twitter.com/search?q=we+dreilive+in+you) | N/A |
-| 45 | [let jeromy debut](http://twitter.com/search?q=let+jeromy+debut) | N/A |
-| 46 | [madzilla](http://twitter.com/search?q=madzilla) | N/A |
-| 47 | [isa molde](http://twitter.com/search?q=isa+molde) | N/A |
-| 48 | [Willie](http://twitter.com/search?q=Willie) | N/A |
-| 49 | [V1NCI ON TOP](http://twitter.com/search?q=V1NCI+ON+TOP) | N/A |
-| 50 | [dindin](http://twitter.com/search?q=dindin) | N/A |
+| 13 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 14 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
+| 15 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 16 | [D5 THE VEST FIT](http://twitter.com/search?q=D5+THE+VEST+FIT) | N/A |
+| 17 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 18 | [AllTV](http://twitter.com/search?q=AllTV) | N/A |
+| 19 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 20 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 21 | [ABS-CBN](http://twitter.com/search?q=ABS-CBN) | N/A |
+| 22 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 23 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 24 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 25 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
+| 26 | [#Kice](http://twitter.com/search?q=%23Kice) | N/A |
+| 27 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 28 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
+| 29 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
+| 30 | [#배켜니_보답_받을준비완료](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%eb%b3%b4%eb%8b%b5_%eb%b0%9b%ec%9d%84%ec%a4%80%eb%b9%84%ec%99%84%eb%a3%8c) | "#배켜니_보답_받을준비완료" is a hashtag used on social media in South Korea. It translates to "Ready to receive a response from Baekeuni". Baekeuni is a popular South Korean singer and the hashtag is used by her fans to show their support and anticipation for her upcoming releases. |
+| 31 | [#미지의별_지성의_스물두번째_여행](http://twitter.com/search?q=%23%eb%af%b8%ec%a7%80%ec%9d%98%eb%b3%84_%ec%a7%80%ec%84%b1%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%91%90%eb%b2%88%ec%a7%b8_%ec%97%ac%ed%96%89) | "#미지의별_지성의_스물두번째_여행" is a hashtag used to promote the second travel of Jisung, a South Korean singer and actor. The hashtag translates to "Jisung's Second Travel of the Unknown Star". |
+| 32 | [#TAEHYUN](http://twitter.com/search?q=%23TAEHYUN) | N/A |
+| 33 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
+| 34 | [#VestValentineforVester](http://twitter.com/search?q=%23VestValentineforVester) | N/A |
+| 35 | [#온우주가_지성이_스물둘을_응원해](http://twitter.com/search?q=%23%ec%98%a8%ec%9a%b0%ec%a3%bc%ea%b0%80_%ec%a7%80%ec%84%b1%ec%9d%b4_%ec%8a%a4%eb%ac%bc%eb%91%98%ec%9d%84_%ec%9d%91%ec%9b%90%ed%95%b4) | N/A |
+| 36 | [#GAPtheseriesep11](http://twitter.com/search?q=%23GAPtheseriesep11) | N/A |
 
 
 

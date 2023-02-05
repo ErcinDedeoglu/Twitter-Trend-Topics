@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-05 02:42:50 UTC`
+📆 Last Updated: `2023-02-05 03:21:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,10 +27,10 @@ This is top 50 for Israel
 | 10 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
 | 11 | [ניר ביטון](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
 | 12 | [מאיר חביב](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%97%d7%91%d7%99%d7%91) | N/A |
-| 13 | [של סכנין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%9b%d7%a0%d7%99%d7%9f) | N/A |
-| 14 | [פטריוט אמיתי](http://twitter.com/search?q=%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%98+%d7%90%d7%9e%d7%99%d7%aa%d7%99) | N/A |
-| 15 | [גד עמוס](http://twitter.com/search?q=%d7%92%d7%93+%d7%a2%d7%9e%d7%95%d7%a1) | N/A |
-| 16 | [יונתן כהן](http://twitter.com/search?q=%d7%99%d7%95%d7%a0%d7%aa%d7%9f+%d7%9b%d7%94%d7%9f) | N/A |
+| 13 | [פטריוט אמיתי](http://twitter.com/search?q=%d7%a4%d7%98%d7%a8%d7%99%d7%95%d7%98+%d7%90%d7%9e%d7%99%d7%aa%d7%99) | N/A |
+| 14 | [גד עמוס](http://twitter.com/search?q=%d7%92%d7%93+%d7%a2%d7%9e%d7%95%d7%a1) | N/A |
+| 15 | [יונתן כהן](http://twitter.com/search?q=%d7%99%d7%95%d7%a0%d7%aa%d7%9f+%d7%9b%d7%94%d7%9f) | N/A |
+| 16 | [של סכנין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%9b%d7%a0%d7%99%d7%9f) | N/A |
 | 17 | [גיא מלמד](http://twitter.com/search?q=%d7%92%d7%99%d7%90+%d7%9e%d7%9c%d7%9e%d7%93) | N/A |
 | 18 | [יעל גרמן](http://twitter.com/search?q=%d7%99%d7%a2%d7%9c+%d7%92%d7%a8%d7%9e%d7%9f) | N/A |
 | 19 | [מאות אלפים](http://twitter.com/search?q=%d7%9e%d7%90%d7%95%d7%aa+%d7%90%d7%9c%d7%a4%d7%99%d7%9d) | N/A |

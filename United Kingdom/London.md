@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-05 02:42:03 UTC`
+📆 Last Updated: `2023-02-05 03:20:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 2 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
-| 3 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
-| 4 | [#HBDTheSimsGiveaway](http://twitter.com/search?q=%23HBDTheSimsGiveaway) | N/A |
-| 5 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
-| 6 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
-| 7 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 8 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | N/A |
-| 9 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
-| 10 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 11 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 12 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
-| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 14 | [Roy Orbison](http://twitter.com/search?q=Roy+Orbison) | N/A |
-| 15 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
-| 16 | [Torygraph](http://twitter.com/search?q=Torygraph) | N/A |
-| 17 | [Kwasi](http://twitter.com/search?q=Kwasi) | N/A |
-| 18 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
-| 19 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 20 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 21 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
-| 22 | [Halliday](http://twitter.com/search?q=Halliday) | N/A |
-| 23 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 24 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 25 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 26 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 27 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
-| 28 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 29 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 30 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 31 | [Knitting](http://twitter.com/search?q=Knitting) | N/A |
-| 32 | [Delusional](http://twitter.com/search?q=Delusional) | N/A |
-| 33 | [Amber Riley](http://twitter.com/search?q=Amber+Riley) | Amber Riley is an American actress, singer, and author. She is best known for her role as Mercedes Jones on the Fox musical comedy-drama series Glee. The name Amber Riley means "ruler of the sky" or "heavenly ruler". |
-| 34 | [Steps](http://twitter.com/search?q=Steps) | Steps is a term used to refer to the individual actions or stages of a process. It can also refer to the physical steps taken in a dance or other activity. In English, it is used to describe the process of doing something, often in a systematic way. |
-| 35 | [James Arthur](http://twitter.com/search?q=James+Arthur) | James Arthur is a British singer and songwriter. He rose to fame after winning the ninth series of The X Factor in 2012. His debut single, "Impossible", was released in December 2012 and peaked at number one on the UK Singles Chart. |
-| 36 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
-| 37 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 38 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 39 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 40 | [Calcutta Cup](http://twitter.com/search?q=Calcutta+Cup) | N/A |
-| 41 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
-| 42 | [Agbonlahor](http://twitter.com/search?q=Agbonlahor) | N/A |
-| 43 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
-| 44 | [Jacket Potato](http://twitter.com/search?q=Jacket+Potato) | A Jacket Potato is a type of baked potato that is cooked in its skin. It is also known as a baked potato or a jacketed potato. The term "jacket" refers to the potato's outer skin, which is left on during the cooking process. The potato can be served with a variety of toppings, such as butter, cheese, sour cream, bacon bits, chives, and other condiments. |
-| 45 | [Youngs](http://twitter.com/search?q=Youngs) | N/A |
-| 46 | [Claire Richards](http://twitter.com/search?q=Claire+Richards) | Claire Richards is a British singer and songwriter, best known as a member of the pop group Steps. She is also a solo artist and has released two solo albums. The name Claire Richards is derived from her given name, Claire Louise Richards. |
-| 47 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 48 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 49 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
+| 1 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
+| 2 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 3 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
+| 4 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 5 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 6 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | N/A |
+| 7 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
+| 8 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 9 | [#MaskedSingerUK](http://twitter.com/search?q=%23MaskedSingerUK) | #MaskedSingerUK is a British television show based on the South Korean format of the same name. Contestants perform in elaborate costumes and masks, with their identities hidden from the audience and judges. The show follows a guessing game format, with viewers attempting to guess the identity of each singer based on clues given throughout the show. |
+| 10 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 11 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
+| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 13 | [Roy Orbison](http://twitter.com/search?q=Roy+Orbison) | N/A |
+| 14 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
+| 15 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 16 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 17 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 18 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 19 | [Halliday](http://twitter.com/search?q=Halliday) | N/A |
+| 20 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 21 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
+| 22 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 23 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 24 | [Knitting](http://twitter.com/search?q=Knitting) | N/A |
+| 25 | [Delusional](http://twitter.com/search?q=Delusional) | N/A |
+| 26 | [Amber Riley](http://twitter.com/search?q=Amber+Riley) | Amber Riley is an American actress, singer, and author. She is best known for her role as Mercedes Jones on the Fox musical comedy-drama series Glee. The name Amber Riley means "ruler of the sky" or "heavenly ruler". |
+| 27 | [Steps](http://twitter.com/search?q=Steps) | Steps is a term used to refer to the individual actions or stages of a process. It can also refer to the physical steps taken in a dance or other activity. In English, it is used to describe the process of doing something, often in a systematic way. |
+| 28 | [James Arthur](http://twitter.com/search?q=James+Arthur) | James Arthur is a British singer and songwriter. He rose to fame after winning the ninth series of The X Factor in 2012. His debut single, "Impossible", was released in December 2012 and peaked at number one on the UK Singles Chart. |
+| 29 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 30 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 31 | [Leigh](http://twitter.com/search?q=Leigh) | N/A |
+| 32 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
+| 33 | [Jacket Potato](http://twitter.com/search?q=Jacket+Potato) | A Jacket Potato is a type of baked potato that is cooked in its skin. It is also known as a baked potato or a jacketed potato. The term "jacket" refers to the potato's outer skin, which is left on during the cooking process. The potato can be served with a variety of toppings, such as butter, cheese, sour cream, bacon bits, chives, and other condiments. |
+| 34 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 35 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 36 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
+| 37 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 38 | [insta](http://twitter.com/search?q=insta) | N/A |
+| 39 | [#JoJoRabbit](http://twitter.com/search?q=%23JoJoRabbit) | N/A |
+| 40 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 41 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
+| 42 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | #ChineseSpyBalloon is a hashtag used to refer to a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activity on the ground. The term is often used in a derogatory manner to criticize China's surveillance activities. |
+| 43 | [#LimitlessWin](http://twitter.com/search?q=%23LimitlessWin) | N/A |
+| 44 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | BenidormFest is an annual music festival held in Benidorm, Spain. It features a variety of genres including rock, pop, electronic, and hip-hop. The festival is known for its vibrant atmosphere and diverse lineup of international artists. |
+| 45 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 46 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
+| 47 | [#HBDTheSimsGiveaway](http://twitter.com/search?q=%23HBDTheSimsGiveaway) | N/A |
 
 
 

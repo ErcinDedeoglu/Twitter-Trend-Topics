@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-02-05 02:42:26 UTC`
+📆 Last Updated: `2023-02-05 03:20:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [FEBIBIG ONASAP WITHKDLEX](http://twitter.com/search?q=FEBIBIG+ONASAP+WITHKDLEX) | FEBIBIG ONASAP WITHKDLEX is an acronym that stands for "Follow Every Best Instruction Before Implementing Good On A Short And Prompt Timeframe With Knowledge, Discipline, Logic, and Expertise". This phrase is used to emphasize the importance of following instructions carefully and thoroughly before beginning a task, and completing it in a timely manner with knowledge, discipline, logic, and expertise. |
-| 2 | [FEBIBIG ONASAP WITHKDLEX](http://twitter.com/search?q=FEBIBIG+ONASAP+WITHKDLEX) | FEBIBIG ONASAP WITHKDLEX is an acronym that stands for "Follow Every Best Instruction Before Implementing Good On A Short And Prompt Timeframe With Knowledge, Discipline, Logic, and Expertise". This phrase is used to emphasize the importance of following instructions carefully and thoroughly before beginning a task, and completing it in a timely manner with knowledge, discipline, logic, and expertise. |
-| 3 | [FEBIBIG ONASAP WITHKDLEX](http://twitter.com/search?q=FEBIBIG+ONASAP+WITHKDLEX) | FEBIBIG ONASAP WITHKDLEX is an acronym that stands for "Follow Every Best Instruction Before Implementing Good On A Short And Prompt Timeframe With Knowledge, Discipline, Logic, and Expertise". This phrase is used to emphasize the importance of following instructions carefully and thoroughly before beginning a task, and completing it in a timely manner with knowledge, discipline, logic, and expertise. |
+| 2 | [BELLESayawnara ASAPSunday](http://twitter.com/search?q=BELLESayawnara+ASAPSunday) | BELLESayawnara ASAPSunday is a phrase in Japanese that translates to "Goodbye as soon as possible on Sunday". |
+| 3 | [WALANG ARAY ON IWANTASAP](http://twitter.com/search?q=WALANG+ARAY+ON+IWANTASAP) | WALANG ARAY ON IWANTASAP is a Filipino phrase that translates to "no problem on IWantASAP". It is used to indicate that there are no issues or difficulties with something on the IWantASAP platform. |
 | 4 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
-| 5 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
-| 6 | [#DreamMaker4thRanking](http://twitter.com/search?q=%23DreamMaker4thRanking) | N/A |
+| 5 | [FEBULOUS ANJI ON ASAP](http://twitter.com/search?q=FEBULOUS+ANJI+ON+ASAP) | FEBULOUS ANJI ON ASAP is a phrase used to describe something that is very exciting and happening quickly. It is usually used to express enthusiasm for an event or activity. In English, it could be translated as "Fantastic Anji on ASAP!" |
+| 6 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
 | 7 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
-| 8 | [#ทฤษฎีสีชมพูEP11](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP11) | #ทฤษฎีสีชมพูEP11 is the hashtag for the eleventh episode of the Thai television series Theory of Color Pink. The English translation of the hashtag would be "#TheoryofColorPinkEP11". |
-| 9 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 10 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 11 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 12 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 13 | [D5 THE VEST FIT](http://twitter.com/search?q=D5+THE+VEST+FIT) | N/A |
-| 14 | [Sheena B FearlessFeb](http://twitter.com/search?q=Sheena+B+FearlessFeb) | N/A |
-| 15 | [AllTV](http://twitter.com/search?q=AllTV) | N/A |
-| 16 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 17 | [roommate fb series](http://twitter.com/search?q=roommate+fb+series) | N/A |
-| 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 19 | [REIVEN OUR FEBORITO](http://twitter.com/search?q=REIVEN+OUR+FEBORITO) | N/A |
-| 20 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 23 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 24 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
-| 25 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 26 | [showtimeonlineu with zacham](http://twitter.com/search?q=showtimeonlineu+with+zacham) | N/A |
-| 27 | [creamline](http://twitter.com/search?q=creamline) | N/A |
-| 28 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [vinster better together](http://twitter.com/search?q=vinster+better+together) | N/A |
-| 31 | [zacham tcobarkadahan](http://twitter.com/search?q=zacham+tcobarkadahan) | N/A |
-| 32 | [MARCUS RoadTo TOP7](http://twitter.com/search?q=MARCUS+RoadTo+TOP7) | N/A |
-| 33 | [ngayong february na](http://twitter.com/search?q=ngayong+february+na) | N/A |
-| 34 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
-| 35 | [SEATED FOR REYSTER](http://twitter.com/search?q=SEATED+FOR+REYSTER) | N/A |
-| 36 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
-| 37 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 38 | [aysus anjbrent](http://twitter.com/search?q=aysus+anjbrent) | N/A |
-| 39 | [kyleready ontop](http://twitter.com/search?q=kyleready+ontop) | N/A |
-| 40 | [ABS-CBN](http://twitter.com/search?q=ABS-CBN) | N/A |
-| 41 | [we dreilive in you](http://twitter.com/search?q=we+dreilive+in+you) | N/A |
-| 42 | [let jeromy debut](http://twitter.com/search?q=let+jeromy+debut) | N/A |
-| 43 | [Willie](http://twitter.com/search?q=Willie) | N/A |
-| 44 | [madzilla](http://twitter.com/search?q=madzilla) | N/A |
-| 45 | [isa molde](http://twitter.com/search?q=isa+molde) | N/A |
-| 46 | [V1NCI ON TOP](http://twitter.com/search?q=V1NCI+ON+TOP) | N/A |
-| 47 | [dindin](http://twitter.com/search?q=dindin) | N/A |
-| 48 | [foureverpangga djkara](http://twitter.com/search?q=foureverpangga+djkara) | N/A |
-| 49 | [mnl48 on akbgroup circlejam](http://twitter.com/search?q=mnl48+on+akbgroup+circlejam) | N/A |
-| 50 | [LAST DAY](http://twitter.com/search?q=LAST+DAY) | N/A |
+| 8 | [#DreamMaker4thRanking](http://twitter.com/search?q=%23DreamMaker4thRanking) | N/A |
+| 9 | [#ทฤษฎีสีชมพูEP11](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP11) | #ทฤษฎีสีชมพูEP11 is the hashtag for the eleventh episode of the Thai television series Theory of Color Pink. The English translation of the hashtag would be "#TheoryofColorPinkEP11". |
+| 10 | [BGYO AniBEUSaryo OnASAP](http://twitter.com/search?q=BGYO+AniBEUSaryo+OnASAP) | N/A |
+| 11 | [ALEXA OnASAP28Years](http://twitter.com/search?q=ALEXA+OnASAP28Years) | N/A |
+| 12 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
+| 13 | [KINJI FEBlossoms ON ASAP](http://twitter.com/search?q=KINJI+FEBlossoms+ON+ASAP) | N/A |
+| 14 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 15 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 16 | [BALIK ASAP NA SI JONA](http://twitter.com/search?q=BALIK+ASAP+NA+SI+JONA) | N/A |
+| 17 | [AllTV](http://twitter.com/search?q=AllTV) | N/A |
+| 18 | [Sheena B FearlessFeb](http://twitter.com/search?q=Sheena+B+FearlessFeb) | N/A |
+| 19 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 20 | [D5 THE VEST FIT](http://twitter.com/search?q=D5+THE+VEST+FIT) | N/A |
+| 21 | [roommate fb series](http://twitter.com/search?q=roommate+fb+series) | N/A |
+| 22 | [REIVEN OUR FEBORITO](http://twitter.com/search?q=REIVEN+OUR+FEBORITO) | N/A |
+| 23 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 24 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 25 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 26 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 27 | [Sam Mangubat](http://twitter.com/search?q=Sam+Mangubat) | N/A |
+| 28 | [showtimeonlineu with zacham](http://twitter.com/search?q=showtimeonlineu+with+zacham) | N/A |
+| 29 | [FEBoretTandem MAYWARD](http://twitter.com/search?q=FEBoretTandem+MAYWARD) | N/A |
+| 30 | [creamline](http://twitter.com/search?q=creamline) | N/A |
+| 31 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 32 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 33 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 36 | [Happy 27th](http://twitter.com/search?q=Happy+27th) | N/A |
+| 37 | [vinster better together](http://twitter.com/search?q=vinster+better+together) | N/A |
+| 38 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
+| 39 | [MARCUS RoadTo TOP7](http://twitter.com/search?q=MARCUS+RoadTo+TOP7) | N/A |
+| 40 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
+| 41 | [heehoon live](http://twitter.com/search?q=heehoon+live) | N/A |
+| 42 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
+| 43 | [SEATED FOR REYSTER](http://twitter.com/search?q=SEATED+FOR+REYSTER) | N/A |
+| 44 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 45 | [ABS-CBN](http://twitter.com/search?q=ABS-CBN) | N/A |
+| 46 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 47 | [aysus anjbrent](http://twitter.com/search?q=aysus+anjbrent) | N/A |
+| 48 | [kyleready ontop](http://twitter.com/search?q=kyleready+ontop) | N/A |
+| 49 | [Our Father](http://twitter.com/search?q=Our+Father) | N/A |
+| 50 | [we dreilive in you](http://twitter.com/search?q=we+dreilive+in+you) | N/A |
 
 
 

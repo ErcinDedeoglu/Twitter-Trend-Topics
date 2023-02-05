@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-05 02:42:12 UTC`
+📆 Last Updated: `2023-02-05 03:20:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WSCSVR](http://twitter.com/search?q=%23WSCSVR) | N/A |
+| 1 | [#wscsvr](http://twitter.com/search?q=%23wscsvr) | N/A |
 | 2 | [#rbsstu](http://twitter.com/search?q=%23rbsstu) | N/A |
-| 3 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 4 | [Erbschaftssteuer](http://twitter.com/search?q=Erbschaftssteuer) | N/A |
-| 5 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 6 | [#chamonix](http://twitter.com/search?q=%23chamonix) | N/A |
+| 3 | [Erbschaftssteuer](http://twitter.com/search?q=Erbschaftssteuer) | N/A |
+| 4 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 5 | [#chamonix](http://twitter.com/search?q=%23chamonix) | N/A |
+| 6 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
 | 7 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 8 | [America](http://twitter.com/search?q=America) | N/A |
 | 9 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for [Austria](</Austria>)
 | 39 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
 | 40 | [Infrastruktur](http://twitter.com/search?q=Infrastruktur) | N/A |
 | 41 | [Eigentum](http://twitter.com/search?q=Eigentum) | N/A |
-| 42 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 43 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 44 | [strache](http://twitter.com/search?q=strache) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [Gegenden](http://twitter.com/search?q=Gegenden) | N/A |
-| 47 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 48 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 49 | [Betriebe](http://twitter.com/search?q=Betriebe) | N/A |
-| 50 | [guten morgen leo](http://twitter.com/search?q=guten+morgen+leo) | N/A |
+| 42 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
+| 43 | [strache](http://twitter.com/search?q=strache) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Gegenden](http://twitter.com/search?q=Gegenden) | N/A |
+| 46 | [Rand](http://twitter.com/search?q=Rand) | N/A |
+| 47 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 48 | [Betriebe](http://twitter.com/search?q=Betriebe) | N/A |
+| 49 | [guten morgen leo](http://twitter.com/search?q=guten+morgen+leo) | N/A |
+| 50 | [Mist](http://twitter.com/search?q=Mist) | N/A |
 
 
 

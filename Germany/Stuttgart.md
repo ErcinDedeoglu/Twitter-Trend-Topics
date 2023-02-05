@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-05 02:42:15 UTC`
+📆 Last Updated: `2023-02-05 03:20:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
-| 2 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
-| 3 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
+| 1 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
+| 2 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
+| 3 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
 | 4 | [#SGEBSC](http://twitter.com/search?q=%23SGEBSC) | N/A |
 | 5 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 6 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
@@ -32,38 +32,38 @@ This is top 50 for [Germany](</Germany>)
 | 15 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
 | 16 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
 | 17 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 18 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 19 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
-| 20 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 18 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
+| 19 | [schiri](http://twitter.com/search?q=schiri) | N/A |
+| 20 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 21 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 22 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
 | 23 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 24 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 25 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
-| 26 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
-| 27 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
-| 28 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 29 | [Abschuss](http://twitter.com/search?q=Abschuss) | N/A |
-| 30 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 31 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
-| 32 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 33 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 35 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
-| 36 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 37 | [süle](http://twitter.com/search?q=s%c3%bcle) | N/A |
-| 38 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 39 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 40 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
-| 41 | [Chebli](http://twitter.com/search?q=Chebli) | N/A |
-| 42 | [Buddy Holly](http://twitter.com/search?q=Buddy+Holly) | N/A |
-| 43 | [Über den Wolken](http://twitter.com/search?q=%c3%9cber+den+Wolken) | N/A |
-| 44 | [Apfel](http://twitter.com/search?q=Apfel) | N/A |
-| 45 | [Asta](http://twitter.com/search?q=Asta) | N/A |
-| 46 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 47 | [Fouls](http://twitter.com/search?q=Fouls) | N/A |
-| 48 | [Taxifahrer](http://twitter.com/search?q=Taxifahrer) | N/A |
-| 49 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
+| 24 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
+| 25 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
+| 26 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
+| 27 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 28 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 29 | [Farke](http://twitter.com/search?q=Farke) | N/A |
+| 30 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
+| 31 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 32 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 33 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
+| 34 | [elfer](http://twitter.com/search?q=elfer) | N/A |
+| 35 | [süle](http://twitter.com/search?q=s%c3%bcle) | N/A |
+| 36 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 37 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 38 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
+| 39 | [Chebli](http://twitter.com/search?q=Chebli) | N/A |
+| 40 | [Über den Wolken](http://twitter.com/search?q=%c3%9cber+den+Wolken) | N/A |
+| 41 | [Apfel](http://twitter.com/search?q=Apfel) | N/A |
+| 42 | [Fouls](http://twitter.com/search?q=Fouls) | N/A |
+| 43 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 44 | [Taxifahrer](http://twitter.com/search?q=Taxifahrer) | N/A |
+| 45 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
+| 46 | [Dispo](http://twitter.com/search?q=Dispo) | N/A |
+| 47 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 48 | [Hafermilch](http://twitter.com/search?q=Hafermilch) | N/A |
+| 49 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
 
 
 

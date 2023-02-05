@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-02-05 02:42:05 UTC`
+📆 Last Updated: `2023-02-05 03:20:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 2 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 3 | [Carlos Vargas](http://twitter.com/search?q=Carlos+Vargas) | N/A |
-| 4 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 5 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
-| 6 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 7 | [Potro](http://twitter.com/search?q=Potro) | N/A |
-| 8 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 9 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
-| 10 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
-| 11 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
-| 12 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 13 | [Aldo Farias](http://twitter.com/search?q=Aldo+Farias) | N/A |
-| 14 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 15 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 1 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 2 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 3 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 4 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 5 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 6 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 7 | [Carlos Vargas](http://twitter.com/search?q=Carlos+Vargas) | N/A |
+| 8 | [Potro](http://twitter.com/search?q=Potro) | N/A |
+| 9 | [Factor](http://twitter.com/search?q=Factor) | N/A |
+| 10 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
+| 11 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
+| 12 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 13 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
+| 14 | [#LuveBuildtotheMoon](http://twitter.com/search?q=%23LuveBuildtotheMoon) | N/A |
+| 15 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
 | 16 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
-| 17 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
-| 18 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 19 | [Perxitaa](http://twitter.com/search?q=Perxitaa) | N/A |
-| 20 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 21 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 22 | [Tiza](http://twitter.com/search?q=Tiza) | N/A |
-| 23 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
-| 24 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 25 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 26 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 27 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 28 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 29 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 30 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 31 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 32 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 33 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 34 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 35 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | N/A |
-| 36 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | BenidormFest is an annual music festival held in Benidorm, Spain. It features a variety of genres including rock, pop, electronic, and hip-hop. The festival is known for its vibrant atmosphere and diverse lineup of international artists. |
-| 37 | [carre](http://twitter.com/search?q=carre) | N/A |
-| 38 | [Tula](http://twitter.com/search?q=Tula) | N/A |
-| 39 | [Toro](http://twitter.com/search?q=Toro) | N/A |
-| 40 | [Danna](http://twitter.com/search?q=Danna) | N/A |
-| 41 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 42 | [ITAM](http://twitter.com/search?q=ITAM) | N/A |
-| 43 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 44 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 45 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 46 | [Seattle Sounders](http://twitter.com/search?q=Seattle+Sounders) | Seattle Sounders is a professional soccer team based in Seattle, Washington. The team competes in Major League Soccer (MLS) as a member of the Western Conference. The Sounders play their home games at CenturyLink Field, and are the reigning MLS Cup champions. The team's name is derived from Seattle's maritime culture, as well as from the prominent role of the city's shipping industry in the early 20th century. |
-| 47 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 48 | [#DíaMundialContraElCáncer](http://twitter.com/search?q=%23D%c3%adaMundialContraElC%c3%a1ncer) | N/A |
+| 17 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 18 | [Aldo Farias](http://twitter.com/search?q=Aldo+Farias) | N/A |
+| 19 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 20 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 21 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
+| 22 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 23 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 24 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 25 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 26 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 27 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 28 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 29 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
+| 30 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 31 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 32 | [Perxitaa](http://twitter.com/search?q=Perxitaa) | N/A |
+| 33 | [Rambler](http://twitter.com/search?q=Rambler) | N/A |
+| 34 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
+| 35 | [Tiza](http://twitter.com/search?q=Tiza) | N/A |
+| 36 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 37 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 38 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 39 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
+| 40 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 41 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 42 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 43 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 44 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 45 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 46 | [NAMJOON OUR PRIDE AND JOY](http://twitter.com/search?q=NAMJOON+OUR+PRIDE+AND+JOY) | "NAMJOON OUR PRIDE AND JOY" is a phrase used to express admiration and love for the South Korean rapper, songwriter, and record producer, Kim Namjoon (also known as RM). It is a way of expressing pride in his accomplishments and joy in his presence. In English, it means that we are proud of Namjoon and we are filled with joy because of him. |
+| 47 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 48 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
 
 
 

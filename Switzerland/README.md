@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-05 02:42:54 UTC`
+📆 Last Updated: `2023-02-05 03:21:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,7 +31,7 @@ This is top 50 for Switzerland
 | 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 15 | [America](http://twitter.com/search?q=America) | N/A |
 | 16 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 17 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 17 | [neutralität](http://twitter.com/search?q=neutralit%c3%a4t) | N/A |
 | 18 | [Leos](http://twitter.com/search?q=Leos) | N/A |
 | 19 | [cervenka](http://twitter.com/search?q=cervenka) | N/A |
 | 20 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
@@ -39,11 +39,11 @@ This is top 50 for Switzerland
 | 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 23 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 | 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 25 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 28 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 26 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 28 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 29 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
 | 30 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
 | 31 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
 | 32 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |

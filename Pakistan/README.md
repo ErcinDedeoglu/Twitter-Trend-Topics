@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-05 02:42:52 UTC`
+📆 Last Updated: `2023-02-05 03:21:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for Pakistan
 | 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 11 | [Kaaba](http://twitter.com/search?q=Kaaba) | N/A |
-| 12 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
-| 13 | [mrs. janet](http://twitter.com/search?q=mrs.+janet) | N/A |
-| 14 | [happy birthday bibi](http://twitter.com/search?q=happy+birthday+bibi) | N/A |
+| 12 | [mrs. janet](http://twitter.com/search?q=mrs.+janet) | N/A |
+| 13 | [happy birthday bibi](http://twitter.com/search?q=happy+birthday+bibi) | N/A |
+| 14 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
 | 15 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 16 | [I-10](http://twitter.com/search?q=I-10) | N/A |
 | 17 | [Momineen](http://twitter.com/search?q=Momineen) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for Pakistan
 | 19 | [Maula e Kainat](http://twitter.com/search?q=Maula+e+Kainat) | N/A |
 | 20 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
 | 21 | [ahlebait](http://twitter.com/search?q=ahlebait) | N/A |
-| 22 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 23 | [Commander of the Faithful](http://twitter.com/search?q=Commander+of+the+Faithful) | N/A |
-| 24 | [mr sagar](http://twitter.com/search?q=mr+sagar) | N/A |
+| 22 | [Commander of the Faithful](http://twitter.com/search?q=Commander+of+the+Faithful) | N/A |
+| 23 | [mr sagar](http://twitter.com/search?q=mr+sagar) | N/A |
+| 24 | [Hazrat Ali](http://twitter.com/search?q=Hazrat+Ali) | N/A |
 | 25 | [Lion of Allah](http://twitter.com/search?q=Lion+of+Allah) | N/A |
 | 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 27 | [Khaybar](http://twitter.com/search?q=Khaybar) | N/A |
-| 28 | [Hazrat Ali](http://twitter.com/search?q=Hazrat+Ali) | N/A |
-| 29 | [AUDIENCE WINNER SUMBUL](http://twitter.com/search?q=AUDIENCE+WINNER+SUMBUL) | AUDIENCE WINNER SUMBUL is a phrase used to describe a person who has won an audience award or prize. It is usually used in the context of a competition or event where the audience has voted for their favorite contestant or performance. The phrase literally translates to "audience winner" in English. |
-| 30 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 31 | [Bitreek by the Ethiopians](http://twitter.com/search?q=Bitreek+by+the+Ethiopians) | N/A |
-| 32 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [Elia in the Bible](http://twitter.com/search?q=Elia+in+the+Bible) | N/A |
-| 35 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 36 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 37 | [Kabir](http://twitter.com/search?q=Kabir) | N/A |
-| 38 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 39 | [Balochistan Police](http://twitter.com/search?q=Balochistan+Police) | N/A |
-| 40 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 41 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 42 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 43 | [Abhi](http://twitter.com/search?q=Abhi) | N/A |
-| 44 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 45 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 46 | [Dear Customer](http://twitter.com/search?q=Dear+Customer) | N/A |
-| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 48 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 49 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 50 | [America](http://twitter.com/search?q=America) | N/A |
+| 28 | [AUDIENCE WINNER SUMBUL](http://twitter.com/search?q=AUDIENCE+WINNER+SUMBUL) | AUDIENCE WINNER SUMBUL is a phrase used to describe a person who has won an audience award or prize. It is usually used in the context of a competition or event where the audience has voted for their favorite contestant or performance. The phrase literally translates to "audience winner" in English. |
+| 29 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
+| 30 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
+| 31 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 32 | [Aameen](http://twitter.com/search?q=Aameen) | N/A |
+| 33 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
+| 34 | [Bitreek by the Ethiopians](http://twitter.com/search?q=Bitreek+by+the+Ethiopians) | N/A |
+| 35 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
+| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 37 | [Elia in the Bible](http://twitter.com/search?q=Elia+in+the+Bible) | N/A |
+| 38 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 39 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 40 | [Lannat](http://twitter.com/search?q=Lannat) | N/A |
+| 41 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
+| 42 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 43 | [Kabir](http://twitter.com/search?q=Kabir) | N/A |
+| 44 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 45 | [Balochistan Police](http://twitter.com/search?q=Balochistan+Police) | N/A |
+| 46 | [Islamic Republic of Pakistan](http://twitter.com/search?q=Islamic+Republic+of+Pakistan) | N/A |
+| 47 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
+| 48 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 49 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 50 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
 
 
 

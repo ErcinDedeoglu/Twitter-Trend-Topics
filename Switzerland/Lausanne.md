@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-05 02:42:18 UTC`
+📆 Last Updated: `2023-02-05 03:20:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,11 +39,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 23 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 | 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 25 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 28 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 26 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 28 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 29 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
 | 30 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
 | 31 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
 | 32 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
