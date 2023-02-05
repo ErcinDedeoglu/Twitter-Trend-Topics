@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-05 12:18:57 UTC`
+📆 Last Updated: `2023-02-05 13:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 3 | [#SchlagdenStar](http://twitter.com/search?q=%23SchlagdenStar) | N/A |
-| 4 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
-| 5 | [#JKvsP7](http://twitter.com/search?q=%23JKvsP7) | N/A |
-| 6 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 7 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
+| 2 | [#fcsph96](http://twitter.com/search?q=%23fcsph96) | N/A |
+| 3 | [#FCHHSV](http://twitter.com/search?q=%23FCHHSV) | N/A |
+| 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 5 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
+| 6 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
+| 7 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
 | 8 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
 | 9 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 10 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 11 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
-| 12 | [Herr Wüst](http://twitter.com/search?q=Herr+W%c3%bcst) | N/A |
-| 13 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 14 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 15 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
+| 10 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 11 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 12 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 13 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
+| 14 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 15 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
 | 16 | [Zurückhaltung](http://twitter.com/search?q=Zur%c3%bcckhaltung) | N/A |
-| 17 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 18 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 19 | [Laken](http://twitter.com/search?q=Laken) | N/A |
-| 20 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 21 | [Sonntag Morgen](http://twitter.com/search?q=Sonntag+Morgen) | N/A |
+| 17 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 18 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 19 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
+| 20 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 21 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
 | 22 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 23 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 24 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 25 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 26 | [Freiheit und Demokratie](http://twitter.com/search?q=Freiheit+und+Demokratie) | N/A |
+| 23 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 24 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
+| 25 | [Schneeflocken](http://twitter.com/search?q=Schneeflocken) | N/A |
+| 26 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
 | 27 | [kerner](http://twitter.com/search?q=kerner) | N/A |
-| 28 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
+| 28 | [Indexmieten](http://twitter.com/search?q=Indexmieten) | N/A |
 | 29 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 30 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
-| 31 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 32 | ['Popkultur'](http://twitter.com/search?q=%27Popkultur%27) | N/A |
-| 33 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 34 | [Mittagessen](http://twitter.com/search?q=Mittagessen) | N/A |
-| 35 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 36 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
-| 37 | [St. Pauli](http://twitter.com/search?q=St.+Pauli) | N/A |
-| 38 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 39 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 40 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 41 | [Söldner](http://twitter.com/search?q=S%c3%b6ldner) | N/A |
-| 42 | [Herr Maaßen](http://twitter.com/search?q=Herr+Maa%c3%9fen) | N/A |
-| 43 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 44 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 45 | [Afrikaner](http://twitter.com/search?q=Afrikaner) | N/A |
-| 46 | [Badezimmer](http://twitter.com/search?q=Badezimmer) | N/A |
-| 47 | [Eberl](http://twitter.com/search?q=Eberl) | N/A |
-| 48 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 49 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 30 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 31 | [Mittagessen](http://twitter.com/search?q=Mittagessen) | N/A |
+| 32 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
+| 33 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 34 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 35 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 36 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 37 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 38 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 39 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 40 | [Odessa](http://twitter.com/search?q=Odessa) | N/A |
+| 41 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 42 | [Tablet](http://twitter.com/search?q=Tablet) | N/A |
+| 43 | [Happy Lantern Festival](http://twitter.com/search?q=Happy+Lantern+Festival) | N/A |
+| 44 | [Laken](http://twitter.com/search?q=Laken) | N/A |
+| 45 | [Lebensstil](http://twitter.com/search?q=Lebensstil) | N/A |
+| 46 | [Investitionen](http://twitter.com/search?q=Investitionen) | N/A |
+| 47 | [Hafermilch](http://twitter.com/search?q=Hafermilch) | N/A |
+| 48 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 49 | [abschuss](http://twitter.com/search?q=abschuss) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seoul
 
-📆 Last Updated: `2023-02-05 12:19:07 UTC`
+📆 Last Updated: `2023-02-05 13:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [사모예드](http://twitter.com/search?q=%ec%82%ac%eb%aa%a8%ec%98%88%eb%93%9c) | N/A |
-| 2 | [미세먼지](http://twitter.com/search?q=%eb%af%b8%ec%84%b8%eb%a8%bc%ec%a7%80) | 미세먼지 (mise meonji) is a type of air pollution made up of tiny particles that are 2.5 micrometers or smaller in diameter. It is also known as fine particulate matter and can be hazardous to human health if inhaled. In English, it is referred to as "fine dust" or "micro dust". |
-| 3 | [디카프리오](http://twitter.com/search?q=%eb%94%94%ec%b9%b4%ed%94%84%eb%a6%ac%ec%98%a4) | N/A |
-| 4 | [#아프지마지훈아](http://twitter.com/search?q=%23%ec%95%84%ed%94%84%ec%a7%80%eb%a7%88%ec%a7%80%ed%9b%88%ec%95%84) | N/A |
-| 5 | [정월대보름](http://twitter.com/search?q=%ec%a0%95%ec%9b%94%eb%8c%80%eb%b3%b4%eb%a6%84) | N/A |
-| 6 | [돼지고기](http://twitter.com/search?q=%eb%8f%bc%ec%a7%80%ea%b3%a0%ea%b8%b0) | 돼지고기 is a type of meat in Korean cuisine, made from pork. It literally translates to "pig meat" in English. |
-| 7 | [#MYYOUTH_JISUNG](http://twitter.com/search?q=%23MYYOUTH_JISUNG) | #MYYOUTH_JISUNG is a hashtag used by fans of the South Korean singer and actor Jisung. It is used to show support for Jisung and to share content related to him. In English, it translates to "My Youth Jisung". |
-| 8 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
-| 9 | [#입덕_안_할거라_생각했던_작품](http://twitter.com/search?q=%23%ec%9e%85%eb%8d%95_%ec%95%88_%ed%95%a0%ea%b1%b0%eb%9d%bc_%ec%83%9d%ea%b0%81%ed%96%88%eb%8d%98_%ec%9e%91%ed%92%88) | N/A |
-| 10 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
-| 11 | [본계 들켰을때](http://twitter.com/search?q=%eb%b3%b8%ea%b3%84+%eb%93%a4%ec%bc%b0%ec%9d%84%eb%95%8c) | 본계 들켰을때 is a Korean phrase that literally translates to "when the main line was heard". It is used to describe a situation in which something important or significant has been revealed or discovered. In English, it could be translated as "when the truth came out". |
-| 12 | [프리보트](http://twitter.com/search?q=%ed%94%84%eb%a6%ac%eb%b3%b4%ed%8a%b8) | 프리보트 (Freeboat) is a type of boat that is designed to be used for recreational purposes. It is typically a small, lightweight vessel that can be easily transported and stored. The term "freeboat" is derived from the fact that these boats are often free to use, as they do not require any registration or licensing. In English, the term "freeboat" can also refer to a boat that is available for rent or charter at no cost. |
-| 13 | [개인총공](http://twitter.com/search?q=%ea%b0%9c%ec%9d%b8%ec%b4%9d%ea%b3%b5) | 개인총공 is a Korean term that literally translates to "personal total warfare." It refers to the idea of using all available resources and strategies to achieve a goal or win a battle. In other words, it is the concept of using every tool at one's disposal to achieve success. |
-| 14 | [라면 누구](http://twitter.com/search?q=%eb%9d%bc%eb%a9%b4+%eb%88%84%ea%b5%ac) | N/A |
-| 15 | [여성트친](http://twitter.com/search?q=%ec%97%ac%ec%84%b1%ed%8a%b8%ec%b9%9c) | N/A |
-| 16 | [여성분들과 공통된 주제](http://twitter.com/search?q=%ec%97%ac%ec%84%b1%eb%b6%84%eb%93%a4%ea%b3%bc+%ea%b3%b5%ed%86%b5%eb%90%9c+%ec%a3%bc%ec%a0%9c) | N/A |
-| 17 | [진입장벽](http://twitter.com/search?q=%ec%a7%84%ec%9e%85%ec%9e%a5%eb%b2%bd) | N/A |
-| 18 | [딸기임신유곽](http://twitter.com/search?q=%eb%94%b8%ea%b8%b0%ec%9e%84%ec%8b%a0%ec%9c%a0%ea%b3%bd) | 딸기임신유곽 is a Korean phrase that literally translates to "strawberry pregnancy belly". It is used to describe a pregnant woman's belly that has grown round and firm, like a ripe strawberry. |
-| 19 | [푸슝 답장](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%eb%8b%b5%ec%9e%a5) | N/A |
-| 20 | [환승연애](http://twitter.com/search?q=%ed%99%98%ec%8a%b9%ec%97%b0%ec%95%a0) | N/A |
-| 21 | [계정주는 현역](http://twitter.com/search?q=%ea%b3%84%ec%a0%95%ec%a3%bc%eb%8a%94+%ed%98%84%ec%97%ad) | N/A |
-| 22 | [에스크로](http://twitter.com/search?q=%ec%97%90%ec%8a%a4%ed%81%ac%eb%a1%9c) | N/A |
-| 23 | [푸슝 유료](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%ec%9c%a0%eb%a3%8c) | 푸슝 유료 is a Korean phrase that translates to "paid subscription". It is used to refer to a service or product that requires payment in order to access or use it. |
-| 24 | [지성날 지성시](http://twitter.com/search?q=%ec%a7%80%ec%84%b1%eb%82%a0+%ec%a7%80%ec%84%b1%ec%8b%9c) | N/A |
-| 25 | [많은 분들](http://twitter.com/search?q=%eb%a7%8e%ec%9d%80+%eb%b6%84%eb%93%a4) | N/A |
-| 26 | [귀밝이술](http://twitter.com/search?q=%ea%b7%80%eb%b0%9d%ec%9d%b4%ec%88%a0) | N/A |
-| 27 | [당신의 전생](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%a0%84%ec%83%9d) | N/A |
-| 28 | [보고 소원](http://twitter.com/search?q=%eb%b3%b4%ea%b3%a0+%ec%86%8c%ec%9b%90) | N/A |
-| 29 | [러블리즈](http://twitter.com/search?q=%eb%9f%ac%eb%b8%94%eb%a6%ac%ec%a6%88) | N/A |
-| 30 | [제육볶음](http://twitter.com/search?q=%ec%a0%9c%ec%9c%a1%eb%b3%b6%ec%9d%8c) | N/A |
-| 31 | [꼬들 400](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+400) | N/A |
-| 32 | [달집태우기](http://twitter.com/search?q=%eb%8b%ac%ec%a7%91%ed%83%9c%ec%9a%b0%ea%b8%b0) | N/A |
-| 33 | [화력체크](http://twitter.com/search?q=%ed%99%94%eb%a0%a5%ec%b2%b4%ed%81%ac) | N/A |
-| 34 | [숫자암호](http://twitter.com/search?q=%ec%88%ab%ec%9e%90%ec%95%94%ed%98%b8) | N/A |
-| 35 | [꼬들 399](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+399) | N/A |
-| 36 | [임보라 목사님](http://twitter.com/search?q=%ec%9e%84%eb%b3%b4%eb%9d%bc+%eb%aa%a9%ec%82%ac%eb%8b%98) | N/A |
-| 37 | [스물두번째생일](http://twitter.com/search?q=%ec%8a%a4%eb%ac%bc%eb%91%90%eb%b2%88%ec%a7%b8%ec%83%9d%ec%9d%bc) | N/A |
-| 38 | [생일너무너무](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc%eb%84%88%eb%ac%b4%eb%84%88%eb%ac%b4) | N/A |
-| 39 | [본디 친구](http://twitter.com/search?q=%eb%b3%b8%eb%94%94+%ec%b9%9c%ea%b5%ac) | N/A |
-| 40 | [정모 생일](http://twitter.com/search?q=%ec%a0%95%eb%aa%a8+%ec%83%9d%ec%9d%bc) | N/A |
-| 41 | [전역카페](http://twitter.com/search?q=%ec%a0%84%ec%97%ad%ec%b9%b4%ed%8e%98) | N/A |
-| 42 | [울버햄튼](http://twitter.com/search?q=%ec%9a%b8%eb%b2%84%ed%96%84%ed%8a%bc) | N/A |
-| 43 | [코하쿠 생일](http://twitter.com/search?q=%ec%bd%94%ed%95%98%ec%bf%a0+%ec%83%9d%ec%9d%bc) | N/A |
-| 44 | [정모날 정모시](http://twitter.com/search?q=%ec%a0%95%eb%aa%a8%eb%82%a0+%ec%a0%95%eb%aa%a8%ec%8b%9c) | N/A |
-| 45 | [사랑빛친구](http://twitter.com/search?q=%ec%82%ac%eb%9e%91%eb%b9%9b%ec%b9%9c%ea%b5%ac) | N/A |
-| 46 | [블블햇음](http://twitter.com/search?q=%eb%b8%94%eb%b8%94%ed%96%87%ec%9d%8c) | N/A |
-| 47 | [쿠로코의 농구](http://twitter.com/search?q=%ec%bf%a0%eb%a1%9c%ec%bd%94%ec%9d%98+%eb%86%8d%ea%b5%ac) | N/A |
-| 48 | [엠카 투표](http://twitter.com/search?q=%ec%97%a0%ec%b9%b4+%ed%88%ac%ed%91%9c) | N/A |
-| 49 | [쥐불놀이](http://twitter.com/search?q=%ec%a5%90%eb%b6%88%eb%86%80%ec%9d%b4) | N/A |
-| 50 | [푸슝 답변](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%eb%8b%b5%eb%b3%80) | N/A |
+| 1 | [쿠로코의 농구](http://twitter.com/search?q=%ec%bf%a0%eb%a1%9c%ec%bd%94%ec%9d%98+%eb%86%8d%ea%b5%ac) | N/A |
+| 2 | [#한장만더사_Ay_yo](http://twitter.com/search?q=%23%ed%95%9c%ec%9e%a5%eb%a7%8c%eb%8d%94%ec%82%ac_Ay_yo) | N/A |
+| 3 | [사모예드](http://twitter.com/search?q=%ec%82%ac%eb%aa%a8%ec%98%88%eb%93%9c) | N/A |
+| 4 | [귀밝이술](http://twitter.com/search?q=%ea%b7%80%eb%b0%9d%ec%9d%b4%ec%88%a0) | N/A |
+| 5 | [네이마르](http://twitter.com/search?q=%eb%84%a4%ec%9d%b4%eb%a7%88%eb%a5%b4) | N/A |
+| 6 | [디카프리오](http://twitter.com/search?q=%eb%94%94%ec%b9%b4%ed%94%84%eb%a6%ac%ec%98%a4) | N/A |
+| 7 | [#아프지마지훈아](http://twitter.com/search?q=%23%ec%95%84%ed%94%84%ec%a7%80%eb%a7%88%ec%a7%80%ed%9b%88%ec%95%84) | "#아프지마지훈아" is a hashtag used in South Korea to express sympathy and support for someone who is going through a difficult time. It translates to "Don't be hurt, Junhoon-ah". |
+| 8 | [#CARAT_Fighting](http://twitter.com/search?q=%23CARAT_Fighting) | N/A |
+| 9 | [돼지고기](http://twitter.com/search?q=%eb%8f%bc%ec%a7%80%ea%b3%a0%ea%b8%b0) | 돼지고기 is a type of meat in Korean cuisine, made from pork. It literally translates to "pig meat" in English. |
+| 10 | [정월대보름](http://twitter.com/search?q=%ec%a0%95%ec%9b%94%eb%8c%80%eb%b3%b4%eb%a6%84) | N/A |
+| 11 | [블블햇음](http://twitter.com/search?q=%eb%b8%94%eb%b8%94%ed%96%87%ec%9d%8c) | N/A |
+| 12 | [본계 들켰을때](http://twitter.com/search?q=%eb%b3%b8%ea%b3%84+%eb%93%a4%ec%bc%b0%ec%9d%84%eb%95%8c) | 본계 들켰을때 is a Korean phrase that literally translates to "when the main line was heard". It is used to describe a situation in which something important or significant has been revealed or discovered. In English, it could be translated as "when the truth came out". |
+| 13 | [#해찬이와시즈니](http://twitter.com/search?q=%23%ed%95%b4%ec%b0%ac%ec%9d%b4%ec%99%80%ec%8b%9c%ec%a6%88%eb%8b%88) | #해찬이와시즈니 is a hashtag used by fans of the South Korean singer and actor Haechan, who is a member of the K-pop group NCT. The hashtag translates to "Haechan and Cisney," which is a combination of Haechan's name and the English word "cisney," which is a portmanteau of "cute" and "Disney." |
+| 14 | [#마버블](http://twitter.com/search?q=%23%eb%a7%88%eb%b2%84%eb%b8%94) | N/A |
+| 15 | [화력체크](http://twitter.com/search?q=%ed%99%94%eb%a0%a5%ec%b2%b4%ed%81%ac) | N/A |
+| 16 | [우리 지훈](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ec%a7%80%ed%9b%88) | N/A |
+| 17 | [달집태우기](http://twitter.com/search?q=%eb%8b%ac%ec%a7%91%ed%83%9c%ec%9a%b0%ea%b8%b0) | N/A |
+| 18 | [우왁굳즈](http://twitter.com/search?q=%ec%9a%b0%ec%99%81%ea%b5%b3%ec%a6%88) | N/A |
+| 19 | [환승연애](http://twitter.com/search?q=%ed%99%98%ec%8a%b9%ec%97%b0%ec%95%a0) | N/A |
+| 20 | [매니페스토](http://twitter.com/search?q=%eb%a7%a4%eb%8b%88%ed%8e%98%ec%8a%a4%ed%86%a0) | N/A |
+| 21 | [개인총공](http://twitter.com/search?q=%ea%b0%9c%ec%9d%b8%ec%b4%9d%ea%b3%b5) | 개인총공 is a Korean term that literally translates to "personal total warfare." It refers to the idea of using all available resources and strategies to achieve a goal or win a battle. In other words, it is the concept of using every tool at one's disposal to achieve success. |
+| 22 | [러블리즈](http://twitter.com/search?q=%eb%9f%ac%eb%b8%94%eb%a6%ac%ec%a6%88) | N/A |
+| 23 | [대한 호감도](http://twitter.com/search?q=%eb%8c%80%ed%95%9c+%ed%98%b8%ea%b0%90%eb%8f%84) | N/A |
+| 24 | [보고 소원](http://twitter.com/search?q=%eb%b3%b4%ea%b3%a0+%ec%86%8c%ec%9b%90) | N/A |
+| 25 | [제육볶음](http://twitter.com/search?q=%ec%a0%9c%ec%9c%a1%eb%b3%b6%ec%9d%8c) | N/A |
+| 26 | [오뱅계르크](http://twitter.com/search?q=%ec%98%a4%eb%b1%85%ea%b3%84%eb%a5%b4%ed%81%ac) | N/A |
+| 27 | [프리보트](http://twitter.com/search?q=%ed%94%84%eb%a6%ac%eb%b3%b4%ed%8a%b8) | 프리보트 (Freeboat) is a type of boat that is designed to be used for recreational purposes. It is typically a small, lightweight vessel that can be easily transported and stored. The term "freeboat" is derived from the fact that these boats are often free to use, as they do not require any registration or licensing. In English, the term "freeboat" can also refer to a boat that is available for rent or charter at no cost. |
+| 28 | [쥐불놀이](http://twitter.com/search?q=%ec%a5%90%eb%b6%88%eb%86%80%ec%9d%b4) | N/A |
+| 29 | [진입장벽](http://twitter.com/search?q=%ec%a7%84%ec%9e%85%ec%9e%a5%eb%b2%bd) | N/A |
+| 30 | [일타스캔들](http://twitter.com/search?q=%ec%9d%bc%ed%83%80%ec%8a%a4%ec%ba%94%eb%93%a4) | N/A |
+| 31 | [레몬에이드](http://twitter.com/search?q=%eb%a0%88%eb%aa%ac%ec%97%90%ec%9d%b4%eb%93%9c) | N/A |
+| 32 | [렛미두잇뽈유](http://twitter.com/search?q=%eb%a0%9b%eb%af%b8%eb%91%90%ec%9e%87%eb%bd%88%ec%9c%a0) | N/A |
+| 33 | [생일 기념](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc+%ea%b8%b0%eb%85%90) | N/A |
+| 34 | [치열행선](http://twitter.com/search?q=%ec%b9%98%ec%97%b4%ed%96%89%ec%84%a0) | N/A |
+| 35 | [미세먼지](http://twitter.com/search?q=%eb%af%b8%ec%84%b8%eb%a8%bc%ec%a7%80) | 미세먼지 (mise meonji) is a type of air pollution made up of tiny particles that are 2.5 micrometers or smaller in diameter. It is also known as fine particulate matter and can be hazardous to human health if inhaled. In English, it is referred to as "fine dust" or "micro dust". |
+| 36 | [정모 생일](http://twitter.com/search?q=%ec%a0%95%eb%aa%a8+%ec%83%9d%ec%9d%bc) | N/A |
+| 37 | [#태현아_미안해_모아가_미안해](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%95%84_%eb%af%b8%ec%95%88%ed%95%b4_%eb%aa%a8%ec%95%84%ea%b0%80_%eb%af%b8%ec%95%88%ed%95%b4) | N/A |
+| 38 | [#코스트릿_트친소](http://twitter.com/search?q=%23%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 39 | [#차트로_스르륵_돌아와](http://twitter.com/search?q=%23%ec%b0%a8%ed%8a%b8%eb%a1%9c_%ec%8a%a4%eb%a5%b4%eb%a5%b5_%eb%8f%8c%ec%95%84%ec%99%80) | N/A |
+| 40 | [#코스어_트친소](http://twitter.com/search?q=%23%ec%bd%94%ec%8a%a4%ec%96%b4_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 41 | [#대리구매_에이요](http://twitter.com/search?q=%23%eb%8c%80%eb%a6%ac%ea%b5%ac%eb%a7%a4_%ec%97%90%ec%9d%b4%ec%9a%94) | N/A |
+| 42 | [#제노버블](http://twitter.com/search?q=%23%ec%a0%9c%eb%85%b8%eb%b2%84%eb%b8%94) | N/A |
+| 43 | [#이병찬](http://twitter.com/search?q=%23%ec%9d%b4%eb%b3%91%ec%b0%ac) | N/A |
+| 44 | [#밈러_트친소](http://twitter.com/search?q=%23%eb%b0%88%eb%9f%ac_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 45 | [#TheAstronaut](http://twitter.com/search?q=%23TheAstronaut) | N/A |
+| 46 | [#모아스밍_깁미깁미모어](http://twitter.com/search?q=%23%eb%aa%a8%ec%95%84%ec%8a%a4%eb%b0%8d_%ea%b9%81%eb%af%b8%ea%b9%81%eb%af%b8%eb%aa%a8%ec%96%b4) | N/A |
+| 47 | [#남우현](http://twitter.com/search?q=%23%eb%82%a8%ec%9a%b0%ed%98%84) | N/A |
 
 
 

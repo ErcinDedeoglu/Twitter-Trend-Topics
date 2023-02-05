@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-05 12:19:20 UTC`
+📆 Last Updated: `2023-02-05 13:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Waitangi](http://twitter.com/search?q=Waitangi) | N/A |
+| 1 | [waitangi](http://twitter.com/search?q=waitangi) | N/A |
 | 2 | [Maori](http://twitter.com/search?q=Maori) | N/A |
 | 3 | [Te Tiriti](http://twitter.com/search?q=Te+Tiriti) | N/A |
 | 4 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
@@ -34,37 +34,37 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 17 | [Crown](http://twitter.com/search?q=Crown) | N/A |
 | 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 19 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 20 | [New Plymouth](http://twitter.com/search?q=New+Plymouth) | N/A |
-| 21 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 22 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 20 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 21 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 22 | [New Plymouth](http://twitter.com/search?q=New+Plymouth) | N/A |
 | 23 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
 | 24 | [#ShinyPokemon](http://twitter.com/search?q=%23ShinyPokemon) | N/A |
 | 25 | [Fran](http://twitter.com/search?q=Fran) | N/A |
 | 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 28 | [FREEreadKU Amazon](http://twitter.com/search?q=FREEreadKU+Amazon) | N/A |
-| 29 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 30 | [Te Reo](http://twitter.com/search?q=Te+Reo) | N/A |
-| 31 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 32 | [Celsius](http://twitter.com/search?q=Celsius) | N/A |
-| 33 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 34 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 35 | [ptom](http://twitter.com/search?q=ptom) | N/A |
-| 36 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 37 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 38 | [West Auckland](http://twitter.com/search?q=West+Auckland) | N/A |
-| 39 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 40 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 42 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 43 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
-| 44 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 45 | [America](http://twitter.com/search?q=America) | N/A |
-| 46 | [Judith](http://twitter.com/search?q=Judith) | N/A |
-| 47 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 48 | [Careful](http://twitter.com/search?q=Careful) | N/A |
-| 49 | [Perth](http://twitter.com/search?q=Perth) | N/A |
-| 50 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 27 | [FREEreadKU Amazon](http://twitter.com/search?q=FREEreadKU+Amazon) | N/A |
+| 28 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 30 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 31 | [Te Reo](http://twitter.com/search?q=Te+Reo) | N/A |
+| 32 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 33 | [Celsius](http://twitter.com/search?q=Celsius) | N/A |
+| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 35 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 36 | [ptom](http://twitter.com/search?q=ptom) | N/A |
+| 37 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 38 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
+| 39 | [west auckland](http://twitter.com/search?q=west+auckland) | N/A |
+| 40 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 41 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 43 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 44 | [America](http://twitter.com/search?q=America) | N/A |
+| 45 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
+| 46 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 47 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 48 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 49 | [Careful](http://twitter.com/search?q=Careful) | N/A |
+| 50 | [Perth](http://twitter.com/search?q=Perth) | N/A |
 
 
 

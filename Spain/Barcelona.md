@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-05 12:18:59 UTC`
+📆 Last Updated: `2023-02-05 13:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 3 | [#APOYOROCIO5F](http://twitter.com/search?q=%23APOYOROCIO5F) | N/A |
-| 4 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 5 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 6 | [Castilla](http://twitter.com/search?q=Castilla) | N/A |
-| 7 | [#Solos5F](http://twitter.com/search?q=%23Solos5F) | N/A |
-| 8 | [#YoMeRebelo5F](http://twitter.com/search?q=%23YoMeRebelo5F) | N/A |
-| 9 | [#EcofeminismoRadio3](http://twitter.com/search?q=%23EcofeminismoRadio3) | N/A |
-| 10 | [Obrador](http://twitter.com/search?q=Obrador) | N/A |
-| 11 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 12 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 13 | [Alcorcón](http://twitter.com/search?q=Alcorc%c3%b3n) | N/A |
-| 14 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
-| 15 | [Spain 0](http://twitter.com/search?q=Spain+0) | N/A |
-| 16 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
-| 17 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
-| 18 | [Mt 5](http://twitter.com/search?q=Mt+5) | N/A |
-| 19 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 20 | [Rajoy](http://twitter.com/search?q=Rajoy) | N/A |
-| 21 | [HOY JUGAMOS](http://twitter.com/search?q=HOY+JUGAMOS) | N/A |
-| 22 | [Celia Villalobos](http://twitter.com/search?q=Celia+Villalobos) | N/A |
-| 23 | [Tanxugueiras](http://twitter.com/search?q=Tanxugueiras) | N/A |
-| 24 | [Yeremi](http://twitter.com/search?q=Yeremi) | N/A |
-| 25 | [Grindr](http://twitter.com/search?q=Grindr) | N/A |
-| 26 | [Remedios Amaya](http://twitter.com/search?q=Remedios+Amaya) | N/A |
-| 27 | [Raillo](http://twitter.com/search?q=Raillo) | N/A |
-| 28 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 29 | [Maffeo](http://twitter.com/search?q=Maffeo) | N/A |
-| 30 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
-| 31 | [Santa Águeda](http://twitter.com/search?q=Santa+%c3%81gueda) | N/A |
-| 32 | [Deleznable](http://twitter.com/search?q=Deleznable) | N/A |
-| 33 | [Candy Crush](http://twitter.com/search?q=Candy+Crush) | N/A |
-| 34 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
-| 35 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 36 | [Iago](http://twitter.com/search?q=Iago) | N/A |
-| 37 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 38 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 39 | [Domingo 5](http://twitter.com/search?q=Domingo+5) | N/A |
-| 40 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 41 | [Villalibre](http://twitter.com/search?q=Villalibre) | N/A |
-| 42 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
-| 43 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
-| 44 | [#Gianmarco5F](http://twitter.com/search?q=%23Gianmarco5F) | N/A |
-| 45 | [#QueTeVoteTxapote](http://twitter.com/search?q=%23QueTeVoteTxapote) | N/A |
-| 46 | [#MartaRiescoFueraDeLaTV](http://twitter.com/search?q=%23MartaRiescoFueraDeLaTV) | N/A |
-| 47 | [#FinetworkLigaF](http://twitter.com/search?q=%23FinetworkLigaF) | N/A |
-| 48 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | N/A |
-| 49 | [#NoALaCaza5F](http://twitter.com/search?q=%23NoALaCaza5F) | N/A |
+| 2 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 3 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 4 | [Mallorca](http://twitter.com/search?q=Mallorca) | N/A |
+| 5 | [Castilla](http://twitter.com/search?q=Castilla) | N/A |
+| 6 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 7 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 8 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 9 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 10 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 11 | [#Solos5F](http://twitter.com/search?q=%23Solos5F) | N/A |
+| 12 | [Maffeo](http://twitter.com/search?q=Maffeo) | N/A |
+| 13 | [#novedadesdeflavio](http://twitter.com/search?q=%23novedadesdeflavio) | N/A |
+| 14 | [Alcorcón](http://twitter.com/search?q=Alcorc%c3%b3n) | N/A |
+| 15 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 16 | [Raillo](http://twitter.com/search?q=Raillo) | N/A |
+| 17 | [#APOYOROCIO5F](http://twitter.com/search?q=%23APOYOROCIO5F) | N/A |
+| 18 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
+| 19 | [obrador](http://twitter.com/search?q=obrador) | N/A |
+| 20 | [#YoMeRebelo5F](http://twitter.com/search?q=%23YoMeRebelo5F) | N/A |
+| 21 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
+| 22 | [Mirotic](http://twitter.com/search?q=Mirotic) | Mirotic is a K-pop song by South Korean boy band, TVXQ. The title of the song is derived from the Spanish word "miro" which means "I look". The song is about a man who is in love with a woman and wants to show her how much he loves her. The lyrics express his feelings of admiration and longing for her. |
+| 23 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 24 | [Spain 0](http://twitter.com/search?q=Spain+0) | N/A |
+| 25 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 26 | [Celia Villalobos](http://twitter.com/search?q=Celia+Villalobos) | N/A |
+| 27 | [Rajoy](http://twitter.com/search?q=Rajoy) | N/A |
+| 28 | [Córdoba](http://twitter.com/search?q=C%c3%b3rdoba) | N/A |
+| 29 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 30 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
+| 31 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
+| 32 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 33 | [Tanxugueiras](http://twitter.com/search?q=Tanxugueiras) | N/A |
+| 34 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 35 | [Grindr](http://twitter.com/search?q=Grindr) | N/A |
+| 36 | [Deleznable](http://twitter.com/search?q=Deleznable) | N/A |
+| 37 | [Yeremi](http://twitter.com/search?q=Yeremi) | N/A |
+| 38 | [Remedios Amaya](http://twitter.com/search?q=Remedios+Amaya) | N/A |
+| 39 | [Santa Águeda](http://twitter.com/search?q=Santa+%c3%81gueda) | N/A |
+| 40 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 41 | [Candy Crush](http://twitter.com/search?q=Candy+Crush) | N/A |
+| 42 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
+| 43 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 44 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 45 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
+| 46 | [Iago](http://twitter.com/search?q=Iago) | N/A |
+| 47 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 48 | [#EcofeminismoRadio3](http://twitter.com/search?q=%23EcofeminismoRadio3) | N/A |
+| 49 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
+| 50 | [#Gianmarco5F](http://twitter.com/search?q=%23Gianmarco5F) | N/A |
 
 
 

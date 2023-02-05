@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-02-05 12:19:19 UTC`
+📆 Last Updated: `2023-02-05 13:19:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [Kılıçdaroğlu](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
 | 2 | [#DoğudanBatıya100BinAtama](http://twitter.com/search?q=%23Do%c4%9fudanBat%c4%b1ya100BinAtama) | N/A |
-| 3 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 4 | [#OyumGeçimdenYana](http://twitter.com/search?q=%23OyumGe%c3%a7imdenYana) | N/A |
-| 5 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 6 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
-| 7 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
-| 8 | [#SarıMelekler](http://twitter.com/search?q=%23Sar%c4%b1Melekler) | N/A |
-| 9 | [ERDOĞAN İÇİNİZDEN GEÇECEK](http://twitter.com/search?q=ERDO%c4%9eAN+%c4%b0%c3%87%c4%b0N%c4%b0ZDEN+GE%c3%87ECEK) | N/A |
-| 10 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 11 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 12 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
+| 3 | [#OyumGeçimdenYana](http://twitter.com/search?q=%23OyumGe%c3%a7imdenYana) | N/A |
+| 4 | [Ücretsiz Yemek](http://twitter.com/search?q=%c3%9ccretsiz+Yemek) | Ücretsiz Yemek is a Turkish phrase that translates to "free meal" in English. It is used to refer to a meal that is provided at no cost. |
+| 5 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 6 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 7 | [#SarıMelekler](http://twitter.com/search?q=%23Sar%c4%b1Melekler) | N/A |
+| 8 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
+| 9 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
+| 10 | [ERDOĞAN İÇİNİZDEN GEÇECEK](http://twitter.com/search?q=ERDO%c4%9eAN+%c4%b0%c3%87%c4%b0N%c4%b0ZDEN+GE%c3%87ECEK) | N/A |
+| 11 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 12 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
 | 13 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 14 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
-| 15 | [Meliha](http://twitter.com/search?q=Meliha) | N/A |
-| 16 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 17 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
-| 18 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
-| 19 | [Tuğba Ekinci](http://twitter.com/search?q=Tu%c4%9fba+Ekinci) | N/A |
-| 20 | [Djaniny](http://twitter.com/search?q=Djaniny) | N/A |
-| 21 | [AFFET TÜRKİYEM](http://twitter.com/search?q=AFFET+T%c3%9cRK%c4%b0YEM) | N/A |
+| 14 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
+| 15 | [Sayın Valim](http://twitter.com/search?q=Say%c4%b1n+Valim) | N/A |
+| 16 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 17 | [Meliha](http://twitter.com/search?q=Meliha) | N/A |
+| 18 | [AFFET TÜRKİYEM](http://twitter.com/search?q=AFFET+T%c3%9cRK%c4%b0YEM) | N/A |
+| 19 | [Derya](http://twitter.com/search?q=Derya) | N/A |
+| 20 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
+| 21 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
 | 22 | [İskilipli Atıf](http://twitter.com/search?q=%c4%b0skilipli+At%c4%b1f) | N/A |
-| 23 | [Sayın Valim](http://twitter.com/search?q=Say%c4%b1n+Valim) | N/A |
-| 24 | [Son 6](http://twitter.com/search?q=Son+6) | N/A |
-| 25 | [Adnan Kahveci](http://twitter.com/search?q=Adnan+Kahveci) | N/A |
-| 26 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
-| 27 | [Gheorghe Hagi](http://twitter.com/search?q=Gheorghe+Hagi) | N/A |
-| 28 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 29 | [Kürtleri](http://twitter.com/search?q=K%c3%bcrtleri) | N/A |
-| 30 | [Bodrum](http://twitter.com/search?q=Bodrum) | N/A |
-| 31 | [Türkiyeli](http://twitter.com/search?q=T%c3%bcrkiyeli) | N/A |
-| 32 | [Yapay](http://twitter.com/search?q=Yapay) | N/A |
-| 33 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
-| 34 | [Adil 100](http://twitter.com/search?q=Adil+100) | N/A |
-| 35 | [SedatPeker YeniVideosu](http://twitter.com/search?q=SedatPeker+YeniVideosu) | SedatPeker YeniVideosu is a phrase in Turkish which translates to "SedatPeker's New Video". SedatPeker is a Turkish journalist and political commentator who has recently released a new video. |
-| 36 | [Haarp](http://twitter.com/search?q=Haarp) | N/A |
-| 37 | [Hain](http://twitter.com/search?q=Hain) | N/A |
-| 38 | [Şapka](http://twitter.com/search?q=%c5%9eapka) | N/A |
-| 39 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
-| 40 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 41 | [Kuzey](http://twitter.com/search?q=Kuzey) | N/A |
-| 42 | [Okullar](http://twitter.com/search?q=Okullar) | N/A |
-| 43 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 44 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 45 | [Bursa](http://twitter.com/search?q=Bursa) | N/A |
+| 23 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 24 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
+| 25 | [Celil](http://twitter.com/search?q=Celil) | N/A |
+| 26 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 27 | [CBSağlık YönetimineMüjde](http://twitter.com/search?q=CBSa%c4%9fl%c4%b1k+Y%c3%b6netimineM%c3%bcjde) | N/A |
+| 28 | [Son 6](http://twitter.com/search?q=Son+6) | N/A |
+| 29 | [Eyfel](http://twitter.com/search?q=Eyfel) | N/A |
+| 30 | [adnan kahveci](http://twitter.com/search?q=adnan+kahveci) | N/A |
+| 31 | [Gişe](http://twitter.com/search?q=Gi%c5%9fe) | N/A |
+| 32 | [Kürtleri](http://twitter.com/search?q=K%c3%bcrtleri) | N/A |
+| 33 | [Okullar](http://twitter.com/search?q=Okullar) | N/A |
+| 34 | [Gheorghe Hagi](http://twitter.com/search?q=Gheorghe+Hagi) | N/A |
+| 35 | [Türkiyeli](http://twitter.com/search?q=T%c3%bcrkiyeli) | N/A |
+| 36 | [fabrizio](http://twitter.com/search?q=fabrizio) | N/A |
+| 37 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
+| 38 | [Djaniny](http://twitter.com/search?q=Djaniny) | N/A |
+| 39 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 40 | [Erdoğan 3](http://twitter.com/search?q=Erdo%c4%9fan+3) | N/A |
+| 41 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
+| 42 | [Kuzey](http://twitter.com/search?q=Kuzey) | N/A |
+| 43 | [Yapay](http://twitter.com/search?q=Yapay) | N/A |
+| 44 | [Adil 100](http://twitter.com/search?q=Adil+100) | N/A |
+| 45 | [Haarp](http://twitter.com/search?q=Haarp) | N/A |
 | 46 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
-| 47 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
-| 48 | [Tatil](http://twitter.com/search?q=Tatil) | N/A |
-| 49 | [5 Şubat](http://twitter.com/search?q=5+%c5%9eubat) | N/A |
+| 47 | [Hain](http://twitter.com/search?q=Hain) | N/A |
+| 48 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
+| 49 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
 
 
 

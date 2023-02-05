@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-02-05 12:19:20 UTC`
+📆 Last Updated: `2023-02-05 13:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [United States](</United States>)
 | 5 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
 | 6 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
 | 7 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
-| 8 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | Derrick Lewis is an American professional mixed martial artist and former heavyweight champion of the Ultimate Fighting Championship (UFC). His nickname is "The Black Beast". He is known for his aggressive fighting style and knockout power. |
-| 9 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 10 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 11 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
-| 12 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 13 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 8 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 9 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 10 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 11 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 12 | [#WhenMenAreLeftUnsupervised](http://twitter.com/search?q=%23WhenMenAreLeftUnsupervised) | N/A |
+| 13 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | Derrick Lewis is an American professional mixed martial artist and former heavyweight champion of the Ultimate Fighting Championship (UFC). His nickname is "The Black Beast". He is known for his aggressive fighting style and knockout power. |
 | 14 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 15 | [#Wordle596](http://twitter.com/search?q=%23Wordle596) | N/A |
-| 16 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 15 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 16 | [#nationalweatherpersonsday](http://twitter.com/search?q=%23nationalweatherpersonsday) | N/A |
 | 17 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
-| 18 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 19 | [Happy Lantern Festival](http://twitter.com/search?q=Happy+Lantern+Festival) | N/A |
-| 20 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
-| 21 | [Zackray](http://twitter.com/search?q=Zackray) | N/A |
-| 22 | [Choi](http://twitter.com/search?q=Choi) | Choi is a Korean surname. It is derived from the Chinese characters for mountain and water. In English, it can be translated to mean "mountain stream". |
-| 23 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 25 | [Trump Administration](http://twitter.com/search?q=Trump+Administration) | N/A |
-| 26 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
-| 27 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 28 | [Pineapple Express](http://twitter.com/search?q=Pineapple+Express) | N/A |
-| 29 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 31 | [Jung](http://twitter.com/search?q=Jung) | N/A |
-| 32 | [Dragon Age](http://twitter.com/search?q=Dragon+Age) | N/A |
-| 33 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
-| 34 | [Roman Holiday](http://twitter.com/search?q=Roman+Holiday) | N/A |
-| 35 | [Serrano](http://twitter.com/search?q=Serrano) | N/A |
-| 36 | [Steven Universe](http://twitter.com/search?q=Steven+Universe) | N/A |
-| 37 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
-| 38 | [Milley](http://twitter.com/search?q=Milley) | N/A |
-| 39 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
-| 40 | [Lil Kim](http://twitter.com/search?q=Lil+Kim) | N/A |
+| 18 | [Happy Lantern Festival](http://twitter.com/search?q=Happy+Lantern+Festival) | N/A |
+| 19 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 20 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 21 | [Milley](http://twitter.com/search?q=Milley) | N/A |
+| 22 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 23 | [Pineapple Express](http://twitter.com/search?q=Pineapple+Express) | N/A |
+| 24 | [Trump Administration](http://twitter.com/search?q=Trump+Administration) | N/A |
+| 25 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
+| 26 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 27 | [Dragon Age](http://twitter.com/search?q=Dragon+Age) | N/A |
+| 28 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 29 | [Amanda Serrano](http://twitter.com/search?q=Amanda+Serrano) | N/A |
+| 30 | [Step Brothers](http://twitter.com/search?q=Step+Brothers) | N/A |
+| 31 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
+| 32 | [Steven Universe](http://twitter.com/search?q=Steven+Universe) | N/A |
+| 33 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 34 | [Choi](http://twitter.com/search?q=Choi) | Choi is a Korean surname. It is derived from the Chinese characters for mountain and water. In English, it can be translated to mean "mountain stream". |
+| 35 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 36 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 38 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
+| 39 | [Chipmunk](http://twitter.com/search?q=Chipmunk) | N/A |
+| 40 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
 | 41 | [Lizzo](http://twitter.com/search?q=Lizzo) | N/A |
-| 42 | [Kelsey](http://twitter.com/search?q=Kelsey) | Kelsey is a unisex name of English origin, derived from the Old English words "ceol" and "saege," meaning "ship" and "victory," respectively. It is also sometimes used as a surname. |
-| 43 | [Bellator](http://twitter.com/search?q=Bellator) | N/A |
-| 44 | [Regular Show](http://twitter.com/search?q=Regular+Show) | N/A |
-| 45 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 46 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 47 | [Normani](http://twitter.com/search?q=Normani) | N/A |
-| 48 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 49 | [Tekken](http://twitter.com/search?q=Tekken) | N/A |
+| 42 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
+| 43 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 44 | [Willie McGee](http://twitter.com/search?q=Willie+McGee) | N/A |
+| 45 | [The DOD](http://twitter.com/search?q=The+DOD) | N/A |
+| 46 | [Lil Kim](http://twitter.com/search?q=Lil+Kim) | N/A |
+| 47 | [Bellator](http://twitter.com/search?q=Bellator) | N/A |
+| 48 | [#Wordle596](http://twitter.com/search?q=%23Wordle596) | N/A |
+| 49 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-05 12:19:01 UTC`
+📆 Last Updated: `2023-02-05 13:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Latvia](</Latvia>)
 | 5 | [Inspo](http://twitter.com/search?q=Inspo) | N/A |
 | 6 | [Raum](http://twitter.com/search?q=Raum) | N/A |
 | 7 | [lauris reiniks](http://twitter.com/search?q=lauris+reiniks) | N/A |
-| 8 | [Justs](http://twitter.com/search?q=Justs) | N/A |
-| 9 | [Ķīnas](http://twitter.com/search?q=%c4%b6%c4%abnas) | N/A |
-| 10 | [rivu](http://twitter.com/search?q=rivu) | N/A |
-| 11 | [ņetrebko](http://twitter.com/search?q=%c5%86etrebko) | N/A |
-| 12 | [Levitu](http://twitter.com/search?q=Levitu) | N/A |
-| 13 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
-| 14 | [Patrisha](http://twitter.com/search?q=Patrisha) | N/A |
-| 15 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
-| 16 | [Nevajag](http://twitter.com/search?q=Nevajag) | N/A |
-| 17 | [vīnes](http://twitter.com/search?q=v%c4%abnes) | N/A |
-| 18 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
-| 19 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 20 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
-| 21 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 22 | [Liverpūli](http://twitter.com/search?q=Liverp%c5%abli) | N/A |
-| 23 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
-| 24 | [Mani](http://twitter.com/search?q=Mani) | N/A |
-| 25 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
-| 26 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
-| 27 | [Protams](http://twitter.com/search?q=Protams) | N/A |
-| 28 | [valsts](http://twitter.com/search?q=valsts) | N/A |
-| 29 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 31 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
-| 32 | [maskavā](http://twitter.com/search?q=maskav%c4%81) | N/A |
-| 33 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 34 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 8 | [justs](http://twitter.com/search?q=justs) | N/A |
+| 9 | [rivu](http://twitter.com/search?q=rivu) | N/A |
+| 10 | [ņetrebko](http://twitter.com/search?q=%c5%86etrebko) | N/A |
+| 11 | [Levitu](http://twitter.com/search?q=Levitu) | N/A |
+| 12 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 13 | [Patrisha](http://twitter.com/search?q=Patrisha) | N/A |
+| 14 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
+| 15 | [Ķīnas](http://twitter.com/search?q=%c4%b6%c4%abnas) | N/A |
+| 16 | [vīnes](http://twitter.com/search?q=v%c4%abnes) | N/A |
+| 17 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 18 | [Protams](http://twitter.com/search?q=Protams) | N/A |
+| 19 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 20 | [Liverpūli](http://twitter.com/search?q=Liverp%c5%abli) | N/A |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 22 | [Mani](http://twitter.com/search?q=Mani) | N/A |
+| 23 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
+| 24 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
+| 25 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
+| 26 | [valsts](http://twitter.com/search?q=valsts) | N/A |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [Labs](http://twitter.com/search?q=Labs) | N/A |
+| 29 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
+| 30 | [Maskavā](http://twitter.com/search?q=Maskav%c4%81) | N/A |
+| 31 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
+| 32 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 33 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
+| 34 | [#PaToLaiku](http://twitter.com/search?q=%23PaToLaiku) | N/A |
 | 35 | [Vispār](http://twitter.com/search?q=Visp%c4%81r) | N/A |
-| 36 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 37 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
-| 38 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 39 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 40 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
-| 41 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
-| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 43 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 44 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
-| 45 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
-| 46 | [Deivisa](http://twitter.com/search?q=Deivisa) | N/A |
-| 47 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
-| 48 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 36 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 37 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 38 | [Pasaules](http://twitter.com/search?q=Pasaules) | N/A |
+| 39 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 40 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 41 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 42 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
+| 43 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | N/A |
+| 44 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 45 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 46 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
+| 47 | [deivisa](http://twitter.com/search?q=deivisa) | N/A |
+| 48 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
 | 49 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
-| 50 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 50 | [Latgales](http://twitter.com/search?q=Latgales) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-05 12:19:31 UTC`
+📆 Last Updated: `2023-02-05 13:19:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SpeziaNapoli](http://twitter.com/search?q=%23SpeziaNapoli) | N/A |
-| 2 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
-| 3 | [#timdown](http://twitter.com/search?q=%23timdown) | N/A |
-| 4 | [#5febbraio](http://twitter.com/search?q=%235febbraio) | N/A |
-| 5 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 6 | [#citofonarerai2](http://twitter.com/search?q=%23citofonarerai2) | N/A |
-| 7 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 8 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 9 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
-| 10 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 11 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 12 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 13 | [Tagliatelle](http://twitter.com/search?q=Tagliatelle) | N/A |
-| 14 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 15 | [marghe](http://twitter.com/search?q=marghe) | N/A |
-| 16 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 17 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 18 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
-| 19 | [Chiave](http://twitter.com/search?q=Chiave) | N/A |
-| 20 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 21 | [Telese](http://twitter.com/search?q=Telese) | N/A |
-| 22 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 23 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 24 | [Documenti](http://twitter.com/search?q=Documenti) | N/A |
-| 25 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
-| 26 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
-| 27 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 28 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 29 | [Buon Compleanno](http://twitter.com/search?q=Buon+Compleanno) | N/A |
-| 30 | [Graziana](http://twitter.com/search?q=Graziana) | N/A |
-| 31 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 32 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 33 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 34 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 35 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 36 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 37 | [Bobby Sands](http://twitter.com/search?q=Bobby+Sands) | N/A |
-| 38 | [Altrettanto](http://twitter.com/search?q=Altrettanto) | N/A |
-| 39 | [Sheva](http://twitter.com/search?q=Sheva) | N/A |
-| 40 | [Sant'Agata](http://twitter.com/search?q=Sant%27Agata) | N/A |
-| 41 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 42 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 43 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 44 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 45 | [Buongiorno Alex](http://twitter.com/search?q=Buongiorno+Alex) | N/A |
-| 46 | [Morte](http://twitter.com/search?q=Morte) | N/A |
-| 47 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 48 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
-| 49 | [Buongiornooooo](http://twitter.com/search?q=Buongiornooooo) | N/A |
-| 50 | [Ligabue](http://twitter.com/search?q=Ligabue) | N/A |
+| 2 | [#timdown](http://twitter.com/search?q=%23timdown) | N/A |
+| 3 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 4 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
+| 5 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
+| 6 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 7 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 8 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 9 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 10 | [Rivalità](http://twitter.com/search?q=Rivalit%c3%a0) | N/A |
+| 11 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 12 | [Simone Nolasco](http://twitter.com/search?q=Simone+Nolasco) | N/A |
+| 13 | [Reca](http://twitter.com/search?q=Reca) | N/A |
+| 14 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
+| 15 | [Politano](http://twitter.com/search?q=Politano) | Politano is an Italian surname derived from the Latin word politanus, meaning "citizen of a free city". It is also used as a given name in some parts of Italy. In English, it can be translated to mean "citizen of a free city". |
+| 16 | [Caldara](http://twitter.com/search?q=Caldara) | N/A |
+| 17 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 18 | [travaglio](http://twitter.com/search?q=travaglio) | N/A |
+| 19 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
+| 20 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 21 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 22 | [Tagliatelle](http://twitter.com/search?q=Tagliatelle) | N/A |
+| 23 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 24 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
+| 25 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 26 | [Milly](http://twitter.com/search?q=Milly) | N/A |
+| 27 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
+| 28 | [GRAZIE MILLE](http://twitter.com/search?q=GRAZIE+MILLE) | N/A |
+| 29 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 30 | [Telese](http://twitter.com/search?q=Telese) | N/A |
+| 31 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 32 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
+| 33 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 34 | [Paniz](http://twitter.com/search?q=Paniz) | N/A |
+| 35 | [Chiave](http://twitter.com/search?q=Chiave) | N/A |
+| 36 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 37 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 38 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
+| 39 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 40 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
+| 41 | [41bis](http://twitter.com/search?q=41bis) | N/A |
+| 42 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 43 | [graziana](http://twitter.com/search?q=graziana) | N/A |
+| 44 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 45 | [Marghe](http://twitter.com/search?q=Marghe) | N/A |
+| 46 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 47 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 48 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 49 | [Documenti](http://twitter.com/search?q=Documenti) | N/A |
+| 50 | [Mike](http://twitter.com/search?q=Mike) | N/A |
 
 
 

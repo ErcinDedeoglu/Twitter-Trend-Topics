@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-05 12:19:29 UTC`
+📆 Last Updated: `2023-02-05 13:19:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ecuador
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Omar Menéndez](http://twitter.com/search?q=Omar+Men%c3%a9ndez) | N/A |
-| 2 | [#Elecciones2023Ec](http://twitter.com/search?q=%23Elecciones2023Ec) | N/A |
+| 1 | [#Elecciones2023Ec](http://twitter.com/search?q=%23Elecciones2023Ec) | N/A |
+| 2 | [Omar Menéndez](http://twitter.com/search?q=Omar+Men%c3%a9ndez) | N/A |
 | 3 | [Puerto López](http://twitter.com/search?q=Puerto+L%c3%b3pez) | N/A |
-| 4 | [#Referéndum2023](http://twitter.com/search?q=%23Refer%c3%a9ndum2023) | N/A |
-| 5 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
-| 6 | [Elecciones Seccionales](http://twitter.com/search?q=Elecciones+Seccionales) | N/A |
-| 7 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
-| 8 | [jeremy sarmiento](http://twitter.com/search?q=jeremy+sarmiento) | N/A |
-| 9 | [#EcuadorVota2023](http://twitter.com/search?q=%23EcuadorVota2023) | N/A |
-| 10 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 11 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 12 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 13 | [#CopaDeCampeones](http://twitter.com/search?q=%23CopaDeCampeones) | N/A |
-| 14 | [Narcotráfico](http://twitter.com/search?q=Narcotr%c3%a1fico) | N/A |
-| 15 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
-| 16 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 17 | [piñatares](http://twitter.com/search?q=pi%c3%b1atares) | N/A |
-| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [gaibor](http://twitter.com/search?q=gaibor) | N/A |
-| 21 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 22 | [Iskra](http://twitter.com/search?q=Iskra) | N/A |
-| 23 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 24 | [Revolución Ciudadana](http://twitter.com/search?q=Revoluci%c3%b3n+Ciudadana) | N/A |
-| 25 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 26 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 27 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
-| 28 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
-| 29 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 30 | [pineida](http://twitter.com/search?q=pineida) | N/A |
-| 31 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 32 | [Arce](http://twitter.com/search?q=Arce) | N/A |
-| 33 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 34 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 35 | [Estupidez](http://twitter.com/search?q=Estupidez) | N/A |
-| 36 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 37 | [Undav](http://twitter.com/search?q=Undav) | N/A |
-| 38 | [velasco](http://twitter.com/search?q=velasco) | N/A |
-| 39 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
-| 40 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 41 | [Janner](http://twitter.com/search?q=Janner) | N/A |
-| 42 | [Farias](http://twitter.com/search?q=Farias) | N/A |
-| 43 | [ecuabrighton](http://twitter.com/search?q=ecuabrighton) | N/A |
-| 44 | [Yunda](http://twitter.com/search?q=Yunda) | N/A |
-| 45 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
-| 46 | [guschmer](http://twitter.com/search?q=guschmer) | N/A |
-| 47 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
-| 48 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 49 | [Rodríguez](http://twitter.com/search?q=Rodr%c3%adguez) | N/A |
-| 50 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 4 | [#EcuadorVota2023](http://twitter.com/search?q=%23EcuadorVota2023) | N/A |
+| 5 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
+| 6 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
+| 7 | [jeremy sarmiento](http://twitter.com/search?q=jeremy+sarmiento) | N/A |
+| 8 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 9 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 10 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 11 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 12 | [#CopaDeCampeones](http://twitter.com/search?q=%23CopaDeCampeones) | N/A |
+| 13 | [Narcotráfico](http://twitter.com/search?q=Narcotr%c3%a1fico) | N/A |
+| 14 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
+| 15 | [Revolución Ciudadana](http://twitter.com/search?q=Revoluci%c3%b3n+Ciudadana) | N/A |
+| 16 | [#Quito](http://twitter.com/search?q=%23Quito) | N/A |
+| 17 | [#Referéndum2023](http://twitter.com/search?q=%23Refer%c3%a9ndum2023) | N/A |
+| 18 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 19 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 20 | [El Carmen](http://twitter.com/search?q=El+Carmen) | N/A |
+| 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 22 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 23 | [Pabón](http://twitter.com/search?q=Pab%c3%b3n) | N/A |
+| 24 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 25 | [Iskra](http://twitter.com/search?q=Iskra) | N/A |
+| 26 | [Dida](http://twitter.com/search?q=Dida) | N/A |
+| 27 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 28 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
+| 29 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
+| 30 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 31 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 32 | [pineida](http://twitter.com/search?q=pineida) | N/A |
+| 33 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 34 | [Arce](http://twitter.com/search?q=Arce) | N/A |
+| 35 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 36 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 37 | [Estupidez](http://twitter.com/search?q=Estupidez) | N/A |
+| 38 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 39 | [Undav](http://twitter.com/search?q=Undav) | N/A |
+| 40 | [Manabí](http://twitter.com/search?q=Manab%c3%ad) | N/A |
+| 41 | [Yunda](http://twitter.com/search?q=Yunda) | N/A |
+| 42 | [velasco](http://twitter.com/search?q=velasco) | N/A |
+| 43 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 44 | [CPCCS](http://twitter.com/search?q=CPCCS) | N/A |
+| 45 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 46 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
+| 47 | [Janner](http://twitter.com/search?q=Janner) | N/A |
+| 48 | [farias](http://twitter.com/search?q=farias) | N/A |
+| 49 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
+| 50 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
 
 
 
