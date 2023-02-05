@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-05 22:16:22 UTC`
+📆 Last Updated: `2023-02-05 23:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#YoMarcho15F](http://twitter.com/search?q=%23YoMarcho15F) | N/A |
-| 2 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 3 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 4 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 5 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 6 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 7 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
-| 8 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 9 | [#AttackOnBangtanToNo1](http://twitter.com/search?q=%23AttackOnBangtanToNo1) | N/A |
-| 10 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
-| 11 | [Corredor](http://twitter.com/search?q=Corredor) | N/A |
-| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 14 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
-| 15 | [#NuestroCiclismo](http://twitter.com/search?q=%23NuestroCiclismo) | N/A |
-| 16 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 17 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 18 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 19 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 20 | [Chaux](http://twitter.com/search?q=Chaux) | N/A |
-| 21 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 22 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 23 | [Alejandro García](http://twitter.com/search?q=Alejandro+Garc%c3%ada) | N/A |
-| 24 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
-| 25 | [Nairo](http://twitter.com/search?q=Nairo) | Nairo is a Japanese given name. It is derived from the Japanese words for “happiness” (naru) and “son” (o). The name can also be written as 奈郎, 尚朗, or 直郎. In English, it can be translated to mean “happy son” or “blessed son”. |
-| 26 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
-| 27 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 28 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 29 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 30 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 31 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 32 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 33 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
-| 34 | [Chavito](http://twitter.com/search?q=Chavito) | N/A |
-| 35 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 36 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 37 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 38 | [Kevin Velasco](http://twitter.com/search?q=Kevin+Velasco) | N/A |
-| 39 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 40 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 41 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 42 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
-| 43 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
-| 46 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 47 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
-| 48 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 49 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
-| 50 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 1 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 2 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 3 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 4 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 5 | [#AttackOnBangtanToNo1](http://twitter.com/search?q=%23AttackOnBangtanToNo1) | #AttackOnBangtanToNo1 is a hashtag used by fans of the South Korean boy band BTS to promote their music and help them reach the top of the music charts. The phrase "Attack on Bangtan" is a play on words, combining the words "attack" and "Bangtan," which is the name of BTS's fan club. The hashtag is used to encourage fans to stream and purchase BTS's music in order to help them reach number one on various music charts. |
+| 6 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 7 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
+| 8 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
+| 9 | [#FueraCorredor](http://twitter.com/search?q=%23FueraCorredor) | N/A |
+| 10 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 11 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 12 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 13 | [Roldán](http://twitter.com/search?q=Rold%c3%a1n) | N/A |
+| 14 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 15 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 16 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 18 | [Chaux](http://twitter.com/search?q=Chaux) | N/A |
+| 19 | [Palmaseca](http://twitter.com/search?q=Palmaseca) | N/A |
+| 20 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 21 | [Esteban Chaves](http://twitter.com/search?q=Esteban+Chaves) | N/A |
+| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 24 | [#YoMarcho15F](http://twitter.com/search?q=%23YoMarcho15F) | N/A |
+| 25 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 26 | [Nairo](http://twitter.com/search?q=Nairo) | Nairo is a Japanese given name. It is derived from the Japanese words for “happiness” (naru) and “son” (o). The name can also be written as 奈郎, 尚朗, or 直郎. In English, it can be translated to mean “happy son” or “blessed son”. |
+| 27 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 28 | [Sherman](http://twitter.com/search?q=Sherman) | N/A |
+| 29 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 30 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 31 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
+| 32 | [Chavito](http://twitter.com/search?q=Chavito) | N/A |
+| 33 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 34 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 35 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 37 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 38 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 40 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 41 | [Cero](http://twitter.com/search?q=Cero) | N/A |
+| 42 | [#NacionalesRuta2023](http://twitter.com/search?q=%23NacionalesRuta2023) | N/A |
+| 43 | [#SpamDeLenceria](http://twitter.com/search?q=%23SpamDeLenceria) | N/A |
+| 44 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-02-05 22:16:18 UTC`
+📆 Last Updated: `2023-02-05 23:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Casa Amor](http://twitter.com/search?q=Casa+Amor) | N/A |
-| 2 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 3 | [#HumdrumHardbacks](http://twitter.com/search?q=%23HumdrumHardbacks) | N/A |
-| 4 | [#fullmoon](http://twitter.com/search?q=%23fullmoon) | N/A |
-| 5 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 6 | [Rico Lewis](http://twitter.com/search?q=Rico+Lewis) | Rico Lewis is a Spanish phrase meaning "rich and powerful". It is often used to describe someone who has achieved success and wealth. |
-| 7 | [#MCFC](http://twitter.com/search?q=%23MCFC) | N/A |
-| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 9 | [#countryfile](http://twitter.com/search?q=%23countryfile) | N/A |
-| 10 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 11 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 12 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 13 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 14 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
-| 15 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 16 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 17 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
-| 18 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
-| 19 | [Catherine](http://twitter.com/search?q=Catherine) | N/A |
-| 20 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 22 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 23 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 24 | [Tommy Lee Royce](http://twitter.com/search?q=Tommy+Lee+Royce) | N/A |
-| 25 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
-| 26 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 27 | [EGOT](http://twitter.com/search?q=EGOT) | EGOT is an acronym for the four major entertainment awards: Emmy, Grammy, Oscar, and Tony. It is used to refer to someone who has won all four awards. |
-| 28 | [Not Tom](http://twitter.com/search?q=Not+Tom) | N/A |
-| 29 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 30 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 31 | [Jordan and Ellie](http://twitter.com/search?q=Jordan+and+Ellie) | N/A |
-| 32 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
-| 33 | [Sarah Lancashire](http://twitter.com/search?q=Sarah+Lancashire) | N/A |
-| 34 | [Sister Monica Joan](http://twitter.com/search?q=Sister+Monica+Joan) | N/A |
-| 35 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 38 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 39 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [Zinni](http://twitter.com/search?q=Zinni) | Zinni is a slang term used to describe someone who is very lazy or unmotivated. It comes from the phrase "zoning out," which means to be completely unaware of one's surroundings. In English, it can be used to describe someone who is not putting in any effort or taking any action. |
-| 42 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 43 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 44 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
-| 45 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 46 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 47 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 48 | [Jaffa Cakes](http://twitter.com/search?q=Jaffa+Cakes) | N/A |
-| 49 | [James Norton](http://twitter.com/search?q=James+Norton) | N/A |
+| 2 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 3 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 4 | [Ekin-Su](http://twitter.com/search?q=Ekin-Su) | N/A |
+| 5 | [Hebden Bridge](http://twitter.com/search?q=Hebden+Bridge) | N/A |
+| 6 | [#diggingforbritain](http://twitter.com/search?q=%23diggingforbritain) | N/A |
+| 7 | [#OneOfOurOwn](http://twitter.com/search?q=%23OneOfOurOwn) | N/A |
+| 8 | [HARRYS](http://twitter.com/search?q=HARRYS) | HARRYS is a British clothing retailer that specializes in affordable, stylish fashion for men and women. The company was founded in 2009 and has since become one of the most popular fashion brands in the UK. The name HARRYS is derived from the phrase "Have A Really Really Stylish You". |
+| 9 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 10 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
+| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 12 | [Jaffa Cakes](http://twitter.com/search?q=Jaffa+Cakes) | N/A |
+| 13 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 14 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 15 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 16 | [Jimmy Greaves](http://twitter.com/search?q=Jimmy+Greaves) | Jimmy Greaves is a former English professional footballer who played for Chelsea, Tottenham Hotspur, West Ham United, and Italy's AC Milan. He is widely regarded as one of the greatest strikers of all time and holds the record for the most goals scored in the English top flight. The phrase "Jimmy Greaves" is often used to refer to a player who is a prolific goalscorer. |
+| 17 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 18 | [#HappyValley](http://twitter.com/search?q=%23HappyValley) | #HappyValley is a hashtag used to refer to the city of State College, Pennsylvania, which is home to Penn State University. It is often used by locals and alumni of the university to express their pride in the city and its culture. |
+| 19 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 20 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 21 | [Sarah Lancashire](http://twitter.com/search?q=Sarah+Lancashire) | Sarah Lancashire is an English actress. She is best known for her roles in the television series Coronation Street, Happy Valley, Last Tango in Halifax, and the BBC drama series Clocking Off. |
+| 22 | [Catherine](http://twitter.com/search?q=Catherine) | Catherine is a feminine given name derived from the Greek name Αἰκατερίνη (Aikaterine). It is a form of the name Katherine, which means "pure" or "clear". |
+| 23 | [Tanyel](http://twitter.com/search?q=Tanyel) | Tanyel is a Turkish name, derived from the Persian name Tanveer, which means "bright and brave". It is also used as a surname in some parts of Turkey. |
+| 24 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 25 | [James Norton](http://twitter.com/search?q=James+Norton) | James Norton is a British actor best known for his roles in the television series Happy Valley, Grantchester, and War & Peace. He has also appeared in films such as Belle, Rush, and Flatliners. The name James Norton is derived from the English given name James, which means "supplanter," and the surname Norton, which means "north town." |
+| 26 | [Sally Wainwright](http://twitter.com/search?q=Sally+Wainwright) | N/A |
+| 27 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 28 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
+| 29 | [Sammie](http://twitter.com/search?q=Sammie) | N/A |
+| 30 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 31 | [Faisal](http://twitter.com/search?q=Faisal) | N/A |
+| 32 | [EGOT](http://twitter.com/search?q=EGOT) | EGOT is an acronym for the four major entertainment awards: Emmy, Grammy, Oscar, and Tony. It is used to refer to someone who has won all four awards. |
+| 33 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 34 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 36 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 38 | [Line of Duty](http://twitter.com/search?q=Line+of+Duty) | N/A |
+| 39 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 40 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
+| 41 | [Leomie](http://twitter.com/search?q=Leomie) | N/A |
+| 42 | [BAFTAs](http://twitter.com/search?q=BAFTAs) | N/A |
+| 43 | [Siobhan Finneran](http://twitter.com/search?q=Siobhan+Finneran) | N/A |
+| 44 | [Not Tom](http://twitter.com/search?q=Not+Tom) | N/A |
+| 45 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 46 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 47 | [Jordan and Ellie](http://twitter.com/search?q=Jordan+and+Ellie) | N/A |
+| 48 | [Joanna](http://twitter.com/search?q=Joanna) | N/A |
+| 49 | [Sister Monica Joan](http://twitter.com/search?q=Sister+Monica+Joan) | N/A |
 
 
 

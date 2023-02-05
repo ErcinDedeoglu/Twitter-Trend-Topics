@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-02-05 22:16:36 UTC`
+📆 Last Updated: `2023-02-05 23:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
-| 2 | [#おは戦50206fg](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650206fg) | N/A |
-| 3 | [#呪術本誌](http://twitter.com/search?q=%23%e5%91%aa%e8%a1%93%e6%9c%ac%e8%aa%8c) | N/A |
-| 4 | [ラウタロ](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%82%bf%e3%83%ad) | N/A |
-| 5 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
-| 6 | [日銀次期総裁](http://twitter.com/search?q=%e6%97%a5%e9%8a%80%e6%ac%a1%e6%9c%9f%e7%b7%8f%e8%a3%81) | N/A |
-| 7 | [TSM優勝](http://twitter.com/search?q=TSM%e5%84%aa%e5%8b%9d) | TSM優勝 is a phrase used in the gaming community to refer to Team SoloMid (TSM) winning a tournament or championship. In English, it translates to "TSM Victory". |
-| 8 | [カイリー](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%83%aa%e3%83%bc) | カイリー is a Japanese name, and it is usually written in katakana. It is the Japanese pronunciation of the English name "Kylie". |
-| 9 | [#ちょうどいいラジオ](http://twitter.com/search?q=%23%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e3%81%84%e3%81%84%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
-| 10 | [エメルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%a1%e3%83%ab%e3%82%bd%e3%83%b3) | エメルソン (Emerson) is a Japanese clothing brand that specializes in casual and streetwear fashion. The brand is known for its use of bright colors and bold designs, as well as its focus on comfort and quality. In English, the name Emerson means "son of Emery", which is derived from the Old German name Emmerich. |
-| 11 | [ピオーリ](http://twitter.com/search?q=%e3%83%94%e3%82%aa%e3%83%bc%e3%83%aa) | N/A |
-| 12 | [ウィッチウォッチ](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%83%e3%83%81%e3%82%a6%e3%82%a9%e3%83%83%e3%83%81) | ウィッチウォッチ (Witch Watch) is a Japanese horror-adventure game series developed by Kogado Studio. It follows the story of a group of high school students who investigate supernatural occurrences in their town. The English translation of the title is "Witch Watch". |
-| 13 | [ボッスン](http://twitter.com/search?q=%e3%83%9c%e3%83%83%e3%82%b9%e3%83%b3) | ボッスン (bōssun) is a Japanese onomatopoeia that describes the sound of a bell ringing. It is often used to describe the sound of a school bell or a doorbell. In English, it could be translated as "ding-dong". |
-| 14 | [雨宮副総裁](http://twitter.com/search?q=%e9%9b%a8%e5%ae%ae%e5%89%af%e7%b7%8f%e8%a3%81) | N/A |
-| 15 | [呪術廻戦](http://twitter.com/search?q=%e5%91%aa%e8%a1%93%e5%bb%bb%e6%88%a6) | 呪術廻戦 is a Japanese manga series written and illustrated by Yoshiaki Sukeno. It follows the story of Rokuro Enmado, a young boy who is determined to become the world's greatest exorcist, and Benio Adashino, a girl who is his rival in the same field. The title translates to "Twisted Sorcery Battle" in English. |
-| 16 | [政府・与党](http://twitter.com/search?q=%e6%94%bf%e5%ba%9c%e3%83%bb%e4%b8%8e%e5%85%9a) | N/A |
-| 17 | [#HappyU_KNOWDay](http://twitter.com/search?q=%23HappyU_KNOWDay) | N/A |
-| 18 | [ブラヒム](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%92%e3%83%a0) | N/A |
-| 19 | [バレッラ](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%83%e3%83%a9) | N/A |
-| 20 | [ミラノダービー](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%83%8e%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 21 | [スケダン](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%80%e3%83%b3) | スケダン (Skedan) is a Japanese term that refers to a style of dance that combines elements of hip-hop, breakdancing, and acrobatics. It is often performed in large groups and involves intricate choreography. The English translation of スケダン is "street dance". |
-| 22 | [とらドラ](http://twitter.com/search?q=%e3%81%a8%e3%82%89%e3%83%89%e3%83%a9) | N/A |
-| 23 | [抹茶の日](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%81%ae%e6%97%a5) | N/A |
-| 24 | [#松島聡入所12周年](http://twitter.com/search?q=%23%e6%9d%be%e5%b3%b6%e8%81%a1%e5%85%a5%e6%89%8012%e5%91%a8%e5%b9%b4) | N/A |
-| 25 | [セビージャ](http://twitter.com/search?q=%e3%82%bb%e3%83%93%e3%83%bc%e3%82%b8%e3%83%a3) | N/A |
-| 26 | [海苔の日](http://twitter.com/search?q=%e6%b5%b7%e8%8b%94%e3%81%ae%e6%97%a5) | N/A |
-| 27 | [第381回](http://twitter.com/search?q=%e7%ac%ac381%e5%9b%9e) | 第381回 is a Japanese phrase that translates to "381st time" or "381st episode". It is often used to refer to the 381st episode of a television series, manga, or other form of media. |
-| 28 | [ブスケツ](http://twitter.com/search?q=%e3%83%96%e3%82%b9%e3%82%b1%e3%83%84) | N/A |
-| 29 | [タタルシャヌ](http://twitter.com/search?q=%e3%82%bf%e3%82%bf%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%8c) | N/A |
-| 30 | [風呂の日](http://twitter.com/search?q=%e9%a2%a8%e5%91%82%e3%81%ae%e6%97%a5) | N/A |
-| 31 | [Ivan先生](http://twitter.com/search?q=Ivan%e5%85%88%e7%94%9f) | N/A |
-| 32 | [雨宮さん](http://twitter.com/search?q=%e9%9b%a8%e5%ae%ae%e3%81%95%e3%82%93) | N/A |
-| 33 | [メシアス](http://twitter.com/search?q=%e3%83%a1%e3%82%b7%e3%82%a2%e3%82%b9) | N/A |
-| 34 | [雨宮正佳副総裁](http://twitter.com/search?q=%e9%9b%a8%e5%ae%ae%e6%ad%a3%e4%bd%b3%e5%89%af%e7%b7%8f%e8%a3%81) | N/A |
-| 35 | [トナーリ](http://twitter.com/search?q=%e3%83%88%e3%83%8a%e3%83%bc%e3%83%aa) | N/A |
-| 36 | [ハーランド](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | ハーランド (Hārando) is a Japanese word that means "harbor". It is used to refer to a place where ships can dock and unload cargo. |
-| 37 | [ラウティ](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%83%86%e3%82%a3) | N/A |
-| 38 | [グリーリッシュ](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%aa%e3%83%83%e3%82%b7%e3%83%a5) | グリーリッシュ (Guriirisshu) is a Japanese word that means "gleeful" or "joyful". It is often used to describe someone who is feeling happy and excited. |
-| 39 | [ディンウィディー](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%b3%e3%82%a6%e3%82%a3%e3%83%87%e3%82%a3%e3%83%bc) | N/A |
-| 40 | [ソシエダ](http://twitter.com/search?q=%e3%82%bd%e3%82%b7%e3%82%a8%e3%83%80) | N/A |
-| 41 | [スノームーン](http://twitter.com/search?q=%e3%82%b9%e3%83%8e%e3%83%bc%e3%83%a0%e3%83%bc%e3%83%b3) | スノームーン (snow moon) is a Japanese term for the full moon that occurs in February. It is believed to be a time of renewal and rebirth, and is associated with the coming of spring. In English, it can be translated as "Snow Moon". |
-| 42 | [除名処分](http://twitter.com/search?q=%e9%99%a4%e5%90%8d%e5%87%a6%e5%88%86) | N/A |
-| 43 | [ドンチッチ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%81%e3%83%83%e3%83%81) | N/A |
-| 44 | [地獄展開](http://twitter.com/search?q=%e5%9c%b0%e7%8d%84%e5%b1%95%e9%96%8b) | N/A |
-| 45 | [週の始まり](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
-| 46 | [ブログの日](http://twitter.com/search?q=%e3%83%96%e3%83%ad%e3%82%b0%e3%81%ae%e6%97%a5) | N/A |
-| 47 | [ラキティッチ](http://twitter.com/search?q=%e3%83%a9%e3%82%ad%e3%83%86%e3%82%a3%e3%83%83%e3%83%81) | N/A |
-| 48 | [ガンプラ](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
+| 1 | [#UT_PSコラボ](http://twitter.com/search?q=%23UT_PS%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 2 | [プレイステーションTM](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3TM) | プレイステーションTM is the brand name of Sony Interactive Entertainment's line of video game consoles. In English, it translates to "PlayStation". |
+| 3 | [#PS5ほしい](http://twitter.com/search?q=%23PS5%e3%81%bb%e3%81%97%e3%81%84) | N/A |
+| 4 | [ゆういちろう](http://twitter.com/search?q=%e3%82%86%e3%81%86%e3%81%84%e3%81%a1%e3%82%8d%e3%81%86) | ゆういちろう is a Japanese name, and it can be written in English as Yuichiro. It is a combination of two kanji characters: "yu" (勇) meaning brave or courageous, and "ichiro" (一郎) meaning first son. |
+| 5 | [#UTほしい](http://twitter.com/search?q=%23UT%e3%81%bb%e3%81%97%e3%81%84) | N/A |
+| 6 | [カイリー](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%83%aa%e3%83%bc) | カイリー is a Japanese name, and it is usually written in katakana. It is the Japanese pronunciation of the English name "Kylie". |
+| 7 | [日比谷線](http://twitter.com/search?q=%e6%97%a5%e6%af%94%e8%b0%b7%e7%b7%9a) | N/A |
+| 8 | [#めざましテレビ](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%81%be%e3%81%97%e3%83%86%e3%83%ac%e3%83%93) | N/A |
+| 9 | [スイちゃん](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 10 | [卒業フラグ](http://twitter.com/search?q=%e5%8d%92%e6%a5%ad%e3%83%95%e3%83%a9%e3%82%b0) | N/A |
+| 11 | [#おは戦50206fg](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650206fg) | N/A |
+| 12 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
+| 13 | [抹茶の日](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%81%ae%e6%97%a5) | N/A |
+| 14 | [とらドラ](http://twitter.com/search?q=%e3%81%a8%e3%82%89%e3%83%89%e3%83%a9) | N/A |
+| 15 | [風呂の日](http://twitter.com/search?q=%e9%a2%a8%e5%91%82%e3%81%ae%e6%97%a5) | N/A |
+| 16 | [田辺さん](http://twitter.com/search?q=%e7%94%b0%e8%be%ba%e3%81%95%e3%82%93) | "田辺さん" is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr. Tanabe". |
+| 17 | [日銀次期総裁](http://twitter.com/search?q=%e6%97%a5%e9%8a%80%e6%ac%a1%e6%9c%9f%e7%b7%8f%e8%a3%81) | N/A |
+| 18 | [呪術廻戦](http://twitter.com/search?q=%e5%91%aa%e8%a1%93%e5%bb%bb%e6%88%a6) | 呪術廻戦 is a Japanese manga series written and illustrated by Yoshiaki Sukeno. It follows the story of Rokuro Enmado, a young boy who is determined to become the world's greatest exorcist, and Benio Adashino, a girl who is his rival in the same field. The title translates to "Twisted Sorcery Battle" in English. |
+| 19 | [卒業ソング](http://twitter.com/search?q=%e5%8d%92%e6%a5%ad%e3%82%bd%e3%83%b3%e3%82%b0) | N/A |
+| 20 | [海苔の日](http://twitter.com/search?q=%e6%b5%b7%e8%8b%94%e3%81%ae%e6%97%a5) | N/A |
+| 21 | [ウィッチウォッチ](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%83%e3%83%81%e3%82%a6%e3%82%a9%e3%83%83%e3%83%81) | ウィッチウォッチ (Witch Watch) is a Japanese horror-adventure game series developed by Kogado Studio. It follows the story of a group of high school students who investigate supernatural occurrences in their town. The English translation of the title is "Witch Watch". |
+| 22 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
+| 23 | [雨宮副総裁](http://twitter.com/search?q=%e9%9b%a8%e5%ae%ae%e5%89%af%e7%b7%8f%e8%a3%81) | N/A |
+| 24 | [TSM優勝](http://twitter.com/search?q=TSM%e5%84%aa%e5%8b%9d) | TSM優勝 is a phrase used in the gaming community to refer to Team SoloMid (TSM) winning a tournament or championship. In English, it translates to "TSM Victory". |
+| 25 | [週の始まり](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
+| 26 | [スケダン](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%80%e3%83%b3) | スケダン (Skedan) is a Japanese term that refers to a style of dance that combines elements of hip-hop, breakdancing, and acrobatics. It is often performed in large groups and involves intricate choreography. The English translation of スケダン is "street dance". |
+| 27 | [ドンチッチ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%81%e3%83%83%e3%83%81) | N/A |
+| 28 | [はまっする](http://twitter.com/search?q=%e3%81%af%e3%81%be%e3%81%a3%e3%81%99%e3%82%8b) | N/A |
+| 29 | [ラウタロ](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%82%bf%e3%83%ad) | N/A |
+| 30 | [第381回](http://twitter.com/search?q=%e7%ac%ac381%e5%9b%9e) | 第381回 is a Japanese phrase that translates to "381st time" or "381st episode". It is often used to refer to the 381st episode of a television series, manga, or other form of media. |
+| 31 | [ボッスン](http://twitter.com/search?q=%e3%83%9c%e3%83%83%e3%82%b9%e3%83%b3) | ボッスン (bōssun) is a Japanese onomatopoeia that describes the sound of a bell ringing. It is often used to describe the sound of a school bell or a doorbell. In English, it could be translated as "ding-dong". |
+| 32 | [政府・与党](http://twitter.com/search?q=%e6%94%bf%e5%ba%9c%e3%83%bb%e4%b8%8e%e5%85%9a) | N/A |
+| 33 | [雨宮さん](http://twitter.com/search?q=%e9%9b%a8%e5%ae%ae%e3%81%95%e3%82%93) | N/A |
+| 34 | [グラミー](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%bc) | N/A |
+| 35 | [地獄展開](http://twitter.com/search?q=%e5%9c%b0%e7%8d%84%e5%b1%95%e9%96%8b) | N/A |
+| 36 | [Ivan先生](http://twitter.com/search?q=Ivan%e5%85%88%e7%94%9f) | N/A |
+| 37 | [大宝律令](http://twitter.com/search?q=%e5%a4%a7%e5%ae%9d%e5%be%8b%e4%bb%a4) | N/A |
+| 38 | [げつようび](http://twitter.com/search?q=%e3%81%92%e3%81%a4%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 39 | [婚約指輪](http://twitter.com/search?q=%e5%a9%9a%e7%b4%84%e6%8c%87%e8%bc%aa) | N/A |
+| 40 | [章兄ちゃん](http://twitter.com/search?q=%e7%ab%a0%e5%85%84%e3%81%a1%e3%82%83%e3%82%93) | 章兄ちゃん is a Japanese term of endearment used to refer to an older brother. It literally translates to "older brother Chapter". |
+| 41 | [雨宮正佳副総裁](http://twitter.com/search?q=%e9%9b%a8%e5%ae%ae%e6%ad%a3%e4%bd%b3%e5%89%af%e7%b7%8f%e8%a3%81) | N/A |
+| 42 | [ブログの日](http://twitter.com/search?q=%e3%83%96%e3%83%ad%e3%82%b0%e3%81%ae%e6%97%a5) | N/A |
+| 43 | [ディンウィディー](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%b3%e3%82%a6%e3%82%a3%e3%83%87%e3%82%a3%e3%83%bc) | N/A |
+| 44 | [スケットダンス](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%83%e3%83%88%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
+| 45 | [バレッラ](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%83%e3%83%a9) | N/A |
+| 46 | [ピオーリ](http://twitter.com/search?q=%e3%83%94%e3%82%aa%e3%83%bc%e3%83%aa) | N/A |
+| 47 | [日銀総裁](http://twitter.com/search?q=%e6%97%a5%e9%8a%80%e7%b7%8f%e8%a3%81) | N/A |
+| 48 | [けけちゃま](http://twitter.com/search?q=%e3%81%91%e3%81%91%e3%81%a1%e3%82%83%e3%81%be) | N/A |
 
 
 

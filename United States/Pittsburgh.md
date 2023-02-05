@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-05 22:16:57 UTC`
+📆 Last Updated: `2023-02-05 23:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nebraska](http://twitter.com/search?q=Nebraska) | N/A |
-| 2 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 3 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 5 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | #ProBowlGames is a hashtag used on social media to refer to the annual National Football League (NFL) all-star game, the Pro Bowl. The Pro Bowl is an exhibition game featuring the best players from the NFL's two conferences, the American Football Conference (AFC) and the National Football Conference (NFC). |
-| 6 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 7 | [EGOT](http://twitter.com/search?q=EGOT) | EGOT is an acronym for the four major entertainment awards: Emmy, Grammy, Oscar, and Tony. It is used to refer to someone who has won all four awards. |
-| 8 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 9 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 2 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 3 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 4 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | #ProBowlGames is a hashtag used on social media to refer to the annual National Football League (NFL) all-star game, the Pro Bowl. The Pro Bowl is an exhibition game featuring the best players from the NFL's two conferences, the American Football Conference (AFC) and the National Football Conference (NFC). |
+| 5 | [EGOT](http://twitter.com/search?q=EGOT) | EGOT is an acronym for the four major entertainment awards: Emmy, Grammy, Oscar, and Tony. It is used to refer to someone who has won all four awards. |
+| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 7 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 8 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 9 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
 | 10 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
-| 11 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 12 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 13 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 14 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
-| 15 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 16 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
-| 17 | [Zinni](http://twitter.com/search?q=Zinni) | Zinni is a slang term used to describe someone who is very lazy or unmotivated. It comes from the phrase "zoning out," which means to be completely unaware of one's surroundings. In English, it can be used to describe someone who is not putting in any effort or taking any action. |
-| 18 | [Dorian Finney](http://twitter.com/search?q=Dorian+Finney) | Dorian Finney is a name derived from the Greek mythological figure Dorian, who was known for his beauty and charm. The name is usually used as a given name for boys, and it can also be used as a surname. The meaning of the name in English is "gift of the sea". |
-| 19 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 20 | [#PokemonGOCommunityDay](http://twitter.com/search?q=%23PokemonGOCommunityDay) | N/A |
-| 21 | [HARRYS](http://twitter.com/search?q=HARRYS) | HARRYS is a British clothing retailer that specializes in affordable, stylish fashion for men and women. The company was founded in 2009 and has since become one of the most popular fashion brands in the UK. The name HARRYS is derived from the phrase "Have A Really Really Stylish You". |
-| 22 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 23 | [Doe Doe](http://twitter.com/search?q=Doe+Doe) | N/A |
-| 24 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 25 | [Christian Wood](http://twitter.com/search?q=Christian+Wood) | Christian Wood is a professional basketball player who currently plays for the Detroit Pistons of the National Basketball Association (NBA). He is known for his athleticism and ability to score from all over the court. The term "Christian Wood" is used to refer to him as a basketball player. |
-| 26 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 27 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
-| 28 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 29 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 30 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
-| 31 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 32 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 11 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 12 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 13 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 14 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 15 | [#BuschLightClash](http://twitter.com/search?q=%23BuschLightClash) | N/A |
+| 16 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
+| 17 | [#PokemonGOCommunityDay](http://twitter.com/search?q=%23PokemonGOCommunityDay) | N/A |
+| 18 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 19 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 20 | [HARRYS](http://twitter.com/search?q=HARRYS) | HARRYS is a British clothing retailer that specializes in affordable, stylish fashion for men and women. The company was founded in 2009 and has since become one of the most popular fashion brands in the UK. The name HARRYS is derived from the phrase "Have A Really Really Stylish You". |
+| 21 | [Kevin Durant](http://twitter.com/search?q=Kevin+Durant) | Kevin Durant is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He is a ten-time NBA All-Star and two-time NBA Finals MVP. He has won four NBA scoring titles, the NBA Rookie of the Year Award, and an Olympic gold medal. |
+| 22 | [Wet Leg](http://twitter.com/search?q=Wet+Leg) | N/A |
+| 23 | [Pettine](http://twitter.com/search?q=Pettine) | N/A |
+| 24 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 25 | [Stefon Diggs](http://twitter.com/search?q=Stefon+Diggs) | N/A |
+| 26 | [Zinni](http://twitter.com/search?q=Zinni) | Zinni is a slang term used to describe someone who is very lazy or unmotivated. It comes from the phrase "zoning out," which means to be completely unaware of one's surroundings. In English, it can be used to describe someone who is not putting in any effort or taking any action. |
+| 27 | [Dorian Finney](http://twitter.com/search?q=Dorian+Finney) | Dorian Finney is a name derived from the Greek mythological figure Dorian, who was known for his beauty and charm. The name is usually used as a given name for boys, and it can also be used as a surname. The meaning of the name in English is "gift of the sea". |
+| 28 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 29 | [Robert Glasper](http://twitter.com/search?q=Robert+Glasper) | N/A |
+| 30 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 31 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 32 | [Doe Doe](http://twitter.com/search?q=Doe+Doe) | N/A |
 | 33 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 34 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 35 | [Jared Goff](http://twitter.com/search?q=Jared+Goff) | N/A |
-| 36 | [#AttackOnBangtanToNo1](http://twitter.com/search?q=%23AttackOnBangtanToNo1) | N/A |
-| 37 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 34 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 35 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 36 | [Virgo's Groove](http://twitter.com/search?q=Virgo%27s+Groove) | N/A |
+| 37 | [Heat 1](http://twitter.com/search?q=Heat+1) | N/A |
 | 38 | [Muni Long](http://twitter.com/search?q=Muni+Long) | N/A |
-| 39 | [Virgo's Groove](http://twitter.com/search?q=Virgo%27s+Groove) | N/A |
-| 40 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
-| 41 | [Jeanie](http://twitter.com/search?q=Jeanie) | N/A |
-| 42 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 43 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 44 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 46 | [Plastic Off The Sofa](http://twitter.com/search?q=Plastic+Off+The+Sofa) | N/A |
-| 47 | [Jack Harlow](http://twitter.com/search?q=Jack+Harlow) | N/A |
-| 48 | [#LAThieves](http://twitter.com/search?q=%23LAThieves) | N/A |
-| 49 | [#BuschLightClash](http://twitter.com/search?q=%23BuschLightClash) | N/A |
-| 50 | [#IAmTiredOfHearingAbout](http://twitter.com/search?q=%23IAmTiredOfHearingAbout) | N/A |
+| 39 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 40 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
+| 41 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 42 | [JADA](http://twitter.com/search?q=JADA) | N/A |
+| 43 | [Best Catch](http://twitter.com/search?q=Best+Catch) | N/A |
+| 44 | [Finding Me](http://twitter.com/search?q=Finding+Me) | N/A |
+| 45 | [Jack Harlow](http://twitter.com/search?q=Jack+Harlow) | N/A |
+| 46 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 47 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
+| 48 | [Carlos Beltran](http://twitter.com/search?q=Carlos+Beltran) | N/A |
+| 49 | [Lizzo](http://twitter.com/search?q=Lizzo) | N/A |
+| 50 | [Flag Football](http://twitter.com/search?q=Flag+Football) | N/A |
 
 
 

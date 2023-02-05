@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-02-05 22:17:04 UTC`
+📆 Last Updated: `2023-02-05 23:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for Oman
 | 17 | [الكره الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
 | 18 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 19 | [ذوي الاعاقه](http://twitter.com/search?q=%d8%b0%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%82%d9%87) | N/A |
-| 20 | [المسابقه الثقافيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a%d9%87) | N/A |
-| 21 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 22 | [مجلس الدوله](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 23 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
-| 24 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 25 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
-| 26 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 27 | [ماريانو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d8%a7%d9%86%d9%88) | ماريانو is a type of Italian pizza. It is made with tomato sauce, mozzarella cheese, and basil. In English, it is known as a Margherita pizza. |
-| 28 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 20 | [مجلس الدوله](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 21 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
+| 22 | [المسابقه الثقافيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a%d9%87) | N/A |
+| 23 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 24 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
+| 25 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 26 | [ماريانو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d8%a7%d9%86%d9%88) | ماريانو is a type of Italian pizza. It is made with tomato sauce, mozzarella cheese, and basil. In English, it is known as a Margherita pizza. |
+| 27 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 28 | [المرحله الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%ad%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 | 29 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
 | 30 | [العام الجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
 | 31 | [اختبار الجغرافيا](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d8%ba%d8%b1%d8%a7%d9%81%d9%8a%d8%a7) | N/A |
 | 32 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
 | 33 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 34 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
-| 35 | [درع الوزاره](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%87) | N/A |
-| 36 | [جوارديولا](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 37 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 38 | [بنك صحار الدولي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b5%d8%ad%d8%a7%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 39 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
-| 40 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
-| 41 | [فالك الفوز](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%83+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 42 | [جبر خاطر](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1+%d8%ae%d8%a7%d8%b7%d8%b1) | N/A |
-| 43 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 44 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 45 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 46 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 47 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 48 | [الابداع الثقافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%af%d8%a7%d8%b9+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d9%8a) | N/A |
-| 49 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
-| 50 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 34 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 35 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 36 | [درع الوزاره](http://twitter.com/search?q=%d8%af%d8%b1%d8%b9+%d8%a7%d9%84%d9%88%d8%b2%d8%a7%d8%b1%d9%87) | N/A |
+| 37 | [جوارديولا](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 38 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 39 | [بنك صحار الدولي](http://twitter.com/search?q=%d8%a8%d9%86%d9%83+%d8%b5%d8%ad%d8%a7%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 40 | [عدنان](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86) | N/A |
+| 41 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
+| 42 | [فالك الفوز](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%83+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 43 | [جبر خاطر](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1+%d8%ae%d8%a7%d8%b7%d8%b1) | N/A |
+| 44 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 45 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 46 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 47 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 48 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 49 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 50 | [طيور الجنه](http://twitter.com/search?q=%d8%b7%d9%8a%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
 
 
 
