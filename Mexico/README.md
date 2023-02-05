@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-05 03:21:07 UTC`
+📆 Last Updated: `2023-02-05 04:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 1 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
 | 2 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 3 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 4 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
-| 5 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 6 | [Potro](http://twitter.com/search?q=Potro) | N/A |
-| 7 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
-| 8 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 9 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 10 | [Carlos Vargas](http://twitter.com/search?q=Carlos+Vargas) | N/A |
-| 11 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
-| 12 | [Factor](http://twitter.com/search?q=Factor) | N/A |
-| 13 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
-| 14 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 15 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 16 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
-| 17 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 18 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 19 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
-| 20 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 21 | [#LuveBuildtotheMoon](http://twitter.com/search?q=%23LuveBuildtotheMoon) | N/A |
-| 22 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 23 | [#fueravelazquez](http://twitter.com/search?q=%23fueravelazquez) | N/A |
-| 24 | [Aldo Farias](http://twitter.com/search?q=Aldo+Farias) | N/A |
-| 25 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 26 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
-| 27 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 28 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
-| 29 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 30 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
-| 31 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 32 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 33 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 34 | [Perxitaa](http://twitter.com/search?q=Perxitaa) | N/A |
-| 35 | [Rambler](http://twitter.com/search?q=Rambler) | N/A |
-| 36 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 37 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 38 | [Tiza](http://twitter.com/search?q=Tiza) | N/A |
-| 39 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 40 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 41 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 42 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 43 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 44 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
-| 45 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 46 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 47 | [Danna](http://twitter.com/search?q=Danna) | N/A |
-| 48 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 49 | [NAMJOON OUR PRIDE AND JOY](http://twitter.com/search?q=NAMJOON+OUR+PRIDE+AND+JOY) | "NAMJOON OUR PRIDE AND JOY" is a phrase used to express admiration and love for the South Korean rapper, songwriter, and record producer, Kim Namjoon (also known as RM). It is a way of expressing pride in his accomplishments and joy in his presence. In English, it means that we are proud of Namjoon and we are filled with joy because of him. |
-| 50 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 3 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 4 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 5 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 6 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 7 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
+| 8 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 9 | [#HARTOFUT](http://twitter.com/search?q=%23HARTOFUT) | N/A |
+| 10 | [Potro](http://twitter.com/search?q=Potro) | N/A |
+| 11 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 12 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 13 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 14 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 15 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 16 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
+| 17 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 18 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
+| 19 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
+| 20 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 21 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
+| 22 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 23 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 24 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 25 | [#SabadoFutbolero](http://twitter.com/search?q=%23SabadoFutbolero) | N/A |
+| 26 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 27 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 28 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 29 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 30 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 31 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 32 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 33 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
+| 34 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 35 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 36 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
+| 37 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 38 | [Carlos Vargas](http://twitter.com/search?q=Carlos+Vargas) | N/A |
+| 39 | [#LuveBuildtotheMoon](http://twitter.com/search?q=%23LuveBuildtotheMoon) | N/A |
+| 40 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
+| 41 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 42 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 43 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 44 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 45 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 46 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
+| 47 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 48 | [Rambler](http://twitter.com/search?q=Rambler) | N/A |
+| 49 | [Aldo farias](http://twitter.com/search?q=Aldo+farias) | N/A |
+| 50 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
 
 
 

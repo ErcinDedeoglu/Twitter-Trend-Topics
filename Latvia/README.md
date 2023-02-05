@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-05 03:21:07 UTC`
+📆 Last Updated: `2023-02-05 04:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ltvsupernova](http://twitter.com/search?q=%23ltvsupernova) | N/A |
-| 2 | [Sudden Lights](http://twitter.com/search?q=Sudden+Lights) | N/A |
-| 3 | [Markus Riva](http://twitter.com/search?q=Markus+Riva) | N/A |
-| 4 | [Eirovīziju](http://twitter.com/search?q=Eirov%c4%abziju) | N/A |
+| 2 | [Markus Riva](http://twitter.com/search?q=Markus+Riva) | N/A |
+| 3 | [Eirovīziju](http://twitter.com/search?q=Eirov%c4%abziju) | N/A |
+| 4 | [Sudden Lights](http://twitter.com/search?q=Sudden+Lights) | N/A |
 | 5 | [Inspo](http://twitter.com/search?q=Inspo) | N/A |
 | 6 | [Raum](http://twitter.com/search?q=Raum) | N/A |
 | 7 | [lauris reiniks](http://twitter.com/search?q=lauris+reiniks) | N/A |
 | 8 | [justs](http://twitter.com/search?q=justs) | N/A |
-| 9 | [Rivu](http://twitter.com/search?q=Rivu) | N/A |
-| 10 | [patrisha](http://twitter.com/search?q=patrisha) | N/A |
+| 9 | [rivu](http://twitter.com/search?q=rivu) | N/A |
+| 10 | [Patrisha](http://twitter.com/search?q=Patrisha) | N/A |
 | 11 | [liverpūli](http://twitter.com/search?q=liverp%c5%abli) | N/A |
 | 12 | [ņetrebko](http://twitter.com/search?q=%c5%86etrebko) | N/A |
-| 13 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 14 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
-| 15 | [vīnes](http://twitter.com/search?q=v%c4%abnes) | N/A |
+| 13 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
+| 14 | [vīnes](http://twitter.com/search?q=v%c4%abnes) | N/A |
+| 15 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 16 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 17 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 18 | [deivisa](http://twitter.com/search?q=deivisa) | N/A |
-| 19 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 20 | [pmlp](http://twitter.com/search?q=pmlp) | N/A |
-| 21 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | N/A |
-| 22 | [parasti](http://twitter.com/search?q=parasti) | N/A |
-| 23 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
-| 24 | [Latvian](http://twitter.com/search?q=Latvian) | N/A |
-| 25 | [atkal](http://twitter.com/search?q=atkal) | N/A |
-| 26 | [maskavā](http://twitter.com/search?q=maskav%c4%81) | N/A |
-| 27 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
-| 28 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
-| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 30 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
+| 17 | [deivisa](http://twitter.com/search?q=deivisa) | N/A |
+| 18 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 19 | [pmlp](http://twitter.com/search?q=pmlp) | N/A |
+| 20 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | N/A |
+| 21 | [parasti](http://twitter.com/search?q=parasti) | N/A |
+| 22 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
+| 23 | [maskavā](http://twitter.com/search?q=maskav%c4%81) | N/A |
+| 24 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 25 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 28 | [atkal](http://twitter.com/search?q=atkal) | N/A |
+| 29 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
+| 30 | [nezinu](http://twitter.com/search?q=nezinu) | N/A |
 | 31 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
-| 32 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
-| 33 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
-| 34 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 35 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
-| 36 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
-| 37 | [nezinu](http://twitter.com/search?q=nezinu) | N/A |
-| 38 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
-| 39 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
-| 40 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
-| 41 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
-| 42 | [visu](http://twitter.com/search?q=visu) | N/A |
-| 43 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 44 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
-| 45 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
-| 46 | [cerams](http://twitter.com/search?q=cerams) | N/A |
-| 47 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
-| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 49 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 50 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 32 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
+| 33 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 34 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
+| 35 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
+| 36 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
+| 37 | [visiem](http://twitter.com/search?q=visiem) | N/A |
+| 38 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
+| 39 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
+| 40 | [visu](http://twitter.com/search?q=visu) | N/A |
+| 41 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 42 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
+| 43 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
+| 44 | [cerams](http://twitter.com/search?q=cerams) | N/A |
+| 45 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 46 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 48 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 49 | [avenu](http://twitter.com/search?q=avenu) | N/A |
+| 50 | [vajag](http://twitter.com/search?q=vajag) | N/A |
 
 
 

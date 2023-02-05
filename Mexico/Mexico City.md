@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-05 03:20:21 UTC`
+📆 Last Updated: `2023-02-05 04:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 2 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 3 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 4 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 5 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 6 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 7 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 8 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
-| 9 | [Carlos Vargas](http://twitter.com/search?q=Carlos+Vargas) | N/A |
-| 10 | [Potro](http://twitter.com/search?q=Potro) | N/A |
-| 11 | [Factor](http://twitter.com/search?q=Factor) | N/A |
-| 12 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
-| 13 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
-| 14 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 15 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
-| 16 | [#LuveBuildtotheMoon](http://twitter.com/search?q=%23LuveBuildtotheMoon) | N/A |
-| 17 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 18 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
-| 19 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 20 | [Aldo Farias](http://twitter.com/search?q=Aldo+Farias) | N/A |
-| 21 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 22 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 23 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
-| 24 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 25 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
-| 26 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 27 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
-| 28 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 29 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 30 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 31 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 32 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 33 | [Perxitaa](http://twitter.com/search?q=Perxitaa) | N/A |
-| 34 | [Rambler](http://twitter.com/search?q=Rambler) | N/A |
-| 35 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
-| 36 | [Tiza](http://twitter.com/search?q=Tiza) | N/A |
-| 37 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 38 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 39 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 40 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
-| 41 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 42 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 43 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
-| 44 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 45 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 46 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 47 | [NAMJOON OUR PRIDE AND JOY](http://twitter.com/search?q=NAMJOON+OUR+PRIDE+AND+JOY) | "NAMJOON OUR PRIDE AND JOY" is a phrase used to express admiration and love for the South Korean rapper, songwriter, and record producer, Kim Namjoon (also known as RM). It is a way of expressing pride in his accomplishments and joy in his presence. In English, it means that we are proud of Namjoon and we are filled with joy because of him. |
-| 48 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 1 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 2 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 3 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 4 | [#DiaMundialContraElCancer](http://twitter.com/search?q=%23DiaMundialContraElCancer) | N/A |
+| 5 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
+| 6 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 7 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 8 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 9 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 10 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
+| 11 | [#HARTOFUT](http://twitter.com/search?q=%23HARTOFUT) | N/A |
+| 12 | [Potro](http://twitter.com/search?q=Potro) | N/A |
+| 13 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 14 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 15 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
+| 16 | [Vigon](http://twitter.com/search?q=Vigon) | N/A |
+| 17 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 18 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
+| 19 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 20 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 21 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 22 | [Velázquez](http://twitter.com/search?q=Vel%c3%a1zquez) | N/A |
+| 23 | [#RayadoEnLaCancha](http://twitter.com/search?q=%23RayadoEnLaCancha) | N/A |
+| 24 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
+| 25 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 26 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 27 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 28 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 29 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 30 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 31 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 32 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 33 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
+| 34 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 35 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 36 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 37 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 38 | [Funes Mori](http://twitter.com/search?q=Funes+Mori) | Funes Mori is a Japanese phrase meaning “forgetful person”. It is derived from the Latin phrase “memoriae oblivio”, which translates to “forgetfulness of memory”. The phrase is often used to describe someone who has difficulty remembering things or has a poor memory. |
+| 39 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 40 | [Carlos Vargas](http://twitter.com/search?q=Carlos+Vargas) | N/A |
+| 41 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 42 | [Santos vs América](http://twitter.com/search?q=Santos+vs+Am%c3%a9rica) | N/A |
+| 43 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
+| 44 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 45 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 46 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 47 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
+| 48 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 49 | [Rambler](http://twitter.com/search?q=Rambler) | N/A |
+| 50 | [Aldo farias](http://twitter.com/search?q=Aldo+farias) | N/A |
 
 
 

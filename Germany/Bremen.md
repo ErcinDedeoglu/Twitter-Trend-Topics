@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-05 03:20:31 UTC`
+📆 Last Updated: `2023-02-05 04:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
+| 1 | [#bmgs04](http://twitter.com/search?q=%23bmgs04) | N/A |
 | 2 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
 | 3 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
 | 4 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 5 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
 | 6 | [Maske](http://twitter.com/search?q=Maske) | N/A |
 | 7 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 8 | [Kerner](http://twitter.com/search?q=Kerner) | N/A |
-| 9 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 10 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 11 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 12 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 8 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 9 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
+| 10 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 11 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
+| 12 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
 | 13 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
 | 14 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 15 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 16 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 17 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
-| 18 | [schiri](http://twitter.com/search?q=schiri) | N/A |
-| 19 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 20 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 21 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 22 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 15 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 16 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
+| 17 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 18 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 19 | [schiri](http://twitter.com/search?q=schiri) | N/A |
+| 20 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 21 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 22 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
 | 23 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
 | 24 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
-| 25 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
-| 26 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 25 | [Kerner](http://twitter.com/search?q=Kerner) | N/A |
+| 26 | [samstagabend](http://twitter.com/search?q=samstagabend) | N/A |
 | 27 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
 | 28 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 29 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
-| 30 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 30 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 31 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
 | 32 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
-| 33 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 34 | [süle](http://twitter.com/search?q=s%c3%bcle) | N/A |
+| 33 | [elfer](http://twitter.com/search?q=elfer) | N/A |
+| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 35 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 36 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 37 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
-| 38 | [Chebli](http://twitter.com/search?q=Chebli) | N/A |
-| 39 | [Über den Wolken](http://twitter.com/search?q=%c3%9cber+den+Wolken) | N/A |
-| 40 | [Apfel](http://twitter.com/search?q=Apfel) | N/A |
-| 41 | [Fouls](http://twitter.com/search?q=Fouls) | N/A |
-| 42 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 43 | [Taxifahrer](http://twitter.com/search?q=Taxifahrer) | N/A |
-| 44 | [Vollmond](http://twitter.com/search?q=Vollmond) | N/A |
-| 45 | [Dispo](http://twitter.com/search?q=Dispo) | N/A |
-| 46 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 47 | [Hafermilch](http://twitter.com/search?q=Hafermilch) | N/A |
-| 48 | [Vorentscheid](http://twitter.com/search?q=Vorentscheid) | N/A |
+| 36 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
+| 37 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 38 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 39 | [Taxifahrer](http://twitter.com/search?q=Taxifahrer) | N/A |
+| 40 | [Fouls](http://twitter.com/search?q=Fouls) | N/A |
+| 41 | [März 2020](http://twitter.com/search?q=M%c3%a4rz+2020) | N/A |
+| 42 | [Dispo](http://twitter.com/search?q=Dispo) | N/A |
+| 43 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 44 | [hafermilch](http://twitter.com/search?q=hafermilch) | N/A |
+| 45 | [Apfel](http://twitter.com/search?q=Apfel) | N/A |
+| 46 | [Asta](http://twitter.com/search?q=Asta) | N/A |
+| 47 | [Flugzeugträger](http://twitter.com/search?q=Flugzeugtr%c3%a4ger) | N/A |
+| 48 | [Fürth](http://twitter.com/search?q=F%c3%bcrth) | N/A |
 
 
 
