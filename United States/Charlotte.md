@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-02-05 06:18:22 UTC`
+📆 Last Updated: `2023-02-05 07:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 1 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
 | 2 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 3 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 3 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
 | 4 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 5 | [#GTHC](http://twitter.com/search?q=%23GTHC) | N/A |
-| 6 | [Heels](http://twitter.com/search?q=Heels) | N/A |
+| 5 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 6 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
 | 7 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
 | 8 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
 | 9 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
 | 10 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 11 | [Aidan Mahaney](http://twitter.com/search?q=Aidan+Mahaney) | Aidan Mahaney is a name of Irish origin. It is derived from the Gaelic name Aodhán, which means "little fire". |
+| 11 | [Choi](http://twitter.com/search?q=Choi) | Choi is a Korean surname. It is derived from the Chinese characters for mountain and water. In English, it can be translated to mean "mountain stream". |
 | 12 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 13 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
-| 14 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
-| 15 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | #Bellator290 is the name of a mixed martial arts event held by Bellator MMA, a professional MMA organization. The event took place on October 6, 2018 in Tel Aviv, Israel. The name is derived from the event's numerical designation (290) within the Bellator series. |
-| 16 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
-| 17 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 18 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 19 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
-| 20 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
-| 21 | [Sarah Paulson](http://twitter.com/search?q=Sarah+Paulson) | Sarah Paulson is an American actress. She is best known for her roles in the television series American Horror Story, The People v. O. J. Simpson: American Crime Story, and Ratched. She has also appeared in films such as 12 Years a Slave, Ocean's 8, and Runaway Bride. |
-| 22 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 23 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
-| 24 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 25 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 26 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 27 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 28 | [Gaels](http://twitter.com/search?q=Gaels) | N/A |
-| 29 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 30 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
-| 31 | [Latif](http://twitter.com/search?q=Latif) | N/A |
-| 32 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
-| 33 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
-| 34 | [Wing Pit](http://twitter.com/search?q=Wing+Pit) | N/A |
-| 35 | [Erika Cruz](http://twitter.com/search?q=Erika+Cruz) | N/A |
-| 36 | [Jubli](http://twitter.com/search?q=Jubli) | N/A |
-| 37 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
-| 38 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 39 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 40 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 41 | [Moraga](http://twitter.com/search?q=Moraga) | N/A |
-| 42 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
-| 43 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 44 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 45 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
-| 46 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 47 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 48 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 49 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 50 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
+| 13 | [Aidan Mahaney](http://twitter.com/search?q=Aidan+Mahaney) | Aidan Mahaney is a name of Irish origin. It is derived from the Gaelic name Aodhán, which means "little fire". |
+| 14 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 15 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 16 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
+| 17 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 18 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
+| 19 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | #Bellator290 is the name of a mixed martial arts event held by Bellator MMA, a professional MMA organization. The event took place on October 6, 2018 in Tel Aviv, Israel. The name is derived from the event's numerical designation (290) within the Bellator series. |
+| 20 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 21 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
+| 22 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 23 | [Sarah Paulson](http://twitter.com/search?q=Sarah+Paulson) | Sarah Paulson is an American actress. She is best known for her roles in the television series American Horror Story, The People v. O. J. Simpson: American Crime Story, and Ratched. She has also appeared in films such as 12 Years a Slave, Ocean's 8, and Runaway Bride. |
+| 24 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 25 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 26 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
+| 27 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 28 | [Kyle Nelson](http://twitter.com/search?q=Kyle+Nelson) | N/A |
+| 29 | [Gaels](http://twitter.com/search?q=Gaels) | N/A |
+| 30 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 31 | [Fugitt](http://twitter.com/search?q=Fugitt) | N/A |
+| 32 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 33 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 34 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
+| 35 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
+| 36 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
+| 37 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
+| 38 | [Steven Universe](http://twitter.com/search?q=Steven+Universe) | N/A |
+| 39 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
+| 40 | [Wing Pit](http://twitter.com/search?q=Wing+Pit) | N/A |
+| 41 | [Erika Cruz](http://twitter.com/search?q=Erika+Cruz) | N/A |
+| 42 | [Jubli](http://twitter.com/search?q=Jubli) | N/A |
+| 43 | [Moraga](http://twitter.com/search?q=Moraga) | N/A |
+| 44 | [Latif](http://twitter.com/search?q=Latif) | N/A |
+| 45 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
+| 46 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 47 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
+| 48 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | N/A |
+| 49 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 50 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
 
 
 

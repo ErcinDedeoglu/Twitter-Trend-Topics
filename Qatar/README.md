@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-02-05 06:18:38 UTC`
+📆 Last Updated: `2023-02-05 07:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Qatar
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#عالميه_الهلال_تضي_المونديال](http://twitter.com/search?q=%23%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%aa%d8%b6%d9%8a_%d8%a7%d9%84%d9%85%d9%88%d9%86%d8%af%d9%8a%d8%a7%d9%84) | #عالميه_الهلال_تضي_المونديال is a hashtag used by fans of Al-Hilal FC, a Saudi Arabian football club, to show their support for the team's participation in the FIFA Club World Cup. In English, it translates to "Al-Hilal Worldwide Supports the FIFA Club World Cup". |
-| 2 | [#الريان_العربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 3 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 2 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 3 | [#الريان_العربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 4 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 5 | [#دوري_نجوم_qnb](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d9%86%d8%ac%d9%88%d9%85_qnb) | N/A |
+| 5 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
 | 6 | [#الاهلي_سياتل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%b3%d9%8a%d8%a7%d8%aa%d9%84) | N/A |
-| 7 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 10 | [عمر السومه](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
-| 11 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 14 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 15 | [السومة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d8%a9) | N/A |
+| 7 | [#كاس_العالم_للانديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85_%d9%84%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87) | #كاس_العالم_للانديه is a hashtag used on social media to promote the FIFA Club World Cup, an international association football tournament for clubs. In English, it translates to "World Cup for Clubs". |
+| 8 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 9 | [عمر السومه](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%85%d9%87) | N/A |
+| 10 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 11 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 12 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
+| 13 | [السومة](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%85%d8%a9) | N/A |
+| 14 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 16 | [سويسرا](http://twitter.com/search?q=%d8%b3%d9%88%d9%8a%d8%b3%d8%b1%d8%a7) | N/A |
-| 17 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 18 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 20 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 21 | [خالد بن ابراهيم السليطي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d8%b7%d9%8a) | N/A |
+| 19 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [حامد](http://twitter.com/search?q=%d8%ad%d8%a7%d9%85%d8%af) | N/A |
 | 22 | [ناصر العطيه](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 23 | [حامد](http://twitter.com/search?q=%d8%ad%d8%a7%d9%85%d8%af) | N/A |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [المنطاد الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d8%a7%d8%af+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 26 | [يوتيوب](http://twitter.com/search?q=%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
-| 27 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 28 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
-| 29 | [الشعب المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 30 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 23 | [الشعب المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 24 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 25 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
+| 26 | [5 فبراير 2023](http://twitter.com/search?q=5+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 27 | [يوتيوب](http://twitter.com/search?q=%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
+| 28 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
+| 29 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 30 | [الشعب السوداني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a) | N/A |
 | 31 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 32 | [5 فبراير 2023](http://twitter.com/search?q=5+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 33 | [الشعب السوداني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a) | N/A |
-| 34 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
-| 35 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
-| 36 | [المجموعه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 37 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 38 | [America](http://twitter.com/search?q=America) | N/A |
-| 39 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
-| 40 | [يونس علي](http://twitter.com/search?q=%d9%8a%d9%88%d9%86%d8%b3+%d8%b9%d9%84%d9%8a) | N/A |
-| 41 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 43 | [الدوره الرياضيه التاسعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d9%87) | N/A |
-| 44 | [الاسبوع الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 45 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 46 | [علي مصر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b5%d8%b1) | N/A |
-| 47 | [aahoo](http://twitter.com/search?q=aahoo) | N/A |
-| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 49 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 50 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [يونس علي](http://twitter.com/search?q=%d9%8a%d9%88%d9%86%d8%b3+%d8%b9%d9%84%d9%8a) | N/A |
+| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 35 | [الاسبوع الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 36 | [خالد بن ابراهيم السليطي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d8%b7%d9%8a) | N/A |
+| 37 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 38 | [علي مصر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b5%d8%b1) | N/A |
+| 39 | [الدوري الانجليزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a) | N/A |
+| 40 | [aahoo](http://twitter.com/search?q=aahoo) | N/A |
+| 41 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 42 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 44 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 45 | [الدوره الرياضيه التاسعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d9%87) | N/A |
+| 46 | [علي نعمه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87) | N/A |
+| 47 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 48 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 49 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 50 | [توكل علي](http://twitter.com/search?q=%d8%aa%d9%88%d9%83%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
 
 
 
