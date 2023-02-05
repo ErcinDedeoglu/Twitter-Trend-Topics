@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-02-05 09:16:41 UTC`
+📆 Last Updated: `2023-02-05 10:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | ------- | ------------ | ------------ |
 | 1 | [#PervezMusharraf](http://twitter.com/search?q=%23PervezMusharraf) | #PervezMusharraf is a hashtag used to refer to former Pakistani President Pervez Musharraf. It is used to discuss news and topics related to him. |
 | 2 | [#IftiMania](http://twitter.com/search?q=%23IftiMania) | #IftiMania is a hashtag used to promote the work of Pakistani singer and songwriter Iftikhar Hussain, also known as Ifti. The hashtag is used to show support for his music and to share his work with others. The English translation of #IftiMania is "Ifti Mania". |
-| 3 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
-| 4 | [#جیل_بھرو_تحریک](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88_%d8%aa%d8%ad%d8%b1%db%8c%da%a9) | N/A |
-| 5 | [#درع_الامارات_المشترك51](http://twitter.com/search?q=%23%d8%af%d8%b1%d8%b9_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%8351) | N/A |
+| 3 | [#القمه_العالميه_للحكومات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d9%85%d9%87_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87_%d9%84%d9%84%d8%ad%d9%83%d9%88%d9%85%d8%a7%d8%aa) | N/A |
+| 4 | [#درع_الامارات_المشترك51](http://twitter.com/search?q=%23%d8%af%d8%b1%d8%b9_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%8351) | N/A |
+| 5 | [#الهلال_الوداد_المغربي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af_%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a) | #الهلال_الوداد_المغربي is a hashtag used to show support for the Moroccan football team, Wydad Athletic Club. In English, it translates to "Moroccan Wydad Flag". |
 | 6 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 7 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 8 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 9 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 10 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 11 | [الاخوه الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d9%88%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 12 | [الخدمه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 13 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 14 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 15 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 16 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 17 | [الدفاع الروسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d9%87) | N/A |
-| 18 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 19 | [وزارة الدفاع الروسية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a9) | N/A |
-| 20 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
+| 7 | [quetta](http://twitter.com/search?q=quetta) | N/A |
+| 8 | [الخدمه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 9 | [القمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 10 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 11 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 12 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 13 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 14 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 15 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 16 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 17 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
+| 18 | [الدفاع الروسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d9%87) | N/A |
+| 19 | [الاخوه الانسانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d9%88%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 20 | [وزارة الدفاع الروسية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a9) | N/A |
 | 21 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 22 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 23 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
-| 24 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 25 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 27 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 28 | [ودعم العمل الدولي](http://twitter.com/search?q=%d9%88%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 29 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 30 | [الكاسير](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
-| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 32 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 33 | [كريستال بالاس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84+%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
-| 34 | [المحيط الاطلسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%b3%d9%8a) | N/A |
-| 35 | [شوق القمر](http://twitter.com/search?q=%d8%b4%d9%88%d9%82+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
-| 36 | [عبد القادر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | عبد القادر is an Arabic name which translates to English as "Servant of the Most Powerful". |
-| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 40 | [دبا الفجيره](http://twitter.com/search?q=%d8%af%d8%a8%d8%a7+%d8%a7%d9%84%d9%81%d8%ac%d9%8a%d8%b1%d9%87) | N/A |
-| 41 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 42 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 43 | [اليوم الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 44 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 45 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
-| 46 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 47 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 48 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
-| 49 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 50 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
+| 22 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
+| 23 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 24 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
+| 25 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 26 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 27 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 29 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 30 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 31 | [ودعم العمل الدولي](http://twitter.com/search?q=%d9%88%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 32 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 33 | [الكاسير](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a7%d8%b3%d9%8a%d8%b1) | N/A |
+| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 35 | [كريستال بالاس](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84+%d8%a8%d8%a7%d9%84%d8%a7%d8%b3) | N/A |
+| 36 | [المحيط الاطلسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%b3%d9%8a) | N/A |
+| 37 | [شوق القمر](http://twitter.com/search?q=%d8%b4%d9%88%d9%82+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
+| 38 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 39 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 40 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 41 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 42 | [اليوم الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 43 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
+| 44 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 45 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 46 | [نايف](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81) | نايف (Nayef) is an Arabic name meaning "blessed" or "fortunate". |
+| 47 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 48 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 49 | [التجسس الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ac%d8%b3%d8%b3+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 
