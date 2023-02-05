@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-05 08:16:50 UTC`
+📆 Last Updated: `2023-02-05 09:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 2 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
-| 3 | [#5febbraio](http://twitter.com/search?q=%235febbraio) | N/A |
-| 4 | [#TaliEQuali](http://twitter.com/search?q=%23TaliEQuali) | N/A |
-| 5 | [#RomaEmpoli](http://twitter.com/search?q=%23RomaEmpoli) | N/A |
+| 1 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
+| 2 | [#5febbraio](http://twitter.com/search?q=%235febbraio) | N/A |
+| 3 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 4 | [#RomaEmpoli](http://twitter.com/search?q=%23RomaEmpoli) | N/A |
+| 5 | [#TaliEQuali](http://twitter.com/search?q=%23TaliEQuali) | N/A |
 | 6 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 7 | [Dory](http://twitter.com/search?q=Dory) | N/A |
-| 8 | [Buongiorno Anna](http://twitter.com/search?q=Buongiorno+Anna) | N/A |
-| 9 | [ORNELLA VANONI](http://twitter.com/search?q=ORNELLA+VANONI) | N/A |
-| 10 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 11 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
-| 12 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 13 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 14 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
+| 7 | [ORNELLA VANONI](http://twitter.com/search?q=ORNELLA+VANONI) | N/A |
+| 8 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 9 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
+| 10 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 11 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 12 | [Buongiorno Andrea](http://twitter.com/search?q=Buongiorno+Andrea) | N/A |
+| 13 | [Buongiorno Andrea](http://twitter.com/search?q=Buongiorno+Andrea) | N/A |
+| 14 | [Buongiorno Andrea](http://twitter.com/search?q=Buongiorno+Andrea) | N/A |
 | 15 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
-| 16 | [Sassuolentus](http://twitter.com/search?q=Sassuolentus) | N/A |
-| 17 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 18 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 19 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 20 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 21 | [Buongiorno Dida](http://twitter.com/search?q=Buongiorno+Dida) | N/A |
-| 22 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 23 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
-| 24 | [Buongiorno Patrizia](http://twitter.com/search?q=Buongiorno+Patrizia) | N/A |
-| 25 | [Tagliatelle](http://twitter.com/search?q=Tagliatelle) | N/A |
-| 26 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 27 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
-| 28 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 16 | [Tagliatelle](http://twitter.com/search?q=Tagliatelle) | N/A |
+| 17 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
+| 18 | [Buongiorno Roberta](http://twitter.com/search?q=Buongiorno+Roberta) | N/A |
+| 19 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 20 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 21 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 22 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 23 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 24 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
+| 25 | [Il 5](http://twitter.com/search?q=Il+5) | N/A |
+| 26 | [Tantissimi](http://twitter.com/search?q=Tantissimi) | N/A |
+| 27 | [Massimo](http://twitter.com/search?q=Massimo) | N/A |
+| 28 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 29 | [Silvia](http://twitter.com/search?q=Silvia) | N/A |
 | 30 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 31 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 31 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
 | 32 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 33 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 34 | [Graziana](http://twitter.com/search?q=Graziana) | N/A |
-| 35 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 36 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 37 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 38 | [malgioglio](http://twitter.com/search?q=malgioglio) | N/A |
-| 39 | [Pasquale](http://twitter.com/search?q=Pasquale) | N/A |
-| 40 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 41 | [Ligabue](http://twitter.com/search?q=Ligabue) | N/A |
-| 42 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 43 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 44 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 45 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
-| 46 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
-| 47 | [Telese](http://twitter.com/search?q=Telese) | N/A |
+| 33 | [Graziana](http://twitter.com/search?q=Graziana) | N/A |
+| 34 | [Ilva](http://twitter.com/search?q=Ilva) | N/A |
+| 35 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 36 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 37 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 38 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
+| 39 | [Telese](http://twitter.com/search?q=Telese) | N/A |
+| 40 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 41 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
+| 42 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 43 | [ivan graziani](http://twitter.com/search?q=ivan+graziani) | N/A |
+| 44 | [malgioglio](http://twitter.com/search?q=malgioglio) | N/A |
+| 45 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 46 | [Enogu](http://twitter.com/search?q=Enogu) | N/A |
+| 47 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
 | 48 | [Miki](http://twitter.com/search?q=Miki) | N/A |
-| 49 | [Clelia](http://twitter.com/search?q=Clelia) | N/A |
+| 49 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
 
 
 

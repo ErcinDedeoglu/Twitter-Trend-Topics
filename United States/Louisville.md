@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-02-05 08:17:15 UTC`
+📆 Last Updated: `2023-02-05 09:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 2 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 3 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 4 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
-| 5 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 6 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 7 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 8 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
-| 9 | [Mike Pratt](http://twitter.com/search?q=Mike+Pratt) | N/A |
-| 10 | [Rupp Arena](http://twitter.com/search?q=Rupp+Arena) | N/A |
+| 1 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 2 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 3 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 4 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 5 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 6 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 7 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
+| 8 | [Mike Pratt](http://twitter.com/search?q=Mike+Pratt) | N/A |
+| 9 | [Rupp Arena](http://twitter.com/search?q=Rupp+Arena) | N/A |
+| 10 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | Derrick Lewis is an American professional mixed martial artist and former heavyweight champion of the Ultimate Fighting Championship (UFC). His nickname is "The Black Beast". He is known for his aggressive fighting style and knockout power. |
 | 11 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
-| 12 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 13 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 14 | [Choi](http://twitter.com/search?q=Choi) | Choi is a Korean surname. It is derived from the Chinese characters for mountain and water. In English, it can be translated to mean "mountain stream". |
+| 12 | [#ufcfightnight](http://twitter.com/search?q=%23ufcfightnight) | N/A |
+| 13 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 14 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
 | 15 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 16 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 17 | [Aidan Mahaney](http://twitter.com/search?q=Aidan+Mahaney) | Aidan Mahaney is a name of Irish origin. It is derived from the Gaelic name Aodhán, which means "little fire". |
-| 18 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 19 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | N/A |
-| 20 | [#ufcfightnight](http://twitter.com/search?q=%23ufcfightnight) | N/A |
-| 21 | [Devin Clark](http://twitter.com/search?q=Devin+Clark) | N/A |
-| 22 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 16 | [Spivac](http://twitter.com/search?q=Spivac) | N/A |
+| 17 | [Choi](http://twitter.com/search?q=Choi) | Choi is a Korean surname. It is derived from the Chinese characters for mountain and water. In English, it can be translated to mean "mountain stream". |
+| 18 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 19 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 20 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 21 | [Aidan Mahaney](http://twitter.com/search?q=Aidan+Mahaney) | Aidan Mahaney is a name of Irish origin. It is derived from the Gaelic name Aodhán, which means "little fire". |
+| 22 | [Devin Clark](http://twitter.com/search?q=Devin+Clark) | N/A |
 | 23 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 24 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
-| 25 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
-| 26 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
-| 27 | [Ivanov](http://twitter.com/search?q=Ivanov) | N/A |
-| 28 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 29 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 24 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
+| 25 | [Ivanov](http://twitter.com/search?q=Ivanov) | N/A |
+| 26 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 27 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 28 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
+| 29 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
 | 30 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
-| 31 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 31 | [#Yashahime](http://twitter.com/search?q=%23Yashahime) | N/A |
 | 32 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 33 | [Sarah Paulson](http://twitter.com/search?q=Sarah+Paulson) | Sarah Paulson is an American actress. She is best known for her roles in the television series American Horror Story, The People v. O. J. Simpson: American Crime Story, and Ratched. She has also appeared in films such as 12 Years a Slave, Ocean's 8, and Runaway Bride. |
-| 34 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
-| 35 | [Tybura](http://twitter.com/search?q=Tybura) | N/A |
-| 36 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 33 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
+| 34 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
+| 35 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
+| 36 | [Tybura](http://twitter.com/search?q=Tybura) | N/A |
 | 37 | [Jung](http://twitter.com/search?q=Jung) | N/A |
-| 38 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
-| 39 | [Kyle Nelson](http://twitter.com/search?q=Kyle+Nelson) | N/A |
-| 40 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 41 | [Gaels](http://twitter.com/search?q=Gaels) | N/A |
-| 42 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 43 | [Fugitt](http://twitter.com/search?q=Fugitt) | N/A |
-| 44 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
+| 38 | [Sarah Paulson](http://twitter.com/search?q=Sarah+Paulson) | Sarah Paulson is an American actress. She is best known for her roles in the television series American Horror Story, The People v. O. J. Simpson: American Crime Story, and Ratched. She has also appeared in films such as 12 Years a Slave, Ocean's 8, and Runaway Bride. |
+| 39 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
+| 40 | [Gaels](http://twitter.com/search?q=Gaels) | N/A |
+| 41 | [Black Beast](http://twitter.com/search?q=Black+Beast) | N/A |
+| 42 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 43 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 44 | [Steven Universe](http://twitter.com/search?q=Steven+Universe) | N/A |
 | 45 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
-| 46 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 47 | [Steven Universe](http://twitter.com/search?q=Steven+Universe) | N/A |
-| 48 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 49 | [KELSEY](http://twitter.com/search?q=KELSEY) | N/A |
-| 50 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 46 | [kelsey](http://twitter.com/search?q=kelsey) | N/A |
+| 47 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
+| 48 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
+| 49 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
 
 
 

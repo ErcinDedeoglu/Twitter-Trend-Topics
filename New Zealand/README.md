@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-05 08:17:24 UTC`
+📆 Last Updated: `2023-02-05 09:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for New Zealand
 | 6 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | #Bellator290 is the name of a mixed martial arts event held by Bellator MMA, a professional MMA organization. The event took place on October 6, 2018 in Tel Aviv, Israel. The name is derived from the event's numerical designation (290) within the Bellator series. |
 | 7 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | #ChineseSpyBalloon is a hashtag used to refer to a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activity on the ground. The term is often used in a derogatory manner to criticize China's surveillance activities. |
 | 8 | [Hailwood](http://twitter.com/search?q=Hailwood) | N/A |
-| 9 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 10 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 9 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 10 | [#supersmashnz](http://twitter.com/search?q=%23supersmashnz) | N/A |
 | 11 | [Byron](http://twitter.com/search?q=Byron) | N/A |
-| 12 | [#SuperSmashNZ](http://twitter.com/search?q=%23SuperSmashNZ) | N/A |
-| 13 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 14 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 12 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 13 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 14 | [Pakeha](http://twitter.com/search?q=Pakeha) | N/A |
 | 15 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
 | 16 | [Crown](http://twitter.com/search?q=Crown) | N/A |
 | 17 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 18 | [Pākehā](http://twitter.com/search?q=P%c4%81keh%c4%81) | N/A |
-| 19 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
-| 20 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 21 | [New Plymouth](http://twitter.com/search?q=New+Plymouth) | N/A |
-| 22 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
-| 23 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 24 | [#ShinyPokemon](http://twitter.com/search?q=%23ShinyPokemon) | N/A |
-| 25 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 26 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 27 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 18 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 19 | [New Plymouth](http://twitter.com/search?q=New+Plymouth) | N/A |
+| 20 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 21 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 22 | [#ShinyPokemon](http://twitter.com/search?q=%23ShinyPokemon) | N/A |
+| 23 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 24 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 25 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
+| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 27 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
 | 30 | [Te Reo](http://twitter.com/search?q=Te+Reo) | N/A |
-| 31 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 32 | [New Zealander](http://twitter.com/search?q=New+Zealander) | N/A |
-| 33 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 34 | [Fear](http://twitter.com/search?q=Fear) | N/A |
-| 35 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 31 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 32 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 33 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 34 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 35 | [Fear](http://twitter.com/search?q=Fear) | N/A |
 | 36 | [Intel](http://twitter.com/search?q=Intel) | N/A |
 | 37 | [new lynn](http://twitter.com/search?q=new+lynn) | N/A |
-| 38 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 39 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 40 | [FREEreadKU Amazon](http://twitter.com/search?q=FREEreadKU+Amazon) | N/A |
-| 41 | [England](http://twitter.com/search?q=England) | N/A |
-| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 43 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 44 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 45 | [West Auckland](http://twitter.com/search?q=West+Auckland) | N/A |
-| 46 | [Judith](http://twitter.com/search?q=Judith) | N/A |
-| 47 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 48 | [PTOM](http://twitter.com/search?q=PTOM) | N/A |
-| 49 | [America](http://twitter.com/search?q=America) | N/A |
-| 50 | [Perth](http://twitter.com/search?q=Perth) | N/A |
+| 38 | [West Auckland](http://twitter.com/search?q=West+Auckland) | N/A |
+| 39 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 40 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 41 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 42 | [FREEreadKU Amazon](http://twitter.com/search?q=FREEreadKU+Amazon) | N/A |
+| 43 | [England](http://twitter.com/search?q=England) | N/A |
+| 44 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 46 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 47 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
+| 48 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 49 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 50 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 
 
 

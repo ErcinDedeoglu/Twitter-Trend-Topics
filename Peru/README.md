@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-05 08:17:24 UTC`
+📆 Last Updated: `2023-02-05 09:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,14 +24,14 @@ This is top 50 for Peru
 | 7 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
 | 8 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
 | 9 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 10 | [#SOSPeru](http://twitter.com/search?q=%23SOSPeru) | N/A |
-| 11 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
-| 12 | [Lolo](http://twitter.com/search?q=Lolo) | N/A |
+| 10 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
+| 11 | [Lolo](http://twitter.com/search?q=Lolo) | N/A |
+| 12 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
 | 13 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 14 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
-| 15 | [cotabambas](http://twitter.com/search?q=cotabambas) | N/A |
+| 14 | [Guzmán](http://twitter.com/search?q=Guzm%c3%a1n) | N/A |
+| 15 | [Cotabambas](http://twitter.com/search?q=Cotabambas) | N/A |
 | 16 | [#TheAstronaut](http://twitter.com/search?q=%23TheAstronaut) | N/A |
-| 17 | [Guzmán](http://twitter.com/search?q=Guzm%c3%a1n) | N/A |
+| 17 | [#universitario](http://twitter.com/search?q=%23universitario) | N/A |
 | 18 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
 | 19 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 20 | [W.O.](http://twitter.com/search?q=W.O.) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Peru
 | 31 | [Cagones](http://twitter.com/search?q=Cagones) | N/A |
 | 32 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
 | 33 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 34 | [Digna Calle](http://twitter.com/search?q=Digna+Calle) | N/A |
-| 35 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 34 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
+| 35 | [Digna Calle](http://twitter.com/search?q=Digna+Calle) | N/A |
 | 36 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 37 | [Tafur](http://twitter.com/search?q=Tafur) | N/A |
-| 38 | [Pestilencia](http://twitter.com/search?q=Pestilencia) | N/A |
-| 39 | [Mantel](http://twitter.com/search?q=Mantel) | N/A |
+| 37 | [pestilencia](http://twitter.com/search?q=pestilencia) | N/A |
+| 38 | [Mantel](http://twitter.com/search?q=Mantel) | N/A |
+| 39 | [Tafur](http://twitter.com/search?q=Tafur) | N/A |
 | 40 | [chinchay](http://twitter.com/search?q=chinchay) | N/A |
 | 41 | [Polo](http://twitter.com/search?q=Polo) | N/A |
 | 42 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
 | 43 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
-| 44 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 45 | [calcaterra](http://twitter.com/search?q=calcaterra) | N/A |
-| 46 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 47 | [di benedetto](http://twitter.com/search?q=di+benedetto) | N/A |
-| 48 | [Paola Ugaz](http://twitter.com/search?q=Paola+Ugaz) | N/A |
-| 49 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 50 | [Los 7](http://twitter.com/search?q=Los+7) | N/A |
+| 44 | [calcaterra](http://twitter.com/search?q=calcaterra) | N/A |
+| 45 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 46 | [di benedetto](http://twitter.com/search?q=di+benedetto) | N/A |
+| 47 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 48 | [Los 7](http://twitter.com/search?q=Los+7) | N/A |
+| 49 | [Paola Ugaz](http://twitter.com/search?q=Paola+Ugaz) | N/A |
+| 50 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
 
 
 
