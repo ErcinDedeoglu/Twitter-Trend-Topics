@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-05 01:44:06 UTC`
+📆 Last Updated: `2023-02-05 02:42:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 2 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 3 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 4 | [Falcão](http://twitter.com/search?q=Falc%c3%a3o) | Falcão is a Portuguese word meaning "falcon". It is also used as a nickname for people who are strong, brave, and have leadership qualities. |
-| 5 | [Santos FC](http://twitter.com/search?q=Santos+FC) | N/A |
-| 6 | [Santista](http://twitter.com/search?q=Santista) | N/A |
-| 7 | [Outback](http://twitter.com/search?q=Outback) | N/A |
-| 8 | [#GOPAIN](http://twitter.com/search?q=%23GOPAIN) | N/A |
-| 9 | [Série B](http://twitter.com/search?q=S%c3%a9rie+B) | N/A |
-| 10 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 11 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
-| 12 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
-| 13 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 14 | [Peixe](http://twitter.com/search?q=Peixe) | N/A |
-| 15 | [NAMJOON OUR PRIDE AND JOY](http://twitter.com/search?q=NAMJOON+OUR+PRIDE+AND+JOY) | "NAMJOON OUR PRIDE AND JOY" is a phrase used to express admiration and love for the South Korean rapper, songwriter, and record producer, Kim Namjoon (also known as RM). It is a way of expressing pride in his accomplishments and joy in his presence. In English, it means that we are proud of Namjoon and we are filled with joy because of him. |
-| 16 | [#provadoanjo](http://twitter.com/search?q=%23provadoanjo) | N/A |
-| 17 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 18 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
-| 19 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 20 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 21 | [O Cristian](http://twitter.com/search?q=O+Cristian) | N/A |
-| 22 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 23 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 24 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 25 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 26 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 27 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 28 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 29 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 30 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 31 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 32 | [CARLA NO ALTAS HORAS](http://twitter.com/search?q=CARLA+NO+ALTAS+HORAS) | N/A |
-| 33 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 34 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
-| 35 | [bruno gaga](http://twitter.com/search?q=bruno+gaga) | N/A |
-| 36 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
-| 37 | [Mugni](http://twitter.com/search?q=Mugni) | N/A |
-| 38 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
-| 39 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 40 | [Ipatinga](http://twitter.com/search?q=Ipatinga) | N/A |
-| 41 | [Big Fone](http://twitter.com/search?q=Big+Fone) | N/A |
-| 42 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
-| 43 | [David Duarte](http://twitter.com/search?q=David+Duarte) | N/A |
-| 44 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 45 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 46 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
-| 47 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
-| 48 | [Ferroviário](http://twitter.com/search?q=Ferrovi%c3%a1rio) | N/A |
-| 49 | [Globeleza](http://twitter.com/search?q=Globeleza) | N/A |
-| 50 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
+| 2 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 3 | [Sandry](http://twitter.com/search?q=Sandry) | N/A |
+| 4 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
+| 5 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 6 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 7 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 8 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
+| 9 | [Falcão](http://twitter.com/search?q=Falc%c3%a3o) | Falcão is a Portuguese word meaning "falcon". It is also used as a nickname for people who are strong, brave, and have leadership qualities. |
+| 10 | [Lucas Pires](http://twitter.com/search?q=Lucas+Pires) | Lucas Pires is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination". The surname Pires is derived from the Latin word pire, which means "rock". In English, Lucas Pires can be translated to mean "Light of the Rock". |
+| 11 | [Santos Futebol Clube](http://twitter.com/search?q=Santos+Futebol+Clube) | N/A |
+| 12 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 13 | [Murilo](http://twitter.com/search?q=Murilo) | N/A |
+| 14 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 15 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 16 | [Bauermann](http://twitter.com/search?q=Bauermann) | N/A |
+| 17 | [Santos FC](http://twitter.com/search?q=Santos+FC) | N/A |
+| 18 | [Caráter](http://twitter.com/search?q=Car%c3%a1ter) | N/A |
+| 19 | [#PaulistaoNoYoutube](http://twitter.com/search?q=%23PaulistaoNoYoutube) | N/A |
+| 20 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 21 | [Santista](http://twitter.com/search?q=Santista) | N/A |
+| 22 | [#GOPAIN](http://twitter.com/search?q=%23GOPAIN) | N/A |
+| 23 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
+| 24 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 25 | [NAMJOON OUR PRIDE AND JOY](http://twitter.com/search?q=NAMJOON+OUR+PRIDE+AND+JOY) | "NAMJOON OUR PRIDE AND JOY" is a phrase used to express admiration and love for the South Korean rapper, songwriter, and record producer, Kim Namjoon (also known as RM). It is a way of expressing pride in his accomplishments and joy in his presence. In English, it means that we are proud of Namjoon and we are filled with joy because of him. |
+| 26 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 27 | [#GoRED](http://twitter.com/search?q=%23GoRED) | N/A |
+| 28 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 29 | [#provadoanjo](http://twitter.com/search?q=%23provadoanjo) | N/A |
+| 30 | [russo](http://twitter.com/search?q=russo) | N/A |
+| 31 | [Aquário](http://twitter.com/search?q=Aqu%c3%a1rio) | N/A |
+| 32 | [Peixe](http://twitter.com/search?q=Peixe) | N/A |
+| 33 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 34 | [O Cristian](http://twitter.com/search?q=O+Cristian) | N/A |
+| 35 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 36 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 37 | [Alexandre Pires](http://twitter.com/search?q=Alexandre+Pires) | Alexandre Pires is a Brazilian singer, songwriter, and producer. He is best known for his romantic ballads and samba-reggae fusion music. In English, the name Alexandre Pires means "defender of peace". |
+| 38 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
+| 39 | [O Alface](http://twitter.com/search?q=O+Alface) | O Alface is a Portuguese expression that literally translates to "Oh, lettuce!" It is used as an exclamation of surprise or astonishment. |
+| 40 | [O Ricardo](http://twitter.com/search?q=O+Ricardo) | N/A |
+| 41 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 42 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 43 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 44 | [Roberta Close](http://twitter.com/search?q=Roberta+Close) | N/A |
+| 45 | [karoline](http://twitter.com/search?q=karoline) | N/A |
+| 46 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 47 | [bruno gaga](http://twitter.com/search?q=bruno+gaga) | N/A |
+| 48 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 49 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 50 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
 
 
 

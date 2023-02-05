@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-05 01:44:36 UTC`
+📆 Last Updated: `2023-02-05 02:42:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
-| 2 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
-| 3 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 4 | [#ONEUSinLA](http://twitter.com/search?q=%23ONEUSinLA) | N/A |
-| 5 | [P-22](http://twitter.com/search?q=P-22) | N/A |
-| 6 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 7 | [#PadresFanFest](http://twitter.com/search?q=%23PadresFanFest) | N/A |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 10 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
-| 11 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 12 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
-| 13 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 14 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 15 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 16 | [Nance](http://twitter.com/search?q=Nance) | N/A |
-| 17 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 18 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 19 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 20 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 21 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 22 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 23 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 24 | [Lorenz Larkin](http://twitter.com/search?q=Lorenz+Larkin) | N/A |
-| 25 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 26 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 27 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 28 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
-| 29 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 30 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
-| 31 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
-| 32 | [Ty Gibbs](http://twitter.com/search?q=Ty+Gibbs) | N/A |
-| 33 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 34 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 35 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 36 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
-| 37 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 38 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 39 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 40 | [Brady Manek](http://twitter.com/search?q=Brady+Manek) | N/A |
-| 41 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 42 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
-| 43 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 44 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
+| 1 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 2 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 3 | [Lloyd](http://twitter.com/search?q=Lloyd) | N/A |
+| 4 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
+| 5 | [#ONEUSinLA](http://twitter.com/search?q=%23ONEUSinLA) | N/A |
+| 6 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
+| 7 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 8 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 9 | [P-22](http://twitter.com/search?q=P-22) | N/A |
+| 10 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 11 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 12 | [FanFest](http://twitter.com/search?q=FanFest) | N/A |
+| 13 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 14 | [#ShotDown](http://twitter.com/search?q=%23ShotDown) | N/A |
+| 15 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 16 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 17 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 18 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 19 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 20 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 21 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 22 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
+| 23 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
+| 24 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 25 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 26 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 27 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 28 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 29 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 30 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 31 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 32 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 33 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 34 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 35 | [Justin Haley](http://twitter.com/search?q=Justin+Haley) | N/A |
+| 36 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 37 | [Kayden](http://twitter.com/search?q=Kayden) | N/A |
+| 38 | [Brennan Ward](http://twitter.com/search?q=Brennan+Ward) | N/A |
+| 39 | [Homasi](http://twitter.com/search?q=Homasi) | N/A |
+| 40 | [Lorenz Larkin](http://twitter.com/search?q=Lorenz+Larkin) | N/A |
+| 41 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 42 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 43 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 44 | [Kiana James](http://twitter.com/search?q=Kiana+James) | N/A |
 | 45 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 46 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
-| 47 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
-| 48 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 49 | [Roc Nation Brunch](http://twitter.com/search?q=Roc+Nation+Brunch) | N/A |
+| 46 | [Hitchins](http://twitter.com/search?q=Hitchins) | N/A |
+| 47 | [Bauza](http://twitter.com/search?q=Bauza) | N/A |
+| 48 | [Fallon](http://twitter.com/search?q=Fallon) | N/A |
+| 49 | [Brady Manek](http://twitter.com/search?q=Brady+Manek) | N/A |
 
 
 

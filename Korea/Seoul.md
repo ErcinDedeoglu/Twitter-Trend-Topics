@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seoul
 
-📆 Last Updated: `2023-02-05 01:44:20 UTC`
+📆 Last Updated: `2023-02-05 02:42:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Korea](</Korea>)
 | 8 | [여성분들과 공통된 주제](http://twitter.com/search?q=%ec%97%ac%ec%84%b1%eb%b6%84%eb%93%a4%ea%b3%bc+%ea%b3%b5%ed%86%b5%eb%90%9c+%ec%a3%bc%ec%a0%9c) | N/A |
 | 9 | [여성트친](http://twitter.com/search?q=%ec%97%ac%ec%84%b1%ed%8a%b8%ec%b9%9c) | N/A |
 | 10 | [푸슝 유료](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%ec%9c%a0%eb%a3%8c) | 푸슝 유료 is a Korean phrase that translates to "paid subscription". It is used to refer to a service or product that requires payment in order to access or use it. |
-| 11 | [계정주는 현역](http://twitter.com/search?q=%ea%b3%84%ec%a0%95%ec%a3%bc%eb%8a%94+%ed%98%84%ec%97%ad) | N/A |
-| 12 | [딸기임신유곽](http://twitter.com/search?q=%eb%94%b8%ea%b8%b0%ec%9e%84%ec%8b%a0%ec%9c%a0%ea%b3%bd) | 딸기임신유곽 is a Korean phrase that literally translates to "strawberry pregnancy belly". It is used to describe a pregnant woman's belly that has grown round and firm, like a ripe strawberry. |
-| 13 | [생일너무너무](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc%eb%84%88%eb%ac%b4%eb%84%88%eb%ac%b4) | N/A |
+| 11 | [생일너무너무](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc%eb%84%88%eb%ac%b4%eb%84%88%eb%ac%b4) | N/A |
+| 12 | [계정주는 현역](http://twitter.com/search?q=%ea%b3%84%ec%a0%95%ec%a3%bc%eb%8a%94+%ed%98%84%ec%97%ad) | N/A |
+| 13 | [딸기임신유곽](http://twitter.com/search?q=%eb%94%b8%ea%b8%b0%ec%9e%84%ec%8b%a0%ec%9c%a0%ea%b3%bd) | 딸기임신유곽 is a Korean phrase that literally translates to "strawberry pregnancy belly". It is used to describe a pregnant woman's belly that has grown round and firm, like a ripe strawberry. |
 | 14 | [에스크로](http://twitter.com/search?q=%ec%97%90%ec%8a%a4%ed%81%ac%eb%a1%9c) | N/A |
 | 15 | [푸슝 답장](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%eb%8b%b5%ec%9e%a5) | N/A |
-| 16 | [지성날 지성시](http://twitter.com/search?q=%ec%a7%80%ec%84%b1%eb%82%a0+%ec%a7%80%ec%84%b1%ec%8b%9c) | N/A |
-| 17 | [꼬들 400](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+400) | N/A |
-| 18 | [당신의 전생](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%a0%84%ec%83%9d) | N/A |
-| 19 | [많은 분들](http://twitter.com/search?q=%eb%a7%8e%ec%9d%80+%eb%b6%84%eb%93%a4) | N/A |
-| 20 | [우리지성](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac%ec%a7%80%ec%84%b1) | N/A |
-| 21 | [사랑둥이 태현](http://twitter.com/search?q=%ec%82%ac%eb%9e%91%eb%91%a5%ec%9d%b4+%ed%83%9c%ed%98%84) | N/A |
-| 22 | [숫자암호](http://twitter.com/search?q=%ec%88%ab%ec%9e%90%ec%95%94%ed%98%b8) | N/A |
-| 23 | [론레인저](http://twitter.com/search?q=%eb%a1%a0%eb%a0%88%ec%9d%b8%ec%a0%80) | 론레인저 (Lone Ranger) is a Korean slang term used to describe someone who works independently and does not rely on others for help. It is often used to describe someone who is self-reliant and independent. In English, it can be translated as "lone wolf" or "solo operator". |
-| 24 | [임보라 목사님](http://twitter.com/search?q=%ec%9e%84%eb%b3%b4%eb%9d%bc+%eb%aa%a9%ec%82%ac%eb%8b%98) | N/A |
-| 25 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
-| 26 | [막내 지성](http://twitter.com/search?q=%eb%a7%89%eb%82%b4+%ec%a7%80%ec%84%b1) | N/A |
-| 27 | [꼬들 399](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+399) | N/A |
-| 28 | [영원한 막내](http://twitter.com/search?q=%ec%98%81%ec%9b%90%ed%95%9c+%eb%a7%89%eb%82%b4) | N/A |
-| 29 | [지성이생일](http://twitter.com/search?q=%ec%a7%80%ec%84%b1%ec%9d%b4%ec%83%9d%ec%9d%bc) | N/A |
-| 30 | [코하쿠 생일](http://twitter.com/search?q=%ec%bd%94%ed%95%98%ec%bf%a0+%ec%83%9d%ec%9d%bc) | N/A |
-| 31 | [정찰풍선](http://twitter.com/search?q=%ec%a0%95%ec%b0%b0%ed%92%8d%ec%84%a0) | N/A |
-| 32 | [입춘대길](http://twitter.com/search?q=%ec%9e%85%ec%b6%98%eb%8c%80%ea%b8%b8) | N/A |
-| 33 | [정모 생일](http://twitter.com/search?q=%ec%a0%95%eb%aa%a8+%ec%83%9d%ec%9d%bc) | N/A |
-| 34 | [나츠메 생일](http://twitter.com/search?q=%eb%82%98%ec%b8%a0%eb%a9%94+%ec%83%9d%ec%9d%bc) | N/A |
-| 35 | [본디 친구](http://twitter.com/search?q=%eb%b3%b8%eb%94%94+%ec%b9%9c%ea%b5%ac) | N/A |
-| 36 | [아미밤 상영회](http://twitter.com/search?q=%ec%95%84%eb%af%b8%eb%b0%a4+%ec%83%81%ec%98%81%ed%9a%8c) | N/A |
-| 37 | [런온 종방연](http://twitter.com/search?q=%eb%9f%b0%ec%98%a8+%ec%a2%85%eb%b0%a9%ec%97%b0) | N/A |
-| 38 | [울버햄튼](http://twitter.com/search?q=%ec%9a%b8%eb%b2%84%ed%96%84%ed%8a%bc) | N/A |
-| 39 | [푸슝 답변](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%eb%8b%b5%eb%b3%80) | N/A |
-| 40 | [세븐틴 동생그룹](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4+%eb%8f%99%ec%83%9d%ea%b7%b8%eb%a3%b9) | N/A |
-| 41 | [섹플러팅](http://twitter.com/search?q=%ec%84%b9%ed%94%8c%eb%9f%ac%ed%8c%85) | N/A |
-| 42 | [강태현 생일](http://twitter.com/search?q=%ea%b0%95%ed%83%9c%ed%98%84+%ec%83%9d%ec%9d%bc) | N/A |
-| 43 | [햄스트링](http://twitter.com/search?q=%ed%96%84%ec%8a%a4%ed%8a%b8%eb%a7%81) | N/A |
-| 44 | [더스토리](http://twitter.com/search?q=%eb%8d%94%ec%8a%a4%ed%86%a0%eb%a6%ac) | N/A |
-| 45 | [달빛술사 4성](http://twitter.com/search?q=%eb%8b%ac%eb%b9%9b%ec%88%a0%ec%82%ac+4%ec%84%b1) | N/A |
-| 46 | [엘지 인터넷](http://twitter.com/search?q=%ec%97%98%ec%a7%80+%ec%9d%b8%ed%84%b0%eb%84%b7) | 엘지 인터넷 is a South Korean internet service provider owned by LG Uplus, a subsidiary of the LG Corporation. It provides broadband internet access, IPTV, and mobile services. In English, it is known as LG Internet. |
-| 47 | [한터뮤직어워즈](http://twitter.com/search?q=%ed%95%9c%ed%84%b0%eb%ae%a4%ec%a7%81%ec%96%b4%ec%9b%8c%ec%a6%88) | 한터뮤직어워즈 is an annual music award ceremony in South Korea. It is organized by Hanter Music, a major Korean music label. The awards recognize outstanding achievements in the Korean music industry, including awards for best album, best artist, best song, and more. The English translation of 한터뮤직어워즈 is Hanter Music Awards. |
-| 48 | [쿠킹덤 콘서트](http://twitter.com/search?q=%ec%bf%a0%ed%82%b9%eb%8d%a4+%ec%bd%98%ec%84%9c%ed%8a%b8) | N/A |
-| 49 | [귀밝이술](http://twitter.com/search?q=%ea%b7%80%eb%b0%9d%ec%9d%b4%ec%88%a0) | N/A |
-| 50 | [모에모에큥](http://twitter.com/search?q=%eb%aa%a8%ec%97%90%eb%aa%a8%ec%97%90%ed%81%a5) | N/A |
+| 16 | [진입장벽](http://twitter.com/search?q=%ec%a7%84%ec%9e%85%ec%9e%a5%eb%b2%bd) | N/A |
+| 17 | [파우치 품절](http://twitter.com/search?q=%ed%8c%8c%ec%9a%b0%ec%b9%98+%ed%92%88%ec%a0%88) | N/A |
+| 18 | [귀밝이술](http://twitter.com/search?q=%ea%b7%80%eb%b0%9d%ec%9d%b4%ec%88%a0) | N/A |
+| 19 | [지성날 지성시](http://twitter.com/search?q=%ec%a7%80%ec%84%b1%eb%82%a0+%ec%a7%80%ec%84%b1%ec%8b%9c) | N/A |
+| 20 | [꼬들 400](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+400) | N/A |
+| 21 | [당신의 전생](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%a0%84%ec%83%9d) | N/A |
+| 22 | [킹더랜드](http://twitter.com/search?q=%ed%82%b9%eb%8d%94%eb%9e%9c%eb%93%9c) | N/A |
+| 23 | [많은 분들](http://twitter.com/search?q=%eb%a7%8e%ec%9d%80+%eb%b6%84%eb%93%a4) | N/A |
+| 24 | [우리지성](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac%ec%a7%80%ec%84%b1) | N/A |
+| 25 | [사랑둥이 태현](http://twitter.com/search?q=%ec%82%ac%eb%9e%91%eb%91%a5%ec%9d%b4+%ed%83%9c%ed%98%84) | N/A |
+| 26 | [임보라 목사님](http://twitter.com/search?q=%ec%9e%84%eb%b3%b4%eb%9d%bc+%eb%aa%a9%ec%82%ac%eb%8b%98) | N/A |
+| 27 | [코스트릿](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%b8%eb%a6%bf) | N/A |
+| 28 | [숫자암호](http://twitter.com/search?q=%ec%88%ab%ec%9e%90%ec%95%94%ed%98%b8) | N/A |
+| 29 | [론레인저](http://twitter.com/search?q=%eb%a1%a0%eb%a0%88%ec%9d%b8%ec%a0%80) | 론레인저 (Lone Ranger) is a Korean slang term used to describe someone who works independently and does not rely on others for help. It is often used to describe someone who is self-reliant and independent. In English, it can be translated as "lone wolf" or "solo operator". |
+| 30 | [막내 지성](http://twitter.com/search?q=%eb%a7%89%eb%82%b4+%ec%a7%80%ec%84%b1) | N/A |
+| 31 | [꼬들 399](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+399) | N/A |
+| 32 | [돼지고기 김치찌개](http://twitter.com/search?q=%eb%8f%bc%ec%a7%80%ea%b3%a0%ea%b8%b0+%ea%b9%80%ec%b9%98%ec%b0%8c%ea%b0%9c) | N/A |
+| 33 | [더스토리](http://twitter.com/search?q=%eb%8d%94%ec%8a%a4%ed%86%a0%eb%a6%ac) | N/A |
+| 34 | [영원한 막내](http://twitter.com/search?q=%ec%98%81%ec%9b%90%ed%95%9c+%eb%a7%89%eb%82%b4) | N/A |
+| 35 | [어선 전복](http://twitter.com/search?q=%ec%96%b4%ec%84%a0+%ec%a0%84%eb%b3%b5) | N/A |
+| 36 | [정찰풍선](http://twitter.com/search?q=%ec%a0%95%ec%b0%b0%ed%92%8d%ec%84%a0) | N/A |
+| 37 | [지성이생일](http://twitter.com/search?q=%ec%a7%80%ec%84%b1%ec%9d%b4%ec%83%9d%ec%9d%bc) | N/A |
+| 38 | [정모 생일](http://twitter.com/search?q=%ec%a0%95%eb%aa%a8+%ec%83%9d%ec%9d%bc) | N/A |
+| 39 | [코하쿠 생일](http://twitter.com/search?q=%ec%bd%94%ed%95%98%ec%bf%a0+%ec%83%9d%ec%9d%bc) | N/A |
+| 40 | [나츠메 생일](http://twitter.com/search?q=%eb%82%98%ec%b8%a0%eb%a9%94+%ec%83%9d%ec%9d%bc) | N/A |
+| 41 | [아미밤 상영회](http://twitter.com/search?q=%ec%95%84%eb%af%b8%eb%b0%a4+%ec%83%81%ec%98%81%ed%9a%8c) | N/A |
+| 42 | [생일 축하](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc+%ec%b6%95%ed%95%98) | N/A |
+| 43 | [울버햄튼](http://twitter.com/search?q=%ec%9a%b8%eb%b2%84%ed%96%84%ed%8a%bc) | N/A |
+| 44 | [런온 종방연](http://twitter.com/search?q=%eb%9f%b0%ec%98%a8+%ec%a2%85%eb%b0%a9%ec%97%b0) | N/A |
+| 45 | [푸슝 답변](http://twitter.com/search?q=%ed%91%b8%ec%8a%9d+%eb%8b%b5%eb%b3%80) | N/A |
+| 46 | [입춘대길](http://twitter.com/search?q=%ec%9e%85%ec%b6%98%eb%8c%80%ea%b8%b8) | N/A |
+| 47 | [세븐틴 동생그룹](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4+%eb%8f%99%ec%83%9d%ea%b7%b8%eb%a3%b9) | N/A |
+| 48 | [본디 친구](http://twitter.com/search?q=%eb%b3%b8%eb%94%94+%ec%b9%9c%ea%b5%ac) | N/A |
+| 49 | [강태현 생일](http://twitter.com/search?q=%ea%b0%95%ed%83%9c%ed%98%84+%ec%83%9d%ec%9d%bc) | N/A |
+| 50 | [햄스트링](http://twitter.com/search?q=%ed%96%84%ec%8a%a4%ed%8a%b8%eb%a7%81) | N/A |
 
 
 

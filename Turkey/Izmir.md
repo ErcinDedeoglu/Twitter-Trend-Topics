@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-05 01:44:33 UTC`
+📆 Last Updated: `2023-02-05 02:42:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,52 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 2 | [Alper](http://twitter.com/search?q=Alper) | N/A |
-| 3 | [Kağıthane](http://twitter.com/search?q=Ka%c4%9f%c4%b1thane) | N/A |
+| 2 | [Kağıthane](http://twitter.com/search?q=Ka%c4%9f%c4%b1thane) | N/A |
+| 3 | [Alper](http://twitter.com/search?q=Alper) | N/A |
 | 4 | [#istanbul](http://twitter.com/search?q=%23istanbul) | N/A |
 | 5 | [Doktor](http://twitter.com/search?q=Doktor) | N/A |
 | 6 | [Panter](http://twitter.com/search?q=Panter) | N/A |
-| 7 | [#AdayOlmaKılıçdaroğlu](http://twitter.com/search?q=%23AdayOlmaK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | #AdayOlmaKılıçdaroğlu is a hashtag used to support Kemal Kılıçdaroğlu, the leader of the Republican People's Party in Turkey, in his bid to become a presidential candidate. In English, it translates to "Support Kılıçdaroğlu for President". |
-| 8 | [Korupark](http://twitter.com/search?q=Korupark) | N/A |
+| 7 | [Korupark](http://twitter.com/search?q=Korupark) | N/A |
+| 8 | [#AdayOlmaKılıçdaroğlu](http://twitter.com/search?q=%23AdayOlmaK%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | #AdayOlmaKılıçdaroğlu is a hashtag used to support Kemal Kılıçdaroğlu, the leader of the Republican People's Party in Turkey, in his bid to become a presidential candidate. In English, it translates to "Support Kılıçdaroğlu for President". |
 | 9 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 10 | [#MarmaraDenizi](http://twitter.com/search?q=%23MarmaraDenizi) | N/A |
-| 11 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
-| 12 | [Tuğba Ekinci](http://twitter.com/search?q=Tu%c4%9fba+Ekinci) | N/A |
-| 13 | [Haarp](http://twitter.com/search?q=Haarp) | N/A |
+| 10 | [Haarp](http://twitter.com/search?q=Haarp) | N/A |
+| 11 | [#MarmaraDenizi](http://twitter.com/search?q=%23MarmaraDenizi) | N/A |
+| 12 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
+| 13 | [Tuğba Ekinci](http://twitter.com/search?q=Tu%c4%9fba+Ekinci) | N/A |
 | 14 | [Berna](http://twitter.com/search?q=Berna) | N/A |
 | 15 | [Sesi](http://twitter.com/search?q=Sesi) | N/A |
-| 16 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 17 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 16 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 17 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
 | 18 | [Alttan](http://twitter.com/search?q=Alttan) | N/A |
-| 19 | [NiceYıllara BatuhanKaracakaya](http://twitter.com/search?q=NiceY%c4%b1llara+BatuhanKaracakaya) | N/A |
-| 20 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
-| 21 | [Gecenin](http://twitter.com/search?q=Gecenin) | N/A |
-| 22 | [Ömer Faruk](http://twitter.com/search?q=%c3%96mer+Faruk) | N/A |
-| 23 | [Sinan Engin](http://twitter.com/search?q=Sinan+Engin) | N/A |
-| 24 | [YusufKerim HalaAnnesiz](http://twitter.com/search?q=YusufKerim+HalaAnnesiz) | N/A |
-| 25 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
-| 26 | [Edep](http://twitter.com/search?q=Edep) | N/A |
-| 27 | [Belkıs Akkale](http://twitter.com/search?q=Belk%c4%b1s+Akkale) | N/A |
-| 28 | [Gençosman](http://twitter.com/search?q=Gen%c3%a7osman) | N/A |
-| 29 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 30 | [Unutmayın](http://twitter.com/search?q=Unutmay%c4%b1n) | N/A |
-| 31 | [Erdal Erzincan](http://twitter.com/search?q=Erdal+Erzincan) | N/A |
-| 32 | [Ben Kemal Gidiyorum](http://twitter.com/search?q=Ben+Kemal+Gidiyorum) | N/A |
-| 33 | [İskilipli Atıf](http://twitter.com/search?q=%c4%b0skilipli+At%c4%b1f) | N/A |
-| 34 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
-| 35 | [GENÇLER CUMHURLA](http://twitter.com/search?q=GEN%c3%87LER+CUMHURLA) | N/A |
-| 36 | [Çakmak](http://twitter.com/search?q=%c3%87akmak) | N/A |
-| 37 | [CHP'li](http://twitter.com/search?q=CHP%27li) | N/A |
-| 38 | [Bülent](http://twitter.com/search?q=B%c3%bclent) | N/A |
-| 39 | [Şehit](http://twitter.com/search?q=%c5%9eehit) | N/A |
-| 40 | [AKP'li](http://twitter.com/search?q=AKP%27li) | N/A |
-| 41 | [TekBaşrol AfraMert](http://twitter.com/search?q=TekBa%c5%9frol+AfraMert) | N/A |
-| 42 | [Sabrın](http://twitter.com/search?q=Sabr%c4%b1n) | N/A |
-| 43 | [Gençlik](http://twitter.com/search?q=Gen%c3%a7lik) | N/A |
-| 44 | [Şişli](http://twitter.com/search?q=%c5%9ei%c5%9fli) | N/A |
-| 45 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 46 | [Mısra](http://twitter.com/search?q=M%c4%b1sra) | N/A |
-| 47 | [Günay](http://twitter.com/search?q=G%c3%bcnay) | N/A |
-| 48 | [#UzmanÇavuşaMüjde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9faM%c3%bcjde) | N/A |
-| 49 | [#GönülDağı](http://twitter.com/search?q=%23G%c3%b6n%c3%bclDa%c4%9f%c4%b1) | N/A |
-| 50 | [#StajTorbaya](http://twitter.com/search?q=%23StajTorbaya) | N/A |
+| 19 | [Kürtler](http://twitter.com/search?q=K%c3%bcrtler) | N/A |
+| 20 | [Gecenin](http://twitter.com/search?q=Gecenin) | N/A |
+| 21 | [Sinan Engin](http://twitter.com/search?q=Sinan+Engin) | N/A |
+| 22 | [Edep](http://twitter.com/search?q=Edep) | N/A |
+| 23 | [Gençosman](http://twitter.com/search?q=Gen%c3%a7osman) | N/A |
+| 24 | [DURMAK YOK YOLA DEVAM](http://twitter.com/search?q=DURMAK+YOK+YOLA+DEVAM) | N/A |
+| 25 | [İskilipli Atıf](http://twitter.com/search?q=%c4%b0skilipli+At%c4%b1f) | N/A |
+| 26 | [GENÇLER CUMHURLA](http://twitter.com/search?q=GEN%c3%87LER+CUMHURLA) | N/A |
+| 27 | [Çakmak](http://twitter.com/search?q=%c3%87akmak) | N/A |
+| 28 | [Şehit](http://twitter.com/search?q=%c5%9eehit) | N/A |
+| 29 | [Bülent](http://twitter.com/search?q=B%c3%bclent) | N/A |
+| 30 | [Gençlik](http://twitter.com/search?q=Gen%c3%a7lik) | N/A |
+| 31 | [Şişli](http://twitter.com/search?q=%c5%9ei%c5%9fli) | N/A |
+| 32 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
+| 33 | [Günay](http://twitter.com/search?q=G%c3%bcnay) | N/A |
+| 34 | [#UzmanÇavuşaMüjde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9faM%c3%bcjde) | N/A |
+| 35 | [#StajTorbaya](http://twitter.com/search?q=%23StajTorbaya) | N/A |
+| 36 | [#VatanaKanVereneKadro](http://twitter.com/search?q=%23VatanaKanVereneKadro) | N/A |
+| 37 | [#UzmanÇavuşlarBekliyor](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9flarBekliyor) | N/A |
+| 38 | [#CephedeEnÖndeYaKadroda](http://twitter.com/search?q=%23CephedeEn%c3%96ndeYaKadroda) | N/A |
+| 39 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
+| 40 | [#AybukeCangal](http://twitter.com/search?q=%23AybukeCangal) | N/A |
+| 41 | [#ZamSırasıEmniyette](http://twitter.com/search?q=%23ZamS%c4%b1ras%c4%b1Emniyette) | N/A |
+| 42 | [#çakalım](http://twitter.com/search?q=%23%c3%a7akal%c4%b1m) | N/A |
+| 43 | [#SosyalMedyaSoysuzları](http://twitter.com/search?q=%23SosyalMedyaSoysuzlar%c4%b1) | N/A |
+| 44 | [#sokaknöbetçileri](http://twitter.com/search?q=%23sokakn%c3%b6bet%c3%a7ileri) | N/A |
+| 45 | [#aslandolunayi](http://twitter.com/search?q=%23aslandolunayi) | N/A |
+| 46 | [#GSvTS](http://twitter.com/search?q=%23GSvTS) | N/A |
+| 47 | [#TekDerdimizHedef23](http://twitter.com/search?q=%23TekDerdimizHedef23) | N/A |
 
 
 

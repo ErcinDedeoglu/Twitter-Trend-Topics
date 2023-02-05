@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-05 01:44:01 UTC`
+📆 Last Updated: `2023-02-05 02:42:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 2 | [Carlos Vargas](http://twitter.com/search?q=Carlos+Vargas) | N/A |
-| 3 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
-| 4 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
-| 5 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 6 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 7 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
-| 8 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
-| 9 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 10 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 11 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
-| 12 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
-| 13 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
-| 14 | [Tiza](http://twitter.com/search?q=Tiza) | N/A |
-| 15 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
-| 16 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
-| 17 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 18 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 19 | [Potro](http://twitter.com/search?q=Potro) | N/A |
-| 20 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 21 | [carre](http://twitter.com/search?q=carre) | N/A |
-| 22 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | BenidormFest is an annual music festival held in Benidorm, Spain. It features a variety of genres including rock, pop, electronic, and hip-hop. The festival is known for its vibrant atmosphere and diverse lineup of international artists. |
-| 23 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 24 | [Tula](http://twitter.com/search?q=Tula) | N/A |
-| 25 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 26 | [#DíaMundialContraElCáncer](http://twitter.com/search?q=%23D%c3%adaMundialContraElC%c3%a1ncer) | N/A |
-| 27 | [Toro](http://twitter.com/search?q=Toro) | N/A |
-| 28 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
-| 29 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 30 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 31 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 32 | [ITAM](http://twitter.com/search?q=ITAM) | N/A |
-| 33 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
-| 34 | [Orgullo](http://twitter.com/search?q=Orgullo) | N/A |
-| 35 | [Mundial de Clubes](http://twitter.com/search?q=Mundial+de+Clubes) | N/A |
-| 36 | [HAPPY BIRTHDAY TAEHYUN](http://twitter.com/search?q=HAPPY+BIRTHDAY+TAEHYUN) | N/A |
-| 37 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 38 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 39 | [#SerieDelCaribe2023](http://twitter.com/search?q=%23SerieDelCaribe2023) | N/A |
-| 40 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | N/A |
-| 41 | [#23Simsaniversario](http://twitter.com/search?q=%2323Simsaniversario) | N/A |
-| 42 | [#FelizSabadoATodos](http://twitter.com/search?q=%23FelizSabadoATodos) | N/A |
-| 43 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
-| 44 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
-| 45 | [#カンテの愛し方しか分からない](http://twitter.com/search?q=%23%e3%82%ab%e3%83%b3%e3%83%86%e3%81%ae%e6%84%9b%e3%81%97%e6%96%b9%e3%81%97%e3%81%8b%e5%88%86%e3%81%8b%e3%82%89%e3%81%aa%e3%81%84) | N/A |
-| 46 | [#GAPtheseries](http://twitter.com/search?q=%23GAPtheseries) | N/A |
-| 47 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
+| 1 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 2 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 3 | [Carlos Vargas](http://twitter.com/search?q=Carlos+Vargas) | N/A |
+| 4 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 5 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
+| 6 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 7 | [Potro](http://twitter.com/search?q=Potro) | N/A |
+| 8 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 9 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
+| 10 | [Ricardo Valiño](http://twitter.com/search?q=Ricardo+Vali%c3%b1o) | N/A |
+| 11 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 12 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 13 | [Aldo Farias](http://twitter.com/search?q=Aldo+Farias) | N/A |
+| 14 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 15 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 16 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
+| 17 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 18 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 19 | [Perxitaa](http://twitter.com/search?q=Perxitaa) | N/A |
+| 20 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 21 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
+| 22 | [Tiza](http://twitter.com/search?q=Tiza) | N/A |
+| 23 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
+| 24 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 25 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 26 | [Cata](http://twitter.com/search?q=Cata) | Cata is short for the Latin phrase "catalogus," which means "list" or "catalogue." In English, it is used to refer to a list of items or information, such as a catalog of products or a list of books. |
+| 27 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
+| 28 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 29 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 30 | [Tuzos](http://twitter.com/search?q=Tuzos) | N/A |
+| 31 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 32 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 33 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 34 | [NAMJOON OUR PRIDE AND JOY](http://twitter.com/search?q=NAMJOON+OUR+PRIDE+AND+JOY) | "NAMJOON OUR PRIDE AND JOY" is a phrase used to express admiration and love for the South Korean rapper, songwriter, and record producer, Kim Namjoon (also known as RM). It is a way of expressing pride in his accomplishments and joy in his presence. In English, it means that we are proud of Namjoon and we are filled with joy because of him. |
+| 35 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 36 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
+| 37 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 38 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | N/A |
+| 39 | [carre](http://twitter.com/search?q=carre) | N/A |
+| 40 | [Tula](http://twitter.com/search?q=Tula) | N/A |
+| 41 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 42 | [Danna](http://twitter.com/search?q=Danna) | N/A |
+| 43 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 44 | [ITAM](http://twitter.com/search?q=ITAM) | N/A |
+| 45 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 46 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 47 | [Al Ahly](http://twitter.com/search?q=Al+Ahly) | Al Ahly is an Egyptian sports club based in Cairo. It is one of the most successful clubs in African and Arab football, having won a record 40 national league titles, 36 national cups and 8 CAF Champions League titles. The name Al Ahly translates to "The National" in English. |
+| 48 | [Seattle Sounders](http://twitter.com/search?q=Seattle+Sounders) | Seattle Sounders is a professional soccer team based in Seattle, Washington. The team competes in Major League Soccer (MLS) as a member of the Western Conference. The Sounders play their home games at CenturyLink Field, and are the reigning MLS Cup champions. The team's name is derived from Seattle's maritime culture, as well as from the prominent role of the city's shipping industry in the early 20th century. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-05 01:44:35 UTC`
+📆 Last Updated: `2023-02-05 02:42:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 2 | [#Pistons](http://twitter.com/search?q=%23Pistons) | N/A |
-| 3 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 3 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 | 4 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
 | 5 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 6 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
-| 7 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
-| 8 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 9 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 10 | [Nance](http://twitter.com/search?q=Nance) | N/A |
-| 11 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 12 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 13 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | N/A |
+| 6 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | N/A |
+| 7 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
+| 8 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 9 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 10 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 11 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
+| 12 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
+| 13 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 14 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 15 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 16 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 16 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
 | 17 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 18 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 19 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 20 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 21 | [Lorenz Larkin](http://twitter.com/search?q=Lorenz+Larkin) | N/A |
-| 22 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 23 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 24 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
-| 25 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
-| 26 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 27 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
-| 28 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 29 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 30 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 31 | [Ty Gibbs](http://twitter.com/search?q=Ty+Gibbs) | N/A |
-| 32 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 33 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
-| 34 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 35 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 36 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 37 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 38 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 39 | [Brady Manek](http://twitter.com/search?q=Brady+Manek) | N/A |
-| 40 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
-| 41 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
-| 42 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
-| 43 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 44 | [Roc Nation Brunch](http://twitter.com/search?q=Roc+Nation+Brunch) | N/A |
-| 45 | [Mowry](http://twitter.com/search?q=Mowry) | N/A |
-| 46 | [Lloyd](http://twitter.com/search?q=Lloyd) | N/A |
-| 47 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
-| 48 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 49 | [Bigg K](http://twitter.com/search?q=Bigg+K) | N/A |
-| 50 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
+| 18 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 19 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 21 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 22 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 23 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 24 | [Justin Haley](http://twitter.com/search?q=Justin+Haley) | N/A |
+| 25 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 26 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 27 | [Kayden](http://twitter.com/search?q=Kayden) | N/A |
+| 28 | [Brennan Ward](http://twitter.com/search?q=Brennan+Ward) | N/A |
+| 29 | [Lorenz Larkin](http://twitter.com/search?q=Lorenz+Larkin) | N/A |
+| 30 | [Homasi](http://twitter.com/search?q=Homasi) | N/A |
+| 31 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 32 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 33 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 34 | [Kiana James](http://twitter.com/search?q=Kiana+James) | N/A |
+| 35 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 36 | [Hitchins](http://twitter.com/search?q=Hitchins) | N/A |
+| 37 | [Fallon](http://twitter.com/search?q=Fallon) | N/A |
+| 38 | [Brady Manek](http://twitter.com/search?q=Brady+Manek) | N/A |
+| 39 | [Bauza](http://twitter.com/search?q=Bauza) | N/A |
+| 40 | [Apollo](http://twitter.com/search?q=Apollo) | N/A |
+| 41 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 42 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 43 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 44 | [Pretty Deadly](http://twitter.com/search?q=Pretty+Deadly) | N/A |
+| 45 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
+| 46 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
+| 47 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 48 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
+| 49 | [Chase U](http://twitter.com/search?q=Chase+U) | N/A |
+| 50 | [Ty Gibbs](http://twitter.com/search?q=Ty+Gibbs) | N/A |
 
 
 
