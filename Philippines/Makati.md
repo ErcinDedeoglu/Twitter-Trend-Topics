@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-05 17:15:58 UTC`
+📆 Last Updated: `2023-02-05 18:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JUNGWON](http://twitter.com/search?q=%23JUNGWON) | N/A |
+| 1 | [Shout Out](http://twitter.com/search?q=Shout+Out) | N/A |
 | 2 | [#DreamMakerTop16](http://twitter.com/search?q=%23DreamMakerTop16) | N/A |
 | 3 | [#MANIFESTO_IN_MANILA_D3](http://twitter.com/search?q=%23MANIFESTO_IN_MANILA_D3) | N/A |
-| 4 | [#JonaxxACTYAKab43](http://twitter.com/search?q=%23JonaxxACTYAKab43) | N/A |
-| 5 | [#BSS_wants_ourSECONDWIND](http://twitter.com/search?q=%23BSS_wants_ourSECONDWIND) | N/A |
-| 6 | [ITS BSS FIGHTING DAY](http://twitter.com/search?q=ITS+BSS+FIGHTING+DAY) | ITS BSS FIGHTING DAY is a phrase used by fans of the Japanese professional wrestling promotion, Big Japan Pro Wrestling. It is used to show support for the wrestlers and to encourage them to fight hard and put on an exciting show. In English, it roughly translates to "Let's go Big Japan Pro Wrestling!" |
-| 7 | [THANK YOU ENHYPEN](http://twitter.com/search?q=THANK+YOU+ENHYPEN) | N/A |
-| 8 | [THE BOYZ ROAR D-15](http://twitter.com/search?q=THE+BOYZ+ROAR+D-15) | THE BOYZ ROAR D-15 is a special event held by the South Korean boy band THE BOYZ. It is a fan meeting event that allows fans to get up close and personal with the members of the group. The "D-15" in the title refers to the 15th day of the month, which is when the event will take place. |
-| 9 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
-| 10 | [SIXAndMore YearsTo BELLElieve](http://twitter.com/search?q=SIXAndMore+YearsTo+BELLElieve) | N/A |
-| 11 | [Ishiro Deserves Better](http://twitter.com/search?q=Ishiro+Deserves+Better) | N/A |
-| 12 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 13 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
-| 14 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 15 | [BANGTAN FOREVER](http://twitter.com/search?q=BANGTAN+FOREVER) | N/A |
-| 16 | [Donnalyn](http://twitter.com/search?q=Donnalyn) | Donnalyn is a female given name of Irish origin. It is derived from the Gaelic name Donal, which means "world ruler". In English, Donnalyn can be translated to mean "ruler of the world". |
-| 17 | [U-san](http://twitter.com/search?q=U-san) | U-san is a Japanese honorific used to refer to someone in a polite way. It is similar to the English honorific "Mr." or "Ms." and is used when addressing someone of equal or higher status. |
-| 18 | [VINC1 MalizONE](http://twitter.com/search?q=VINC1+MalizONE) | N/A |
-| 19 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 20 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 21 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
-| 22 | [Russu](http://twitter.com/search?q=Russu) | N/A |
-| 23 | [ARMY BATTLE PARTY](http://twitter.com/search?q=ARMY+BATTLE+PARTY) | ARMY BATTLE PARTY is a type of game in which players take on the role of an army commander and battle against each other in a virtual environment. The goal is to outwit and outmaneuver your opponents in order to win the battle. In English, it can be translated as "Military Combat Party". |
-| 24 | [MY SEVEN](http://twitter.com/search?q=MY+SEVEN) | N/A |
-| 25 | [DONNYs INSPIRING MESSAGES](http://twitter.com/search?q=DONNYs+INSPIRING+MESSAGES) | N/A |
-| 26 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
-| 27 | [Jeromy](http://twitter.com/search?q=Jeromy) | N/A |
-| 28 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 4 | [#BSS_wants_ourSECONDWIND](http://twitter.com/search?q=%23BSS_wants_ourSECONDWIND) | N/A |
+| 5 | [#JonaxxACTYAKab43](http://twitter.com/search?q=%23JonaxxACTYAKab43) | N/A |
+| 6 | [#FELIPAtAyalaMallsManilaBay](http://twitter.com/search?q=%23FELIPAtAyalaMallsManilaBay) | N/A |
+| 7 | [ITS BSS FIGHTING DAY](http://twitter.com/search?q=ITS+BSS+FIGHTING+DAY) | ITS BSS FIGHTING DAY is a phrase used by fans of the Japanese professional wrestling promotion, Big Japan Pro Wrestling. It is used to show support for the wrestlers and to encourage them to fight hard and put on an exciting show. In English, it roughly translates to "Let's go Big Japan Pro Wrestling!" |
+| 8 | [THANK YOU ENHYPEN](http://twitter.com/search?q=THANK+YOU+ENHYPEN) | N/A |
+| 9 | [THE BOYZ ROAR D-15](http://twitter.com/search?q=THE+BOYZ+ROAR+D-15) | THE BOYZ ROAR D-15 is a special event held by the South Korean boy band THE BOYZ. It is a fan meeting event that allows fans to get up close and personal with the members of the group. The "D-15" in the title refers to the 15th day of the month, which is when the event will take place. |
+| 10 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
+| 11 | [SIXAndMore YearsTo BELLElieve](http://twitter.com/search?q=SIXAndMore+YearsTo+BELLElieve) | N/A |
+| 12 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 13 | [Donnalyn](http://twitter.com/search?q=Donnalyn) | Donnalyn is a female given name of Irish origin. It is derived from the Gaelic name Donal, which means "world ruler". In English, Donnalyn can be translated to mean "ruler of the world". |
+| 14 | [Ishiro](http://twitter.com/search?q=Ishiro) | N/A |
+| 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 16 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 17 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 18 | [BANGTAN FOREVER](http://twitter.com/search?q=BANGTAN+FOREVER) | N/A |
+| 19 | [ford allan](http://twitter.com/search?q=ford+allan) | N/A |
+| 20 | [U-san](http://twitter.com/search?q=U-san) | U-san is a Japanese honorific used to refer to someone in a polite way. It is similar to the English honorific "Mr." or "Ms." and is used when addressing someone of equal or higher status. |
+| 21 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 22 | [VINC1 MalizONE](http://twitter.com/search?q=VINC1+MalizONE) | N/A |
+| 23 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 24 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 25 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 26 | [MY SEVEN](http://twitter.com/search?q=MY+SEVEN) | N/A |
+| 27 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
+| 28 | [Jeromy](http://twitter.com/search?q=Jeromy) | N/A |
 | 29 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 30 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 31 | [THANK YOU SO MUCH](http://twitter.com/search?q=THANK+YOU+SO+MUCH) | N/A |
-| 32 | [Shout Out](http://twitter.com/search?q=Shout+Out) | N/A |
-| 33 | [KATHNIEL BRIGHTEST STARS](http://twitter.com/search?q=KATHNIEL+BRIGHTEST+STARS) | N/A |
-| 34 | [GO BIG OR GO HOME](http://twitter.com/search?q=GO+BIG+OR+GO+HOME) | N/A |
-| 35 | [wonu](http://twitter.com/search?q=wonu) | N/A |
-| 36 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
-| 37 | [Niki](http://twitter.com/search?q=Niki) | N/A |
-| 38 | [MAHAL KITA](http://twitter.com/search?q=MAHAL+KITA) | N/A |
-| 39 | [#FELIPAtAyalaMallsManilaBay](http://twitter.com/search?q=%23FELIPAtAyalaMallsManilaBay) | N/A |
-| 40 | [#TSMWIN](http://twitter.com/search?q=%23TSMWIN) | #TSMWIN stands for "The Secret Millionaire's Wealth Index Network". It is a network of entrepreneurs, investors, and professionals who share resources and knowledge to help each other become successful. The goal of the network is to help members achieve financial freedom and create wealth. |
-| 41 | [#BE_AWAKE_ConceptPhotos](http://twitter.com/search?q=%23BE_AWAKE_ConceptPhotos) | N/A |
-| 42 | [#BABYMONSTER_RUKA](http://twitter.com/search?q=%23BABYMONSTER_RUKA) | N/A |
-| 43 | [#AlwaysBelleSince2017](http://twitter.com/search?q=%23AlwaysBelleSince2017) | N/A |
-| 44 | [#CrashCourseInRomanceEp8](http://twitter.com/search?q=%23CrashCourseInRomanceEp8) | N/A |
-| 45 | [#SeizetheBay](http://twitter.com/search?q=%23SeizetheBay) | N/A |
-| 46 | [#200DaysWithNewJeans](http://twitter.com/search?q=%23200DaysWithNewJeans) | N/A |
-| 47 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
-| 48 | [#TeamYoung](http://twitter.com/search?q=%23TeamYoung) | N/A |
-| 49 | [#TeamYouth](http://twitter.com/search?q=%23TeamYouth) | N/A |
-| 50 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | N/A |
+| 30 | [THANK YOU SO MUCH](http://twitter.com/search?q=THANK+YOU+SO+MUCH) | N/A |
+| 31 | [GO BIG OR GO HOME](http://twitter.com/search?q=GO+BIG+OR+GO+HOME) | N/A |
+| 32 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 33 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
+| 34 | [Niki](http://twitter.com/search?q=Niki) | N/A |
+| 35 | [#TSMWIN](http://twitter.com/search?q=%23TSMWIN) | #TSMWIN stands for "The Secret Millionaire's Wealth Index Network". It is a network of entrepreneurs, investors, and professionals who share resources and knowledge to help each other become successful. The goal of the network is to help members achieve financial freedom and create wealth. |
+| 36 | [#BE_AWAKE_ConceptPhotos](http://twitter.com/search?q=%23BE_AWAKE_ConceptPhotos) | N/A |
+| 37 | [#CrashCourseInRomanceEp8](http://twitter.com/search?q=%23CrashCourseInRomanceEp8) | N/A |
+| 38 | [#AlwaysBelleSince2017](http://twitter.com/search?q=%23AlwaysBelleSince2017) | N/A |
+| 39 | [#200DaysWithNewJeans](http://twitter.com/search?q=%23200DaysWithNewJeans) | N/A |
+| 40 | [#SeizetheBay](http://twitter.com/search?q=%23SeizetheBay) | N/A |
+| 41 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | N/A |
+| 42 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
+| 43 | [#TeamYoung](http://twitter.com/search?q=%23TeamYoung) | N/A |
+| 44 | [#TeamYouth](http://twitter.com/search?q=%23TeamYouth) | N/A |
+| 45 | [#ShootingStarInTaipei](http://twitter.com/search?q=%23ShootingStarInTaipei) | #ShootingStarInTaipei is a hashtag used to refer to a meteor shower that was visible in Taipei, Taiwan in December 2019. The hashtag is used to share photos and videos of the event on social media. |
+| 46 | [#JAKE](http://twitter.com/search?q=%23JAKE) | N/A |
+| 47 | [#PPOPFest2023](http://twitter.com/search?q=%23PPOPFest2023) | N/A |
 
 
 

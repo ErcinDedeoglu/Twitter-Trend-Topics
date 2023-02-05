@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-05 17:16:06 UTC`
+📆 Last Updated: `2023-02-05 18:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 9 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
 | 10 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 | 11 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 12 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
-| 13 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 14 | [6 Sixes](http://twitter.com/search?q=6+Sixes) | N/A |
-| 15 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 16 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 17 | [NRO 1](http://twitter.com/search?q=NRO+1) | N/A |
-| 18 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 12 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 13 | [6 Sixes](http://twitter.com/search?q=6+Sixes) | N/A |
+| 14 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
+| 15 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 16 | [Exhibition](http://twitter.com/search?q=Exhibition) | N/A |
+| 17 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 18 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
 | 19 | [Chacha](http://twitter.com/search?q=Chacha) | N/A |
-| 20 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
-| 21 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 22 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 23 | [Economy](http://twitter.com/search?q=Economy) | N/A |
-| 24 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 25 | [Brave](http://twitter.com/search?q=Brave) | N/A |
-| 26 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
-| 27 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
-| 28 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 29 | [RIP General](http://twitter.com/search?q=RIP+General) | N/A |
+| 20 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 21 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 22 | [NRO 1](http://twitter.com/search?q=NRO+1) | N/A |
+| 23 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
+| 24 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 25 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 26 | [Economy](http://twitter.com/search?q=Economy) | N/A |
+| 27 | [Loyal](http://twitter.com/search?q=Loyal) | N/A |
+| 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 29 | [MIGHTY WINNER SHIV](http://twitter.com/search?q=MIGHTY+WINNER+SHIV) | MIGHTY WINNER SHIV is a phrase used in Hinduism to refer to the god Shiva, who is seen as a powerful and victorious deity. The phrase is often used as an invocation or prayer to ask for Shiva's protection and blessings. |
 | 30 | [Dollar](http://twitter.com/search?q=Dollar) | N/A |
-| 31 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 32 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 33 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 34 | [zia ul haq](http://twitter.com/search?q=zia+ul+haq) | N/A |
-| 35 | [Benazir](http://twitter.com/search?q=Benazir) | N/A |
-| 36 | [Ahaaan](http://twitter.com/search?q=Ahaaan) | N/A |
-| 37 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 38 | [Shahbaz Gill](http://twitter.com/search?q=Shahbaz+Gill) | N/A |
-| 39 | [Garage](http://twitter.com/search?q=Garage) | N/A |
-| 40 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
-| 41 | [Hostel](http://twitter.com/search?q=Hostel) | N/A |
-| 42 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 43 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 44 | [Gilgit Baltistan](http://twitter.com/search?q=Gilgit+Baltistan) | N/A |
-| 45 | [Woah](http://twitter.com/search?q=Woah) | N/A |
-| 46 | [European](http://twitter.com/search?q=European) | N/A |
-| 47 | [Abhi](http://twitter.com/search?q=Abhi) | N/A |
-| 48 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 49 | [Inna](http://twitter.com/search?q=Inna) | N/A |
+| 31 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 32 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
+| 33 | [RIP General](http://twitter.com/search?q=RIP+General) | N/A |
+| 34 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
+| 35 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 36 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
+| 37 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 39 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 40 | [Benazir](http://twitter.com/search?q=Benazir) | N/A |
+| 41 | [Infront](http://twitter.com/search?q=Infront) | N/A |
+| 42 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 43 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 44 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 45 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
+| 46 | [Damnnn](http://twitter.com/search?q=Damnnn) | N/A |
+| 47 | [Great Leader](http://twitter.com/search?q=Great+Leader) | N/A |
+| 48 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 49 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
 
 
 
