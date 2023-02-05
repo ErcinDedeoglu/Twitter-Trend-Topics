@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-05 11:16:54 UTC`
+📆 Last Updated: `2023-02-05 12:19:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#தைப்பூசம்](http://twitter.com/search?q=%23%e0%ae%a4%e0%af%88%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%82%e0%ae%9a%e0%ae%ae%e0%af%8d) | N/A |
+| 1 | [#CelebrationOfVarisu](http://twitter.com/search?q=%23CelebrationOfVarisu) | N/A |
 | 2 | [#Dada](http://twitter.com/search?q=%23Dada) | N/A |
-| 3 | [#G20DEWG](http://twitter.com/search?q=%23G20DEWG) | N/A |
-| 4 | [#PervezMusharraf](http://twitter.com/search?q=%23PervezMusharraf) | #PervezMusharraf is a hashtag used to refer to former Pakistani President Pervez Musharraf. It is used to discuss news and topics related to him. |
-| 5 | [#StartingTroublesTwo](http://twitter.com/search?q=%23StartingTroublesTwo) | N/A |
+| 3 | [#தைப்பூசம்](http://twitter.com/search?q=%23%e0%ae%a4%e0%af%88%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%82%e0%ae%9a%e0%ae%ae%e0%af%8d) | N/A |
+| 4 | [#thaipusam](http://twitter.com/search?q=%23thaipusam) | N/A |
+| 5 | [#Kavin](http://twitter.com/search?q=%23Kavin) | N/A |
 | 6 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
 | 7 | [MIGHTY WINNER SHIV](http://twitter.com/search?q=MIGHTY+WINNER+SHIV) | MIGHTY WINNER SHIV is a phrase used in Hinduism to refer to the god Shiva, who is seen as a powerful and victorious deity. The phrase is often used as an invocation or prayer to ask for Shiva's protection and blessings. |
-| 8 | [HAQ SE WINNER MC STAN](http://twitter.com/search?q=HAQ+SE+WINNER+MC+STAN) | N/A |
-| 9 | [Fielder with Most Catches](http://twitter.com/search?q=Fielder+with+Most+Catches) | Fielder with Most Catches is a statistic used in cricket to measure the number of catches taken by a fielder during a match. It is an indication of how well the fielder has performed in the field, as it shows how many times they have been able to stop the ball from reaching the boundary. |
-| 10 | [शिरोमणि रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि रविदास is a Sanskrit phrase meaning "the sun of the head of the mountain". It is often used as a metaphor for someone who is wise and noble. |
-| 11 | [SSRians Love For Sushant](http://twitter.com/search?q=SSRians+Love+For+Sushant) | N/A |
-| 12 | [Bowler with Worst ER](http://twitter.com/search?q=Bowler+with+Worst+ER) | Bowler with Worst ER is a statistic used in cricket to measure the effectiveness of a bowler. It stands for Economy Rate, which is the number of runs conceded per over bowled. It is calculated by dividing the total number of runs conceded by the total number of overs bowled. A bowler with the worst ER will have conceded the most runs per over, indicating that they are not very effective at containing batsmen and preventing them from scoring runs. |
-| 13 | [SHALIN DESERVES BB16 TROPHY](http://twitter.com/search?q=SHALIN+DESERVES+BB16+TROPHY) | N/A |
-| 14 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 15 | [Batsman with Most Sixes](http://twitter.com/search?q=Batsman+with+Most+Sixes) | N/A |
-| 16 | [Batsman with Highest SR](http://twitter.com/search?q=Batsman+with+Highest+SR) | N/A |
-| 17 | [Jhulan Goswami](http://twitter.com/search?q=Jhulan+Goswami) | N/A |
-| 18 | [सामाजिक एकता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%8f%e0%a4%95%e0%a4%a4%e0%a4%be) | N/A |
-| 19 | [Charlotte Edwards](http://twitter.com/search?q=Charlotte+Edwards) | N/A |
-| 20 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 21 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
-| 22 | [कारगिल युद्ध](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a4%97%e0%a4%bf%e0%a4%b2+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
-| 23 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
-| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 25 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
+| 8 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
+| 9 | [LONGEST SEASON NAAGIN6](http://twitter.com/search?q=LONGEST+SEASON+NAAGIN6) | N/A |
+| 10 | [JagatGuru Ravidas](http://twitter.com/search?q=JagatGuru+Ravidas) | N/A |
+| 11 | [HAQ SE WINNER MC STAN](http://twitter.com/search?q=HAQ+SE+WINNER+MC+STAN) | N/A |
+| 12 | [शिरोमणि रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि रविदास is a Sanskrit phrase meaning "the sun of the head of the mountain". It is often used as a metaphor for someone who is wise and noble. |
+| 13 | [Fielder with Most Catches](http://twitter.com/search?q=Fielder+with+Most+Catches) | Fielder with Most Catches is a statistic used in cricket to measure the number of catches taken by a fielder during a match. It is an indication of how well the fielder has performed in the field, as it shows how many times they have been able to stop the ball from reaching the boundary. |
+| 14 | [SSRians Love For Sushant](http://twitter.com/search?q=SSRians+Love+For+Sushant) | N/A |
+| 15 | [Bowler with Worst ER](http://twitter.com/search?q=Bowler+with+Worst+ER) | Bowler with Worst ER is a statistic used in cricket to measure the effectiveness of a bowler. It stands for Economy Rate, which is the number of runs conceded per over bowled. It is calculated by dividing the total number of runs conceded by the total number of overs bowled. A bowler with the worst ER will have conceded the most runs per over, indicating that they are not very effective at containing batsmen and preventing them from scoring runs. |
+| 16 | [Batsman with Most Sixes](http://twitter.com/search?q=Batsman+with+Most+Sixes) | N/A |
+| 17 | [Batsman with Highest SR](http://twitter.com/search?q=Batsman+with+Highest+SR) | N/A |
+| 18 | [SHALIN DESERVES BB16 TROPHY](http://twitter.com/search?q=SHALIN+DESERVES+BB16+TROPHY) | N/A |
+| 19 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 20 | [Jhulan Goswami](http://twitter.com/search?q=Jhulan+Goswami) | N/A |
+| 21 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 22 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 23 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
+| 24 | [सामाजिक एकता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%8f%e0%a4%95%e0%a4%a4%e0%a4%be) | N/A |
+| 25 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
 | 26 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | Sant Rampal Ji Maharaj App is an Android app that provides users with access to teachings and videos from Sant Rampal Ji Maharaj, a spiritual leader from India. The app also provides users with access to audio recordings of his sermons, as well as information about upcoming events and activities related to Sant Rampal Ji Maharaj. The English translation of the name of the app is "Saint Rampal Ji Maharaj App". |
 | 27 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 | 28 | [PIYA RE BY DARSHAN RAVAL](http://twitter.com/search?q=PIYA+RE+BY+DARSHAN+RAVAL) | "Piya Re" is a song by Indian singer Darshan Raval. The song is about a man who is deeply in love with his partner and expresses his feelings for her. The English translation of the lyrics is: "My beloved, I am crazy for you, I can't stay away from you, I'm in love with you, my heart is beating for you." |
-| 29 | [परम ज्ञानी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 30 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 31 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 32 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
-| 33 | [Agra](http://twitter.com/search?q=Agra) | N/A |
-| 34 | [Jaipur Mahakhel](http://twitter.com/search?q=Jaipur+Mahakhel) | N/A |
+| 29 | [कारगिल युद्ध](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a4%97%e0%a4%bf%e0%a4%b2+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
+| 30 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
+| 31 | [Agra](http://twitter.com/search?q=Agra) | N/A |
+| 32 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 33 | [परम ज्ञानी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 34 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
 | 35 | [Kashmir Solidarity Day](http://twitter.com/search?q=Kashmir+Solidarity+Day) | N/A |
 | 36 | [पावन जयंती](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 37 | [पवित्र पुस्तक](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95) | N/A |
-| 38 | [Kashmiris](http://twitter.com/search?q=Kashmiris) | N/A |
-| 39 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 40 | [#विकास_यात्रा_MP](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8_%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be_MP) | N/A |
-| 41 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
-| 42 | [#MereDeshKiJawani](http://twitter.com/search?q=%23MereDeshKiJawani) | N/A |
-| 43 | [#NKIRunningSuccessfully](http://twitter.com/search?q=%23NKIRunningSuccessfully) | N/A |
-| 44 | [#AKAMUnityInCreativity](http://twitter.com/search?q=%23AKAMUnityInCreativity) | N/A |
+| 37 | [Kashmiris](http://twitter.com/search?q=Kashmiris) | N/A |
+| 38 | [पवित्र पुस्तक गीता](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%97%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 39 | [Vande Bharat](http://twitter.com/search?q=Vande+Bharat) | N/A |
+| 40 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 41 | [#MereDeshKiJawani](http://twitter.com/search?q=%23MereDeshKiJawani) | N/A |
+| 42 | [#G20DEWG](http://twitter.com/search?q=%23G20DEWG) | N/A |
+| 43 | [#PervezMusharraf](http://twitter.com/search?q=%23PervezMusharraf) | #PervezMusharraf is a hashtag used to refer to former Pakistani President Pervez Musharraf. It is used to discuss news and topics related to him. |
+| 44 | [#StartingTroublesTwo](http://twitter.com/search?q=%23StartingTroublesTwo) | N/A |
 | 45 | [#राजपूत_नरसंहार_छपरा](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%aa%e0%a5%82%e0%a4%a4_%e0%a4%a8%e0%a4%b0%e0%a4%b8%e0%a4%82%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%9b%e0%a4%aa%e0%a4%b0%e0%a4%be) | N/A |
-| 46 | [#MPVikasYatra](http://twitter.com/search?q=%23MPVikasYatra) | N/A |
-| 47 | [#yadavexposedkejriwalonobc](http://twitter.com/search?q=%23yadavexposedkejriwalonobc) | N/A |
-| 48 | [#Quetta](http://twitter.com/search?q=%23Quetta) | N/A |
-| 49 | [#ShapeofPower](http://twitter.com/search?q=%23ShapeofPower) | N/A |
-| 50 | [#VetriMaaran](http://twitter.com/search?q=%23VetriMaaran) | N/A |
+| 46 | [#PatrioticSong](http://twitter.com/search?q=%23PatrioticSong) | N/A |
+| 47 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
+| 48 | [#विकास_यात्रा_MP](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8_%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be_MP) | N/A |
+| 49 | [#MPVikasYatra](http://twitter.com/search?q=%23MPVikasYatra) | N/A |
+| 50 | [#Quetta](http://twitter.com/search?q=%23Quetta) | N/A |
 
 
 

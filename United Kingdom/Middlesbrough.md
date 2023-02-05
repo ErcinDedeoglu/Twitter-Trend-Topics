@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-02-05 11:16:22 UTC`
+📆 Last Updated: `2023-02-05 12:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 2 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 3 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 4 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 7 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
-| 8 | [Sharon Graham](http://twitter.com/search?q=Sharon+Graham) | N/A |
-| 9 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 10 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 11 | [#ASongOrMovieForAnythingSweet](http://twitter.com/search?q=%23ASongOrMovieForAnythingSweet) | N/A |
-| 12 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 13 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
-| 14 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
-| 15 | [Micky](http://twitter.com/search?q=Micky) | N/A |
-| 16 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 1 | [#ALGS](http://twitter.com/search?q=%23ALGS) | N/A |
+| 2 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 3 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 4 | [Downing Street](http://twitter.com/search?q=Downing+Street) | N/A |
+| 5 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 6 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 7 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 8 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
+| 9 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 11 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 12 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 13 | [#SundayBrunch](http://twitter.com/search?q=%23SundayBrunch) | N/A |
+| 14 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
+| 15 | [Sharon Graham](http://twitter.com/search?q=Sharon+Graham) | N/A |
+| 16 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
 | 17 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 18 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | Derrick Lewis is an American professional mixed martial artist and former heavyweight champion of the Ultimate Fighting Championship (UFC). His nickname is "The Black Beast". He is known for his aggressive fighting style and knockout power. |
-| 19 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
-| 20 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
-| 21 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 22 | [Deluded](http://twitter.com/search?q=Deluded) | N/A |
-| 23 | [Torygraph](http://twitter.com/search?q=Torygraph) | N/A |
-| 24 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 25 | [Private Eye](http://twitter.com/search?q=Private+Eye) | N/A |
-| 26 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 27 | [George Square](http://twitter.com/search?q=George+Square) | N/A |
-| 28 | [Delusional](http://twitter.com/search?q=Delusional) | N/A |
-| 29 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
-| 30 | [Jeremy Corbyn](http://twitter.com/search?q=Jeremy+Corbyn) | N/A |
-| 31 | [City of London](http://twitter.com/search?q=City+of+London) | N/A |
-| 32 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 33 | [Marxist](http://twitter.com/search?q=Marxist) | N/A |
-| 34 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
-| 35 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 36 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 37 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 38 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 39 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 40 | [#SundayBrunch](http://twitter.com/search?q=%23SundayBrunch) | N/A |
-| 41 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
-| 42 | [#LeftWingEconomicEstablishment](http://twitter.com/search?q=%23LeftWingEconomicEstablishment) | N/A |
-| 43 | [#HappyValleyFinale](http://twitter.com/search?q=%23HappyValleyFinale) | N/A |
-| 44 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
-| 45 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 46 | [#bbcbh](http://twitter.com/search?q=%23bbcbh) | N/A |
-| 47 | [#ukgiftam](http://twitter.com/search?q=%23ukgiftam) | N/A |
-| 48 | [#ThickLizzy](http://twitter.com/search?q=%23ThickLizzy) | N/A |
-| 49 | [#LauraKuenssberg](http://twitter.com/search?q=%23LauraKuenssberg) | N/A |
+| 18 | [State Man](http://twitter.com/search?q=State+Man) | N/A |
+| 19 | [Micky](http://twitter.com/search?q=Micky) | N/A |
+| 20 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
+| 21 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
+| 22 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 23 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 25 | [George Square](http://twitter.com/search?q=George+Square) | N/A |
+| 26 | [treasury](http://twitter.com/search?q=treasury) | N/A |
+| 27 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | Derrick Lewis is an American professional mixed martial artist and former heavyweight champion of the Ultimate Fighting Championship (UFC). His nickname is "The Black Beast". He is known for his aggressive fighting style and knockout power. |
+| 28 | [Jake Berry](http://twitter.com/search?q=Jake+Berry) | N/A |
+| 29 | [Private Eye](http://twitter.com/search?q=Private+Eye) | N/A |
+| 30 | [LDIs](http://twitter.com/search?q=LDIs) | N/A |
+| 31 | [Concorde](http://twitter.com/search?q=Concorde) | N/A |
+| 32 | [Deluded](http://twitter.com/search?q=Deluded) | N/A |
+| 33 | [Torygraph](http://twitter.com/search?q=Torygraph) | N/A |
+| 34 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 35 | [Delusional](http://twitter.com/search?q=Delusional) | N/A |
+| 36 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
+| 37 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
+| 38 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
+| 39 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 40 | [Jeremy Corbyn](http://twitter.com/search?q=Jeremy+Corbyn) | N/A |
+| 41 | [City of London](http://twitter.com/search?q=City+of+London) | N/A |
+| 42 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 43 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 44 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 45 | [Marxist](http://twitter.com/search?q=Marxist) | N/A |
+| 46 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 47 | [Leopardstown](http://twitter.com/search?q=Leopardstown) | N/A |
+| 48 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 49 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
 
 
 

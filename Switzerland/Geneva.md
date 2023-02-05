@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-05 11:16:37 UTC`
+📆 Last Updated: `2023-02-05 12:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [Buona](http://twitter.com/search?q=Buona) | N/A |
 | 2 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
-| 3 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 4 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 5 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
+| 3 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
+| 4 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 5 | [Dido](http://twitter.com/search?q=Dido) | N/A |
 | 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 7 | [#SchlagdenStar](http://twitter.com/search?q=%23SchlagdenStar) | N/A |
-| 8 | [#FCSGSFC](http://twitter.com/search?q=%23FCSGSFC) | N/A |
-| 9 | [#Chamonix](http://twitter.com/search?q=%23Chamonix) | N/A |
-| 10 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 7 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
+| 8 | [#SchlagdenStar](http://twitter.com/search?q=%23SchlagdenStar) | N/A |
+| 9 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 10 | [#Chamonix](http://twitter.com/search?q=%23Chamonix) | N/A |
 | 11 | [America](http://twitter.com/search?q=America) | N/A |
 | 12 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 13 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
-| 14 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 15 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 13 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 14 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 15 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 17 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 17 | [Leos](http://twitter.com/search?q=Leos) | N/A |
 | 18 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 19 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 20 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 21 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 22 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 23 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 26 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 27 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 28 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 29 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 30 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 31 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 32 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
-| 33 | [Preise](http://twitter.com/search?q=Preise) | N/A |
-| 34 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
-| 35 | [Armee](http://twitter.com/search?q=Armee) | N/A |
-| 36 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 37 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 38 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 19 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 20 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
+| 21 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 22 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 23 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 24 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 25 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 26 | [Gründe](http://twitter.com/search?q=Gr%c3%bcnde) | N/A |
+| 27 | [biel](http://twitter.com/search?q=biel) | N/A |
+| 28 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 29 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 30 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 32 | [Haut](http://twitter.com/search?q=Haut) | N/A |
+| 33 | [Fieber](http://twitter.com/search?q=Fieber) | N/A |
+| 34 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 35 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
+| 36 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 37 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 38 | [Armee](http://twitter.com/search?q=Armee) | N/A |
 | 39 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 40 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 41 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
-| 42 | [Jolie](http://twitter.com/search?q=Jolie) | N/A |
-| 43 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 44 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 45 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
-| 46 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 47 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 40 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 41 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 42 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 43 | [Länder](http://twitter.com/search?q=L%c3%a4nder) | N/A |
+| 44 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 45 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
+| 46 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 47 | [Fakten](http://twitter.com/search?q=Fakten) | N/A |
+| 48 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
 
 
 

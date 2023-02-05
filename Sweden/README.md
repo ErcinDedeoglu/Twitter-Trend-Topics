@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-05 11:17:10 UTC`
+📆 Last Updated: `2023-02-05 12:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Sweden
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#melfest](http://twitter.com/search?q=%23melfest) | N/A |
-| 2 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
-| 3 | [Mello](http://twitter.com/search?q=Mello) | N/A |
-| 4 | [LKAB](http://twitter.com/search?q=LKAB) | N/A |
-| 5 | [Muslimska](http://twitter.com/search?q=Muslimska) | N/A |
-| 6 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
-| 7 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 8 | [Olle](http://twitter.com/search?q=Olle) | N/A |
-| 9 | [Tone](http://twitter.com/search?q=Tone) | N/A |
+| 1 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 2 | [LKAB](http://twitter.com/search?q=LKAB) | N/A |
+| 3 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
+| 4 | [Mello](http://twitter.com/search?q=Mello) | N/A |
+| 5 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
+| 6 | [Muslimska](http://twitter.com/search?q=Muslimska) | N/A |
+| 7 | [Hybrit](http://twitter.com/search?q=Hybrit) | N/A |
+| 8 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 9 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
 | 10 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 11 | [Cornelia](http://twitter.com/search?q=Cornelia) | N/A |
-| 12 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 13 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 11 | [Tone](http://twitter.com/search?q=Tone) | N/A |
+| 12 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 16 | [Jon Henrik](http://twitter.com/search?q=Jon+Henrik) | N/A |
+| 15 | [Jon Henrik](http://twitter.com/search?q=Jon+Henrik) | N/A |
+| 16 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 18 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 19 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 20 | [Sylvegård](http://twitter.com/search?q=Sylveg%c3%a5rd) | N/A |
-| 21 | [#WOLLIV](http://twitter.com/search?q=%23WOLLIV) | #WOLLIV is an acronym for "We Only Live Life In Vibes," which is a phrase used to express the idea that life should be lived with positive energy and enthusiasm. |
-| 22 | [Kalle Östman](http://twitter.com/search?q=Kalle+%c3%96stman) | N/A |
-| 23 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 24 | [Karin Boye](http://twitter.com/search?q=Karin+Boye) | N/A |
-| 25 | [Vivalla](http://twitter.com/search?q=Vivalla) | N/A |
-| 26 | [månbas alpha](http://twitter.com/search?q=m%c3%a5nbas+alpha) | N/A |
-| 27 | [victor crone](http://twitter.com/search?q=victor+crone) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 30 | [Underbart](http://twitter.com/search?q=Underbart) | N/A |
-| 31 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 32 | [hjalmar ekdal](http://twitter.com/search?q=hjalmar+ekdal) | N/A |
-| 33 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 34 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 21 | [Kalle Östman](http://twitter.com/search?q=Kalle+%c3%96stman) | N/A |
+| 22 | [#WOLLIV](http://twitter.com/search?q=%23WOLLIV) | #WOLLIV is an acronym for "We Only Live Life In Vibes," which is a phrase used to express the idea that life should be lived with positive energy and enthusiasm. |
+| 23 | [Karin Boye](http://twitter.com/search?q=Karin+Boye) | N/A |
+| 24 | [Vivalla](http://twitter.com/search?q=Vivalla) | N/A |
+| 25 | [Solna](http://twitter.com/search?q=Solna) | N/A |
+| 26 | [Cornelia](http://twitter.com/search?q=Cornelia) | N/A |
+| 27 | [VICTOR CRONE](http://twitter.com/search?q=VICTOR+CRONE) | N/A |
+| 28 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
+| 29 | [Hjalmar Ekdal](http://twitter.com/search?q=Hjalmar+Ekdal) | N/A |
+| 30 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
+| 31 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 32 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 33 | [örjan](http://twitter.com/search?q=%c3%b6rjan) | N/A |
+| 34 | [Goodison Park](http://twitter.com/search?q=Goodison+Park) | Goodison Park is a football stadium in Liverpool, England. It is the home ground of Everton Football Club, and has been since its completion in 1892. The name Goodison Park comes from the street on which it is located, Goodison Road. |
 | 35 | [carl-einar häckner](http://twitter.com/search?q=carl-einar+h%c3%a4ckner) | N/A |
-| 36 | [Skolinspektionen](http://twitter.com/search?q=Skolinspektionen) | N/A |
-| 37 | [Jesper Rönndahl](http://twitter.com/search?q=Jesper+R%c3%b6nndahl) | N/A |
-| 38 | [Göteborgs](http://twitter.com/search?q=G%c3%b6teborgs) | N/A |
-| 39 | [örjan](http://twitter.com/search?q=%c3%b6rjan) | N/A |
-| 40 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 41 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 42 | [Solna](http://twitter.com/search?q=Solna) | N/A |
-| 43 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 36 | [Jesper Rönndahl](http://twitter.com/search?q=Jesper+R%c3%b6nndahl) | N/A |
+| 37 | [Andrae](http://twitter.com/search?q=Andrae) | N/A |
+| 38 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 39 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 40 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 41 | [eklind](http://twitter.com/search?q=eklind) | N/A |
+| 42 | [Lassi](http://twitter.com/search?q=Lassi) | N/A |
+| 43 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 44 | [Händemark](http://twitter.com/search?q=H%c3%a4ndemark) | N/A |
-| 45 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 46 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 47 | [Lassi](http://twitter.com/search?q=Lassi) | N/A |
-| 48 | [Rysslands](http://twitter.com/search?q=Rysslands) | N/A |
-| 49 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 50 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 45 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 46 | [Abdel](http://twitter.com/search?q=Abdel) | N/A |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 48 | [EPA-dunk](http://twitter.com/search?q=EPA-dunk) | N/A |
+| 49 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 50 | [Rysslands](http://twitter.com/search?q=Rysslands) | N/A |
 
 
 

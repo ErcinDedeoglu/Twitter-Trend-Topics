@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-05 11:16:34 UTC`
+📆 Last Updated: `2023-02-05 12:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Cepostaperte](http://twitter.com/search?q=%23Cepostaperte) | N/A |
-| 2 | [#5febbraio](http://twitter.com/search?q=%235febbraio) | N/A |
-| 3 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 4 | [#RomaEmpoli](http://twitter.com/search?q=%23RomaEmpoli) | N/A |
-| 5 | [#InterMilan](http://twitter.com/search?q=%23InterMilan) | N/A |
-| 6 | [Marghe](http://twitter.com/search?q=Marghe) | N/A |
-| 7 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 8 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 1 | [#SpeziaNapoli](http://twitter.com/search?q=%23SpeziaNapoli) | N/A |
+| 2 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
+| 3 | [#timdown](http://twitter.com/search?q=%23timdown) | N/A |
+| 4 | [#5febbraio](http://twitter.com/search?q=%235febbraio) | N/A |
+| 5 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 6 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 7 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 8 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
 | 9 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 10 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 11 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 12 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 13 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 14 | [Chiave](http://twitter.com/search?q=Chiave) | N/A |
-| 15 | [Tagliatelle](http://twitter.com/search?q=Tagliatelle) | N/A |
+| 10 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 11 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 12 | [Tagliatelle](http://twitter.com/search?q=Tagliatelle) | N/A |
+| 13 | [marghe](http://twitter.com/search?q=marghe) | N/A |
+| 14 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 15 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
 | 16 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
-| 17 | [Buongiorno Andrea](http://twitter.com/search?q=Buongiorno+Andrea) | N/A |
-| 18 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 19 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
-| 20 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 21 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 22 | [Telese](http://twitter.com/search?q=Telese) | N/A |
-| 23 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 24 | [Buongiorno Terry](http://twitter.com/search?q=Buongiorno+Terry) | N/A |
-| 25 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 26 | [Il 5](http://twitter.com/search?q=Il+5) | N/A |
+| 17 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 18 | [Telese](http://twitter.com/search?q=Telese) | N/A |
+| 19 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 20 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 21 | [Chiave](http://twitter.com/search?q=Chiave) | N/A |
+| 22 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 23 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 24 | [Il 5](http://twitter.com/search?q=Il+5) | N/A |
+| 25 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
+| 26 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
 | 27 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 28 | [Sheva](http://twitter.com/search?q=Sheva) | N/A |
-| 29 | [Graziana](http://twitter.com/search?q=Graziana) | N/A |
-| 30 | [Bobby Sands](http://twitter.com/search?q=Bobby+Sands) | N/A |
-| 31 | [Pregliasco](http://twitter.com/search?q=Pregliasco) | N/A |
+| 28 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 29 | [Buon Compleanno](http://twitter.com/search?q=Buon+Compleanno) | N/A |
+| 30 | [Graziana](http://twitter.com/search?q=Graziana) | N/A |
+| 31 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
 | 32 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 33 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 34 | [Imola Oggi](http://twitter.com/search?q=Imola+Oggi) | N/A |
-| 35 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 36 | [Ingegnera](http://twitter.com/search?q=Ingegnera) | N/A |
-| 37 | [Gnocchi](http://twitter.com/search?q=Gnocchi) | N/A |
-| 38 | [Sant'Agata](http://twitter.com/search?q=Sant%27Agata) | N/A |
-| 39 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 40 | [Enogu](http://twitter.com/search?q=Enogu) | N/A |
-| 41 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 42 | [Altrettanto](http://twitter.com/search?q=Altrettanto) | N/A |
-| 43 | [Baschirotto](http://twitter.com/search?q=Baschirotto) | N/A |
-| 44 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
-| 45 | [Ligabue](http://twitter.com/search?q=Ligabue) | N/A |
-| 46 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 47 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 48 | [Andrà](http://twitter.com/search?q=Andr%c3%a0) | N/A |
-| 49 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 33 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 34 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 35 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 36 | [Altrettanto](http://twitter.com/search?q=Altrettanto) | N/A |
+| 37 | [Bobby Sands](http://twitter.com/search?q=Bobby+Sands) | N/A |
+| 38 | [Sheva](http://twitter.com/search?q=Sheva) | N/A |
+| 39 | [Sant'Agata](http://twitter.com/search?q=Sant%27Agata) | N/A |
+| 40 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 41 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 42 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 43 | [Buongiorno Alex](http://twitter.com/search?q=Buongiorno+Alex) | N/A |
+| 44 | [Morte](http://twitter.com/search?q=Morte) | N/A |
+| 45 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 46 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
+| 47 | [Buongiornooooo](http://twitter.com/search?q=Buongiornooooo) | N/A |
+| 48 | [Ligabue](http://twitter.com/search?q=Ligabue) | N/A |
+| 49 | [Pareggio](http://twitter.com/search?q=Pareggio) | N/A |
 
 
 

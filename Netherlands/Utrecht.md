@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-05 11:16:35 UTC`
+📆 Last Updated: `2023-02-05 12:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 2 | [#camaja](http://twitter.com/search?q=%23camaja) | N/A |
-| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 4 | [#stemzeweg](http://twitter.com/search?q=%23stemzeweg) | N/A |
-| 5 | [#feypsv](http://twitter.com/search?q=%23feypsv) | N/A |
-| 6 | [Sophie Hermans](http://twitter.com/search?q=Sophie+Hermans) | N/A |
-| 7 | [Watersnoodramp](http://twitter.com/search?q=Watersnoodramp) | N/A |
-| 8 | [Dag 5](http://twitter.com/search?q=Dag+5) | N/A |
-| 9 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 10 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 11 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 12 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 13 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
-| 14 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
-| 15 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
-| 16 | [Kouderecords](http://twitter.com/search?q=Kouderecords) | N/A |
-| 17 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 18 | [Geert](http://twitter.com/search?q=Geert) | N/A |
-| 19 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
-| 20 | [Mexx](http://twitter.com/search?q=Mexx) | N/A |
-| 21 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 22 | [Hoogerheide](http://twitter.com/search?q=Hoogerheide) | N/A |
-| 23 | [Andries](http://twitter.com/search?q=Andries) | N/A |
-| 24 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 26 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 27 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
-| 28 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 29 | [Gijs](http://twitter.com/search?q=Gijs) | N/A |
-| 30 | [Pim Fortuyn](http://twitter.com/search?q=Pim+Fortuyn) | N/A |
-| 31 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 32 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 33 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 34 | [NOS Journaal](http://twitter.com/search?q=NOS+Journaal) | N/A |
-| 35 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
-| 36 | [Ineke](http://twitter.com/search?q=Ineke) | N/A |
-| 37 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
-| 38 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 39 | [Kinderboekenweek](http://twitter.com/search?q=Kinderboekenweek) | N/A |
-| 40 | [Stijn](http://twitter.com/search?q=Stijn) | N/A |
-| 41 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
-| 42 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 43 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 44 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
-| 45 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 46 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 1 | [#camaja](http://twitter.com/search?q=%23camaja) | N/A |
+| 2 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
+| 3 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 4 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
+| 5 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 6 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
+| 7 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 8 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 9 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
+| 10 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 11 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 12 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 13 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 14 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 15 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 16 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 17 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 18 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
+| 19 | [GroenLinks](http://twitter.com/search?q=GroenLinks) | N/A |
+| 20 | [Sophie Hermans](http://twitter.com/search?q=Sophie+Hermans) | N/A |
+| 21 | [Watersnoodramp](http://twitter.com/search?q=Watersnoodramp) | N/A |
+| 22 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 23 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
+| 24 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 25 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
+| 26 | [Dag 5](http://twitter.com/search?q=Dag+5) | N/A |
+| 27 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 28 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 29 | [Karolien](http://twitter.com/search?q=Karolien) | N/A |
+| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 31 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
+| 32 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 33 | [Kouderecords](http://twitter.com/search?q=Kouderecords) | N/A |
+| 34 | [pim fortuyn](http://twitter.com/search?q=pim+fortuyn) | N/A |
+| 35 | [Gijs](http://twitter.com/search?q=Gijs) | N/A |
+| 36 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 37 | [Geert](http://twitter.com/search?q=Geert) | N/A |
+| 38 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
+| 39 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 40 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
+| 41 | [NOS Journaal](http://twitter.com/search?q=NOS+Journaal) | N/A |
+| 42 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
+| 43 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
+| 44 | [Mexx](http://twitter.com/search?q=Mexx) | N/A |
+| 45 | [Ranomi](http://twitter.com/search?q=Ranomi) | N/A |
+| 46 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
 | 47 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
-| 48 | [Jesse Klaver](http://twitter.com/search?q=Jesse+Klaver) | N/A |
-| 49 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 48 | [Verbinding](http://twitter.com/search?q=Verbinding) | N/A |
+| 49 | [Kinderboekenweek](http://twitter.com/search?q=Kinderboekenweek) | N/A |
 
 
 

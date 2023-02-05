@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-05 11:16:56 UTC`
+📆 Last Updated: `2023-02-05 12:19:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DoğudanBatıya100BinAtama](http://twitter.com/search?q=%23Do%c4%9fudanBat%c4%b1ya100BinAtama) | N/A |
-| 2 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
-| 3 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
+| 2 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 3 | [#OyumGeçimdenYana](http://twitter.com/search?q=%23OyumGe%c3%a7imdenYana) | N/A |
 | 4 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 5 | [Vargas](http://twitter.com/search?q=Vargas) | N/A |
-| 6 | [#fırtına](http://twitter.com/search?q=%23f%c4%b1rt%c4%b1na) | N/A |
-| 7 | [#OyumGeçimdenYana](http://twitter.com/search?q=%23OyumGe%c3%a7imdenYana) | N/A |
+| 5 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
+| 6 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
+| 7 | [#SarıMelekler](http://twitter.com/search?q=%23Sar%c4%b1Melekler) | N/A |
 | 8 | [ERDOĞAN İÇİNİZDEN GEÇECEK](http://twitter.com/search?q=ERDO%c4%9eAN+%c4%b0%c3%87%c4%b0N%c4%b0ZDEN+GE%c3%87ECEK) | N/A |
-| 9 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 10 | [Djaniny](http://twitter.com/search?q=Djaniny) | N/A |
-| 11 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 12 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
-| 13 | [Son 6](http://twitter.com/search?q=Son+6) | N/A |
-| 14 | [Adnan Kahveci](http://twitter.com/search?q=Adnan+Kahveci) | N/A |
-| 15 | [İskilipli Atıf](http://twitter.com/search?q=%c4%b0skilipli+At%c4%b1f) | N/A |
-| 16 | [Gheorghe Hagi](http://twitter.com/search?q=Gheorghe+Hagi) | N/A |
-| 17 | [Bodrum](http://twitter.com/search?q=Bodrum) | N/A |
-| 18 | [Kürtleri](http://twitter.com/search?q=K%c3%bcrtleri) | N/A |
-| 19 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
-| 20 | [Haarp](http://twitter.com/search?q=Haarp) | N/A |
-| 21 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
-| 22 | [Saat 03.15](http://twitter.com/search?q=Saat+03.15) | N/A |
-| 23 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 24 | [SedatPeker YeniVideosu](http://twitter.com/search?q=SedatPeker+YeniVideosu) | SedatPeker YeniVideosu is a phrase in Turkish which translates to "SedatPeker's New Video". SedatPeker is a Turkish journalist and political commentator who has recently released a new video. |
-| 25 | [Türkiyeli](http://twitter.com/search?q=T%c3%bcrkiyeli) | N/A |
-| 26 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
-| 27 | [Bursa](http://twitter.com/search?q=Bursa) | N/A |
-| 28 | [Cem Karaca](http://twitter.com/search?q=Cem+Karaca) | N/A |
-| 29 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 30 | [Vatana](http://twitter.com/search?q=Vatana) | N/A |
-| 31 | [5 Şubat](http://twitter.com/search?q=5+%c5%9eubat) | N/A |
-| 32 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 33 | [Hain](http://twitter.com/search?q=Hain) | N/A |
-| 34 | [Ben Kemal Gidiyorum](http://twitter.com/search?q=Ben+Kemal+Gidiyorum) | N/A |
-| 35 | [#StajTorbaya](http://twitter.com/search?q=%23StajTorbaya) | N/A |
-| 36 | [#Afyonkarahisar](http://twitter.com/search?q=%23Afyonkarahisar) | N/A |
-| 37 | [#GSvTS](http://twitter.com/search?q=%23GSvTS) | N/A |
-| 38 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 39 | [#izmir](http://twitter.com/search?q=%23izmir) | N/A |
-| 40 | [#37YıldırBekliyoruz](http://twitter.com/search?q=%2337Y%c4%b1ld%c4%b1rBekliyoruz) | N/A |
-| 41 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 42 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
-| 43 | [#Laiklik](http://twitter.com/search?q=%23Laiklik) | N/A |
-| 44 | [#tugbaekinci](http://twitter.com/search?q=%23tugbaekinci) | N/A |
-| 45 | [#UzmÇvşaKadroHaktır](http://twitter.com/search?q=%23Uzm%c3%87v%c5%9faKadroHakt%c4%b1r) | N/A |
-| 46 | [#VatanBizeHaklarKime](http://twitter.com/search?q=%23VatanBizeHaklarKime) | N/A |
-| 47 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
-| 48 | [#UzmanÇavuşaMüjde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9faM%c3%bcjde) | N/A |
-| 49 | [#Diyarbakır](http://twitter.com/search?q=%23Diyarbak%c4%b1r) | N/A |
+| 9 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 10 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 11 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
+| 12 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 13 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
+| 14 | [Meliha](http://twitter.com/search?q=Meliha) | N/A |
+| 15 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 16 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 17 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
+| 18 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
+| 19 | [Tuğba Ekinci](http://twitter.com/search?q=Tu%c4%9fba+Ekinci) | N/A |
+| 20 | [Djaniny](http://twitter.com/search?q=Djaniny) | N/A |
+| 21 | [AFFET TÜRKİYEM](http://twitter.com/search?q=AFFET+T%c3%9cRK%c4%b0YEM) | N/A |
+| 22 | [İskilipli Atıf](http://twitter.com/search?q=%c4%b0skilipli+At%c4%b1f) | N/A |
+| 23 | [Sayın Valim](http://twitter.com/search?q=Say%c4%b1n+Valim) | N/A |
+| 24 | [Son 6](http://twitter.com/search?q=Son+6) | N/A |
+| 25 | [Adnan Kahveci](http://twitter.com/search?q=Adnan+Kahveci) | N/A |
+| 26 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
+| 27 | [Gheorghe Hagi](http://twitter.com/search?q=Gheorghe+Hagi) | N/A |
+| 28 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 29 | [Kürtleri](http://twitter.com/search?q=K%c3%bcrtleri) | N/A |
+| 30 | [Bodrum](http://twitter.com/search?q=Bodrum) | N/A |
+| 31 | [Türkiyeli](http://twitter.com/search?q=T%c3%bcrkiyeli) | N/A |
+| 32 | [Yapay](http://twitter.com/search?q=Yapay) | N/A |
+| 33 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
+| 34 | [Adil 100](http://twitter.com/search?q=Adil+100) | N/A |
+| 35 | [SedatPeker YeniVideosu](http://twitter.com/search?q=SedatPeker+YeniVideosu) | SedatPeker YeniVideosu is a phrase in Turkish which translates to "SedatPeker's New Video". SedatPeker is a Turkish journalist and political commentator who has recently released a new video. |
+| 36 | [Haarp](http://twitter.com/search?q=Haarp) | N/A |
+| 37 | [Hain](http://twitter.com/search?q=Hain) | N/A |
+| 38 | [Şapka](http://twitter.com/search?q=%c5%9eapka) | N/A |
+| 39 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
+| 40 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 41 | [Kuzey](http://twitter.com/search?q=Kuzey) | N/A |
+| 42 | [Okullar](http://twitter.com/search?q=Okullar) | N/A |
+| 43 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
+| 44 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 45 | [Bursa](http://twitter.com/search?q=Bursa) | N/A |
+| 46 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
+| 47 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
+| 48 | [Tatil](http://twitter.com/search?q=Tatil) | N/A |
+| 49 | [5 Şubat](http://twitter.com/search?q=5+%c5%9eubat) | N/A |
 
 
 
