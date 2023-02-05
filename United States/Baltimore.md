@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-02-05 05:16:55 UTC`
+📆 Last Updated: `2023-02-05 06:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 2 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 3 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
-| 4 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
-| 5 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | #Bellator290 is the name of a mixed martial arts event held by Bellator MMA, a professional MMA organization. The event took place on October 6, 2018 in Tel Aviv, Israel. The name is derived from the event's numerical designation (290) within the Bellator series. |
-| 6 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
-| 7 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
-| 8 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 9 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 10 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 11 | [SARAH PAULSON](http://twitter.com/search?q=SARAH+PAULSON) | N/A |
-| 12 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 13 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
-| 14 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
-| 15 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
-| 16 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 17 | [Erika Cruz](http://twitter.com/search?q=Erika+Cruz) | N/A |
-| 18 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 19 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 20 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 22 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 23 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 24 | [Chase U](http://twitter.com/search?q=Chase+U) | Chase U is a program offered by JPMorgan Chase Bank that provides financial education and resources to college students. The program aims to help students understand how to manage their money, build credit, and make informed financial decisions. The name "Chase U" is a play on the phrase "Choose You," emphasizing the importance of taking control of one's own financial future. |
-| 25 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
-| 26 | [Eblen](http://twitter.com/search?q=Eblen) | N/A |
-| 27 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 28 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 29 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
-| 30 | [Bowen Yang](http://twitter.com/search?q=Bowen+Yang) | N/A |
-| 31 | [Taira](http://twitter.com/search?q=Taira) | Taira is a Japanese surname. It is derived from the Japanese word for “rice field” and is often translated to mean “rice paddy” in English. The Taira clan was a powerful family during the Heian period of Japan, and many members of the clan held high positions in government and military. |
-| 32 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 33 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 34 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | N/A |
-| 35 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 36 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 37 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 38 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 39 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 40 | [Fitzsimmons](http://twitter.com/search?q=Fitzsimmons) | N/A |
-| 41 | [Bron Breakker](http://twitter.com/search?q=Bron+Breakker) | N/A |
-| 42 | [Pretty Deadly](http://twitter.com/search?q=Pretty+Deadly) | N/A |
-| 43 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 44 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 45 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
-| 46 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 47 | [Logan Johnson](http://twitter.com/search?q=Logan+Johnson) | N/A |
-| 48 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
-| 49 | [Grayson Waller](http://twitter.com/search?q=Grayson+Waller) | N/A |
+| 3 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 4 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
+| 5 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 6 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 7 | [Aidan Mahaney](http://twitter.com/search?q=Aidan+Mahaney) | Aidan Mahaney is a name of Irish origin. It is derived from the Gaelic name Aodhán, which means "little fire". |
+| 8 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 9 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 10 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
+| 11 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | #Bellator290 is the name of a mixed martial arts event held by Bellator MMA, a professional MMA organization. The event took place on October 6, 2018 in Tel Aviv, Israel. The name is derived from the event's numerical designation (290) within the Bellator series. |
+| 12 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
+| 13 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 14 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 15 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 16 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
+| 17 | [Sarah Paulson](http://twitter.com/search?q=Sarah+Paulson) | Sarah Paulson is an American actress. She is best known for her roles in the television series American Horror Story, The People v. O. J. Simpson: American Crime Story, and Ratched. She has also appeared in films such as 12 Years a Slave, Ocean's 8, and Runaway Bride. |
+| 18 | [#MadeInAbyss](http://twitter.com/search?q=%23MadeInAbyss) | N/A |
+| 19 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 20 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 21 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 22 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 23 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
+| 24 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 25 | [Gaels](http://twitter.com/search?q=Gaels) | N/A |
+| 26 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
+| 27 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
+| 28 | [Latif](http://twitter.com/search?q=Latif) | N/A |
+| 29 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
+| 30 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
+| 31 | [Wing Pit](http://twitter.com/search?q=Wing+Pit) | N/A |
+| 32 | [Erika Cruz](http://twitter.com/search?q=Erika+Cruz) | N/A |
+| 33 | [Jubli](http://twitter.com/search?q=Jubli) | N/A |
+| 34 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 35 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 36 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 37 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 38 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 39 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 40 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 41 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
+| 42 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 44 | [Moraga](http://twitter.com/search?q=Moraga) | N/A |
+| 45 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 46 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 47 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
+| 48 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
+| 49 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
 
 
 

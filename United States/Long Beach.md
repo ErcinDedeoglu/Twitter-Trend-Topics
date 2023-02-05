@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-05 05:16:58 UTC`
+📆 Last Updated: `2023-02-05 06:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
 | 2 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 3 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 4 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 5 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 6 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 7 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
-| 8 | [#ONEUSinLA](http://twitter.com/search?q=%23ONEUSinLA) | N/A |
-| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 10 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
-| 11 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 12 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 13 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 14 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 15 | [Cabin](http://twitter.com/search?q=Cabin) | N/A |
-| 16 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 17 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 18 | [P-22](http://twitter.com/search?q=P-22) | N/A |
-| 19 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 20 | [FanFest](http://twitter.com/search?q=FanFest) | N/A |
-| 21 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
-| 22 | [SARAH PAULSON](http://twitter.com/search?q=SARAH+PAULSON) | N/A |
-| 23 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 24 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 25 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 26 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
-| 27 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
-| 28 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
-| 29 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 30 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 31 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 32 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 33 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 34 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 35 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 36 | [Chase U](http://twitter.com/search?q=Chase+U) | Chase U is a program offered by JPMorgan Chase Bank that provides financial education and resources to college students. The program aims to help students understand how to manage their money, build credit, and make informed financial decisions. The name "Chase U" is a play on the phrase "Choose You," emphasizing the importance of taking control of one's own financial future. |
-| 37 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
-| 38 | [Eblen](http://twitter.com/search?q=Eblen) | N/A |
-| 39 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 40 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 41 | [Bowen Yang](http://twitter.com/search?q=Bowen+Yang) | N/A |
-| 42 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
-| 43 | [Taira](http://twitter.com/search?q=Taira) | Taira is a Japanese surname. It is derived from the Japanese word for “rice field” and is often translated to mean “rice paddy” in English. The Taira clan was a powerful family during the Heian period of Japan, and many members of the clan held high positions in government and military. |
-| 44 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 45 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | N/A |
-| 46 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 47 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 48 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 49 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 3 | [#ONEUSinLA](http://twitter.com/search?q=%23ONEUSinLA) | N/A |
+| 4 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 5 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 6 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
+| 7 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 8 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
+| 9 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 10 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 11 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 12 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 13 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 14 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 15 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 16 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 17 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 18 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 19 | [Cabin](http://twitter.com/search?q=Cabin) | N/A |
+| 20 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 21 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
+| 22 | [P-22](http://twitter.com/search?q=P-22) | N/A |
+| 23 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 24 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 25 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
+| 26 | [Aidan Mahaney](http://twitter.com/search?q=Aidan+Mahaney) | Aidan Mahaney is a name of Irish origin. It is derived from the Gaelic name Aodhán, which means "little fire". |
+| 27 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 28 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
+| 29 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 30 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 31 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 32 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
+| 33 | [Sarah Paulson](http://twitter.com/search?q=Sarah+Paulson) | Sarah Paulson is an American actress. She is best known for her roles in the television series American Horror Story, The People v. O. J. Simpson: American Crime Story, and Ratched. She has also appeared in films such as 12 Years a Slave, Ocean's 8, and Runaway Bride. |
+| 34 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 35 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 36 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 37 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 38 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
+| 39 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 40 | [Gaels](http://twitter.com/search?q=Gaels) | N/A |
+| 41 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
+| 42 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
+| 43 | [Latif](http://twitter.com/search?q=Latif) | N/A |
+| 44 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
+| 45 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
+| 46 | [Wing Pit](http://twitter.com/search?q=Wing+Pit) | N/A |
+| 47 | [Jubli](http://twitter.com/search?q=Jubli) | N/A |
+| 48 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 49 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-05 05:16:50 UTC`
+📆 Last Updated: `2023-02-05 06:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KashmirSolidarityDay](http://twitter.com/search?q=%23KashmirSolidarityDay) | N/A |
-| 2 | [#جیل_بھرو_تحریک](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88_%d8%aa%d8%ad%d8%b1%db%8c%da%a9) | N/A |
-| 3 | [#ولادت_مولاعلیؑ](http://twitter.com/search?q=%23%d9%88%d9%84%d8%a7%d8%af%d8%aa_%d9%85%d9%88%d9%84%d8%a7%d8%b9%d9%84%db%8c%d8%91) | N/A |
-| 4 | [#رلانے_والے_رو_پڑے](http://twitter.com/search?q=%23%d8%b1%d9%84%d8%a7%d9%86%db%92_%d9%88%d8%a7%d9%84%db%92_%d8%b1%d9%88_%d9%be%da%91%db%92) | N/A |
-| 5 | [#13Rajab](http://twitter.com/search?q=%2313Rajab) | N/A |
-| 6 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 7 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 8 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 11 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
-| 12 | [Kaaba](http://twitter.com/search?q=Kaaba) | N/A |
-| 13 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 14 | [Happy Birthday Bibi](http://twitter.com/search?q=Happy+Birthday+Bibi) | N/A |
-| 15 | [mrs. janet](http://twitter.com/search?q=mrs.+janet) | N/A |
-| 16 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
-| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 18 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 19 | [Khaybar](http://twitter.com/search?q=Khaybar) | N/A |
-| 20 | [mr sagar](http://twitter.com/search?q=mr+sagar) | N/A |
-| 21 | [Momineen](http://twitter.com/search?q=Momineen) | N/A |
-| 22 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
-| 23 | [Maula e Kainat](http://twitter.com/search?q=Maula+e+Kainat) | N/A |
-| 24 | [ahlebait](http://twitter.com/search?q=ahlebait) | N/A |
-| 25 | [Commander of the Faithful](http://twitter.com/search?q=Commander+of+the+Faithful) | N/A |
-| 26 | [Fakhar e Bani Adam](http://twitter.com/search?q=Fakhar+e+Bani+Adam) | N/A |
-| 27 | [Haider](http://twitter.com/search?q=Haider) | N/A |
-| 28 | [Hazrat Ali](http://twitter.com/search?q=Hazrat+Ali) | N/A |
-| 29 | [I-10](http://twitter.com/search?q=I-10) | N/A |
-| 30 | [Lion of Allah](http://twitter.com/search?q=Lion+of+Allah) | N/A |
-| 31 | [Pak Army](http://twitter.com/search?q=Pak+Army) | N/A |
-| 32 | [🇵🇰](http://twitter.com/search?q=%f0%9f%87%b5%f0%9f%87%b0) | N/A |
-| 33 | [Quetta](http://twitter.com/search?q=Quetta) | N/A |
+| 1 | [#PMShehbazForKashmir](http://twitter.com/search?q=%23PMShehbazForKashmir) | N/A |
+| 2 | [#PMShehbazForKashmir](http://twitter.com/search?q=%23PMShehbazForKashmir) | N/A |
+| 3 | [#جیل_بھرو_تحریک](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88_%d8%aa%d8%ad%d8%b1%db%8c%da%a9) | N/A |
+| 4 | [#ولادت_مولاعلیؑ](http://twitter.com/search?q=%23%d9%88%d9%84%d8%a7%d8%af%d8%aa_%d9%85%d9%88%d9%84%d8%a7%d8%b9%d9%84%db%8c%d8%91) | N/A |
+| 5 | [#PervezMusharraf](http://twitter.com/search?q=%23PervezMusharraf) | N/A |
+| 6 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 7 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 8 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 9 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 11 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
+| 12 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 13 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
+| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 15 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 16 | [Kaaba](http://twitter.com/search?q=Kaaba) | N/A |
+| 17 | [mrs. janet](http://twitter.com/search?q=mrs.+janet) | N/A |
+| 18 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
+| 19 | [Momineen](http://twitter.com/search?q=Momineen) | N/A |
+| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 21 | [Maula e Kainat](http://twitter.com/search?q=Maula+e+Kainat) | N/A |
+| 22 | [United Nations](http://twitter.com/search?q=United+Nations) | N/A |
+| 23 | [Fakhar e Bani Adam](http://twitter.com/search?q=Fakhar+e+Bani+Adam) | N/A |
+| 24 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 25 | [Balloon](http://twitter.com/search?q=Balloon) | N/A |
+| 26 | [Commander of the Faithful](http://twitter.com/search?q=Commander+of+the+Faithful) | N/A |
+| 27 | [Khaybar](http://twitter.com/search?q=Khaybar) | N/A |
+| 28 | [Lion of Allah](http://twitter.com/search?q=Lion+of+Allah) | N/A |
+| 29 | [Manzoor Pashteen](http://twitter.com/search?q=Manzoor+Pashteen) | N/A |
+| 30 | [Quetta](http://twitter.com/search?q=Quetta) | N/A |
+| 31 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 32 | [Bariah in the Torah](http://twitter.com/search?q=Bariah+in+the+Torah) | N/A |
+| 33 | [Bitreek by the Ethiopians](http://twitter.com/search?q=Bitreek+by+the+Ethiopians) | N/A |
 | 34 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 35 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
-| 36 | [Manzoor Pashteen](http://twitter.com/search?q=Manzoor+Pashteen) | N/A |
-| 37 | [United Nations](http://twitter.com/search?q=United+Nations) | N/A |
-| 38 | [Eid Mubarak](http://twitter.com/search?q=Eid+Mubarak) | N/A |
-| 39 | [The Indian](http://twitter.com/search?q=The+Indian) | N/A |
-| 40 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 41 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
-| 42 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
-| 43 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 44 | [Asif](http://twitter.com/search?q=Asif) | N/A |
-| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 46 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 47 | [Bariah in the Torah](http://twitter.com/search?q=Bariah+in+the+Torah) | N/A |
-| 48 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 49 | [May Almighty](http://twitter.com/search?q=May+Almighty) | N/A |
-| 50 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 35 | [Elia in the Bible](http://twitter.com/search?q=Elia+in+the+Bible) | N/A |
+| 36 | [Nopes](http://twitter.com/search?q=Nopes) | N/A |
+| 37 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 38 | [Bitrees by the Romans](http://twitter.com/search?q=Bitrees+by+the+Romans) | N/A |
+| 39 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 40 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 41 | [HUD HUD](http://twitter.com/search?q=HUD+HUD) | N/A |
+| 42 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
+| 43 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
+| 44 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
+| 45 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 46 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 47 | [Lolz](http://twitter.com/search?q=Lolz) | N/A |
+| 48 | [Imported](http://twitter.com/search?q=Imported) | N/A |
+| 49 | [Impossible](http://twitter.com/search?q=Impossible) | N/A |
+| 50 | [Confirm](http://twitter.com/search?q=Confirm) | N/A |
 
 
 
