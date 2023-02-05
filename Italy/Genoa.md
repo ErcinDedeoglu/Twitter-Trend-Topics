@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-04 23:16:10 UTC`
+📆 Last Updated: `2023-02-05 00:30:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
 | 2 | [#TaliEQuali](http://twitter.com/search?q=%23TaliEQuali) | N/A |
-| 3 | [#SassuoloAtalanta](http://twitter.com/search?q=%23SassuoloAtalanta) | N/A |
-| 4 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 5 | [#RomaEmpoli](http://twitter.com/search?q=%23RomaEmpoli) | N/A |
-| 6 | [#taleequaleshow](http://twitter.com/search?q=%23taleequaleshow) | N/A |
+| 3 | [#RomaEmpoli](http://twitter.com/search?q=%23RomaEmpoli) | N/A |
+| 4 | [#SassuoloAtalanta](http://twitter.com/search?q=%23SassuoloAtalanta) | N/A |
+| 5 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 6 | [#4febbraio](http://twitter.com/search?q=%234febbraio) | N/A |
 | 7 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 8 | [Graziana](http://twitter.com/search?q=Graziana) | N/A |
-| 9 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
-| 10 | [Ivan Graziani](http://twitter.com/search?q=Ivan+Graziani) | N/A |
-| 11 | [CIAO CUORE](http://twitter.com/search?q=CIAO+CUORE) | N/A |
-| 12 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 13 | [Riposto](http://twitter.com/search?q=Riposto) | N/A |
-| 14 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
-| 15 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 16 | [Tagliatelle](http://twitter.com/search?q=Tagliatelle) | N/A |
-| 17 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 18 | [Ligabue](http://twitter.com/search?q=Ligabue) | N/A |
-| 19 | [Paolantoni](http://twitter.com/search?q=Paolantoni) | N/A |
-| 20 | [Bocelli](http://twitter.com/search?q=Bocelli) | N/A |
-| 21 | [Cirilli](http://twitter.com/search?q=Cirilli) | N/A |
-| 22 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 23 | [Adele](http://twitter.com/search?q=Adele) | N/A |
-| 24 | [Malgy](http://twitter.com/search?q=Malgy) | N/A |
-| 25 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 26 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 27 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 28 | [Muriel](http://twitter.com/search?q=Muriel) | N/A |
-| 29 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
-| 30 | [Sailor Moon](http://twitter.com/search?q=Sailor+Moon) | N/A |
-| 31 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 32 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 33 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
-| 34 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 35 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 36 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
-| 37 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
-| 38 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 39 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
-| 40 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 41 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
-| 42 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
-| 43 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 44 | [Domenico](http://twitter.com/search?q=Domenico) | N/A |
-| 45 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 46 | [Carlo Conti](http://twitter.com/search?q=Carlo+Conti) | N/A |
-| 47 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
-| 48 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 49 | [Rosso](http://twitter.com/search?q=Rosso) | N/A |
-| 50 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 8 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 9 | [Ligabue](http://twitter.com/search?q=Ligabue) | N/A |
+| 10 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 11 | [Ivan Graziani](http://twitter.com/search?q=Ivan+Graziani) | N/A |
+| 12 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 13 | [Graziana](http://twitter.com/search?q=Graziana) | N/A |
+| 14 | [Ornella Vanoni](http://twitter.com/search?q=Ornella+Vanoni) | N/A |
+| 15 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 16 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 17 | [Riposto](http://twitter.com/search?q=Riposto) | N/A |
+| 18 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 19 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 20 | [Tagliatelle](http://twitter.com/search?q=Tagliatelle) | N/A |
+| 21 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
+| 22 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 23 | [Il Volo](http://twitter.com/search?q=Il+Volo) | N/A |
+| 24 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 25 | [Bocelli](http://twitter.com/search?q=Bocelli) | N/A |
+| 26 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 27 | [Adele](http://twitter.com/search?q=Adele) | N/A |
+| 28 | [Malgy](http://twitter.com/search?q=Malgy) | N/A |
+| 29 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 30 | [Cirilli](http://twitter.com/search?q=Cirilli) | N/A |
+| 31 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 32 | [Paolantoni](http://twitter.com/search?q=Paolantoni) | N/A |
+| 33 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 34 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 35 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 36 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
+| 37 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
+| 38 | [Muriel](http://twitter.com/search?q=Muriel) | N/A |
+| 39 | [Gabbia](http://twitter.com/search?q=Gabbia) | N/A |
+| 40 | [Maehle](http://twitter.com/search?q=Maehle) | N/A |
+| 41 | [Roy Paladini](http://twitter.com/search?q=Roy+Paladini) | N/A |
+| 42 | [Domenico](http://twitter.com/search?q=Domenico) | N/A |
+| 43 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 44 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 45 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 46 | [Sandulli](http://twitter.com/search?q=Sandulli) | N/A |
+| 47 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
+| 48 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 49 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 50 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
 
 
 

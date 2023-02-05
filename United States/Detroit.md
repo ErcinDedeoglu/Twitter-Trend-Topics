@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-04 23:16:37 UTC`
+📆 Last Updated: `2023-02-05 00:30:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 2 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 1 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 2 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
 | 3 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 4 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | #ChineseSpyBalloon is a hashtag used to refer to a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activity on the ground. The term is often used in a derogatory manner to criticize China's surveillance activities. |
+| 4 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
 | 5 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 6 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 7 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
-| 8 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
-| 9 | [#ShotDown](http://twitter.com/search?q=%23ShotDown) | N/A |
-| 10 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 11 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 12 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 13 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 14 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 15 | [#NHLAllStarGame](http://twitter.com/search?q=%23NHLAllStarGame) | N/A |
-| 16 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
-| 17 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 18 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 19 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 20 | [Dickie V](http://twitter.com/search?q=Dickie+V) | N/A |
-| 21 | [Tony Perkins](http://twitter.com/search?q=Tony+Perkins) | N/A |
-| 22 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 23 | [Assembly Hall](http://twitter.com/search?q=Assembly+Hall) | N/A |
-| 24 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 25 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 26 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
-| 27 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 28 | [AIM-9X](http://twitter.com/search?q=AIM-9X) | N/A |
-| 29 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 30 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 31 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
-| 32 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 33 | [Aleutian Islands](http://twitter.com/search?q=Aleutian+Islands) | N/A |
-| 34 | [Carolinas](http://twitter.com/search?q=Carolinas) | N/A |
-| 35 | [Rocket Can](http://twitter.com/search?q=Rocket+Can) | N/A |
-| 36 | [Bigg K](http://twitter.com/search?q=Bigg+K) | N/A |
-| 37 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
-| 38 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 39 | [Brian Schottenheimer](http://twitter.com/search?q=Brian+Schottenheimer) | N/A |
-| 40 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
-| 41 | [Kaleb Banks](http://twitter.com/search?q=Kaleb+Banks) | N/A |
-| 42 | [Tulane](http://twitter.com/search?q=Tulane) | Tulane is the name of a private research university located in New Orleans, Louisiana. The university was founded in 1834 and is named after philanthropist Paul Tulane. The name Tulane is derived from the French word tournelle, which means "little tower". |
-| 43 | [JOIN THE CULT](http://twitter.com/search?q=JOIN+THE+CULT) | N/A |
-| 44 | [Wendell Green](http://twitter.com/search?q=Wendell+Green) | N/A |
-| 45 | [Mission Accomplished](http://twitter.com/search?q=Mission+Accomplished) | N/A |
-| 46 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 47 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 48 | [Milley](http://twitter.com/search?q=Milley) | N/A |
-| 49 | [Cairo Consort](http://twitter.com/search?q=Cairo+Consort) | N/A |
-| 50 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 6 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
+| 7 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 8 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | #ChineseSpyBalloon is a hashtag used to refer to a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activity on the ground. The term is often used in a derogatory manner to criticize China's surveillance activities. |
+| 9 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 10 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 11 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 12 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
+| 13 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 14 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
+| 15 | [#ShotDown](http://twitter.com/search?q=%23ShotDown) | N/A |
+| 16 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 17 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | N/A |
+| 18 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 19 | [Bigg K](http://twitter.com/search?q=Bigg+K) | N/A |
+| 20 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
+| 21 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 22 | [Ty Gibbs](http://twitter.com/search?q=Ty+Gibbs) | N/A |
+| 23 | [Nance](http://twitter.com/search?q=Nance) | N/A |
+| 24 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 25 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 26 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | N/A |
+| 27 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 28 | [Assembly Hall](http://twitter.com/search?q=Assembly+Hall) | N/A |
+| 29 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
+| 30 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 31 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 32 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
+| 33 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
+| 34 | [Dashy](http://twitter.com/search?q=Dashy) | Dashy is a slang term used to describe someone or something that is cool, stylish, or fashionable. It can also be used to describe someone who is confident and outgoing. |
+| 35 | [Lively](http://twitter.com/search?q=Lively) | N/A |
+| 36 | [Dickie V](http://twitter.com/search?q=Dickie+V) | N/A |
+| 37 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 38 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 39 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 40 | [AIM-9X](http://twitter.com/search?q=AIM-9X) | N/A |
+| 41 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 42 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
+| 43 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 44 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 45 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
+| 46 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
+| 47 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
+| 48 | [Aleutian Islands](http://twitter.com/search?q=Aleutian+Islands) | N/A |
+| 49 | [Mike Woodson](http://twitter.com/search?q=Mike+Woodson) | N/A |
+| 50 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
 
 
 

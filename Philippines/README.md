@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-04 23:16:51 UTC`
+📆 Last Updated: `2023-02-05 00:30:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Philippines
 | 4 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
 | 5 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
 | 6 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 7 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 8 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
-| 9 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 10 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 11 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
-| 12 | [roommate fb series](http://twitter.com/search?q=roommate+fb+series) | N/A |
-| 13 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 14 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 15 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 16 | [srr 2nd win](http://twitter.com/search?q=srr+2nd+win) | N/A |
-| 17 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
-| 18 | [v1nci on top](http://twitter.com/search?q=v1nci+on+top) | N/A |
-| 19 | [marcus roadto top7](http://twitter.com/search?q=marcus+roadto+top7) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [creamline](http://twitter.com/search?q=creamline) | N/A |
-| 22 | [showtimeonlineu with zacham](http://twitter.com/search?q=showtimeonlineu+with+zacham) | N/A |
-| 23 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 24 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
-| 25 | [vinster better together](http://twitter.com/search?q=vinster+better+together) | N/A |
-| 26 | [seated for reyster](http://twitter.com/search?q=seated+for+reyster) | N/A |
+| 7 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 8 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 9 | [KINJI FEBlossoms ON ASAP](http://twitter.com/search?q=KINJI+FEBlossoms+ON+ASAP) | N/A |
+| 10 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
+| 11 | [D5 THE VEST FIT](http://twitter.com/search?q=D5+THE+VEST+FIT) | N/A |
+| 12 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
+| 13 | [roommate fb series](http://twitter.com/search?q=roommate+fb+series) | N/A |
+| 14 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 15 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 16 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 17 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 18 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 19 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
+| 20 | [marcus roadto top7](http://twitter.com/search?q=marcus+roadto+top7) | N/A |
+| 21 | [srr 2nd win](http://twitter.com/search?q=srr+2nd+win) | N/A |
+| 22 | [v1nci on top](http://twitter.com/search?q=v1nci+on+top) | N/A |
+| 23 | [showtimeonlineu with zacham](http://twitter.com/search?q=showtimeonlineu+with+zacham) | N/A |
+| 24 | [creamline](http://twitter.com/search?q=creamline) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [vinster better together](http://twitter.com/search?q=vinster+better+together) | N/A |
 | 27 | [zacham tcobarkadahan](http://twitter.com/search?q=zacham+tcobarkadahan) | N/A |
-| 28 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 29 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
-| 30 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 31 | [we dreilive in you](http://twitter.com/search?q=we+dreilive+in+you) | N/A |
-| 32 | [madzilla](http://twitter.com/search?q=madzilla) | N/A |
-| 33 | [isa molde](http://twitter.com/search?q=isa+molde) | N/A |
-| 34 | [COMPLEX EP OUT NOW](http://twitter.com/search?q=COMPLEX+EP+OUT+NOW) | "COMPLEX EP OUT NOW" is a phrase used to announce the release of an EP (Extended Play) album. It means that the EP is now available for purchase or streaming. |
-| 35 | [kyleready ontop](http://twitter.com/search?q=kyleready+ontop) | N/A |
-| 36 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 37 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 38 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 39 | [MNL48 ON AKBGroup CircleJam](http://twitter.com/search?q=MNL48+ON+AKBGroup+CircleJam) | N/A |
-| 40 | [Sunghoon](http://twitter.com/search?q=Sunghoon) | N/A |
-| 41 | [LET JEROMY DEBUT](http://twitter.com/search?q=LET+JEROMY+DEBUT) | N/A |
-| 42 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 43 | [josh l](http://twitter.com/search?q=josh+l) | N/A |
-| 44 | [Khun Neung](http://twitter.com/search?q=Khun+Neung) | N/A |
-| 45 | [PNVF](http://twitter.com/search?q=PNVF) | N/A |
-| 46 | [ABS-CBN](http://twitter.com/search?q=ABS-CBN) | N/A |
-| 47 | [JUNGMO](http://twitter.com/search?q=JUNGMO) | N/A |
-| 48 | [Panpan](http://twitter.com/search?q=Panpan) | N/A |
-| 49 | [FOUREVER WITH ASAHI](http://twitter.com/search?q=FOUREVER+WITH+ASAHI) | N/A |
-| 50 | [Willie](http://twitter.com/search?q=Willie) | N/A |
+| 28 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
+| 29 | [ABS CBN](http://twitter.com/search?q=ABS+CBN) | N/A |
+| 30 | [SEATED FOR REYSTER](http://twitter.com/search?q=SEATED+FOR+REYSTER) | N/A |
+| 31 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
+| 32 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 33 | [aysus anjbrent](http://twitter.com/search?q=aysus+anjbrent) | N/A |
+| 34 | [kyleready ontop](http://twitter.com/search?q=kyleready+ontop) | N/A |
+| 35 | [we dreilive in you](http://twitter.com/search?q=we+dreilive+in+you) | N/A |
+| 36 | [LET JEROMY DEBUT](http://twitter.com/search?q=LET+JEROMY+DEBUT) | N/A |
+| 37 | [madzilla](http://twitter.com/search?q=madzilla) | N/A |
+| 38 | [isa molde](http://twitter.com/search?q=isa+molde) | N/A |
+| 39 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 40 | [dindin](http://twitter.com/search?q=dindin) | N/A |
+| 41 | [foureverpangga djkara](http://twitter.com/search?q=foureverpangga+djkara) | N/A |
+| 42 | [mnl48 on akbgroup circlejam](http://twitter.com/search?q=mnl48+on+akbgroup+circlejam) | N/A |
+| 43 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 44 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 45 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 46 | [Willie](http://twitter.com/search?q=Willie) | N/A |
+| 47 | [kim ng for top16](http://twitter.com/search?q=kim+ng+for+top16) | N/A |
+| 48 | [FOUREVER WITH ASAHI](http://twitter.com/search?q=FOUREVER+WITH+ASAHI) | N/A |
+| 49 | [Khun Neung](http://twitter.com/search?q=Khun+Neung) | N/A |
+| 50 | [SUNGHOON](http://twitter.com/search?q=SUNGHOON) | N/A |
 
 
 
