@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-02-05 15:17:29 UTC`
+📆 Last Updated: `2023-02-05 16:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Flokirium](http://twitter.com/search?q=%23Flokirium) | #Flokirium is a hashtag used to promote the use of the Flokirium app, which is an online platform that allows users to create and share their own digital content. The word "Flokirium" is derived from the Latin words "floccus" (meaning "a flock") and "kiri" (meaning "to create"). The hashtag is used to encourage users to create and share their own content, as well as to discover new content created by others. |
-| 2 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 3 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 4 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 5 | [marzia](http://twitter.com/search?q=marzia) | N/A |
-| 6 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 7 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 8 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 9 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 10 | [#nationalweatherpersonsday](http://twitter.com/search?q=%23nationalweatherpersonsday) | N/A |
-| 11 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 12 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 13 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 14 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 16 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 17 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | N/A |
-| 18 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
-| 19 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 20 | [Koch](http://twitter.com/search?q=Koch) | N/A |
-| 21 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
-| 22 | [Pineapple Express](http://twitter.com/search?q=Pineapple+Express) | N/A |
-| 23 | [Milley](http://twitter.com/search?q=Milley) | N/A |
-| 24 | [Wages](http://twitter.com/search?q=Wages) | N/A |
-| 25 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 26 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 27 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 28 | [Blazing Saddles](http://twitter.com/search?q=Blazing+Saddles) | N/A |
-| 29 | [Trayvon Martin](http://twitter.com/search?q=Trayvon+Martin) | N/A |
-| 30 | [40 Year Old Virgin](http://twitter.com/search?q=40+Year+Old+Virgin) | N/A |
-| 31 | [Step Brothers](http://twitter.com/search?q=Step+Brothers) | N/A |
-| 32 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 33 | [Trump Administration](http://twitter.com/search?q=Trump+Administration) | N/A |
-| 34 | [Happy Lantern Festival](http://twitter.com/search?q=Happy+Lantern+Festival) | N/A |
-| 35 | [THREE TIMES](http://twitter.com/search?q=THREE+TIMES) | N/A |
-| 36 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 37 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 38 | [Dragon Age](http://twitter.com/search?q=Dragon+Age) | N/A |
-| 39 | [Ask Trump](http://twitter.com/search?q=Ask+Trump) | N/A |
-| 40 | [Was Trump](http://twitter.com/search?q=Was+Trump) | N/A |
-| 41 | [Esper](http://twitter.com/search?q=Esper) | N/A |
-| 42 | [Journey](http://twitter.com/search?q=Journey) | N/A |
-| 43 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | Derrick Lewis is an American professional mixed martial artist and former heavyweight champion of the Ultimate Fighting Championship (UFC). His nickname is "The Black Beast". He is known for his aggressive fighting style and knockout power. |
-| 44 | [Ted Williams](http://twitter.com/search?q=Ted+Williams) | N/A |
-| 45 | [Hopeful](http://twitter.com/search?q=Hopeful) | N/A |
-| 46 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 47 | [Steven Universe](http://twitter.com/search?q=Steven+Universe) | N/A |
-| 48 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 1 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 2 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 3 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 4 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 5 | [marzia](http://twitter.com/search?q=marzia) | Marzia is an Italian female given name. It is derived from the Latin word "Martia", which means "dedicated to Mars". In English, it can be translated to mean "dedicated to Mars". |
+| 6 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 7 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 8 | [#nationalweatherpersonsday](http://twitter.com/search?q=%23nationalweatherpersonsday) | N/A |
+| 9 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
+| 10 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 11 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | N/A |
+| 12 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 13 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 14 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
+| 15 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 16 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 17 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 18 | [Wages](http://twitter.com/search?q=Wages) | N/A |
+| 19 | [Koch](http://twitter.com/search?q=Koch) | N/A |
+| 20 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 21 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 22 | [Milley](http://twitter.com/search?q=Milley) | N/A |
+| 23 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 24 | [Trump Administration](http://twitter.com/search?q=Trump+Administration) | N/A |
+| 25 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 26 | [Trayvon Martin](http://twitter.com/search?q=Trayvon+Martin) | N/A |
+| 27 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
+| 28 | [Step Brothers](http://twitter.com/search?q=Step+Brothers) | N/A |
+| 29 | [Talladega Nights](http://twitter.com/search?q=Talladega+Nights) | N/A |
+| 30 | [Blazing Saddles](http://twitter.com/search?q=Blazing+Saddles) | N/A |
+| 31 | [Pineapple Express](http://twitter.com/search?q=Pineapple+Express) | N/A |
+| 32 | [Alycia Parks](http://twitter.com/search?q=Alycia+Parks) | N/A |
+| 33 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 34 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 35 | [40 Year Old Virgin](http://twitter.com/search?q=40+Year+Old+Virgin) | N/A |
+| 36 | [Esper](http://twitter.com/search?q=Esper) | N/A |
+| 37 | [THREE TIMES](http://twitter.com/search?q=THREE+TIMES) | N/A |
+| 38 | [Mike Turner](http://twitter.com/search?q=Mike+Turner) | N/A |
+| 39 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
+| 40 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 41 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 42 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
+| 43 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 44 | [My Sunday](http://twitter.com/search?q=My+Sunday) | N/A |
+| 45 | [Dragon Age](http://twitter.com/search?q=Dragon+Age) | N/A |
+| 46 | [For God](http://twitter.com/search?q=For+God) | N/A |
+| 47 | [Unnamed](http://twitter.com/search?q=Unnamed) | N/A |
+| 48 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
 
 
 

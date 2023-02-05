@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-05 15:17:41 UTC`
+📆 Last Updated: `2023-02-05 16:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [#LPOMIE](http://twitter.com/search?q=%23LPOMIE) | N/A |
 | 2 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 3 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
-| 4 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 5 | [spezii](http://twitter.com/search?q=spezii) | N/A |
-| 6 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 7 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 8 | [#RADSTM](http://twitter.com/search?q=%23RADSTM) | N/A |
-| 9 | [Viniciusa](http://twitter.com/search?q=Viniciusa) | N/A |
-| 10 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 11 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
-| 12 | [Drągowski](http://twitter.com/search?q=Dr%c4%85gowski) | N/A |
-| 13 | [Realu](http://twitter.com/search?q=Realu) | N/A |
-| 14 | [Szymczak](http://twitter.com/search?q=Szymczak) | N/A |
-| 15 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 16 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 17 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 18 | [radomiaka](http://twitter.com/search?q=radomiaka) | N/A |
-| 19 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 20 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 21 | [Bemowie](http://twitter.com/search?q=Bemowie) | N/A |
-| 22 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 23 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
-| 24 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 25 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 26 | [Patriot](http://twitter.com/search?q=Patriot) | Patriot is a person who loves, supports, and defends their country and its interests with devotion. It is derived from the Latin word patria, which means "homeland". |
-| 27 | [Mallorki](http://twitter.com/search?q=Mallorki) | N/A |
-| 28 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 29 | [marzia](http://twitter.com/search?q=marzia) | N/A |
-| 30 | [Mrozek](http://twitter.com/search?q=Mrozek) | N/A |
-| 31 | [Sochaczewa](http://twitter.com/search?q=Sochaczewa) | N/A |
-| 32 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 33 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
-| 34 | [Stalą](http://twitter.com/search?q=Stal%c4%85) | N/A |
-| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 36 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
-| 37 | [Jakub Wolny](http://twitter.com/search?q=Jakub+Wolny) | N/A |
-| 38 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 39 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 40 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 41 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 42 | [Węgrowem](http://twitter.com/search?q=W%c4%99growem) | N/A |
-| 43 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
-| 44 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 45 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
-| 46 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 47 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 48 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
-| 49 | [rakiem](http://twitter.com/search?q=rakiem) | N/A |
-| 50 | [Agaton](http://twitter.com/search?q=Agaton) | N/A |
+| 3 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 4 | [Szymczak](http://twitter.com/search?q=Szymczak) | N/A |
+| 5 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
+| 6 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 7 | [Simon Ammann](http://twitter.com/search?q=Simon+Ammann) | N/A |
+| 8 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 9 | [#RCDMallorcaRealMadrid](http://twitter.com/search?q=%23RCDMallorcaRealMadrid) | N/A |
+| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 11 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 13 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 14 | [radomiaka](http://twitter.com/search?q=radomiaka) | N/A |
+| 15 | [Realu](http://twitter.com/search?q=Realu) | N/A |
+| 16 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 17 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 18 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
+| 19 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 20 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
+| 21 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 22 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 23 | [Granerud](http://twitter.com/search?q=Granerud) | N/A |
+| 24 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 25 | [Stocha](http://twitter.com/search?q=Stocha) | N/A |
+| 26 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
+| 27 | [marzia](http://twitter.com/search?q=marzia) | Marzia is an Italian female given name. It is derived from the Latin word "Martia", which means "dedicated to Mars". In English, it can be translated to mean "dedicated to Mars". |
+| 28 | [Sevillą](http://twitter.com/search?q=Sevill%c4%85) | N/A |
+| 29 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 30 | [Marchewa](http://twitter.com/search?q=Marchewa) | N/A |
+| 31 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 32 | [Mallorki](http://twitter.com/search?q=Mallorki) | N/A |
+| 33 | [Patriot](http://twitter.com/search?q=Patriot) | Patriot is a person who loves, supports, and defends their country and its interests with devotion. It is derived from the Latin word patria, which means "homeland". |
+| 34 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 35 | [Jakub Wolny](http://twitter.com/search?q=Jakub+Wolny) | N/A |
+| 36 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 38 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 39 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 40 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
+| 41 | [Bemowie](http://twitter.com/search?q=Bemowie) | N/A |
+| 42 | [Kolejorza](http://twitter.com/search?q=Kolejorza) | N/A |
+| 43 | [Kubacki](http://twitter.com/search?q=Kubacki) | N/A |
+| 44 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 45 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
+| 46 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 47 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
+| 48 | [Madrycie](http://twitter.com/search?q=Madrycie) | N/A |
+| 49 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 50 | [rakiem](http://twitter.com/search?q=rakiem) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-05 15:17:04 UTC`
+📆 Last Updated: `2023-02-05 16:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 2 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 4 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 5 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
-| 6 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 7 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
-| 8 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 9 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 10 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 11 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 12 | [Ausencio](http://twitter.com/search?q=Ausencio) | N/A |
-| 13 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
-| 14 | [#MALRMA](http://twitter.com/search?q=%23MALRMA) | N/A |
-| 15 | [Rajkovic](http://twitter.com/search?q=Rajkovic) | N/A |
-| 16 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 17 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
-| 18 | [Castilla](http://twitter.com/search?q=Castilla) | N/A |
-| 19 | [Hdez Hdez](http://twitter.com/search?q=Hdez+Hdez) | N/A |
-| 20 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 1 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 2 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 3 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 4 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 5 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 6 | [Raillo](http://twitter.com/search?q=Raillo) | Raillo is a Spanish word that means "rail" or "railway". It is used to refer to a railway line or track. |
+| 7 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 8 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 9 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
+| 10 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 11 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 12 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 13 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 14 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 15 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 16 | [#KingsLeaguej5](http://twitter.com/search?q=%23KingsLeaguej5) | N/A |
+| 17 | [Lato](http://twitter.com/search?q=Lato) | Lato is a sans-serif typeface designed by Łukasz Dziedzic in 2010. It is a humanist typeface, meaning it has a more organic, calligraphic feel than other sans-serifs. The name Lato comes from the Polish word for "summer". |
+| 18 | [Guillamon](http://twitter.com/search?q=Guillamon) | N/A |
+| 19 | [Keira](http://twitter.com/search?q=Keira) | N/A |
+| 20 | [Mamardashvili](http://twitter.com/search?q=Mamardashvili) | Mamardashvili is a Georgian surname. It is derived from the Georgian word mamarda, which means "wise man". In English, the name can be translated to mean "wise man of the family". |
 | 21 | [#Hoogerheide2023](http://twitter.com/search?q=%23Hoogerheide2023) | N/A |
-| 22 | [Uzuni](http://twitter.com/search?q=Uzuni) | N/A |
-| 23 | [Ficticius](http://twitter.com/search?q=Ficticius) | N/A |
-| 24 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
-| 25 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
-| 26 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
-| 27 | [#KingsLeaguej5](http://twitter.com/search?q=%23KingsLeaguej5) | N/A |
-| 28 | [#Solos5F](http://twitter.com/search?q=%23Solos5F) | N/A |
-| 29 | [Dani Rodríguez](http://twitter.com/search?q=Dani+Rodr%c3%adguez) | N/A |
-| 30 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 31 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 32 | [Fede Valverde](http://twitter.com/search?q=Fede+Valverde) | N/A |
-| 33 | [Penalti](http://twitter.com/search?q=Penalti) | N/A |
-| 34 | [Galarreta](http://twitter.com/search?q=Galarreta) | N/A |
-| 35 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 36 | [La Cerámica](http://twitter.com/search?q=La+Cer%c3%a1mica) | La Cerámica is a type of pottery or ceramic art that originated in Spain. It is characterized by its bright colors, intricate designs, and unique shapes. The term "La Cerámica" literally translates to "the ceramic" in English. |
-| 37 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 38 | [Mundialito](http://twitter.com/search?q=Mundialito) | N/A |
-| 39 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 40 | [Obrador](http://twitter.com/search?q=Obrador) | N/A |
-| 41 | [Palau](http://twitter.com/search?q=Palau) | N/A |
-| 42 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 43 | [Saras](http://twitter.com/search?q=Saras) | N/A |
-| 44 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 45 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
-| 46 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 47 | [Rajoy](http://twitter.com/search?q=Rajoy) | N/A |
-| 48 | [Unionistas](http://twitter.com/search?q=Unionistas) | N/A |
-| 49 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
+| 22 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 23 | [Ausencio](http://twitter.com/search?q=Ausencio) | N/A |
+| 24 | [#GironaValencia](http://twitter.com/search?q=%23GironaValencia) | N/A |
+| 25 | [#MALRMA](http://twitter.com/search?q=%23MALRMA) | N/A |
+| 26 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 27 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 28 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 29 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 30 | [Rajkovic](http://twitter.com/search?q=Rajkovic) | N/A |
+| 31 | [Castilla](http://twitter.com/search?q=Castilla) | N/A |
+| 32 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
+| 33 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 34 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
+| 35 | [Raúl Fernández](http://twitter.com/search?q=Ra%c3%bal+Fern%c3%a1ndez) | N/A |
+| 36 | [Ficticius](http://twitter.com/search?q=Ficticius) | N/A |
+| 37 | [El Girona](http://twitter.com/search?q=El+Girona) | N/A |
+| 38 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 39 | [Mundialito](http://twitter.com/search?q=Mundialito) | N/A |
+| 40 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
+| 41 | [Hdez Hdez](http://twitter.com/search?q=Hdez+Hdez) | N/A |
+| 42 | [Uzuni](http://twitter.com/search?q=Uzuni) | N/A |
+| 43 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 44 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 45 | [Rüdiger](http://twitter.com/search?q=R%c3%bcdiger) | N/A |
+| 46 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 47 | [Galarreta](http://twitter.com/search?q=Galarreta) | N/A |
+| 48 | [Granada](http://twitter.com/search?q=Granada) | N/A |
+| 49 | [Montilivi](http://twitter.com/search?q=Montilivi) | N/A |
 
 
 
