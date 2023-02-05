@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-05 21:17:10 UTC`
+📆 Last Updated: `2023-02-05 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [#کشمیروفلسطین_بزورشمشیر](http://twitter.com/search?q=%23%da%a9%d8%b4%d9%85%db%8c%d8%b1%d9%88%d9%81%d9%84%d8%b3%d8%b7%db%8c%d9%86_%d8%a8%d8%b2%d9%88%d8%b1%d8%b4%d9%85%d8%b4%db%8c%d8%b1) | N/A |
 | 7 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
 | 8 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
-| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 10 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 11 | [6 sixes](http://twitter.com/search?q=6+sixes) | N/A |
-| 12 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 13 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
-| 14 | [STOP ATTACKING PAKIMYS](http://twitter.com/search?q=STOP+ATTACKING+PAKIMYS) | N/A |
-| 15 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 16 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 17 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 18 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
-| 19 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 9 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 10 | [Atif](http://twitter.com/search?q=Atif) | N/A |
+| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 12 | [6 sixes](http://twitter.com/search?q=6+sixes) | N/A |
+| 13 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 14 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
+| 15 | [STOP ATTACKING PAKIMYS](http://twitter.com/search?q=STOP+ATTACKING+PAKIMYS) | N/A |
+| 16 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 17 | [hasnain](http://twitter.com/search?q=hasnain) | N/A |
+| 18 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 19 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
 | 20 | [Chacha](http://twitter.com/search?q=Chacha) | N/A |
 | 21 | [NRO 1](http://twitter.com/search?q=NRO+1) | N/A |
-| 22 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
-| 23 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
-| 24 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
-| 25 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 26 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 27 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 29 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
-| 30 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
-| 31 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
-| 32 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
-| 33 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 34 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 35 | [Adele](http://twitter.com/search?q=Adele) | N/A |
-| 36 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 37 | [NO MORE](http://twitter.com/search?q=NO+MORE) | N/A |
-| 38 | [Dollar](http://twitter.com/search?q=Dollar) | N/A |
-| 39 | [Great Leader](http://twitter.com/search?q=Great+Leader) | N/A |
-| 40 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 41 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 42 | [Chill](http://twitter.com/search?q=Chill) | N/A |
-| 43 | [Atif](http://twitter.com/search?q=Atif) | N/A |
-| 44 | [Insta](http://twitter.com/search?q=Insta) | N/A |
-| 45 | [Lisha](http://twitter.com/search?q=Lisha) | N/A |
-| 46 | [International](http://twitter.com/search?q=International) | N/A |
-| 47 | [Baat](http://twitter.com/search?q=Baat) | N/A |
-| 48 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 49 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 50 | [THE BEST](http://twitter.com/search?q=THE+BEST) | N/A |
+| 22 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 24 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 26 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
+| 29 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 30 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 31 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
+| 32 | [Dollar](http://twitter.com/search?q=Dollar) | N/A |
+| 33 | [Great Leader](http://twitter.com/search?q=Great+Leader) | N/A |
+| 34 | [Proff](http://twitter.com/search?q=Proff) | N/A |
+| 35 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 36 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
+| 37 | [London](http://twitter.com/search?q=London) | N/A |
+| 38 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 39 | [Popular](http://twitter.com/search?q=Popular) | N/A |
+| 40 | [insta](http://twitter.com/search?q=insta) | N/A |
+| 41 | [Adele](http://twitter.com/search?q=Adele) | N/A |
+| 42 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 43 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 44 | [Baat](http://twitter.com/search?q=Baat) | N/A |
+| 45 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 46 | [THE BEST](http://twitter.com/search?q=THE+BEST) | N/A |
+| 47 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 48 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 49 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 50 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
 
 
 

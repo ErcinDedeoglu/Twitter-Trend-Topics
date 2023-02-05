@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-05 21:16:51 UTC`
+📆 Last Updated: `2023-02-05 22:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ACAFCN](http://twitter.com/search?q=%23ACAFCN) | N/A |
-| 2 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
-| 3 | [#OMOGCN](http://twitter.com/search?q=%23OMOGCN) | #OMOGCN stands for "One Million Orphans of God Children's Network," an organization that provides support and resources to orphans and vulnerable children in developing countries. The organization works to provide education, healthcare, nutrition, and other essential services to children in need. |
-| 4 | [#OMNICE](http://twitter.com/search?q=%23OMNICE) | N/A |
-| 5 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 6 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 7 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 8 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 9 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 10 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 11 | [Tudor](http://twitter.com/search?q=Tudor) | N/A |
-| 12 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
-| 13 | [Pau Lopez](http://twitter.com/search?q=Pau+Lopez) | N/A |
-| 14 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 15 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 16 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
-| 17 | [#LGBTQIANewArea](http://twitter.com/search?q=%23LGBTQIANewArea) | N/A |
-| 18 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 19 | [Diop](http://twitter.com/search?q=Diop) | N/A |
-| 20 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 21 | [Digard](http://twitter.com/search?q=Digard) | N/A |
-| 22 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 23 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 24 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 25 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 26 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 27 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 28 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 29 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 30 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
-| 31 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 32 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 33 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 34 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 35 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 36 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
-| 37 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
-| 38 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 39 | [Melvin Bard](http://twitter.com/search?q=Melvin+Bard) | N/A |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [Ruslan](http://twitter.com/search?q=Ruslan) | N/A |
-| 42 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 43 | [Sheo](http://twitter.com/search?q=Sheo) | N/A |
-| 44 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
+| 2 | [#OMOGCN](http://twitter.com/search?q=%23OMOGCN) | #OMOGCN stands for "One Million Orphans of God Children's Network," an organization that provides support and resources to orphans and vulnerable children in developing countries. The organization works to provide education, healthcare, nutrition, and other essential services to children in need. |
+| 3 | [Payet](http://twitter.com/search?q=Payet) | Payet is a French surname. It is derived from the Old French word "paie," which means "payment." In English, it can be translated to mean "one who pays." |
+| 4 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 5 | [#OMNICE](http://twitter.com/search?q=%23OMNICE) | N/A |
+| 6 | [Brahimi](http://twitter.com/search?q=Brahimi) | N/A |
+| 7 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 8 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 9 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 10 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 11 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 12 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 13 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
+| 14 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
+| 15 | [Digard](http://twitter.com/search?q=Digard) | N/A |
+| 16 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 17 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 18 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 19 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 20 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 21 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 22 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 23 | [Pau Lopez](http://twitter.com/search?q=Pau+Lopez) | N/A |
+| 24 | [Vélodrome](http://twitter.com/search?q=V%c3%a9lodrome) | N/A |
+| 25 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 26 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
+| 27 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 28 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
+| 29 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 30 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 31 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 32 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 33 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 34 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 35 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 36 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 37 | [Niçois](http://twitter.com/search?q=Ni%c3%a7ois) | N/A |
+| 38 | [Diop](http://twitter.com/search?q=Diop) | N/A |
+| 39 | [Merci Nice](http://twitter.com/search?q=Merci+Nice) | N/A |
+| 40 | [Clim](http://twitter.com/search?q=Clim) | N/A |
+| 41 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 42 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 43 | [Melvin Bard](http://twitter.com/search?q=Melvin+Bard) | N/A |
+| 44 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
 | 45 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 46 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
-| 47 | [Photon](http://twitter.com/search?q=Photon) | N/A |
-| 48 | [Lotomba](http://twitter.com/search?q=Lotomba) | N/A |
-| 49 | [Niçois](http://twitter.com/search?q=Ni%c3%a7ois) | N/A |
+| 46 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 47 | [ALLEZ L'OM](http://twitter.com/search?q=ALLEZ+L%27OM) | N/A |
+| 48 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 49 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-05 21:17:27 UTC`
+📆 Last Updated: `2023-02-05 22:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 2 | [#AttackOnBangtanToNo1](http://twitter.com/search?q=%23AttackOnBangtanToNo1) | N/A |
-| 3 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
-| 4 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 5 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
-| 6 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 7 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 8 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 9 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | #ProBowlGames is a hashtag used on social media to refer to the annual National Football League (NFL) all-star game, the Pro Bowl. The Pro Bowl is an exhibition game featuring the best players from the NFL's two conferences, the American Football Conference (AFC) and the National Football Conference (NFC). |
-| 10 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 11 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 12 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
-| 13 | [Meritao](http://twitter.com/search?q=Meritao) | N/A |
-| 14 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 15 | [Carta Magna](http://twitter.com/search?q=Carta+Magna) | N/A |
-| 16 | [#CiudadChingona](http://twitter.com/search?q=%23CiudadChingona) | N/A |
-| 17 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 18 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 19 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
-| 20 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 21 | [Puente de Ixtla](http://twitter.com/search?q=Puente+de+Ixtla) | N/A |
-| 22 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 23 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
-| 24 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 25 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
-| 26 | [Dinneno](http://twitter.com/search?q=Dinneno) | N/A |
-| 27 | [San José Vista Hermosa](http://twitter.com/search?q=San+Jos%c3%a9+Vista+Hermosa) | N/A |
-| 28 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 29 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | N/A |
-| 30 | [Teatro de la República](http://twitter.com/search?q=Teatro+de+la+Rep%c3%bablica) | N/A |
-| 31 | [Conago](http://twitter.com/search?q=Conago) | N/A |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 34 | [106 Aniversario](http://twitter.com/search?q=106+Aniversario) | N/A |
-| 35 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 36 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
-| 37 | [Junta](http://twitter.com/search?q=Junta) | N/A |
-| 38 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
-| 39 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 40 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 41 | [Cocodrilos](http://twitter.com/search?q=Cocodrilos) | N/A |
-| 42 | [Zaldivar](http://twitter.com/search?q=Zaldivar) | N/A |
-| 43 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 44 | [Javier Aguirre](http://twitter.com/search?q=Javier+Aguirre) | N/A |
-| 45 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 46 | [Venustiano Carranza](http://twitter.com/search?q=Venustiano+Carranza) | N/A |
-| 47 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 48 | [Rocha](http://twitter.com/search?q=Rocha) | N/A |
-| 49 | [México-Puebla](http://twitter.com/search?q=M%c3%a9xico-Puebla) | N/A |
-| 50 | [Kendrick](http://twitter.com/search?q=Kendrick) | N/A |
+| 1 | [#AttackOnBangtanToNo1](http://twitter.com/search?q=%23AttackOnBangtanToNo1) | N/A |
+| 2 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
+| 3 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 4 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 5 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 6 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | #ProBowlGames is a hashtag used on social media to refer to the annual National Football League (NFL) all-star game, the Pro Bowl. The Pro Bowl is an exhibition game featuring the best players from the NFL's two conferences, the American Football Conference (AFC) and the National Football Conference (NFC). |
+| 7 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 8 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 9 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
+| 10 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 11 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
+| 12 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 13 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 14 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
+| 15 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 16 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 17 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
+| 18 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 20 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 21 | [#CiudadChingona](http://twitter.com/search?q=%23CiudadChingona) | N/A |
+| 22 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 23 | [Meritao](http://twitter.com/search?q=Meritao) | N/A |
+| 24 | [Carta Magna](http://twitter.com/search?q=Carta+Magna) | N/A |
+| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 26 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 27 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 28 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 29 | [Puente de Ixtla](http://twitter.com/search?q=Puente+de+Ixtla) | N/A |
+| 30 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 31 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | N/A |
+| 32 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 33 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
+| 34 | [Conago](http://twitter.com/search?q=Conago) | N/A |
+| 35 | [Dinneno](http://twitter.com/search?q=Dinneno) | N/A |
+| 36 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 37 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
+| 38 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 39 | [San José Vista Hermosa](http://twitter.com/search?q=San+Jos%c3%a9+Vista+Hermosa) | N/A |
+| 40 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 41 | [Junta](http://twitter.com/search?q=Junta) | N/A |
+| 42 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
+| 43 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 44 | [106 Aniversario](http://twitter.com/search?q=106+Aniversario) | N/A |
+| 45 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 46 | [Teatro de la República](http://twitter.com/search?q=Teatro+de+la+Rep%c3%bablica) | N/A |
+| 47 | [Cocodrilos](http://twitter.com/search?q=Cocodrilos) | N/A |
+| 48 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 49 | [Zaldivar](http://twitter.com/search?q=Zaldivar) | N/A |
+| 50 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 
 
 
