@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-05 18:16:57 UTC`
+📆 Last Updated: `2023-02-05 19:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Lebanon
 | ------- | ------------ | ------------ |
 | 1 | [#صون_الهويه](http://twitter.com/search?q=%23%d8%b5%d9%88%d9%86_%d8%a7%d9%84%d9%87%d9%88%d9%8a%d9%87) | N/A |
 | 2 | [حسن قصير](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d9%82%d8%b5%d9%8a%d8%b1) | N/A |
-| 3 | [#الرياضي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 3 | [٦ شباط](http://twitter.com/search?q=%d9%a6+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
 | 4 | [دبي الدوليه](http://twitter.com/search?q=%d8%af%d8%a8%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 5 | [رفيق الحريري](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
-| 6 | [الصليب الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%a8+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 5 | [#الرياضي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 6 | [الوثايقي الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ab%d8%a7%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
 | 7 | [مروان حماده](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%ad%d9%85%d8%a7%d8%af%d9%87) | N/A |
-| 8 | [دينامو](http://twitter.com/search?q=%d8%af%d9%8a%d9%86%d8%a7%d9%85%d9%88) | N/A |
-| 9 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 10 | [#احد_مبارك](http://twitter.com/search?q=%23%d8%a7%d8%ad%d8%af_%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 11 | [الوثايقي الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ab%d8%a7%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 12 | [٦ شباط](http://twitter.com/search?q=%d9%a6+%d8%b4%d8%a8%d8%a7%d8%b7) | N/A |
-| 13 | [المنطاد الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d8%a7%d8%af+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 14 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
-| 15 | [غير الشرعيين](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d9%8a%d9%86) | N/A |
+| 8 | [الاستشهادي القايد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af) | N/A |
+| 9 | [حزب الكتايب](http://twitter.com/search?q=%d8%ad%d8%b2%d8%a8+%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d9%8a%d8%a8) | N/A |
+| 10 | [الصليب الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%a8+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 11 | [دينامو](http://twitter.com/search?q=%d8%af%d9%8a%d9%86%d8%a7%d9%85%d9%88) | N/A |
+| 12 | [#احد_مبارك](http://twitter.com/search?q=%23%d8%a7%d8%ad%d8%af_%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 13 | [غير الشرعيين](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a%d9%8a%d9%86) | N/A |
+| 14 | [رفيق الحريري](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
+| 15 | [المنطاد الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d8%a7%d8%af+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
 | 16 | [#حركه_امل](http://twitter.com/search?q=%23%d8%ad%d8%b1%d9%83%d9%87_%d8%a7%d9%85%d9%84) | N/A |
-| 17 | [#نادين_نسيب_نجيم](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%af%d9%8a%d9%86_%d9%86%d8%b3%d9%8a%d8%a8_%d9%86%d8%ac%d9%8a%d9%85) | N/A |
-| 18 | [حزب الكتايب](http://twitter.com/search?q=%d8%ad%d8%b2%d8%a8+%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d9%8a%d8%a8) | N/A |
-| 19 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 20 | [بيروت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%88%d8%aa) | N/A |
-| 21 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 22 | [لقمان سليم](http://twitter.com/search?q=%d9%84%d9%82%d9%85%d8%a7%d9%86+%d8%b3%d9%84%d9%8a%d9%85) | N/A |
+| 17 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 18 | [#نادين_نسيب_نجيم](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%af%d9%8a%d9%86_%d9%86%d8%b3%d9%8a%d8%a8_%d9%86%d8%ac%d9%8a%d9%85) | N/A |
+| 19 | [سامي الجميل](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 20 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 21 | [لقمان سليم](http://twitter.com/search?q=%d9%84%d9%82%d9%85%d8%a7%d9%86+%d8%b3%d9%84%d9%8a%d9%85) | N/A |
+| 22 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
 | 23 | [فرع المعلومات](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa) | N/A |
-| 24 | [سامي الجميل](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 24 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
 | 25 | [ماريو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d9%88) | N/A |
-| 26 | [France 5](http://twitter.com/search?q=France+5) | N/A |
-| 27 | [جني صادر](http://twitter.com/search?q=%d8%ac%d9%86%d9%8a+%d8%b5%d8%a7%d8%af%d8%b1) | N/A |
+| 26 | [جني صادر](http://twitter.com/search?q=%d8%ac%d9%86%d9%8a+%d8%b5%d8%a7%d8%af%d8%b1) | N/A |
+| 27 | [France 5](http://twitter.com/search?q=France+5) | N/A |
 | 28 | [نهار الاحد](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 29 | [علي نمر الخليل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d9%85%d8%b1+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 30 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
-| 31 | [الدفاع الروسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d9%87) | N/A |
-| 32 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
-| 33 | [ليندا مطر](http://twitter.com/search?q=%d9%84%d9%8a%d9%86%d8%af%d8%a7+%d9%85%d8%b7%d8%b1) | N/A |
+| 29 | [جبل عامل](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d8%b9%d8%a7%d9%85%d9%84) | N/A |
+| 30 | [علي نمر الخليل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d9%85%d8%b1+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84) | N/A |
+| 31 | [موسى الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
+| 32 | [كولومبيا](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%88%d9%85%d8%a8%d9%8a%d8%a7) | N/A |
+| 33 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 34 | [رامي نعيم](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a+%d9%86%d8%b9%d9%8a%d9%85) | N/A |
-| 35 | [يعسوب الدين](http://twitter.com/search?q=%d9%8a%d8%b9%d8%b3%d9%88%d8%a8+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 36 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 37 | [الامراض السرطانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d8%a7%d8%b6+%d8%a7%d9%84%d8%b3%d8%b1%d8%b7%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 38 | [كولومبيا](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%88%d9%85%d8%a8%d9%8a%d8%a7) | N/A |
-| 39 | [ليل نهار](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d9%86%d9%87%d8%a7%d8%b1) | N/A |
-| 40 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [وزير الاقتصاد](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af) | N/A |
-| 43 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 44 | [عيسى](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
-| 45 | [أوكرانيا](http://twitter.com/search?q=%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 46 | [نقيب الصيادله](http://twitter.com/search?q=%d9%86%d9%82%d9%8a%d8%a8+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d8%af%d9%84%d9%87) | N/A |
-| 47 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 48 | [الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 49 | [الولاده الميمونه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d9%85%d9%8a%d9%85%d9%88%d9%86%d9%87) | N/A |
-| 50 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
+| 35 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 36 | [القبه الحديديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%87+%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d9%8a%d9%87) | N/A |
+| 37 | [الشهيد القايد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af) | N/A |
+| 38 | [بيروت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%88%d8%aa) | N/A |
+| 39 | [يعسوب الدين](http://twitter.com/search?q=%d9%8a%d8%b9%d8%b3%d9%88%d8%a8+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 40 | [المحكمه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%83%d9%85%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 41 | [الامراض السرطانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d8%a7%d8%b6+%d8%a7%d9%84%d8%b3%d8%b1%d8%b7%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 42 | [ليل نهار](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d9%86%d9%87%d8%a7%d8%b1) | N/A |
+| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 44 | [جنوب لبنان](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 46 | [وزير الاقتصاد](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af) | N/A |
+| 47 | [الدفاع الروسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d9%87) | N/A |
+| 48 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 49 | [الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 50 | [التحقيق الممنوع](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%82%d9%8a%d9%82+%d8%a7%d9%84%d9%85%d9%85%d9%86%d9%88%d8%b9) | N/A |
 
 
 
