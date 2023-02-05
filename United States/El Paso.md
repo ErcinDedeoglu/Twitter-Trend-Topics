@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-05 19:16:34 UTC`
+📆 Last Updated: `2023-02-05 20:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 2 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 3 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 2 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 3 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 4 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 5 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 6 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 7 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 8 | [#ProphetAi](http://twitter.com/search?q=%23ProphetAi) | #ProphetAi is a predictive analytics platform that uses artificial intelligence (AI) to help businesses make better decisions. It uses machine learning algorithms to analyze data and generate insights that can be used to inform decisions and strategies. The name "ProphetAi" is derived from the idea of using AI as a "prophet" to predict the future. |
-| 9 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
-| 10 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 11 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 12 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
-| 13 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 14 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 15 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 17 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 20 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 21 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 22 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 23 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 24 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
-| 25 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 26 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
-| 27 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 28 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 29 | [Jack Harlow](http://twitter.com/search?q=Jack+Harlow) | N/A |
-| 30 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 31 | [Trayvon Martin](http://twitter.com/search?q=Trayvon+Martin) | N/A |
-| 32 | [Nina Williams](http://twitter.com/search?q=Nina+Williams) | N/A |
-| 33 | [Kamilla](http://twitter.com/search?q=Kamilla) | N/A |
-| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 35 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 36 | [Raven Johnson](http://twitter.com/search?q=Raven+Johnson) | N/A |
-| 37 | [Wages](http://twitter.com/search?q=Wages) | N/A |
-| 38 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
-| 39 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 40 | [Zimmerman](http://twitter.com/search?q=Zimmerman) | N/A |
-| 41 | [Murphy Brown](http://twitter.com/search?q=Murphy+Brown) | N/A |
-| 42 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 43 | [John Ratcliffe](http://twitter.com/search?q=John+Ratcliffe) | N/A |
-| 44 | [Trump Administration](http://twitter.com/search?q=Trump+Administration) | N/A |
-| 45 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 46 | [Jhene](http://twitter.com/search?q=Jhene) | N/A |
+| 6 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 7 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | N/A |
+| 8 | [#ProBowlGames](http://twitter.com/search?q=%23ProBowlGames) | #ProBowlGames is a hashtag used on social media to refer to the annual National Football League (NFL) all-star game, the Pro Bowl. The Pro Bowl is an exhibition game featuring the best players from the NFL's two conferences, the American Football Conference (AFC) and the National Football Conference (NFC). |
+| 9 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
+| 10 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 11 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 12 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 13 | [Rob Pelinka](http://twitter.com/search?q=Rob+Pelinka) | Rob Pelinka is an American sports agent and the current general manager of the Los Angeles Lakers of the National Basketball Association (NBA). He is best known for his representation of NBA superstars Kobe Bryant, James Harden, and Anthony Davis. The name "Rob Pelinka" is derived from his first and last names. |
+| 14 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 15 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
+| 16 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 17 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 18 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 19 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 20 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
+| 21 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 22 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 23 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 24 | [Laker](http://twitter.com/search?q=Laker) | N/A |
+| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 26 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 27 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 28 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 29 | [Shams](http://twitter.com/search?q=Shams) | Shams is an Arabic word meaning "sun". It is often used as a metaphor for something that brings light and warmth into one's life. In Islamic culture, it is also used to refer to God, as the source of all light and warmth. |
+| 30 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 31 | [Dorian Finney](http://twitter.com/search?q=Dorian+Finney) | N/A |
+| 32 | [Doe Doe](http://twitter.com/search?q=Doe+Doe) | N/A |
+| 33 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 34 | [Jack Harlow](http://twitter.com/search?q=Jack+Harlow) | N/A |
+| 35 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 36 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 37 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 38 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 39 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 40 | [Cardoso](http://twitter.com/search?q=Cardoso) | N/A |
+| 41 | [Nina Williams](http://twitter.com/search?q=Nina+Williams) | N/A |
+| 42 | [Trayvon Martin](http://twitter.com/search?q=Trayvon+Martin) | N/A |
+| 43 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 44 | [Murphy Brown](http://twitter.com/search?q=Murphy+Brown) | N/A |
+| 45 | [Dawn Staley](http://twitter.com/search?q=Dawn+Staley) | N/A |
+| 46 | [Holtmann](http://twitter.com/search?q=Holtmann) | N/A |
 
 
 

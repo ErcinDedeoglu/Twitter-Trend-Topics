@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-02-05 19:16:10 UTC`
+📆 Last Updated: `2023-02-05 20:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 2 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 1 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 2 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
 | 3 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 4 | [#ProphetAi](http://twitter.com/search?q=%23ProphetAi) | #ProphetAi is a predictive analytics platform that uses artificial intelligence (AI) to help businesses make better decisions. It uses machine learning algorithms to analyze data and generate insights that can be used to inform decisions and strategies. The name "ProphetAi" is derived from the idea of using AI as a "prophet" to predict the future. |
-| 5 | [Larin](http://twitter.com/search?q=Larin) | N/A |
-| 6 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 4 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 5 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 6 | [#KingsLeagueJ5](http://twitter.com/search?q=%23KingsLeagueJ5) | N/A |
 | 7 | [Voro](http://twitter.com/search?q=Voro) | Voro is a Finnish word meaning “to make” or “to do.” It is often used in the context of creating something, such as a craft or a piece of art. It can also be used to describe the act of doing something, such as cooking or cleaning. |
-| 8 | [#KingsLeagueJ5](http://twitter.com/search?q=%23KingsLeagueJ5) | N/A |
-| 9 | [Gerard Romero](http://twitter.com/search?q=Gerard+Romero) | Gerard Romero is a Spanish name. It is derived from the Germanic name Gerard, which means "brave spearman". |
-| 10 | [Gol del Valladolid](http://twitter.com/search?q=Gol+del+Valladolid) | N/A |
-| 11 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 12 | [Raillo](http://twitter.com/search?q=Raillo) | Raillo is a Spanish word that means "rail" or "railway". It is used to refer to a railway line or track. |
-| 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 14 | [Jijantes](http://twitter.com/search?q=Jijantes) | N/A |
-| 15 | [Mamardashvili](http://twitter.com/search?q=Mamardashvili) | Mamardashvili is a Georgian surname. It is derived from the Georgian word mamarda, which means "wise man". In English, the name can be translated to mean "wise man of the family". |
-| 16 | [#LaRoca55](http://twitter.com/search?q=%23LaRoca55) | N/A |
-| 17 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 18 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 19 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 20 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
-| 21 | [#Solos5F](http://twitter.com/search?q=%23Solos5F) | N/A |
-| 22 | [#COAC2023FI](http://twitter.com/search?q=%23COAC2023FI) | N/A |
-| 23 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 24 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 25 | [Guillamon](http://twitter.com/search?q=Guillamon) | N/A |
-| 26 | [González Fuertes](http://twitter.com/search?q=Gonz%c3%a1lez+Fuertes) | N/A |
-| 27 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 28 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 29 | [Roko](http://twitter.com/search?q=Roko) | N/A |
-| 30 | [Barrene](http://twitter.com/search?q=Barrene) | N/A |
-| 31 | [Lato](http://twitter.com/search?q=Lato) | Lato is a sans-serif typeface designed by Łukasz Dziedzic in 2010. It is a humanist typeface, meaning it has a more organic, calligraphic feel than other sans-serifs. The name Lato comes from the Polish word for "summer". |
-| 32 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 33 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 34 | [Reale Arena](http://twitter.com/search?q=Reale+Arena) | N/A |
-| 35 | [Borja García](http://twitter.com/search?q=Borja+Garc%c3%ada) | N/A |
-| 36 | [Oshoala](http://twitter.com/search?q=Oshoala) | N/A |
-| 37 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 38 | [Cartagonova](http://twitter.com/search?q=Cartagonova) | N/A |
-| 39 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
-| 40 | [Gayà](http://twitter.com/search?q=Gay%c3%a0) | N/A |
-| 41 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 42 | [Puche](http://twitter.com/search?q=Puche) | N/A |
-| 43 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
-| 44 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 45 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
-| 46 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 47 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
-| 48 | [Bebe](http://twitter.com/search?q=Bebe) | N/A |
-| 49 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
-| 50 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 8 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
+| 9 | [Pepe Castro](http://twitter.com/search?q=Pepe+Castro) | N/A |
+| 10 | [#COAC2023FI](http://twitter.com/search?q=%23COAC2023FI) | N/A |
+| 11 | [Pucela](http://twitter.com/search?q=Pucela) | N/A |
+| 12 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
+| 13 | [Gerard Romero](http://twitter.com/search?q=Gerard+Romero) | Gerard Romero is a Spanish name. It is derived from the Germanic name Gerard, which means "brave spearman". |
+| 14 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 15 | [Anoeta](http://twitter.com/search?q=Anoeta) | N/A |
+| 16 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 17 | [Roko](http://twitter.com/search?q=Roko) | N/A |
+| 18 | [Yeray](http://twitter.com/search?q=Yeray) | Yeray is a Spanish name derived from the Hebrew name Jair, which means "God enlightens". It is also a variant of the name Jeremiah, which means "God will exalt". |
+| 19 | [González Fuertes](http://twitter.com/search?q=Gonz%c3%a1lez+Fuertes) | N/A |
+| 20 | [Reale Arena](http://twitter.com/search?q=Reale+Arena) | N/A |
+| 21 | [Mamardashvili](http://twitter.com/search?q=Mamardashvili) | Mamardashvili is a Georgian surname. It is derived from the Georgian word mamarda, which means "wise man". In English, the name can be translated to mean "wise man of the family". |
+| 22 | [#LaRoca55](http://twitter.com/search?q=%23LaRoca55) | N/A |
+| 23 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 24 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
+| 25 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 26 | [Jijantes](http://twitter.com/search?q=Jijantes) | N/A |
+| 27 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 28 | [#BarçaSevilla](http://twitter.com/search?q=%23Bar%c3%a7aSevilla) | N/A |
+| 29 | [Cartagonova](http://twitter.com/search?q=Cartagonova) | N/A |
+| 30 | [Carrión](http://twitter.com/search?q=Carri%c3%b3n) | N/A |
+| 31 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 32 | [#CartagenaLevante](http://twitter.com/search?q=%23CartagenaLevante) | N/A |
+| 33 | [Hongla](http://twitter.com/search?q=Hongla) | N/A |
+| 34 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 35 | [El Levante](http://twitter.com/search?q=El+Levante) | N/A |
+| 36 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 37 | [José Alberto](http://twitter.com/search?q=Jos%c3%a9+Alberto) | N/A |
+| 38 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 39 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 40 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 41 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 42 | [VAMOS BARÇA](http://twitter.com/search?q=VAMOS+BAR%c3%87A) | N/A |
+| 43 | [Guillamon](http://twitter.com/search?q=Guillamon) | N/A |
+| 44 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 45 | [Borja García](http://twitter.com/search?q=Borja+Garc%c3%ada) | N/A |
+| 46 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 47 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 48 | [Barrene](http://twitter.com/search?q=Barrene) | N/A |
+| 49 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 50 | [Juan Ortega](http://twitter.com/search?q=Juan+Ortega) | N/A |
 
 
 

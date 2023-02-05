@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-05 19:16:13 UTC`
+📆 Last Updated: `2023-02-05 20:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 2 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
-| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 4 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 5 | [#BSS_wants_ourSECONDWIND](http://twitter.com/search?q=%23BSS_wants_ourSECONDWIND) | N/A |
-| 6 | [ITS BSS FIGHTING DAY](http://twitter.com/search?q=ITS+BSS+FIGHTING+DAY) | ITS BSS FIGHTING DAY is a phrase used by fans of the Japanese professional wrestling promotion, Big Japan Pro Wrestling. It is used to show support for the wrestlers and to encourage them to fight hard and put on an exciting show. In English, it roughly translates to "Let's go Big Japan Pro Wrestling!" |
-| 7 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 8 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 9 | [#BE_AWAKE_ConceptPhotos](http://twitter.com/search?q=%23BE_AWAKE_ConceptPhotos) | N/A |
-| 10 | [Nyapu](http://twitter.com/search?q=Nyapu) | N/A |
-| 11 | [#BABYMONSTER_RUKA](http://twitter.com/search?q=%23BABYMONSTER_RUKA) | N/A |
-| 12 | [THE BOYZ ROAR D-15](http://twitter.com/search?q=THE+BOYZ+ROAR+D-15) | THE BOYZ ROAR D-15 is a special event held by the South Korean boy band THE BOYZ. It is a fan meeting event that allows fans to get up close and personal with the members of the group. The "D-15" in the title refers to the 15th day of the month, which is when the event will take place. |
-| 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 14 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
-| 15 | [Awkarin](http://twitter.com/search?q=Awkarin) | N/A |
-| 16 | [Nyetrika](http://twitter.com/search?q=Nyetrika) | N/A |
-| 17 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
-| 18 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 19 | [Benedict](http://twitter.com/search?q=Benedict) | N/A |
-| 20 | [Cuci](http://twitter.com/search?q=Cuci) | N/A |
-| 21 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 22 | [ford allan](http://twitter.com/search?q=ford+allan) | N/A |
-| 23 | [Back to December](http://twitter.com/search?q=Back+to+December) | N/A |
-| 24 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 25 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 26 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
-| 27 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 28 | [Mikirin](http://twitter.com/search?q=Mikirin) | N/A |
-| 29 | [Prihatin](http://twitter.com/search?q=Prihatin) | N/A |
-| 30 | [50 M](http://twitter.com/search?q=50+M) | N/A |
-| 31 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 32 | [Cap Go Meh](http://twitter.com/search?q=Cap+Go+Meh) | N/A |
-| 33 | [Sleman](http://twitter.com/search?q=Sleman) | N/A |
-| 34 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 35 | [#MAMAMOOinJKT](http://twitter.com/search?q=%23MAMAMOOinJKT) | N/A |
-| 36 | [#TeamYouth](http://twitter.com/search?q=%23TeamYouth) | N/A |
-| 37 | [#holoIDKimonoDAY3](http://twitter.com/search?q=%23holoIDKimonoDAY3) | N/A |
-| 38 | [#MYCON_inJKT](http://twitter.com/search?q=%23MYCON_inJKT) | N/A |
-| 39 | [#TSMWIN](http://twitter.com/search?q=%23TSMWIN) | #TSMWIN stands for "The Secret Millionaire's Wealth Index Network". It is a network of entrepreneurs, investors, and professionals who share resources and knowledge to help each other become successful. The goal of the network is to help members achieve financial freedom and create wealth. |
-| 40 | [#TeamYoung](http://twitter.com/search?q=%23TeamYoung) | N/A |
-| 41 | [#CrashCourseInRomanceEp8](http://twitter.com/search?q=%23CrashCourseInRomanceEp8) | N/A |
-| 42 | [#KoboKimonoSkuy](http://twitter.com/search?q=%23KoboKimonoSkuy) | N/A |
-| 43 | [#น่าฮักจังเล๊ย](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%ae%e0%b8%b1%e0%b8%81%e0%b8%88%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%8a%e0%b8%a2) | #น่าฮักจังเล๊ย is a hashtag used on social media in Thailand. It translates to "so cute" in English. |
-| 44 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 1 | [#TeamYouth](http://twitter.com/search?q=%23TeamYouth) | N/A |
+| 2 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
+| 3 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
+| 4 | [ARMY BATTLE PARTY](http://twitter.com/search?q=ARMY+BATTLE+PARTY) | ARMY BATTLE PARTY is a type of game in which players take on the role of an army commander and battle against each other in a virtual environment. The goal is to outwit and outmaneuver your opponents in order to win the battle. In English, it can be translated as "Military Combat Party". |
+| 5 | [#TeamYoung](http://twitter.com/search?q=%23TeamYoung) | N/A |
+| 6 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 7 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
+| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 9 | [ITS BSS FIGHTING DAY](http://twitter.com/search?q=ITS+BSS+FIGHTING+DAY) | ITS BSS FIGHTING DAY is a phrase used by fans of the Japanese professional wrestling promotion, Big Japan Pro Wrestling. It is used to show support for the wrestlers and to encourage them to fight hard and put on an exciting show. In English, it roughly translates to "Let's go Big Japan Pro Wrestling!" |
+| 10 | [Dewa 19](http://twitter.com/search?q=Dewa+19) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
+| 13 | [THE BOYZ ROAR D-15](http://twitter.com/search?q=THE+BOYZ+ROAR+D-15) | THE BOYZ ROAR D-15 is a special event held by the South Korean boy band THE BOYZ. It is a fan meeting event that allows fans to get up close and personal with the members of the group. The "D-15" in the title refers to the 15th day of the month, which is when the event will take place. |
+| 14 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 15 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 16 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 17 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 18 | [BESOK SENIN](http://twitter.com/search?q=BESOK+SENIN) | N/A |
+| 19 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 20 | [50 M](http://twitter.com/search?q=50+M) | N/A |
+| 21 | [Genjer](http://twitter.com/search?q=Genjer) | N/A |
+| 22 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 23 | [SPY X FAM](http://twitter.com/search?q=SPY+X+FAM) | N/A |
+| 24 | [Jeka](http://twitter.com/search?q=Jeka) | N/A |
+| 25 | [teknologi var](http://twitter.com/search?q=teknologi+var) | N/A |
+| 26 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 27 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
+| 28 | [Cat 6](http://twitter.com/search?q=Cat+6) | Cat 6 is a type of cable used in networking and data transmission. It is a twisted pair cable for Ethernet and other network physical layers that is backward compatible with the Category 5/5e and Category 3 cable standards. Cat 6 features more stringent specifications for crosstalk and system noise than previous standards. |
+| 29 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 30 | [CAT 1C](http://twitter.com/search?q=CAT+1C) | N/A |
+| 31 | [Cap Go Meh](http://twitter.com/search?q=Cap+Go+Meh) | N/A |
+| 32 | [Ari Lasso](http://twitter.com/search?q=Ari+Lasso) | N/A |
+| 33 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 34 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
+| 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 36 | [NETTUP](http://twitter.com/search?q=NETTUP) | N/A |
+| 37 | [Nyapu](http://twitter.com/search?q=Nyapu) | N/A |
+| 38 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 39 | [Back to December](http://twitter.com/search?q=Back+to+December) | N/A |
+| 40 | [Tahun](http://twitter.com/search?q=Tahun) | N/A |
+| 41 | [WANT TO BUY](http://twitter.com/search?q=WANT+TO+BUY) | N/A |
+| 42 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 43 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 44 | [Anemo 5](http://twitter.com/search?q=Anemo+5) | Anemo 5 is a type of wind turbine designed by the French company Anemo. It is a small, lightweight, and efficient wind turbine that can be used to generate electricity in remote locations. The name "Anemo 5" comes from the five blades that make up the turbine's rotor. In English, Anemo 5 means "five-bladed wind turbine." |
+| 45 | [Cryo 5](http://twitter.com/search?q=Cryo+5) | Cryo 5 is a brand of cryotherapy machine used to treat a variety of medical conditions. Cryotherapy is a form of cold therapy that involves exposing the body to extremely cold temperatures for a short period of time. The goal of cryotherapy is to reduce inflammation, pain, and swelling in the affected area. Cryo 5 machines use liquid nitrogen to cool the air around the body, creating an environment that can reach temperatures as low as -200°F. |
+| 46 | [Electro 5](http://twitter.com/search?q=Electro+5) | Electro 5 is a type of electronic music genre that combines elements of electro, hip-hop, and house music. It is characterized by its heavy use of synthesizers and drum machines, as well as its incorporation of samples from other genres. The term was coined in the early 2000s to describe a new wave of electronic music that was emerging at the time. |
+| 47 | [Dendro 5](http://twitter.com/search?q=Dendro+5) | Dendro 5 is a software program used for dendrochronology, which is the scientific method of dating tree rings. The name “Dendro 5” comes from the Greek word “dendron” meaning tree. The software helps scientists to analyze and interpret tree-ring data in order to reconstruct past climate and environmental conditions. |
+| 48 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
+| 49 | [Pyro 5](http://twitter.com/search?q=Pyro+5) | Pyro 5 is a type of firework that is designed to produce a loud, colorful display. It is often used in fireworks shows and other celebrations. The name comes from the five stars that are created when the firework explodes. |
 
 
 

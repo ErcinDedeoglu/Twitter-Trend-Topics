@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-02-05 19:16:02 UTC`
+📆 Last Updated: `2023-02-05 20:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Robinson de Castro](http://twitter.com/search?q=Robinson+de+Castro) | N/A |
-| 2 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 3 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 4 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 5 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | N/A |
-| 6 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
-| 7 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
-| 8 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 9 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 10 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 11 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 12 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 13 | [Adele](http://twitter.com/search?q=Adele) | N/A |
-| 14 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 15 | [#ProphetAi](http://twitter.com/search?q=%23ProphetAi) | #ProphetAi is a predictive analytics platform that uses artificial intelligence (AI) to help businesses make better decisions. It uses machine learning algorithms to analyze data and generate insights that can be used to inform decisions and strategies. The name "ProphetAi" is derived from the idea of using AI as a "prophet" to predict the future. |
-| 16 | [#SouMá](http://twitter.com/search?q=%23SouM%c3%a1) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [Vovó Tartaruga](http://twitter.com/search?q=Vov%c3%b3+Tartaruga) | N/A |
-| 19 | [Maria Beltrão](http://twitter.com/search?q=Maria+Beltr%c3%a3o) | N/A |
-| 20 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 21 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 22 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
-| 23 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 24 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 25 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
-| 26 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
-| 27 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 28 | [goot](http://twitter.com/search?q=goot) | N/A |
-| 29 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
-| 30 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 31 | [AOTY](http://twitter.com/search?q=AOTY) | N/A |
-| 32 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 33 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 34 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 35 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 36 | [Belém do Pará](http://twitter.com/search?q=Bel%c3%a9m+do+Par%c3%a1) | N/A |
-| 37 | [TIQUINHO SOARES](http://twitter.com/search?q=TIQUINHO+SOARES) | N/A |
-| 38 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
-| 39 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
-| 40 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 41 | [Maokai](http://twitter.com/search?q=Maokai) | N/A |
-| 42 | [Santo André](http://twitter.com/search?q=Santo+Andr%c3%a9) | N/A |
-| 43 | [Nosferus](http://twitter.com/search?q=Nosferus) | N/A |
-| 44 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 45 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 46 | [Vamos São Paulo](http://twitter.com/search?q=Vamos+S%c3%a3o+Paulo) | N/A |
-| 47 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 48 | [Legítima](http://twitter.com/search?q=Leg%c3%adtima) | N/A |
-| 49 | [O City](http://twitter.com/search?q=O+City) | N/A |
-| 50 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
+| 2 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 3 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 4 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
+| 5 | [Orejuela](http://twitter.com/search?q=Orejuela) | Orejuela is a Spanish word that literally translates to "little ear". It is used to describe something small or insignificant. |
+| 6 | [Victor Sá](http://twitter.com/search?q=Victor+S%c3%a1) | Victor Sá is a Portuguese surname. In English, it translates to Victor Sá. |
+| 7 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 8 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
+| 9 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
+| 10 | [Alan Franco](http://twitter.com/search?q=Alan+Franco) | Alan Franco is a Spanish name. It is derived from the Latin name Alanius, which means "from Alania" (an ancient region in the Caucasus). In English, Alan Franco means "from Alania". |
+| 11 | [Tiquinho Soares](http://twitter.com/search?q=Tiquinho+Soares) | N/A |
+| 12 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
+| 13 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 14 | [Capivara](http://twitter.com/search?q=Capivara) | Capivara is a Brazilian word for the Capybara, a large rodent native to South America. It is the largest living rodent in the world and can weigh up to 140 pounds. In English, Capivara means "water hog". |
+| 15 | [Gabriel Neves](http://twitter.com/search?q=Gabriel+Neves) | N/A |
+| 16 | [Wellington](http://twitter.com/search?q=Wellington) | N/A |
+| 17 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
+| 18 | [#NOITADA](http://twitter.com/search?q=%23NOITADA) | N/A |
+| 19 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 20 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 21 | [Santo André](http://twitter.com/search?q=Santo+Andr%c3%a9) | N/A |
+| 22 | [Solange Couto](http://twitter.com/search?q=Solange+Couto) | N/A |
+| 23 | [Beraldo](http://twitter.com/search?q=Beraldo) | N/A |
+| 24 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 25 | [Adele](http://twitter.com/search?q=Adele) | N/A |
+| 26 | [Paula Lima](http://twitter.com/search?q=Paula+Lima) | N/A |
+| 27 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
+| 28 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 29 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 30 | [Marcelo Serrado](http://twitter.com/search?q=Marcelo+Serrado) | N/A |
+| 31 | [Valesca Popozuda](http://twitter.com/search?q=Valesca+Popozuda) | N/A |
+| 32 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 33 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 34 | [Croc](http://twitter.com/search?q=Croc) | N/A |
+| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 36 | [Erison](http://twitter.com/search?q=Erison) | N/A |
+| 37 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 38 | [Vovó Tartaruga](http://twitter.com/search?q=Vov%c3%b3+Tartaruga) | N/A |
+| 39 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
+| 40 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 41 | [AOTY](http://twitter.com/search?q=AOTY) | N/A |
+| 42 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 43 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 44 | [Legítima](http://twitter.com/search?q=Leg%c3%adtima) | N/A |
+| 45 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 46 | [Belém do Pará](http://twitter.com/search?q=Bel%c3%a9m+do+Par%c3%a1) | N/A |
+| 47 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 48 | [Maria Beltrão](http://twitter.com/search?q=Maria+Beltr%c3%a3o) | N/A |
+| 49 | [Cariok](http://twitter.com/search?q=Cariok) | Cariok is a Brazilian dance style that originated in the state of Bahia. It is a mix of samba, reggae, and African rhythms. The name comes from the Portuguese word "carroca," which means "cart." In English, Cariok translates to "cart dance." |
+| 50 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
 
 
 
