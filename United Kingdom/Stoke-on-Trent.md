@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-02-05 00:30:00 UTC`
+📆 Last Updated: `2023-02-05 01:44:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
-| 2 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
-| 3 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 4 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
-| 5 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 6 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 7 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 8 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 9 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 10 | [#COYI](http://twitter.com/search?q=%23COYI) | N/A |
-| 11 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 12 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 13 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 14 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
-| 15 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 16 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 17 | [Willock](http://twitter.com/search?q=Willock) | Willock is a Scottish surname derived from the Old English personal name Wiloc, which means "determined protector". It is also an Anglicized form of the Gaelic Mac Uillec, meaning "son of Uillec". |
-| 18 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
-| 19 | [insta](http://twitter.com/search?q=insta) | N/A |
-| 20 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 21 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
-| 22 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 23 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
-| 24 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
-| 25 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 26 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 27 | [Craig Dawson](http://twitter.com/search?q=Craig+Dawson) | N/A |
-| 28 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 29 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 31 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
-| 32 | [Roy Orbison](http://twitter.com/search?q=Roy+Orbison) | N/A |
-| 33 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
-| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 35 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 36 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 37 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 38 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 39 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
-| 40 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 41 | [Torygraph](http://twitter.com/search?q=Torygraph) | N/A |
-| 42 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 43 | [Richie Sambora](http://twitter.com/search?q=Richie+Sambora) | N/A |
-| 44 | [Kwasi](http://twitter.com/search?q=Kwasi) | N/A |
-| 45 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 46 | [James Arthur](http://twitter.com/search?q=James+Arthur) | James Arthur is a British singer and songwriter. He rose to fame after winning the ninth series of The X Factor in 2012. His debut single, "Impossible", was released in December 2012 and peaked at number one on the UK Singles Chart. |
-| 47 | [Knitting](http://twitter.com/search?q=Knitting) | N/A |
-| 48 | [Ricky Wilson](http://twitter.com/search?q=Ricky+Wilson) | N/A |
+| 1 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 2 | [Tufton Street](http://twitter.com/search?q=Tufton+Street) | N/A |
+| 3 | [#wwfc](http://twitter.com/search?q=%23wwfc) | N/A |
+| 4 | [#COYI](http://twitter.com/search?q=%23COYI) | N/A |
+| 5 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 6 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 7 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
+| 8 | [Lisandro Martinez](http://twitter.com/search?q=Lisandro+Martinez) | N/A |
+| 9 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 10 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 11 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 12 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
+| 13 | [Mandate](http://twitter.com/search?q=Mandate) | N/A |
+| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 15 | [Roy Orbison](http://twitter.com/search?q=Roy+Orbison) | N/A |
+| 16 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 17 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
+| 18 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 19 | [Torygraph](http://twitter.com/search?q=Torygraph) | N/A |
+| 20 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 21 | [Kwasi](http://twitter.com/search?q=Kwasi) | N/A |
+| 22 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 23 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 24 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 25 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
+| 26 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 27 | [Halliday](http://twitter.com/search?q=Halliday) | N/A |
+| 28 | [Richie Sambora](http://twitter.com/search?q=Richie+Sambora) | N/A |
+| 29 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 30 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 31 | [Ricky Wilson](http://twitter.com/search?q=Ricky+Wilson) | N/A |
+| 32 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 33 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 34 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 35 | [Knitting](http://twitter.com/search?q=Knitting) | N/A |
+| 36 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 37 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 38 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
+| 39 | [Nathan Jones](http://twitter.com/search?q=Nathan+Jones) | Nathan Jones is a phrase that is used to describe someone who is strong, brave, and courageous. It can also be used to describe someone who is a leader or a champion. |
+| 40 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 41 | [James Arthur](http://twitter.com/search?q=James+Arthur) | James Arthur is a British singer and songwriter. He rose to fame after winning the ninth series of The X Factor in 2012. His debut single, "Impossible", was released in December 2012 and peaked at number one on the UK Singles Chart. |
+| 42 | [Delusional](http://twitter.com/search?q=Delusional) | N/A |
+| 43 | [Jacket Potato](http://twitter.com/search?q=Jacket+Potato) | A Jacket Potato is a type of baked potato that is cooked in its skin. It is also known as a baked potato or a jacketed potato. The term "jacket" refers to the potato's outer skin, which is left on during the cooking process. The potato can be served with a variety of toppings, such as butter, cheese, sour cream, bacon bits, chives, and other condiments. |
+| 44 | [Steps](http://twitter.com/search?q=Steps) | Steps is a term used to refer to the individual actions or stages of a process. It can also refer to the physical steps taken in a dance or other activity. In English, it is used to describe the process of doing something, often in a systematic way. |
+| 45 | [Whitty](http://twitter.com/search?q=Whitty) | N/A |
+| 46 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 47 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 48 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
 
 
 

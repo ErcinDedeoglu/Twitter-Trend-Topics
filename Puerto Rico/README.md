@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puerto Rico
 
-📆 Last Updated: `2023-02-05 00:30:46 UTC`
+📆 Last Updated: `2023-02-05 01:44:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Puerto Rico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
-| 2 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 1 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 2 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
 | 3 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
-| 4 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 5 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | #ChineseSpyBalloon is a hashtag used to refer to a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activity on the ground. The term is often used in a derogatory manner to criticize China's surveillance activities. |
-| 6 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 7 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 8 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 9 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
-| 10 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
-| 11 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
-| 12 | [#ShotDown](http://twitter.com/search?q=%23ShotDown) | N/A |
-| 13 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
-| 14 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | N/A |
-| 15 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 16 | [Bigg K](http://twitter.com/search?q=Bigg+K) | N/A |
-| 17 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
-| 18 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 19 | [Ty Gibbs](http://twitter.com/search?q=Ty+Gibbs) | N/A |
-| 20 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
-| 21 | [Nance](http://twitter.com/search?q=Nance) | N/A |
-| 22 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 23 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | N/A |
-| 24 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 25 | [Assembly Hall](http://twitter.com/search?q=Assembly+Hall) | N/A |
-| 26 | [Auburn](http://twitter.com/search?q=Auburn) | Auburn is a reddish-brown color, often associated with the color of autumn leaves. It is also the name of a city in Alabama, USA. |
-| 27 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 28 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 29 | [Dick Vitale](http://twitter.com/search?q=Dick+Vitale) | N/A |
-| 30 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
-| 31 | [Lively](http://twitter.com/search?q=Lively) | N/A |
-| 32 | [Dashy](http://twitter.com/search?q=Dashy) | Dashy is a slang term used to describe someone or something that is cool, stylish, or fashionable. It can also be used to describe someone who is confident and outgoing. |
-| 33 | [Dickie V](http://twitter.com/search?q=Dickie+V) | N/A |
-| 34 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 35 | [Roach](http://twitter.com/search?q=Roach) | N/A |
-| 36 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 37 | [AIM-9X](http://twitter.com/search?q=AIM-9X) | N/A |
-| 38 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 39 | [Trayce Jackson](http://twitter.com/search?q=Trayce+Jackson) | N/A |
-| 40 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 41 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 42 | [OpTic](http://twitter.com/search?q=OpTic) | OpTic is an American professional esports organization based in Chicago, Illinois. The name OpTic is derived from the word "optics," which refers to the science of light and vision. The organization is best known for its Call of Duty team, which has won multiple championships in the Call of Duty World League. |
-| 43 | [Pacific Ocean](http://twitter.com/search?q=Pacific+Ocean) | N/A |
-| 44 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
-| 45 | [Aleutian Islands](http://twitter.com/search?q=Aleutian+Islands) | N/A |
-| 46 | [Mike Woodson](http://twitter.com/search?q=Mike+Woodson) | N/A |
-| 47 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 48 | [Christian Bishop](http://twitter.com/search?q=Christian+Bishop) | N/A |
-| 49 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 50 | [Bloomington](http://twitter.com/search?q=Bloomington) | N/A |
+| 4 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
+| 5 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 6 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 7 | [Nance](http://twitter.com/search?q=Nance) | N/A |
+| 8 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 9 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 10 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 11 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | N/A |
+| 12 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 13 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 14 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 15 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 16 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 17 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 18 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 19 | [Lorenz Larkin](http://twitter.com/search?q=Lorenz+Larkin) | N/A |
+| 20 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 21 | [Roach](http://twitter.com/search?q=Roach) | N/A |
+| 22 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 23 | [Myrtle Beach](http://twitter.com/search?q=Myrtle+Beach) | Myrtle Beach is a coastal city in South Carolina, United States. It is known for its long sandy beaches, golf courses, and nightlife. The city is a popular tourist destination and has been nicknamed "The Grand Strand". |
+| 24 | [Atlantic](http://twitter.com/search?q=Atlantic) | Atlantic is an adjective that refers to the Atlantic Ocean, which is the second largest ocean in the world. It is located between Europe and North America, and its waters are bordered by the Caribbean Sea to the south and the Arctic Ocean to the north. The term can also be used to refer to anything related to this ocean, such as its countries, cultures, or inhabitants. |
+| 25 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 26 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
+| 27 | [Ty Gibbs](http://twitter.com/search?q=Ty+Gibbs) | N/A |
+| 28 | [Edey](http://twitter.com/search?q=Edey) | Edey is a slang term used in some parts of the United States to refer to someone who is cool, stylish, or attractive. It can also be used as a term of endearment. |
+| 29 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
+| 30 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 31 | [Hoosiers](http://twitter.com/search?q=Hoosiers) | N/A |
+| 32 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 33 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 34 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
+| 35 | [Brady Manek](http://twitter.com/search?q=Brady+Manek) | N/A |
+| 36 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 37 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 38 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
+| 39 | [Jon Scheyer](http://twitter.com/search?q=Jon+Scheyer) | N/A |
+| 40 | [Mackey](http://twitter.com/search?q=Mackey) | N/A |
+| 41 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
+| 42 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 43 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 44 | [Roc Nation Brunch](http://twitter.com/search?q=Roc+Nation+Brunch) | N/A |
+| 45 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 46 | [Mowry](http://twitter.com/search?q=Mowry) | N/A |
+| 47 | [Lloyd](http://twitter.com/search?q=Lloyd) | N/A |
+| 48 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 49 | [Heels](http://twitter.com/search?q=Heels) | N/A |
+| 50 | [Bigg K](http://twitter.com/search?q=Bigg+K) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-02-05 00:30:21 UTC`
+📆 Last Updated: `2023-02-05 01:44:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
-| 2 | [#DreamMaker4thRanking](http://twitter.com/search?q=%23DreamMaker4thRanking) | N/A |
-| 3 | [#ทฤษฎีสีชมพูEP11](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP11) | #ทฤษฎีสีชมพูEP11 is the hashtag for the eleventh episode of the Thai television series Theory of Color Pink. The English translation of the hashtag would be "#TheoryofColorPinkEP11". |
-| 4 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
-| 5 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
-| 6 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 7 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 8 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 9 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
+| 2 | [#배켜니_소집해제한다_짱이지](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%8b%88_%ec%86%8c%ec%a7%91%ed%95%b4%ec%a0%9c%ed%95%9c%eb%8b%a4_%ec%a7%b1%ec%9d%b4%ec%a7%80) | "#배켜니_소집해제한다_짱이지" is a hashtag used by fans of the South Korean girl group BaeKnyeoni. It translates to "Let's release BaeKnyeoni, she's the best!" and is used to show support for the group. |
+| 3 | [#배켜나_우리_기다렸어](http://twitter.com/search?q=%23%eb%b0%b0%ec%bc%9c%eb%82%98_%ec%9a%b0%eb%a6%ac_%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4) | "#배켜나_우리_기다렸어" is a hashtag used by fans of the South Korean boy band BTS. It translates to "We Waited for You, BTS". It is used to express the love and support of fans for the group. |
+| 4 | [#DreamMaker4thRanking](http://twitter.com/search?q=%23DreamMaker4thRanking) | N/A |
+| 5 | [#ทฤษฎีสีชมพูEP11](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9EP11) | #ทฤษฎีสีชมพูEP11 is the hashtag for the eleventh episode of the Thai television series Theory of Color Pink. The English translation of the hashtag would be "#TheoryofColorPinkEP11". |
+| 6 | [KINJI FEBlossoms ON ASAP](http://twitter.com/search?q=KINJI+FEBlossoms+ON+ASAP) | N/A |
+| 7 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
+| 8 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 9 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
 | 10 | [D5 THE VEST FIT](http://twitter.com/search?q=D5+THE+VEST+FIT) | N/A |
-| 11 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
-| 12 | [roommate fb series](http://twitter.com/search?q=roommate+fb+series) | N/A |
-| 13 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 14 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 15 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 16 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 17 | [NGAYONG FEBRUARY NA](http://twitter.com/search?q=NGAYONG+FEBRUARY+NA) | "Ngayong February na" is a Filipino phrase that translates to "Now that it's February". It is used to express the idea that something has changed or begun now that a certain month has arrived. |
-| 18 | [marcus roadto top7](http://twitter.com/search?q=marcus+roadto+top7) | N/A |
-| 19 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 20 | [srr 2nd win](http://twitter.com/search?q=srr+2nd+win) | N/A |
-| 21 | [v1nci on top](http://twitter.com/search?q=v1nci+on+top) | N/A |
-| 22 | [showtimeonlineu with zacham](http://twitter.com/search?q=showtimeonlineu+with+zacham) | N/A |
-| 23 | [creamline](http://twitter.com/search?q=creamline) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [vinster better together](http://twitter.com/search?q=vinster+better+together) | N/A |
-| 26 | [zacham tcobarkadahan](http://twitter.com/search?q=zacham+tcobarkadahan) | N/A |
-| 27 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
-| 28 | [ABS CBN](http://twitter.com/search?q=ABS+CBN) | N/A |
-| 29 | [SEATED FOR REYSTER](http://twitter.com/search?q=SEATED+FOR+REYSTER) | N/A |
-| 30 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
-| 31 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 32 | [aysus anjbrent](http://twitter.com/search?q=aysus+anjbrent) | N/A |
-| 33 | [kyleready ontop](http://twitter.com/search?q=kyleready+ontop) | N/A |
+| 11 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 12 | [ALLTV](http://twitter.com/search?q=ALLTV) | N/A |
+| 13 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 14 | [roommate fb series](http://twitter.com/search?q=roommate+fb+series) | N/A |
+| 15 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 18 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 19 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 20 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 21 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 22 | [srr 2nd win](http://twitter.com/search?q=srr+2nd+win) | N/A |
+| 23 | [ngayong february na](http://twitter.com/search?q=ngayong+february+na) | N/A |
+| 24 | [v1nci on top](http://twitter.com/search?q=v1nci+on+top) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [creamline](http://twitter.com/search?q=creamline) | N/A |
+| 27 | [showtimeonlineu with zacham](http://twitter.com/search?q=showtimeonlineu+with+zacham) | N/A |
+| 28 | [vinster better together](http://twitter.com/search?q=vinster+better+together) | N/A |
+| 29 | [LAST DAY](http://twitter.com/search?q=LAST+DAY) | N/A |
+| 30 | [HEEHOON LIVE](http://twitter.com/search?q=HEEHOON+LIVE) | N/A |
+| 31 | [zacham tcobarkadahan](http://twitter.com/search?q=zacham+tcobarkadahan) | N/A |
+| 32 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 33 | [Khun Sam](http://twitter.com/search?q=Khun+Sam) | N/A |
 | 34 | [we dreilive in you](http://twitter.com/search?q=we+dreilive+in+you) | N/A |
-| 35 | [LET JEROMY DEBUT](http://twitter.com/search?q=LET+JEROMY+DEBUT) | N/A |
-| 36 | [madzilla](http://twitter.com/search?q=madzilla) | N/A |
-| 37 | [isa molde](http://twitter.com/search?q=isa+molde) | N/A |
-| 38 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 39 | [Dindin](http://twitter.com/search?q=Dindin) | N/A |
-| 40 | [foureverpangga djkara](http://twitter.com/search?q=foureverpangga+djkara) | N/A |
-| 41 | [mnl48 on akbgroup circlejam](http://twitter.com/search?q=mnl48+on+akbgroup+circlejam) | N/A |
-| 42 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
-| 43 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 44 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
-| 45 | [Willie](http://twitter.com/search?q=Willie) | N/A |
-| 46 | [kim ng for top16](http://twitter.com/search?q=kim+ng+for+top16) | N/A |
-| 47 | [FOUREVER WITH ASAHI](http://twitter.com/search?q=FOUREVER+WITH+ASAHI) | N/A |
-| 48 | [SUNGHOON](http://twitter.com/search?q=SUNGHOON) | N/A |
-| 49 | [Khun Neung](http://twitter.com/search?q=Khun+Neung) | N/A |
-| 50 | [Panpan](http://twitter.com/search?q=Panpan) | N/A |
+| 35 | [madzilla](http://twitter.com/search?q=madzilla) | N/A |
+| 36 | [Willie](http://twitter.com/search?q=Willie) | N/A |
+| 37 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 38 | [isa molde](http://twitter.com/search?q=isa+molde) | N/A |
+| 39 | [kyleready ontop](http://twitter.com/search?q=kyleready+ontop) | N/A |
+| 40 | [MARCUS RoadTo TOP7](http://twitter.com/search?q=MARCUS+RoadTo+TOP7) | N/A |
+| 41 | [dindin](http://twitter.com/search?q=dindin) | N/A |
+| 42 | [SEATED FOR REYSTER](http://twitter.com/search?q=SEATED+FOR+REYSTER) | N/A |
+| 43 | [maine as stacy](http://twitter.com/search?q=maine+as+stacy) | N/A |
+| 44 | [mnl48 on akbgroup circlejam](http://twitter.com/search?q=mnl48+on+akbgroup+circlejam) | N/A |
+| 45 | [ABS-CBN](http://twitter.com/search?q=ABS-CBN) | N/A |
+| 46 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 47 | [let jeromy debut](http://twitter.com/search?q=let+jeromy+debut) | N/A |
+| 48 | [LOVE YOU KRISTINA](http://twitter.com/search?q=LOVE+YOU+KRISTINA) | "Love You Kristina" is an expression of affection and care for someone named Kristina. It is a way of expressing love and appreciation for the person. |
+| 49 | [josh l](http://twitter.com/search?q=josh+l) | N/A |
+| 50 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 
 
 

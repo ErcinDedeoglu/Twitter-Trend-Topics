@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-02-05 00:30:29 UTC`
+📆 Last Updated: `2023-02-05 01:44:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 2 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 3 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
-| 4 | [#VaniJayaram](http://twitter.com/search?q=%23VaniJayaram) | N/A |
-| 5 | [#MUNCRY](http://twitter.com/search?q=%23MUNCRY) | #MUNCRY is a hashtag used on social media to express solidarity with the people of Manchester, England, following the 2017 terrorist attack at an Ariana Grande concert. The hashtag is a combination of the words "Manchester" and "cry," and it is used to show support for those affected by the tragedy. |
-| 6 | [ALL TIME GROSSER PATHAAN](http://twitter.com/search?q=ALL+TIME+GROSSER+PATHAAN) | N/A |
-| 7 | [AUDIENCE WINNER SUMBUL](http://twitter.com/search?q=AUDIENCE+WINNER+SUMBUL) | AUDIENCE WINNER SUMBUL is a phrase used to describe a person who has won an audience award or prize. It is usually used in the context of a competition or event where the audience has voted for their favorite contestant or performance. The phrase literally translates to "audience winner" in English. |
-| 8 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 10 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 11 | [SHIV THAKARE THE CONQUEROR](http://twitter.com/search?q=SHIV+THAKARE+THE+CONQUEROR) | N/A |
-| 12 | [pathaan biggest hindi film](http://twitter.com/search?q=pathaan+biggest+hindi+film) | N/A |
-| 13 | [satyameva jayate](http://twitter.com/search?q=satyameva+jayate) | N/A |
-| 14 | [Sushant Had No Godfather InBW](http://twitter.com/search?q=Sushant+Had+No+Godfather+InBW) | N/A |
-| 15 | [cleanliness campaign](http://twitter.com/search?q=cleanliness+campaign) | N/A |
-| 16 | [suraj ko kaun dhakega](http://twitter.com/search?q=suraj+ko+kaun+dhakega) | N/A |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 19 | [Motion Control](http://twitter.com/search?q=Motion+Control) | N/A |
-| 20 | [YASHASVI BHAVA ARCHANA](http://twitter.com/search?q=YASHASVI+BHAVA+ARCHANA) | N/A |
-| 21 | [Perth Scorchers](http://twitter.com/search?q=Perth+Scorchers) | Perth Scorchers is an Australian professional Twenty20 cricket team based in Perth, Western Australia. The team competes in the Big Bash League, the domestic Twenty20 competition in Australia. The name "Scorchers" refers to the hot and dry climate of Perth and the fiery attitude of the team. |
-| 22 | [Media Used As Toolkit InSSRcs](http://twitter.com/search?q=Media+Used+As+Toolkit+InSSRcs) | N/A |
-| 23 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 24 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 25 | [The Journey Begins](http://twitter.com/search?q=The+Journey+Begins) | N/A |
-| 26 | [Lisandro Martinez](http://twitter.com/search?q=Lisandro+Martinez) | N/A |
-| 27 | [वाणी जयराम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 28 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 29 | [90 FPS](http://twitter.com/search?q=90+FPS) | N/A |
-| 30 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Train](http://twitter.com/search?q=Train) | N/A |
-| 34 | [Tilak](http://twitter.com/search?q=Tilak) | N/A |
-| 35 | [शिरोमणि गुरु रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 36 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
-| 37 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 38 | [Sam Curran](http://twitter.com/search?q=Sam+Curran) | Sam Curran is a professional cricketer from England. He is a left-arm fast-medium bowler and left-handed batsman who plays for the England national cricket team and Surrey County Cricket Club. He made his international debut in 2018 and has since become an important member of the team, playing in all three formats of the game. The meaning of Sam Curran in English is "a talented cricketer from England". |
-| 39 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 40 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 41 | [Atlantic Ocean](http://twitter.com/search?q=Atlantic+Ocean) | N/A |
-| 42 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 43 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
-| 44 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 45 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
-| 46 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 47 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 48 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 49 | [Mission](http://twitter.com/search?q=Mission) | N/A |
+| 1 | [#GitaTeraGyanAmrit_AudioBook](http://twitter.com/search?q=%23GitaTeraGyanAmrit_AudioBook) | N/A |
+| 2 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | N/A |
+| 3 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 4 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 5 | [#GodMorningSunday](http://twitter.com/search?q=%23GodMorningSunday) | N/A |
+| 6 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 7 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
+| 8 | [शिरोमणि गुरु रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 9 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
+| 10 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
+| 11 | [ALL TIME GROSSER PATHAAN](http://twitter.com/search?q=ALL+TIME+GROSSER+PATHAAN) | N/A |
+| 12 | [सामाजिक एकता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%8f%e0%a4%95%e0%a4%a4%e0%a4%be) | N/A |
+| 13 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 15 | [AUDIENCE WINNER SUMBUL](http://twitter.com/search?q=AUDIENCE+WINNER+SUMBUL) | AUDIENCE WINNER SUMBUL is a phrase used to describe a person who has won an audience award or prize. It is usually used in the context of a competition or event where the audience has voted for their favorite contestant or performance. The phrase literally translates to "audience winner" in English. |
+| 16 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
+| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 18 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 19 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 20 | [परम ज्ञानी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 21 | [pathaan biggest hindi film](http://twitter.com/search?q=pathaan+biggest+hindi+film) | N/A |
+| 22 | [satyameva jayate](http://twitter.com/search?q=satyameva+jayate) | N/A |
+| 23 | [SHIV THAKARE THE CONQUEROR](http://twitter.com/search?q=SHIV+THAKARE+THE+CONQUEROR) | N/A |
+| 24 | [suraj ko kaun dhakega](http://twitter.com/search?q=suraj+ko+kaun+dhakega) | N/A |
+| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [Sushant Had No Godfather InBW](http://twitter.com/search?q=Sushant+Had+No+Godfather+InBW) | N/A |
+| 28 | [YASHASVI BHAVA ARCHANA](http://twitter.com/search?q=YASHASVI+BHAVA+ARCHANA) | N/A |
+| 29 | [Perth Scorchers](http://twitter.com/search?q=Perth+Scorchers) | Perth Scorchers is an Australian professional Twenty20 cricket team based in Perth, Western Australia. The team competes in the Big Bash League, the domestic Twenty20 competition in Australia. The name "Scorchers" refers to the hot and dry climate of Perth and the fiery attitude of the team. |
+| 30 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 31 | [media used as toolkit inssrcs](http://twitter.com/search?q=media+used+as+toolkit+inssrcs) | N/A |
+| 32 | [Cleanliness Campaign](http://twitter.com/search?q=Cleanliness+Campaign) | N/A |
+| 33 | [Motion Control](http://twitter.com/search?q=Motion+Control) | N/A |
+| 34 | [the journey begins](http://twitter.com/search?q=the+journey+begins) | N/A |
+| 35 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 36 | [Lisandro Martinez](http://twitter.com/search?q=Lisandro+Martinez) | N/A |
+| 37 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 38 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 39 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 40 | [मोहम्मद सिराज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6+%e0%a4%b8%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 41 | [90 fps](http://twitter.com/search?q=90+fps) | N/A |
+| 42 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 43 | [वाणी जयराम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 45 | [Train](http://twitter.com/search?q=Train) | N/A |
+| 46 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 47 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 48 | [सम्पूर्ण जीवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8) | N/A |
+| 49 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-05 00:30:15 UTC`
+📆 Last Updated: `2023-02-05 01:44:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
 | 3 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
 | 4 | [#MYYOUTH_JISUNG](http://twitter.com/search?q=%23MYYOUTH_JISUNG) | #MYYOUTH_JISUNG is a hashtag used by fans of the South Korean singer and actor Jisung. It is used to show support for Jisung and to share content related to him. In English, it translates to "My Youth Jisung". |
-| 5 | [Kita Mulia Dengan Islam](http://twitter.com/search?q=Kita+Mulia+Dengan+Islam) | N/A |
-| 6 | [Menjadi Pengemban Dakwah](http://twitter.com/search?q=Menjadi+Pengemban+Dakwah) | N/A |
+| 5 | [Menjadi Pengemban Dakwah](http://twitter.com/search?q=Menjadi+Pengemban+Dakwah) | N/A |
+| 6 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
 | 7 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
-| 8 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
+| 8 | [Kita Mulia Dengan Islam](http://twitter.com/search?q=Kita+Mulia+Dengan+Islam) | N/A |
 | 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 10 | [Anemo 5](http://twitter.com/search?q=Anemo+5) | Anemo 5 is a type of wind turbine designed by the French company Anemo. It is a small, lightweight, and efficient wind turbine that can be used to generate electricity in remote locations. The name "Anemo 5" comes from the five blades that make up the turbine's rotor. In English, Anemo 5 means "five-bladed wind turbine." |
-| 11 | [Geo 5](http://twitter.com/search?q=Geo+5) | Geo 5 is a geographic information system (GIS) software package developed by Esri. It is used to create, manage, analyze, and share geographic data and maps. Geo 5 is designed to help users visualize, analyze, and interpret data in order to make informed decisions. The name "Geo 5" comes from the five components of the software: Geodatabase, Editing, Analysis, Outputs, and Visualization. |
+| 11 | [Cryo 5](http://twitter.com/search?q=Cryo+5) | Cryo 5 is a brand of cryotherapy machine used to treat a variety of medical conditions. Cryotherapy is a form of cold therapy that involves exposing the body to extremely cold temperatures for a short period of time. The goal of cryotherapy is to reduce inflammation, pain, and swelling in the affected area. Cryo 5 machines use liquid nitrogen to cool the air around the body, creating an environment that can reach temperatures as low as -200°F. |
 | 12 | [Electro 5](http://twitter.com/search?q=Electro+5) | Electro 5 is a type of electronic music genre that combines elements of electro, hip-hop, and house music. It is characterized by its heavy use of synthesizers and drum machines, as well as its incorporation of samples from other genres. The term was coined in the early 2000s to describe a new wave of electronic music that was emerging at the time. |
-| 13 | [Pyro 5](http://twitter.com/search?q=Pyro+5) | Pyro 5 is a type of firework that is designed to produce a loud, colorful display. It is often used in fireworks shows and other celebrations. The name comes from the five stars that are created when the firework explodes. |
-| 14 | [Cryo 5](http://twitter.com/search?q=Cryo+5) | Cryo 5 is a brand of cryotherapy machine used to treat a variety of medical conditions. Cryotherapy is a form of cold therapy that involves exposing the body to extremely cold temperatures for a short period of time. The goal of cryotherapy is to reduce inflammation, pain, and swelling in the affected area. Cryo 5 machines use liquid nitrogen to cool the air around the body, creating an environment that can reach temperatures as low as -200°F. |
-| 15 | [Hydro 5](http://twitter.com/search?q=Hydro+5) | Hydro 5 is a brand of razor blades made by the company Schick. The name Hydro 5 refers to the five ultra-glide blades that are featured on the razor, which provide a close and comfortable shave. |
-| 16 | [Dendro 5](http://twitter.com/search?q=Dendro+5) | Dendro 5 is a software program used for dendrochronology, which is the scientific method of dating tree rings. The name “Dendro 5” comes from the Greek word “dendron” meaning tree. The software helps scientists to analyze and interpret tree-ring data in order to reconstruct past climate and environmental conditions. |
+| 13 | [Geo 5](http://twitter.com/search?q=Geo+5) | Geo 5 is a geographic information system (GIS) software package developed by Esri. It is used to create, manage, analyze, and share geographic data and maps. Geo 5 is designed to help users visualize, analyze, and interpret data in order to make informed decisions. The name "Geo 5" comes from the five components of the software: Geodatabase, Editing, Analysis, Outputs, and Visualization. |
+| 14 | [Pyro 5](http://twitter.com/search?q=Pyro+5) | Pyro 5 is a type of firework that is designed to produce a loud, colorful display. It is often used in fireworks shows and other celebrations. The name comes from the five stars that are created when the firework explodes. |
+| 15 | [Dendro 5](http://twitter.com/search?q=Dendro+5) | Dendro 5 is a software program used for dendrochronology, which is the scientific method of dating tree rings. The name “Dendro 5” comes from the Greek word “dendron” meaning tree. The software helps scientists to analyze and interpret tree-ring data in order to reconstruct past climate and environmental conditions. |
+| 16 | [Hydro 5](http://twitter.com/search?q=Hydro+5) | Hydro 5 is a brand of razor blades made by the company Schick. The name Hydro 5 refers to the five ultra-glide blades that are featured on the razor, which provide a close and comfortable shave. |
 | 17 | [Ini Diplomasi](http://twitter.com/search?q=Ini+Diplomasi) | Ini Diplomasi is a term used in Indonesian to refer to diplomatic relations. It literally translates to "This Diplomacy" and is used to describe the exchange of diplomatic relations between two countries. In English, it can be translated as "diplomatic relations" or "diplomatic ties". |
 | 18 | [Cat 6](http://twitter.com/search?q=Cat+6) | Cat 6 is a type of cable used in networking and data transmission. It is a twisted pair cable for Ethernet and other network physical layers that is backward compatible with the Category 5/5e and Category 3 cable standards. Cat 6 features more stringent specifications for crosstalk and system noise than previous standards. |
 | 19 | [Cat 6](http://twitter.com/search?q=Cat+6) | Cat 6 is a type of cable used in networking and data transmission. It is a twisted pair cable for Ethernet and other network physical layers that is backward compatible with the Category 5/5e and Category 3 cable standards. Cat 6 features more stringent specifications for crosstalk and system noise than previous standards. |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
-| 22 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 23 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 25 | [HAPPY YOUN1VERSARY](http://twitter.com/search?q=HAPPY+YOUN1VERSARY) | N/A |
-| 26 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
-| 27 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 28 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 29 | [Dewa 19](http://twitter.com/search?q=Dewa+19) | N/A |
-| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 31 | [loket](http://twitter.com/search?q=loket) | N/A |
-| 32 | [Nduk](http://twitter.com/search?q=Nduk) | N/A |
-| 33 | [Want To Trade](http://twitter.com/search?q=Want+To+Trade) | N/A |
-| 34 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 35 | [Ari Lasso](http://twitter.com/search?q=Ari+Lasso) | N/A |
-| 36 | [tante lina](http://twitter.com/search?q=tante+lina) | N/A |
-| 37 | [umur 12](http://twitter.com/search?q=umur+12) | N/A |
-| 38 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
-| 39 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 40 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
-| 41 | [SeChan](http://twitter.com/search?q=SeChan) | N/A |
-| 42 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 43 | [Full House](http://twitter.com/search?q=Full+House) | N/A |
-| 44 | [Jeka Saragih](http://twitter.com/search?q=Jeka+Saragih) | N/A |
-| 45 | [Chakra](http://twitter.com/search?q=Chakra) | N/A |
-| 46 | [Jiexpo](http://twitter.com/search?q=Jiexpo) | N/A |
-| 47 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
-| 48 | [Buryam](http://twitter.com/search?q=Buryam) | N/A |
-| 49 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 20 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 23 | [HAPPY YOUN1VERSARY](http://twitter.com/search?q=HAPPY+YOUN1VERSARY) | N/A |
+| 24 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
+| 25 | [Pagrees](http://twitter.com/search?q=Pagrees) | N/A |
+| 26 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 27 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 28 | [Heff](http://twitter.com/search?q=Heff) | N/A |
+| 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 30 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
+| 31 | [EXO-SC INDONESIA FANCON](http://twitter.com/search?q=EXO-SC+INDONESIA+FANCON) | EXO-SC INDONESIA FANCON is an event organized by EXO-SC's Indonesian fan club. It is a fan convention that brings together fans of the K-pop group EXO-SC from all over Indonesia to celebrate their music and show their support for the group. The event includes activities such as fan meetings, games, performances, and more. The English translation of EXO-SC INDONESIA FANCON is EXO-SC Indonesian Fan Convention. |
+| 32 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 33 | [Dewa 19](http://twitter.com/search?q=Dewa+19) | N/A |
+| 34 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
+| 35 | [Nduk](http://twitter.com/search?q=Nduk) | N/A |
+| 36 | [loket](http://twitter.com/search?q=loket) | N/A |
+| 37 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 39 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
+| 40 | [Tante lina](http://twitter.com/search?q=Tante+lina) | N/A |
+| 41 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 42 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 43 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 44 | [Terong](http://twitter.com/search?q=Terong) | N/A |
+| 45 | [Sechan](http://twitter.com/search?q=Sechan) | N/A |
+| 46 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 47 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 48 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 49 | [Ari Lasso](http://twitter.com/search?q=Ari+Lasso) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-02-05 00:30:24 UTC`
+📆 Last Updated: `2023-02-05 01:44:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,43 +25,28 @@ This is top 50 for [Egypt](</Egypt>)
 | 8 | [نادي القرن الافريقي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a) | نادي القرن الافريقي is an Arabic phrase that translates to "African Century Club". It is a non-profit organization based in Morocco that works to promote African culture and values. |
 | 9 | [تريكة](http://twitter.com/search?q=%d8%aa%d8%b1%d9%8a%d9%83%d8%a9) | N/A |
 | 10 | [#بابا_الشغلانه](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%a8%d8%a7_%d8%a7%d9%84%d8%b4%d8%ba%d9%84%d8%a7%d9%86%d9%87) | N/A |
-| 11 | [#القاضيه_ممكن](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87_%d9%85%d9%85%d9%83%d9%86) | N/A |
-| 12 | [صاحب القاضيه](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87) | صاحب القاضيه is an Arabic phrase meaning "the judge". |
-| 13 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
-| 14 | [شريف اسماعيل](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
-| 15 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
-| 16 | [القاضيه التانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 17 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 18 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 19 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 20 | [عدي حدود افريقيا](http://twitter.com/search?q=%d8%b9%d8%af%d9%8a+%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 21 | [لقاء السحاب](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d8%a1+%d8%a7%d9%84%d8%b3%d8%ad%d8%a7%d8%a8) | N/A |
-| 22 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 23 | [محمد مجدي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ac%d8%af%d9%8a) | محمد مجدي is an Arabic name, which translates to English as "Mohammed Majdi". |
-| 24 | [وايل جمعه](http://twitter.com/search?q=%d9%88%d8%a7%d9%8a%d9%84+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 11 | [شريف إسماعيل](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
+| 12 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
+| 13 | [#القاضيه_ممكن](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87_%d9%85%d9%85%d9%83%d9%86) | N/A |
+| 14 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 15 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 16 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 17 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 18 | [عدي حدود افريقيا](http://twitter.com/search?q=%d8%b9%d8%af%d9%8a+%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 19 | [صاحب القاضيه](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87) | صاحب القاضيه is an Arabic phrase meaning "the judge". |
+| 20 | [محمد مجدي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ac%d8%af%d9%8a) | محمد مجدي is an Arabic name, which translates to English as "Mohammed Majdi". |
+| 21 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 22 | [مصنع الكراسي](http://twitter.com/search?q=%d9%85%d8%b5%d9%86%d8%b9+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 23 | [وايل جمعه](http://twitter.com/search?q=%d9%88%d8%a7%d9%8a%d9%84+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 24 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
 | 25 | [محمود علاء](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%b9%d9%84%d8%a7%d8%a1) | N/A |
-| 26 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 26 | [المنطاد الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d8%a7%d8%af+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
 | 27 | [عماد متعب](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%af+%d9%85%d8%aa%d8%b9%d8%a8) | N/A |
-| 28 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 29 | [علي سياتل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b3%d9%8a%d8%a7%d8%aa%d9%84) | N/A |
-| 30 | [مصدر السعاده](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
-| 31 | [المنطاد الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d8%a7%d8%af+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 32 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 33 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 34 | [محمد عبد المنعم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
-| 35 | [حسام غالي](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
-| 36 | [مصنع الكراسي](http://twitter.com/search?q=%d9%85%d8%b5%d9%86%d8%b9+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 37 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
-| 38 | [بايرن ميونخ](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86+%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
-| 39 | [المره الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 40 | [مارسيل كولر](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84+%d9%83%d9%88%d9%84%d8%b1) | N/A |
-| 41 | [علي التوالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d9%84%d9%8a) | N/A |
-| 42 | [هازارد](http://twitter.com/search?q=%d9%87%d8%a7%d8%b2%d8%a7%d8%b1%d8%af) | N/A |
-| 43 | [اوروبا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 44 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 45 | [الجول](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84) | N/A |
-| 46 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 47 | [#افشه](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%b4%d9%87) | N/A |
+| 28 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 29 | [حسام غالي](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
+| 30 | [مارسيل كولر](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84+%d9%83%d9%88%d9%84%d8%b1) | N/A |
+| 31 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 32 | [#افشه](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%b4%d9%87) | N/A |
 
 
 
