@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-05 14:17:24 UTC`
+📆 Last Updated: `2023-02-05 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 2 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | BenidormFest is an annual music festival held in Benidorm, Spain. It features a variety of genres including rock, pop, electronic, and hip-hop. The festival is known for its vibrant atmosphere and diverse lineup of international artists. |
-| 3 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 4 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
-| 5 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
-| 6 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
-| 7 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 8 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 10 | [Mariano](http://twitter.com/search?q=Mariano) | N/A |
-| 11 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
-| 12 | [Castilla](http://twitter.com/search?q=Castilla) | N/A |
-| 13 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 14 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
-| 15 | [Dani Rodríguez](http://twitter.com/search?q=Dani+Rodr%c3%adguez) | N/A |
-| 16 | [#Solos5F](http://twitter.com/search?q=%23Solos5F) | N/A |
-| 17 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 18 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
-| 19 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 20 | [#VillarrealBGranada](http://twitter.com/search?q=%23VillarrealBGranada) | N/A |
-| 21 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 22 | [Jean Paul](http://twitter.com/search?q=Jean+Paul) | N/A |
-| 23 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
-| 24 | [#novedadesdeflavio](http://twitter.com/search?q=%23novedadesdeflavio) | N/A |
-| 25 | [Alcorcón](http://twitter.com/search?q=Alcorc%c3%b3n) | N/A |
-| 26 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
-| 27 | [Obrador](http://twitter.com/search?q=Obrador) | N/A |
-| 28 | [Córdoba](http://twitter.com/search?q=C%c3%b3rdoba) | N/A |
-| 29 | [Mirotic](http://twitter.com/search?q=Mirotic) | Mirotic is a K-pop song by South Korean boy band, TVXQ. The title of the song is derived from the Spanish word "miro" which means "I look". The song is about a man who is in love with a woman and wants to show her how much he loves her. The lyrics express his feelings of admiration and longing for her. |
-| 30 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
-| 31 | [Auronplay](http://twitter.com/search?q=Auronplay) | N/A |
-| 32 | [Rajoy](http://twitter.com/search?q=Rajoy) | N/A |
-| 33 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 34 | [Celia](http://twitter.com/search?q=Celia) | N/A |
-| 35 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 36 | [Spain 0](http://twitter.com/search?q=Spain+0) | N/A |
-| 37 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
-| 38 | [Yeremi](http://twitter.com/search?q=Yeremi) | N/A |
-| 39 | [Tanxugueiras](http://twitter.com/search?q=Tanxugueiras) | N/A |
-| 40 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 41 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 42 | [Santa Águeda](http://twitter.com/search?q=Santa+%c3%81gueda) | N/A |
-| 43 | [Grindr](http://twitter.com/search?q=Grindr) | N/A |
-| 44 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
-| 45 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
-| 46 | [Remedios Amaya](http://twitter.com/search?q=Remedios+Amaya) | N/A |
-| 47 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 48 | [Zapatero](http://twitter.com/search?q=Zapatero) | N/A |
+| 1 | [#BenidormFest](http://twitter.com/search?q=%23BenidormFest) | BenidormFest is an annual music festival held in Benidorm, Spain. It features a variety of genres including rock, pop, electronic, and hip-hop. The festival is known for its vibrant atmosphere and diverse lineup of international artists. |
+| 2 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 3 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 4 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 5 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 6 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
+| 7 | [Hernández Hernández](http://twitter.com/search?q=Hern%c3%a1ndez+Hern%c3%a1ndez) | Hernández Hernández is a Spanish surname meaning "son of Hernán". It is a patronymic name, derived from the given name Hernán, which is itself derived from the Germanic name Ferdinand. In English, it would be translated as "Hernandez son of Hernandez". |
+| 8 | [El Madrid](http://twitter.com/search?q=El+Madrid) | El Madrid is a nickname for the Spanish football team Real Madrid. It is derived from the city of Madrid, where the team is based. In English, it translates to "The Madrid". |
+| 9 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
+| 10 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 11 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 12 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 13 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 14 | [Ausencio](http://twitter.com/search?q=Ausencio) | N/A |
+| 15 | [Son Moix](http://twitter.com/search?q=Son+Moix) | N/A |
+| 16 | [#MALRMA](http://twitter.com/search?q=%23MALRMA) | N/A |
+| 17 | [Rajkovic](http://twitter.com/search?q=Rajkovic) | N/A |
+| 18 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 19 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
+| 20 | [Castilla](http://twitter.com/search?q=Castilla) | N/A |
+| 21 | [Hdez Hdez](http://twitter.com/search?q=Hdez+Hdez) | N/A |
+| 22 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 23 | [#Hoogerheide2023](http://twitter.com/search?q=%23Hoogerheide2023) | N/A |
+| 24 | [Uzuni](http://twitter.com/search?q=Uzuni) | N/A |
+| 25 | [Ficticius](http://twitter.com/search?q=Ficticius) | N/A |
+| 26 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
+| 27 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
+| 28 | [Eldense](http://twitter.com/search?q=Eldense) | N/A |
+| 29 | [#KingsLeaguej5](http://twitter.com/search?q=%23KingsLeaguej5) | N/A |
+| 30 | [#Solos5F](http://twitter.com/search?q=%23Solos5F) | N/A |
+| 31 | [Dani Rodríguez](http://twitter.com/search?q=Dani+Rodr%c3%adguez) | N/A |
+| 32 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 33 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 34 | [Fede Valverde](http://twitter.com/search?q=Fede+Valverde) | N/A |
+| 35 | [Penalti](http://twitter.com/search?q=Penalti) | N/A |
+| 36 | [Galarreta](http://twitter.com/search?q=Galarreta) | N/A |
+| 37 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 38 | [La Cerámica](http://twitter.com/search?q=La+Cer%c3%a1mica) | La Cerámica is a type of pottery or ceramic art that originated in Spain. It is characterized by its bright colors, intricate designs, and unique shapes. The term "La Cerámica" literally translates to "the ceramic" in English. |
+| 39 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 40 | [Mundialito](http://twitter.com/search?q=Mundialito) | N/A |
+| 41 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 42 | [Obrador](http://twitter.com/search?q=Obrador) | N/A |
+| 43 | [Palau](http://twitter.com/search?q=Palau) | N/A |
+| 44 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 45 | [Saras](http://twitter.com/search?q=Saras) | N/A |
+| 46 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 47 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 48 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
 
 
 

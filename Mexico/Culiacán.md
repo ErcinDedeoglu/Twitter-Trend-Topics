@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-02-05 14:17:11 UTC`
+📆 Last Updated: `2023-02-05 15:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 2 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
-| 3 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 4 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 6 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 7 | [#DíaMundialContraElCáncer](http://twitter.com/search?q=%23D%c3%adaMundialContraElC%c3%a1ncer) | N/A |
-| 8 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 9 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 10 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 11 | [#OurLovelyTreasureTAEHYUN](http://twitter.com/search?q=%23OurLovelyTreasureTAEHYUN) | #OurLovelyTreasureTAEHYUN is a hashtag used by fans of the South Korean singer Taehyun. It is used to express their love and appreciation for the singer. In English, it translates to "Our Lovely Treasure Taehyun". |
-| 12 | [#태현이의추억으로완성된22번째악보](http://twitter.com/search?q=%23%ed%83%9c%ed%98%84%ec%9d%b4%ec%9d%98%ec%b6%94%ec%96%b5%ec%9c%bc%eb%a1%9c%ec%99%84%ec%84%b1%eb%90%9c22%eb%b2%88%ec%a7%b8%ec%95%85%eb%b3%b4) | "#태현이의추억으로완성된22번째악보" is a hashtag used to refer to the 22nd musical score composed by Taehyun, which was completed with memories of him. |
-| 13 | [Potro](http://twitter.com/search?q=Potro) | N/A |
-| 14 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 15 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 16 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
-| 17 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
-| 18 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
-| 19 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 20 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 21 | [Tula](http://twitter.com/search?q=Tula) | N/A |
-| 22 | [carlos vargas](http://twitter.com/search?q=carlos+vargas) | N/A |
-| 23 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 24 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 25 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 26 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
-| 27 | [vigon](http://twitter.com/search?q=vigon) | N/A |
-| 28 | [CHOFIS](http://twitter.com/search?q=CHOFIS) | N/A |
-| 29 | [Tiza](http://twitter.com/search?q=Tiza) | N/A |
-| 30 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 31 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 32 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 33 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 34 | [ricardo valiño](http://twitter.com/search?q=ricardo+vali%c3%b1o) | N/A |
-| 35 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
-| 36 | [Alfredo Adame](http://twitter.com/search?q=Alfredo+Adame) | Alfredo Adame is a Mexican actor, comedian, and television host. He is best known for his roles in the television series El Chavo del Ocho and El Chapulín Colorado. In English, the name Alfredo Adame means "Protector of the People". |
-| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 38 | [Constitución Política](http://twitter.com/search?q=Constituci%c3%b3n+Pol%c3%adtica) | N/A |
-| 39 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 40 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
-| 41 | [Pablo Lyle](http://twitter.com/search?q=Pablo+Lyle) | Pablo Lyle is a Mexican actor and singer. He is best known for his roles in the telenovelas La Mujer del Vendaval, La Tempestad, and El Señor de los Cielos. In English, the name Pablo Lyle means "strong and loyal". |
-| 42 | [Orgullo](http://twitter.com/search?q=Orgullo) | N/A |
-| 43 | [NAMJOON OUR PRIDE AND JOY](http://twitter.com/search?q=NAMJOON+OUR+PRIDE+AND+JOY) | "NAMJOON OUR PRIDE AND JOY" is a phrase used to express admiration and love for the South Korean rapper, songwriter, and record producer, Kim Namjoon (also known as RM). It is a way of expressing pride in his accomplishments and joy in his presence. In English, it means that we are proud of Namjoon and we are filled with joy because of him. |
-| 44 | [Paco Rabanne](http://twitter.com/search?q=Paco+Rabanne) | Paco Rabanne is a French fashion house founded in 1966 by Francisco "Paco" Rabaneda Cuervo. The brand is known for its innovative designs and use of unconventional materials, such as metal, paper, and plastic. The name Paco Rabanne is derived from the founder's first and last names. In English, it translates to "Francisco Rabaneda Cuervo". |
-| 45 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
-| 46 | [GUIDO PIZARRO](http://twitter.com/search?q=GUIDO+PIZARRO) | N/A |
-| 47 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 48 | [Esteban Lozano](http://twitter.com/search?q=Esteban+Lozano) | N/A |
-| 49 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 1 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 3 | [Javier Aguirre](http://twitter.com/search?q=Javier+Aguirre) | N/A |
+| 4 | [Estados Unidos Mexicanos](http://twitter.com/search?q=Estados+Unidos+Mexicanos) | N/A |
+| 5 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 6 | [Constitución Política](http://twitter.com/search?q=Constituci%c3%b3n+Pol%c3%adtica) | N/A |
+| 7 | [#5DeFebrero](http://twitter.com/search?q=%235DeFebrero) | N/A |
+| 8 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 9 | [Carta Magna](http://twitter.com/search?q=Carta+Magna) | N/A |
+| 10 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
+| 11 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 12 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 14 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 15 | [El 5](http://twitter.com/search?q=El+5) | N/A |
+| 16 | [#DíaMundialContraElCáncer](http://twitter.com/search?q=%23D%c3%adaMundialContraElC%c3%a1ncer) | N/A |
+| 17 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 18 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 19 | [México-Puebla](http://twitter.com/search?q=M%c3%a9xico-Puebla) | N/A |
+| 20 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 21 | [Excelente Domingo](http://twitter.com/search?q=Excelente+Domingo) | N/A |
+| 22 | [zendejas](http://twitter.com/search?q=zendejas) | N/A |
+| 23 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
+| 24 | [Venustiano Carranza](http://twitter.com/search?q=Venustiano+Carranza) | N/A |
+| 25 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 27 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 28 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 29 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 30 | [Gremlin](http://twitter.com/search?q=Gremlin) | N/A |
+| 31 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 32 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 33 | [Potro](http://twitter.com/search?q=Potro) | N/A |
+| 34 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 35 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 36 | [Tula](http://twitter.com/search?q=Tula) | N/A |
+| 37 | [carlos vargas](http://twitter.com/search?q=carlos+vargas) | N/A |
+| 38 | [Basílica de Guadalupe](http://twitter.com/search?q=Bas%c3%adlica+de+Guadalupe) | N/A |
+| 39 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 40 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
+| 41 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 42 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 43 | [Chofis](http://twitter.com/search?q=Chofis) | N/A |
+| 44 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
+| 45 | [Tiza](http://twitter.com/search?q=Tiza) | N/A |
+| 46 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 47 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 48 | [ricardo valiño](http://twitter.com/search?q=ricardo+vali%c3%b1o) | N/A |
+| 49 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
 
 
 

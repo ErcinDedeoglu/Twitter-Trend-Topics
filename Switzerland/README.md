@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-05 14:18:01 UTC`
+📆 Last Updated: `2023-02-05 15:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
-| 2 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 3 | [Dido](http://twitter.com/search?q=Dido) | N/A |
-| 4 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 5 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
-| 6 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 7 | [#chamonix](http://twitter.com/search?q=%23chamonix) | N/A |
-| 8 | [Rathgeb](http://twitter.com/search?q=Rathgeb) | N/A |
-| 9 | [Weise](http://twitter.com/search?q=Weise) | N/A |
-| 10 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 11 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
-| 12 | [Lüge](http://twitter.com/search?q=L%c3%bcge) | N/A |
-| 13 | [America](http://twitter.com/search?q=America) | N/A |
-| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 15 | [#gczfcb](http://twitter.com/search?q=%23gczfcb) | N/A |
-| 16 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 17 | [Leos](http://twitter.com/search?q=Leos) | N/A |
-| 18 | [West](http://twitter.com/search?q=West) | N/A |
-| 19 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
-| 20 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 21 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 22 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 23 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [Erfahrungen](http://twitter.com/search?q=Erfahrungen) | N/A |
-| 26 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 27 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 28 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 29 | [Interesse](http://twitter.com/search?q=Interesse) | N/A |
-| 30 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 31 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
-| 32 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 33 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 36 | [Fieber](http://twitter.com/search?q=Fieber) | N/A |
-| 37 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 38 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 39 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
-| 40 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
-| 41 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 42 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 43 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
-| 44 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
-| 45 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 46 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 47 | [Dingen](http://twitter.com/search?q=Dingen) | N/A |
-| 48 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 49 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 1 | [Dido](http://twitter.com/search?q=Dido) | N/A |
+| 2 | [#SwissClash](http://twitter.com/search?q=%23SwissClash) | N/A |
+| 3 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 4 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
+| 5 | [Rathgeb](http://twitter.com/search?q=Rathgeb) | N/A |
+| 6 | [#chamonix](http://twitter.com/search?q=%23chamonix) | N/A |
+| 7 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 8 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 9 | [#WorldCancerDay](http://twitter.com/search?q=%23WorldCancerDay) | #WorldCancerDay is an annual event held on February 4th to raise awareness of cancer and to encourage its prevention, detection, and treatment. It is a day for people around the world to unite in the fight against cancer. The goal of World Cancer Day is to save millions of preventable deaths each year by raising awareness and education about the disease, pressing governments and individuals across the world to take action. |
+| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 11 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 12 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
+| 13 | [#gczfcb](http://twitter.com/search?q=%23gczfcb) | N/A |
+| 14 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 15 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
+| 16 | [America](http://twitter.com/search?q=America) | N/A |
+| 17 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 18 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
+| 19 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 20 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 21 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 22 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 23 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
+| 24 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 25 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 26 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 28 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 29 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 30 | [werte](http://twitter.com/search?q=werte) | N/A |
+| 31 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 32 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
+| 33 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
+| 34 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 35 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 36 | [Aufklärung](http://twitter.com/search?q=Aufkl%c3%a4rung) | N/A |
+| 37 | [Spiegel](http://twitter.com/search?q=Spiegel) | N/A |
+| 38 | [Dingen](http://twitter.com/search?q=Dingen) | N/A |
+| 39 | [Jolie](http://twitter.com/search?q=Jolie) | N/A |
+| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 42 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 43 | [Angriff](http://twitter.com/search?q=Angriff) | N/A |
+| 44 | [pfister](http://twitter.com/search?q=pfister) | N/A |
+| 45 | [gleiche](http://twitter.com/search?q=gleiche) | N/A |
+| 46 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
+| 47 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
+| 48 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 49 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 50 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 
 
 

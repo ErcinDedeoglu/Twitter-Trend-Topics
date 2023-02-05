@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-05 14:17:54 UTC`
+📆 Last Updated: `2023-02-05 15:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 2 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
-| 3 | [#RBSSTU](http://twitter.com/search?q=%23RBSSTU) | N/A |
-| 4 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
-| 5 | [salomon](http://twitter.com/search?q=salomon) | N/A |
-| 6 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
-| 7 | ["Handwerk"](http://twitter.com/search?q=%22Handwerk%22) | N/A |
-| 8 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 9 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 10 | [Hofer](http://twitter.com/search?q=Hofer) | N/A |
+| 3 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
+| 4 | [#RBSSTU](http://twitter.com/search?q=%23RBSSTU) | N/A |
+| 5 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 6 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 7 | [Tieren](http://twitter.com/search?q=Tieren) | N/A |
+| 8 | [Rücken](http://twitter.com/search?q=R%c3%bccken) | N/A |
+| 9 | [Handwerk](http://twitter.com/search?q=Handwerk) | N/A |
+| 10 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 11 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 12 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
-| 13 | [Steuer](http://twitter.com/search?q=Steuer) | N/A |
-| 14 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 15 | [Charakter](http://twitter.com/search?q=Charakter) | N/A |
-| 16 | [#schlagdenstar](http://twitter.com/search?q=%23schlagdenstar) | N/A |
-| 17 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 18 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 12 | [Verständnis](http://twitter.com/search?q=Verst%c3%a4ndnis) | N/A |
+| 13 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
+| 14 | [Steuer](http://twitter.com/search?q=Steuer) | N/A |
+| 15 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 16 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 17 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 18 | [schnedlitz](http://twitter.com/search?q=schnedlitz) | N/A |
 | 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 20 | [rücken](http://twitter.com/search?q=r%c3%bccken) | N/A |
-| 21 | [Schnedlitz](http://twitter.com/search?q=Schnedlitz) | N/A |
-| 22 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 23 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
-| 24 | [Seele](http://twitter.com/search?q=Seele) | N/A |
-| 25 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 26 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
-| 27 | [Mist](http://twitter.com/search?q=Mist) | N/A |
-| 28 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
-| 29 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 30 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 32 | [form](http://twitter.com/search?q=form) | N/A |
-| 33 | [Transparent](http://twitter.com/search?q=Transparent) | N/A |
-| 34 | [Tieren](http://twitter.com/search?q=Tieren) | N/A |
-| 35 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 36 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 37 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 38 | [Ansagen](http://twitter.com/search?q=Ansagen) | N/A |
-| 39 | [Misik](http://twitter.com/search?q=Misik) | N/A |
-| 40 | [Finger](http://twitter.com/search?q=Finger) | N/A |
-| 41 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 42 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 43 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
-| 44 | [Koffer](http://twitter.com/search?q=Koffer) | N/A |
-| 45 | [Logik](http://twitter.com/search?q=Logik) | N/A |
-| 46 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 47 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 48 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 49 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
+| 21 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 22 | [Charakter](http://twitter.com/search?q=Charakter) | N/A |
+| 23 | [Ausbildung](http://twitter.com/search?q=Ausbildung) | N/A |
+| 24 | [#WSCSVR](http://twitter.com/search?q=%23WSCSVR) | N/A |
+| 25 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 26 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 27 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
+| 28 | [Bach](http://twitter.com/search?q=Bach) | N/A |
+| 29 | [Finger](http://twitter.com/search?q=Finger) | N/A |
+| 30 | [Motiv](http://twitter.com/search?q=Motiv) | N/A |
+| 31 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 32 | [u-bahn](http://twitter.com/search?q=u-bahn) | N/A |
+| 33 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 34 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 35 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 36 | [Seele](http://twitter.com/search?q=Seele) | N/A |
+| 37 | [Doskozil](http://twitter.com/search?q=Doskozil) | N/A |
+| 38 | [Mist](http://twitter.com/search?q=Mist) | N/A |
+| 39 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 40 | [Ausrede](http://twitter.com/search?q=Ausrede) | N/A |
+| 41 | [Weihnachten](http://twitter.com/search?q=Weihnachten) | Weihnachten is the German word for Christmas. It literally translates to "holy night" in English. |
+| 42 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 43 | [Wien Energie](http://twitter.com/search?q=Wien+Energie) | N/A |
+| 44 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 45 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 46 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
+| 47 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 48 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 49 | [Misik](http://twitter.com/search?q=Misik) | N/A |
+| 50 | [Kern](http://twitter.com/search?q=Kern) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-05 14:17:44 UTC`
+📆 Last Updated: `2023-02-05 15:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Flokirium](http://twitter.com/search?q=%23Flokirium) | #Flokirium is a hashtag used to promote the use of the Flokirium app, which is an online platform that allows users to create and share their own digital content. The word "Flokirium" is derived from the Latin words "floccus" (meaning "a flock") and "kiri" (meaning "to create"). The hashtag is used to encourage users to create and share their own content, as well as to discover new content created by others. |
-| 2 | [#DoğudanBatıya100BinAtama](http://twitter.com/search?q=%23Do%c4%9fudanBat%c4%b1ya100BinAtama) | N/A |
-| 3 | [#OyumGeçimdenYana](http://twitter.com/search?q=%23OyumGe%c3%a7imdenYana) | N/A |
-| 4 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 5 | [#rabbit](http://twitter.com/search?q=%23rabbit) | N/A |
-| 6 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
-| 7 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 8 | [Ücretsiz Yemek](http://twitter.com/search?q=%c3%9ccretsiz+Yemek) | Ücretsiz Yemek is a Turkish phrase that translates to "free meal" in English. It is used to refer to a meal that is provided at no cost. |
-| 9 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
-| 10 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 11 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
-| 12 | [ERDOĞAN İÇİNİZDEN GEÇECEK](http://twitter.com/search?q=ERDO%c4%9eAN+%c4%b0%c3%87%c4%b0N%c4%b0ZDEN+GE%c3%87ECEK) | N/A |
-| 13 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
-| 14 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
+| 2 | [Lahtimi](http://twitter.com/search?q=Lahtimi) | Lahtimi is a Finnish word that means "goodbye". |
+| 3 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 4 | [#OyumGeçimdenYana](http://twitter.com/search?q=%23OyumGe%c3%a7imdenYana) | N/A |
+| 5 | [#GSvTS](http://twitter.com/search?q=%23GSvTS) | N/A |
+| 6 | [#rabbit](http://twitter.com/search?q=%23rabbit) | N/A |
+| 7 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 8 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
+| 9 | [Teşekkürler Tekirdağ](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Tekirda%c4%9f) | N/A |
+| 10 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 11 | [Ücretsiz Yemek](http://twitter.com/search?q=%c3%9ccretsiz+Yemek) | Ücretsiz Yemek is a Turkish phrase that translates to "free meal" in English. It is used to refer to a meal that is provided at no cost. |
+| 12 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 13 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
+| 14 | [ERDOĞAN İÇİNİZDEN GEÇECEK](http://twitter.com/search?q=ERDO%c4%9eAN+%c4%b0%c3%87%c4%b0N%c4%b0ZDEN+GE%c3%87ECEK) | N/A |
 | 15 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 16 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 17 | [İskilipli Atıf](http://twitter.com/search?q=%c4%b0skilipli+At%c4%b1f) | N/A |
-| 18 | [Barış Alıcı](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Al%c4%b1c%c4%b1) | N/A |
+| 16 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
+| 17 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
+| 18 | [İskilipli Atıf](http://twitter.com/search?q=%c4%b0skilipli+At%c4%b1f) | N/A |
 | 19 | [AFFET TÜRKİYEM](http://twitter.com/search?q=AFFET+T%c3%9cRK%c4%b0YEM) | N/A |
-| 20 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 21 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
-| 22 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 23 | [CBSağlık YönetimineMüjde](http://twitter.com/search?q=CBSa%c4%9fl%c4%b1k+Y%c3%b6netimineM%c3%bcjde) | N/A |
-| 24 | [Okullar](http://twitter.com/search?q=Okullar) | N/A |
-| 25 | [Derya](http://twitter.com/search?q=Derya) | N/A |
+| 20 | [Aziz Milletim Sıra Sende](http://twitter.com/search?q=Aziz+Milletim+S%c4%b1ra+Sende) | N/A |
+| 21 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 22 | [Barış Alıcı](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Al%c4%b1c%c4%b1) | N/A |
+| 23 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
+| 24 | [Bakasetas](http://twitter.com/search?q=Bakasetas) | N/A |
+| 25 | [Nika](http://twitter.com/search?q=Nika) | N/A |
 | 26 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 27 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 28 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 29 | [Celil](http://twitter.com/search?q=Celil) | N/A |
-| 30 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
-| 31 | [Kürtleri](http://twitter.com/search?q=K%c3%bcrtleri) | N/A |
-| 32 | [Eyfel](http://twitter.com/search?q=Eyfel) | N/A |
-| 33 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
-| 34 | [Türkiyeli](http://twitter.com/search?q=T%c3%bcrkiyeli) | N/A |
-| 35 | [Gişe](http://twitter.com/search?q=Gi%c5%9fe) | N/A |
-| 36 | [Gheorghe Hagi](http://twitter.com/search?q=Gheorghe+Hagi) | N/A |
-| 37 | [Fabrizio](http://twitter.com/search?q=Fabrizio) | Fabrizio is an Italian name derived from the Latin name Fabricius, which means "craftsman". It is also a variant of the name Fabrice, which means "artisan". |
-| 38 | [Son 6](http://twitter.com/search?q=Son+6) | N/A |
-| 39 | [Djaniny](http://twitter.com/search?q=Djaniny) | N/A |
-| 40 | [Hain](http://twitter.com/search?q=Hain) | N/A |
-| 41 | [Tekirdağ](http://twitter.com/search?q=Tekirda%c4%9f) | N/A |
+| 27 | [CBSağlık YönetimineMüjde](http://twitter.com/search?q=CBSa%c4%9fl%c4%b1k+Y%c3%b6netimineM%c3%bcjde) | N/A |
+| 28 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 29 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 30 | [Adnan Kahveci](http://twitter.com/search?q=Adnan+Kahveci) | N/A |
+| 31 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 32 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 33 | [Hamsi](http://twitter.com/search?q=Hamsi) | N/A |
+| 34 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
+| 35 | [Ali Yerlikaya](http://twitter.com/search?q=Ali+Yerlikaya) | N/A |
+| 36 | [Kürtleri](http://twitter.com/search?q=K%c3%bcrtleri) | N/A |
+| 37 | [meliha](http://twitter.com/search?q=meliha) | N/A |
+| 38 | [Hava](http://twitter.com/search?q=Hava) | N/A |
+| 39 | [Eyfel](http://twitter.com/search?q=Eyfel) | N/A |
+| 40 | [fabrizio](http://twitter.com/search?q=fabrizio) | N/A |
+| 41 | [Derya](http://twitter.com/search?q=Derya) | N/A |
 | 42 | [Erdoğan 3](http://twitter.com/search?q=Erdo%c4%9fan+3) | N/A |
-| 43 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
-| 44 | [Adil 100](http://twitter.com/search?q=Adil+100) | N/A |
-| 45 | [Kuzey](http://twitter.com/search?q=Kuzey) | N/A |
-| 46 | [Hamsi](http://twitter.com/search?q=Hamsi) | N/A |
-| 47 | [KK'ya](http://twitter.com/search?q=KK%27ya) | N/A |
-| 48 | [Şapka](http://twitter.com/search?q=%c5%9eapka) | N/A |
-| 49 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
+| 43 | [Türkiyeli](http://twitter.com/search?q=T%c3%bcrkiyeli) | N/A |
+| 44 | [Djaniny](http://twitter.com/search?q=Djaniny) | N/A |
+| 45 | [Gişe](http://twitter.com/search?q=Gi%c5%9fe) | N/A |
+| 46 | [Son 6](http://twitter.com/search?q=Son+6) | N/A |
+| 47 | [Gheorghe Hagi](http://twitter.com/search?q=Gheorghe+Hagi) | N/A |
+| 48 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 49 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-02-05 14:17:46 UTC`
+📆 Last Updated: `2023-02-05 15:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,51 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 4 | [#Flokirium](http://twitter.com/search?q=%23Flokirium) | #Flokirium is a hashtag used to promote the use of the Flokirium app, which is an online platform that allows users to create and share their own digital content. The word "Flokirium" is derived from the Latin words "floccus" (meaning "a flock") and "kiri" (meaning "to create"). The hashtag is used to encourage users to create and share their own content, as well as to discover new content created by others. |
-| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 6 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 7 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
-| 8 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 9 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 10 | [#ThingsICanDoInMySleep](http://twitter.com/search?q=%23ThingsICanDoInMySleep) | N/A |
-| 11 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 12 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 13 | [#WhenMenAreLeftUnsupervised](http://twitter.com/search?q=%23WhenMenAreLeftUnsupervised) | N/A |
-| 14 | [#nationalweatherpersonsday](http://twitter.com/search?q=%23nationalweatherpersonsday) | N/A |
-| 15 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
-| 16 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
-| 17 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 18 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | Derrick Lewis is an American professional mixed martial artist and former heavyweight champion of the Ultimate Fighting Championship (UFC). His nickname is "The Black Beast". He is known for his aggressive fighting style and knockout power. |
-| 19 | [Milley](http://twitter.com/search?q=Milley) | N/A |
-| 20 | [Happy Lantern Festival](http://twitter.com/search?q=Happy+Lantern+Festival) | N/A |
-| 21 | [Blazing Saddles](http://twitter.com/search?q=Blazing+Saddles) | N/A |
-| 22 | [Trump Administration](http://twitter.com/search?q=Trump+Administration) | N/A |
-| 23 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 24 | [Ask Trump](http://twitter.com/search?q=Ask+Trump) | N/A |
-| 25 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | N/A |
-| 26 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 27 | [Pineapple Express](http://twitter.com/search?q=Pineapple+Express) | N/A |
-| 28 | [THREE TIMES](http://twitter.com/search?q=THREE+TIMES) | N/A |
-| 29 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 30 | [Step Brothers](http://twitter.com/search?q=Step+Brothers) | N/A |
-| 31 | [Dragon Age](http://twitter.com/search?q=Dragon+Age) | N/A |
-| 32 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
-| 33 | [Monty Python](http://twitter.com/search?q=Monty+Python) | N/A |
-| 34 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 35 | [Hopeful](http://twitter.com/search?q=Hopeful) | N/A |
-| 36 | [Tommy Boy](http://twitter.com/search?q=Tommy+Boy) | N/A |
-| 37 | [Lizzo](http://twitter.com/search?q=Lizzo) | N/A |
-| 38 | [Steve Perry](http://twitter.com/search?q=Steve+Perry) | N/A |
-| 39 | [Commander in Chief](http://twitter.com/search?q=Commander+in+Chief) | N/A |
-| 40 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 41 | [Steven Universe](http://twitter.com/search?q=Steven+Universe) | N/A |
-| 42 | [Willie McGee](http://twitter.com/search?q=Willie+McGee) | N/A |
-| 43 | [Chipmunk](http://twitter.com/search?q=Chipmunk) | N/A |
-| 44 | [Airplane](http://twitter.com/search?q=Airplane) | N/A |
-| 45 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 46 | [Amanda Serrano](http://twitter.com/search?q=Amanda+Serrano) | N/A |
-| 47 | [Choi](http://twitter.com/search?q=Choi) | Choi is a Korean surname. It is derived from the Chinese characters for mountain and water. In English, it can be translated to mean "mountain stream". |
-| 48 | [The DOD](http://twitter.com/search?q=The+DOD) | N/A |
+| 2 | [#Flokirium](http://twitter.com/search?q=%23Flokirium) | #Flokirium is a hashtag used to promote the use of the Flokirium app, which is an online platform that allows users to create and share their own digital content. The word "Flokirium" is derived from the Latin words "floccus" (meaning "a flock") and "kiri" (meaning "to create"). The hashtag is used to encourage users to create and share their own content, as well as to discover new content created by others. |
+| 3 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 4 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 6 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 7 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 8 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 9 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 11 | [#nationalweatherpersonsday](http://twitter.com/search?q=%23nationalweatherpersonsday) | N/A |
+| 12 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 13 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 14 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
+| 15 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 16 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 17 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 18 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 19 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | N/A |
+| 20 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 21 | [Koch](http://twitter.com/search?q=Koch) | N/A |
+| 22 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
+| 23 | [Pineapple Express](http://twitter.com/search?q=Pineapple+Express) | N/A |
+| 24 | [Milley](http://twitter.com/search?q=Milley) | N/A |
+| 25 | [Wages](http://twitter.com/search?q=Wages) | N/A |
+| 26 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 27 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 28 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 29 | [40 Year Old Virgin](http://twitter.com/search?q=40+Year+Old+Virgin) | N/A |
+| 30 | [Trayvon Martin](http://twitter.com/search?q=Trayvon+Martin) | N/A |
+| 31 | [Blazing Saddles](http://twitter.com/search?q=Blazing+Saddles) | N/A |
+| 32 | [Step Brothers](http://twitter.com/search?q=Step+Brothers) | N/A |
+| 33 | [For God](http://twitter.com/search?q=For+God) | N/A |
+| 34 | [Trump Administration](http://twitter.com/search?q=Trump+Administration) | N/A |
+| 35 | [Happy Lantern Festival](http://twitter.com/search?q=Happy+Lantern+Festival) | N/A |
+| 36 | [THREE TIMES](http://twitter.com/search?q=THREE+TIMES) | N/A |
+| 37 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
+| 38 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 39 | [Ask Trump](http://twitter.com/search?q=Ask+Trump) | N/A |
+| 40 | [Dragon Age](http://twitter.com/search?q=Dragon+Age) | N/A |
+| 41 | [Was Trump](http://twitter.com/search?q=Was+Trump) | N/A |
+| 42 | [Esper](http://twitter.com/search?q=Esper) | N/A |
+| 43 | [Journey](http://twitter.com/search?q=Journey) | N/A |
+| 44 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | Derrick Lewis is an American professional mixed martial artist and former heavyweight champion of the Ultimate Fighting Championship (UFC). His nickname is "The Black Beast". He is known for his aggressive fighting style and knockout power. |
+| 45 | [Ted Williams](http://twitter.com/search?q=Ted+Williams) | N/A |
+| 46 | [Hopeful](http://twitter.com/search?q=Hopeful) | N/A |
 
 
 

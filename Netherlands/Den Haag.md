@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-05 14:17:23 UTC`
+📆 Last Updated: `2023-02-05 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#feypsv](http://twitter.com/search?q=%23feypsv) | N/A |
+| 1 | [#feypsv](http://twitter.com/search?q=%23feypsv) | #feypsv is an acronym for "Follow Every Young Person's Social Voice," which is a campaign to encourage young people to use their social media platforms to speak out on issues that matter to them. |
 | 2 | [#camaja](http://twitter.com/search?q=%23camaja) | N/A |
-| 3 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
-| 4 | [Schreuder](http://twitter.com/search?q=Schreuder) | Schreuder is a Dutch surname derived from the Germanic personal name "Schroeder," which means "one who cuts with a scythe." It is also a common surname in South Africa, where it is sometimes spelled "Schreuder." |
-| 5 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 6 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
-| 7 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 8 | [El Ghazi](http://twitter.com/search?q=El+Ghazi) | N/A |
-| 9 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 10 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 11 | [guti](http://twitter.com/search?q=guti) | N/A |
-| 12 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 13 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
-| 14 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 15 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 16 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 17 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 18 | [Makkelie](http://twitter.com/search?q=Makkelie) | N/A |
-| 19 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
-| 20 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
-| 21 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 22 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
-| 23 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 24 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 25 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 26 | [Mwene](http://twitter.com/search?q=Mwene) | N/A |
+| 3 | [Makkelie](http://twitter.com/search?q=Makkelie) | N/A |
+| 4 | [Obispo](http://twitter.com/search?q=Obispo) | N/A |
+| 5 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 6 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 7 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
+| 8 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 9 | [#WKHoogerheide](http://twitter.com/search?q=%23WKHoogerheide) | N/A |
+| 10 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 11 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
+| 12 | [Mwene](http://twitter.com/search?q=Mwene) | N/A |
+| 13 | [El Ghazi](http://twitter.com/search?q=El+Ghazi) | N/A |
+| 14 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
+| 15 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 16 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 17 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 18 | [Thijs Slegers](http://twitter.com/search?q=Thijs+Slegers) | N/A |
+| 19 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 20 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 21 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 22 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 23 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 24 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 25 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 26 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
 | 27 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 28 | [Fitz-Jim](http://twitter.com/search?q=Fitz-Jim) | N/A |
-| 29 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 30 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 31 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
-| 32 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 33 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
-| 34 | [Van Aanholt](http://twitter.com/search?q=Van+Aanholt) | N/A |
-| 35 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 36 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
-| 37 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
-| 38 | [Roda JC](http://twitter.com/search?q=Roda+JC) | N/A |
-| 39 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 40 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 41 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 42 | [Dag 5](http://twitter.com/search?q=Dag+5) | N/A |
-| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 44 | [Kouderecords](http://twitter.com/search?q=Kouderecords) | N/A |
-| 45 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
-| 46 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
-| 47 | [Karolien](http://twitter.com/search?q=Karolien) | N/A |
-| 48 | [Delft](http://twitter.com/search?q=Delft) | N/A |
-| 49 | [Leeuwarden](http://twitter.com/search?q=Leeuwarden) | N/A |
+| 28 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 29 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 30 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
+| 31 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 32 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 33 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 34 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 35 | [Lammers](http://twitter.com/search?q=Lammers) | N/A |
+| 36 | [Delft](http://twitter.com/search?q=Delft) | N/A |
+| 37 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
+| 38 | [#gaenec](http://twitter.com/search?q=%23gaenec) | N/A |
+| 39 | [#wkveldrijden](http://twitter.com/search?q=%23wkveldrijden) | N/A |
+| 40 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
+| 41 | [#Eredivisie](http://twitter.com/search?q=%23Eredivisie) | N/A |
+| 42 | [#RODmvv](http://twitter.com/search?q=%23RODmvv) | N/A |
+| 43 | [#grotwe](http://twitter.com/search?q=%23grotwe) | N/A |
+| 44 | [#psvaja](http://twitter.com/search?q=%23psvaja) | N/A |
+| 45 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 46 | [#RodaJC](http://twitter.com/search?q=%23RodaJC) | N/A |
+| 47 | [#DIEPROZE](http://twitter.com/search?q=%23DIEPROZE) | N/A |
+| 48 | [#D66moetweg](http://twitter.com/search?q=%23D66moetweg) | N/A |
+| 49 | [#FOSDEM](http://twitter.com/search?q=%23FOSDEM) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-05 14:17:59 UTC`
+📆 Last Updated: `2023-02-05 15:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for New Zealand
 | 8 | [Millie](http://twitter.com/search?q=Millie) | N/A |
 | 9 | [Hailwood](http://twitter.com/search?q=Hailwood) | N/A |
 | 10 | [#supersmashnz](http://twitter.com/search?q=%23supersmashnz) | N/A |
-| 11 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 12 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 13 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 14 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 11 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 12 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 13 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 14 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
 | 15 | [Byron](http://twitter.com/search?q=Byron) | N/A |
 | 16 | [Pakeha](http://twitter.com/search?q=Pakeha) | N/A |
 | 17 | [Crown](http://twitter.com/search?q=Crown) | N/A |
 | 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 19 | [The Chinese](http://twitter.com/search?q=The+Chinese) | The Chinese is a term used to refer to people from China or of Chinese descent. It can also be used to refer to the Chinese language, culture, or cuisine. |
 | 20 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 21 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 22 | [FREEreadKU Amazon](http://twitter.com/search?q=FREEreadKU+Amazon) | N/A |
-| 23 | [New Plymouth](http://twitter.com/search?q=New+Plymouth) | N/A |
-| 24 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 25 | [#ShinyPokemon](http://twitter.com/search?q=%23ShinyPokemon) | N/A |
-| 26 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 27 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 21 | [FREEreadKU Amazon](http://twitter.com/search?q=FREEreadKU+Amazon) | N/A |
+| 22 | [new plymouth](http://twitter.com/search?q=new+plymouth) | N/A |
+| 23 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 24 | [#ShinyPokemon](http://twitter.com/search?q=%23ShinyPokemon) | N/A |
+| 25 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 27 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 29 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 30 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 31 | [te reo](http://twitter.com/search?q=te+reo) | N/A |
-| 32 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 33 | [Celsius](http://twitter.com/search?q=Celsius) | N/A |
-| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 35 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 36 | [ptom](http://twitter.com/search?q=ptom) | N/A |
-| 37 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 38 | [west auckland](http://twitter.com/search?q=west+auckland) | N/A |
-| 39 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 40 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 41 | [America](http://twitter.com/search?q=America) | N/A |
-| 42 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 44 | [david seymour](http://twitter.com/search?q=david+seymour) | N/A |
-| 45 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 46 | [Judith](http://twitter.com/search?q=Judith) | N/A |
-| 47 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 48 | [Careful](http://twitter.com/search?q=Careful) | N/A |
-| 49 | [Perth](http://twitter.com/search?q=Perth) | N/A |
-| 50 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 29 | [te reo](http://twitter.com/search?q=te+reo) | N/A |
+| 30 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 31 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 32 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
+| 33 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 34 | [west auckland](http://twitter.com/search?q=west+auckland) | N/A |
+| 35 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 36 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 37 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 39 | [America](http://twitter.com/search?q=America) | N/A |
+| 40 | [david seymour](http://twitter.com/search?q=david+seymour) | N/A |
+| 41 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 42 | [aotearoa](http://twitter.com/search?q=aotearoa) | N/A |
+| 43 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 44 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 45 | [ptom](http://twitter.com/search?q=ptom) | N/A |
+| 46 | [Perth](http://twitter.com/search?q=Perth) | N/A |
+| 47 | [Stunning](http://twitter.com/search?q=Stunning) | N/A |
+| 48 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 49 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 50 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
 
 
 

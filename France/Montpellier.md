@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-02-05 14:17:20 UTC`
+📆 Last Updated: `2023-02-05 15:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CF63ASM](http://twitter.com/search?q=%23CF63ASM) | N/A |
-| 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 3 | [Majorque](http://twitter.com/search?q=Majorque) | N/A |
-| 4 | [#PSGTFC](http://twitter.com/search?q=%23PSGTFC) | N/A |
-| 5 | [Minamino](http://twitter.com/search?q=Minamino) | N/A |
-| 6 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 7 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 8 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 10 | [Mariano](http://twitter.com/search?q=Mariano) | N/A |
-| 11 | [ANDRÉ GOMES](http://twitter.com/search?q=ANDR%c3%89+GOMES) | N/A |
-| 12 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
-| 13 | [Clermont](http://twitter.com/search?q=Clermont) | Clermont is a French city located in the Auvergne-Rhône-Alpes region. In English, it means "clear mountain". |
-| 14 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
-| 15 | [Golovin](http://twitter.com/search?q=Golovin) | N/A |
-| 16 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 17 | [Maffeo](http://twitter.com/search?q=Maffeo) | Maffeo is an Italian name derived from the Latin name Matthaeus, which means "gift of God". It is also a variant of the name Matthew. |
-| 18 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 19 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 20 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
-| 21 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
-| 22 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 23 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 24 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 25 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 26 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 27 | [Marion Maréchal](http://twitter.com/search?q=Marion+Mar%c3%a9chal) | N/A |
-| 28 | [Clash](http://twitter.com/search?q=Clash) | N/A |
-| 29 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
-| 30 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 31 | [Penaud](http://twitter.com/search?q=Penaud) | N/A |
-| 32 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 33 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
-| 34 | [Paris-Nice](http://twitter.com/search?q=Paris-Nice) | N/A |
-| 35 | [Mahious](http://twitter.com/search?q=Mahious) | N/A |
-| 36 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 37 | [Ekitike](http://twitter.com/search?q=Ekitike) | Ekitike is a term used in the Igbo language of Nigeria, and it means “to help” or “to assist.” |
-| 38 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
-| 39 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 40 | [Mazel Tov](http://twitter.com/search?q=Mazel+Tov) | N/A |
-| 41 | [Seductive Sunday](http://twitter.com/search?q=Seductive+Sunday) | N/A |
-| 42 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 43 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 44 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 45 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 46 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 47 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 1 | [#ITAFRA](http://twitter.com/search?q=%23ITAFRA) | N/A |
+| 2 | [Majorque](http://twitter.com/search?q=Majorque) | Majorque is the French name for the Spanish island of Mallorca. It is an island located in the Mediterranean Sea off the coast of Spain. In English, Majorque means Mallorca. |
+| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 4 | [#RCSAMHSC](http://twitter.com/search?q=%23RCSAMHSC) | N/A |
+| 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 6 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 7 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 8 | [#ACAFCN](http://twitter.com/search?q=%23ACAFCN) | N/A |
+| 9 | [#CF63ASM](http://twitter.com/search?q=%23CF63ASM) | N/A |
+| 10 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 11 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 12 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 13 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 14 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 15 | [Minamino](http://twitter.com/search?q=Minamino) | N/A |
+| 16 | [Allez les Bleus](http://twitter.com/search?q=Allez+les+Bleus) | N/A |
+| 17 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 18 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
+| 19 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
+| 20 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 21 | [Diatta](http://twitter.com/search?q=Diatta) | N/A |
+| 22 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 23 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 24 | [Clermont](http://twitter.com/search?q=Clermont) | Clermont is a French city located in the Auvergne-Rhône-Alpes region. In English, it means "clear mountain". |
+| 25 | [Golovin](http://twitter.com/search?q=Golovin) | N/A |
+| 26 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 27 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 28 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 29 | [Schiappa](http://twitter.com/search?q=Schiappa) | N/A |
+| 30 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 31 | [Marion Maréchal](http://twitter.com/search?q=Marion+Mar%c3%a9chal) | N/A |
+| 32 | [Dechavanne](http://twitter.com/search?q=Dechavanne) | N/A |
+| 33 | [Milla](http://twitter.com/search?q=Milla) | N/A |
+| 34 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
+| 35 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 36 | [#AJASDR](http://twitter.com/search?q=%23AJASDR) | N/A |
+| 37 | [#MallorcaRealMadrid](http://twitter.com/search?q=%23MallorcaRealMadrid) | N/A |
+| 38 | [#FCLSCO](http://twitter.com/search?q=%23FCLSCO) | N/A |
+| 39 | [#Hoogerheide2023](http://twitter.com/search?q=%23Hoogerheide2023) | N/A |
+| 40 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
+| 41 | [#XVdeFrance](http://twitter.com/search?q=%23XVdeFrance) | N/A |
+| 42 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 43 | [#OMOGCN](http://twitter.com/search?q=%23OMOGCN) | N/A |
+| 44 | [#LUCAS](http://twitter.com/search?q=%23LUCAS) | #LUCAS is an acronym for the Latin phrase "Lux in Caelo Aperuit Scientiam" which translates to "Light in Heaven Opened Knowledge". It is often used as a hashtag on social media to refer to topics related to knowledge, enlightenment, and spiritual growth. |
+| 45 | [#SixNations2023](http://twitter.com/search?q=%23SixNations2023) | N/A |
+| 46 | [#DeLaPsychoDansUnTitre](http://twitter.com/search?q=%23DeLaPsychoDansUnTitre) | N/A |
+| 47 | [#SB29RCL](http://twitter.com/search?q=%23SB29RCL) | N/A |
+| 48 | [#Ligue1UberEats](http://twitter.com/search?q=%23Ligue1UberEats) | N/A |
+| 49 | [#6nations2023](http://twitter.com/search?q=%236nations2023) | N/A |
 
 
 
