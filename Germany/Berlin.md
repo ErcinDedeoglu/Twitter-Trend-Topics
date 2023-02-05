@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-05 13:19:02 UTC`
+📆 Last Updated: `2023-02-05 14:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 2 | [#fcsph96](http://twitter.com/search?q=%23fcsph96) | N/A |
-| 3 | [#FCHHSV](http://twitter.com/search?q=%23FCHHSV) | N/A |
+| 1 | [#FCHHSV](http://twitter.com/search?q=%23FCHHSV) | N/A |
+| 2 | [#FCSPh96](http://twitter.com/search?q=%23FCSPh96) | N/A |
+| 3 | [#VfBSVW](http://twitter.com/search?q=%23VfBSVW) | N/A |
 | 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 5 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
-| 6 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 5 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 6 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
 | 7 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 8 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 9 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
-| 10 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 11 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
-| 12 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 13 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 14 | [Zurückhaltung](http://twitter.com/search?q=Zur%c3%bcckhaltung) | N/A |
-| 15 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 16 | [Huub](http://twitter.com/search?q=Huub) | N/A |
-| 17 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
-| 18 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 19 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 20 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 21 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 22 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
-| 23 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
-| 24 | [Schneeflocken](http://twitter.com/search?q=Schneeflocken) | N/A |
-| 25 | [kerner](http://twitter.com/search?q=kerner) | N/A |
-| 26 | [Indexmieten](http://twitter.com/search?q=Indexmieten) | N/A |
-| 27 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 28 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 29 | [Mittagessen](http://twitter.com/search?q=Mittagessen) | N/A |
+| 8 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
+| 9 | [Neumann](http://twitter.com/search?q=Neumann) | N/A |
+| 10 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 11 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 12 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 13 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
+| 14 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 15 | [Odessa](http://twitter.com/search?q=Odessa) | N/A |
+| 16 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 17 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 18 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 19 | [Zurückhaltung](http://twitter.com/search?q=Zur%c3%bcckhaltung) | N/A |
+| 20 | [Indexmieten](http://twitter.com/search?q=Indexmieten) | N/A |
+| 21 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 22 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 23 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 24 | [Hansa](http://twitter.com/search?q=Hansa) | N/A |
+| 25 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
+| 26 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 27 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
+| 28 | [kerner](http://twitter.com/search?q=kerner) | N/A |
+| 29 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
 | 30 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
-| 31 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 32 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 33 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 34 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 35 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 36 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 37 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 38 | [Odessa](http://twitter.com/search?q=Odessa) | N/A |
-| 39 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 40 | [Bundesbürger](http://twitter.com/search?q=Bundesb%c3%bcrger) | N/A |
-| 41 | [Tablet](http://twitter.com/search?q=Tablet) | N/A |
-| 42 | [Happy Lantern Festival](http://twitter.com/search?q=Happy+Lantern+Festival) | N/A |
-| 43 | [Laken](http://twitter.com/search?q=Laken) | N/A |
-| 44 | [Lebensstil](http://twitter.com/search?q=Lebensstil) | N/A |
-| 45 | [Investitionen](http://twitter.com/search?q=Investitionen) | N/A |
-| 46 | [Hafermilch](http://twitter.com/search?q=Hafermilch) | N/A |
-| 47 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 48 | [abschuss](http://twitter.com/search?q=abschuss) | N/A |
+| 31 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
+| 32 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 33 | [Huub](http://twitter.com/search?q=Huub) | N/A |
+| 34 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 35 | [Pauli](http://twitter.com/search?q=Pauli) | Pauli is a German surname derived from the Latin name Paulus, meaning "small" or "humble". It is also a nickname for someone named Paul. |
+| 36 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 37 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 38 | [Söldner](http://twitter.com/search?q=S%c3%b6ldner) | N/A |
+| 39 | [Tablet](http://twitter.com/search?q=Tablet) | N/A |
+| 40 | [Happy Lantern Festival](http://twitter.com/search?q=Happy+Lantern+Festival) | N/A |
+| 41 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 42 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 43 | [Bundesbürger](http://twitter.com/search?q=Bundesb%c3%bcrger) | N/A |
+| 44 | [Laken](http://twitter.com/search?q=Laken) | N/A |
+| 45 | [Herr Wüst](http://twitter.com/search?q=Herr+W%c3%bcst) | N/A |
+| 46 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 47 | [Hafermilch](http://twitter.com/search?q=Hafermilch) | N/A |
+| 48 | [Mittagessen](http://twitter.com/search?q=Mittagessen) | N/A |
 
 
 

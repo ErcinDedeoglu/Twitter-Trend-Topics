@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-05 13:19:08 UTC`
+📆 Last Updated: `2023-02-05 14:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 2 | [Dewa](http://twitter.com/search?q=Dewa) | N/A |
-| 3 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
-| 4 | [#TeamYouth](http://twitter.com/search?q=%23TeamYouth) | N/A |
+| 1 | [#TeamYouth](http://twitter.com/search?q=%23TeamYouth) | N/A |
+| 2 | [#TeamYoung](http://twitter.com/search?q=%23TeamYoung) | N/A |
+| 3 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
+| 4 | [#TDS2inJAKARTA](http://twitter.com/search?q=%23TDS2inJAKARTA) | #TDS2inJAKARTA is a hashtag used to promote the second edition of The Digital Summit (TDS) in Jakarta, Indonesia. It is an event that brings together digital professionals from around the world to discuss the latest trends and technologies in the digital space. |
 | 5 | [ARMY BATTLE PARTY](http://twitter.com/search?q=ARMY+BATTLE+PARTY) | ARMY BATTLE PARTY is a type of game in which players take on the role of an army commander and battle against each other in a virtual environment. The goal is to outwit and outmaneuver your opponents in order to win the battle. In English, it can be translated as "Military Combat Party". |
-| 6 | [#TeamYoung](http://twitter.com/search?q=%23TeamYoung) | N/A |
-| 7 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
-| 8 | [#아프지마지훈아](http://twitter.com/search?q=%23%ec%95%84%ed%94%84%ec%a7%80%eb%a7%88%ec%a7%80%ed%9b%88%ec%95%84) | "#아프지마지훈아" is a hashtag used in South Korea to express sympathy and support for someone who is going through a difficult time. It translates to "Don't be hurt, Junhoon-ah". |
-| 9 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
-| 10 | [Back to December](http://twitter.com/search?q=Back+to+December) | N/A |
-| 11 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 12 | [50 M](http://twitter.com/search?q=50+M) | N/A |
-| 13 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 14 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 15 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 16 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 17 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
-| 18 | [Prihatin](http://twitter.com/search?q=Prihatin) | N/A |
-| 19 | [Bokap](http://twitter.com/search?q=Bokap) | N/A |
-| 20 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 21 | [Cap Go Meh](http://twitter.com/search?q=Cap+Go+Meh) | N/A |
-| 22 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
-| 23 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 24 | [Soree](http://twitter.com/search?q=Soree) | N/A |
-| 25 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 26 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 27 | [Genjer](http://twitter.com/search?q=Genjer) | N/A |
-| 28 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
-| 29 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 30 | [SPY X FAM](http://twitter.com/search?q=SPY+X+FAM) | N/A |
-| 31 | [LeoNiel](http://twitter.com/search?q=LeoNiel) | N/A |
-| 32 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 33 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 34 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 35 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 36 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 37 | [Utang](http://twitter.com/search?q=Utang) | N/A |
-| 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 39 | [#น่าฮักจังเล๊ย](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%ae%e0%b8%b1%e0%b8%81%e0%b8%88%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%8a%e0%b8%a2) | #น่าฮักจังเล๊ย is a hashtag used on social media in Thailand. It translates to "so cute" in English. |
-| 40 | [#ShootingStarInTaipei](http://twitter.com/search?q=%23ShootingStarInTaipei) | #ShootingStarInTaipei is a hashtag used to refer to a meteor shower that was visible in Taipei, Taiwan in December 2019. The hashtag is used to share photos and videos of the event on social media. |
-| 41 | [#ElseveHyarulonXGF](http://twitter.com/search?q=%23ElseveHyarulonXGF) | N/A |
-| 42 | [#holoIDKimonoDAY3](http://twitter.com/search?q=%23holoIDKimonoDAY3) | N/A |
-| 43 | [#PIDBJKT48School](http://twitter.com/search?q=%23PIDBJKT48School) | N/A |
-| 44 | [#BKPPxCaremateCEOLive](http://twitter.com/search?q=%23BKPPxCaremateCEOLive) | N/A |
-| 45 | [#BabyDogeSwap](http://twitter.com/search?q=%23BabyDogeSwap) | N/A |
-| 46 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 47 | [#pidbjkt48gen11](http://twitter.com/search?q=%23pidbjkt48gen11) | N/A |
-| 48 | [#MANIACinSG](http://twitter.com/search?q=%23MANIACinSG) | N/A |
+| 6 | [#BAEKHYUN_is_back](http://twitter.com/search?q=%23BAEKHYUN_is_back) | #BAEKHYUN_is_back is a hashtag used to express excitement and anticipation for the return of South Korean singer Baekhyun. It is often used on social media platforms such as Twitter and Instagram. In English, it means "Baekhyun is back!" |
+| 7 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 8 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
+| 9 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
+| 10 | [Dewa 19](http://twitter.com/search?q=Dewa+19) | N/A |
+| 11 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
+| 12 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 13 | [Cat 6](http://twitter.com/search?q=Cat+6) | Cat 6 is a type of cable used in networking and data transmission. It is a twisted pair cable for Ethernet and other network physical layers that is backward compatible with the Category 5/5e and Category 3 cable standards. Cat 6 features more stringent specifications for crosstalk and system noise than previous standards. |
+| 14 | [Genjer](http://twitter.com/search?q=Genjer) | N/A |
+| 15 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 16 | [SPY X FAM](http://twitter.com/search?q=SPY+X+FAM) | N/A |
+| 17 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
+| 18 | [Jeka](http://twitter.com/search?q=Jeka) | N/A |
+| 19 | [WE LOVE YOU NAMJOON](http://twitter.com/search?q=WE+LOVE+YOU+NAMJOON) | "WE LOVE YOU NAMJOON" is a phrase used to express love and admiration for the South Korean rapper, songwriter, and record producer Namjoon. In English, it means "We love you, Namjoon!" |
+| 20 | [Anemo 5](http://twitter.com/search?q=Anemo+5) | Anemo 5 is a type of wind turbine designed by the French company Anemo. It is a small, lightweight, and efficient wind turbine that can be used to generate electricity in remote locations. The name "Anemo 5" comes from the five blades that make up the turbine's rotor. In English, Anemo 5 means "five-bladed wind turbine." |
+| 21 | [Electro 5](http://twitter.com/search?q=Electro+5) | Electro 5 is a type of electronic music genre that combines elements of electro, hip-hop, and house music. It is characterized by its heavy use of synthesizers and drum machines, as well as its incorporation of samples from other genres. The term was coined in the early 2000s to describe a new wave of electronic music that was emerging at the time. |
+| 22 | [Geo 5](http://twitter.com/search?q=Geo+5) | Geo 5 is a geographic information system (GIS) software package developed by Esri. It is used to create, manage, analyze, and share geographic data and maps. Geo 5 is designed to help users visualize, analyze, and interpret data in order to make informed decisions. The name "Geo 5" comes from the five components of the software: Geodatabase, Editing, Analysis, Outputs, and Visualization. |
+| 23 | [Pyro 5](http://twitter.com/search?q=Pyro+5) | Pyro 5 is a type of firework that is designed to produce a loud, colorful display. It is often used in fireworks shows and other celebrations. The name comes from the five stars that are created when the firework explodes. |
+| 24 | [Dendro 5](http://twitter.com/search?q=Dendro+5) | Dendro 5 is a software program used for dendrochronology, which is the scientific method of dating tree rings. The name “Dendro 5” comes from the Greek word “dendron” meaning tree. The software helps scientists to analyze and interpret tree-ring data in order to reconstruct past climate and environmental conditions. |
+| 25 | [Cryo 5](http://twitter.com/search?q=Cryo+5) | Cryo 5 is a brand of cryotherapy machine used to treat a variety of medical conditions. Cryotherapy is a form of cold therapy that involves exposing the body to extremely cold temperatures for a short period of time. The goal of cryotherapy is to reduce inflammation, pain, and swelling in the affected area. Cryo 5 machines use liquid nitrogen to cool the air around the body, creating an environment that can reach temperatures as low as -200°F. |
+| 26 | [Hydro 5](http://twitter.com/search?q=Hydro+5) | Hydro 5 is a brand of razor blades made by the company Schick. The name Hydro 5 refers to the five ultra-glide blades that are featured on the razor, which provide a close and comfortable shave. |
+| 27 | [50 M](http://twitter.com/search?q=50+M) | N/A |
+| 28 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 29 | [cat 1a](http://twitter.com/search?q=cat+1a) | N/A |
+| 30 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 31 | [Back to December](http://twitter.com/search?q=Back+to+December) | N/A |
+| 32 | [teknologi var](http://twitter.com/search?q=teknologi+var) | N/A |
+| 33 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
+| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 35 | [Nduk](http://twitter.com/search?q=Nduk) | N/A |
+| 36 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 37 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 38 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 39 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 40 | [WANT TO BUY](http://twitter.com/search?q=WANT+TO+BUY) | N/A |
+| 41 | [Lunin](http://twitter.com/search?q=Lunin) | Lunin is a Russian surname derived from the word "луна" (luna), which means "moon" in English. It is also a given name, typically used for boys. |
+| 42 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
+| 43 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
+| 44 | [Ari Lasso](http://twitter.com/search?q=Ari+Lasso) | N/A |
+| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 46 | [exo-sc indonesia fancon](http://twitter.com/search?q=exo-sc+indonesia+fancon) | N/A |
+| 47 | [Cap Go Meh](http://twitter.com/search?q=Cap+Go+Meh) | N/A |
+| 48 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 49 | [Tahun](http://twitter.com/search?q=Tahun) | N/A |
+| 50 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 
 
 

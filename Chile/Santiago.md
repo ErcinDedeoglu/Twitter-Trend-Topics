@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-05 13:18:56 UTC`
+📆 Last Updated: `2023-02-05 14:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#incendiosforestales](http://twitter.com/search?q=%23incendiosforestales) | N/A |
-| 2 | [#incendiosforestales](http://twitter.com/search?q=%23incendiosforestales) | N/A |
+| 1 | [#IncendiosForestales](http://twitter.com/search?q=%23IncendiosForestales) | N/A |
+| 2 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 3 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
 | 4 | [#GobiernoDeInutiles](http://twitter.com/search?q=%23GobiernoDeInutiles) | N/A |
 | 5 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 6 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 7 | [#copadavisentvn](http://twitter.com/search?q=%23copadavisentvn) | N/A |
-| 8 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 9 | [Santa Laura](http://twitter.com/search?q=Santa+Laura) | Santa Laura is a traditional Chilean folk song that tells the story of a young girl who falls in love with a soldier. The song's title refers to the name of the girl, Santa Laura. In English, the title translates to "Saint Laura". |
-| 10 | [Santa Juana](http://twitter.com/search?q=Santa+Juana) | Santa Juana is a Spanish phrase that translates to Saint Joan. It is a reference to Joan of Arc, a French saint who led the French army in the Hundred Years' War. |
+| 6 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 7 | [Santa Laura](http://twitter.com/search?q=Santa+Laura) | Santa Laura is a traditional Chilean folk song that tells the story of a young girl who falls in love with a soldier. The song's title refers to the name of the girl, Santa Laura. In English, the title translates to "Saint Laura". |
+| 8 | [#FuerzaChile](http://twitter.com/search?q=%23FuerzaChile) | N/A |
+| 9 | [#CopaDavisEnTVN](http://twitter.com/search?q=%23CopaDavisEnTVN) | N/A |
+| 10 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
 | 11 | [Conaf](http://twitter.com/search?q=Conaf) | N/A |
-| 12 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 13 | [Purén](http://twitter.com/search?q=Pur%c3%a9n) | N/A |
-| 14 | [Temucuicui](http://twitter.com/search?q=Temucuicui) | N/A |
-| 15 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
-| 16 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 17 | [Curamávida](http://twitter.com/search?q=Curam%c3%a1vida) | N/A |
+| 12 | [Santa Juana](http://twitter.com/search?q=Santa+Juana) | Santa Juana is a Spanish phrase that translates to Saint Joan. It is a reference to Joan of Arc, a French saint who led the French army in the Hundred Years' War. |
+| 13 | [Temucuicui](http://twitter.com/search?q=Temucuicui) | N/A |
+| 14 | [ONEMI](http://twitter.com/search?q=ONEMI) | N/A |
+| 15 | [Purén](http://twitter.com/search?q=Pur%c3%a9n) | N/A |
+| 16 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
+| 17 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 | 18 | [piero maza](http://twitter.com/search?q=piero+maza) | N/A |
-| 19 | [Seguimos](http://twitter.com/search?q=Seguimos) | N/A |
-| 20 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
-| 21 | [nico jarry](http://twitter.com/search?q=nico+jarry) | N/A |
-| 22 | [La CAM](http://twitter.com/search?q=La+CAM) | N/A |
-| 23 | [nacimiento](http://twitter.com/search?q=nacimiento) | N/A |
-| 24 | [APRA](http://twitter.com/search?q=APRA) | N/A |
-| 25 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 26 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
-| 27 | [La Serena](http://twitter.com/search?q=La+Serena) | N/A |
-| 28 | [Casablanca](http://twitter.com/search?q=Casablanca) | N/A |
-| 29 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 30 | [Ñuble](http://twitter.com/search?q=%c3%91uble) | N/A |
-| 31 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 32 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 19 | [La CAM](http://twitter.com/search?q=La+CAM) | N/A |
+| 20 | [nacimiento](http://twitter.com/search?q=nacimiento) | N/A |
+| 21 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 22 | [APRA](http://twitter.com/search?q=APRA) | N/A |
+| 23 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 24 | [Seguimos](http://twitter.com/search?q=Seguimos) | N/A |
+| 25 | [La Serena](http://twitter.com/search?q=La+Serena) | N/A |
+| 26 | [Casablanca](http://twitter.com/search?q=Casablanca) | N/A |
+| 27 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
+| 28 | [Saturday Night Live](http://twitter.com/search?q=Saturday+Night+Live) | N/A |
+| 29 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
+| 30 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 31 | [Ñuble](http://twitter.com/search?q=%c3%91uble) | N/A |
+| 32 | [Cuchillo](http://twitter.com/search?q=Cuchillo) | N/A |
 | 33 | [Bublik](http://twitter.com/search?q=Bublik) | N/A |
-| 34 | [DL 701](http://twitter.com/search?q=DL+701) | N/A |
-| 35 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
-| 36 | [la higuera](http://twitter.com/search?q=la+higuera) | N/A |
-| 37 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
-| 38 | [Bombo Fica](http://twitter.com/search?q=Bombo+Fica) | N/A |
-| 39 | [SENAPRED](http://twitter.com/search?q=SENAPRED) | N/A |
-| 40 | [pinares](http://twitter.com/search?q=pinares) | N/A |
-| 41 | [SuperTanker](http://twitter.com/search?q=SuperTanker) | N/A |
-| 42 | [Saturday Night Live](http://twitter.com/search?q=Saturday+Night+Live) | N/A |
-| 43 | [Campillay](http://twitter.com/search?q=Campillay) | N/A |
+| 34 | [Tabilo](http://twitter.com/search?q=Tabilo) | N/A |
+| 35 | [Curamávida](http://twitter.com/search?q=Curam%c3%a1vida) | N/A |
+| 36 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 37 | [La Higuera](http://twitter.com/search?q=La+Higuera) | N/A |
+| 38 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 39 | [DL 701](http://twitter.com/search?q=DL+701) | N/A |
+| 40 | [Bombo Fica](http://twitter.com/search?q=Bombo+Fica) | N/A |
+| 41 | [Soap](http://twitter.com/search?q=Soap) | N/A |
+| 42 | [pinares](http://twitter.com/search?q=pinares) | N/A |
+| 43 | [Senapred](http://twitter.com/search?q=Senapred) | N/A |
 | 44 | [Violeta Parra](http://twitter.com/search?q=Violeta+Parra) | N/A |
-| 45 | [paila](http://twitter.com/search?q=paila) | N/A |
-| 46 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
-| 47 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
-| 48 | [Don Francisco](http://twitter.com/search?q=Don+Francisco) | N/A |
-| 49 | [Soap](http://twitter.com/search?q=Soap) | N/A |
-| 50 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
+| 45 | [Campillay](http://twitter.com/search?q=Campillay) | N/A |
+| 46 | [SuperTanker](http://twitter.com/search?q=SuperTanker) | N/A |
+| 47 | [Ten Tanker](http://twitter.com/search?q=Ten+Tanker) | N/A |
+| 48 | [don francisco](http://twitter.com/search?q=don+francisco) | N/A |
+| 49 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
+| 50 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 
 
 

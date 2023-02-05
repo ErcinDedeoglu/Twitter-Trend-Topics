@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-05 13:18:59 UTC`
+📆 Last Updated: `2023-02-05 14:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FutevoleiNoVE](http://twitter.com/search?q=%23FutevoleiNoVE) | N/A |
-| 2 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 4 | [BOA SORTE ANITTA](http://twitter.com/search?q=BOA+SORTE+ANITTA) | "BOA SORTE ANITTA" is a Portuguese phrase that translates to "Good luck Anitta" in English. It is a phrase of encouragement and support for the Brazilian singer Anitta. |
-| 5 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
-| 6 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 7 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 8 | [#LuanCityNaRecord](http://twitter.com/search?q=%23LuanCityNaRecord) | #LuanCityNaRecord is a hashtag used by people in Luan City, China to share their experiences and memories of the city. It can be translated to mean "Luan City on Record". |
-| 9 | [Glória Maria](http://twitter.com/search?q=Gl%c3%b3ria+Maria) | Glória Maria is a Portuguese phrase meaning “Glory to Mary”. It is often used as an expression of praise and devotion to the Virgin Mary, the mother of Jesus. |
-| 10 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
-| 11 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 13 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 14 | [maiara e maraisa dvd portugal](http://twitter.com/search?q=maiara+e+maraisa+dvd+portugal) | N/A |
-| 15 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 16 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 17 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
-| 18 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
-| 19 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 20 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 21 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 22 | [Meliha](http://twitter.com/search?q=Meliha) | N/A |
-| 23 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 24 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 25 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 26 | [Globeleza](http://twitter.com/search?q=Globeleza) | N/A |
-| 27 | [GAP 1ST TH GIRLSLOVE](http://twitter.com/search?q=GAP+1ST+TH+GIRLSLOVE) | GAP 1ST TH GIRLSLOVE is an acronym that stands for "Girls Appreciate Passion First, Then Happiness". It is a phrase used to encourage girls to prioritize their passions and dreams before seeking out happiness. |
-| 28 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 29 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
-| 30 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
-| 33 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
-| 34 | [Fener](http://twitter.com/search?q=Fener) | N/A |
-| 35 | [Derya](http://twitter.com/search?q=Derya) | N/A |
-| 36 | [Alexandre Pires](http://twitter.com/search?q=Alexandre+Pires) | Alexandre Pires is a Brazilian singer, songwriter, and producer. He is best known for his romantic ballads and samba-reggae fusion music. In English, the name Alexandre Pires means "defender of peace". |
-| 37 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 38 | [Guimarães Rosa](http://twitter.com/search?q=Guimar%c3%a3es+Rosa) | N/A |
-| 39 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 40 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 41 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
-| 42 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
-| 43 | [WE LOVE YOU RM](http://twitter.com/search?q=WE+LOVE+YOU+RM) | "WE LOVE YOU RM" is a phrase used to express admiration and support for the South Korean rapper, RM (formerly known as Rap Monster). The phrase is often used by fans of RM to show their appreciation and love for him. In English, it means "We love you, RM!" |
-| 44 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
-| 45 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 46 | [Caio Castro](http://twitter.com/search?q=Caio+Castro) | Caio Castro is a Brazilian actor, singer, and model. In English, the name Caio Castro can be translated to mean "Victory of the Castle". |
-| 47 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 48 | [Bruna e Paula](http://twitter.com/search?q=Bruna+e+Paula) | N/A |
-| 49 | [Wydad](http://twitter.com/search?q=Wydad) | Wydad is a Moroccan football club based in Casablanca. The name Wydad means "love" or "affection" in Arabic. |
+| 1 | [Palácio](http://twitter.com/search?q=Pal%c3%a1cio) | N/A |
+| 2 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 3 | [#PINTOAWARDS](http://twitter.com/search?q=%23PINTOAWARDS) | N/A |
+| 4 | [Rayssa Leal](http://twitter.com/search?q=Rayssa+Leal) | Rayssa Leal is a Portuguese name. It is derived from the Latin name Rasia, which means “rose”. In English, it can be translated to mean “Rose of God” or “Rose of the Lord”. |
+| 5 | [#SkateNoSportv](http://twitter.com/search?q=%23SkateNoSportv) | N/A |
+| 6 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 7 | [#Flokirium](http://twitter.com/search?q=%23Flokirium) | #Flokirium is a hashtag used to promote the use of the Flokirium app, which is an online platform that allows users to create and share their own digital content. The word "Flokirium" is derived from the Latin words "floccus" (meaning "a flock") and "kiri" (meaning "to create"). The hashtag is used to encourage users to create and share their own content, as well as to discover new content created by others. |
+| 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 9 | [#FutevoleiNoVE](http://twitter.com/search?q=%23FutevoleiNoVE) | N/A |
+| 10 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 11 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
+| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 13 | [BOA SORTE ANITTA](http://twitter.com/search?q=BOA+SORTE+ANITTA) | "BOA SORTE ANITTA" is a Portuguese phrase that translates to "Good luck Anitta" in English. It is a phrase of encouragement and support for the Brazilian singer Anitta. |
+| 14 | [MARZIA](http://twitter.com/search?q=MARZIA) | MARZIA is an Italian female name derived from the Latin word “Martia”, which means “dedicated to Mars”. It is also associated with the Italian word “marziale”, which means “martial” or “warlike”. The name is often given to girls born in March, as it is associated with the Roman god of war, Mars. |
+| 15 | [PEWDIEPIE](http://twitter.com/search?q=PEWDIEPIE) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 16 | [Moderno](http://twitter.com/search?q=Moderno) | N/A |
+| 17 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | N/A |
+| 18 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 19 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 20 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 21 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
+| 22 | [Globeleza](http://twitter.com/search?q=Globeleza) | N/A |
+| 23 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 24 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
+| 25 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
+| 26 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 27 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
+| 28 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
+| 29 | [ESTOU COM LULA](http://twitter.com/search?q=ESTOU+COM+LULA) | N/A |
+| 30 | [Thais Carla](http://twitter.com/search?q=Thais+Carla) | N/A |
+| 31 | [É HOJE](http://twitter.com/search?q=%c3%89+HOJE) | N/A |
+| 32 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
+| 33 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 34 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 35 | [Campos Neto](http://twitter.com/search?q=Campos+Neto) | N/A |
+| 36 | [Melody](http://twitter.com/search?q=Melody) | N/A |
+| 37 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 38 | [Obesidade](http://twitter.com/search?q=Obesidade) | N/A |
+| 39 | [AOTY](http://twitter.com/search?q=AOTY) | N/A |
+| 40 | [Bruna e Paula](http://twitter.com/search?q=Bruna+e+Paula) | N/A |
+| 41 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 42 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 43 | [Outback](http://twitter.com/search?q=Outback) | N/A |
+| 44 | [Micheque](http://twitter.com/search?q=Micheque) | N/A |
+| 45 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
+| 46 | [SOTY](http://twitter.com/search?q=SOTY) | N/A |
+| 47 | [BEM FEITO](http://twitter.com/search?q=BEM+FEITO) | N/A |
+| 48 | [Baek](http://twitter.com/search?q=Baek) | N/A |
+| 49 | [Cardi](http://twitter.com/search?q=Cardi) | N/A |
 
 
 
