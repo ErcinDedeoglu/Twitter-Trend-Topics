@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-05 04:16:57 UTC`
+📆 Last Updated: `2023-02-05 05:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 2 | [#melodifestivalen2023](http://twitter.com/search?q=%23melodifestivalen2023) | N/A |
-| 3 | [Mello](http://twitter.com/search?q=Mello) | N/A |
+| 2 | [Mello](http://twitter.com/search?q=Mello) | N/A |
+| 3 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
 | 4 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 5 | [Jon Henrik](http://twitter.com/search?q=Jon+Henrik) | N/A |
 | 6 | [Tone](http://twitter.com/search?q=Tone) | N/A |
@@ -42,10 +42,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 25 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 26 | [månbas alpha](http://twitter.com/search?q=m%c3%a5nbas+alpha) | N/A |
 | 27 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 28 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 29 | [andrae](http://twitter.com/search?q=andrae) | N/A |
-| 30 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 29 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
+| 30 | [andrae](http://twitter.com/search?q=andrae) | N/A |
+| 31 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |
 | 32 | [Skolinspektionen](http://twitter.com/search?q=Skolinspektionen) | N/A |
 | 33 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 34 | [hjalmar ekdal](http://twitter.com/search?q=hjalmar+ekdal) | N/A |
@@ -55,11 +55,11 @@ This is top 50 for [Sweden](</Sweden>)
 | 38 | [carl-einar häckner](http://twitter.com/search?q=carl-einar+h%c3%a4ckner) | N/A |
 | 39 | [Loulou](http://twitter.com/search?q=Loulou) | N/A |
 | 40 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 41 | [Örjan](http://twitter.com/search?q=%c3%96rjan) | N/A |
+| 41 | [örjan](http://twitter.com/search?q=%c3%b6rjan) | N/A |
 | 42 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 43 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 44 | [palace](http://twitter.com/search?q=palace) | N/A |
-| 45 | [Morgan Johansson](http://twitter.com/search?q=Morgan+Johansson) | N/A |
+| 44 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 45 | [morgan johansson](http://twitter.com/search?q=morgan+johansson) | N/A |
 | 46 | [Ådalen](http://twitter.com/search?q=%c3%85dalen) | N/A |
 | 47 | [Elov](http://twitter.com/search?q=Elov) | N/A |
 | 48 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-02-05 04:17:13 UTC`
+📆 Last Updated: `2023-02-05 05:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [India](</India>)
 | 2 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | Sant Rampal Ji Maharaj App is an Android app that provides users with access to teachings and videos from Sant Rampal Ji Maharaj, a spiritual leader from India. The app also provides users with access to audio recordings of his sermons, as well as information about upcoming events and activities related to Sant Rampal Ji Maharaj. The English translation of the name of the app is "Saint Rampal Ji Maharaj App". |
 | 3 | [#RavidasJayanti](http://twitter.com/search?q=%23RavidasJayanti) | N/A |
 | 4 | [शिरोमणि गुरु रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि गुरु रविदास is a Sanskrit phrase meaning "the teacher of the gods, Ravidas". It is a reference to the 15th-century Indian poet and mystic, Ravidas. |
-| 5 | [Matru Pitru Pujan Diwas](http://twitter.com/search?q=Matru+Pitru+Pujan+Diwas) | N/A |
-| 6 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 7 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
-| 8 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
-| 9 | [Sachhi Raah Dikhane Wale](http://twitter.com/search?q=Sachhi+Raah+Dikhane+Wale) | N/A |
-| 10 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
-| 11 | [सामाजिक एकता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%8f%e0%a4%95%e0%a4%a4%e0%a4%be) | N/A |
+| 5 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 6 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
+| 7 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
+| 8 | [सामाजिक एकता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%8f%e0%a4%95%e0%a4%a4%e0%a4%be) | N/A |
+| 9 | [Matru Pitru Pujan Diwas](http://twitter.com/search?q=Matru+Pitru+Pujan+Diwas) | N/A |
+| 10 | [Ghulja Massacre](http://twitter.com/search?q=Ghulja+Massacre) | N/A |
+| 11 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
 | 12 | [परम ज्ञानी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 13 | [SSRians Love For Sushant](http://twitter.com/search?q=SSRians+Love+For+Sushant) | N/A |
-| 14 | [Shame On BBC](http://twitter.com/search?q=Shame+On+BBC) | N/A |
+| 13 | [Sachhi Raah Dikhane Wale](http://twitter.com/search?q=Sachhi+Raah+Dikhane+Wale) | N/A |
+| 14 | [SSRians Love For Sushant](http://twitter.com/search?q=SSRians+Love+For+Sushant) | N/A |
 | 15 | [पावन जयंती](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 16 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 16 | [Shame On BBC](http://twitter.com/search?q=Shame+On+BBC) | N/A |
 | 17 | [पवित्र पुस्तक गीता](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%97%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 18 | [सहज स्वरूप](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b9%e0%a4%9c+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 19 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 20 | [Playstore](http://twitter.com/search?q=Playstore) | Playstore is an online store for Android devices, developed and maintained by Google. It allows users to browse and download applications developed with the Android SDK and published through Google. The store offers both free and paid apps, as well as in-app purchases for certain apps. |
-| 21 | [Supreme God](http://twitter.com/search?q=Supreme+God) | N/A |
-| 22 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 23 | [Cleanliness Campaign](http://twitter.com/search?q=Cleanliness+Campaign) | N/A |
-| 24 | [Official App](http://twitter.com/search?q=Official+App) | N/A |
-| 25 | [Download](http://twitter.com/search?q=Download) | N/A |
-| 26 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 27 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 29 | [#अप्रतिम_पहल](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%bf%e0%a4%ae_%e0%a4%aa%e0%a4%b9%e0%a4%b2) | N/A |
-| 30 | [#BharatWithModiJi](http://twitter.com/search?q=%23BharatWithModiJi) | N/A |
-| 31 | [#CleanedRajasthan](http://twitter.com/search?q=%23CleanedRajasthan) | N/A |
-| 32 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 33 | [#தைப்பூசம்](http://twitter.com/search?q=%23%e0%ae%a4%e0%af%88%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%82%e0%ae%9a%e0%ae%ae%e0%af%8d) | N/A |
-| 34 | [#sundaythoughts](http://twitter.com/search?q=%23sundaythoughts) | N/A |
-| 35 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 36 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 37 | [#TPGajendran](http://twitter.com/search?q=%23TPGajendran) | N/A |
-| 38 | [#GiftOfCleanliness](http://twitter.com/search?q=%23GiftOfCleanliness) | N/A |
-| 39 | [#CR7𓃵](http://twitter.com/search?q=%23CR7%f0%93%83%b5) | #CR7𓃵 is a hashtag used to show support for the Portuguese soccer player Cristiano Ronaldo. It is a combination of his initials (CR) and the Egyptian hieroglyph for “eternity” (𓃵). The hashtag is used to express admiration and loyalty for Ronaldo, and can be translated to mean “Cristiano Ronaldo Forever”. |
-| 40 | [#CristianoRonaldo𓃵](http://twitter.com/search?q=%23CristianoRonaldo%f0%93%83%b5) | N/A |
-| 41 | [#Thaipusam](http://twitter.com/search?q=%23Thaipusam) | N/A |
-| 42 | [#ERCP_राष्ट्रीय_प्रोजेक्ट_बनाओ](http://twitter.com/search?q=%23ERCP_%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%9f_%e0%a4%ac%e0%a4%a8%e0%a4%be%e0%a4%93) | N/A |
-| 43 | [#ChineseSpyBalloon](http://twitter.com/search?q=%23ChineseSpyBalloon) | #ChineseSpyBalloon is a hashtag used to refer to a type of surveillance balloon developed by the Chinese military. The balloons are equipped with cameras and sensors that can be used to monitor activity on the ground. The term is often used in a derogatory manner to criticize China's surveillance activities. |
-| 44 | [#GodMorningSunday](http://twitter.com/search?q=%23GodMorningSunday) | N/A |
-| 45 | [#MaghPurnima](http://twitter.com/search?q=%23MaghPurnima) | N/A |
-| 46 | [#AbhishekBachchan](http://twitter.com/search?q=%23AbhishekBachchan) | N/A |
-| 47 | [#ReleaseSikhPrisoners](http://twitter.com/search?q=%23ReleaseSikhPrisoners) | N/A |
+| 18 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 19 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 20 | [सहज स्वरूप](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b9%e0%a4%9c+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 21 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 22 | [Playstore](http://twitter.com/search?q=Playstore) | Playstore is an online store for Android devices, developed and maintained by Google. It allows users to browse and download applications developed with the Android SDK and published through Google. The store offers both free and paid apps, as well as in-app purchases for certain apps. |
+| 23 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 24 | [Supreme God](http://twitter.com/search?q=Supreme+God) | N/A |
+| 25 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 26 | [Official App](http://twitter.com/search?q=Official+App) | N/A |
+| 27 | [Cleanliness Campaign](http://twitter.com/search?q=Cleanliness+Campaign) | N/A |
+| 28 | [Download](http://twitter.com/search?q=Download) | N/A |
+| 29 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
+| 30 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 31 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 32 | [#BharatWithModiJi](http://twitter.com/search?q=%23BharatWithModiJi) | N/A |
+| 33 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 34 | [#अप्रतिम_पहल](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%bf%e0%a4%ae_%e0%a4%aa%e0%a4%b9%e0%a4%b2) | N/A |
+| 35 | [#CleanedRajasthan](http://twitter.com/search?q=%23CleanedRajasthan) | N/A |
+| 36 | [#தைப்பூசம்](http://twitter.com/search?q=%23%e0%ae%a4%e0%af%88%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%af%82%e0%ae%9a%e0%ae%ae%e0%af%8d) | N/A |
+| 37 | [#VinodKambli](http://twitter.com/search?q=%23VinodKambli) | N/A |
+| 38 | [#जातिवाद_मुक्त_भारत](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%a6_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4_%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 39 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 40 | [#sundaythoughts](http://twitter.com/search?q=%23sundaythoughts) | N/A |
+| 41 | [#UPSSSC_PET_COMMON_CUTOFF](http://twitter.com/search?q=%23UPSSSC_PET_COMMON_CUTOFF) | N/A |
+| 42 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 43 | [#CR7𓃵](http://twitter.com/search?q=%23CR7%f0%93%83%b5) | #CR7𓃵 is a hashtag used to show support for the Portuguese soccer player Cristiano Ronaldo. It is a combination of his initials (CR) and the Egyptian hieroglyph for “eternity” (𓃵). The hashtag is used to express admiration and loyalty for Ronaldo, and can be translated to mean “Cristiano Ronaldo Forever”. |
+| 44 | [#TPGajendran](http://twitter.com/search?q=%23TPGajendran) | N/A |
+| 45 | [#CristianoRonaldo𓃵](http://twitter.com/search?q=%23CristianoRonaldo%f0%93%83%b5) | N/A |
+| 46 | [#Hoysala](http://twitter.com/search?q=%23Hoysala) | N/A |
+| 47 | [#MaghPurnima](http://twitter.com/search?q=%23MaghPurnima) | N/A |
 
 
 

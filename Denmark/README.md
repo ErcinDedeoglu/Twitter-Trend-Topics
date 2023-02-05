@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-05 04:17:26 UTC`
+📆 Last Updated: `2023-02-05 05:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,22 +25,22 @@ This is top 50 for Denmark
 | 8 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
 | 10 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 11 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
-| 12 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 13 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 14 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 15 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 17 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 18 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 19 | [skjelmose](http://twitter.com/search?q=skjelmose) | N/A |
-| 20 | [#arsenaldk](http://twitter.com/search?q=%23arsenaldk) | N/A |
-| 21 | [vallys](http://twitter.com/search?q=vallys) | N/A |
+| 11 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 12 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 14 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 16 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 17 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 18 | [Skjelmose](http://twitter.com/search?q=Skjelmose) | N/A |
+| 19 | [#arsenaldk](http://twitter.com/search?q=%23arsenaldk) | N/A |
+| 20 | [vallys](http://twitter.com/search?q=vallys) | N/A |
+| 21 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
 | 22 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
 | 23 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 24 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 25 | [Skills](http://twitter.com/search?q=Skills) | N/A |
-| 26 | [cepos](http://twitter.com/search?q=cepos) | N/A |
+| 26 | [Cepos](http://twitter.com/search?q=Cepos) | N/A |
 | 27 | [Turkey](http://twitter.com/search?q=Turkey) | N/A |
 | 28 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 | 29 | [volbeat](http://twitter.com/search?q=volbeat) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Denmark
 | 31 | [russerne](http://twitter.com/search?q=russerne) | N/A |
 | 32 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
 | 33 | [Hele](http://twitter.com/search?q=Hele) | N/A |
-| 34 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 35 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 36 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 37 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 38 | [Søren](http://twitter.com/search?q=S%c3%b8ren) | N/A |
-| 39 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 40 | [Greenland](http://twitter.com/search?q=Greenland) | N/A |
-| 41 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 34 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 35 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 36 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 37 | [søren](http://twitter.com/search?q=s%c3%b8ren) | N/A |
+| 38 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 39 | [Greenland](http://twitter.com/search?q=Greenland) | N/A |
+| 40 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 41 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 | 42 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 43 | [Mener](http://twitter.com/search?q=Mener) | N/A |
+| 43 | [mener](http://twitter.com/search?q=mener) | N/A |
 | 44 | [Ukraines](http://twitter.com/search?q=Ukraines) | N/A |
 | 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 46 | [derudover](http://twitter.com/search?q=derudover) | N/A |
-| 47 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 48 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 49 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 50 | [POLITIKEN](http://twitter.com/search?q=POLITIKEN) | N/A |
+| 47 | [syrien](http://twitter.com/search?q=syrien) | N/A |
+| 48 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 49 | [politiken](http://twitter.com/search?q=politiken) | N/A |
+| 50 | [Mark](http://twitter.com/search?q=Mark) | N/A |
 
 
 

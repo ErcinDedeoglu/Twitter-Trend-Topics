@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-05 04:17:18 UTC`
+📆 Last Updated: `2023-02-05 05:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 2 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 3 | [Sectionals](http://twitter.com/search?q=Sectionals) | N/A |
-| 4 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 5 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 6 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 3 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 4 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 5 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 6 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
 | 7 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | #Bellator290 is the name of a mixed martial arts event held by Bellator MMA, a professional MMA organization. The event took place on October 6, 2018 in Tel Aviv, Israel. The name is derived from the event's numerical designation (290) within the Bellator series. |
-| 8 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
-| 9 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 10 | [#HappierCamper](http://twitter.com/search?q=%23HappierCamper) | N/A |
-| 11 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
-| 12 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 13 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
-| 14 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 15 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 16 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
-| 17 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 19 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 20 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 21 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
-| 22 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
-| 23 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 24 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
-| 25 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
-| 26 | [Taira](http://twitter.com/search?q=Taira) | Taira is a Japanese surname. It is derived from the Japanese word for “rice field” and is often translated to mean “rice paddy” in English. The Taira clan was a powerful family during the Heian period of Japan, and many members of the clan held high positions in government and military. |
-| 27 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
-| 28 | [Chase U](http://twitter.com/search?q=Chase+U) | Chase U is a program offered by JPMorgan Chase Bank that provides financial education and resources to college students. The program aims to help students understand how to manage their money, build credit, and make informed financial decisions. The name "Chase U" is a play on the phrase "Choose You," emphasizing the importance of taking control of one's own financial future. |
-| 29 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 30 | [Bauza](http://twitter.com/search?q=Bauza) | N/A |
-| 31 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 32 | [Eblen](http://twitter.com/search?q=Eblen) | N/A |
-| 33 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
-| 34 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 35 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
-| 36 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 37 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 38 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 39 | [Pretty Deadly](http://twitter.com/search?q=Pretty+Deadly) | N/A |
-| 40 | [Grayson Waller](http://twitter.com/search?q=Grayson+Waller) | N/A |
-| 41 | [Fitzsimmons](http://twitter.com/search?q=Fitzsimmons) | N/A |
-| 42 | [Bron Breakker](http://twitter.com/search?q=Bron+Breakker) | N/A |
-| 43 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 44 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 45 | [Gallus](http://twitter.com/search?q=Gallus) | N/A |
-| 46 | [Brennan Ward](http://twitter.com/search?q=Brennan+Ward) | N/A |
-| 47 | [Homasi](http://twitter.com/search?q=Homasi) | N/A |
-| 48 | [Iron Turtle](http://twitter.com/search?q=Iron+Turtle) | N/A |
-| 49 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 50 | [Justin Haley](http://twitter.com/search?q=Justin+Haley) | N/A |
+| 8 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
+| 9 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
+| 10 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 11 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 12 | [SARAH PAULSON](http://twitter.com/search?q=SARAH+PAULSON) | N/A |
+| 13 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 14 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
+| 15 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
+| 16 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
+| 17 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
+| 18 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
+| 19 | [Erika Cruz](http://twitter.com/search?q=Erika+Cruz) | N/A |
+| 20 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 21 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 22 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 24 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
+| 25 | [Reeves](http://twitter.com/search?q=Reeves) | N/A |
+| 26 | [Chase U](http://twitter.com/search?q=Chase+U) | Chase U is a program offered by JPMorgan Chase Bank that provides financial education and resources to college students. The program aims to help students understand how to manage their money, build credit, and make informed financial decisions. The name "Chase U" is a play on the phrase "Choose You," emphasizing the importance of taking control of one's own financial future. |
+| 27 | [Cason Wallace](http://twitter.com/search?q=Cason+Wallace) | N/A |
+| 28 | [Eblen](http://twitter.com/search?q=Eblen) | N/A |
+| 29 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 30 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 31 | [Dijak](http://twitter.com/search?q=Dijak) | Dijak is a Croatian word that means "fool" or "idiot". It is used as an insult to describe someone who is foolish or stupid. |
+| 32 | [Bowen Yang](http://twitter.com/search?q=Bowen+Yang) | N/A |
+| 33 | [Taira](http://twitter.com/search?q=Taira) | Taira is a Japanese surname. It is derived from the Japanese word for “rice field” and is often translated to mean “rice paddy” in English. The Taira clan was a powerful family during the Heian period of Japan, and many members of the clan held high positions in government and military. |
+| 34 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 35 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | N/A |
+| 36 | [Lively](http://twitter.com/search?q=Lively) | Lively is an adjective that means full of energy, enthusiasm, and activity. It can also refer to a place or situation that is exciting and entertaining. |
+| 37 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 38 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 39 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 40 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 41 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 42 | [Fitzsimmons](http://twitter.com/search?q=Fitzsimmons) | N/A |
+| 43 | [Bron Breakker](http://twitter.com/search?q=Bron+Breakker) | N/A |
+| 44 | [Pretty Deadly](http://twitter.com/search?q=Pretty+Deadly) | N/A |
+| 45 | [Wes Lee](http://twitter.com/search?q=Wes+Lee) | Wes Lee is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is well-liked and respected. |
+| 46 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 47 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 48 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 49 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
+| 50 | [Logan Johnson](http://twitter.com/search?q=Logan+Johnson) | N/A |
 
 
 

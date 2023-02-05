@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cairo
 
-📆 Last Updated: `2023-02-05 04:17:07 UTC`
+📆 Last Updated: `2023-02-05 05:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for [Egypt](</Egypt>)
 | 15 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
 | 16 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
 | 17 | [شريف اسماعيل](http://twitter.com/search?q=%d8%b4%d8%b1%d9%8a%d9%81+%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
-| 18 | [#اطباء_النايي_ضحايا](http://twitter.com/search?q=%23%d8%a7%d8%b7%d8%a8%d8%a7%d8%a1_%d8%a7%d9%84%d9%86%d8%a7%d9%8a%d9%8a_%d8%b6%d8%ad%d8%a7%d9%8a%d8%a7) | N/A |
-| 19 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 18 | [الماتش الجاي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a) | N/A |
+| 19 | [#بابا_الشغلانه](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%a8%d8%a7_%d8%a7%d9%84%d8%b4%d8%ba%d9%84%d8%a7%d9%86%d9%87) | N/A |
 | 20 | [شباب العالم](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
 | 21 | [المنطاد الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d8%a7%d8%af+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
 | 22 | [احمد عصام](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d8%b5%d8%a7%d9%85) | N/A |
-| 23 | [عدي حدود افريقيا](http://twitter.com/search?q=%d8%b9%d8%af%d9%8a+%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 24 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 23 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 24 | [عدي حدود افريقيا](http://twitter.com/search?q=%d8%b9%d8%af%d9%8a+%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
 | 25 | [القاضيه التانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 26 | [لقاء السحاب](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d8%a1+%d8%a7%d9%84%d8%b3%d8%ad%d8%a7%d8%a8) | N/A |
-| 27 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 28 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
-| 29 | [محمد محشي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ad%d8%b4%d9%8a) | N/A |
+| 27 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
+| 28 | [محمد محشي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%85%d8%ad%d8%b4%d9%8a) | N/A |
+| 29 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
 | 30 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
 | 31 | [وعبد القادر](http://twitter.com/search?q=%d9%88%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b1) | N/A |
-| 32 | [مصدر السعاده](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
-| 33 | [المره الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
-| 34 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
+| 32 | [احمد صبري](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b5%d8%a8%d8%b1%d9%8a) | N/A |
+| 33 | [مصدر السعاده](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
+| 34 | [المره الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
 | 35 | [ملك القاضيه](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
-| 36 | [احمد صبري](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b5%d8%a8%d8%b1%d9%8a) | N/A |
+| 36 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
 | 37 | [علي سياتل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b3%d9%8a%d8%a7%d8%aa%d9%84) | N/A |
 | 38 | [النسخه الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
 | 39 | [وايل جمعه](http://twitter.com/search?q=%d9%88%d8%a7%d9%8a%d9%84+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
 | 40 | [القناه العراقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%86%d8%a7%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82%d9%8a%d9%87) | N/A |
 | 41 | [الفريق الامريكي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 42 | [لقاء القرن](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d8%a1+%d8%a7%d9%84%d9%82%d8%b1%d9%86) | N/A |
-| 43 | [شون دايتش](http://twitter.com/search?q=%d8%b4%d9%88%d9%86+%d8%af%d8%a7%d9%8a%d8%aa%d8%b4) | N/A |
-| 44 | [حسام](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85) | N/A |
+| 42 | [شون دايتش](http://twitter.com/search?q=%d8%b4%d9%88%d9%86+%d8%af%d8%a7%d9%8a%d8%aa%d8%b4) | N/A |
+| 43 | [حسام](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85) | N/A |
+| 44 | [لقاء القرن](http://twitter.com/search?q=%d9%84%d9%82%d8%a7%d8%a1+%d8%a7%d9%84%d9%82%d8%b1%d9%86) | N/A |
 | 45 | [مستر كولر](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d9%88%d9%84%d8%b1) | N/A |
 | 46 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 47 | [محمود علاء](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%b9%d9%84%d8%a7%d8%a1) | N/A |
-| 48 | [كبير افريقيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 49 | [يحيي جبران](http://twitter.com/search?q=%d9%8a%d8%ad%d9%8a%d9%8a+%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
-| 50 | [محمد كنو](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%83%d9%86%d9%88) | N/A |
+| 47 | [كبير افريقيا](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 48 | [يحيي جبران](http://twitter.com/search?q=%d9%8a%d8%ad%d9%8a%d9%8a+%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
+| 49 | [محمد كنو](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%83%d9%86%d9%88) | N/A |
+| 50 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
 
 
 

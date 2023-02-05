@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-05 04:16:57 UTC`
+📆 Last Updated: `2023-02-05 05:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,30 +22,30 @@ This is top 50 for [Norway](</Norway>)
 | 5 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 7 | [Skrellex](http://twitter.com/search?q=Skrellex) | N/A |
-| 8 | [Ulrikke](http://twitter.com/search?q=Ulrikke) | Ulrikke is a Scandinavian female name derived from the Old Norse name Úlfríkr, which means "wolf ruler". In English, it can be translated to mean "ruler of wolves". |
-| 9 | [#mgp23](http://twitter.com/search?q=%23mgp23) | N/A |
+| 8 | [ulrikke](http://twitter.com/search?q=ulrikke) | N/A |
+| 9 | [#MGP23](http://twitter.com/search?q=%23MGP23) | N/A |
 | 10 | [atle](http://twitter.com/search?q=atle) | N/A |
 | 11 | [#Eurovision](http://twitter.com/search?q=%23Eurovision) | N/A |
 | 12 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
 | 13 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 14 | [Elsie Bay](http://twitter.com/search?q=Elsie+Bay) | N/A |
+| 14 | [elsie bay](http://twitter.com/search?q=elsie+bay) | N/A |
 | 15 | [Jone](http://twitter.com/search?q=Jone) | N/A |
 | 16 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 17 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
 | 18 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 19 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 22 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 23 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 24 | [Queen of Kings](http://twitter.com/search?q=Queen+of+Kings) | N/A |
-| 25 | [Umami Tsunami](http://twitter.com/search?q=Umami+Tsunami) | N/A |
-| 26 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 20 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 22 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 23 | [Queen of Kings](http://twitter.com/search?q=Queen+of+Kings) | N/A |
+| 24 | [Umami Tsunami](http://twitter.com/search?q=Umami+Tsunami) | N/A |
+| 25 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 27 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
 | 28 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 29 | [Eline Thorp](http://twitter.com/search?q=Eline+Thorp) | N/A |
+| 29 | [eline thorp](http://twitter.com/search?q=eline+thorp) | N/A |
 | 30 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 31 | [palace](http://twitter.com/search?q=palace) | N/A |
+| 31 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
 | 32 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 33 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 34 | [Subwoolfer](http://twitter.com/search?q=Subwoolfer) | N/A |

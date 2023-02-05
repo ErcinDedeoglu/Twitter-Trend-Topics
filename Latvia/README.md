@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-05 04:17:29 UTC`
+📆 Last Updated: `2023-02-05 05:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,32 +39,32 @@ This is top 50 for Latvia
 | 22 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
 | 23 | [maskavā](http://twitter.com/search?q=maskav%c4%81) | N/A |
 | 24 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
-| 25 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 28 | [atkal](http://twitter.com/search?q=atkal) | N/A |
-| 29 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
-| 30 | [nezinu](http://twitter.com/search?q=nezinu) | N/A |
-| 31 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 26 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 27 | [atkal](http://twitter.com/search?q=atkal) | N/A |
+| 28 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
+| 29 | [nezinu](http://twitter.com/search?q=nezinu) | N/A |
+| 30 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
+| 31 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
 | 32 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
 | 33 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 34 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
 | 35 | [Euribor](http://twitter.com/search?q=Euribor) | N/A |
 | 36 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
 | 37 | [visiem](http://twitter.com/search?q=visiem) | N/A |
-| 38 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
-| 39 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
-| 40 | [visu](http://twitter.com/search?q=visu) | N/A |
-| 41 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 42 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
-| 43 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
-| 44 | [cerams](http://twitter.com/search?q=cerams) | N/A |
-| 45 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 46 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 48 | [toties](http://twitter.com/search?q=toties) | N/A |
-| 49 | [avenu](http://twitter.com/search?q=avenu) | N/A |
-| 50 | [vajag](http://twitter.com/search?q=vajag) | N/A |
+| 38 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
+| 39 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 40 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 41 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
+| 42 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | N/A |
+| 43 | [cerams](http://twitter.com/search?q=cerams) | N/A |
+| 44 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 45 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 46 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 47 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 48 | [avenu](http://twitter.com/search?q=avenu) | N/A |
+| 49 | [vajag](http://twitter.com/search?q=vajag) | N/A |
+| 50 | [interesanti](http://twitter.com/search?q=interesanti) | N/A |
 
 
 

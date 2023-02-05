@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-05 04:17:05 UTC`
+📆 Last Updated: `2023-02-05 05:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,14 +45,14 @@ This is top 50 for [Algeria](</Algeria>)
 | 28 | [المجتمع المدني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
 | 29 | [الاعبين المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
 | 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
-| 34 | [خطاب الكراهيه](http://twitter.com/search?q=%d8%ae%d8%b7%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%87%d9%8a%d9%87) | N/A |
-| 35 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [جامعة بجاية](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%a8%d8%ac%d8%a7%d9%8a%d8%a9) | N/A |
-| 38 | [MY ALGERIA](http://twitter.com/search?q=MY+ALGERIA) | N/A |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
+| 33 | [خطاب الكراهيه](http://twitter.com/search?q=%d8%ae%d8%b7%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%87%d9%8a%d9%87) | N/A |
+| 34 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 36 | [جامعة بجاية](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%a8%d8%ac%d8%a7%d9%8a%d8%a9) | N/A |
+| 37 | [my algeria](http://twitter.com/search?q=my+algeria) | N/A |
+| 38 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
 | 39 | [سيدي الرييس](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
 | 40 | [سانشيز](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%b4%d9%8a%d8%b2) | N/A |
 | 41 | [الطابور الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Algeria](</Algeria>)
 | 43 | [التشكيله الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
 | 44 | [بن قرينة](http://twitter.com/search?q=%d8%a8%d9%86+%d9%82%d8%b1%d9%8a%d9%86%d8%a9) | N/A |
 | 45 | [رييس الكاف](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%83%d8%a7%d9%81) | N/A |
-| 46 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 47 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 48 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 49 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 50 | [عبد اللاوي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%84%d8%a7%d9%88%d9%8a) | N/A |
+| 46 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 47 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 48 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 49 | [jennie](http://twitter.com/search?q=jennie) | N/A |
+| 50 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
 
 
 
