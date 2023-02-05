@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-05 07:16:25 UTC`
+📆 Last Updated: `2023-02-05 08:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
 | 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
 | 3 | [#ZAGLEG](http://twitter.com/search?q=%23ZAGLEG) | N/A |
-| 4 | [#górlgd](http://twitter.com/search?q=%23g%c3%b3rlgd) | N/A |
-| 5 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
-| 6 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
-| 7 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 8 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 9 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
-| 10 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 11 | [zabrzu](http://twitter.com/search?q=zabrzu) | N/A |
-| 12 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 13 | [muci](http://twitter.com/search?q=muci) | N/A |
-| 14 | [wszołka](http://twitter.com/search?q=wszo%c5%82ka) | N/A |
-| 15 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 16 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 17 | [Olek](http://twitter.com/search?q=Olek) | N/A |
-| 18 | [lubinie](http://twitter.com/search?q=lubinie) | N/A |
-| 19 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
-| 20 | [Kochani](http://twitter.com/search?q=Kochani) | N/A |
-| 21 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
-| 22 | [Jezus Chrystus](http://twitter.com/search?q=Jezus+Chrystus) | N/A |
-| 23 | [zagłębie](http://twitter.com/search?q=zag%c5%82%c4%99bie) | N/A |
-| 24 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 26 | [Szczęść Boże](http://twitter.com/search?q=Szcz%c4%99%c5%9b%c4%87+Bo%c5%bce) | N/A |
-| 27 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 28 | [rakiem](http://twitter.com/search?q=rakiem) | N/A |
-| 29 | [Strzałek](http://twitter.com/search?q=Strza%c5%82ek) | N/A |
-| 30 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
-| 31 | [varze](http://twitter.com/search?q=varze) | N/A |
-| 32 | [legię](http://twitter.com/search?q=legi%c4%99) | N/A |
-| 33 | [Balon](http://twitter.com/search?q=Balon) | N/A |
-| 34 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 35 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 36 | [Willingen](http://twitter.com/search?q=Willingen) | N/A |
-| 37 | [frankowski](http://twitter.com/search?q=frankowski) | N/A |
-| 38 | [graneruda](http://twitter.com/search?q=graneruda) | N/A |
-| 39 | [Jone](http://twitter.com/search?q=Jone) | N/A |
-| 40 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 41 | [Polska](http://twitter.com/search?q=Polska) | N/A |
-| 42 | [Julita](http://twitter.com/search?q=Julita) | N/A |
-| 43 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 44 | [sylwestrzak](http://twitter.com/search?q=sylwestrzak) | N/A |
-| 45 | [Dworczyk](http://twitter.com/search?q=Dworczyk) | N/A |
-| 46 | [Knesetu](http://twitter.com/search?q=Knesetu) | N/A |
-| 47 | [światowy dzień walki](http://twitter.com/search?q=%c5%9bwiatowy+dzie%c5%84+walki) | N/A |
-| 48 | [Bandery](http://twitter.com/search?q=Bandery) | N/A |
-| 49 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 4 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 5 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 6 | [#EVEARS](http://twitter.com/search?q=%23EVEARS) | #EVEARS is an acronym for "Evaluation of Virtual Environments for Augmented Reality Systems". It is a research project that focuses on the evaluation of virtual reality and augmented reality systems. The goal of the project is to develop a comprehensive evaluation framework that can be used to assess the performance of these systems. |
+| 7 | [#rczpia](http://twitter.com/search?q=%23rczpia) | N/A |
+| 8 | [Szewach Weiss](http://twitter.com/search?q=Szewach+Weiss) | N/A |
+| 9 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
+| 10 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 11 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 12 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
+| 13 | [Basiu](http://twitter.com/search?q=Basiu) | N/A |
+| 14 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 15 | [oliwier](http://twitter.com/search?q=oliwier) | N/A |
+| 16 | [Ojej](http://twitter.com/search?q=Ojej) | N/A |
+| 17 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 18 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 19 | [muci](http://twitter.com/search?q=muci) | N/A |
+| 20 | [Andrzeju](http://twitter.com/search?q=Andrzeju) | N/A |
+| 21 | [wszołka](http://twitter.com/search?q=wszo%c5%82ka) | N/A |
+| 22 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 23 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
+| 24 | [olek](http://twitter.com/search?q=olek) | N/A |
+| 25 | [lubinie](http://twitter.com/search?q=lubinie) | N/A |
+| 26 | [Zabrzu](http://twitter.com/search?q=Zabrzu) | N/A |
+| 27 | [Śmieszny](http://twitter.com/search?q=%c5%9amieszny) | N/A |
+| 28 | [Za Tuska](http://twitter.com/search?q=Za+Tuska) | N/A |
+| 29 | [Jezus Chrystus](http://twitter.com/search?q=Jezus+Chrystus) | N/A |
+| 30 | [Żoliborzu](http://twitter.com/search?q=%c5%bboliborzu) | N/A |
+| 31 | [Aguś](http://twitter.com/search?q=Agu%c5%9b) | N/A |
+| 32 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 33 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 34 | [Stanowski](http://twitter.com/search?q=Stanowski) | N/A |
+| 35 | [rakiem](http://twitter.com/search?q=rakiem) | N/A |
+| 36 | [W 2015](http://twitter.com/search?q=W+2015) | N/A |
+| 37 | [Kochani](http://twitter.com/search?q=Kochani) | N/A |
+| 38 | [Izraela](http://twitter.com/search?q=Izraela) | N/A |
+| 39 | [varze](http://twitter.com/search?q=varze) | N/A |
+| 40 | [legię](http://twitter.com/search?q=legi%c4%99) | N/A |
+| 41 | [Robercie](http://twitter.com/search?q=Robercie) | N/A |
+| 42 | [Witam Cię](http://twitter.com/search?q=Witam+Ci%c4%99) | N/A |
+| 43 | [Strzałek](http://twitter.com/search?q=Strza%c5%82ek) | N/A |
+| 44 | [Balon](http://twitter.com/search?q=Balon) | N/A |
+| 45 | [Baku](http://twitter.com/search?q=Baku) | N/A |
+| 46 | [Komentarz](http://twitter.com/search?q=Komentarz) | N/A |
+| 47 | [frankowski](http://twitter.com/search?q=frankowski) | N/A |
+| 48 | [Maćku](http://twitter.com/search?q=Ma%c4%87ku) | N/A |
+| 49 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
+| 50 | [graneruda](http://twitter.com/search?q=graneruda) | N/A |
 
 
 

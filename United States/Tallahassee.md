@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-02-05 07:16:58 UTC`
+📆 Last Updated: `2023-02-05 08:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 2 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
-| 3 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 4 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
-| 5 | [Choi](http://twitter.com/search?q=Choi) | Choi is a Korean surname. It is derived from the Chinese characters for mountain and water. In English, it can be translated to mean "mountain stream". |
-| 6 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 1 | [#UFCVegas68](http://twitter.com/search?q=%23UFCVegas68) | #UFCVegas68 is the hashtag used to promote the upcoming Ultimate Fighting Championship (UFC) event taking place in Las Vegas on April 10, 2021. The event will feature a main card headlined by a heavyweight bout between Alistair Overeem and Alexander Volkov. |
+| 2 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 3 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 4 | [Choi](http://twitter.com/search?q=Choi) | Choi is a Korean surname. It is derived from the Chinese characters for mountain and water. In English, it can be translated to mean "mountain stream". |
+| 5 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 6 | [Saint Mary](http://twitter.com/search?q=Saint+Mary) | Saint Mary is a title given to the Virgin Mary, the mother of Jesus Christ. It is derived from the Latin phrase Sancta Maria, which translates to "Holy Mary" in English. |
 | 7 | [Aidan Mahaney](http://twitter.com/search?q=Aidan+Mahaney) | Aidan Mahaney is a name of Irish origin. It is derived from the Gaelic name Aodhán, which means "little fire". |
-| 8 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 9 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 10 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
-| 11 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
-| 12 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
-| 13 | [#Bellator290](http://twitter.com/search?q=%23Bellator290) | #Bellator290 is the name of a mixed martial arts event held by Bellator MMA, a professional MMA organization. The event took place on October 6, 2018 in Tel Aviv, Israel. The name is derived from the event's numerical designation (290) within the Bellator series. |
-| 14 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 15 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
-| 16 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
-| 17 | [Sarah Paulson](http://twitter.com/search?q=Sarah+Paulson) | Sarah Paulson is an American actress. She is best known for her roles in the television series American Horror Story, The People v. O. J. Simpson: American Crime Story, and Ratched. She has also appeared in films such as 12 Years a Slave, Ocean's 8, and Runaway Bride. |
-| 18 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 8 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 9 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | N/A |
+| 10 | [#ufcfightnight](http://twitter.com/search?q=%23ufcfightnight) | N/A |
+| 11 | [Devin Clark](http://twitter.com/search?q=Devin+Clark) | N/A |
+| 12 | [#VengeanceDay](http://twitter.com/search?q=%23VengeanceDay) | #VengeanceDay is a hashtag used to express a desire for revenge or retribution. It is often used in the context of seeking justice for a wrong that has been done. |
+| 13 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 14 | [The Astronaut](http://twitter.com/search?q=The+Astronaut) | The Astronaut is a short story by Ray Bradbury, first published in 1952. It tells the story of a man who travels to the Moon and finds himself in a strange world of dreams and memories. The story explores themes of loneliness, longing, and the power of imagination. The title is symbolic of the protagonist's journey into the unknown, as he embarks on a voyage to explore his innermost thoughts and feelings. |
+| 15 | [#SerranoCruz](http://twitter.com/search?q=%23SerranoCruz) | N/A |
+| 16 | [Fedor](http://twitter.com/search?q=Fedor) | Fedor is a Russian male name derived from the Greek name Theodore, meaning "gift of God". |
+| 17 | [Ivanov](http://twitter.com/search?q=Ivanov) | N/A |
+| 18 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
 | 19 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 20 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 21 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 22 | [Kyle Nelson](http://twitter.com/search?q=Kyle+Nelson) | N/A |
-| 23 | [Gaels](http://twitter.com/search?q=Gaels) | N/A |
-| 24 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 25 | [Fugitt](http://twitter.com/search?q=Fugitt) | N/A |
-| 26 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 27 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 28 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
-| 29 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
-| 30 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
-| 31 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
-| 32 | [Steven Universe](http://twitter.com/search?q=Steven+Universe) | N/A |
-| 33 | [Drew Timme](http://twitter.com/search?q=Drew+Timme) | N/A |
-| 34 | [Wing Pit](http://twitter.com/search?q=Wing+Pit) | N/A |
-| 35 | [Erika Cruz](http://twitter.com/search?q=Erika+Cruz) | N/A |
-| 36 | [Jubli](http://twitter.com/search?q=Jubli) | N/A |
-| 37 | [Moraga](http://twitter.com/search?q=Moraga) | N/A |
-| 38 | [Latif](http://twitter.com/search?q=Latif) | N/A |
-| 39 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
-| 40 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
-| 41 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
-| 42 | [Derrick Lewis](http://twitter.com/search?q=Derrick+Lewis) | N/A |
-| 43 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
-| 44 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
-| 45 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 46 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 47 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 48 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
-| 49 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
+| 20 | [St Mary](http://twitter.com/search?q=St+Mary) | N/A |
+| 21 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 22 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 23 | [Sarah Paulson](http://twitter.com/search?q=Sarah+Paulson) | Sarah Paulson is an American actress. She is best known for her roles in the television series American Horror Story, The People v. O. J. Simpson: American Crime Story, and Ratched. She has also appeared in films such as 12 Years a Slave, Ocean's 8, and Runaway Bride. |
+| 24 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
+| 25 | [Tybura](http://twitter.com/search?q=Tybura) | N/A |
+| 26 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 27 | [Jung](http://twitter.com/search?q=Jung) | N/A |
+| 28 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
+| 29 | [Kyle Nelson](http://twitter.com/search?q=Kyle+Nelson) | N/A |
+| 30 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 31 | [Gaels](http://twitter.com/search?q=Gaels) | N/A |
+| 32 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 33 | [Fugitt](http://twitter.com/search?q=Fugitt) | N/A |
+| 34 | [The Reading](http://twitter.com/search?q=The+Reading) | N/A |
+| 35 | [Bisping](http://twitter.com/search?q=Bisping) | N/A |
+| 36 | [Jamal Murray](http://twitter.com/search?q=Jamal+Murray) | Jamal Murray is a professional basketball player from Canada who currently plays for the Denver Nuggets of the National Basketball Association (NBA). His name is derived from the Arabic word "jamal" which means beauty. |
+| 37 | [Steven Universe](http://twitter.com/search?q=Steven+Universe) | N/A |
+| 38 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 39 | [KELSEY](http://twitter.com/search?q=KELSEY) | N/A |
+| 40 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 41 | [Erika Cruz](http://twitter.com/search?q=Erika+Cruz) | N/A |
+| 42 | [Jubli](http://twitter.com/search?q=Jubli) | N/A |
+| 43 | [Nakamura](http://twitter.com/search?q=Nakamura) | N/A |
+| 44 | [Castleton](http://twitter.com/search?q=Castleton) | N/A |
+| 45 | [Jim Boeheim](http://twitter.com/search?q=Jim+Boeheim) | N/A |
+| 46 | [Wing Pit](http://twitter.com/search?q=Wing+Pit) | N/A |
+| 47 | [Bader](http://twitter.com/search?q=Bader) | Bader is a German name derived from the Old High German word "bado" meaning "battle". It is also a surname, and can be used as a given name. In English, it is usually pronounced "BAY-der". |
+| 48 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 49 | [Latif](http://twitter.com/search?q=Latif) | N/A |
 
 
 

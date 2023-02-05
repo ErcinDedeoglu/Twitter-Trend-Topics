@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-05 07:16:49 UTC`
+📆 Last Updated: `2023-02-05 08:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TPGajendran](http://twitter.com/search?q=%23TPGajendran) | N/A |
+| 1 | [#Dada](http://twitter.com/search?q=%23Dada) | N/A |
 | 2 | [#PervezMusharraf](http://twitter.com/search?q=%23PervezMusharraf) | #PervezMusharraf is a hashtag used to refer to former Pakistani President Pervez Musharraf. It is used to discuss news and topics related to him. |
-| 3 | [#RavidasJayanti](http://twitter.com/search?q=%23RavidasJayanti) | N/A |
+| 3 | [#NKIRunningSuccessfully](http://twitter.com/search?q=%23NKIRunningSuccessfully) | N/A |
 | 4 | [#YadavExposedKejriwalOnOBC](http://twitter.com/search?q=%23YadavExposedKejriwalOnOBC) | N/A |
-| 5 | [शिरोमणि गुरु रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि गुरु रविदास is a Sanskrit phrase meaning "the teacher of the gods, Ravidas". It is a reference to the 15th-century Indian poet and mystic, Ravidas. |
-| 6 | [MIGHTY WINNER SHIV](http://twitter.com/search?q=MIGHTY+WINNER+SHIV) | N/A |
-| 7 | [PIYA RE BY DARSHAN RAVAL](http://twitter.com/search?q=PIYA+RE+BY+DARSHAN+RAVAL) | "Piya Re" is a song by Indian singer Darshan Raval. The song is about a man who is deeply in love with his partner and expresses his feelings for her. The English translation of the lyrics is: "My beloved, I am crazy for you, I can't stay away from you, I'm in love with you, my heart is beating for you." |
-| 8 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 9 | [GhuljaMassacre Day](http://twitter.com/search?q=GhuljaMassacre+Day) | N/A |
-| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 11 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 12 | [HAQ SE WINNER MC STAN](http://twitter.com/search?q=HAQ+SE+WINNER+MC+STAN) | N/A |
-| 13 | [SHALIN DESERVES BB16 TROPHY](http://twitter.com/search?q=SHALIN+DESERVES+BB16+TROPHY) | N/A |
-| 14 | [Kargil](http://twitter.com/search?q=Kargil) | N/A |
+| 5 | [#विकास_यात्रा_MP](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8_%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be_MP) | N/A |
+| 6 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 7 | [MIGHTY WINNER SHIV](http://twitter.com/search?q=MIGHTY+WINNER+SHIV) | MIGHTY WINNER SHIV is a phrase used in Hinduism to refer to the god Shiva, who is seen as a powerful and victorious deity. The phrase is often used as an invocation or prayer to ask for Shiva's protection and blessings. |
+| 8 | [शिरोमणि गुरु रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि गुरु रविदास is a Sanskrit phrase meaning "the teacher of the gods, Ravidas". It is a reference to the 15th-century Indian poet and mystic, Ravidas. |
+| 9 | [SHALIN DESERVES BB16 TROPHY](http://twitter.com/search?q=SHALIN+DESERVES+BB16+TROPHY) | N/A |
+| 10 | [HAQ SE WINNER MC STAN](http://twitter.com/search?q=HAQ+SE+WINNER+MC+STAN) | N/A |
+| 11 | [GhuljaMassacre Day](http://twitter.com/search?q=GhuljaMassacre+Day) | N/A |
+| 12 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 13 | [PIYA RE BY DARSHAN RAVAL](http://twitter.com/search?q=PIYA+RE+BY+DARSHAN+RAVAL) | "Piya Re" is a song by Indian singer Darshan Raval. The song is about a man who is deeply in love with his partner and expresses his feelings for her. The English translation of the lyrics is: "My beloved, I am crazy for you, I can't stay away from you, I'm in love with you, my heart is beating for you." |
+| 14 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
 | 15 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
-| 16 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | Sant Rampal Ji Maharaj App is an Android app that provides users with access to teachings and videos from Sant Rampal Ji Maharaj, a spiritual leader from India. The app also provides users with access to audio recordings of his sermons, as well as information about upcoming events and activities related to Sant Rampal Ji Maharaj. The English translation of the name of the app is "Saint Rampal Ji Maharaj App". |
-| 17 | [सामाजिक एकता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%8f%e0%a4%95%e0%a4%a4%e0%a4%be) | N/A |
-| 18 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
-| 19 | [SSRians Love For Sushant](http://twitter.com/search?q=SSRians+Love+For+Sushant) | N/A |
-| 20 | [परम ज्ञानी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 21 | [Kashmir Solidarity Day](http://twitter.com/search?q=Kashmir+Solidarity+Day) | N/A |
-| 22 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
-| 23 | [Matru Pitru Pujan Diwas](http://twitter.com/search?q=Matru+Pitru+Pujan+Diwas) | N/A |
-| 24 | [विनोद कांबली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%8b%e0%a4%a6+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ac%e0%a4%b2%e0%a5%80) | N/A |
-| 25 | [Anshul Jubli](http://twitter.com/search?q=Anshul+Jubli) | N/A |
-| 26 | [Sachhi Raah Dikhane Wale](http://twitter.com/search?q=Sachhi+Raah+Dikhane+Wale) | N/A |
-| 27 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 28 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 29 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 30 | [पावन जयंती](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 31 | [सहज स्वरूप](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b9%e0%a4%9c+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 32 | [Shame On BBC](http://twitter.com/search?q=Shame+On+BBC) | N/A |
-| 33 | [Shahid](http://twitter.com/search?q=Shahid) | N/A |
-| 34 | [मुक्त समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 35 | [महान कवि](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%b5%e0%a4%bf) | N/A |
-| 36 | [पवित्र पुस्तक गीता](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%97%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 37 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 38 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 39 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
-| 40 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 41 | [Playstore](http://twitter.com/search?q=Playstore) | Playstore is an online store for Android devices, developed and maintained by Google. It allows users to browse and download applications developed with the Android SDK and published through Google. The store offers both free and paid apps, as well as in-app purchases for certain apps. |
-| 42 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
-| 43 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 44 | [Cleanliness Campaign](http://twitter.com/search?q=Cleanliness+Campaign) | N/A |
-| 45 | [Official App](http://twitter.com/search?q=Official+App) | N/A |
-| 46 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 47 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 48 | [#GitaTeraGyanAmrit_AudioBook](http://twitter.com/search?q=%23GitaTeraGyanAmrit_AudioBook) | #GitaTeraGyanAmrit_AudioBook is an audio book series that contains the teachings of the Bhagavad Gita, a Hindu scripture. The title translates to "The Elixir of Knowledge from the Gita". |
-| 49 | [#BharatWithModiJi](http://twitter.com/search?q=%23BharatWithModiJi) | N/A |
+| 16 | [सामाजिक एकता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%8f%e0%a4%95%e0%a4%a4%e0%a4%be) | N/A |
+| 17 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
+| 18 | [SSRians Love For Sushant](http://twitter.com/search?q=SSRians+Love+For+Sushant) | N/A |
+| 19 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | Sant Rampal Ji Maharaj App is an Android app that provides users with access to teachings and videos from Sant Rampal Ji Maharaj, a spiritual leader from India. The app also provides users with access to audio recordings of his sermons, as well as information about upcoming events and activities related to Sant Rampal Ji Maharaj. The English translation of the name of the app is "Saint Rampal Ji Maharaj App". |
+| 20 | [विकास यात्रा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 21 | [कारगिल युद्ध](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a4%97%e0%a4%bf%e0%a4%b2+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
+| 22 | [परम ज्ञानी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 23 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 24 | [Kashmir Solidarity Day](http://twitter.com/search?q=Kashmir+Solidarity+Day) | N/A |
+| 25 | [Jaipur Mahakhel](http://twitter.com/search?q=Jaipur+Mahakhel) | N/A |
+| 26 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
+| 27 | [Kashmiris](http://twitter.com/search?q=Kashmiris) | N/A |
+| 28 | [विनोद कांबली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a5%8b%e0%a4%a6+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ac%e0%a4%b2%e0%a5%80) | N/A |
+| 29 | [Anshul Jubli](http://twitter.com/search?q=Anshul+Jubli) | N/A |
+| 30 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 31 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 32 | [Shahid](http://twitter.com/search?q=Shahid) | N/A |
+| 33 | [Matru Pitru Pujan Diwas](http://twitter.com/search?q=Matru+Pitru+Pujan+Diwas) | N/A |
+| 34 | [सहज स्वरूप](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b9%e0%a4%9c+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 35 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 36 | [महान कवि](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%b5%e0%a4%bf) | N/A |
+| 37 | [पावन जयंती](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 38 | [Shame On BBC](http://twitter.com/search?q=Shame+On+BBC) | N/A |
+| 39 | [Sachhi Raah Dikhane Wale](http://twitter.com/search?q=Sachhi+Raah+Dikhane+Wale) | N/A |
+| 40 | [मुक्त समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 41 | [F-22](http://twitter.com/search?q=F-22) | F-22 is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed by Lockheed Martin for the United States Air Force (USAF). The F-22 is designed to penetrate enemy airspace and achieve a first-look, first-kill capability against multiple targets. It has advanced stealth capabilities and is equipped with sophisticated avionics and weapons systems. |
+| 42 | [पवित्र पुस्तक गीता](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%97%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 43 | [Asia Cup](http://twitter.com/search?q=Asia+Cup) | N/A |
+| 44 | [उत्तर प्रदेश सरकार](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 45 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 46 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 47 | [#RavidasJayanti](http://twitter.com/search?q=%23RavidasJayanti) | N/A |
+| 48 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 49 | [#GitaTeraGyanAmrit_AudioBook](http://twitter.com/search?q=%23GitaTeraGyanAmrit_AudioBook) | #GitaTeraGyanAmrit_AudioBook is an audio book series that contains the teachings of the Bhagavad Gita, a Hindu scripture. The title translates to "The Elixir of Knowledge from the Gita". |
 | 50 | [#Feb5AntiTerrorismDay](http://twitter.com/search?q=%23Feb5AntiTerrorismDay) | N/A |
 
 

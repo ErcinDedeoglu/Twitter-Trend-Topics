@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-05 07:16:29 UTC`
+📆 Last Updated: `2023-02-05 08:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
-| 2 | [#5febbraio](http://twitter.com/search?q=%235febbraio) | N/A |
-| 3 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 4 | [#RomaEmpoli](http://twitter.com/search?q=%23RomaEmpoli) | N/A |
-| 5 | [#TaliEQuali](http://twitter.com/search?q=%23TaliEQuali) | N/A |
-| 6 | [#GOBBOSEGUEGOBBO](http://twitter.com/search?q=%23GOBBOSEGUEGOBBO) | N/A |
-| 7 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 8 | [Dory](http://twitter.com/search?q=Dory) | N/A |
+| 1 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 2 | [#cepostaperte](http://twitter.com/search?q=%23cepostaperte) | #Cepostaperte is an Italian hashtag that translates to "open mailboxes". It is used to encourage people to check their mailboxes for important documents or messages. |
+| 3 | [#5febbraio](http://twitter.com/search?q=%235febbraio) | N/A |
+| 4 | [#TaliEQuali](http://twitter.com/search?q=%23TaliEQuali) | N/A |
+| 5 | [#RomaEmpoli](http://twitter.com/search?q=%23RomaEmpoli) | N/A |
+| 6 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 7 | [Dory](http://twitter.com/search?q=Dory) | N/A |
+| 8 | [Buongiorno Anna](http://twitter.com/search?q=Buongiorno+Anna) | N/A |
 | 9 | [ORNELLA VANONI](http://twitter.com/search?q=ORNELLA+VANONI) | N/A |
-| 10 | [Buongiorno Andrea](http://twitter.com/search?q=Buongiorno+Andrea) | N/A |
-| 11 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 10 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 11 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
 | 12 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 13 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
-| 14 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 13 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 14 | [Educazione](http://twitter.com/search?q=Educazione) | N/A |
 | 15 | [Cospito](http://twitter.com/search?q=Cospito) | N/A |
-| 16 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 17 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 18 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 19 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 20 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 21 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
-| 22 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 23 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 24 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 16 | [Sassuolentus](http://twitter.com/search?q=Sassuolentus) | N/A |
+| 17 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 18 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
+| 19 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 20 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 21 | [Buongiorno Dida](http://twitter.com/search?q=Buongiorno+Dida) | N/A |
+| 22 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 23 | [Donzelli](http://twitter.com/search?q=Donzelli) | N/A |
+| 24 | [Buongiorno Patrizia](http://twitter.com/search?q=Buongiorno+Patrizia) | N/A |
 | 25 | [Tagliatelle](http://twitter.com/search?q=Tagliatelle) | N/A |
-| 26 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 27 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 28 | [baschirotto](http://twitter.com/search?q=baschirotto) | N/A |
-| 29 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 30 | [JuveSassuolontus](http://twitter.com/search?q=JuveSassuolontus) | N/A |
-| 31 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 32 | [graziana](http://twitter.com/search?q=graziana) | N/A |
-| 33 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
-| 34 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 35 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 36 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 37 | [Buongiorno Davide](http://twitter.com/search?q=Buongiorno+Davide) | N/A |
-| 38 | [ivan graziani](http://twitter.com/search?q=ivan+graziani) | N/A |
-| 39 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 40 | [malgioglio](http://twitter.com/search?q=malgioglio) | N/A |
+| 26 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 27 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
+| 28 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 30 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
+| 31 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 32 | [41bis](http://twitter.com/search?q=41bis) | N/A |
+| 33 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 34 | [Graziana](http://twitter.com/search?q=Graziana) | N/A |
+| 35 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 36 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 37 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 38 | [malgioglio](http://twitter.com/search?q=malgioglio) | N/A |
+| 39 | [Pasquale](http://twitter.com/search?q=Pasquale) | N/A |
+| 40 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
 | 41 | [Ligabue](http://twitter.com/search?q=Ligabue) | N/A |
-| 42 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 43 | [Buongiorno Vito](http://twitter.com/search?q=Buongiorno+Vito) | N/A |
-| 44 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 45 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 46 | [Telese](http://twitter.com/search?q=Telese) | N/A |
-| 47 | [paolantoni](http://twitter.com/search?q=paolantoni) | N/A |
-| 48 | [federica pellegrini](http://twitter.com/search?q=federica+pellegrini) | N/A |
-| 49 | [baldanzi](http://twitter.com/search?q=baldanzi) | N/A |
-| 50 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 42 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 43 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 44 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 45 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
+| 46 | [Il PD](http://twitter.com/search?q=Il+PD) | N/A |
+| 47 | [Telese](http://twitter.com/search?q=Telese) | N/A |
+| 48 | [Miki](http://twitter.com/search?q=Miki) | N/A |
+| 49 | [Clelia](http://twitter.com/search?q=Clelia) | N/A |
 
 
 

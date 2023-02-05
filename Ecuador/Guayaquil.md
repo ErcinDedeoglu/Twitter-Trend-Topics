@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-05 07:16:21 UTC`
+📆 Last Updated: `2023-02-05 08:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Puerto López](http://twitter.com/search?q=Puerto+L%c3%b3pez) | N/A |
-| 2 | [Omar Menéndez](http://twitter.com/search?q=Omar+Men%c3%a9ndez) | N/A |
+| 1 | [Omar Menéndez](http://twitter.com/search?q=Omar+Men%c3%a9ndez) | N/A |
+| 2 | [Puerto López](http://twitter.com/search?q=Puerto+L%c3%b3pez) | N/A |
 | 3 | [#Elecciones2023Ec](http://twitter.com/search?q=%23Elecciones2023Ec) | N/A |
 | 4 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
 | 5 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
@@ -42,16 +42,16 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 25 | [undav](http://twitter.com/search?q=undav) | N/A |
 | 26 | [Revolución Ciudadana](http://twitter.com/search?q=Revoluci%c3%b3n+Ciudadana) | N/A |
 | 27 | [Portocarrero](http://twitter.com/search?q=Portocarrero) | N/A |
-| 28 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
+| 28 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
 | 29 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
 | 30 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 31 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
-| 32 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 33 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
-| 34 | [Yunda](http://twitter.com/search?q=Yunda) | N/A |
-| 35 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 31 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 32 | [Junior Roldán](http://twitter.com/search?q=Junior+Rold%c3%a1n) | N/A |
+| 33 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
+| 34 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 35 | [Yunda](http://twitter.com/search?q=Yunda) | N/A |
 | 36 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 37 | [Janner](http://twitter.com/search?q=Janner) | N/A |
+| 37 | [janner](http://twitter.com/search?q=janner) | N/A |
 | 38 | [Farias](http://twitter.com/search?q=Farias) | N/A |
 | 39 | [Ecuabrighton](http://twitter.com/search?q=Ecuabrighton) | N/A |
 | 40 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |

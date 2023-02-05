@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-05 07:17:01 UTC`
+📆 Last Updated: `2023-02-05 08:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Germany
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 2 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
-| 3 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
-| 4 | [#SchlagDenStar](http://twitter.com/search?q=%23SchlagDenStar) | N/A |
-| 5 | [KYJI CELEBRATES ASAP28](http://twitter.com/search?q=KYJI+CELEBRATES+ASAP28) | N/A |
-| 6 | [#DAZNfightclub](http://twitter.com/search?q=%23DAZNfightclub) | N/A |
+| 2 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 3 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
+| 4 | [#BVBSCF](http://twitter.com/search?q=%23BVBSCF) | N/A |
+| 5 | [#SchlagdenStar](http://twitter.com/search?q=%23SchlagdenStar) | N/A |
+| 6 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 7 | [#sgebsc](http://twitter.com/search?q=%23sgebsc) | N/A |
-| 8 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 9 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 10 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 11 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 12 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 13 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 14 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 15 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 16 | [Haller](http://twitter.com/search?q=Haller) | Haller is a German surname derived from the Middle High German word "haller," meaning "rock." It is also a common given name in Germany, derived from the same root. |
-| 17 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 18 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 19 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
-| 20 | [Guten Morgen Willi](http://twitter.com/search?q=Guten+Morgen+Willi) | N/A |
-| 21 | [zalazar](http://twitter.com/search?q=zalazar) | N/A |
-| 22 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
-| 23 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
-| 24 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 25 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 26 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 27 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 28 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 29 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 30 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
-| 31 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
-| 32 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
-| 33 | [kerner](http://twitter.com/search?q=kerner) | N/A |
-| 34 | [farke](http://twitter.com/search?q=farke) | N/A |
-| 35 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 36 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 37 | [Sonnenaufgang](http://twitter.com/search?q=Sonnenaufgang) | N/A |
-| 38 | [süle](http://twitter.com/search?q=s%c3%bcle) | N/A |
-| 39 | [Elvira](http://twitter.com/search?q=Elvira) | N/A |
-| 40 | [elfer](http://twitter.com/search?q=elfer) | N/A |
-| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 42 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 43 | [Staatsbürgerkunde](http://twitter.com/search?q=Staatsb%c3%bcrgerkunde) | N/A |
-| 44 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 45 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
-| 46 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 47 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
-| 48 | [Hürden](http://twitter.com/search?q=H%c3%bcrden) | N/A |
-| 49 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 50 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
+| 8 | [#DAZNfightclub](http://twitter.com/search?q=%23DAZNfightclub) | N/A |
+| 9 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 10 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 11 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 12 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
+| 13 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 14 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
+| 15 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 16 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
+| 17 | [Frau Chebli](http://twitter.com/search?q=Frau+Chebli) | N/A |
+| 18 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 19 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 20 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 21 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 22 | [Balanta](http://twitter.com/search?q=Balanta) | N/A |
+| 23 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 24 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
+| 25 | [Diktatoren](http://twitter.com/search?q=Diktatoren) | N/A |
+| 26 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 27 | [zalazar](http://twitter.com/search?q=zalazar) | N/A |
+| 28 | [Sonnenaufgang](http://twitter.com/search?q=Sonnenaufgang) | N/A |
+| 29 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 30 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 31 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 32 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 33 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 34 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
+| 35 | [Abschuss](http://twitter.com/search?q=Abschuss) | N/A |
+| 36 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 37 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 38 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 39 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
+| 40 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 41 | [Raider](http://twitter.com/search?q=Raider) | Raider is a term used to describe someone who takes part in a raid, which is an organized military attack. It can also refer to someone who takes part in a surprise attack or robbery. |
+| 42 | [inkigayo](http://twitter.com/search?q=inkigayo) | Inkigayo is a South Korean music program broadcast by SBS. It airs live every Sunday and features some of the latest and most popular K-pop songs. The name Inkigayo is derived from the Korean words "in-gi" (인기, meaning popularity) and "gayo" (가요, meaning song). In English, it can be translated to mean "Popular Music". |
+| 43 | [kerner](http://twitter.com/search?q=kerner) | N/A |
+| 44 | [Conny](http://twitter.com/search?q=Conny) | N/A |
+| 45 | [farke](http://twitter.com/search?q=farke) | N/A |
+| 46 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 47 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 48 | [Heike](http://twitter.com/search?q=Heike) | N/A |
+| 49 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 50 | [Juli Zeh](http://twitter.com/search?q=Juli+Zeh) | N/A |
 
 
 
