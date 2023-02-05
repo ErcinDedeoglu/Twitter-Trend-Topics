@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-05 20:17:03 UTC`
+📆 Last Updated: `2023-02-05 21:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
 | 5 | [#جیل_بھرو_تحریک](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88_%d8%aa%d8%ad%d8%b1%db%8c%da%a9) | N/A |
 | 6 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 7 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 8 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 7 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 9 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 10 | [6 Sixes](http://twitter.com/search?q=6+Sixes) | N/A |
-| 11 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
-| 12 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 13 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 14 | [STOP ATTACKING PAKIMYS](http://twitter.com/search?q=STOP+ATTACKING+PAKIMYS) | N/A |
+| 10 | [6 sixes](http://twitter.com/search?q=6+sixes) | N/A |
+| 11 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 12 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
+| 13 | [STOP ATTACKING PAKIMYS](http://twitter.com/search?q=STOP+ATTACKING+PAKIMYS) | N/A |
+| 14 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
 | 15 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
 | 16 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 17 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
-| 18 | [NRO 1](http://twitter.com/search?q=NRO+1) | N/A |
-| 19 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 20 | [Chacha](http://twitter.com/search?q=Chacha) | N/A |
-| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 22 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
-| 23 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 24 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
-| 25 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
-| 26 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 27 | [Economy](http://twitter.com/search?q=Economy) | N/A |
-| 28 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 29 | [MIGHTY WINNER SHIV](http://twitter.com/search?q=MIGHTY+WINNER+SHIV) | MIGHTY WINNER SHIV is a phrase used in Hinduism to refer to the god Shiva, who is seen as a powerful and victorious deity. The phrase is often used as an invocation or prayer to ask for Shiva's protection and blessings. |
-| 30 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 31 | [PayPal](http://twitter.com/search?q=PayPal) | N/A |
-| 32 | [Maryam Nawaz Sharif](http://twitter.com/search?q=Maryam+Nawaz+Sharif) | N/A |
-| 33 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
-| 34 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 35 | [Adele](http://twitter.com/search?q=Adele) | N/A |
+| 18 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 19 | [Chacha](http://twitter.com/search?q=Chacha) | N/A |
+| 20 | [NRO 1](http://twitter.com/search?q=NRO+1) | N/A |
+| 21 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
+| 22 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
+| 23 | [ARISING WINNER PRIYANKA](http://twitter.com/search?q=ARISING+WINNER+PRIYANKA) | ARISING WINNER PRIYANKA is a phrase used to express admiration and congratulations for someone who has achieved success. It is a way of saying that Priyanka has emerged as a winner and is deserving of recognition. |
+| 24 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 25 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
+| 29 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
+| 30 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
+| 31 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 32 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 33 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 34 | [Adele](http://twitter.com/search?q=Adele) | N/A |
+| 35 | [Yess](http://twitter.com/search?q=Yess) | N/A |
 | 36 | [NO MORE](http://twitter.com/search?q=NO+MORE) | N/A |
 | 37 | [Dollar](http://twitter.com/search?q=Dollar) | N/A |
-| 38 | [Mjhy](http://twitter.com/search?q=Mjhy) | N/A |
-| 39 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
+| 38 | [Great Leader](http://twitter.com/search?q=Great+Leader) | N/A |
+| 39 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
 | 40 | [Chill](http://twitter.com/search?q=Chill) | N/A |
-| 41 | [Great Man](http://twitter.com/search?q=Great+Man) | N/A |
-| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 43 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 44 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 45 | [Lisha](http://twitter.com/search?q=Lisha) | N/A |
-| 46 | [Drama](http://twitter.com/search?q=Drama) | N/A |
-| 47 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 49 | [Atleast](http://twitter.com/search?q=Atleast) | N/A |
+| 41 | [Insta](http://twitter.com/search?q=Insta) | N/A |
+| 42 | [Lisha](http://twitter.com/search?q=Lisha) | N/A |
+| 43 | [International](http://twitter.com/search?q=International) | N/A |
+| 44 | [Chat](http://twitter.com/search?q=Chat) | N/A |
+| 45 | [Baat](http://twitter.com/search?q=Baat) | N/A |
+| 46 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 47 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
+| 48 | [THE BEST](http://twitter.com/search?q=THE+BEST) | N/A |
+| 49 | [Friends](http://twitter.com/search?q=Friends) | N/A |
 
 
 

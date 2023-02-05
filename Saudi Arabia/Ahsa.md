@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-02-05 20:17:23 UTC`
+📆 Last Updated: `2023-02-05 21:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 2 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 3 | [#غازي_الذيابي](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a) | N/A |
-| 4 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 5 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 6 | [#بهاج_الاكلبي](http://twitter.com/search?q=%23%d8%a8%d9%87%d8%a7%d8%ac_%d8%a7%d9%84%d8%a7%d9%83%d9%84%d8%a8%d9%8a) | N/A |
-| 7 | [روميرو](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d9%8a%d8%b1%d9%88) | روميرو (Romero) is a Spanish surname derived from the Latin name Romerius. It is a patronymic surname, meaning "son of Romero". In English, the name would be translated as "son of Romero". |
-| 8 | [#جاك_الصندوق](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%83_%d8%a7%d9%84%d8%b5%d9%86%d8%af%d9%88%d9%82) | N/A |
-| 9 | [#البزنس61](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b361) | N/A |
-| 10 | [#٦٠_الف_اتحادي_ضد_العداله](http://twitter.com/search?q=%23%d9%a6%d9%a0_%d8%a7%d9%84%d9%81_%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a_%d8%b6%d8%af_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
-| 11 | [ايمرسون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%b1%d8%b3%d9%88%d9%86) | N/A |
-| 12 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 13 | [شيميزو الياباني](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d9%8a%d8%b2%d9%88+%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a) | شيميزو الياباني (Shemezu Eiyabani) is a type of Japanese noodle dish. It consists of thick, chewy noodles served in a broth made from soy sauce, mirin, and dashi. The noodles are usually topped with various ingredients such as pork, vegetables, and seaweed. In English, it is known as Japanese Soba Noodles. |
-| 14 | [فيسكا بارسا](http://twitter.com/search?q=%d9%81%d9%8a%d8%b3%d9%83%d8%a7+%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
-| 15 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
-| 16 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 17 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
-| 18 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 19 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
-| 20 | [كاس السوبر الاسيوي](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | N/A |
-| 21 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 22 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 23 | [لوريس](http://twitter.com/search?q=%d9%84%d9%88%d8%b1%d9%8a%d8%b3) | لوريس is a transliteration of the Arabic name "Lawrence" and it means "from Laurentum" in English. |
-| 24 | [علي العنزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
-| 25 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 26 | [دزيكو](http://twitter.com/search?q=%d8%af%d8%b2%d9%8a%d9%83%d9%88) | دزيكو is a type of traditional Yemeni dance. It is a form of folk dance that is performed by men and women in Yemen. The word "دزيكو" comes from the Arabic root word "dazka", which means to move quickly or to jump. In English, it can be translated as "quick dance". |
-| 27 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
-| 28 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
-| 29 | [والكوت](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%83%d9%88%d8%aa) | N/A |
-| 30 | [ابو كاتم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%83%d8%a7%d8%aa%d9%85) | ابو كاتم is an Arabic phrase that translates to "Father of Silence". It is used to refer to someone who is quiet and introspective. |
-| 31 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
-| 32 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 33 | [كومان](http://twitter.com/search?q=%d9%83%d9%88%d9%85%d8%a7%d9%86) | N/A |
-| 34 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
+| 1 | [#جاك_الصندوق](http://twitter.com/search?q=%23%d8%ac%d8%a7%d9%83_%d8%a7%d9%84%d8%b5%d9%86%d8%af%d9%88%d9%82) | N/A |
+| 2 | [#فريق_تحبه](http://twitter.com/search?q=%23%d9%81%d8%b1%d9%8a%d9%82_%d8%aa%d8%ad%d8%a8%d9%87) | N/A |
+| 3 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 4 | [#البزنس61](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b361) | N/A |
+| 5 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 6 | [#غازي_الذيابي](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a) | N/A |
+| 7 | [#اكشن_مع_وليد](http://twitter.com/search?q=%23%d8%a7%d9%83%d8%b4%d9%86_%d9%85%d8%b9_%d9%88%d9%84%d9%8a%d8%af) | N/A |
+| 8 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 9 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
+| 10 | [ياسر المسحل](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%ad%d9%84) | N/A |
+| 11 | [راكيتيتش](http://twitter.com/search?q=%d8%b1%d8%a7%d9%83%d9%8a%d8%aa%d9%8a%d8%aa%d8%b4) | N/A |
+| 12 | [روميرو](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d9%8a%d8%b1%d9%88) | روميرو (Romero) is a Spanish surname derived from the Latin name Romerius. It is a patronymic surname, meaning "son of Romero". In English, the name would be translated as "son of Romero". |
+| 13 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
+| 14 | [كايري](http://twitter.com/search?q=%d9%83%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 15 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 16 | [انزاغي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d8%a7%d8%ba%d9%8a) | N/A |
+| 17 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
+| 18 | [دزيكو](http://twitter.com/search?q=%d8%af%d8%b2%d9%8a%d9%83%d9%88) | دزيكو is a type of traditional Yemeni dance. It is a form of folk dance that is performed by men and women in Yemen. The word "دزيكو" comes from the Arabic root word "dazka", which means to move quickly or to jump. In English, it can be translated as "quick dance". |
+| 19 | [فيسكا بارسا](http://twitter.com/search?q=%d9%81%d9%8a%d8%b3%d9%83%d8%a7+%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
+| 20 | [محمد بنيس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86%d9%8a%d8%b3) | N/A |
+| 21 | [شيميزو الياباني](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d9%8a%d8%b2%d9%88+%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a) | شيميزو الياباني (Shemezu Eiyabani) is a type of Japanese noodle dish. It consists of thick, chewy noodles served in a broth made from soy sauce, mirin, and dashi. The noodles are usually topped with various ingredients such as pork, vegetables, and seaweed. In English, it is known as Japanese Soba Noodles. |
+| 22 | [ابو سلطان](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 23 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
+| 24 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
+| 25 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
+| 26 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 27 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 28 | [اوريجي](http://twitter.com/search?q=%d8%a7%d9%88%d8%b1%d9%8a%d8%ac%d9%8a) | N/A |
+| 29 | [كاس السوبر الاسيوي](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | N/A |
+| 30 | [صيام الاثنين](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | N/A |
+| 31 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 32 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
+| 33 | [علي العنزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
+| 34 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
 | 35 | [غازي القصيبي](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
-| 36 | [الحدود الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 37 | [سالم علي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | N/A |
-| 38 | [كايري](http://twitter.com/search?q=%d9%83%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 39 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
-| 40 | [فلامينغو البرازيلي](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d9%85%d9%8a%d9%86%d8%ba%d9%88+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84%d9%8a) | N/A |
-| 41 | [فولفسبورغ](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%81%d8%b3%d8%a8%d9%88%d8%b1%d8%ba) | N/A |
-| 42 | [سانشيز](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%b4%d9%8a%d8%b2) | N/A |
+| 36 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
+| 37 | [والكوت](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%83%d9%88%d8%aa) | N/A |
+| 38 | [التدابير الوقتيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%a7%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d9%88%d9%82%d8%aa%d9%8a%d9%87) | N/A |
+| 39 | [الجوله القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 40 | [الحدود الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 41 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
+| 42 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
 | 43 | [الفريق الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 44 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 45 | [التدريب التقني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a) | N/A |
-| 46 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 47 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 48 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 49 | [١٤ فبراير](http://twitter.com/search?q=%d9%a1%d9%a4+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 50 | [ريكو](http://twitter.com/search?q=%d8%b1%d9%8a%d9%83%d9%88) | N/A |
+| 44 | [لويس](http://twitter.com/search?q=%d9%84%d9%88%d9%8a%d8%b3) | N/A |
+| 45 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
+| 46 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 47 | [التدريب التقني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a) | N/A |
+| 48 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
+| 49 | [فهيد](http://twitter.com/search?q=%d9%81%d9%87%d9%8a%d8%af) | N/A |
+| 50 | [14 فبراير](http://twitter.com/search?q=14+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
 
 
 
