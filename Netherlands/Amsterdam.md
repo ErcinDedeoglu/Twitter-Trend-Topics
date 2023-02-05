@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-05 10:15:58 UTC`
+📆 Last Updated: `2023-02-05 11:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 3 | [#DIEPROZE](http://twitter.com/search?q=%23DIEPROZE) | N/A |
-| 4 | [#feypsv](http://twitter.com/search?q=%23feypsv) | N/A |
-| 5 | [Sophie Hermans](http://twitter.com/search?q=Sophie+Hermans) | N/A |
-| 6 | [#camaja](http://twitter.com/search?q=%23camaja) | N/A |
-| 7 | [#stemzeweg](http://twitter.com/search?q=%23stemzeweg) | N/A |
-| 8 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 9 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
-| 10 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 11 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
-| 12 | [Kouderecords](http://twitter.com/search?q=Kouderecords) | N/A |
+| 2 | [#camaja](http://twitter.com/search?q=%23camaja) | N/A |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 4 | [#stemzeweg](http://twitter.com/search?q=%23stemzeweg) | N/A |
+| 5 | [#feypsv](http://twitter.com/search?q=%23feypsv) | N/A |
+| 6 | [#DIEPROZE](http://twitter.com/search?q=%23DIEPROZE) | N/A |
+| 7 | [Sophie Hermans](http://twitter.com/search?q=Sophie+Hermans) | N/A |
+| 8 | [Watersnoodramp](http://twitter.com/search?q=Watersnoodramp) | N/A |
+| 9 | [dag 5](http://twitter.com/search?q=dag+5) | N/A |
+| 10 | [PvdA](http://twitter.com/search?q=PvdA) | N/A |
+| 11 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
+| 12 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
 | 13 | [Pim Lammers](http://twitter.com/search?q=Pim+Lammers) | N/A |
-| 14 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
-| 15 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 16 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
-| 17 | [Mexx](http://twitter.com/search?q=Mexx) | N/A |
-| 18 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
-| 19 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
-| 20 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Andries](http://twitter.com/search?q=Andries) | N/A |
-| 23 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 25 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
-| 26 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
-| 27 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
-| 28 | [Geert](http://twitter.com/search?q=Geert) | N/A |
-| 29 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 30 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 31 | [Hoogerheide](http://twitter.com/search?q=Hoogerheide) | N/A |
-| 32 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
-| 33 | [Marleen](http://twitter.com/search?q=Marleen) | N/A |
-| 34 | [Pim Fortuyn](http://twitter.com/search?q=Pim+Fortuyn) | N/A |
-| 35 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
-| 36 | [Kinderboekenweek](http://twitter.com/search?q=Kinderboekenweek) | N/A |
-| 37 | [Gijs](http://twitter.com/search?q=Gijs) | N/A |
-| 38 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
-| 39 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
-| 40 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
-| 41 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 42 | [Jesse Klaver](http://twitter.com/search?q=Jesse+Klaver) | N/A |
-| 43 | [Stijn](http://twitter.com/search?q=Stijn) | N/A |
-| 44 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
-| 45 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 46 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
-| 47 | [Fem van Empel](http://twitter.com/search?q=Fem+van+Empel) | N/A |
-| 48 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
-| 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 14 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
+| 15 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 16 | [Wopke](http://twitter.com/search?q=Wopke) | N/A |
+| 17 | [Kouderecords](http://twitter.com/search?q=Kouderecords) | N/A |
+| 18 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 19 | [Geert](http://twitter.com/search?q=Geert) | N/A |
+| 20 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
+| 21 | [Mexx](http://twitter.com/search?q=Mexx) | N/A |
+| 22 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 23 | [Hoogerheide](http://twitter.com/search?q=Hoogerheide) | N/A |
+| 24 | [Andries](http://twitter.com/search?q=Andries) | N/A |
+| 25 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 28 | [Rosenmöller](http://twitter.com/search?q=Rosenm%c3%b6ller) | N/A |
+| 29 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 30 | [Gijs](http://twitter.com/search?q=Gijs) | N/A |
+| 31 | [Pim Fortuyn](http://twitter.com/search?q=Pim+Fortuyn) | N/A |
+| 32 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 33 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 34 | [Kuiken](http://twitter.com/search?q=Kuiken) | N/A |
+| 35 | [NOS Journaal](http://twitter.com/search?q=NOS+Journaal) | N/A |
+| 36 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 37 | [Ineke](http://twitter.com/search?q=Ineke) | N/A |
+| 38 | [ranomi](http://twitter.com/search?q=ranomi) | N/A |
+| 39 | [Jurre](http://twitter.com/search?q=Jurre) | N/A |
+| 40 | [Kinderboekenweek](http://twitter.com/search?q=Kinderboekenweek) | N/A |
+| 41 | [Stijn](http://twitter.com/search?q=Stijn) | N/A |
+| 42 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
+| 43 | [Wellenreuther](http://twitter.com/search?q=Wellenreuther) | N/A |
+| 44 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 45 | [Lowlands](http://twitter.com/search?q=Lowlands) | N/A |
+| 46 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
+| 47 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 48 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 49 | [Jesse Klaver](http://twitter.com/search?q=Jesse+Klaver) | N/A |
 
 
 

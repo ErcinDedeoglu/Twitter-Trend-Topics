@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-05 10:16:09 UTC`
+📆 Last Updated: `2023-02-05 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 14 | [Mile](http://twitter.com/search?q=Mile) | N/A |
 | 15 | [chua](http://twitter.com/search?q=chua) | N/A |
-| 16 | [Dang Hong Hai](http://twitter.com/search?q=Dang+Hong+Hai) | N/A |
+| 16 | [dang hong hai](http://twitter.com/search?q=dang+hong+hai) | N/A |
 | 17 | [Cong](http://twitter.com/search?q=Cong) | N/A |
 | 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 21 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
-| 22 | [Buồn](http://twitter.com/search?q=Bu%e1%bb%93n) | N/A |
-| 23 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 24 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 25 | [xana penpenz](http://twitter.com/search?q=xana+penpenz) | N/A |
-| 26 | [America](http://twitter.com/search?q=America) | N/A |
-| 27 | [Idol](http://twitter.com/search?q=Idol) | N/A |
-| 28 | [ALWAYS WITH BUILD](http://twitter.com/search?q=ALWAYS+WITH+BUILD) | "ALWAYS WITH BUILD" is a phrase used to describe the process of continuously building and testing software in order to ensure that it is always up-to-date and functioning properly. It is a key part of the software development process, as it helps to identify any potential issues before they become major problems. |
-| 29 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 19 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 20 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
+| 21 | [Buồn](http://twitter.com/search?q=Bu%e1%bb%93n) | N/A |
+| 22 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
+| 23 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 24 | [xana penpenz](http://twitter.com/search?q=xana+penpenz) | N/A |
+| 25 | [America](http://twitter.com/search?q=America) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 28 | [Idol](http://twitter.com/search?q=Idol) | N/A |
+| 29 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 | 30 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
 | 31 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
-| 32 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 33 | [nước](http://twitter.com/search?q=n%c6%b0%e1%bb%9bc) | N/A |
-| 34 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
-| 35 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 36 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 37 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 38 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
-| 39 | [Omega](http://twitter.com/search?q=Omega) | N/A |
+| 32 | [nước](http://twitter.com/search?q=n%c6%b0%e1%bb%9bc) | N/A |
+| 33 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
+| 34 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 35 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 36 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 37 | [Omega](http://twitter.com/search?q=Omega) | N/A |
+| 38 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 39 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
 | 40 | [tiếc](http://twitter.com/search?q=ti%e1%ba%bfc) | N/A |
-| 41 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
 | 43 | [Taylor](http://twitter.com/search?q=Taylor) | N/A |
-| 44 | [vâng](http://twitter.com/search?q=v%c3%a2ng) | N/A |
-| 45 | [Đánh](http://twitter.com/search?q=%c4%90%c3%a1nh) | N/A |
-| 46 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
-| 47 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 48 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 49 | [Chịch](http://twitter.com/search?q=Ch%e1%bb%8bch) | N/A |
+| 44 | [Đánh](http://twitter.com/search?q=%c4%90%c3%a1nh) | N/A |
+| 45 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 46 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 47 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
+| 48 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 49 | [chịch](http://twitter.com/search?q=ch%e1%bb%8bch) | N/A |
 | 50 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 
 

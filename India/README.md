@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For India
 
-📆 Last Updated: `2023-02-05 10:16:32 UTC`
+📆 Last Updated: `2023-02-05 11:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for India
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PervezMusharraf](http://twitter.com/search?q=%23PervezMusharraf) | #PervezMusharraf is a hashtag used to refer to former Pakistani President Pervez Musharraf. It is used to discuss news and topics related to him. |
-| 2 | [#StartingTroublesTwo](http://twitter.com/search?q=%23StartingTroublesTwo) | N/A |
-| 3 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
-| 4 | [#विकास_यात्रा_MP](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8_%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be_MP) | N/A |
-| 5 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
-| 6 | [MIGHTY WINNER SHIV](http://twitter.com/search?q=MIGHTY+WINNER+SHIV) | MIGHTY WINNER SHIV is a phrase used in Hinduism to refer to the god Shiva, who is seen as a powerful and victorious deity. The phrase is often used as an invocation or prayer to ask for Shiva's protection and blessings. |
-| 7 | [#AKAMUnityInCreativity](http://twitter.com/search?q=%23AKAMUnityInCreativity) | N/A |
-| 8 | [LaVaste Movie](http://twitter.com/search?q=LaVaste+Movie) | LaVaste Movie is a French expression that translates to "the big movie" in English. It is used to refer to a major motion picture or blockbuster film. |
-| 9 | [HAQ SE WINNER MC STAN](http://twitter.com/search?q=HAQ+SE+WINNER+MC+STAN) | N/A |
-| 10 | [शिरोमणि गुरु रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि गुरु रविदास is a Sanskrit phrase meaning "the teacher of the gods, Ravidas". It is a reference to the 15th-century Indian poet and mystic, Ravidas. |
-| 11 | [Fielder with Most Catches](http://twitter.com/search?q=Fielder+with+Most+Catches) | Fielder with Most Catches is a statistic used in cricket to measure the number of catches taken by a fielder during a match. It is an indication of how well the fielder has performed in the field, as it shows how many times they have been able to stop the ball from reaching the boundary. |
-| 12 | [SSRians Love For Sushant](http://twitter.com/search?q=SSRians+Love+For+Sushant) | N/A |
+| 1 | [#G20DEWG](http://twitter.com/search?q=%23G20DEWG) | N/A |
+| 2 | [#PervezMusharraf](http://twitter.com/search?q=%23PervezMusharraf) | #PervezMusharraf is a hashtag used to refer to former Pakistani President Pervez Musharraf. It is used to discuss news and topics related to him. |
+| 3 | [#StartingTroublesTwo](http://twitter.com/search?q=%23StartingTroublesTwo) | N/A |
+| 4 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 5 | [MIGHTY WINNER SHIV](http://twitter.com/search?q=MIGHTY+WINNER+SHIV) | MIGHTY WINNER SHIV is a phrase used in Hinduism to refer to the god Shiva, who is seen as a powerful and victorious deity. The phrase is often used as an invocation or prayer to ask for Shiva's protection and blessings. |
+| 6 | [#विकास_यात्रा_MP](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8_%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be_MP) | N/A |
+| 7 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
+| 8 | [HAQ SE WINNER MC STAN](http://twitter.com/search?q=HAQ+SE+WINNER+MC+STAN) | N/A |
+| 9 | [Fielder with Most Catches](http://twitter.com/search?q=Fielder+with+Most+Catches) | Fielder with Most Catches is a statistic used in cricket to measure the number of catches taken by a fielder during a match. It is an indication of how well the fielder has performed in the field, as it shows how many times they have been able to stop the ball from reaching the boundary. |
+| 10 | [शिरोमणि रविदास](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%ae%e0%a4%a3%e0%a4%bf+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%b8) | शिरोमणि रविदास is a Sanskrit phrase meaning "the sun of the head of the mountain". It is often used as a metaphor for someone who is wise and noble. |
+| 11 | [SSRians Love For Sushant](http://twitter.com/search?q=SSRians+Love+For+Sushant) | N/A |
+| 12 | [Bowler with Worst ER](http://twitter.com/search?q=Bowler+with+Worst+ER) | Bowler with Worst ER is a statistic used in cricket to measure the effectiveness of a bowler. It stands for Economy Rate, which is the number of runs conceded per over bowled. It is calculated by dividing the total number of runs conceded by the total number of overs bowled. A bowler with the worst ER will have conceded the most runs per over, indicating that they are not very effective at containing batsmen and preventing them from scoring runs. |
 | 13 | [SHALIN DESERVES BB16 TROPHY](http://twitter.com/search?q=SHALIN+DESERVES+BB16+TROPHY) | N/A |
-| 14 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 15 | [Batsman with Most Sixes](http://twitter.com/search?q=Batsman+with+Most+Sixes) | N/A |
-| 16 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 17 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
+| 14 | [Batsman with Most Sixes](http://twitter.com/search?q=Batsman+with+Most+Sixes) | N/A |
+| 15 | [पूर्व राष्ट्रपति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 16 | [Batsman with Highest SR](http://twitter.com/search?q=Batsman+with+Highest+SR) | N/A |
+| 17 | [Jhulan Goswami](http://twitter.com/search?q=Jhulan+Goswami) | N/A |
 | 18 | [सामाजिक एकता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%8f%e0%a4%95%e0%a4%a4%e0%a4%be) | N/A |
-| 19 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
-| 20 | [कारगिल युद्ध](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a4%97%e0%a4%bf%e0%a4%b2+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
-| 21 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 22 | [PIYA RE BY DARSHAN RAVAL](http://twitter.com/search?q=PIYA+RE+BY+DARSHAN+RAVAL) | "Piya Re" is a song by Indian singer Darshan Raval. The song is about a man who is deeply in love with his partner and expresses his feelings for her. The English translation of the lyrics is: "My beloved, I am crazy for you, I can't stay away from you, I'm in love with you, my heart is beating for you." |
-| 23 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 24 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | Sant Rampal Ji Maharaj App is an Android app that provides users with access to teachings and videos from Sant Rampal Ji Maharaj, a spiritual leader from India. The app also provides users with access to audio recordings of his sermons, as well as information about upcoming events and activities related to Sant Rampal Ji Maharaj. The English translation of the name of the app is "Saint Rampal Ji Maharaj App". |
+| 19 | [Charlotte Edwards](http://twitter.com/search?q=Charlotte+Edwards) | N/A |
+| 20 | [महान योगी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80) | N/A |
+| 21 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 22 | [कारगिल युद्ध](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a4%97%e0%a4%bf%e0%a4%b2+%e0%a4%af%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
+| 23 | [माघ पूर्णिमा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%98+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
+| 24 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 25 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
-| 26 | [परम ज्ञानी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 27 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 28 | [Boland](http://twitter.com/search?q=Boland) | N/A |
-| 29 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
-| 30 | [Asia Cup](http://twitter.com/search?q=Asia+Cup) | N/A |
-| 31 | [Kashmir Solidarity Day](http://twitter.com/search?q=Kashmir+Solidarity+Day) | N/A |
-| 32 | [पावन जयंती](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 33 | [Jaipur Mahakhel](http://twitter.com/search?q=Jaipur+Mahakhel) | N/A |
-| 34 | [Anshul Jubli](http://twitter.com/search?q=Anshul+Jubli) | N/A |
-| 35 | [Shame On BBC](http://twitter.com/search?q=Shame+On+BBC) | N/A |
-| 36 | [Kashmiris](http://twitter.com/search?q=Kashmiris) | N/A |
-| 37 | [पवित्र पुस्तक गीता](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%97%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 38 | [सहज स्वरूप](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b9%e0%a4%9c+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 39 | [#NKIRunningSuccessfully](http://twitter.com/search?q=%23NKIRunningSuccessfully) | N/A |
-| 40 | [#MPVikasYatra](http://twitter.com/search?q=%23MPVikasYatra) | N/A |
-| 41 | [#yadavexposedkejriwalonobc](http://twitter.com/search?q=%23yadavexposedkejriwalonobc) | N/A |
-| 42 | [#RavidasJayanti](http://twitter.com/search?q=%23RavidasJayanti) | N/A |
+| 26 | [Sant Rampal Ji Maharaj App](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj+App) | Sant Rampal Ji Maharaj App is an Android app that provides users with access to teachings and videos from Sant Rampal Ji Maharaj, a spiritual leader from India. The app also provides users with access to audio recordings of his sermons, as well as information about upcoming events and activities related to Sant Rampal Ji Maharaj. The English translation of the name of the app is "Saint Rampal Ji Maharaj App". |
+| 27 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 28 | [PIYA RE BY DARSHAN RAVAL](http://twitter.com/search?q=PIYA+RE+BY+DARSHAN+RAVAL) | "Piya Re" is a song by Indian singer Darshan Raval. The song is about a man who is deeply in love with his partner and expresses his feelings for her. The English translation of the lyrics is: "My beloved, I am crazy for you, I can't stay away from you, I'm in love with you, my heart is beating for you." |
+| 29 | [परम ज्ञानी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 30 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 31 | [Boland](http://twitter.com/search?q=Boland) | N/A |
+| 32 | [ज्ञान अमृत](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4) | N/A |
+| 33 | [Agra](http://twitter.com/search?q=Agra) | N/A |
+| 34 | [Jaipur Mahakhel](http://twitter.com/search?q=Jaipur+Mahakhel) | N/A |
+| 35 | [Kashmir Solidarity Day](http://twitter.com/search?q=Kashmir+Solidarity+Day) | N/A |
+| 36 | [पावन जयंती](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 37 | [Kashmiris](http://twitter.com/search?q=Kashmiris) | N/A |
+| 38 | [पवित्र पुस्तक](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95) | N/A |
+| 39 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 40 | [#MereDeshKiJawani](http://twitter.com/search?q=%23MereDeshKiJawani) | N/A |
+| 41 | [#NKIRunningSuccessfully](http://twitter.com/search?q=%23NKIRunningSuccessfully) | N/A |
+| 42 | [#AKAMUnityInCreativity](http://twitter.com/search?q=%23AKAMUnityInCreativity) | N/A |
 | 43 | [#राजपूत_नरसंहार_छपरा](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%aa%e0%a5%82%e0%a4%a4_%e0%a4%a8%e0%a4%b0%e0%a4%b8%e0%a4%82%e0%a4%b9%e0%a4%be%e0%a4%b0_%e0%a4%9b%e0%a4%aa%e0%a4%b0%e0%a4%be) | N/A |
-| 44 | [#ShapeofPower](http://twitter.com/search?q=%23ShapeofPower) | N/A |
-| 45 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 44 | [#MPVikasYatra](http://twitter.com/search?q=%23MPVikasYatra) | N/A |
+| 45 | [#yadavexposedkejriwalonobc](http://twitter.com/search?q=%23yadavexposedkejriwalonobc) | N/A |
 | 46 | [#Quetta](http://twitter.com/search?q=%23Quetta) | N/A |
-| 47 | [#Cloud11](http://twitter.com/search?q=%23Cloud11) | N/A |
+| 47 | [#ShapeofPower](http://twitter.com/search?q=%23ShapeofPower) | N/A |
 | 48 | [#VetriMaaran](http://twitter.com/search?q=%23VetriMaaran) | N/A |
-| 49 | [#IftiMania](http://twitter.com/search?q=%23IftiMania) | #IftiMania is a hashtag used to promote the work of Pakistani singer and songwriter Iftikhar Hussain, also known as Ifti. The hashtag is used to show support for his music and to share his work with others. The English translation of #IftiMania is "Ifti Mania". |
-| 50 | [#VinodKambli](http://twitter.com/search?q=%23VinodKambli) | N/A |
+| 49 | [#RavidasJayanti](http://twitter.com/search?q=%23RavidasJayanti) | N/A |
+| 50 | [#Cloud11](http://twitter.com/search?q=%23Cloud11) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-05 10:15:55 UTC`
+📆 Last Updated: `2023-02-05 11:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 2 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 3 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
-| 4 | [#SchlagdenStar](http://twitter.com/search?q=%23SchlagdenStar) | N/A |
+| 1 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
+| 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 3 | [#SchlagdenStar](http://twitter.com/search?q=%23SchlagdenStar) | N/A |
+| 4 | [#BMGS04](http://twitter.com/search?q=%23BMGS04) | N/A |
 | 5 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 6 | ['Popkultur'](http://twitter.com/search?q=%27Popkultur%27) | N/A |
-| 7 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 6 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 7 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
 | 8 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 9 | [Sonntags](http://twitter.com/search?q=Sonntags) | N/A |
-| 10 | [Laken](http://twitter.com/search?q=Laken) | N/A |
-| 11 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
-| 12 | [Chebli](http://twitter.com/search?q=Chebli) | N/A |
-| 13 | [Sozialsystem](http://twitter.com/search?q=Sozialsystem) | N/A |
-| 14 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
-| 15 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 16 | [Sprachliche Hürden](http://twitter.com/search?q=Sprachliche+H%c3%bcrden) | N/A |
-| 17 | [Facharbeiter](http://twitter.com/search?q=Facharbeiter) | N/A |
-| 18 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
-| 19 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 20 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
-| 21 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
-| 22 | [Freiheit und Demokratie](http://twitter.com/search?q=Freiheit+und+Demokratie) | N/A |
-| 23 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 24 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 25 | [Werder](http://twitter.com/search?q=Werder) | N/A |
-| 26 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 27 | [Guten Morgen Markus](http://twitter.com/search?q=Guten+Morgen+Markus) | N/A |
-| 28 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 29 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
-| 30 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 31 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 32 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 33 | [Wohnungsbau](http://twitter.com/search?q=Wohnungsbau) | N/A |
-| 34 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
-| 35 | [Kaffeemaschine](http://twitter.com/search?q=Kaffeemaschine) | N/A |
-| 36 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 37 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 38 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 39 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
-| 40 | [Hab den Tag](http://twitter.com/search?q=Hab+den+Tag) | N/A |
-| 41 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 42 | [kerner](http://twitter.com/search?q=kerner) | N/A |
-| 43 | [Kultur und Identität](http://twitter.com/search?q=Kultur+und+Identit%c3%a4t) | N/A |
-| 44 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 45 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 46 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 47 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 48 | [Guten Morgen Sabine](http://twitter.com/search?q=Guten+Morgen+Sabine) | N/A |
+| 9 | [Twix](http://twitter.com/search?q=Twix) | Twix is a chocolate bar made by Mars, Inc. It consists of a biscuit center covered in caramel and coated in milk chocolate. The name "Twix" is derived from the words "twin sticks," referring to the two biscuit sticks that make up the bar. |
+| 10 | [Sprachliche Hürden](http://twitter.com/search?q=Sprachliche+H%c3%bcrden) | N/A |
+| 11 | ['Popkultur'](http://twitter.com/search?q=%27Popkultur%27) | N/A |
+| 12 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 13 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 14 | [Snickers](http://twitter.com/search?q=Snickers) | N/A |
+| 15 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 16 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 17 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 18 | [Zalazar](http://twitter.com/search?q=Zalazar) | N/A |
+| 19 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 20 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 21 | [Russland den Krieg](http://twitter.com/search?q=Russland+den+Krieg) | N/A |
+| 22 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 23 | [Freiheit und Demokratie](http://twitter.com/search?q=Freiheit+und+Demokratie) | N/A |
+| 24 | [Laken](http://twitter.com/search?q=Laken) | N/A |
+| 25 | [Hessen](http://twitter.com/search?q=Hessen) | N/A |
+| 26 | [Satelliten](http://twitter.com/search?q=Satelliten) | N/A |
+| 27 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 28 | [Kerner](http://twitter.com/search?q=Kerner) | N/A |
+| 29 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 30 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 31 | [Guten Morgen Sabine](http://twitter.com/search?q=Guten+Morgen+Sabine) | N/A |
+| 32 | [Kasse](http://twitter.com/search?q=Kasse) | N/A |
+| 33 | [Mittagessen](http://twitter.com/search?q=Mittagessen) | N/A |
+| 34 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
+| 35 | [Werder](http://twitter.com/search?q=Werder) | N/A |
+| 36 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
+| 37 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 38 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
+| 39 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 40 | [Kirchen](http://twitter.com/search?q=Kirchen) | N/A |
+| 41 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 42 | [Brunch](http://twitter.com/search?q=Brunch) | N/A |
+| 43 | [Kaffeemaschine](http://twitter.com/search?q=Kaffeemaschine) | N/A |
+| 44 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 45 | [Afrikaner](http://twitter.com/search?q=Afrikaner) | N/A |
+| 46 | [haller](http://twitter.com/search?q=haller) | N/A |
+| 47 | [Sozialsystem](http://twitter.com/search?q=Sozialsystem) | N/A |
+| 48 | [Doppelpass](http://twitter.com/search?q=Doppelpass) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-05 10:16:20 UTC`
+📆 Last Updated: `2023-02-05 11:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
 | 3 | [Alper Ulusoy](http://twitter.com/search?q=Alper+Ulusoy) | Alper Ulusoy is a Turkish given name. It is composed of two words: Alper, which means "brave" or "courageous", and Ulusoy, which means "son of the nation". In English, it can be translated to mean "brave son of the nation". |
 | 4 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 5 | [#StajTorbaya](http://twitter.com/search?q=%23StajTorbaya) | N/A |
-| 6 | [ERDOĞAN İÇİNİZDEN GEÇECEK](http://twitter.com/search?q=ERDO%c4%9eAN+%c4%b0%c3%87%c4%b0N%c4%b0ZDEN+GE%c3%87ECEK) | N/A |
-| 7 | [#fırtına](http://twitter.com/search?q=%23f%c4%b1rt%c4%b1na) | N/A |
-| 8 | [Tuğba Ekinci](http://twitter.com/search?q=Tu%c4%9fba+Ekinci) | N/A |
-| 9 | [Son 6](http://twitter.com/search?q=Son+6) | N/A |
-| 10 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
-| 11 | [Haarp](http://twitter.com/search?q=Haarp) | N/A |
-| 12 | [Djaniny](http://twitter.com/search?q=Djaniny) | N/A |
-| 13 | [Gheorghe Hagi](http://twitter.com/search?q=Gheorghe+Hagi) | N/A |
-| 14 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 5 | [Vargas](http://twitter.com/search?q=Vargas) | N/A |
+| 6 | [#fırtına](http://twitter.com/search?q=%23f%c4%b1rt%c4%b1na) | N/A |
+| 7 | [#OyumGeçimdenYana](http://twitter.com/search?q=%23OyumGe%c3%a7imdenYana) | N/A |
+| 8 | [ERDOĞAN İÇİNİZDEN GEÇECEK](http://twitter.com/search?q=ERDO%c4%9eAN+%c4%b0%c3%87%c4%b0N%c4%b0ZDEN+GE%c3%87ECEK) | N/A |
+| 9 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 10 | [Djaniny](http://twitter.com/search?q=Djaniny) | N/A |
+| 11 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 12 | [Galatasaray - Trabzonspor](http://twitter.com/search?q=Galatasaray+-+Trabzonspor) | N/A |
+| 13 | [Son 6](http://twitter.com/search?q=Son+6) | N/A |
+| 14 | [Adnan Kahveci](http://twitter.com/search?q=Adnan+Kahveci) | N/A |
 | 15 | [İskilipli Atıf](http://twitter.com/search?q=%c4%b0skilipli+At%c4%b1f) | N/A |
-| 16 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
-| 17 | [SedatPeker YeniVideosu](http://twitter.com/search?q=SedatPeker+YeniVideosu) | SedatPeker YeniVideosu is a phrase in Turkish which translates to "SedatPeker's New Video". SedatPeker is a Turkish journalist and political commentator who has recently released a new video. |
-| 18 | [Kağıthane](http://twitter.com/search?q=Ka%c4%9f%c4%b1thane) | N/A |
-| 19 | [Saat 03.15](http://twitter.com/search?q=Saat+03.15) | N/A |
-| 20 | [Kürtleri](http://twitter.com/search?q=K%c3%bcrtleri) | N/A |
+| 16 | [Gheorghe Hagi](http://twitter.com/search?q=Gheorghe+Hagi) | N/A |
+| 17 | [Bodrum](http://twitter.com/search?q=Bodrum) | N/A |
+| 18 | [Kürtleri](http://twitter.com/search?q=K%c3%bcrtleri) | N/A |
+| 19 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
+| 20 | [Haarp](http://twitter.com/search?q=Haarp) | N/A |
 | 21 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
-| 22 | [Hain](http://twitter.com/search?q=Hain) | N/A |
-| 23 | [Cem Karaca](http://twitter.com/search?q=Cem+Karaca) | N/A |
-| 24 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
-| 25 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
-| 26 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 27 | [Ben Kemal Gidiyorum](http://twitter.com/search?q=Ben+Kemal+Gidiyorum) | N/A |
-| 28 | [5 Şubat](http://twitter.com/search?q=5+%c5%9eubat) | N/A |
-| 29 | [Amerikan](http://twitter.com/search?q=Amerikan) | N/A |
-| 30 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 31 | [Ekmeleddin](http://twitter.com/search?q=Ekmeleddin) | N/A |
-| 32 | [Kılıçdaroğlunu](http://twitter.com/search?q=K%c4%b1l%c4%b1%c3%a7daro%c4%9flunu) | N/A |
-| 33 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 34 | [#Afyonkarahisar](http://twitter.com/search?q=%23Afyonkarahisar) | N/A |
-| 35 | [#izmir](http://twitter.com/search?q=%23izmir) | N/A |
-| 36 | [#GSvTS](http://twitter.com/search?q=%23GSvTS) | N/A |
-| 37 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
-| 38 | [#Laiklik](http://twitter.com/search?q=%23Laiklik) | N/A |
-| 39 | [#37YıldırBekliyoruz](http://twitter.com/search?q=%2337Y%c4%b1ld%c4%b1rBekliyoruz) | N/A |
-| 40 | [#BugünGünlerdenTrabzonspor](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenTrabzonspor) | N/A |
-| 41 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
-| 42 | [#UzmÇvşaKadroHaktır](http://twitter.com/search?q=%23Uzm%c3%87v%c5%9faKadroHakt%c4%b1r) | N/A |
-| 43 | [#VatanBizeHaklarKime](http://twitter.com/search?q=%23VatanBizeHaklarKime) | N/A |
-| 44 | [#UzmanÇavuşaMüjde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9faM%c3%bcjde) | N/A |
-| 45 | [#Diyarbakır](http://twitter.com/search?q=%23Diyarbak%c4%b1r) | N/A |
-| 46 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
-| 47 | [#Bodrum](http://twitter.com/search?q=%23Bodrum) | N/A |
-| 48 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
-| 49 | [#kombinenidevret](http://twitter.com/search?q=%23kombinenidevret) | N/A |
+| 22 | [Saat 03.15](http://twitter.com/search?q=Saat+03.15) | N/A |
+| 23 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 24 | [SedatPeker YeniVideosu](http://twitter.com/search?q=SedatPeker+YeniVideosu) | SedatPeker YeniVideosu is a phrase in Turkish which translates to "SedatPeker's New Video". SedatPeker is a Turkish journalist and political commentator who has recently released a new video. |
+| 25 | [Türkiyeli](http://twitter.com/search?q=T%c3%bcrkiyeli) | N/A |
+| 26 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
+| 27 | [Bursa](http://twitter.com/search?q=Bursa) | N/A |
+| 28 | [Cem Karaca](http://twitter.com/search?q=Cem+Karaca) | N/A |
+| 29 | [Alevi](http://twitter.com/search?q=Alevi) | N/A |
+| 30 | [Vatana](http://twitter.com/search?q=Vatana) | N/A |
+| 31 | [5 Şubat](http://twitter.com/search?q=5+%c5%9eubat) | N/A |
+| 32 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 33 | [Hain](http://twitter.com/search?q=Hain) | N/A |
+| 34 | [Ben Kemal Gidiyorum](http://twitter.com/search?q=Ben+Kemal+Gidiyorum) | N/A |
+| 35 | [#StajTorbaya](http://twitter.com/search?q=%23StajTorbaya) | N/A |
+| 36 | [#Afyonkarahisar](http://twitter.com/search?q=%23Afyonkarahisar) | N/A |
+| 37 | [#GSvTS](http://twitter.com/search?q=%23GSvTS) | N/A |
+| 38 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 39 | [#izmir](http://twitter.com/search?q=%23izmir) | N/A |
+| 40 | [#37YıldırBekliyoruz](http://twitter.com/search?q=%2337Y%c4%b1ld%c4%b1rBekliyoruz) | N/A |
+| 41 | [#deprem](http://twitter.com/search?q=%23deprem) | #Deprem is a Turkish hashtag that translates to "earthquake" in English. It is used to discuss earthquakes and related topics on social media. |
+| 42 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
+| 43 | [#Laiklik](http://twitter.com/search?q=%23Laiklik) | N/A |
+| 44 | [#tugbaekinci](http://twitter.com/search?q=%23tugbaekinci) | N/A |
+| 45 | [#UzmÇvşaKadroHaktır](http://twitter.com/search?q=%23Uzm%c3%87v%c5%9faKadroHakt%c4%b1r) | N/A |
+| 46 | [#VatanBizeHaklarKime](http://twitter.com/search?q=%23VatanBizeHaklarKime) | N/A |
+| 47 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
+| 48 | [#UzmanÇavuşaMüjde](http://twitter.com/search?q=%23Uzman%c3%87avu%c5%9faM%c3%bcjde) | N/A |
+| 49 | [#Diyarbakır](http://twitter.com/search?q=%23Diyarbak%c4%b1r) | N/A |
 
 
 
