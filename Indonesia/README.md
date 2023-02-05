@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-05 16:17:49 UTC`
+📆 Last Updated: `2023-02-05 17:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Indonesia
 | 4 | [#BE_AWAKE_ConceptPhotos](http://twitter.com/search?q=%23BE_AWAKE_ConceptPhotos) | N/A |
 | 5 | [THE BOYZ ROAR D-15](http://twitter.com/search?q=THE+BOYZ+ROAR+D-15) | THE BOYZ ROAR D-15 is a special event held by the South Korean boy band THE BOYZ. It is a fan meeting event that allows fans to get up close and personal with the members of the group. The "D-15" in the title refers to the 15th day of the month, which is when the event will take place. |
 | 6 | [#BABYMONSTER_RUKA](http://twitter.com/search?q=%23BABYMONSTER_RUKA) | N/A |
-| 7 | [#TeamYoung](http://twitter.com/search?q=%23TeamYoung) | N/A |
+| 7 | [Nyapu](http://twitter.com/search?q=Nyapu) | N/A |
 | 8 | [ARMY BATTLE PARTY](http://twitter.com/search?q=ARMY+BATTLE+PARTY) | ARMY BATTLE PARTY is a type of game in which players take on the role of an army commander and battle against each other in a virtual environment. The goal is to outwit and outmaneuver your opponents in order to win the battle. In English, it can be translated as "Military Combat Party". |
-| 9 | [Benedict](http://twitter.com/search?q=Benedict) | N/A |
-| 10 | [Nyapu](http://twitter.com/search?q=Nyapu) | N/A |
+| 9 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 10 | [#holoIDKimonoDAY3](http://twitter.com/search?q=%23holoIDKimonoDAY3) | N/A |
 | 11 | [Awkarin](http://twitter.com/search?q=Awkarin) | N/A |
-| 12 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
-| 13 | [Nyetrika](http://twitter.com/search?q=Nyetrika) | N/A |
-| 14 | [Back to December](http://twitter.com/search?q=Back+to+December) | N/A |
-| 15 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 16 | [marzia](http://twitter.com/search?q=marzia) | Marzia is an Italian female given name. It is derived from the Latin word "Martia", which means "dedicated to Mars". In English, it can be translated to mean "dedicated to Mars". |
-| 17 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 18 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 19 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 20 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
-| 21 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 22 | [50 M](http://twitter.com/search?q=50+M) | N/A |
-| 23 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
-| 24 | [Bokap](http://twitter.com/search?q=Bokap) | N/A |
-| 25 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
-| 26 | [Finance](http://twitter.com/search?q=Finance) | N/A |
-| 27 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
+| 12 | [Benedict](http://twitter.com/search?q=Benedict) | N/A |
+| 13 | [Nyuci](http://twitter.com/search?q=Nyuci) | N/A |
+| 14 | [Nyetrika](http://twitter.com/search?q=Nyetrika) | N/A |
+| 15 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 16 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 17 | [Kelebihan](http://twitter.com/search?q=Kelebihan) | N/A |
+| 18 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 19 | [Cuci](http://twitter.com/search?q=Cuci) | N/A |
+| 20 | [Back to December](http://twitter.com/search?q=Back+to+December) | N/A |
+| 21 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 22 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 23 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 24 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 25 | [Mikirin](http://twitter.com/search?q=Mikirin) | N/A |
+| 26 | [50 M](http://twitter.com/search?q=50+M) | N/A |
+| 27 | [Finance](http://twitter.com/search?q=Finance) | N/A |
 | 28 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 29 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 30 | [Prihatin](http://twitter.com/search?q=Prihatin) | N/A |
-| 31 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
-| 32 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 33 | [Cap Go Meh](http://twitter.com/search?q=Cap+Go+Meh) | N/A |
-| 34 | [Utang](http://twitter.com/search?q=Utang) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Sandi](http://twitter.com/search?q=Sandi) | N/A |
-| 37 | [Genjer](http://twitter.com/search?q=Genjer) | N/A |
-| 38 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 39 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 40 | [Lokasi](http://twitter.com/search?q=Lokasi) | N/A |
-| 41 | [Donat](http://twitter.com/search?q=Donat) | N/A |
-| 42 | [#holoIDKimonoDAY3](http://twitter.com/search?q=%23holoIDKimonoDAY3) | N/A |
-| 43 | [#KoboKimonoSkuy](http://twitter.com/search?q=%23KoboKimonoSkuy) | N/A |
-| 44 | [#CrashCourseInRomanceEp8](http://twitter.com/search?q=%23CrashCourseInRomanceEp8) | N/A |
-| 45 | [#น่าฮักจังเล๊ย](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%ae%e0%b8%b1%e0%b8%81%e0%b8%88%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%8a%e0%b8%a2) | #น่าฮักจังเล๊ย is a hashtag used on social media in Thailand. It translates to "so cute" in English. |
-| 46 | [#NMIXX](http://twitter.com/search?q=%23NMIXX) | N/A |
-| 47 | [#아프지마지훈아](http://twitter.com/search?q=%23%ec%95%84%ed%94%84%ec%a7%80%eb%a7%88%ec%a7%80%ed%9b%88%ec%95%84) | "#아프지마지훈아" is a hashtag used in South Korea to express sympathy and support for someone who is going through a difficult time. It translates to "Don't be hurt, Junhoon-ah". |
+| 29 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 30 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 31 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 32 | [Prihatin](http://twitter.com/search?q=Prihatin) | N/A |
+| 33 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
+| 34 | [Cap Go Meh](http://twitter.com/search?q=Cap+Go+Meh) | N/A |
+| 35 | [bokap](http://twitter.com/search?q=bokap) | N/A |
+| 36 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 37 | [Sleman](http://twitter.com/search?q=Sleman) | N/A |
+| 38 | [Tyo Nugros](http://twitter.com/search?q=Tyo+Nugros) | N/A |
+| 39 | [Utang](http://twitter.com/search?q=Utang) | N/A |
+| 40 | [Genjer](http://twitter.com/search?q=Genjer) | N/A |
+| 41 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 42 | [Lokasi](http://twitter.com/search?q=Lokasi) | N/A |
+| 43 | [#TeamYoung](http://twitter.com/search?q=%23TeamYoung) | N/A |
+| 44 | [#KoboKimonoSkuy](http://twitter.com/search?q=%23KoboKimonoSkuy) | N/A |
+| 45 | [#NMIXX_DockingStation](http://twitter.com/search?q=%23NMIXX_DockingStation) | N/A |
+| 46 | [#CrashCourseInRomanceEp8](http://twitter.com/search?q=%23CrashCourseInRomanceEp8) | N/A |
+| 47 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
 | 48 | [#MAMAMOOinJKT](http://twitter.com/search?q=%23MAMAMOOinJKT) | N/A |
-| 49 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 50 | [#MYCONinJKT](http://twitter.com/search?q=%23MYCONinJKT) | N/A |
+| 49 | [#MYCON_inJKT](http://twitter.com/search?q=%23MYCON_inJKT) | N/A |
+| 50 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
 
 
 

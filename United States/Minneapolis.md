@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-05 16:17:42 UTC`
+📆 Last Updated: `2023-02-05 17:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 2 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 4 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 5 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 6 | [marzia](http://twitter.com/search?q=marzia) | Marzia is an Italian female given name. It is derived from the Latin word "Martia", which means "dedicated to Mars". In English, it can be translated to mean "dedicated to Mars". |
-| 7 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
-| 8 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
-| 9 | [#nationalweatherpersonsday](http://twitter.com/search?q=%23nationalweatherpersonsday) | N/A |
-| 10 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
-| 11 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 12 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 13 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | N/A |
-| 14 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 15 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
-| 16 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 17 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 18 | [Wages](http://twitter.com/search?q=Wages) | N/A |
-| 19 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 20 | [Koch](http://twitter.com/search?q=Koch) | N/A |
-| 21 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 22 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
-| 23 | [Milley](http://twitter.com/search?q=Milley) | N/A |
-| 24 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 25 | [Trump Administration](http://twitter.com/search?q=Trump+Administration) | N/A |
-| 26 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 27 | [Trayvon Martin](http://twitter.com/search?q=Trayvon+Martin) | N/A |
-| 28 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
-| 29 | [Step Brothers](http://twitter.com/search?q=Step+Brothers) | N/A |
-| 30 | [Talladega Nights](http://twitter.com/search?q=Talladega+Nights) | N/A |
-| 31 | [Blazing Saddles](http://twitter.com/search?q=Blazing+Saddles) | N/A |
-| 32 | [Pineapple Express](http://twitter.com/search?q=Pineapple+Express) | N/A |
-| 33 | [Alycia Parks](http://twitter.com/search?q=Alycia+Parks) | N/A |
-| 34 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 35 | [Boeheim](http://twitter.com/search?q=Boeheim) | N/A |
-| 36 | [40 Year Old Virgin](http://twitter.com/search?q=40+Year+Old+Virgin) | N/A |
-| 37 | [Esper](http://twitter.com/search?q=Esper) | N/A |
-| 38 | [THREE TIMES](http://twitter.com/search?q=THREE+TIMES) | N/A |
-| 39 | [Mike Turner](http://twitter.com/search?q=Mike+Turner) | N/A |
-| 40 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
-| 41 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 42 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 43 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 44 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 45 | [My Sunday](http://twitter.com/search?q=My+Sunday) | N/A |
-| 46 | [Dragon Age](http://twitter.com/search?q=Dragon+Age) | N/A |
-| 47 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 48 | [Unnamed](http://twitter.com/search?q=Unnamed) | N/A |
-| 49 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 2 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 3 | [#TSMWIN](http://twitter.com/search?q=%23TSMWIN) | #TSMWIN stands for "The Secret Millionaire's Wealth Index Network". It is a network of entrepreneurs, investors, and professionals who share resources and knowledge to help each other become successful. The goal of the network is to help members achieve financial freedom and create wealth. |
+| 4 | [#ProphetAi](http://twitter.com/search?q=%23ProphetAi) | N/A |
+| 5 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 6 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 7 | [#TOTMCI](http://twitter.com/search?q=%23TOTMCI) | #TOTMCI stands for "The One That Matters Most Can't Ignore". It is a phrase used to emphasize the importance of paying attention to the people and things that matter most in life. |
+| 8 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 9 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 10 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 11 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
+| 12 | [3 Chinese](http://twitter.com/search?q=3+Chinese) | 3 Chinese is a term used to describe the three main branches of Chinese culture: Han, Manchu, and Mongolian. It is also used to refer to the three main dialects of the Chinese language: Mandarin, Cantonese, and Wu. |
+| 13 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 14 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 15 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 17 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 18 | [Alycia Parks](http://twitter.com/search?q=Alycia+Parks) | Alycia Parks is a name, not a phrase or an idiom. It does not have a specific meaning in English. |
+| 19 | [Wages](http://twitter.com/search?q=Wages) | N/A |
+| 20 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 21 | [Trayvon Martin](http://twitter.com/search?q=Trayvon+Martin) | N/A |
+| 22 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 23 | [THREE Chinese](http://twitter.com/search?q=THREE+Chinese) | N/A |
+| 24 | [John Ratcliffe](http://twitter.com/search?q=John+Ratcliffe) | N/A |
+| 25 | [Rico Lewis](http://twitter.com/search?q=Rico+Lewis) | Rico Lewis is a Spanish phrase meaning "rich and powerful". It is often used to describe someone who has achieved success and wealth. |
+| 26 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 27 | [Koch](http://twitter.com/search?q=Koch) | N/A |
+| 28 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 29 | [Trump Administration](http://twitter.com/search?q=Trump+Administration) | N/A |
+| 30 | [pewds](http://twitter.com/search?q=pewds) | Pewds is an abbreviation of the name PewDiePie, which is the username of Swedish YouTuber Felix Kjellberg. He is one of the most popular YouTubers in the world, with over 100 million subscribers. |
+| 31 | [Talladega Nights](http://twitter.com/search?q=Talladega+Nights) | N/A |
+| 32 | [Step Brothers](http://twitter.com/search?q=Step+Brothers) | N/A |
+| 33 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 34 | [Blazing Saddles](http://twitter.com/search?q=Blazing+Saddles) | N/A |
+| 35 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 36 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 37 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 38 | [Milley](http://twitter.com/search?q=Milley) | N/A |
+| 39 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | N/A |
+| 40 | [Daily Quordle 377](http://twitter.com/search?q=Daily+Quordle+377) | N/A |
+| 41 | [Esper](http://twitter.com/search?q=Esper) | N/A |
+| 42 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 43 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
+| 44 | [Pineapple Express](http://twitter.com/search?q=Pineapple+Express) | N/A |
+| 45 | [Roc Nation](http://twitter.com/search?q=Roc+Nation) | Roc Nation is a full-service entertainment company founded by Jay-Z in 2008. It encompasses a record label, talent agency, touring and concert production company, music, film, and television production company, and a music publishing house. The name "Roc Nation" is derived from the phrase "roc the mic," which is slang for dominating the stage with one's performance. |
+| 46 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 47 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
+| 48 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 49 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 
 
 

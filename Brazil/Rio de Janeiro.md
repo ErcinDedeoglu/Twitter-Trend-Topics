@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-05 16:17:08 UTC`
+📆 Last Updated: `2023-02-05 17:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 2 | [lexa](http://twitter.com/search?q=lexa) | Lexa is a female given name of Greek origin, derived from the Greek word for "man". It is also a variant spelling of the name Alexa. |
-| 3 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
-| 4 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 5 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 6 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 7 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 1 | [lexa](http://twitter.com/search?q=lexa) | Lexa is a female given name of Greek origin, derived from the Greek word for "man". It is also a variant spelling of the name Alexa. |
+| 2 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 3 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 4 | [Hell de Janeiro](http://twitter.com/search?q=Hell+de+Janeiro) | N/A |
+| 5 | [Léo Santana](http://twitter.com/search?q=L%c3%a9o+Santana) | N/A |
+| 6 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 7 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 8 | [Grammy](http://twitter.com/search?q=Grammy) | N/A |
-| 9 | [Rayssa](http://twitter.com/search?q=Rayssa) | Rayssa is a Portuguese name derived from the Latin name Rasia, which means “rose”. In English, it can be translated to mean “rose” or “beautiful flower”. |
-| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 11 | [Mariano Diaz](http://twitter.com/search?q=Mariano+Diaz) | N/A |
-| 12 | [#SkateNoSportv](http://twitter.com/search?q=%23SkateNoSportv) | N/A |
-| 13 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 9 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 10 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 11 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
+| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 13 | [goot](http://twitter.com/search?q=goot) | N/A |
 | 14 | [Adele](http://twitter.com/search?q=Adele) | N/A |
-| 15 | [BOA SORTE ANITTA](http://twitter.com/search?q=BOA+SORTE+ANITTA) | "BOA SORTE ANITTA" is a Portuguese phrase that translates to "Good luck Anitta" in English. It is a phrase of encouragement and support for the Brazilian singer Anitta. |
-| 16 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
-| 17 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 18 | [#SupercopaFeminina](http://twitter.com/search?q=%23SupercopaFeminina) | N/A |
-| 19 | [AOTY](http://twitter.com/search?q=AOTY) | N/A |
-| 20 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
-| 21 | [#MeninasDaGávea](http://twitter.com/search?q=%23MeninasDaG%c3%a1vea) | N/A |
-| 22 | [Vic Albuquerque](http://twitter.com/search?q=Vic+Albuquerque) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Robinson de Castro](http://twitter.com/search?q=Robinson+de+Castro) | N/A |
-| 25 | [#disseram](http://twitter.com/search?q=%23disseram) | N/A |
-| 26 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 27 | [marzia](http://twitter.com/search?q=marzia) | Marzia is an Italian female given name. It is derived from the Latin word "Martia", which means "dedicated to Mars". In English, it can be translated to mean "dedicated to Mars". |
-| 28 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
-| 29 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
-| 30 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
-| 31 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 32 | [Crivelari](http://twitter.com/search?q=Crivelari) | N/A |
-| 33 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 34 | [Lions](http://twitter.com/search?q=Lions) | Lions are large cats that live in parts of Africa and India. They are the second-largest living cat species after tigers, and they are known for their strength, courage, and majestic appearance. The term "lion" is often used as a metaphor for strength and courage. |
-| 35 | [Tamires](http://twitter.com/search?q=Tamires) | N/A |
-| 36 | [CAMPEÃ MUNDIAL](http://twitter.com/search?q=CAMPE%c3%83+MUNDIAL) | N/A |
-| 37 | [#Vingadoras](http://twitter.com/search?q=%23Vingadoras) | N/A |
-| 38 | [Portilho](http://twitter.com/search?q=Portilho) | N/A |
-| 39 | [Gustavo Ribeiro](http://twitter.com/search?q=Gustavo+Ribeiro) | N/A |
-| 40 | [Moderno](http://twitter.com/search?q=Moderno) | N/A |
-| 41 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 42 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 43 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 44 | [Defensoria](http://twitter.com/search?q=Defensoria) | N/A |
-| 45 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 46 | [Thais Carla](http://twitter.com/search?q=Thais+Carla) | N/A |
-| 47 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 48 | [Diadema](http://twitter.com/search?q=Diadema) | N/A |
-| 49 | [Globeleza](http://twitter.com/search?q=Globeleza) | N/A |
-| 50 | [Mussi](http://twitter.com/search?q=Mussi) | N/A |
+| 15 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 16 | [#SouMá](http://twitter.com/search?q=%23SouM%c3%a1) | N/A |
+| 17 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 18 | [ROMAN HOLIDAY](http://twitter.com/search?q=ROMAN+HOLIDAY) | Roman Holiday is a 1953 romantic comedy film starring Audrey Hepburn and Gregory Peck. The story follows a young princess who escapes her royal duties for a day and falls in love with an American journalist. The phrase "Roman Holiday" has come to mean any vacation or break from the everyday routine. |
+| 19 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 20 | [Rayssa](http://twitter.com/search?q=Rayssa) | Rayssa is a Portuguese name derived from the Latin name Rasia, which means “rose”. In English, it can be translated to mean “rose” or “beautiful flower”. |
+| 21 | [Mariano Diaz](http://twitter.com/search?q=Mariano+Diaz) | N/A |
+| 22 | [#OnTheRoadToBomet](http://twitter.com/search?q=%23OnTheRoadToBomet) | N/A |
+| 23 | [Fiz o L](http://twitter.com/search?q=Fiz+o+L) | N/A |
+| 24 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 25 | [#SkateNoSportv](http://twitter.com/search?q=%23SkateNoSportv) | N/A |
+| 26 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 27 | [AOTY](http://twitter.com/search?q=AOTY) | N/A |
+| 28 | [#boasorteanitta](http://twitter.com/search?q=%23boasorteanitta) | N/A |
+| 29 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 30 | [Marília Mendonça](http://twitter.com/search?q=Mar%c3%adlia+Mendon%c3%a7a) | N/A |
+| 31 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 32 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 33 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 34 | [kibum](http://twitter.com/search?q=kibum) | Kibum is a Korean name that means "blessing and protection". It is derived from the Korean words "ki" (blessing) and "bum" (protection). |
+| 35 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 36 | [pewdiepie](http://twitter.com/search?q=pewdiepie) | PewDiePie is the online alias of Swedish video game commentator and internet celebrity Felix Kjellberg. He is best known for his YouTube videos, in which he comments on various video games while playing them. The name PewDiePie is a combination of the words "pew" (the sound of a laser gun) and "die" (to die) and "pie" (a type of dessert). |
+| 37 | [Kayle](http://twitter.com/search?q=Kayle) | N/A |
+| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 39 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 40 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 41 | [Robinson de Castro](http://twitter.com/search?q=Robinson+de+Castro) | N/A |
+| 42 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 43 | [Whitney Houston](http://twitter.com/search?q=Whitney+Houston) | N/A |
+| 44 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
+| 45 | [Vic Albuquerque](http://twitter.com/search?q=Vic+Albuquerque) | N/A |
+| 46 | [Crivelari](http://twitter.com/search?q=Crivelari) | N/A |
+| 47 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
+| 48 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 49 | [SOTY](http://twitter.com/search?q=SOTY) | N/A |
+| 50 | [Macarrão](http://twitter.com/search?q=Macarr%c3%a3o) | N/A |
 
 
 

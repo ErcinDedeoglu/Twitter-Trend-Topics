@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-05 16:17:51 UTC`
+📆 Last Updated: `2023-02-05 17:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,32 +15,56 @@ This is top 50 for Pakistan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MurtazaWahab](http://twitter.com/search?q=%23MurtazaWahab) | N/A |
-| 2 | [#کشمیروفلسطین_بزورشمشیر](http://twitter.com/search?q=%23%da%a9%d8%b4%d9%85%db%8c%d8%b1%d9%88%d9%81%d9%84%d8%b3%d8%b7%db%8c%d9%86_%d8%a8%d8%b2%d9%88%d8%b1%d8%b4%d9%85%d8%b4%db%8c%d8%b1) | N/A |
-| 3 | [#پرویزمشرف_مردار](http://twitter.com/search?q=%23%d9%be%d8%b1%d9%88%db%8c%d8%b2%d9%85%d8%b4%d8%b1%d9%81_%d9%85%d8%b1%d8%af%d8%a7%d8%b1) | N/A |
-| 4 | [#ملتان_کی_شان_مریم](http://twitter.com/search?q=%23%d9%85%d9%84%d8%aa%d8%a7%d9%86_%da%a9%db%8c_%d8%b4%d8%a7%d9%86_%d9%85%d8%b1%db%8c%d9%85) | N/A |
-| 5 | [#PervaizMusharraf](http://twitter.com/search?q=%23PervaizMusharraf) | N/A |
-| 6 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 1 | [#PervezMusharraf](http://twitter.com/search?q=%23PervezMusharraf) | #PervezMusharraf is a hashtag used to refer to former Pakistani President Pervez Musharraf. It is used to discuss news and topics related to him. |
+| 2 | [#KashmirSolidarityDay](http://twitter.com/search?q=%23KashmirSolidarityDay) | N/A |
+| 3 | [#IftiMania](http://twitter.com/search?q=%23IftiMania) | #IftiMania is a hashtag used to promote the work of Pakistani singer and songwriter Iftikhar Hussain, also known as Ifti. The hashtag is used to show support for his music and to share his work with others. The English translation of #IftiMania is "Ifti Mania". |
+| 4 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 5 | [#جیل_بھرو_تحریک](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88_%d8%aa%d8%ad%d8%b1%db%8c%da%a9) | N/A |
+| 6 | [#MurtazaWahab](http://twitter.com/search?q=%23MurtazaWahab) | N/A |
 | 7 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 8 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
-| 9 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 10 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 11 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 12 | [#NoRespect4Dictators](http://twitter.com/search?q=%23NoRespect4Dictators) | N/A |
-| 13 | [#YeHaHamaraLahore](http://twitter.com/search?q=%23YeHaHamaraLahore) | N/A |
-| 14 | [#KeepLahoreClean](http://twitter.com/search?q=%23KeepLahoreClean) | N/A |
-| 15 | [#LahoreSaafTuPakistanSaaf](http://twitter.com/search?q=%23LahoreSaafTuPakistanSaaf) | N/A |
-| 16 | [#KashmirSolidarityDay](http://twitter.com/search?q=%23KashmirSolidarityDay) | N/A |
-| 17 | [#IftiMania](http://twitter.com/search?q=%23IftiMania) | #IftiMania is a hashtag used to promote the work of Pakistani singer and songwriter Iftikhar Hussain, also known as Ifti. The hashtag is used to show support for his music and to share his work with others. The English translation of #IftiMania is "Ifti Mania". |
-| 18 | [#QGvPZ](http://twitter.com/search?q=%23QGvPZ) | N/A |
-| 19 | [#BugtiStadium](http://twitter.com/search?q=%23BugtiStadium) | N/A |
-| 20 | [#سارےکاساراہےکشمیرہماراہے](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b1%db%92%da%a9%d8%a7%d8%b3%d8%a7%d8%b1%d8%a7%db%81%db%92%da%a9%d8%b4%d9%85%db%8c%d8%b1%db%81%d9%85%d8%a7%d8%b1%d8%a7%db%81%db%92) | N/A |
-| 21 | [#PZvsQG](http://twitter.com/search?q=%23PZvsQG) | N/A |
-| 22 | [#جیل_بھرو_ملک_بچاؤ](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88_%d9%85%d9%84%da%a9_%d8%a8%da%86%d8%a7%d8%a4) | N/A |
-| 23 | [#PSL8](http://twitter.com/search?q=%23PSL8) | N/A |
-| 24 | [#PeshawarZalmi](http://twitter.com/search?q=%23PeshawarZalmi) | N/A |
-| 25 | [#RipLegend](http://twitter.com/search?q=%23RipLegend) | N/A |
-| 26 | [#ہم_امن_چاہتے_ہیں](http://twitter.com/search?q=%23%db%81%d9%85_%d8%a7%d9%85%d9%86_%da%86%d8%a7%db%81%d8%aa%db%92_%db%81%db%8c%da%ba) | N/A |
+| 8 | [STOP ATTACKING PAKIMYS](http://twitter.com/search?q=STOP+ATTACKING+PAKIMYS) | N/A |
+| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 10 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 11 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 12 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 13 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 14 | [Lal Masjid](http://twitter.com/search?q=Lal+Masjid) | N/A |
+| 15 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
+| 16 | [6 Sixes](http://twitter.com/search?q=6+Sixes) | N/A |
+| 17 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 18 | [NRO 1](http://twitter.com/search?q=NRO+1) | N/A |
+| 19 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 20 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 21 | [Chacha](http://twitter.com/search?q=Chacha) | N/A |
+| 22 | [Naseem Shah](http://twitter.com/search?q=Naseem+Shah) | Naseem Shah is a Pakistani cricketer. The name Naseem means "breeze" in English. |
+| 23 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 24 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 25 | [Economy](http://twitter.com/search?q=Economy) | N/A |
+| 26 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 27 | [Brave](http://twitter.com/search?q=Brave) | N/A |
+| 28 | [Plastic](http://twitter.com/search?q=Plastic) | N/A |
+| 29 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 30 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 31 | [RIP General](http://twitter.com/search?q=RIP+General) | N/A |
+| 32 | [Dollar](http://twitter.com/search?q=Dollar) | N/A |
+| 33 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 34 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
+| 35 | [Loyal](http://twitter.com/search?q=Loyal) | N/A |
+| 36 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 37 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 38 | [Zia Ul Haq](http://twitter.com/search?q=Zia+Ul+Haq) | N/A |
+| 39 | [Benazir](http://twitter.com/search?q=Benazir) | N/A |
+| 40 | [Ahaaan](http://twitter.com/search?q=Ahaaan) | N/A |
+| 41 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 42 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 43 | [Shahbaz Gill](http://twitter.com/search?q=Shahbaz+Gill) | N/A |
+| 44 | [Inna](http://twitter.com/search?q=Inna) | N/A |
+| 45 | [Garage](http://twitter.com/search?q=Garage) | N/A |
+| 46 | [UMAR'S HISTORIC 20M FEAST](http://twitter.com/search?q=UMAR%27S+HISTORIC+20M+FEAST) | N/A |
+| 47 | [Hostel](http://twitter.com/search?q=Hostel) | N/A |
+| 48 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 49 | [Gilgit Baltistan](http://twitter.com/search?q=Gilgit+Baltistan) | N/A |
+| 50 | [Woah](http://twitter.com/search?q=Woah) | N/A |
 
 
 
