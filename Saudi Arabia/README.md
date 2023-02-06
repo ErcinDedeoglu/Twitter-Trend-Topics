@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-02-06 07:16:34 UTC`
+📆 Last Updated: `2023-02-06 08:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,38 @@ This is top 50 for Saudi Arabia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 2 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | N/A |
+| 1 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 2 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
 | 3 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 4 | [#البزنس61](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b361) | N/A |
-| 5 | [#بوح_اخر_الليل](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d8%ae%d8%b1_%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
-| 6 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 7 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 8 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 9 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 10 | [روميرو](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d9%8a%d8%b1%d9%88) | روميرو (Romero) is a Spanish surname derived from the Latin name Romerius. It is a patronymic surname, meaning "son of Romero". In English, the name would be translated as "son of Romero". |
-| 11 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 12 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
-| 13 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 14 | [حسين](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 15 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
-| 16 | [السياره الحمراء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7%d8%a1) | N/A |
-| 17 | [شيميزو الياباني](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d9%8a%d8%b2%d9%88+%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a) | شيميزو الياباني (Shemezu Eiyabani) is a type of Japanese noodle dish. It consists of thick, chewy noodles served in a broth made from soy sauce, mirin, and dashi. The noodles are usually topped with various ingredients such as pork, vegetables, and seaweed. In English, it is known as Japanese Soba Noodles. |
-| 18 | [الهزه الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 19 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
-| 20 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 21 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
-| 22 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 23 | [Turkey](http://twitter.com/search?q=Turkey) | N/A |
-| 24 | [كاس السوبر الاسيوي](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | N/A |
-| 25 | [علي العنزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
-| 26 | [ايمرسون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%b1%d8%b3%d9%88%d9%86) | N/A |
-| 27 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
-| 28 | [المسار الايسر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d9%8a%d8%b3%d8%b1) | N/A |
-| 29 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
-| 30 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
-| 31 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 32 | [تايلور](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d9%88%d8%b1) | N/A |
-| 33 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 34 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 35 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 36 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 37 | [وفلسطين](http://twitter.com/search?q=%d9%88%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
-| 38 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 39 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 40 | [الاجواء الحلوه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ad%d9%84%d9%88%d9%87) | N/A |
-| 41 | [السياره البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
-| 42 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 43 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 44 | [الرياح الشديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%ad+%d8%a7%d9%84%d8%b4%d8%af%d9%8a%d8%af%d9%87) | N/A |
-| 45 | [جوردي](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%af%d9%8a) | N/A |
-| 46 | [البوم السنه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d9%86%d9%87) | N/A |
-| 47 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 48 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 49 | [ماريانو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d8%a7%d9%86%d9%88) | ماريانو is a type of Italian pizza. It is made with tomato sauce, mozzarella cheese, and basil. In English, it is known as a Margherita pizza. |
-| 50 | [عنا البلاء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%a1) | N/A |
+| 4 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 5 | [#غدير_البرجس](http://twitter.com/search?q=%23%d8%ba%d8%af%d9%8a%d8%b1_%d8%a7%d9%84%d8%a8%d8%b1%d8%ac%d8%b3) | N/A |
+| 6 | [#فواز_باتل_الصخيل_في_ذمه_الله](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2_%d8%a8%d8%a7%d8%aa%d9%84_%d8%a7%d9%84%d8%b5%d8%ae%d9%8a%d9%84_%d9%81%d9%8a_%d8%b0%d9%85%d9%87_%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 7 | [السياره الحمراء](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7%d8%a1) | N/A |
+| 8 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 9 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 10 | [الهزه الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 11 | [حسين عبدالغني](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%ba%d9%86%d9%8a) | N/A |
+| 12 | [المسار الايسر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d9%8a%d8%b3%d8%b1) | N/A |
+| 13 | [والعراق](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | والعراق is an Arabic phrase meaning "and Iraq". |
+| 14 | [علي العنزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
+| 15 | [الاداره الحاليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 16 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 17 | [تايلور](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d9%88%d8%b1) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [هاري](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a) | N/A |
+| 20 | [#ليب23](http://twitter.com/search?q=%23%d9%84%d9%8a%d8%a823) | N/A |
+| 21 | [#ليش_صالح](http://twitter.com/search?q=%23%d9%84%d9%8a%d8%b4_%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
+| 22 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 23 | [#الهلال_فلامنجو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%84%d8%a7%d9%85%d9%86%d8%ac%d9%88) | N/A |
+| 24 | [#LEAP23](http://twitter.com/search?q=%23LEAP23) | N/A |
+| 25 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
+| 26 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 27 | [#صباحيات](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad%d9%8a%d8%a7%d8%aa) | N/A |
+| 28 | [#القريات](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%b1%d9%8a%d8%a7%d8%aa) | N/A |
+| 29 | [#تعليم_محايل_عسير](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d8%ad%d8%a7%d9%8a%d9%84_%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
+| 30 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 31 | [#اذكار_الصباح](http://twitter.com/search?q=%23%d8%a7%d8%b0%d9%83%d8%a7%d8%b1_%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
+| 32 | [#جمعيه_تعلم](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%8a%d9%87_%d8%aa%d8%b9%d9%84%d9%85) | N/A |
 
 
 

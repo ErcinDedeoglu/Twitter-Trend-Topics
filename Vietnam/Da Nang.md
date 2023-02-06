@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Da Nang
 
-📆 Last Updated: `2023-02-06 07:16:09 UTC`
+📆 Last Updated: `2023-02-06 08:17:44 UTC`
 
 🔧 Updated every 1 hour!
 

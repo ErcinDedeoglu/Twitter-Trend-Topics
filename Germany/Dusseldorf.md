@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-06 07:15:56 UTC`
+📆 Last Updated: `2023-02-06 08:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 2 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 3 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 4 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
-| 5 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 6 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
-| 7 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 8 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
-| 9 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 10 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 11 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 12 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 13 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 14 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 15 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
-| 16 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 19 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 20 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 21 | [HARRY YOU DID AMAZING](http://twitter.com/search?q=HARRY+YOU+DID+AMAZING) | N/A |
-| 22 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 23 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
-| 24 | [Todesopfer](http://twitter.com/search?q=Todesopfer) | N/A |
-| 25 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
-| 26 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
-| 27 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 28 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 29 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 30 | [Homeoffice](http://twitter.com/search?q=Homeoffice) | N/A |
-| 31 | [Karat](http://twitter.com/search?q=Karat) | N/A |
-| 32 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 33 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 34 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 35 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
-| 36 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 37 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
-| 38 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 39 | [Guten Morgen Andrea](http://twitter.com/search?q=Guten+Morgen+Andrea) | N/A |
-| 40 | [Palästina](http://twitter.com/search?q=Pal%c3%a4stina) | N/A |
-| 41 | [Montage](http://twitter.com/search?q=Montage) | N/A |
-| 42 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 43 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 44 | [Dürr](http://twitter.com/search?q=D%c3%bcrr) | N/A |
-| 45 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 46 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
-| 47 | [Talkshow](http://twitter.com/search?q=Talkshow) | N/A |
-| 48 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 49 | [Jahre AfD](http://twitter.com/search?q=Jahre+AfD) | N/A |
+| 2 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
+| 3 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 4 | [#Syrien](http://twitter.com/search?q=%23Syrien) | N/A |
+| 5 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 6 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
+| 7 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 8 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 10 | [wochenanfang](http://twitter.com/search?q=wochenanfang) | N/A |
+| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 12 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 13 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 14 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 17 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 18 | [Homeoffice](http://twitter.com/search?q=Homeoffice) | N/A |
+| 19 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 20 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 21 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 22 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 23 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 24 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
+| 25 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
+| 26 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
+| 27 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 28 | [Karat](http://twitter.com/search?q=Karat) | N/A |
+| 29 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
+| 30 | [Montage](http://twitter.com/search?q=Montage) | N/A |
+| 31 | [Todesopfer](http://twitter.com/search?q=Todesopfer) | N/A |
+| 32 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 33 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 34 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 35 | [Guten Morgen Corinna](http://twitter.com/search?q=Guten+Morgen+Corinna) | N/A |
+| 36 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 37 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 38 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 39 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 40 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
+| 41 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 42 | [Dürr](http://twitter.com/search?q=D%c3%bcrr) | N/A |
+| 43 | [Vorreiter](http://twitter.com/search?q=Vorreiter) | N/A |
+| 44 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 45 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 46 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
+| 47 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 48 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 49 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
 
 
 
