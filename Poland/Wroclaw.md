@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-06 09:16:49 UTC`
+📆 Last Updated: `2023-02-06 10:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Poland](</Poland>)
 | 5 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
 | 6 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
 | 7 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 8 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 9 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 10 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 12 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 13 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 14 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 15 | [Dzien](http://twitter.com/search?q=Dzien) | N/A |
-| 16 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 17 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
-| 18 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 19 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 20 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
-| 21 | [Mk 6](http://twitter.com/search?q=Mk+6) | N/A |
-| 22 | [Bracia](http://twitter.com/search?q=Bracia) | N/A |
-| 23 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
-| 24 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 25 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
-| 26 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 27 | [Państwu](http://twitter.com/search?q=Pa%c5%84stwu) | N/A |
-| 28 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
+| 8 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | Gaziantep is a city in southeastern Turkey. It is the sixth most populous city in the country and the capital of Gaziantep Province. The name Gaziantep is derived from the Arabic word "Azzanatif", which means "noble". In English, it translates to "Noble City". |
+| 9 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
+| 10 | [Biedroniowi](http://twitter.com/search?q=Biedroniowi) | N/A |
+| 11 | [IBRiS](http://twitter.com/search?q=IBRiS) | N/A |
+| 12 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
+| 13 | [Turkey](http://twitter.com/search?q=Turkey) | N/A |
+| 14 | [Sokołów](http://twitter.com/search?q=Soko%c5%82%c3%b3w) | N/A |
+| 15 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 18 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 19 | [Miziołek](http://twitter.com/search?q=Mizio%c5%82ek) | N/A |
+| 20 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 21 | [Dzien](http://twitter.com/search?q=Dzien) | N/A |
+| 22 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
+| 23 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
+| 24 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
+| 25 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 26 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 27 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
+| 28 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
 | 29 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 30 | [Daj Boże](http://twitter.com/search?q=Daj+Bo%c5%bce) | N/A |
-| 31 | [Skandalem](http://twitter.com/search?q=Skandalem) | N/A |
-| 32 | [Solidarności](http://twitter.com/search?q=Solidarno%c5%9bci) | N/A |
-| 33 | [Budka](http://twitter.com/search?q=Budka) | N/A |
-| 34 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 35 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 36 | [Poniedziałek](http://twitter.com/search?q=Poniedzia%c5%82ek) | N/A |
-| 37 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 38 | [halvor egner granerud](http://twitter.com/search?q=halvor+egner+granerud) | N/A |
-| 39 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 40 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
-| 41 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 42 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
-| 43 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 44 | [Cycki](http://twitter.com/search?q=Cycki) | N/A |
-| 45 | [Gawła](http://twitter.com/search?q=Gaw%c5%82a) | N/A |
-| 46 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 47 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 48 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
-| 49 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 50 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 30 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 31 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 32 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 33 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 34 | [Daj Boże](http://twitter.com/search?q=Daj+Bo%c5%bce) | N/A |
+| 35 | [Poniedziałek](http://twitter.com/search?q=Poniedzia%c5%82ek) | N/A |
+| 36 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 37 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 38 | [Krzysztof](http://twitter.com/search?q=Krzysztof) | N/A |
+| 39 | [Witam Cię](http://twitter.com/search?q=Witam+Ci%c4%99) | N/A |
+| 40 | [Newsweek](http://twitter.com/search?q=Newsweek) | N/A |
+| 41 | [Budka](http://twitter.com/search?q=Budka) | N/A |
+| 42 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
+| 43 | [Halvor Egner Granerud](http://twitter.com/search?q=Halvor+Egner+Granerud) | N/A |
+| 44 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 45 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
+| 46 | [Marzia](http://twitter.com/search?q=Marzia) | Marzia is an Italian female name derived from the Latin word for “march”. It is also a variant of the name Marcella, which means “warlike” or “strong in battle”. |
+| 47 | [Martuś](http://twitter.com/search?q=Martu%c5%9b) | N/A |
+| 48 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 49 | [Mk 6](http://twitter.com/search?q=Mk+6) | N/A |
+| 50 | [Kurski](http://twitter.com/search?q=Kurski) | N/A |
 
 
 
