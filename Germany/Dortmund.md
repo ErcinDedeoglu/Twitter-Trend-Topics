@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-06 11:17:42 UTC`
+📆 Last Updated: `2023-02-06 12:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [#wobfcb](http://twitter.com/search?q=%23wobfcb) | N/A |
 | 7 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 9 | [Jahre AfD](http://twitter.com/search?q=Jahre+AfD) | N/A |
+| 9 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
 | 10 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
 | 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 12 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 13 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
-| 14 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 13 | [Jahre AFD](http://twitter.com/search?q=Jahre+AFD) | N/A |
+| 14 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
 | 15 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 16 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 17 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
-| 18 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 20 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 21 | [karat](http://twitter.com/search?q=karat) | N/A |
+| 16 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 17 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 18 | [karat](http://twitter.com/search?q=karat) | N/A |
+| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 20 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 21 | [Beschäftigten](http://twitter.com/search?q=Besch%c3%a4ftigten) | N/A |
 | 22 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 23 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
-| 24 | [Beschäftigten](http://twitter.com/search?q=Besch%c3%a4ftigten) | N/A |
-| 25 | [Zahl der Toten](http://twitter.com/search?q=Zahl+der+Toten) | N/A |
-| 26 | [Grenzregion](http://twitter.com/search?q=Grenzregion) | N/A |
-| 27 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
-| 28 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 29 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 30 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 31 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
-| 32 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 33 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 34 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 35 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 23 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 24 | [Grenzregion](http://twitter.com/search?q=Grenzregion) | N/A |
+| 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 26 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 27 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
+| 28 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
+| 29 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
+| 30 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
+| 31 | [BLEACH](http://twitter.com/search?q=BLEACH) | N/A |
+| 32 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 33 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 34 | [Laura Müller](http://twitter.com/search?q=Laura+M%c3%bcller) | N/A |
+| 35 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
 | 36 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 37 | [Südosten](http://twitter.com/search?q=S%c3%bcdosten) | N/A |
-| 38 | [Dienstwagenprivileg](http://twitter.com/search?q=Dienstwagenprivileg) | N/A |
-| 39 | [Betroffenen](http://twitter.com/search?q=Betroffenen) | N/A |
-| 40 | [Briefwahl](http://twitter.com/search?q=Briefwahl) | N/A |
+| 37 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
+| 38 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
+| 39 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 40 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
 | 41 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
-| 42 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 43 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
-| 44 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
-| 45 | [Mittelweg](http://twitter.com/search?q=Mittelweg) | N/A |
-| 46 | [Verletzte](http://twitter.com/search?q=Verletzte) | N/A |
-| 47 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
-| 48 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 49 | [Gesellschaftsrat](http://twitter.com/search?q=Gesellschaftsrat) | N/A |
-| 50 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 42 | [Verletzten](http://twitter.com/search?q=Verletzten) | N/A |
+| 43 | [Betroffenen](http://twitter.com/search?q=Betroffenen) | N/A |
+| 44 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 45 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
+| 46 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
+| 47 | [Zahl der Toten](http://twitter.com/search?q=Zahl+der+Toten) | N/A |
+| 48 | [Südosten](http://twitter.com/search?q=S%c3%bcdosten) | N/A |
+| 49 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
+| 50 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
 
 
 
