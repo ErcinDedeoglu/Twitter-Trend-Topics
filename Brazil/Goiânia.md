@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-02-06 22:15:19 UTC`
+📆 Last Updated: `2023-02-06 23:15:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
 | 2 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
-| 3 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
-| 4 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 5 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 6 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 7 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
-| 8 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
-| 9 | [#TresVezesAna006](http://twitter.com/search?q=%23TresVezesAna006) | N/A |
-| 10 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 11 | [#FelipeNetoNaTwitch](http://twitter.com/search?q=%23FelipeNetoNaTwitch) | N/A |
-| 12 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 13 | [PEACEMAKER NA LOS GRANDES](http://twitter.com/search?q=PEACEMAKER+NA+LOS+GRANDES) | N/A |
-| 14 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 15 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
-| 16 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 17 | [Chase Atlantic](http://twitter.com/search?q=Chase+Atlantic) | N/A |
-| 18 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 19 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 20 | [#ADona044](http://twitter.com/search?q=%23ADona044) | N/A |
-| 21 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
-| 22 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 3 | [PRE SAVE NOITADA](http://twitter.com/search?q=PRE+SAVE+NOITADA) | PRE SAVE NOITADA is a marketing campaign created by the Brazilian music streaming service Deezer. It encourages users to pre-save an artist's upcoming album on their platform, so that when it is released, it will automatically be added to their library. The phrase translates to "Save Now" in English. |
+| 4 | [#CriaDaIvete](http://twitter.com/search?q=%23CriaDaIvete) | N/A |
+| 5 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
+| 6 | [#FelipeNetoNaTwitch](http://twitter.com/search?q=%23FelipeNetoNaTwitch) | N/A |
+| 7 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 8 | [JADE COM ESPACOLASER](http://twitter.com/search?q=JADE+COM+ESPACOLASER) | N/A |
+| 9 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 10 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 11 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 12 | [chase atlantic](http://twitter.com/search?q=chase+atlantic) | N/A |
+| 13 | [AirPods](http://twitter.com/search?q=AirPods) | N/A |
+| 14 | [BNDES](http://twitter.com/search?q=BNDES) | BNDES stands for Banco Nacional de Desenvolvimento Econômico e Social, which translates to the National Bank for Economic and Social Development in English. It is a Brazilian development bank that provides financial services to promote economic and social development in Brazil. |
+| 15 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 16 | [PEACEMAKER NA LOS GRANDES](http://twitter.com/search?q=PEACEMAKER+NA+LOS+GRANDES) | N/A |
+| 17 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 18 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 19 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 20 | [FELIPE ARAUJO NO TVZ](http://twitter.com/search?q=FELIPE+ARAUJO+NO+TVZ) | N/A |
+| 21 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 22 | [Cuba e Venezuela](http://twitter.com/search?q=Cuba+e+Venezuela) | N/A |
 | 23 | [Kaio Jorge](http://twitter.com/search?q=Kaio+Jorge) | N/A |
-| 24 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 25 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 26 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 27 | [Craque Neto](http://twitter.com/search?q=Craque+Neto) | N/A |
-| 28 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 29 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
-| 30 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 31 | [Delgatti](http://twitter.com/search?q=Delgatti) | N/A |
-| 32 | [Carla Zambelli](http://twitter.com/search?q=Carla+Zambelli) | Carla Zambelli is an Italian surname. It is derived from the Italian word zambello, which means "bell-maker". The name is most likely derived from the occupation of bell-making, which was a common profession in Italy during the Middle Ages. In English, Carla Zambelli can be translated to mean "bell-maker Carla". |
-| 33 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
-| 34 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 35 | [Meteora](http://twitter.com/search?q=Meteora) | N/A |
-| 36 | [Joaquim](http://twitter.com/search?q=Joaquim) | N/A |
-| 37 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 38 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 39 | [Sedex](http://twitter.com/search?q=Sedex) | N/A |
-| 40 | [Jaque](http://twitter.com/search?q=Jaque) | N/A |
+| 24 | [Tati Zaqui](http://twitter.com/search?q=Tati+Zaqui) | N/A |
+| 25 | [Carla Zambelli](http://twitter.com/search?q=Carla+Zambelli) | Carla Zambelli is an Italian surname. It is derived from the Italian word zambello, which means "bell-maker". The name is most likely derived from the occupation of bell-making, which was a common profession in Italy during the Middle Ages. In English, Carla Zambelli can be translated to mean "bell-maker Carla". |
+| 26 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 27 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 28 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
+| 29 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 30 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 31 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 32 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 34 | [Matheuzinho](http://twitter.com/search?q=Matheuzinho) | Matheuzinho is a Portuguese nickname for someone named Matheus. It is derived from the name Matheus, which is the Portuguese form of the name Matthew. In English, it would be translated to "Little Matthew". |
+| 35 | [Elke Maravilha](http://twitter.com/search?q=Elke+Maravilha) | N/A |
+| 36 | [Delgatti](http://twitter.com/search?q=Delgatti) | N/A |
+| 37 | [Davy Jones](http://twitter.com/search?q=Davy+Jones) | N/A |
+| 38 | [Craque Neto](http://twitter.com/search?q=Craque+Neto) | N/A |
+| 39 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 40 | [Mercadante](http://twitter.com/search?q=Mercadante) | N/A |
 | 41 | [Madona](http://twitter.com/search?q=Madona) | N/A |
 | 42 | [Luiz Marinho](http://twitter.com/search?q=Luiz+Marinho) | N/A |
-| 43 | [Tati Zaqui](http://twitter.com/search?q=Tati+Zaqui) | N/A |
-| 44 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
-| 45 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 46 | [Moira](http://twitter.com/search?q=Moira) | N/A |
-| 47 | [Samara Joy](http://twitter.com/search?q=Samara+Joy) | Samara Joy is a name of Indian origin, derived from the Sanskrit words "samara" (victory) and "jaya" (victory). It can be translated to mean "victory of joy". |
-| 48 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 49 | [Lucas Vázquez](http://twitter.com/search?q=Lucas+V%c3%a1zquez) | Lucas Vázquez is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. His name translates to "Light of the Vázquez" in English. |
+| 43 | [Samba Gold](http://twitter.com/search?q=Samba+Gold) | N/A |
+| 44 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 45 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 46 | [Linkin Park](http://twitter.com/search?q=Linkin+Park) | N/A |
+| 47 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 48 | [Filipe Luís](http://twitter.com/search?q=Filipe+Lu%c3%ads) | N/A |
 
 
 

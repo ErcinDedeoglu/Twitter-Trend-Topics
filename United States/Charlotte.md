@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-02-06 22:15:48 UTC`
+📆 Last Updated: `2023-02-06 23:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Grammys](http://twitter.com/search?q=Grammys) | N/A |
-| 2 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 3 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
-| 4 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 5 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
-| 6 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
-| 7 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 8 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
-| 9 | [Bard](http://twitter.com/search?q=Bard) | N/A |
-| 10 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 11 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 12 | [#loveeternal](http://twitter.com/search?q=%23loveeternal) | N/A |
-| 13 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
-| 14 | [#DominosLoadedTots](http://twitter.com/search?q=%23DominosLoadedTots) | N/A |
-| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 16 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
-| 17 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
-| 18 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
-| 19 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
-| 20 | [Stephen A](http://twitter.com/search?q=Stephen+A) | N/A |
-| 21 | [Trent Dilfer](http://twitter.com/search?q=Trent+Dilfer) | N/A |
-| 22 | [Brian Ferentz](http://twitter.com/search?q=Brian+Ferentz) | N/A |
-| 23 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
-| 24 | [#StuffIWishWasReal](http://twitter.com/search?q=%23StuffIWishWasReal) | N/A |
-| 25 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
-| 26 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 27 | [Furkan Korkmaz](http://twitter.com/search?q=Furkan+Korkmaz) | N/A |
-| 28 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 29 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
-| 30 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 31 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 1 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 2 | [Brian Flores](http://twitter.com/search?q=Brian+Flores) | Brian Flores is the head coach of the Miami Dolphins of the National Football League (NFL). His name is derived from the Spanish word for "flower," and it can be translated to mean "flowering" or "blooming." |
+| 3 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 4 | [Mattis](http://twitter.com/search?q=Mattis) | N/A |
+| 5 | [AJ Green](http://twitter.com/search?q=AJ+Green) | N/A |
+| 6 | [Bard](http://twitter.com/search?q=Bard) | N/A |
+| 7 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
+| 8 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 9 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 10 | [$BBBY](http://twitter.com/search?q=%24BBBY) | N/A |
+| 11 | [#DominosLoadedTots](http://twitter.com/search?q=%23DominosLoadedTots) | N/A |
+| 12 | [#mnwildFirst](http://twitter.com/search?q=%23mnwildFirst) | N/A |
+| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 14 | [SOTU](http://twitter.com/search?q=SOTU) | N/A |
+| 15 | [Brian Ferentz](http://twitter.com/search?q=Brian+Ferentz) | N/A |
+| 16 | [#loveeternal](http://twitter.com/search?q=%23loveeternal) | N/A |
+| 17 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 18 | [#lightningstrikes](http://twitter.com/search?q=%23lightningstrikes) | N/A |
+| 19 | [Trent Dilfer](http://twitter.com/search?q=Trent+Dilfer) | N/A |
+| 20 | [Gshade](http://twitter.com/search?q=Gshade) | N/A |
+| 21 | [Steely Dan](http://twitter.com/search?q=Steely+Dan) | N/A |
+| 22 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
+| 23 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 24 | [Sirona Ryan](http://twitter.com/search?q=Sirona+Ryan) | N/A |
+| 25 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 26 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 27 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 28 | [Furkan Korkmaz](http://twitter.com/search?q=Furkan+Korkmaz) | N/A |
+| 29 | [Barta](http://twitter.com/search?q=Barta) | N/A |
+| 30 | [Stephen A](http://twitter.com/search?q=Stephen+A) | N/A |
+| 31 | [Jay Williams](http://twitter.com/search?q=Jay+Williams) | N/A |
 | 32 | [Inked Magazine](http://twitter.com/search?q=Inked+Magazine) | N/A |
-| 33 | [Treason](http://twitter.com/search?q=Treason) | N/A |
-| 34 | [Reshade](http://twitter.com/search?q=Reshade) | N/A |
-| 35 | [Keenan Allen](http://twitter.com/search?q=Keenan+Allen) | N/A |
-| 36 | [JB for KD](http://twitter.com/search?q=JB+for+KD) | N/A |
-| 37 | [McKeesport](http://twitter.com/search?q=McKeesport) | N/A |
-| 38 | [Grape Nuts](http://twitter.com/search?q=Grape+Nuts) | N/A |
+| 33 | [Kafka](http://twitter.com/search?q=Kafka) | N/A |
+| 34 | [Carry the 1](http://twitter.com/search?q=Carry+the+1) | N/A |
+| 35 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 36 | [Keenan Allen](http://twitter.com/search?q=Keenan+Allen) | N/A |
+| 37 | [Reshade](http://twitter.com/search?q=Reshade) | N/A |
+| 38 | [Club Renaissance](http://twitter.com/search?q=Club+Renaissance) | N/A |
 | 39 | [THEY CAN'T BEET US](http://twitter.com/search?q=THEY+CAN%27T+BEET+US) | N/A |
-| 40 | [Club Renaissance](http://twitter.com/search?q=Club+Renaissance) | N/A |
-| 41 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 42 | [Steve Albini](http://twitter.com/search?q=Steve+Albini) | N/A |
-| 43 | [Cho Chang](http://twitter.com/search?q=Cho+Chang) | N/A |
-| 44 | [Sir Ryan](http://twitter.com/search?q=Sir+Ryan) | N/A |
-| 45 | [Jake Heaps](http://twitter.com/search?q=Jake+Heaps) | N/A |
-| 46 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 47 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 48 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
-| 49 | [Roy Jones Jr](http://twitter.com/search?q=Roy+Jones+Jr) | N/A |
-| 50 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 40 | [Treason](http://twitter.com/search?q=Treason) | N/A |
+| 41 | [Sir Ryan](http://twitter.com/search?q=Sir+Ryan) | N/A |
+| 42 | [Grape Nuts](http://twitter.com/search?q=Grape+Nuts) | N/A |
+| 43 | [Lou Anarumo](http://twitter.com/search?q=Lou+Anarumo) | N/A |
+| 44 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 45 | [McKeesport](http://twitter.com/search?q=McKeesport) | N/A |
+| 46 | [JB for KD](http://twitter.com/search?q=JB+for+KD) | N/A |
+| 47 | [Cho Chang](http://twitter.com/search?q=Cho+Chang) | N/A |
+| 48 | [Jake Heaps](http://twitter.com/search?q=Jake+Heaps) | N/A |
+| 49 | [Kingsley Shacklebolt](http://twitter.com/search?q=Kingsley+Shacklebolt) | N/A |
 
 
 

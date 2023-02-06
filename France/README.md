@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-06 22:15:58 UTC`
+📆 Last Updated: `2023-02-06 23:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for France
 | 3 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 4 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 5 | [#ASCFCM](http://twitter.com/search?q=%23ASCFCM) | N/A |
-| 6 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
+| 6 | [#VforVictory](http://twitter.com/search?q=%23VforVictory) | N/A |
 | 7 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
 | 8 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 9 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 9 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
 | 10 | [Arthur Atta](http://twitter.com/search?q=Arthur+Atta) | N/A |
-| 11 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 12 | [Perrine](http://twitter.com/search?q=Perrine) | N/A |
-| 13 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 14 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
-| 15 | [4keus](http://twitter.com/search?q=4keus) | N/A |
-| 16 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 17 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
-| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 19 | [Pellissard](http://twitter.com/search?q=Pellissard) | N/A |
-| 20 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
-| 21 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 22 | [Jacquie](http://twitter.com/search?q=Jacquie) | N/A |
-| 23 | [Salto](http://twitter.com/search?q=Salto) | N/A |
-| 24 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 25 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 11 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
+| 12 | [4keus](http://twitter.com/search?q=4keus) | N/A |
+| 13 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
+| 14 | [Photon](http://twitter.com/search?q=Photon) | N/A |
+| 15 | [Neon](http://twitter.com/search?q=Neon) | N/A |
+| 16 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 17 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 18 | [Perrine](http://twitter.com/search?q=Perrine) | N/A |
+| 19 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
+| 20 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 21 | [Pellissard](http://twitter.com/search?q=Pellissard) | N/A |
+| 22 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 23 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
+| 24 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 25 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
 | 26 | [Motion](http://twitter.com/search?q=Motion) | N/A |
-| 27 | [Aqababe](http://twitter.com/search?q=Aqababe) | N/A |
-| 28 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 27 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 28 | [Saur](http://twitter.com/search?q=Saur) | N/A |
 | 29 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
 | 30 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 31 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 32 | [The Legend of Zelda](http://twitter.com/search?q=The+Legend+of+Zelda) | N/A |
-| 33 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 31 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
+| 32 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 33 | [The Legend of Zelda](http://twitter.com/search?q=The+Legend+of+Zelda) | N/A |
 | 34 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 35 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
-| 36 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 37 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 38 | [Marine Le Pen](http://twitter.com/search?q=Marine+Le+Pen) | N/A |
-| 39 | [Saur](http://twitter.com/search?q=Saur) | N/A |
-| 40 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 41 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
-| 42 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 43 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
-| 44 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 45 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
-| 46 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
-| 47 | [Deluxe](http://twitter.com/search?q=Deluxe) | N/A |
-| 48 | [Stardew Valley](http://twitter.com/search?q=Stardew+Valley) | N/A |
-| 49 | [Poudlard](http://twitter.com/search?q=Poudlard) | N/A |
-| 50 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
+| 35 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
+| 36 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
+| 37 | [Marine Le Pen](http://twitter.com/search?q=Marine+Le+Pen) | N/A |
+| 38 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
+| 39 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 40 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 41 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
+| 42 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 43 | [#VITWIN](http://twitter.com/search?q=%23VITWIN) | N/A |
+| 44 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 45 | [#Bard](http://twitter.com/search?q=%23Bard) | N/A |
+| 46 | [#SpaceMHSC](http://twitter.com/search?q=%23SpaceMHSC) | N/A |
+| 47 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 48 | [#adp23](http://twitter.com/search?q=%23adp23) | N/A |
+| 49 | [#seisme](http://twitter.com/search?q=%23seisme) | N/A |
+| 50 | [#greve7fevrier](http://twitter.com/search?q=%23greve7fevrier) | N/A |
 
 
 

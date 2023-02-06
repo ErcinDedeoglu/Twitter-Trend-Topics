@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-02-06 22:15:22 UTC`
+📆 Last Updated: `2023-02-06 23:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,46 +21,46 @@ This is top 50 for [France](</France>)
 | 4 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
 | 5 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 | 6 | [#ASCFCM](http://twitter.com/search?q=%23ASCFCM) | N/A |
-| 7 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
-| 8 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 9 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
-| 10 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
-| 11 | [Arthur Atta](http://twitter.com/search?q=Arthur+Atta) | N/A |
-| 12 | [Perrine](http://twitter.com/search?q=Perrine) | N/A |
-| 13 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
-| 14 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
-| 15 | [4keus](http://twitter.com/search?q=4keus) | N/A |
-| 16 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
-| 17 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 19 | [Pellissard](http://twitter.com/search?q=Pellissard) | N/A |
-| 20 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
-| 21 | [Jacquie](http://twitter.com/search?q=Jacquie) | N/A |
-| 22 | [Salto](http://twitter.com/search?q=Salto) | N/A |
-| 23 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
-| 24 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 25 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 26 | [Motion](http://twitter.com/search?q=Motion) | N/A |
-| 27 | [Aqababe](http://twitter.com/search?q=Aqababe) | N/A |
-| 28 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 29 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 30 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 31 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 7 | [Syrie](http://twitter.com/search?q=Syrie) | N/A |
+| 8 | [Rennes 2](http://twitter.com/search?q=Rennes+2) | N/A |
+| 9 | [Arthur Atta](http://twitter.com/search?q=Arthur+Atta) | N/A |
+| 10 | [Patrice](http://twitter.com/search?q=Patrice) | N/A |
+| 11 | [4keus](http://twitter.com/search?q=4keus) | N/A |
+| 12 | [Rekkles](http://twitter.com/search?q=Rekkles) | N/A |
+| 13 | [Photon](http://twitter.com/search?q=Photon) | N/A |
+| 14 | [Neon](http://twitter.com/search?q=Neon) | N/A |
+| 15 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 16 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 17 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 18 | [Perrine](http://twitter.com/search?q=Perrine) | N/A |
+| 19 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 20 | [Salman Rushdie](http://twitter.com/search?q=Salman+Rushdie) | N/A |
+| 21 | [Pellissard](http://twitter.com/search?q=Pellissard) | N/A |
+| 22 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 23 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 24 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
+| 25 | [Motion](http://twitter.com/search?q=Motion) | N/A |
+| 26 | [Salto](http://twitter.com/search?q=Salto) | N/A |
+| 27 | [Saur](http://twitter.com/search?q=Saur) | N/A |
+| 28 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
+| 29 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 30 | [Assemblée Nationale](http://twitter.com/search?q=Assembl%c3%a9e+Nationale) | N/A |
+| 31 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
 | 32 | [The Legend of Zelda](http://twitter.com/search?q=The+Legend+of+Zelda) | N/A |
-| 33 | [Upset](http://twitter.com/search?q=Upset) | N/A |
+| 33 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
 | 34 | [Serdaigle](http://twitter.com/search?q=Serdaigle) | N/A |
-| 35 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 36 | [Gryffondor](http://twitter.com/search?q=Gryffondor) | N/A |
-| 37 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 38 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
-| 39 | [Marine Le Pen](http://twitter.com/search?q=Marine+Le+Pen) | N/A |
-| 40 | [Saur](http://twitter.com/search?q=Saur) | N/A |
-| 41 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
-| 42 | [Gamekult](http://twitter.com/search?q=Gamekult) | N/A |
-| 43 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 44 | [Turcs](http://twitter.com/search?q=Turcs) | N/A |
-| 45 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
-| 46 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
+| 35 | [Vinland Saga](http://twitter.com/search?q=Vinland+Saga) | Vinland Saga is a Japanese manga series written and illustrated by Makoto Yukimura. It follows the adventures of Thorfinn, a young Viking warrior who joins a group of mercenaries in their quest to conquer the land of Vinland. The title is derived from the Old Norse term for Vinland, which was the name given to North America by Norse explorers in the 11th century. In English, Vinland Saga translates to "Saga of Vinland". |
+| 36 | [Marine Le Pen](http://twitter.com/search?q=Marine+Le+Pen) | N/A |
+| 37 | [LIOT](http://twitter.com/search?q=LIOT) | N/A |
+| 38 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 39 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
+| 40 | [Ramzy](http://twitter.com/search?q=Ramzy) | Ramzy is a male given name of Arabic origin, derived from the Arabic word "ramz", which means "symbol". It is also used as a surname. In English, it can be translated to mean "symbol" or "sign". |
+| 41 | [Aurore Bergé](http://twitter.com/search?q=Aurore+Berg%c3%a9) | N/A |
+| 42 | [#VforVictory](http://twitter.com/search?q=%23VforVictory) | N/A |
+| 43 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
+| 44 | [#VITWIN](http://twitter.com/search?q=%23VITWIN) | N/A |
+| 45 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 46 | [#Bard](http://twitter.com/search?q=%23Bard) | N/A |
 
 
 

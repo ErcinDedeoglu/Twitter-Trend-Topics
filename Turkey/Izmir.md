@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-06 22:15:46 UTC`
+📆 Last Updated: `2023-02-06 23:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
-| 2 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
-| 3 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
-| 4 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
-| 5 | [#ohal](http://twitter.com/search?q=%23ohal) | N/A |
-| 6 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 7 | [Sela](http://twitter.com/search?q=Sela) | N/A |
-| 8 | [Cüneyt Özdemir](http://twitter.com/search?q=C%c3%bcneyt+%c3%96zdemir) | N/A |
-| 9 | [Selman Altunbaş](http://twitter.com/search?q=Selman+Altunba%c5%9f) | N/A |
-| 10 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
+| 1 | [#hatayyardimbekliyor](http://twitter.com/search?q=%23hatayyardimbekliyor) | N/A |
+| 2 | [#seferberlik](http://twitter.com/search?q=%23seferberlik) | N/A |
+| 3 | [#IaPump](http://twitter.com/search?q=%23IaPump) | N/A |
+| 4 | [#ohal](http://twitter.com/search?q=%23ohal) | N/A |
+| 5 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
+| 6 | [Gün Birlik Günü](http://twitter.com/search?q=G%c3%bcn+Birlik+G%c3%bcn%c3%bc) | N/A |
+| 7 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 8 | [Sela](http://twitter.com/search?q=Sela) | N/A |
+| 9 | [Neredeyse 24](http://twitter.com/search?q=Neredeyse+24) | N/A |
+| 10 | [Cüneyt Özdemir](http://twitter.com/search?q=C%c3%bcneyt+%c3%96zdemir) | N/A |
 | 11 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
-| 12 | [Neredeyse 24](http://twitter.com/search?q=Neredeyse+24) | N/A |
-| 13 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
-| 14 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
-| 15 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 16 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
-| 17 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 18 | [Yolunuz](http://twitter.com/search?q=Yolunuz) | N/A |
-| 19 | [Volkan Demirel](http://twitter.com/search?q=Volkan+Demirel) | Volkan Demirel is a Turkish former professional footballer who played as a goalkeeper. His name translates to "people's hero" in English. |
-| 20 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
+| 12 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 13 | [Selman Altunbaş](http://twitter.com/search?q=Selman+Altunba%c5%9f) | N/A |
+| 14 | [Cumhur](http://twitter.com/search?q=Cumhur) | N/A |
+| 15 | [Metiner](http://twitter.com/search?q=Metiner) | N/A |
+| 16 | [Başınız](http://twitter.com/search?q=Ba%c5%9f%c4%b1n%c4%b1z) | Başınız is a Turkish phrase that translates to "your head" in English. It is used as a way of expressing good wishes and blessings for someone's health and wellbeing. |
+| 17 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
+| 18 | [B Blok 3](http://twitter.com/search?q=B+Blok+3) | N/A |
+| 19 | [İnsanlar](http://twitter.com/search?q=%c4%b0nsanlar) | N/A |
+| 20 | [Nasuh Mahruki](http://twitter.com/search?q=Nasuh+Mahruki) | N/A |
 | 21 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 22 | [B Blok 3](http://twitter.com/search?q=B+Blok+3) | N/A |
-| 23 | [Merdivenden](http://twitter.com/search?q=Merdivenden) | N/A |
-| 24 | [Arkadaşımın](http://twitter.com/search?q=Arkada%c5%9f%c4%b1m%c4%b1n) | N/A |
-| 25 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 26 | [Sabahtan](http://twitter.com/search?q=Sabahtan) | N/A |
-| 27 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 28 | [Yazıklar](http://twitter.com/search?q=Yaz%c4%b1klar) | N/A |
-| 29 | [İnönü Cad](http://twitter.com/search?q=%c4%b0n%c3%b6n%c3%bc+Cad) | N/A |
-| 30 | [Ekinci Mah](http://twitter.com/search?q=Ekinci+Mah) | N/A |
-| 31 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
-| 32 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
-| 33 | [#TSKsahaya](http://twitter.com/search?q=%23TSKsahaya) | N/A |
-| 34 | [#85MilyonTekYürek](http://twitter.com/search?q=%2385MilyonTekY%c3%bcrek) | N/A |
-| 35 | [#Enkaz](http://twitter.com/search?q=%23Enkaz) | N/A |
-| 36 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
-| 37 | [#DevletMilletElele](http://twitter.com/search?q=%23DevletMilletElele) | N/A |
+| 22 | [Volkan Demirel](http://twitter.com/search?q=Volkan+Demirel) | Volkan Demirel is a Turkish former professional footballer who played as a goalkeeper. His name translates to "people's hero" in English. |
+| 23 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 24 | [İnönü Cad](http://twitter.com/search?q=%c4%b0n%c3%b6n%c3%bc+Cad) | N/A |
+| 25 | [Ekinci Mah](http://twitter.com/search?q=Ekinci+Mah) | N/A |
+| 26 | [Asılsız](http://twitter.com/search?q=As%c4%b1ls%c4%b1z) | N/A |
+| 27 | [Sabahtan](http://twitter.com/search?q=Sabahtan) | N/A |
+| 28 | [Arkadaşımın](http://twitter.com/search?q=Arkada%c5%9f%c4%b1m%c4%b1n) | N/A |
+| 29 | [Saatlerdir](http://twitter.com/search?q=Saatlerdir) | N/A |
+| 30 | [Yolunuz](http://twitter.com/search?q=Yolunuz) | N/A |
+| 31 | [#metaruffy](http://twitter.com/search?q=%23metaruffy) | N/A |
+| 32 | [#TSKsahaya](http://twitter.com/search?q=%23TSKsahaya) | N/A |
+| 33 | [#AFAD](http://twitter.com/search?q=%23AFAD) | #AFAD is an acronym for the Association of Fashion and Apparel Designers, a professional organization for fashion and apparel designers. The organization provides resources, education, and networking opportunities to its members. |
+| 34 | [#Enkaz](http://twitter.com/search?q=%23Enkaz) | N/A |
+| 35 | [#OguzhanUgur](http://twitter.com/search?q=%23OguzhanUgur) | N/A |
+| 36 | [#85MilyonTekYürek](http://twitter.com/search?q=%2385MilyonTekY%c3%bcrek) | N/A |
+| 37 | [#BorsadaİşlemlerDurdurulsun](http://twitter.com/search?q=%23Borsada%c4%b0%c5%9flemlerDurdurulsun) | N/A |
 | 38 | [#foxtv](http://twitter.com/search?q=%23foxtv) | N/A |
-| 39 | [#nurdagi](http://twitter.com/search?q=%23nurdagi) | N/A |
-| 40 | [#FOXHaber](http://twitter.com/search?q=%23FOXHaber) | N/A |
-| 41 | [#MilliYas](http://twitter.com/search?q=%23MilliYas) | N/A |
-| 42 | [#kizilay](http://twitter.com/search?q=%23kizilay) | N/A |
+| 39 | [#DevletMilletElele](http://twitter.com/search?q=%23DevletMilletElele) | N/A |
+| 40 | [#nurdagi](http://twitter.com/search?q=%23nurdagi) | N/A |
+| 41 | [#FOXHaber](http://twitter.com/search?q=%23FOXHaber) | N/A |
+| 42 | [#MilliYas](http://twitter.com/search?q=%23MilliYas) | N/A |
 | 43 | [#BizBeraberiz](http://twitter.com/search?q=%23BizBeraberiz) | N/A |
-| 44 | [#AKUT](http://twitter.com/search?q=%23AKUT) | N/A |
-| 45 | [#FatihAltayli](http://twitter.com/search?q=%23FatihAltayli) | N/A |
+| 44 | [#kizilay](http://twitter.com/search?q=%23kizilay) | N/A |
+| 45 | [#AKUT](http://twitter.com/search?q=%23AKUT) | N/A |
+| 46 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
 
 
 

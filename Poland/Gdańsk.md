@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-06 22:15:20 UTC`
+📆 Last Updated: `2023-02-06 23:15:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [Turcji](http://twitter.com/search?q=Turcji) | N/A |
 | 2 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
-| 3 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 3 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
 | 4 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 5 | [Syrii](http://twitter.com/search?q=Syrii) | N/A |
-| 6 | [#KORCRA](http://twitter.com/search?q=%23KORCRA) | N/A |
-| 7 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 8 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 5 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 6 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 7 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 8 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
 | 9 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
 | 10 | [Agrounią](http://twitter.com/search?q=Agrouni%c4%85) | N/A |
-| 11 | [Korona](http://twitter.com/search?q=Korona) | N/A |
-| 12 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 13 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 14 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
-| 15 | [Cracovii](http://twitter.com/search?q=Cracovii) | N/A |
-| 16 | [Rekklesa](http://twitter.com/search?q=Rekklesa) | N/A |
-| 17 | [dubiel](http://twitter.com/search?q=dubiel) | N/A |
+| 11 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
+| 12 | [Richtera](http://twitter.com/search?q=Richtera) | N/A |
+| 13 | [dubiel](http://twitter.com/search?q=dubiel) | N/A |
+| 14 | [Porozumienia](http://twitter.com/search?q=Porozumienia) | N/A |
+| 15 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
+| 16 | [Niepokój](http://twitter.com/search?q=Niepok%c3%b3j) | N/A |
+| 17 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
 | 18 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 19 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 20 | [Richtera](http://twitter.com/search?q=Richtera) | N/A |
-| 21 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
-| 22 | [Niepokój](http://twitter.com/search?q=Niepok%c3%b3j) | N/A |
-| 23 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 24 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 25 | [Razem](http://twitter.com/search?q=Razem) | N/A |
-| 26 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 27 | [Religia](http://twitter.com/search?q=Religia) | N/A |
-| 28 | [Huja](http://twitter.com/search?q=Huja) | N/A |
-| 29 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
-| 30 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
-| 31 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 32 | [Kobosko](http://twitter.com/search?q=Kobosko) | N/A |
-| 33 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 34 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 35 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 36 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 37 | [Kołodziejczaka](http://twitter.com/search?q=Ko%c5%82odziejczaka) | N/A |
-| 38 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 39 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
-| 40 | [Williamsa](http://twitter.com/search?q=Williamsa) | N/A |
-| 41 | [Z Panem Bogiem](http://twitter.com/search?q=Z+Panem+Bogiem) | N/A |
-| 42 | [Biedroniowi](http://twitter.com/search?q=Biedroniowi) | N/A |
-| 43 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 19 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 20 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 21 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 22 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
+| 23 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 24 | [Religia](http://twitter.com/search?q=Religia) | N/A |
+| 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 26 | [Mama Ginekolog](http://twitter.com/search?q=Mama+Ginekolog) | N/A |
+| 27 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 28 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 29 | [Williamsa](http://twitter.com/search?q=Williamsa) | N/A |
+| 30 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
+| 31 | [Turków](http://twitter.com/search?q=Turk%c3%b3w) | N/A |
+| 32 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 33 | [Z Panem Bogiem](http://twitter.com/search?q=Z+Panem+Bogiem) | N/A |
+| 34 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 35 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 36 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 37 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 38 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 39 | [Lubnauer](http://twitter.com/search?q=Lubnauer) | N/A |
+| 40 | [Miłych](http://twitter.com/search?q=Mi%c5%82ych) | N/A |
+| 41 | [Vincenta](http://twitter.com/search?q=Vincenta) | N/A |
+| 42 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
+| 43 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
 | 44 | [poniedziałek](http://twitter.com/search?q=poniedzia%c5%82ek) | N/A |
-| 45 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 46 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 47 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
+| 45 | [Post 3](http://twitter.com/search?q=Post+3) | N/A |
+| 46 | [maryna gąsienica-daniel](http://twitter.com/search?q=maryna+g%c4%85sienica-daniel) | N/A |
+| 47 | [Pasha](http://twitter.com/search?q=Pasha) | N/A |
 | 48 | [Strzeżek](http://twitter.com/search?q=Strze%c5%bcek) | N/A |
-| 49 | [Aleppo](http://twitter.com/search?q=Aleppo) | N/A |
+| 49 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
 
 
 
