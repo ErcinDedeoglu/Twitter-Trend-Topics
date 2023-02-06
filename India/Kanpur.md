@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-02-06 06:16:01 UTC`
+📆 Last Updated: `2023-02-06 07:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Turkey](http://twitter.com/search?q=%23Turkey) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#LataMangeshkar](http://twitter.com/search?q=%23LataMangeshkar) | N/A |
-| 4 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 5 | [लता मंगेशकर](http://twitter.com/search?q=%e0%a4%b2%e0%a4%a4%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a4%95%e0%a4%b0) | N/A |
-| 6 | [#Syria](http://twitter.com/search?q=%23Syria) | N/A |
-| 7 | [Sushant Ws Confined Purposely](http://twitter.com/search?q=Sushant+Ws+Confined+Purposely) | N/A |
-| 8 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 9 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 10 | [Ashram Activities](http://twitter.com/search?q=Ashram+Activities) | N/A |
-| 11 | [Services To Humanity](http://twitter.com/search?q=Services+To+Humanity) | N/A |
-| 12 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 13 | [सुर साम्राज्ञी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a5%80) | N/A |
+| 2 | [#LataMangeshkar](http://twitter.com/search?q=%23LataMangeshkar) | N/A |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 4 | [#भागवत_माफी_मांगो](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8b) | N/A |
+| 5 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 6 | [लता मंगेशकर](http://twitter.com/search?q=%e0%a4%b2%e0%a4%a4%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a4%95%e0%a4%b0) | N/A |
+| 7 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 8 | [Sushant Ws Confined Purposely](http://twitter.com/search?q=Sushant+Ws+Confined+Purposely) | N/A |
+| 9 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 10 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 11 | [सुर साम्राज्ञी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a5%80) | N/A |
+| 12 | [मेयर चुनाव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%af%e0%a4%b0+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 13 | [संगीत जगत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%80%e0%a4%a4+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
 | 14 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 15 | [संगीत जगत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%80%e0%a4%a4+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
-| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 17 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 18 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 19 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 20 | [सीमांत गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 21 | [कवि प्रदीप](http://twitter.com/search?q=%e0%a4%95%e0%a4%b5%e0%a4%bf+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%80%e0%a4%aa) | N/A |
-| 22 | [परमवीर चक्र](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0) | N/A |
-| 23 | [Lebanon](http://twitter.com/search?q=Lebanon) | N/A |
-| 24 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 25 | [Sonia Gandhi](http://twitter.com/search?q=Sonia+Gandhi) | N/A |
-| 26 | [BTS OUR FOREVER ARTIST](http://twitter.com/search?q=BTS+OUR+FOREVER+ARTIST) | N/A |
-| 27 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
-| 28 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
-| 29 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 30 | [New Song](http://twitter.com/search?q=New+Song) | N/A |
-| 31 | [Om Namah Shivay](http://twitter.com/search?q=Om+Namah+Shivay) | N/A |
-| 32 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 15 | [सीमांत गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%80%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 16 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 17 | [Services To Humanity](http://twitter.com/search?q=Services+To+Humanity) | N/A |
+| 18 | [Ashram Activities](http://twitter.com/search?q=Ashram+Activities) | N/A |
+| 19 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
+| 20 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
+| 21 | [परमवीर चक्र](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a4%95%e0%a5%8d%e0%a4%b0) | N/A |
+| 22 | [इंडिया एनर्जी वीक](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%8f%e0%a4%a8%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a5%80+%e0%a4%b5%e0%a5%80%e0%a4%95) | N/A |
+| 23 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 24 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 25 | [कवि प्रदीप](http://twitter.com/search?q=%e0%a4%95%e0%a4%b5%e0%a4%bf+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%80%e0%a4%aa) | N/A |
+| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 27 | [ब्राह्मण समाज](http://twitter.com/search?q=%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%8d%e0%a4%ae%e0%a4%a3+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 28 | [BTS OUR FOREVER ARTIST](http://twitter.com/search?q=BTS+OUR+FOREVER+ARTIST) | N/A |
+| 29 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 30 | [Sonia Gandhi](http://twitter.com/search?q=Sonia+Gandhi) | N/A |
+| 31 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 32 | [New Song](http://twitter.com/search?q=New+Song) | N/A |
 | 33 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 34 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 35 | [JEET KI HAQDAR PRIYANKA](http://twitter.com/search?q=JEET+KI+HAQDAR+PRIYANKA) | N/A |
-| 36 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 37 | [#भागवत_माफी_मांगो](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4_%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8b) | N/A |
-| 38 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
-| 39 | [#Grammys2023](http://twitter.com/search?q=%23Grammys2023) | N/A |
-| 40 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 41 | [#DrugFreeYouth](http://twitter.com/search?q=%23DrugFreeYouth) | N/A |
-| 42 | [#AshramDarpan](http://twitter.com/search?q=%23AshramDarpan) | N/A |
-| 43 | [#Ranjithame](http://twitter.com/search?q=%23Ranjithame) | N/A |
-| 44 | [#LataDidi](http://twitter.com/search?q=%23LataDidi) | N/A |
-| 45 | [#IndiansWithAdani](http://twitter.com/search?q=%23IndiansWithAdani) | N/A |
+| 34 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 35 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 36 | [Om Namah Shivay](http://twitter.com/search?q=Om+Namah+Shivay) | N/A |
+| 37 | [JEET KI HAQDAR PRIYANKA](http://twitter.com/search?q=JEET+KI+HAQDAR+PRIYANKA) | N/A |
+| 38 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 39 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | N/A |
+| 40 | [#Ranjithame](http://twitter.com/search?q=%23Ranjithame) | N/A |
+| 41 | [#Stop_Hating_Brahmins](http://twitter.com/search?q=%23Stop_Hating_Brahmins) | N/A |
+| 42 | [#IndiaEnergyWeek](http://twitter.com/search?q=%23IndiaEnergyWeek) | N/A |
+| 43 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
+| 44 | [#TelanganaBudget2023](http://twitter.com/search?q=%23TelanganaBudget2023) | N/A |
+| 45 | [#IndiaDrivesE20](http://twitter.com/search?q=%23IndiaDrivesE20) | N/A |
 | 46 | [#Mohanbhagwat](http://twitter.com/search?q=%23Mohanbhagwat) | N/A |
-| 47 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 48 | [#TelanganaBudget2023](http://twitter.com/search?q=%23TelanganaBudget2023) | N/A |
-| 49 | [#NoraFatehi](http://twitter.com/search?q=%23NoraFatehi) | N/A |
+| 47 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 48 | [#Viduthalai](http://twitter.com/search?q=%23Viduthalai) | N/A |
+| 49 | [#LataDidi](http://twitter.com/search?q=%23LataDidi) | N/A |
 
 
 

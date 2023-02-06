@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-06 06:16:13 UTC`
+📆 Last Updated: `2023-02-06 07:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Algeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#تركيا](http://twitter.com/search?q=%23%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 2 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | N/A |
-| 3 | [#سوريا](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 4 | [#الشان_في_بلاد_الشان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a7%d9%86_%d9%81%d9%8a_%d8%a8%d9%84%d8%a7%d8%af_%d8%a7%d9%84%d8%b4%d8%a7%d9%86) | N/A |
-| 5 | [Sénégal](http://twitter.com/search?q=S%c3%a9n%c3%a9gal) | N/A |
-| 6 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
-| 7 | [#فلسطين](http://twitter.com/search?q=%23%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
+| 1 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | N/A |
+| 2 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 3 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 4 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 5 | [#الشان_في_بلاد_الشان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a7%d9%86_%d9%81%d9%8a_%d8%a8%d9%84%d8%a7%d8%af_%d8%a7%d9%84%d8%b4%d8%a7%d9%86) | N/A |
+| 6 | [#فلسطين](http://twitter.com/search?q=%23%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
+| 7 | [#algsen](http://twitter.com/search?q=%23algsen) | N/A |
 | 8 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 9 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 10 | [اللاعب المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | N/A |
-| 11 | [المنتخب الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 12 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
-| 13 | [الطاقه الكهرونوويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d9%88%d9%86%d9%88%d9%88%d9%8a%d9%87) | N/A |
-| 14 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 15 | [سعد بوعقبة](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%88%d8%b9%d9%82%d8%a8%d8%a9) | N/A |
-| 16 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 17 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 18 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
-| 19 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 20 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 21 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
-| 22 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 23 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 24 | [المنتخب المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | N/A |
-| 25 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 26 | [المرتبه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 27 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
-| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 29 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 30 | [خطاب الكراهيه](http://twitter.com/search?q=%d8%ae%d8%b7%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%87%d9%8a%d9%87) | N/A |
-| 31 | [كاس العرب](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 32 | [الفريق الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 9 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
+| 10 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 11 | [اللاعب المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | N/A |
+| 12 | [المنتخب الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 13 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 14 | [الطاقه الكهرونوويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%83%d9%87%d8%b1%d9%88%d9%86%d9%88%d9%88%d9%8a%d9%87) | N/A |
+| 15 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
+| 16 | [سعد بوعقبة](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%88%d8%b9%d9%82%d8%a8%d8%a9) | N/A |
+| 17 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 18 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
+| 19 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 20 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
+| 21 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 22 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
+| 23 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 24 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 25 | [المنتخب المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | N/A |
+| 26 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 27 | [المرتبه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%a8%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 28 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 30 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 31 | [خطاب الكراهيه](http://twitter.com/search?q=%d8%ae%d8%b7%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%87%d9%8a%d9%87) | N/A |
+| 32 | [كاس العرب](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
 | 33 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
-| 34 | [بكاس افريقيا](http://twitter.com/search?q=%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 35 | [Mahious](http://twitter.com/search?q=Mahious) | N/A |
-| 36 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
-| 37 | [للأهلي](http://twitter.com/search?q=%d9%84%d9%84%d8%a3%d9%87%d9%84%d9%8a) | N/A |
-| 38 | [المنطاد الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d8%a7%d8%af+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 39 | [الميلان](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d9%84%d8%a7%d9%86) | N/A |
-| 40 | [المنتخب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 41 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
-| 42 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
+| 34 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
+| 35 | [بكاس افريقيا](http://twitter.com/search?q=%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 36 | [Mahious](http://twitter.com/search?q=Mahious) | N/A |
+| 37 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 38 | [للأهلي](http://twitter.com/search?q=%d9%84%d9%84%d8%a3%d9%87%d9%84%d9%8a) | N/A |
+| 39 | [المنطاد الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d8%a7%d8%af+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
+| 40 | [الميلان](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d9%84%d8%a7%d9%86) | N/A |
+| 41 | [المنتخب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 42 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
 | 43 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
 | 44 | [علي الاقل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
 | 45 | [ملعب نيلسون مانديلا](http://twitter.com/search?q=%d9%85%d9%84%d8%b9%d8%a8+%d9%86%d9%8a%d9%84%d8%b3%d9%88%d9%86+%d9%85%d8%a7%d9%86%d8%af%d9%8a%d9%84%d8%a7) | N/A |
 | 46 | [الدار البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
 | 47 | [البطوله العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 48 | [الجماهير الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 49 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
-| 50 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 49 | [الفريق الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 50 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
 
 
 
