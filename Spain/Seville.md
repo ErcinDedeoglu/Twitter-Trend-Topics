@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-02-06 12:18:13 UTC`
+📆 Last Updated: `2023-02-06 13:25:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 2 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 2 | [sampaoli](http://twitter.com/search?q=sampaoli) | N/A |
 | 3 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 4 | [#LanzamientoPOCO](http://twitter.com/search?q=%23LanzamientoPOCO) | N/A |
-| 5 | [Froilán](http://twitter.com/search?q=Froil%c3%a1n) | Froilán is a Spanish name derived from the Germanic name Fridulph, which means "peaceful wolf". It is also a common given name in Spanish-speaking countries. |
-| 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 7 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 8 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
-| 9 | [#ExigimosSoluciones](http://twitter.com/search?q=%23ExigimosSoluciones) | N/A |
-| 10 | [Jorge Vilda](http://twitter.com/search?q=Jorge+Vilda) | N/A |
-| 11 | [#ECIgamingKirbyDreamLand](http://twitter.com/search?q=%23ECIgamingKirbyDreamLand) | N/A |
-| 12 | [#APOYOROCIO6F](http://twitter.com/search?q=%23APOYOROCIO6F) | N/A |
-| 13 | [La Manada](http://twitter.com/search?q=La+Manada) | N/A |
-| 14 | [La Audiencia de Navarra](http://twitter.com/search?q=La+Audiencia+de+Navarra) | N/A |
-| 15 | [Batería](http://twitter.com/search?q=Bater%c3%ada) | N/A |
+| 4 | [Froilán](http://twitter.com/search?q=Froil%c3%a1n) | Froilán is a Spanish name derived from the Germanic name Fridulph, which means "peaceful wolf". It is also a common given name in Spanish-speaking countries. |
+| 5 | [#LanzamientoPOCO](http://twitter.com/search?q=%23LanzamientoPOCO) | N/A |
+| 6 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 7 | [#DiaTeHaceElCarro](http://twitter.com/search?q=%23DiaTeHaceElCarro) | N/A |
+| 8 | [#ECIgamingKirbyDreamLand](http://twitter.com/search?q=%23ECIgamingKirbyDreamLand) | N/A |
+| 9 | [Hogwarts Legacy](http://twitter.com/search?q=Hogwarts+Legacy) | N/A |
+| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 11 | [Vilda](http://twitter.com/search?q=Vilda) | N/A |
+| 12 | [#rugbysevilla](http://twitter.com/search?q=%23rugbysevilla) | N/A |
+| 13 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 14 | [La Manada](http://twitter.com/search?q=La+Manada) | N/A |
+| 15 | [La Audiencia de Navarra](http://twitter.com/search?q=La+Audiencia+de+Navarra) | N/A |
 | 16 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 17 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 18 | [Baiona](http://twitter.com/search?q=Baiona) | N/A |
+| 17 | [Baiona](http://twitter.com/search?q=Baiona) | N/A |
+| 18 | [Abu Dabi](http://twitter.com/search?q=Abu+Dabi) | Abu Dhabi is the capital and the second most populous city of the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the largest of the seven emirates. The word "Abu Dhabi" translates to "Father of Gazelle" in English. |
 | 19 | [Borbón](http://twitter.com/search?q=Borb%c3%b3n) | N/A |
-| 20 | [Abu Dabi](http://twitter.com/search?q=Abu+Dabi) | Abu Dhabi is the capital and the second most populous city of the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the largest of the seven emirates. The word "Abu Dhabi" translates to "Father of Gazelle" in English. |
-| 21 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 22 | [Paco González](http://twitter.com/search?q=Paco+Gonz%c3%a1lez) | N/A |
+| 20 | [Batería](http://twitter.com/search?q=Bater%c3%ada) | N/A |
+| 21 | [david gonzález](http://twitter.com/search?q=david+gonz%c3%a1lez) | N/A |
+| 22 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
 | 23 | [Manolo Lama](http://twitter.com/search?q=Manolo+Lama) | N/A |
-| 24 | [Teide](http://twitter.com/search?q=Teide) | N/A |
-| 25 | [Racista](http://twitter.com/search?q=Racista) | N/A |
-| 26 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
-| 27 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 28 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 29 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 30 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 31 | [Lunes 6](http://twitter.com/search?q=Lunes+6) | N/A |
-| 32 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
-| 33 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 34 | [Pontevedra](http://twitter.com/search?q=Pontevedra) | N/A |
-| 35 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 36 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 37 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 38 | [#MutilaciónGenitalFemenina](http://twitter.com/search?q=%23Mutilaci%c3%b3nGenitalFemenina) | N/A |
-| 39 | [#Solos6F](http://twitter.com/search?q=%23Solos6F) | N/A |
-| 40 | [#VictoriaTotal](http://twitter.com/search?q=%23VictoriaTotal) | N/A |
-| 41 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
-| 42 | [#YoMeRebelo6F](http://twitter.com/search?q=%23YoMeRebelo6F) | N/A |
-| 43 | [#EndFGM](http://twitter.com/search?q=%23EndFGM) | N/A |
-| 44 | [#LunesDeOjos](http://twitter.com/search?q=%23LunesDeOjos) | N/A |
-| 45 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 46 | [#MadridSeLevantaEl12F](http://twitter.com/search?q=%23MadridSeLevantaEl12F) | N/A |
+| 24 | [Paco González](http://twitter.com/search?q=Paco+Gonz%c3%a1lez) | N/A |
+| 25 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 26 | [Racista](http://twitter.com/search?q=Racista) | N/A |
+| 27 | [Alejo](http://twitter.com/search?q=Alejo) | N/A |
+| 28 | [Auronplay](http://twitter.com/search?q=Auronplay) | N/A |
+| 29 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 30 | [Situación Sentimental](http://twitter.com/search?q=Situaci%c3%b3n+Sentimental) | N/A |
+| 31 | [Wismichu](http://twitter.com/search?q=Wismichu) | N/A |
+| 32 | [Teide](http://twitter.com/search?q=Teide) | N/A |
+| 33 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 34 | [Lunes 6](http://twitter.com/search?q=Lunes+6) | N/A |
+| 35 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 36 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 37 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 38 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 39 | [Patxi](http://twitter.com/search?q=Patxi) | N/A |
+| 40 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 41 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 42 | [Pontevedra](http://twitter.com/search?q=Pontevedra) | N/A |
+| 43 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 44 | [#MutilaciónGenitalFemenina](http://twitter.com/search?q=%23Mutilaci%c3%b3nGenitalFemenina) | N/A |
+| 45 | [#ExigimosSoluciones](http://twitter.com/search?q=%23ExigimosSoluciones) | N/A |
+| 46 | [#APOYOROCIO6F](http://twitter.com/search?q=%23APOYOROCIO6F) | N/A |
+| 47 | [#Solos6F](http://twitter.com/search?q=%23Solos6F) | N/A |
+| 48 | [#MutilarEsMaltratar](http://twitter.com/search?q=%23MutilarEsMaltratar) | N/A |
+| 49 | [#YoMeRebelo6F](http://twitter.com/search?q=%23YoMeRebelo6F) | N/A |
+| 50 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-02-06 12:18:04 UTC`
+📆 Last Updated: `2023-02-06 13:24:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Peru](</Peru>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 2 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 3 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 4 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
-| 5 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 6 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 7 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
-| 8 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 9 | [#AttackOnBangtanToNo1](http://twitter.com/search?q=%23AttackOnBangtanToNo1) | #AttackOnBangtanToNo1 is a hashtag used by fans of the South Korean boy band BTS to promote their music and help them reach the top of the music charts. The phrase "Attack on Bangtan" is a play on words, combining the words "attack" and "Bangtan," which is the name of BTS's fan club. The hashtag is used to encourage fans to stream and purchase BTS's music in order to help them reach number one on various music charts. |
-| 10 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
-| 11 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 12 | [#PrimeroDios](http://twitter.com/search?q=%23PrimeroDios) | N/A |
-| 13 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 14 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 2 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 3 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 4 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
+| 5 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 6 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 7 | [#AttackOnBangtanToNo1](http://twitter.com/search?q=%23AttackOnBangtanToNo1) | #AttackOnBangtanToNo1 is a hashtag used by fans of the South Korean boy band BTS to promote their music and help them reach the top of the music charts. The phrase "Attack on Bangtan" is a play on words, combining the words "attack" and "Bangtan," which is the name of BTS's fan club. The hashtag is used to encourage fans to stream and purchase BTS's music in order to help them reach number one on various music charts. |
+| 8 | [BTS ARE UNTOUCHABLE](http://twitter.com/search?q=BTS+ARE+UNTOUCHABLE) | BTS ARE UNTOUCHABLE is a phrase used to describe the immense success and popularity of the South Korean boy band BTS. It implies that their success is so great that it cannot be matched or surpassed by any other group. |
+| 9 | [#CuzWeGotFire](http://twitter.com/search?q=%23CuzWeGotFire) | N/A |
+| 10 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 11 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
+| 12 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 13 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 14 | [#PrimeroDios](http://twitter.com/search?q=%23PrimeroDios) | N/A |
 | 15 | [Biyin](http://twitter.com/search?q=Biyin) | Biyin is a Chinese word that means "beautiful sound". It is often used to describe the sound of music or nature. |
 | 16 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 | 17 | [BTS OUR FOREVER ARTIST](http://twitter.com/search?q=BTS+OUR+FOREVER+ARTIST) | N/A |
 | 18 | [BTS OUR PRIDE](http://twitter.com/search?q=BTS+OUR+PRIDE) | N/A |
 | 19 | [FOCUS ON BTS](http://twitter.com/search?q=FOCUS+ON+BTS) | N/A |
-| 20 | [Judá](http://twitter.com/search?q=Jud%c3%a1) | N/A |
-| 21 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
-| 22 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 23 | [My Universe](http://twitter.com/search?q=My+Universe) | N/A |
-| 24 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
-| 25 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 26 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 20 | [My Universe](http://twitter.com/search?q=My+Universe) | N/A |
+| 21 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 22 | [Harry's House](http://twitter.com/search?q=Harry%27s+House) | Harry's House is a phrase used to describe a place of refuge, safety, and comfort. It is often used to refer to a home or other place where someone can go to feel secure and relaxed. |
+| 23 | [Judá](http://twitter.com/search?q=Jud%c3%a1) | N/A |
+| 24 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 25 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 27 | [Cuarto Poder](http://twitter.com/search?q=Cuarto+Poder) | N/A |
-| 28 | [Song of the Year](http://twitter.com/search?q=Song+of+the+Year) | Song of the Year is an award given to a songwriter or artist for having the best song of the year. It is usually awarded by music industry organizations such as the Recording Industry Association of America (RIAA) or the British Phonographic Industry (BPI). The award recognizes the artist's creative and commercial success in their respective genre. |
-| 29 | [TXT TEMPTATION BILLBOARD 200](http://twitter.com/search?q=TXT+TEMPTATION+BILLBOARD+200) | TXT TEMPTATION BILLBOARD 200 is a chart of the top 200 songs in South Korea, based on the weekly sales of digital downloads and streaming. It is compiled by Billboard Korea and published every Monday. |
-| 30 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 28 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 29 | [AOTY](http://twitter.com/search?q=AOTY) | AOTY stands for Album of the Year. It is an award given to the best album released in a particular year. |
+| 30 | [TXT TEMPTATION BILLBOARD 200](http://twitter.com/search?q=TXT+TEMPTATION+BILLBOARD+200) | TXT TEMPTATION BILLBOARD 200 is a chart of the top 200 songs in South Korea, based on the weekly sales of digital downloads and streaming. It is compiled by Billboard Korea and published every Monday. |
 | 31 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 32 | [BTS IS COMING SOON](http://twitter.com/search?q=BTS+IS+COMING+SOON) | N/A |
-| 33 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
-| 34 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 36 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 32 | [Tomás Unger](http://twitter.com/search?q=Tom%c3%a1s+Unger) | N/A |
+| 33 | [bts is coming soon](http://twitter.com/search?q=bts+is+coming+soon) | N/A |
+| 34 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
+| 35 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 36 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 37 | [Equal Sign](http://twitter.com/search?q=Equal+Sign) | N/A |
-| 38 | [Tomás Unger](http://twitter.com/search?q=Tom%c3%a1s+Unger) | N/A |
-| 39 | [harries](http://twitter.com/search?q=harries) | N/A |
-| 40 | [TE AMO HARRY](http://twitter.com/search?q=TE+AMO+HARRY) | N/A |
-| 41 | [charito](http://twitter.com/search?q=charito) | N/A |
-| 42 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 43 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 44 | [Album of the Year](http://twitter.com/search?q=Album+of+the+Year) | Album of the Year is an award given to the best album released in a particular year. It is usually awarded by music critics, music magazines, or other organizations. The award recognizes the artist's creative achievement and commercial success for their album. |
-| 45 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 46 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
-| 47 | [Unholy](http://twitter.com/search?q=Unholy) | Unholy is an adjective that means wicked, immoral, or sinful. It is often used to describe something that is considered to be blasphemous or sacrilegious. |
-| 48 | [Sol Carreño](http://twitter.com/search?q=Sol+Carre%c3%b1o) | N/A |
-| 49 | [Paola Ugaz](http://twitter.com/search?q=Paola+Ugaz) | N/A |
-| 50 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 38 | [Song of the Year](http://twitter.com/search?q=Song+of+the+Year) | Song of the Year is an award given to a songwriter or artist for having the best song of the year. It is usually awarded by music industry organizations such as the Recording Industry Association of America (RIAA) or the British Phonographic Industry (BPI). The award recognizes the artist's creative and commercial success in their respective genre. |
+| 39 | [te amo harry](http://twitter.com/search?q=te+amo+harry) | N/A |
+| 40 | [charito](http://twitter.com/search?q=charito) | N/A |
+| 41 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 42 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 43 | [harries](http://twitter.com/search?q=harries) | N/A |
+| 44 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 45 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 46 | [Unholy](http://twitter.com/search?q=Unholy) | Unholy is an adjective that means wicked, immoral, or sinful. It is often used to describe something that is considered to be blasphemous or sacrilegious. |
+| 47 | [Paola Ugaz](http://twitter.com/search?q=Paola+Ugaz) | N/A |
+| 48 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 49 | [Villaran](http://twitter.com/search?q=Villaran) | N/A |
+| 50 | [Stevie Wonder](http://twitter.com/search?q=Stevie+Wonder) | N/A |
 
 
 

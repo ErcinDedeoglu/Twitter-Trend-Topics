@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-06 12:18:47 UTC`
+📆 Last Updated: `2023-02-06 13:25:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Poland
 | 4 | [#Turkey](http://twitter.com/search?q=%23Turkey) | #Turkey is a hashtag used on social media to refer to the country of Turkey. It is used to tag posts related to the country, its culture, news, and other topics. |
 | 5 | [Richtera](http://twitter.com/search?q=Richtera) | N/A |
 | 6 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
-| 7 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
-| 8 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
-| 9 | [agrounią](http://twitter.com/search?q=agrouni%c4%85) | N/A |
-| 10 | [#LPOMIE](http://twitter.com/search?q=%23LPOMIE) | N/A |
-| 11 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 8 | [#HogwartsLegacy](http://twitter.com/search?q=%23HogwartsLegacy) | N/A |
+| 9 | [Porozumienie](http://twitter.com/search?q=Porozumienie) | N/A |
+| 10 | [Dubiel](http://twitter.com/search?q=Dubiel) | N/A |
+| 11 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 12 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 13 | [Sękacz](http://twitter.com/search?q=S%c4%99kacz) | N/A |
-| 14 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
-| 15 | [Markach](http://twitter.com/search?q=Markach) | N/A |
-| 16 | [Gowina](http://twitter.com/search?q=Gowina) | N/A |
-| 17 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
-| 18 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
-| 19 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 20 | [Miziołek](http://twitter.com/search?q=Mizio%c5%82ek) | N/A |
-| 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 22 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 23 | [RAZEM](http://twitter.com/search?q=RAZEM) | N/A |
-| 24 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 25 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 26 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 27 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 28 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 29 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 30 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
-| 31 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
-| 32 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 33 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 34 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 35 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 36 | [Sejm](http://twitter.com/search?q=Sejm) | N/A |
-| 37 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
-| 38 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
-| 39 | [Jędza](http://twitter.com/search?q=J%c4%99dza) | N/A |
-| 40 | [Budka](http://twitter.com/search?q=Budka) | N/A |
-| 41 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 42 | [Gawła](http://twitter.com/search?q=Gaw%c5%82a) | N/A |
-| 43 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 44 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
-| 45 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 46 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 47 | [Championship](http://twitter.com/search?q=Championship) | N/A |
-| 48 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 49 | [Jakub Kamiński](http://twitter.com/search?q=Jakub+Kami%c5%84ski) | N/A |
-| 50 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 13 | [Jabłoński](http://twitter.com/search?q=Jab%c5%82o%c5%84ski) | N/A |
+| 14 | [AgroUnią](http://twitter.com/search?q=AgroUni%c4%85) | N/A |
+| 15 | [Gowina](http://twitter.com/search?q=Gowina) | N/A |
+| 16 | [Mazurek](http://twitter.com/search?q=Mazurek) | N/A |
+| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 18 | [Razem](http://twitter.com/search?q=Razem) | N/A |
+| 19 | [HUSAR](http://twitter.com/search?q=HUSAR) | N/A |
+| 20 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 21 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 22 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 23 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 24 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 25 | [Championship](http://twitter.com/search?q=Championship) | N/A |
+| 26 | [Mazurka](http://twitter.com/search?q=Mazurka) | N/A |
+| 27 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
+| 28 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 29 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 30 | [Wprost](http://twitter.com/search?q=Wprost) | N/A |
+| 31 | [Gaziantep](http://twitter.com/search?q=Gaziantep) | N/A |
+| 32 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 33 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
+| 34 | [Marcinek](http://twitter.com/search?q=Marcinek) | N/A |
+| 35 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 36 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
+| 37 | [Lake Placid](http://twitter.com/search?q=Lake+Placid) | N/A |
+| 38 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 39 | [Budka](http://twitter.com/search?q=Budka) | N/A |
+| 40 | [Zandberg](http://twitter.com/search?q=Zandberg) | N/A |
+| 41 | [sylwia przybysz](http://twitter.com/search?q=sylwia+przybysz) | N/A |
+| 42 | [Poniedziałek](http://twitter.com/search?q=Poniedzia%c5%82ek) | N/A |
+| 43 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 44 | [Sokołów](http://twitter.com/search?q=Soko%c5%82%c3%b3w) | N/A |
+| 45 | [graneruda](http://twitter.com/search?q=graneruda) | N/A |
+| 46 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 47 | [Juventusu](http://twitter.com/search?q=Juventusu) | N/A |
+| 48 | [wypij](http://twitter.com/search?q=wypij) | N/A |
+| 49 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 50 | [bemowie](http://twitter.com/search?q=bemowie) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-02-06 12:18:26 UTC`
+📆 Last Updated: `2023-02-06 13:25:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 5 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
 | 6 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
 | 7 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 8 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
-| 9 | [#PervezMusharraf](http://twitter.com/search?q=%23PervezMusharraf) | #PervezMusharraf is a hashtag used to refer to former Pakistani President Pervez Musharraf. It is used to discuss news and topics related to him. |
-| 10 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 11 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 12 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 13 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
-| 14 | [عبدالله حمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ad%d9%85%d8%af) | N/A |
-| 15 | [القمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 16 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 17 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 18 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
-| 19 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 20 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 21 | [البا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7) | البا is an Arabic word that means "the letter B". |
-| 22 | [روميرو](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d9%8a%d8%b1%d9%88) | روميرو (Romero) is a Spanish surname derived from the Latin name Romerius. It is a patronymic surname, meaning "son of Romero". In English, the name would be translated as "son of Romero". |
-| 23 | [علي صالح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 24 | [فارس خليل](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 25 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 8 | [الرييسين السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 9 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 10 | [#Turkiye](http://twitter.com/search?q=%23Turkiye) | N/A |
+| 11 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 12 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 13 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 14 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
+| 15 | [عبدالله حمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ad%d9%85%d8%af) | N/A |
+| 16 | [القمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 17 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
+| 18 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 19 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 20 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 21 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 22 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 23 | [روميرو](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d9%8a%d8%b1%d9%88) | روميرو (Romero) is a Spanish surname derived from the Latin name Romerius. It is a patronymic surname, meaning "son of Romero". In English, the name would be translated as "son of Romero". |
+| 24 | [علي صالح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
+| 25 | [فارس خليل](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
 | 26 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 27 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 28 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
-| 29 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
-| 30 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 31 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 32 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 33 | [ايريك](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d9%8a%d9%83) | N/A |
-| 34 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
-| 35 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 36 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 37 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 38 | [ماريانو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d8%a7%d9%86%d9%88) | ماريانو is a type of Italian pizza. It is made with tomato sauce, mozzarella cheese, and basil. In English, it is known as a Margherita pizza. |
-| 39 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
-| 40 | [رييس الدوله](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 41 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 42 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 43 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
-| 44 | [التنوع الحيوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%88%d8%b9+%d8%a7%d9%84%d8%ad%d9%8a%d9%88%d9%8a) | N/A |
-| 45 | [المنطاد الصيني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d8%a7%d8%af+%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a) | N/A |
-| 46 | [الجزيرة](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9) | N/A |
+| 27 | [الرييس التركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a) | N/A |
+| 28 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
+| 29 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
+| 30 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [الهزه الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 32 | [الكوارث الطبيعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%ab+%d8%a7%d9%84%d8%b7%d8%a8%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
+| 33 | [أردوغان](http://twitter.com/search?q=%d8%a3%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 34 | [ايريك](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d9%8a%d9%83) | N/A |
+| 35 | [المناطق المتضرره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d8%aa%d8%b6%d8%b1%d8%b1%d9%87) | N/A |
+| 36 | [رييس الدوله](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 37 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 38 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 39 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 40 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 41 | [ماريانو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d8%a7%d9%86%d9%88) | ماريانو is a type of Italian pizza. It is made with tomato sauce, mozzarella cheese, and basil. In English, it is known as a Margherita pizza. |
+| 42 | [Kargil](http://twitter.com/search?q=Kargil) | Kargil is a town in the Kargil district of the Indian state of Jammu and Kashmir. It is located on the banks of the Suru River, which is a tributary of the Indus River. The name Kargil is derived from two words, "Khar" meaning castle and "Gul" meaning flower or rose. In English, Kargil means "castle of roses". |
+| 43 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 44 | [الشمال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 45 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
+| 46 | [التنوع الحيوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d9%88%d8%b9+%d8%a7%d9%84%d8%ad%d9%8a%d9%88%d9%8a) | N/A |
 | 47 | [العمليات المشتركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%87) | N/A |
 | 48 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
 | 49 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 50 | [لبرشلونة](http://twitter.com/search?q=%d9%84%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | N/A |
+| 50 | [الجزيرة](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d8%a9) | N/A |
 
 
 

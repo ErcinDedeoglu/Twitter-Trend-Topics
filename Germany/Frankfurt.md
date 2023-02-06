@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-02-06 12:18:10 UTC`
+📆 Last Updated: `2023-02-06 13:25:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 2 | [#Erdbeben](http://twitter.com/search?q=%23Erdbeben) | N/A |
-| 3 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 2 | [#AnneWill](http://twitter.com/search?q=%23AnneWill) | N/A |
+| 3 | [#Fischer](http://twitter.com/search?q=%23Fischer) | N/A |
 | 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 5 | [#GRAMMYs](http://twitter.com/search?q=%23GRAMMYs) | #GRAMMYs is an abbreviation for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers and other musical professionals. The awards are given in a variety of categories, including Record of the Year, Album of the Year and Song of the Year. |
-| 6 | [#wobfcb](http://twitter.com/search?q=%23wobfcb) | N/A |
-| 7 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 7 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 8 | [#wobfcb](http://twitter.com/search?q=%23wobfcb) | N/A |
 | 9 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
 | 10 | [Ahrtal](http://twitter.com/search?q=Ahrtal) | N/A |
-| 11 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 12 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
-| 13 | [jahre afd](http://twitter.com/search?q=jahre+afd) | N/A |
-| 14 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 15 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 16 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 17 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 18 | [karat](http://twitter.com/search?q=karat) | N/A |
-| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 20 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 21 | [Beschäftigten](http://twitter.com/search?q=Besch%c3%a4ftigten) | N/A |
-| 22 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
-| 23 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 24 | [Grenzregion](http://twitter.com/search?q=Grenzregion) | N/A |
-| 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 11 | [Diehl](http://twitter.com/search?q=Diehl) | N/A |
+| 12 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 13 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 14 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 15 | [Jahre AfD](http://twitter.com/search?q=Jahre+AfD) | N/A |
+| 16 | [Christoph Daum](http://twitter.com/search?q=Christoph+Daum) | N/A |
+| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 18 | [Koka](http://twitter.com/search?q=Koka) | N/A |
+| 19 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 20 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
+| 21 | [Arcane](http://twitter.com/search?q=Arcane) | N/A |
+| 22 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 23 | [Wassereis](http://twitter.com/search?q=Wassereis) | N/A |
+| 24 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 25 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
 | 26 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 27 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
-| 28 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
-| 29 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
-| 30 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
-| 31 | [BLEACH](http://twitter.com/search?q=BLEACH) | N/A |
-| 32 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
-| 33 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 34 | [Laura Müller](http://twitter.com/search?q=Laura+M%c3%bcller) | N/A |
-| 35 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 36 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 37 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
-| 38 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
-| 39 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 40 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 41 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
-| 42 | [Verletzten](http://twitter.com/search?q=Verletzten) | N/A |
-| 43 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
+| 27 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 28 | [Verletzten](http://twitter.com/search?q=Verletzten) | N/A |
+| 29 | [BLEACH](http://twitter.com/search?q=BLEACH) | N/A |
+| 30 | [Karat](http://twitter.com/search?q=Karat) | N/A |
+| 31 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 32 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 33 | [Trümmern](http://twitter.com/search?q=Tr%c3%bcmmern) | N/A |
+| 34 | [Grenzregion](http://twitter.com/search?q=Grenzregion) | N/A |
+| 35 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 36 | [Individualverkehr](http://twitter.com/search?q=Individualverkehr) | N/A |
+| 37 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
+| 38 | [Flüchtlingsgipfel](http://twitter.com/search?q=Fl%c3%bcchtlingsgipfel) | N/A |
+| 39 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 40 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 41 | [Angehörigen](http://twitter.com/search?q=Angeh%c3%b6rigen) | N/A |
+| 42 | [Islamisten](http://twitter.com/search?q=Islamisten) | N/A |
+| 43 | [Laura Müller](http://twitter.com/search?q=Laura+M%c3%bcller) | N/A |
 | 44 | [Betroffenen](http://twitter.com/search?q=Betroffenen) | N/A |
-| 45 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 46 | [Robin Alexander](http://twitter.com/search?q=Robin+Alexander) | N/A |
-| 47 | [Labbadia](http://twitter.com/search?q=Labbadia) | N/A |
-| 48 | [Zahl der Toten](http://twitter.com/search?q=Zahl+der+Toten) | N/A |
-| 49 | [Südosten](http://twitter.com/search?q=S%c3%bcdosten) | N/A |
-| 50 | [Volksverdummung](http://twitter.com/search?q=Volksverdummung) | N/A |
+| 45 | ['Überraschung'](http://twitter.com/search?q=%27%c3%9cberraschung%27) | N/A |
+| 46 | [ÖPNV](http://twitter.com/search?q=%c3%96PNV) | N/A |
+| 47 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 48 | [Südosten](http://twitter.com/search?q=S%c3%bcdosten) | N/A |
+| 49 | [Mittagspause](http://twitter.com/search?q=Mittagspause) | N/A |
+| 50 | [Grenzgebiet](http://twitter.com/search?q=Grenzgebiet) | N/A |
 
 
 
