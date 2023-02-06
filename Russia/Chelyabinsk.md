@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chelyabinsk
 
-📆 Last Updated: `2023-02-06 01:44:33 UTC`
+📆 Last Updated: `2023-02-06 02:36:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Users](http://twitter.com/search?q=Users) | N/A |
-| 2 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
+| 1 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
+| 2 | [Users](http://twitter.com/search?q=Users) | N/A |
 | 3 | [Boss](http://twitter.com/search?q=Boss) | N/A |
 | 4 | [Employ](http://twitter.com/search?q=Employ) | N/A |
 | 5 | [Announcement](http://twitter.com/search?q=Announcement) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for [Russia](</Russia>)
 | 15 | [#TVer](http://twitter.com/search?q=%23TVer) | N/A |
 | 16 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
 | 17 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
-| 18 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
+| 18 | [смотря](http://twitter.com/search?q=%d1%81%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
 | 19 | [нормально](http://twitter.com/search?q=%d0%bd%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 20 | [класс](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d1%81) | N/A |
 | 21 | [кошмар](http://twitter.com/search?q=%d0%ba%d0%be%d1%88%d0%bc%d0%b0%d1%80) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Russia](</Russia>)
 | 34 | [турции](http://twitter.com/search?q=%d1%82%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
 | 35 | [Слушай](http://twitter.com/search?q=%d0%a1%d0%bb%d1%83%d1%88%d0%b0%d0%b9) | N/A |
 | 36 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 37 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
+| 37 | [кстати](http://twitter.com/search?q=%d0%ba%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 | 38 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
 | 39 | [бали](http://twitter.com/search?q=%d0%b1%d0%b0%d0%bb%d0%b8) | N/A |
 | 40 | [понимаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Russia](</Russia>)
 | 44 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
 | 45 | [ПРОСТИ](http://twitter.com/search?q=%d0%9f%d0%a0%d0%9e%d0%a1%d0%a2%d0%98) | N/A |
 | 46 | [Хорошая](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
-| 47 | [ЕСТЕСТВЕННО](http://twitter.com/search?q=%d0%95%d0%a1%d0%a2%d0%95%d0%a1%d0%a2%d0%92%d0%95%d0%9d%d0%9d%d0%9e) | N/A |
+| 47 | [естественно](http://twitter.com/search?q=%d0%b5%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
 | 48 | [Санкт-Петербург](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bd%d0%ba%d1%82-%d0%9f%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3) | N/A |
 | 49 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
 | 50 | [илья](http://twitter.com/search?q=%d0%b8%d0%bb%d1%8c%d1%8f) | N/A |

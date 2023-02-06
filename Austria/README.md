@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-06 01:44:49 UTC`
+📆 Last Updated: `2023-02-06 02:36:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for Austria
 | 6 | [gleichbehandlungskommission](http://twitter.com/search?q=gleichbehandlungskommission) | N/A |
 | 7 | [Qualifikation](http://twitter.com/search?q=Qualifikation) | N/A |
 | 8 | [Bäumen](http://twitter.com/search?q=B%c3%a4umen) | N/A |
-| 9 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
-| 10 | [#ASKSKA](http://twitter.com/search?q=%23ASKSKA) | N/A |
+| 9 | [#askska](http://twitter.com/search?q=%23askska) | N/A |
+| 10 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
 | 11 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
 | 12 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
 | 13 | [#WOBFCB](http://twitter.com/search?q=%23WOBFCB) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Austria
 | 21 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 22 | [Talent](http://twitter.com/search?q=Talent) | N/A |
 | 23 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 24 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 25 | [U-Bahn](http://twitter.com/search?q=U-Bahn) | N/A |
+| 24 | [sebastian kurz](http://twitter.com/search?q=sebastian+kurz) | N/A |
+| 25 | [u-bahn](http://twitter.com/search?q=u-bahn) | N/A |
 | 26 | [Nachhinein](http://twitter.com/search?q=Nachhinein) | N/A |
 | 27 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
 | 28 | [Steuer](http://twitter.com/search?q=Steuer) | N/A |
 | 29 | [Tieren](http://twitter.com/search?q=Tieren) | N/A |
-| 30 | [Mond](http://twitter.com/search?q=Mond) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 33 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 34 | [Ansagen](http://twitter.com/search?q=Ansagen) | N/A |
-| 35 | [schnedlitz](http://twitter.com/search?q=schnedlitz) | N/A |
-| 36 | [kurier](http://twitter.com/search?q=kurier) | N/A |
-| 37 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
-| 38 | [Salz](http://twitter.com/search?q=Salz) | N/A |
-| 39 | [Wien Energie](http://twitter.com/search?q=Wien+Energie) | N/A |
-| 40 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 41 | [Armee](http://twitter.com/search?q=Armee) | N/A |
-| 42 | [Erkrankungen](http://twitter.com/search?q=Erkrankungen) | N/A |
-| 43 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
-| 44 | [Lebewesen](http://twitter.com/search?q=Lebewesen) | N/A |
-| 45 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
-| 46 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
-| 47 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 48 | [Experten](http://twitter.com/search?q=Experten) | N/A |
-| 49 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 50 | [Gürtel](http://twitter.com/search?q=G%c3%bcrtel) | N/A |
+| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 31 | [Studium](http://twitter.com/search?q=Studium) | N/A |
+| 32 | [abseits](http://twitter.com/search?q=abseits) | N/A |
+| 33 | [ansagen](http://twitter.com/search?q=ansagen) | N/A |
+| 34 | [schnedlitz](http://twitter.com/search?q=schnedlitz) | N/A |
+| 35 | [kurier](http://twitter.com/search?q=kurier) | N/A |
+| 36 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 37 | [Salz](http://twitter.com/search?q=Salz) | N/A |
+| 38 | [Wien Energie](http://twitter.com/search?q=Wien+Energie) | N/A |
+| 39 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 40 | [Armee](http://twitter.com/search?q=Armee) | N/A |
+| 41 | [Erkrankungen](http://twitter.com/search?q=Erkrankungen) | N/A |
+| 42 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
+| 43 | [Lebewesen](http://twitter.com/search?q=Lebewesen) | N/A |
+| 44 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
+| 45 | [guten morgen helmut](http://twitter.com/search?q=guten+morgen+helmut) | N/A |
+| 46 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 47 | [Experten](http://twitter.com/search?q=Experten) | N/A |
+| 48 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 49 | [Gürtel](http://twitter.com/search?q=G%c3%bcrtel) | N/A |
+| 50 | [Vollidioten](http://twitter.com/search?q=Vollidioten) | N/A |
 
 
 

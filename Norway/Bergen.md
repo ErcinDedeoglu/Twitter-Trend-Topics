@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-06 01:44:21 UTC`
+📆 Last Updated: `2023-02-06 02:36:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,8 +43,8 @@ This is top 50 for [Norway](</Norway>)
 | 26 | [HAVING NUN OF IT](http://twitter.com/search?q=HAVING+NUN+OF+IT) | Having nun of it is an expression used to indicate that someone is not interested in participating in something or has no intention of doing something. It is a play on the phrase "having none of it," which means to reject or refuse something. |
 | 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 28 | [skrellex](http://twitter.com/search?q=skrellex) | N/A |
-| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 30 | [Elsie Bay](http://twitter.com/search?q=Elsie+Bay) | N/A |
+| 29 | [elsie bay](http://twitter.com/search?q=elsie+bay) | N/A |
+| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 31 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
 | 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
@@ -53,7 +53,7 @@ This is top 50 for [Norway](</Norway>)
 | 36 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
 | 37 | [MATIP](http://twitter.com/search?q=MATIP) | N/A |
 | 38 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 39 | [gaute ormåsen](http://twitter.com/search?q=gaute+orm%c3%a5sen) | N/A |
+| 39 | [Gaute Ormåsen](http://twitter.com/search?q=Gaute+Orm%c3%a5sen) | N/A |
 | 40 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 41 | [Subwoolfer](http://twitter.com/search?q=Subwoolfer) | N/A |
 | 42 | [levanger](http://twitter.com/search?q=levanger) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-02-06 01:44:39 UTC`
+📆 Last Updated: `2023-02-06 02:36:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DEPREMOLDU](http://twitter.com/search?q=%23DEPREMOLDU) | #DEPREMOLDU is a Turkish hashtag that translates to "We are in depression". It is used to express feelings of sadness, despair, and hopelessness. |
-| 2 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
-| 3 | [#Gaziantep](http://twitter.com/search?q=%23Gaziantep) | N/A |
-| 4 | [Diyarbakır](http://twitter.com/search?q=Diyarbak%c4%b1r) | N/A |
-| 5 | [Elazığ](http://twitter.com/search?q=Elaz%c4%b1%c4%9f) | N/A |
+| 2 | [#Kahramanmaras](http://twitter.com/search?q=%23Kahramanmaras) | N/A |
+| 3 | [#Hatay](http://twitter.com/search?q=%23Hatay) | N/A |
+| 4 | [Türkiyem](http://twitter.com/search?q=T%c3%bcrkiyem) | N/A |
+| 5 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
 | 6 | [Tüm Türkiye](http://twitter.com/search?q=T%c3%bcm+T%c3%bcrkiye) | N/A |
-| 7 | [Uykudan](http://twitter.com/search?q=Uykudan) | N/A |
-| 8 | [Mardin](http://twitter.com/search?q=Mardin) | N/A |
-| 9 | [Merkez](http://twitter.com/search?q=Merkez) | N/A |
-| 10 | [Kahramanmaraş](http://twitter.com/search?q=Kahramanmara%c5%9f) | N/A |
+| 7 | [Elazığ](http://twitter.com/search?q=Elaz%c4%b1%c4%9f) | N/A |
+| 8 | [Merkez](http://twitter.com/search?q=Merkez) | N/A |
+| 9 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
+| 10 | [Uykudan](http://twitter.com/search?q=Uykudan) | N/A |
 | 11 | [Beşik](http://twitter.com/search?q=Be%c5%9fik) | N/A |
-| 12 | [Sallanıyoruz](http://twitter.com/search?q=Sallan%c4%b1yoruz) | N/A |
-| 13 | [Nevşehir](http://twitter.com/search?q=Nev%c5%9fehir) | N/A |
-| 14 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 15 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
-| 16 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [Hepimize](http://twitter.com/search?q=Hepimize) | N/A |
+| 13 | [Bütün Türkiye](http://twitter.com/search?q=B%c3%bct%c3%bcn+T%c3%bcrkiye) | N/A |
+| 14 | [Ya Rabbim](http://twitter.com/search?q=Ya+Rabbim) | N/A |
+| 15 | [Artçılar](http://twitter.com/search?q=Art%c3%a7%c4%b1lar) | N/A |
+| 16 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
+| 17 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
 | 18 | [Aksaray](http://twitter.com/search?q=Aksaray) | N/A |
-| 19 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
-| 20 | [Bingöl](http://twitter.com/search?q=Bing%c3%b6l) | N/A |
-| 21 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 22 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
-| 23 | [Bütün Türkiye](http://twitter.com/search?q=B%c3%bct%c3%bcn+T%c3%bcrkiye) | N/A |
-| 24 | [Trabzon'da](http://twitter.com/search?q=Trabzon%27da) | N/A |
-| 25 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 26 | [Bitlis](http://twitter.com/search?q=Bitlis) | N/A |
-| 27 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 28 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
-| 29 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
-| 30 | [Aman Allahım](http://twitter.com/search?q=Aman+Allah%c4%b1m) | N/A |
-| 31 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 32 | [Ankarada](http://twitter.com/search?q=Ankarada) | N/A |
-| 33 | [AFAD](http://twitter.com/search?q=AFAD) | N/A |
-| 34 | [Geçmiş Olsun](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f+Olsun) | N/A |
-| 35 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 36 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 37 | [YalancınınAdı YelizAçıkel](http://twitter.com/search?q=Yalanc%c4%b1n%c4%b1nAd%c4%b1+YelizA%c3%a7%c4%b1kel) | N/A |
-| 38 | [Olmazlaraİnat ElSed](http://twitter.com/search?q=Olmazlara%c4%b0nat+ElSed) | Olmazlaraİnat ElSed is a Turkish phrase that translates to "in spite of the impossible". It is often used as an expression of determination and resilience in the face of adversity. |
-| 39 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 40 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 41 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
-| 42 | [Hızlı](http://twitter.com/search?q=H%c4%b1zl%c4%b1) | Hızlı is a Turkish word meaning "fast" or "quick". |
-| 43 | [Çorum](http://twitter.com/search?q=%c3%87orum) | N/A |
-| 44 | [Erdoğan 3](http://twitter.com/search?q=Erdo%c4%9fan+3) | N/A |
-| 45 | [Van'da](http://twitter.com/search?q=Van%27da) | N/A |
-| 46 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 47 | [#FenereTransferYapın](http://twitter.com/search?q=%23FenereTransferYap%c4%b1n) | N/A |
-| 48 | [#sivas](http://twitter.com/search?q=%23sivas) | N/A |
+| 19 | [Göçük](http://twitter.com/search?q=G%c3%b6%c3%a7%c3%bck) | N/A |
+| 20 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 21 | [Nevşehir](http://twitter.com/search?q=Nev%c5%9fehir) | N/A |
+| 22 | [Sallanıyoruz](http://twitter.com/search?q=Sallan%c4%b1yoruz) | N/A |
+| 23 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
+| 24 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 25 | [Yardım](http://twitter.com/search?q=Yard%c4%b1m) | N/A |
+| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 27 | [Bingöl](http://twitter.com/search?q=Bing%c3%b6l) | N/A |
+| 28 | [Adres](http://twitter.com/search?q=Adres) | N/A |
+| 29 | [#AFAD](http://twitter.com/search?q=%23AFAD) | N/A |
+| 30 | [#Diyarbakir](http://twitter.com/search?q=%23Diyarbakir) | N/A |
+| 31 | [#Malatya](http://twitter.com/search?q=%23Malatya) | N/A |
+| 32 | [#Batman](http://twitter.com/search?q=%23Batman) | N/A |
+| 33 | [#Kandilli](http://twitter.com/search?q=%23Kandilli) | N/A |
+| 34 | [#mardin](http://twitter.com/search?q=%23mardin) | N/A |
+| 35 | [#sanliurfa](http://twitter.com/search?q=%23sanliurfa) | N/A |
+| 36 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 37 | [#FenereTransferYapın](http://twitter.com/search?q=%23FenereTransferYap%c4%b1n) | N/A |
+| 38 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 39 | [#Sivas](http://twitter.com/search?q=%23Sivas) | N/A |
+| 40 | [#Osmaniye](http://twitter.com/search?q=%23Osmaniye) | N/A |
+| 41 | [#ADIYAMAN](http://twitter.com/search?q=%23ADIYAMAN) | N/A |
+| 42 | [#erzurum](http://twitter.com/search?q=%23erzurum) | N/A |
+| 43 | [#siirt](http://twitter.com/search?q=%23siirt) | N/A |
+| 44 | [#antakya](http://twitter.com/search?q=%23antakya) | N/A |
+| 45 | [#acil](http://twitter.com/search?q=%23acil) | N/A |
+| 46 | [#tarsus](http://twitter.com/search?q=%23tarsus) | N/A |
+| 47 | [#KabinedenŞartsızEYT](http://twitter.com/search?q=%23Kabineden%c5%9earts%c4%b1zEYT) | N/A |
+| 48 | [#trabzon](http://twitter.com/search?q=%23trabzon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-06 01:44:20 UTC`
+📆 Last Updated: `2023-02-06 02:36:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,38 +30,38 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 13 | [Bounty](http://twitter.com/search?q=Bounty) | N/A |
 | 14 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
 | 15 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 16 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
-| 17 | [Rathgeb](http://twitter.com/search?q=Rathgeb) | N/A |
-| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 19 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
-| 20 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 21 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 22 | [zurigo](http://twitter.com/search?q=zurigo) | N/A |
-| 23 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
-| 24 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
+| 16 | [rathgeb](http://twitter.com/search?q=rathgeb) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Impfung](http://twitter.com/search?q=Impfung) | N/A |
+| 19 | [ARMY](http://twitter.com/search?q=ARMY) | N/A |
+| 20 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 21 | [zurigo](http://twitter.com/search?q=zurigo) | N/A |
+| 22 | [Argumente](http://twitter.com/search?q=Argumente) | N/A |
+| 23 | [Völkerrecht](http://twitter.com/search?q=V%c3%b6lkerrecht) | N/A |
+| 24 | [Idioten](http://twitter.com/search?q=Idioten) | N/A |
 | 25 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 26 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |
 | 27 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 28 | [Fieber](http://twitter.com/search?q=Fieber) | N/A |
-| 29 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
-| 30 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 31 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
-| 32 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 35 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | N/A |
-| 36 | [Filter](http://twitter.com/search?q=Filter) | N/A |
-| 37 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
-| 38 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 39 | [Kater](http://twitter.com/search?q=Kater) | N/A |
-| 40 | [Syria](http://twitter.com/search?q=Syria) | N/A |
-| 41 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
-| 42 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 43 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 44 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 45 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 46 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
-| 47 | [Troll](http://twitter.com/search?q=Troll) | N/A |
+| 28 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
+| 29 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 30 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | N/A |
+| 31 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
+| 32 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 33 | [vögel](http://twitter.com/search?q=v%c3%b6gel) | N/A |
+| 34 | [Filter](http://twitter.com/search?q=Filter) | N/A |
+| 35 | [Gleiche](http://twitter.com/search?q=Gleiche) | N/A |
+| 36 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
+| 37 | [Kater](http://twitter.com/search?q=Kater) | N/A |
+| 38 | [Syria](http://twitter.com/search?q=Syria) | N/A |
+| 39 | [Erfahrung](http://twitter.com/search?q=Erfahrung) | N/A |
+| 40 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
+| 41 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 42 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 43 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 44 | [Ehre](http://twitter.com/search?q=Ehre) | N/A |
+| 45 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
+| 46 | [Troll](http://twitter.com/search?q=Troll) | N/A |
+| 47 | [Armee](http://twitter.com/search?q=Armee) | N/A |
 
 
 
